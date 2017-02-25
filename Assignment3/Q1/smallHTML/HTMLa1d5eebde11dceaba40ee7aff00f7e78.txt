@@ -1,0 +1,275 @@
+ 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Hawaii Five-0 - Online FREE HD Quality</title>
+
+	<!-- Bootstrap -->
+	<link href="css/bootstrap.css" rel="stylesheet">
+	<link href="css/layouts.css" rel="stylesheet" type="text/css">
+	<link href="css/default.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" id="dash-css" href="css/font-awesome.min.css" type="text/css" media="all">
+
+	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+  </head>
+  <body>
+  	<div id="page home" class="home singlepage">
+
+  		<header id="header">
+  			<nav class="navbar navbar-default navbar-static-top" role="navigation">
+  				<div class="container">
+  					<div class="navbar-header">
+  						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">	
+  							<span class="sr-only">Toggle navigation</span>
+  							<span class="icon-bar"></span>
+  							<span class="icon-bar"></span>
+  							<span class="icon-bar"></span>
+  						</button>
+  						<a href="index.php" class="navbar-brand" title="ndelok movie">
+  							<div class="logos-img">
+  								<img src="images/logo.png" alt="ndelok movie" />
+  							</div>
+  							<div class="logos-desc">
+  								<h5>Online FREE HD Quality</h5>
+								<h6>Watch full Movies and TVSeries online FREE Streaming</h6>
+  							</div>
+  						</a>
+  					</div>
+
+  					<div id="navbar" class="navbar-collapse collapse">
+  						<ul class="nav navbar-nav navbar-right">
+                  <li class=""><a href="index.php">HOME</a></li>
+                  <li><a href="upcoming.php">Upcoming</a></li>
+                  <li><a href="tvshows.php">TvShow</a></li>
+                  <li><a href="signup.php">Signup</a></li>
+  							<li> 
+  								<form action="searchtv.php" method="get" class="navbar-form" role="search">
+  									<div class="input-group">
+  										<input type="text" class="form-control" placeholder="Search" name="q">
+  										<div class="input-group-btn">
+  											<button class="btn btn-default" type="submit"><i class="glyphicon glyphicon-search"></i></button>
+  										</div>
+  									</div>
+  								</form>
+  							</li>
+  						</ul>
+  					</div>
+  				</div>
+  			</nav>
+  		</header>
+
+  		<div id="main">
+  			<div class="container">
+  				<div class="content" id="primary">
+  					<div id="content">
+  						<header class="entry-header">
+  							<h3 class="entry-title ellip">
+  								<span itemprop="name">Hawaii Five-0  </span>
+  							</h3>
+  						</header>
+
+  						<div id="player">
+  							<div class="player-container"><div class="movie-loading" style="display: none;"><div class="movie-loader" style="display: block;"></div></div><a data-backdrop="static" data-target="#modal-login" data-toggle="modal" href="#login" class="bigplay"><span id="playnow" style="visibility: visible;"><i class="fa fa-play-circle-o"></i></span><img width="100%" height="720" alt="Hawaii Five-0" src="http://image.tmdb.org/t/p/w780/6j332yrTFPmew1lPuDKTWfWRMWN.jpg" class="impl"><span class="shadow"></span></a></div><div id="controls"><div class="controls-wraper"><div class="cplay"><span class="play inline "><i class="fa fa-play"></i></span></div><div class="volume"><i class="fa fa-volume-up"></i></div><div class="duration"><span class="dmax">0:42:17</span></div><div class="progress"><span class="buffering"> <!--<span class="progressbar"></span> --></span></div><div class="fullscreen"><i class="fa fa-arrows-alt"></i></div><div class="quality"><i class="fa fa-cog"></i><span class="hd">HD</span></div></div></div></div>
+  						</div>
+  					</div>
+
+
+  				</div>
+
+
+
+  			</div>
+
+  			<div id="aftermiddle " class="whitecolor">
+  				<div class="container container-entry-content">
+  					<div class="entry-content">
+  						<div class="text-center ec-desc-top">
+  							<div class="btn-group btn-group-lg">
+  								<a href="#login">
+  									<button data-backdrop="static" data-target="#modal-login" data-toggle="modal" class="btn btn-primary btn-ec-left"><span class="glyphicon glyphicon-save"></span>Download</button>
+  								</a>
+  								<a href="#login">
+  									<button data-backdrop="static" data-target="#modal-login" data-toggle="modal" class="btn btn-primary btn-ec-right"><span class="glyphicon glyphicon-play"></span>Watch HD</button>
+  								</a>
+  							</div>
+  						</div>
+  						<div id="info">
+  							<div id="table-content" class="info-box">
+
+  								<div class="hidden-md-down info-poster">
+  									<div class="ec-poster">
+  										<img alt="Hawaii Five-0" src="http://image.tmdb.org/t/p/w500/hO4BgEJhGIrFJ7f00sR6ZcdNB6y.jpg" class="poster-img" itemprop="image">
+  										<div itemtype="http://schema.org/AggregateRating" itemscope="" itemprop="aggregateRating" title="8.3 out of 10 stars" class="rating-star">
+  										</div>
+  										<a href="#login" class="idl"><span data-target="#modal-login" data-toggle="modal" ><i class="fa fa-cloud-download"></i>Download</span></a>
+  									</div>
+  								</div>
+
+  								<table id="movie-detail" class="info-detail">
+  									<tbody>
+  										<tr>
+  											<td class="storyline" colspan="3">
+  												<p itemprop="description">
+  													Steve McGarrett returns home to Oahu, in order to find his father's killer. The governor offers him the chance to run his own task force (Five-0). Steve's team is joined by Chin Ho Kelly, Danny "Danno" Williams, and Kono Kalakaua.  												</p>
+  											</td>
+  										</tr>
+  										<tr>
+  											<td class="tdtitle">
+  												<i class="fa"></i>Release Date
+  											</td>
+  											<td>
+  												:
+  											</td>
+  											<td>
+  												September 20, 2010  											</td>
+  										</tr>
+  										<tr>
+  											<td class="tdtitle">
+  												<i class="fa"></i>Runtime
+  											</td>
+  											<td>
+  												:
+  											</td>
+  											<td>
+  												<time itemprop="duration">42 minutes (0&#39; 42&quot;)</time>
+  											</td>
+  										</tr>
+  										<tr>
+  											<td class="tdtitle">
+  												<i class="fa"></i>Rating
+  											</td>
+  											<td>
+  												:
+  											</td>
+  											<td>
+  												<span content="5.9 / 88" itemprop="contentRating"></span>5.9 / 88  											</td>
+  										</tr>
+  										<tr>
+  											<td class="tdtitle">
+  												<i class="fa"></i>Genres
+  											</td>
+  											<td>
+  												:
+  											</td>
+  											<td>
+  												- Action<br />- Crime<br />- Drama<br />  											</td>
+  										</tr>
+  										<tr>
+  											<td class="tdtitle">
+  												<i class="fa"></i>Director
+  											</td>
+  											<td>
+  												:
+  											</td>
+  											<td>
+  												  											</td>
+  										</tr>
+  										
+  																			</tbody>
+								</table>
+
+								<div class="info-sosmed">
+									<p class="social hidden-900">
+										<img src="images/social.png"/>
+									</p>
+									<a href="#login" >
+                  <span data-target="#modal-login" data-toggle="modal" >
+										<img class="impo" src="images/download.png" />
+                    </span>
+									</a>
+								</div>
+
+								<iframe width="0" height="0" frameborder="0" allowfullscreen="" src="">
+								</iframe>
+							</div>
+						</div>
+
+					</div>
+				</div>
+			</div>
+
+		</div>
+
+		<footer id="footer">
+			<div class="container">
+
+
+				<div id="modal-login" class="modal fade">
+					<div class="modal-dialog">
+						<div id="login" class="modal-content">
+							<div class="top-content">
+								<h3>Attention!</h3>
+							</div>
+							<div class="bottom-content">
+								<p style="margin:10px;font-size:25px;" class="text-center">You must create <b style="color:red;">Free Account</b> <br/> to WATCH or DOWNLOAD Full Movie</p>
+								<p class="text-center">
+									<a href="signup.php?id=32798" class="btn btn-primary btn-lg modal-btn-reg">Register Free Account</a>
+								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="footerid">
+					<div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 copyright">
+						&copy;Copyright 2016 moviesmania.us. All right reserved.
+					</div>
+					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+						About us | <a href="dmca.html">DMCA</a> | Privacy | <a href="contact.php">Contact</a>
+					</div>
+				</div>
+			</div>
+		</footer>
+
+	</div>
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+	<script src="js/jquery-1.11.3.min.js"></script>
+
+	<!-- Include all compiled plugins (below), or include individual files as needed --> 
+	<script src="js/bootstrap.js"></script>
+
+
+	<script type="text/javascript" src="js/screenfull.min.js" defer></script>
+	<script type="text/javascript" src="js/cycle2-min.js" defer></script>
+	<script type="text/javascript" src="js/tile-min.js" defer></script>
+	<script type="text/javascript" src="js/owl.carousel.min.js" defer></script>
+	<script type="text/javascript" src="js/jquery.preloader.js" defer></script>
+	<script type="text/javascript" src="js/scripts.js" defer></script>
+	
+   <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,3456702,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?3456702&101" alt="histats.com" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+
+   <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,3345431,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?3345431&101" alt="site stats" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+
+</body>
+</html>

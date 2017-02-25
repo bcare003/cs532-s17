@@ -1,0 +1,307 @@
+<!doctype html>
+<html>
+<head>
+<title>Social Recruitment Strategy: Three Companies to Learn From - Chipotle</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" href="http://www.social-hire.com/img/favicon.gif" type="image/x-icon" />
+<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
+<link href="http://www.social-hire.com/style/main-stylesheet.css" rel="stylesheet" type="text/css">
+<script src="https://use.fontawesome.com/ef6557e5df.js"></script>
+<meta name="description" content="Social Recruitment Strategy: Three Companies to Learn From - Chipotle" > 
+<meta name="keywords" content="" >
+<meta property="og:title" content="Social Recruitment Strategy: Three Companies to Learn From - Chipotle" />
+<meta property="og:url" content="http://www.social-hire.com/blog/Recruitment/social-recruitment-strategy-three-companies-to-learn-from---chipotle/" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="Last time we discussed ANN INC.&rsquo;s dynamic and identity-driven social recruitment strategy; now..." />
+<meta property="og:image" content="http://www.social-hire.com/uploads/2nsxgf4.jpg" />
+<link rel="canonical" href="http://www.social-hire.com/blog/recruitment/social-recruitment-strategy-three-companies-to-learn-from---chipotle/" />
+<link rel="shortcut icon" href="img/favicon.gif" type="image/x-icon" />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		var websiteRoot = 'http://www.social-hire.com/';
+		// Main Navigation
+		$('#menuOpen').click(function() { $(this).hide(); $('#menuHide').show(); $('.menuOverlay').fadeIn(); });
+		$('#menuHide').click(function() { $(this).hide(); $('#menuOpen').show(); $('.menuOverlay').fadeOut(); });
+	});
+</script>
+
+<script src="//load.sumome.com/" data-sumo-site-id="592cdbe6f225160d3e6097607a378f1f613ab91bcf0eaccf7be455382d4bcd3f" async="async"></script
+>
+</head>
+ 
+<body>
+
+	<div id="top-bar">
+	<div class="container">
+		<a href="/" id="top-bar-logo"></a>
+		<a href="/" id="top-bar-logo-mobile"></a>
+		<i class="fa fa-bars" aria-hidden="true" id="menuOpen"></i>
+		<i class="fa fa-window-close-o" aria-hidden="true" id="menuHide"></i>
+		<div id="top-bar-nav"><a href="http://www.social-hire.com/">HOME</a> <a href="http://www.social-hire.com/pricing/">PRICING</a> <a href="http://www.social-hire.com/testimonials/">TESTIMONIALS</a> <a href="http://www.social-hire.com/webinars/">WEBINARS</a> <a href="http://www.social-hire.com/book-a-call/">BOOK A CALL</a> <a href="http://www.social-hire.com/blog/">BLOG</a></div>
+		<div class="clr"></div>
+	</div>
+</div>
+<div class="menuOverlay">
+  <div class="container">
+      <div class="menuHolder">
+          <a href="http://www.social-hire.com/">HOME</a> <a href="http://www.social-hire.com/pricing/">PRICING</a> <a href="http://www.social-hire.com/testimonials/">TESTIMONIALS</a> <a href="http://www.social-hire.com/webinars/">WEBINARS</a> <a href="http://www.social-hire.com/book-a-call/">BOOK A CALL</a> <a href="http://www.social-hire.com/blog/">BLOG</a>
+      </div>
+  </div>
+</div>
+	
+		<div id="blog-home-head">
+		
+		<div class="container">
+			
+			<div id="blog-head-cats">
+			
+								
+					<a href="/blog/recruitment">Recruitment</a>
+					
+								
+					<a href="/blog/small-business">Small Business</a>
+					
+								
+					<a href="/blog/candidate">Candidate</a>
+					
+								
+				<a href="/blog-contributors/" class="blog-contributors-link">Contributors</a>
+				<a href="/blog-contribution/" class="blog-login-link"><i class="fa fa-lock" aria-hidden="true"></i>&nbsp;&nbsp;Log In</a>
+				
+			</div>
+			
+			<div id="blog-head-search">
+				
+				<form action="/blog/" method="post"><input name="query" type="text" id="query" placeholder="Search"></form>
+				
+			</div>
+			
+			<div class="clr"></div>
+			
+		</div>
+		
+	</div>
+
+	
+	<div class="container">
+	
+		<div id="blog-post-content">
+		
+			<h1>Social Recruitment Strategy: Three Companies to Learn From - Chipotle</h1>
+			
+						
+			<h2>By <span style="color: #333;">Lindsay Shoemake, JWT INSIDE Account Coordinator</span></h2>
+			
+			<div class="a2a_kit a2a_kit_size_32 a2a_default_style" style="margin-top: 30px; margin-bottom: 30px;">
+				<span style="float: left;">Share on:&nbsp;</span> <a class="a2a_button_facebook"></a>
+				<a class="a2a_button_twitter"></a>
+				<a class="a2a_button_linkedin"></a>
+				<a class="a2a_button_google_plus"></a>
+				<a class="a2a_button_stumbleupon"></a>
+				<a class="a2a_button_digg"></a>
+				<a class="a2a_button_pinterest"></a>
+			</div>
+
+			<script async src="https://static.addtoany.com/menu/page.js"></script>
+			
+			<a href="#" class="blog-post-ad"><h1>HIRING A SOCIAL MEDIA MANAGER?</h1>
+<h2>Don't hire someone without first tuning in for this essential advice.</h2>
+
+<br /><br />
+
+<link href="//app.webinarjam.net/assets/css/register_button.css" rel="stylesheet"><div style="margin:auto;width:250px;"><div class="embedded-joinwebinar-button"><button type="button" class="btn btn-default css3button" title="regpopbox_12792_74fa6dd77e"><span>TELL ME MORE</span></button></div></div><script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js" language="javascript" type="text/javascript"></script><script src="//app.webinarjam.net/assets/js/porthole.min.js" language="javascript" type="text/javascript" async></script><script src="//app.webinarjam.net/register.evergreen.extra.js" language="javascript" type="text/javascript" async></script></a>
+												
+			<p>Last time we discussed <a href="http://jwti.co/ZnJJMcc">ANN INC.&rsquo;s</a> dynamic and identity-driven social recruitment strategy; now, we&rsquo;re venturing into the spicy social recruitment realm of <a href="http://www.chipotle.com/">Chipotle</a>, famed fast-casual restaurant brand and down-home burrito joint.</p>
+
+<p><a href="http://www.chipotle.com/careers">Chipotle Careers&rsquo;</a> recruitment strategy is just as straightforward as its food. With consistent messaging that encourages job seekers to &ldquo;start your career rolling&rdquo; and &ldquo;join Chipotle&rsquo;s people culture,&rdquo; the brand&rsquo;s social recruitment strategy hinges on exactly what matters most in the hiring process &ndash; the <em>people</em>.</p>
+
+<p>Let&rsquo;s take a closer look and explore how Chipotle Careers expertly leverages its social strategy &ndash; I had the unique opportunity to chat with the brand&rsquo;s Recruitment Communications lead via email, who shared valuable insights on how to attract, retain and grow the best talent for its growing restaurant base and corporate positions.</p>
+
+<p><strong>Every career has a story. </strong><br />
+With one visit to Chipotle Careers&rsquo; <a href="http://www.chipotle.com/careers">recruitment site</a>, it&rsquo;s evident that the people are the most important part of the company. The site illustrates this in its <a href="http://www.chipotle.com/en-US/careers/real_stories/real_stories.aspx">&ldquo;Real Stories&rdquo;</a> section, which features the unique success stories of restaurant associates who have climbed the ranks of the company. This page is dynamic in that it is completely reflective of Chipotle&rsquo;s unique and diverse &ldquo;people culture.&rdquo;</p>
+
+<p>&ldquo;Chipotle has an amazing people culture built on hiring top performing employees, developing and empowering them to deliver an exceptional dining experience for our customers,&rdquo; Chipotle Recruitment Communications Specialist Jen Gamarano said. &ldquo;Much of our employment brand strategy is built around conveying that message to job seekers by allowing our employees to share their stories. We are not only in the food business, we are in the business of changing people&rsquo;s lives for the better and social media is a great platform for us to deliver that message.&rdquo;</p>
+
+<p>Another added value of the site? It allows applicants to track the status of their <a href="http://jobs.chipotle.com/">employment applications</a>, keeping them in the loop on every step of the hiring process.<br />
+<br />
+<img src="http://i59.tinypic.com/2nsxgf4.jpg" /><br />
+<em><span style="font-size:9px;">Source: www.chipotle.com/careers</span></em><br />
+<br />
+<strong><span style="line-height: 1.6em;">Get the conversation flowing organically.</span></strong><br />
+<span style="line-height: 1.6em;">Chipotle has long been hailed as a leader in creative social media endeavors (remember when they<a href="http://mashable.com/2013/07/24/chipotle-faked-twitter-hack/"> hacked their own Twitter account</a> in 2013?), and the brand&rsquo;s recruitment-specific Twitter account, <a href="http://www.twitter.com/chipotlecareers">@Chipotle</a><a href="http://www.twitter.com/chipotlejobs"><u>Jobs</u></a>, follows suit. @ChipotleJobs is an expert social listener and makes an active effort to <a href="https://twitter.com/ChipotleJobs/status/436228679769665537">follow&nbsp;up with each of its applicants</a> who mention&nbsp;the account &ndash; fostering a valuable brand-employer connection early in the hiring game.</span></p>
+
+<p>&ldquo;Social media is a great way for us to reach an audience of passive candidates that otherwise would not be actively searching for or applying for a new job,&rdquo; Gamarano said. &ldquo;It has provided us with an opportunity to engage directly with candidates to answer questions they might have before applying or during the interview process and has proven to be a great resource for generating employee referrals.&rdquo;<br />
+&nbsp;</p>
+
+<p><img src="http://i62.tinypic.com/j5hv8g.jpg" /><br />
+<span style="font-size:9px;"><em>Source: www.twitter.com/ChipotleJobs</em></span></p>
+
+<p>&nbsp;In addition, the Twitter account consistently implements relevant and location-specific hashtags, including #Chipotle, #recruiters, #quality and more. As if all of these engagement tactics weren&rsquo;t enough, compelling and recruitment-specific graphics are also used on Twitter to direct applicants to Chipotle&rsquo;s careers <a href="http://jobs.chipotle.com/">website</a>.<br />
+<br />
+How would Chipotle&rsquo;s recruitment team describe its people culture in 140 characters or less? &ldquo;A people culture as unique and incredible as your burrito. #unburritableworkplace,&rdquo; according to Gamarano.<br />
+<br />
+<em>Note: while writing this post I tweeted @ChipotleTweets and @ChipotleJobs, and they fired back a signature snarky @reply within minutes. Talk about great social media management!</em><br />
+<br />
+<img src="http://i60.tinypic.com/vmyplk.png" /><br />
+<br />
+<strong>Giving a face to corporate is a priority.</strong><br />
+At Chipotle, transparency between its corporate and restaurant employees is valued and highly encouraged. Chipotle Careers&rsquo; <a href="http://www.facebook.com/chipotlejobs">Facebook account</a> takes advantage of its timeline in a smart way, publishing mini-interviews with company thought-leaders and restaurant employees alike. In addition, the account&rsquo;s timeline is consistently updated in real-time as new positions open, which is a feat in and of itself &ndash; a new Chipotle restaurant opens every two days in the U.S.!<br />
+<br />
+<img src="http://i61.tinypic.com/29w46yx.jpg" /><br />
+<em><span style="font-size:9px;">Source: www.facebook.com/ChipotleJobs</span></em><br />
+<br />
+<strong>You&rsquo;ll know what it&rsquo;s like working at Chipotle before your first day.</strong><br />
+Chipotle Careers&rsquo; <a href="http://www.youtube.com/user/ChipotleCareers">YouTube channel</a> is a visual storyboard mecca for potential hires. The account&rsquo;s <a href="http://www.youtube.com/watch?v=gq3fp4riuHg&amp;list=PLE1C1C391C0C868FC&amp;feature=share">&ldquo;A Day in the Life</a>&rdquo; video paints an enticing narrative of what it&rsquo;s like working in a Chipotle restaurant, and also educates its viewers on the brand&rsquo;s business model and future management opportunities. A 2-minute video packs a punch with valuable insights and a human connection &ndash; isn&rsquo;t social media all about connections, anyway? Kudos, Chipotle.&nbsp;<br />
+<br />
+<img src="http://i59.tinypic.com/296g3kj.jpg" /><br />
+<br />
+<span style="line-height: 1.6em;">Other notable Chipotle social media accounts include their&nbsp;</span><a href="http://www.instagram.com/chipotlemexicangrill" style="line-height: 1.6em;">Instagram </a><span style="line-height: 1.6em;">and </span><a href="http://www.pinterest.com/chipotlemg" style="line-height: 1.6em;">Pinterest</a><span style="line-height: 1.6em;">; although they don&rsquo;t speak directly to recruitment, both are excellent visual tools for engagement and education on the brand. Keep up with Chipotle&rsquo;s social recruitment endeavors here:</span></p>
+
+<p>- <a href="http://www.chipotle.com/careers">Careers website</a><br />
+- <a href="http://www.twitter.com/chipotlejobs">Twitter</a><br />
+- <a href="http://www.facebook.com/chipotlejobs">Facebook</a><br />
+- <a href="http://www.youtube.com/user/ChipotleCareers">YouTube</a></p>
+
+<p>Tune in next week for the third and final part of the<strong> &ldquo;Social Recruitment Strategy: Three Companies to Learn From&rdquo;</strong> series.&nbsp;&nbsp;</p>			
+			<a href="javascript:history.go(-1);" class="blog-post-back"><i class="fa fa-arrow-circle-o-left" aria-hidden="true"></i>&nbsp;&nbsp;Back to Recruitment blogs</a>
+			
+		</div>
+		
+		<div id="comments">
+		
+			<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = '//social-hire-com.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                                
+			
+		</div>
+		
+    
+    
+    <div class="clr"></div>
+    
+    </div>
+
+	<div id="footer">
+		
+	<div class="container">
+
+		<div id="footer-left">
+
+			<img src="http://www.social-hire.com/img/logo.png" width="200" height="38" alt=""/>
+
+			<span>&copy; SOCIAL HIRE 2017 </span>
+
+		</div>
+
+	  <div id="footer-right">
+
+		  <div id="footer-nav"><a href="http://www.social-hire.com/">HOME</a> <a href="/pricing/">PRICING</a> <a href="/testimonials/">TESTIMONIALS</a> <a href="/webinars/">WEBINARS</a> <a href="/book-a-call/">BOOK A CALL</a> <a href="/blog/">BLOG</a><a href="/terms-and-conditions/">T's &amp; C's</a><a href="/privacy-policy/">PRIVACY</a><a href="/frequently-asked-questions/">FAQ</a></div>
+
+		  <div id="footer-social">
+			<a href="http://www.linkedin.com/company/social-hire-com" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+			<a href="https://plus.google.com/u/0/b/113848027679675231047/+Socialhirepage/posts" target="_blank"><i class="fa fa-google-plus" aria-hidden="true" target="_blank"></i></a>
+			<a href="https://www.pinterest.com/socialhire/" target="_blank"><i class="fa fa-pinterest" aria-hidden="true" target="_blank"></i></a>
+			<a href="https://www.facebook.com/socialhire" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true" target="_blank"></i></a>
+			<a href="http://twitter.com/social_hire" target="_blank"><i class="fa fa-twitter" aria-hidden="true" target="_blank"></i></a>
+			<a href="https://www.instagram.com/social_hire/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+		  </div>
+
+	  </div>
+
+	  <div class="clr"></div>
+	  
+	  <a href="http://www.bold-identities.com/" class="bold-production" target="_blank" title="A Bold Production">&nbsp;</a>
+
+  </div>
+
+</div>
+
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26303313-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();	
+	
+(function() {
+var _fbq = window._fbq || (window._fbq = []);
+if (!_fbq.loaded) {
+var fbds = document.createElement('script');
+fbds.async = true;
+fbds.src = '//connect.facebook.net/en_US/fbds.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(fbds, s);
+_fbq.loaded = true;
+}
+_fbq.push(['addPixelId', '922781171106016']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=922781171106016&amp;ev=PixelInitialized" /></noscript>
+
+<!-- Twitter universal website tag code -->
+<script>
+!function(e,n,u,a){e.twq||(a=e.twq=function(){a.exe?a.exe.apply(a,arguments):
+a.queue.push(arguments);},a.version='1',a.queue=[],t=n.createElement(u),
+t.async=!0,t.src='//static.ads-twitter.com/uwt.js',s=n.getElementsByTagName(u)[0],
+s.parentNode.insertBefore(t,s))}(window,document,'script');
+// Insert Twitter Pixel ID and Standard Event data below
+twq('init','nvedh');
+twq('track','PageView');
+</script>
+
+<!-- End Twitter universal website tag code -->
+
+<script type='text/javascript' charset='utf-8'>
+  window.liveSiteAsyncInit = function() {
+    LiveSite.init({
+      id : 'WI-TAQHXWHD6FDA10O33X3D'
+    });
+  };
+  (function(d, s, id){
+    var js, fjs = d.getElementsByTagName(s)[0],
+        p = (('https:' == d.location.protocol) ? 'https://' : 'http://'),
+        r = Math.floor(new Date().getTime() / 1000000);
+    if (d.getElementById(id)) {return;}
+    js = d.createElement(s); js.id = id;
+    js.src = p + "www.vcita.com/assets/livesite.js?" + r;
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'livesite-jssdk'));
+</script>
+
+
+<style type="text/css">
+	
+	.wh-widget-send-button-desktop { display: none !important; } 
+		
+		
+</style>	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js" language="javascript" type="text/javascript"></script><script src="//app.webinarjam.net/assets/js/porthole.min.js" language="javascript" type="text/javascript" async></script><script src="//app.webinarjam.net/register.evergreen.extra.js" language="javascript" type="text/javascript" async></script>
+
+<script id="dsq-count-scr" src="//social-hire.disqus.com/count.js" async></script>
+</body>
+</html>

@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+
+<html id="ie6" lang="en-US" prefix="og: http://ogp.me/ns#">
+
+<![endif]-->
+<!--[if IE 7]>
+
+<html id="ie7" lang="en-US" prefix="og: http://ogp.me/ns#">
+
+<![endif]-->
+<!--[if IE 8]>
+
+<html id="ie8" lang="en-US" prefix="og: http://ogp.me/ns#">
+
+<![endif]-->
+<!--[if IE 9]>
+
+<html id="ie9" lang="en-US" prefix="og: http://ogp.me/ns#">
+
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8) | !(IE 9) ]><!-->
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8"/>
+<title>Chipotle Throws Australian Beef Under the Bus | Marler Blog</title>
+<link rel="profile" href="http://gmpg.org/xfn/11"/>
+<!--[if lt IE 9]>
+<script src="http://www.marlerblog.com/wp-content/themes/b0000090-marlerblog/js/modernizr-1.7.min.js"></script>
+<script src="http://www.marlerblog.com/wp-content/themes/b0000090-marlerblog/js/selectivizr-min.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.marlerblog.com/wp-content/themes/b0000090-marlerblog/style.css"/>
+<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" media="screen" href="http://www.marlerblog.com/wp-content/themes/b0000090-marlerblog/ie7.css" />
+<![endif]-->
+<link rel="stylesheet" type="text/css" media="print" href="http://www.marlerblog.com/wp-content/themes/b0000090-marlerblog/print.css"/>
+<link rel="pingback" href=""/>
+<script type="text/javascript" src="//use.typekit.net/mzi1gfz.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link rel="shortcut icon" href="http://www.marlerblog.com/wp-content/themes/b0000090-marlerblog/favicon.ico"/>
+ 
+<link rel="canonical" href="http://www.marlerblog.com/legal-cases/chipotle-throws-australian-beef-under-the-bus/"/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="Chipotle Throws Australian Beef Under the Bus | Marler Blog"/>
+<meta property="og:description" content="I guess that would be &#8220;Down Under&#8221; the bus? And, Chipotle admits to violating the Federal Food, Drug and Cosmetic Act because it sold “adulterated” food because it was “prepared,... Continue Reading"/>
+<meta property="og:url" content="http://www.marlerblog.com/legal-cases/chipotle-throws-australian-beef-under-the-bus/"/>
+<meta property="og:site_name" content="Marler Blog"/>
+<meta property="article:tag" content="Food Safety Attorney"/>
+<meta property="article:tag" content="Food Safety Lawyer"/>
+<meta property="article:section" content="Legal Cases"/>
+<meta property="article:published_time" content="2016-02-05T11:17:28-08:00"/>
+<meta property="article:modified_time" content="2016-02-05T12:50:39-08:00"/>
+<meta property="og:updated_time" content="2016-02-05T12:50:39-08:00"/>
+<meta property="og:image" content="http://www.marlerblog.com/files/2016/02/bus-thrown-under-198636530.jpg"/>
+<meta property="og:image:width" content="4477"/>
+<meta property="og:image:height" content="3229"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:description" content="I guess that would be &#8220;Down Under&#8221; the bus? And, Chipotle admits to violating the Federal Food, Drug and Cosmetic Act because it sold “adulterated” food because it was “prepared,... Continue Reading"/>
+<meta name="twitter:title" content="Chipotle Throws Australian Beef Under the Bus | Marler Blog"/>
+<meta name="twitter:image" content="http://www.marlerblog.com/files/2016/02/bus-thrown-under-198636530.jpg"/>
+<meta name="twitter:creator" content="@bmarler"/>
+ 
+<link rel="alternate" type="application/rss+xml" title="Marler Blog &raquo; Feed" href="http://www.marlerblog.com/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Marler Blog &raquo; Comments Feed" href="http://www.marlerblog.com/comments/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Marler Blog &raquo; Chipotle Throws Australian Beef Under the Bus Comments Feed" href="http://www.marlerblog.com/legal-cases/chipotle-throws-australian-beef-under-the-bus/feed/"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.marlerblog.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.6"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
+<link rel='stylesheet' id='contact-form-7-css' href='http://www.marlerblog.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.5' type='text/css' media='all'/>
+<link rel='stylesheet' id='jquery-ui-theme-css' href='http://www.marlerblog.com/wp-content/plugins/lxb-multi-feed//css/ui-lightness/jquery-ui-1.8.21.custom.css?ver=4.5.6' type='text/css' media='all'/>
+<link rel='stylesheet' id='lxb_statuspage-style-css' href='http://marlerblog.marlersites.com/wp-content/plugins/lxb-statuspage/css/style.css?ver=0.2' type='text/css' media=''/>
+<script type='text/javascript' src='http://www.marlerblog.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.marlerblog.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='//cdn.ravenjs.com/1.1.15/jquery,native/raven.min.js?ver=4.5.6'></script>
+<script type='text/javascript' src='http://marlerblog.marlersites.com/wp-content/plugins/lxb-error-logger/js/script.js?ver=4.5.6'></script>
+<link rel='https://api.w.org/' href='http://www.marlerblog.com/wp-json/'/>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.marlerblog.com/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.marlerblog.com/wp-includes/wlwmanifest.xml"/>
+<link rel='shortlink' href='http://www.marlerblog.com/?p=35227'/>
+<link rel="alternate" type="application/json+oembed" href="http://www.marlerblog.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.marlerblog.com%2Flegal-cases%2Fchipotle-throws-australian-beef-under-the-bus%2F"/>
+<link rel="alternate" type="text/xml+oembed" href="http://www.marlerblog.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.marlerblog.com%2Flegal-cases%2Fchipotle-throws-australian-beef-under-the-bus%2F&#038;format=xml"/>
+<style type="text/css">.widget_lxb_latest_posts_from_categories_widget a.rss_url{display:block;width:16px;height:16px;background:url(/wp-content/themes/lxb-parent-theme-1.1.1/images/icon-rss.png) no-repeat left top;}.widget_lxb_latest_posts_from_categories_widget .widget-title{position:relative;}.widget_lxb_latest_posts_from_categories_widget .widget-title .rss_url{position:absolute;bottom:9px;right:9px;}.widget_lxb_latest_posts_from_categories_widget a.rss_url{text-indent:100%;white-space:nowrap;overflow:hidden;}</style>
+<script type='text/javascript'>
+	var _gaq = _gaq || [];
+				
+	_gaq.push(['b._setAccount', 'UA-1734745-33']);
+	_gaq.push(['b._trackPageview']);
+									
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+ 
+<script>
+  (function() {
+    var cx = '017062903452961553469:iaeh4k9yey4';
+    var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<style>body a.at300b .at4-icon{display:none;}</style>
+<style>.lxb_lal_toggle{cursor:pointer;}.lxb_lal_fewer{opacity:0;position:absolute;display:none;}.lxb_lal_open .lxb_lal_more{opacity:0;position:absolute;display:none;}.lxb_lal_open .lxb_lal_fewer{opacity:1;position:relative;display:inline;}.lxb_lal_below_the_fold{-webkit-transition:none;-moz-transition:none;-ms-transition:none;-o-transition:none;transition:none;}.lxb_lal_bg_icon.icon-sign-blank:before{color:transparent;}</style>
+<script>
+			jQuery(document).ready(function() {
+				jQuery('.lxb_lal_below_the_fold').hide();
+				jQuery('.lxb_lal_toggle').click(function(e) {
+					jQuery(this).next('ul').fadeToggle();
+					jQuery(this).toggleClass('lxb_lal_open');
+				});
+			});
+		</script>
+</head>
+<body class="single single-post postid-35227 single-format-standard">
+<div class="pull-tab" role="complementary">
+<div class="pull-tab-inner-wrap">
+<section class="widget widget_lxb_link_category_table "><table><tr><td class='label'>Botulism</td><td><a target="_blank" href="http://www.botulismblog.com/">Botulism Blog</a></td></tr><tr><td class='label'>Campylobacter</td><td><a target="_blank" href="http://www.about-campylobacter.com/">About Campylobacter</a><a target="_blank" href="http://www.campylobacterblog.com/">Campylobacter Blog</a></td></tr><tr><td class='label'>E. coli</td><td><a target="_blank" href="http://www.about-ecoli.com/">About E. coli</a><a target="_blank" href="http://www.about-hus.com/">About Hemolytic Uremic Syndrome</a><a target="_blank" href="http://www.ecoliblog.com/">E. coli Blog</a><a target="_blank" href="http://www.ecolilitigation.com/">E. coli Lawsuits &amp; Litigation</a></td></tr><tr><td class='label'>Hepatitis A</td><td><a target="_blank" href="http://www.about-hepatitis.com/">About Hepatitis A</a><a target="_blank" href="http://www.hepatitisblog.com/">Hepatitis A Blog</a><a target="_blank" href="http://www.hepatitislitigation.com/">Hepatitis A Lawsuits &amp; Litigation</a></td></tr><tr><td class='label'>Listeria</td><td><a target="_blank" href="http://www.about-listeria.com/">About Listeria</a><a target="_blank" href="http://www.listeriablog.com/">Listeria Blog</a></td></tr><tr><td class='label'>Norovirus</td><td><a target="_blank" href="http://www.about-norwalk.com/">About Norovirus</a></td></tr></table></section><section class="widget widget_lxb_link_category_table "><table><tr><td class='label'>Salmonella</td><td><a target="_blank" href="http://www.about-salmonella.com/">About Salmonella</a><a target="_blank" href="http://www.salmonellablog.com/">Salmonella Blog</a><a target="_blank" href="http://www.salmonellalitigation.com/">Salmonella Lawsuits &amp; Litigation</a></td></tr><tr><td class='label'>Shigella</td><td><a target="_blank" href="http://www.about-shigella.com/">About Shigella</a><a target="_blank" href="http://www.shigellablog.com/">Shigella Blog</a></td></tr><tr><td class='label'>Complications of Foodborne Illness</td><td><a target="_blank" href="http://www.about-guillain-barre.com/">Guillain-Barré Syndrome</a><a target="_blank" href="http://www.about-hus.com/">Hemolytic Uremic Syndrome</a><a target="_blank" href="http://www.about-irritablebowelsyndrome.com/">Irritable Bowel Syndrome</a><a target="_blank" href="http://about-reactive-arthritis.com/">Reactive Arthritis</a></td></tr><tr><td class='label'>General Foodborne Illness Information</td><td><a target="_blank" href="http://www.foodborneillness.com/">Foodborneillness.com</a><a target="_blank" href="http://www.outbreakdatabase.com/">Outbreak Database</a></td></tr><tr><td class='label'>See Also</td><td><a target="_blank" href="http://www.foodpoisonjournal.com/">Food Poison Journal</a><a target="_blank" href="http://www.foodsafetynews.com/">Food Safety News</a><a target="_blank" href="http://www.marlerclark.com/">Marler Clark</a><a target="_blank" href="http://www.realrawmilkfacts.com/">Real Raw Milk Facts</a></td></tr></table></section><section class="widget widget_nav_menu "><div class="menu-pull-tab-contact-info-container"><ul id="menu-pull-tab-contact-info" class="menu"><li id="menu-item-5113" class="not-a-link menu-item menu-item-type-custom menu-item-object-custom menu-item-5113 menu-item-phone-1-866-770-2032-5"><a title="Phone: 1-866-770-2032" href="#">Phone: 1-866-770-2032</a></li>
+<li id="menu-item-9664" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9664 menu-item-email-bill-marler-7"><a title="email" href="/contact">Email Bill Marler</a></li>
+<li id="menu-item-9665" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9665 menu-item-subscribe-to-the-marler-blog-rss-7"><a title="Subscribe to the Marler Blog RSS" href="http://feeds.lexblog.com/MarlerBlog">Subscribe to the Marler Blog RSS</a></li>
+<li id="menu-item-4824" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4824 menu-item-follow-bill-marler-on-twitter-4"><a title="Follow Bill Marler on Twitter" href="https://twitter.com/bmarler">Follow Bill Marler on Twitter</a></li>
+</ul></div></section><section class="widget widget_text handle"><h3 class="widget-title">Food Poisoning Resources</h3> <div class="textwidget"></div>
+</section> </div>
+</div>
+<div class="outer_wrap">
+<img class="print-header" src="http://www.marlerblog.com/wp-content/themes/b0000090-marlerblog/images/print-header.jpg" alt="Header graphic for print"/>
+<div class="blog-wrapper">
+<header class="blog-header">
+<hgroup>
+<span class="blog-title">
+<a href="http://www.marlerblog.com/" title="Marler Blog" rel="home">Marler Blog</a>
+</span>
+<span class="blog-description">
+Providing Commentary on Food Poisoning Outbreaks &amp; Litigation </span>
+</hgroup>
+<nav class="menu-global-navigation-container"><ul id="menu-global-navigation" class="menu"><li id="menu-item-5096" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5096 menu-item-home-5"><a href="/">Home</a></li>
+<li id="menu-item-4803" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4803 menu-item-services"><a href="http://www.marlerblog.com/services/">Services</a></li>
+<li id="menu-item-9668" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9668 menu-item-about-bill-marler"><a href="http://www.marlerblog.com/about-bill-marler/">About Bill Marler</a></li>
+<li id="menu-item-5119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5119 menu-item-contact"><a href="http://www.marlerblog.com/contact/">Contact</a></li>
+<li id="menu-item-4825" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4825 menu-item-archives-page"><a href="http://www.marlerblog.com/archives-page/">Archives</a></li>
+</ul></nav>
+<div class="header-widgets" role="complementary">
+<section class="widget widget_text search-box"> <div class="textwidget">
+ 
+<gcse:searchbox -only></gcse:searchbox>
+</div>
+		</section><section class="widget widget_text logo">			<div class="textwidget">Bill Marler is an accomplished personal injury and products liability attorney. He began litigating foodborne illness cases in 1993, when <a href="/about-bill-marler/">MORE...</a></div>
+		</section>		</div>
+		
+    </header>
+<div class="main-wrapper">
+
+
+		<div class="sidebar left" role="complementary">
+			<section class="widget widget_nav_menu dark links"><h3 class="widget-title">Topics</h3><div class="menu-topics-container"><ul id="menu-topics" class="menu"><li id="menu-item-4816" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-4816 menu-item-"><a href="http://www.marlerblog.com/articles/legal-cases/">Legal Cases</a></li>
+<li id="menu-item-5102" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5102 menu-item-"><a href="http://www.marlerblog.com/articles/case-news/">Case News</a></li>
+<li id="menu-item-4815" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4815 menu-item-"><a href="http://www.marlerblog.com/articles/lawyer-oped/">Lawyer Op-Ed</a></li>
+<li id="menu-item-9653" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9653 menu-item-"><a href="http://www.marlerblog.com/articles/client-videos/">Client Videos</a></li>
+<li id="menu-item-5099" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5099 menu-item-"><a href="http://www.marlerblog.com/articles/attorney-videos/">Attorney Videos</a></li>
+<li id="menu-item-4808" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4808 menu-item-"><a href="http://www.marlerblog.com/articles/botulism-information/">Botulism Information</a></li>
+<li id="menu-item-9651" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9651 menu-item-"><a href="http://www.marlerblog.com/articles/campylobacter-information/">Campylobacter Information</a></li>
+<li id="menu-item-9654" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9654 menu-item-"><a href="http://www.marlerblog.com/articles/e-coli-information/">E. coli Information</a></li>
+<li id="menu-item-4813" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4813 menu-item-"><a href="http://www.marlerblog.com/articles/hepatitis-information/">Hepatitis Information</a></li>
+<li id="menu-item-4814" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4814 menu-item-"><a href="http://www.marlerblog.com/articles/hus-information/">HUS Information</a></li>
+<li id="menu-item-4817" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4817 menu-item-"><a href="http://www.marlerblog.com/articles/listeria-information/">Listeria Information</a></li>
+<li id="menu-item-4818" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4818 menu-item-"><a href="http://www.marlerblog.com/articles/salmonella-information/">Salmonella Information</a></li>
+<li id="menu-item-4819" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4819 menu-item-"><a href="http://www.marlerblog.com/articles/shigella-information/">Shigella Information</a></li>
+</ul></div></section>		<section class="widget widget_recent_entries links updates light">		<h3 class="widget-title">Recent Updates</h3>		<ul>
+					<li>
+				<a href="http://www.marlerblog.com/case-news/cozy-vale-raw-milk-hit-with-e-coli-again/">Cozy Vale Raw Milk Hit with E. coli Again</a>
+						</li>
+					<li>
+				<a href="http://www.marlerblog.com/case-news/221-with-norovirus-linked-to-b-c-oysters/">221 with Norovirus linked to B.C. Oysters</a>
+						</li>
+					<li>
+				<a href="http://www.marlerblog.com/case-news/beware-of-visitors-bearing-salmonella/">Beware of &#8220;Visitors&#8221; bearing Salmonella</a>
+						</li>
+					<li>
+				<a href="http://www.marlerblog.com/case-news/marion-nestle-gao-on-food-safety-a-national-strategy-is-needed-to-address-fragmentation-in-federal-oversight/">Marion Nestle &#8211; GAO on Food Safety &#8211; A National Strategy Is Needed to Address Fragmentation in Federal Oversight</a>
+						</li>
+					<li>
+				<a href="http://www.marlerblog.com/case-news/imported-fish-and-produce-a-greater-risk-to-us-consumers/">Imported Fish and Produce a Greater Risk to US Consumers</a>
+						</li>
+					<li>
+				<a href="http://www.marlerblog.com/lawyer-oped/the-daily-meal-americas-50-most-powerful-people-in-food-for-2017-marler-no-40/">The Daily Meal &#8211; America’s 50 Most Powerful People in Food for 2017 – Marler No. 40</a>
+						</li>
+					<li>
+				<a href="http://www.marlerblog.com/case-news/pentobarbital-in-dog-food/">Pentobarbital in Dog Food?</a>
+						</li>
+					<li>
+				<a href="http://www.marlerblog.com/case-news/first-two-fda-class-1-recalls-in-trump-administration/">First Two FDA Class 1 Recalls in Trump Administration</a>
+						</li>
+					<li>
+				<a href="http://www.marlerblog.com/case-news/fda-releases-guidance-on-sprouts-my-advise-avoid-them/">FDA Releases Guidance on Sprouts &#8211; My Advice &#8211; Avoid Them</a>
+						</li>
+					<li>
+				<a href="http://www.marlerblog.com/lawyer-oped/6-foods-bill-marler-never-eats/">6 FOODS BILL MARLER NEVER EATS</a>
+						</li>
+					<li>
+				<a href="http://www.marlerblog.com/case-news/35899/">Seattle &#8211; King County Help Diners Dine Safer</a>
+						</li>
+					<li>
+				<a href="http://www.marlerblog.com/case-news/would-you-like-some-tapeworm-with-your-salmon/">Would you like some Tapeworm with your Salmon?</a>
+						</li>
+					<li>
+				<a href="http://www.marlerblog.com/case-news/salmonella-risk-in-twinkies/">Salmonella Risk in Twinkies?</a>
+						</li>
+					<li>
+				<a href="http://www.marlerblog.com/lawyer-oped/marler-clark-is-moving-in-january/">Marler Clark is Moving in January</a>
+						</li>
+					<li>
+				<a href="http://www.marlerblog.com/case-news/raw-camel-milk-can-not-be-sold-across-state-lines/">Raw Camel Milk Can Not Be Sold Across State lines</a>
+						</li>
+					<li>
+				<a href="http://www.marlerblog.com/case-news/spring-salmonella-cucumber-outbreak-linked-to-persian-cucumbers/">Spring Salmonella Cucumber Outbreak Linked to Persian Cucumbers</a>
+						</li>
+					<li>
+				<a href="http://www.marlerblog.com/case-news/cannibal-or-tiger-meat-sandwich-warning/">“Cannibal” or “Tiger Meat” Sandwich Warning</a>
+						</li>
+					<li>
+				<a href="http://www.marlerblog.com/case-news/who-not-to-poison-state-department-of-health/">Who not to Poison &#8211; State Department of Health</a>
+						</li>
+					<li>
+				<a href="http://www.marlerblog.com/case-news/chicago-department-of-public-health-rolls-out-carbon-e-coli-final-outbreak-report/">Chicago Department of Public Health Rolls Out Carbon E. coli Final Outbreak Report</a>
+						</li>
+					<li>
+				<a href="http://www.marlerblog.com/case-news/botulism-risk-dont-eat-lizard-fish/">Botulism Risk &#8211; Don&#8217;t Eat Lizard Fish</a>
+						</li>
+					<li>
+				<a href="http://www.marlerblog.com/legal-cases/hepatitis-a-in-shellfish-a-bite-of-history/">Hepatitis A in Shellfish &#8211; A Bit(e) of History</a>
+						</li>
+					<li>
+				<a href="http://www.marlerblog.com/lawyer-oped/public-health-doing-its-job-is-legal/">Public Health Doing Its Job is Legal</a>
+						</li>
+					<li>
+				<a href="http://www.marlerblog.com/case-news/study-restaurants-not-good-at-explaining-risks-of-undercooked-meat-to-customers/">Study: Restaurants Not Good At Explaining Risks of Undercooked Meat to Customers</a>
+						</li>
+					<li>
+				<a href="http://www.marlerblog.com/case-news/oysters-strike-again/">Oysters Strike &#8211; Again</a>
+						</li>
+					<li>
+				<a href="http://www.marlerblog.com/case-news/another-foodborne-outbreak-linked-to-thanksgiving/">Another Foodborne Outbreak Linked to Thanksgiving</a>
+						</li>
+					<li>
+				<a href="http://www.marlerblog.com/case-news/three-dead-after-thanksgiving-meal/">Updated: Three Dead after Thanksgiving Meal</a>
+						</li>
+					<li>
+				<a href="http://www.marlerblog.com/lawyer-oped/marler-blog-chosen-as-one-of-the-aba-journals-blawg-100-hall-of-fame/">Marler Blog chosen as one of the ABA Journal’s BLAWG 100 &#8211; Hall of Fame</a>
+						</li>
+					<li>
+				<a href="http://www.marlerblog.com/case-news/listeria-recall-on-sabra-hummus/">Listeria Recall on Sabra Hummus</a>
+						</li>
+					<li>
+				<a href="http://www.marlerblog.com/lawyer-oped/so-did-you-follow-these-tips-for-a-safe-turkey/">So, did you follow these tips for a safe Turkey?</a>
+						</li>
+					<li>
+				<a href="http://www.marlerblog.com/legal-cases/fda-sprouts-still-risky/">FDA:  Sprouts Still Risky</a>
+						</li>
+				</ul>
+		</section>		<section class="widget widget_text light minor">			<div class="textwidget"><a href="/archives-page" class="arrow">Archives</a></div>
+		</section>		</div>
+
+<div class="main" role="main">
+
+	
+<p id="breadcrumbs"><span xmlns:v="http://rdf.data-vocabulary.org/#"><span typeof="v:Breadcrumb"><a href="http://www.marlerblog.com/" rel="v:url" property="v:title">Home</a> &gt; <span rel="v:child" typeof="v:Breadcrumb"><a href="http://www.marlerblog.com/articles/legal-cases/" rel="v:url" property="v:title">Legal Cases</a> &gt; <span class="breadcrumb_last">Chipotle Throws Australian Beef Under the Bus</span></span></span></span></p>
+
+
+       <article id="post-35227" class="post-35227 post type-post status-publish format-standard has-post-thumbnail hentry category-legal-cases tag-food-safety-attorney tag-food-safety-lawyer odd">
+        
+		<header class="post-header">
+			              	<h1 class="post-title">
+				Chipotle Throws Australian Beef Under the Bus			</h1>
+			
+	
+               
+               
+               <span class="post-byline">
+               
+                              
+               			Posted By
+               				<a href='http://www.marlerclark.com/lawyers/view/william-marler' target='_blank'>Bill Marler</a>                	on
+                 <span class="post-date">February 5, 2016</span></span>
+			
+			 
+			
+           </header>
+
+		<section class="post-content">
+		
+						
+		
+   			               	<p><a href="http://www.marlerblog.com/files/2016/02/bus-thrown-under-198636530.jpg"><img class="alignright size-medium wp-image-35228" src="http://www.marlerblog.com/files/2016/02/bus-thrown-under-198636530-300x216.jpg" alt="bus-thrown-under-198636530" width="300" height="216" srcset="http://www.marlerblog.com/files/2016/02/bus-thrown-under-198636530-300x216.jpg 300w, http://www.marlerblog.com/files/2016/02/bus-thrown-under-198636530-150x108.jpg 150w, http://www.marlerblog.com/files/2016/02/bus-thrown-under-198636530-640x462.jpg 640w, http://www.marlerblog.com/files/2016/02/bus-thrown-under-198636530-60x43.jpg 60w, http://www.marlerblog.com/files/2016/02/bus-thrown-under-198636530-118x85.jpg 118w, http://www.marlerblog.com/files/2016/02/bus-thrown-under-198636530-123x89.jpg 123w, http://www.marlerblog.com/files/2016/02/bus-thrown-under-198636530-256x185.jpg 256w, http://www.marlerblog.com/files/2016/02/bus-thrown-under-198636530-406x293.jpg 406w, http://www.marlerblog.com/files/2016/02/bus-thrown-under-198636530-93x67.jpg 93w" sizes="(max-width: 300px) 100vw, 300px" /></a><em>I guess that would be &#8220;Down Under&#8221; the bus?</em></p>
+<p>And, Chipotle admits to violating the <a href="http://www.marlerblog.com/legal-cases/chipotle-executives-time-to-find-really-good-criminal-lawyers/#.VrTvdvG8F2c">Federal Food, Drug and Cosmetic Act</a> because it sold “adulterated” food because it was “prepared, packed, or held under insanitary conditions whereby it may have become contaminated with filth, or whereby it may have been rendered injurious to health” – “improper food handling.”</p>
+<p>And, Chipotle concedes FDA, FSIS and U.S. Attorney <a href="http://www.marlerblog.com/legal-cases/how-the-fda-has-jurisdiction-over-everything-chipotle/#.VrTwTvG8F2c">criminal jurisdiction</a> because it admits that the source of the E. coli O26 outbreak was imported “contaminated Australian beef.”</p>
+<p>Julie Jargon and Jessie Newman from the <a href="http://www.wsj.com/articles/fresh-ingredients-came-back-to-haunt-chipotle-1454463065">WSJ broke yet another story</a> on Chipotle this morning that is now making the rounds of the internet. The upshot is that despite the fact that health authorities in several states, the CDC and the FDA (and presumably the FSIS) concluded that a specific food item could not be identified, Chipotle knows better. From the WSJ:</p>
+<p style="padding-left: 30px">“Behind the scenes, Chipotle also disagreed with health officials about the E. coli’s likely source, said people familiar with the discussions. Government officials leaned toward produce. Chipotle concluded the E. coli most likely from contaminated Australian beef. Chipotle in 2014 began importing grass-fed beef to meet its demand for responsibly raised meat. It believed the E. coli spread to other ingredients through improper food handling, said people familiar with Chipotle.”</p>
+<p>Is anyone driving the Chipotle Bus?</p>
+<p><strong>Note: </strong></p>
+<p>According to <a href="http://www.foodsafetynews.com/2016/02/cdc-declares-chipotle-e-coli-outbreaks-over-cause-unknown/#.VrT3e8dln_Q">Food Safety News</a>, some sources have suggested beef from Australia as the source of the E. coli, but no such link has been found by the Food Safety Inspection Service (FSIS) of the U.S. Department of Agriculture.</p>
+<p>“As was stated by CDC earlier today, we’ve examined the evidence and have not been able to identify a source for these outbreaks,” an FSIS spokesperson said.</p>
+<p>“Distribution data shared by Chipotle does not establish a link between Australian beef, or any single source of beef, and the Chipotle restaurants where case patients reported consuming steak. Moreover, of the 60 case patients only eight reported consuming steak.</p>
+<p>“During this (investigation), Chipotle committed to several steps to improve sanitation practices and record-keeping in their supply chain and in their restaurants, including better record-keeping and improved employee training.”</p>
+<!-- test string 2 -->               	
+               	
+   					</section>
+  
+            <footer class="post-footer">
+            
+            <span class="sans post-tags">Tags: <a href="http://www.marlerblog.com/tag/food-safety-attorney/" rel="tag">Food Safety Attorney</a>, <a href="http://www.marlerblog.com/tag/food-safety-lawyer/" rel="tag">Food Safety Lawyer</a></span>            
+            <div class="post-tools sans">
+									<span class="post-print"><a href="javascript:window.print()">Print</a></span>
+								
+	            			</div>
+            
+				<div class="post-social">
+          			<a class="addthis_button_google_plusone" href="http://www.addthis.com/bookmark.php?v=20" addthis:url="http://www.marlerblog.com/legal-cases/chipotle-throws-australian-beef-under-the-bus/" addthis:title="Chipotle Throws Australian Beef Under the Bus" g:plusone:size="small" g:plusone:count="false"></a>
+					<a class="addthis_button_facebook" href="http://www.addthis.com/bookmark.php?v=20" addthis:url="http://www.marlerblog.com/legal-cases/chipotle-throws-australian-beef-under-the-bus/" addthis:title="Chipotle Throws Australian Beef Under the Bus">Like</a>
+					<a class="addthis_button_twitter" href="http://www.addthis.com/bookmark.php?v=20" addthis:url="http://www.marlerblog.com/legal-cases/chipotle-throws-australian-beef-under-the-bus/" addthis:title="Chipotle Throws Australian Beef Under the Bus">Tweet</a>
+					<a class="addthis_button_linkedin" href="http://www.addthis.com/bookmark.php?v=20" addthis:url="http://www.marlerblog.com/legal-cases/chipotle-throws-australian-beef-under-the-bus/" addthis:title="Chipotle Throws Australian Beef Under the Bus">LinkedIn</a>	
+					<a class="addthis_button_email" href="http://www.addthis.com/bookmark.php?v=20" addthis:url="http://www.marlerblog.com/legal-cases/chipotle-throws-australian-beef-under-the-bus/" addthis:title="Chipotle Throws Australian Beef Under the Bus">Email</a>	
+				</div>
+				<a class="the_category" href="http://www.marlerblog.com/articles/legal-cases/">More Posts from this Category<span class="triangle">&rsaquo;</span></a>            </footer>
+    	
+	</article>
+
+ 
+ 
+	
+	<section id="comments"> <!-- hack to make Disqus-made link jump correctly from within the single post -->
+    
+<div id="disqus_thread">
+    </div>
+
+<script type="text/javascript">
+var disqus_url = 'http://www.marlerblog.com/legal-cases/chipotle-throws-australian-beef-under-the-bus/';
+var disqus_identifier = '35227 http://www.marlerblog.com/?p=35227';
+var disqus_container_id = 'disqus_thread';
+var disqus_shortname = 'marlerblog';
+var disqus_title = "Chipotle Throws Australian Beef Under the Bus";
+var disqus_config_custom = window.disqus_config;
+var disqus_config = function () {
+    /*
+    All currently supported events:
+    onReady: fires when everything is ready,
+    onNewComment: fires when a new comment is posted,
+    onIdentify: fires when user is authenticated
+    */
+    
+    
+    this.language = '';
+        this.callbacks.onReady.push(function () {
+
+        // sync comments in the background so we don't block the page
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = '?cf_action=sync_comments&post_id=35227';
+
+        var firstScript = document.getElementsByTagName('script')[0];
+        firstScript.parentNode.insertBefore(script, firstScript);
+    });
+    
+    if (disqus_config_custom) {
+        disqus_config_custom.call(this);
+    }
+};
+
+(function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript';
+    dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+
+	</section>
+	
+</div><!-- .main -->
+
+
+
+		<div class="right sidebar" role="complementary">
+				<section class="widget widget_mylinkorder stay-connected links"><h3 class="widget-title">Stay Connected</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="/contact/" title="email">Contact Bill</a></li>
+<li><a href="/subscribe/" title="rss">Subscribe to Marler Blog</a></li>
+<li><a href="https://twitter.com/bmarler" title="twitter" target="_blank">Follow Bill on Twitter</a></li>
+<li><a href="https://www.facebook.com/Marlerblog" title="facebook">Like Marler Blog on Facebook</a></li>
+<li><a href="http://www.linkedin.com/in/billmarler" title="linkedin">Connect with Bill on LinkedIn</a></li>
+<li><a href="https://plus.google.com/108764356429629529636/posts" title="googleplus" target="_blank">Bill&#039;s Google + Profile</a></li>
+
+	</ul>
+</section>
+<section class="widget widget_text contact-us-widget"><h3 class="widget-title">Request Free Information</h3>			<div class="textwidget"><div role="form" class="wpcf7" id="wpcf7-f4446-o1" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/legal-cases/chipotle-throws-australian-beef-under-the-bus/#wpcf7-f4446-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="4446" />
+<input type="hidden" name="_wpcf7_version" value="4.5" />
+<input type="hidden" name="_wpcf7_locale" value="" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f4446-o1" />
+<input type="hidden" name="_wpnonce" value="7cbb956692" />
+</div>
+<p><span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="Name" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span></p>
+<p><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="Email Address" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" /></span></p>
+<p><span class="wpcf7-form-control-wrap your-phone"><input type="text" name="your-phone" value="Phone Number" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span></p>
+<p><span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false">Comments</textarea></span> </p>
+<p>[honeypot marlerailmentcure-118]</p>
+<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div></div>
+		</section><section class="widget widget_lxb_latest_posts_from_categories_widget color-box gray-blue white-title best-of"><div class="extra"></div><h3 class="widget-title">The Best of Bill Marler<em>Op Ed posts that shouldn't be missed</em></h3><div class='LXB_Latest_Posts_From_Categories'><ul><li><a href="http://www.marlerblog.com/lawyer-oped/the-daily-meal-americas-50-most-powerful-people-in-food-for-2017-marler-no-40/">The Daily Meal &#8211; America’s 50 Most Powerful People in Food for 2017 – Marler No. 40</a></li><li><a href="http://www.marlerblog.com/lawyer-oped/marler-blog-chosen-as-one-of-the-aba-journals-blawg-100-hall-of-fame/">Marler Blog chosen as one of the ABA Journal’s BLAWG 100 &#8211; Hall of Fame</a></li><li><a href="http://www.marlerblog.com/lawyer-oped/another-speech-another-shake-down/">Another Speech, Another &#8220;Shake Down&#8221;</a></li><li><a href="http://www.marlerblog.com/lawyer-oped/the-donald-likes-me-killing-food-safety-regulations-is-good-for-business/">&#8220;The Donald&#8221; Likes Me &#8211; Killing Food Safety Regulations is Good for Business</a></li><li><a href="http://www.marlerblog.com/lawyer-oped/decosters-and-jail-three-months-seem-just-about-right/">DeCosters and Jail: three months seem just about right</a></li><li><a href="http://www.marlerblog.com/lawyer-oped/why-the-massive-recall-of-food-shows-our-food-safety-system-is-not-completely-broken/">Why the Massive Recall of Food Shows our Food Safety System is Not Completely Broken</a></li><li><a href="http://www.marlerblog.com/lawyer-oped/12-steps-to-food-safety/">12 Steps to Food Safety</a></li><li><a href="http://www.marlerblog.com/lawyer-oped/we-need-a-petting-zoo-preservation-act/">We Need “A Petting Zoo Preservation Act”</a></li><li><a href="http://www.marlerblog.com/case-news/yet-another-preventable-petting-zoo-e-coli-outbreak-that-wasnt/">Yet Another Preventable Petting Zoo E. coli Outbreak That Wasn&#8217;t</a></li><li><a href="http://www.marlerblog.com/lawyer-oped/a-restaurant-undercooking-burgers-was-a-bad-idea-in-93-it-is-stupid-in-15/">A Restaurant Undercooking Burgers was a Bad Idea in ’93, it is Stupid in ’15</a></li></ul><a href="/tag/best-of-bill-marler/" class="arrow">See More</a></div></section><section class="widget widget_lxb_multi_feed_widget color-box black"><h3 class="widget-title">Recently From the Marler Blog Network</h3><ul class='lxb-mf-accordion'><li class='lxb-mf-parent-li'><a class='lxb-mf-parent-a' href='#tabs-1'>Botulism Blog</a><ul class='tab-panel' id='tabs-1'><li class='visit_link'><a href='http://www.botulismblog.com/'>Visit Blog</a></li><li class='subscribe_link'><a href='http://feeds.lexblog.com/BotulismBlog'>Subscribe</a></li><li class='entry_link e-1'><a href='http://feeds.lexblog.com/~r/BotulismBlog/~3/WFW3lmbpF7c/'>Botulism Risk – Baby Food in Canada</a><li class='rss_date'>Sat, 11 February 2017, 5:36 pm</li><li class='entry_link e-2'><a href='http://feeds.lexblog.com/~r/BotulismBlog/~3/sfOj3l-1Mas/'>Lizard Fish Recalled</a><li class='rss_date'>Sat, 17 December 2016, 6:46 pm</li><li class='entry_link e-3'><a href='http://feeds.lexblog.com/~r/BotulismBlog/~3/Id7aIIGP-j8/'>Mackerel Recalled over Botulism Risk</a><li class='rss_date'>Wed, 7 December 2016, 9:20 am</li><li class='entry_link e-4'><a href='http://feeds.lexblog.com/~r/BotulismBlog/~3/Q2pjR05SYd0/'>Mackerel Recalled due to Botulism</a><li class='rss_date'>Sat, 3 December 2016, 6:57 pm</li></ul></li><li class='lxb-mf-parent-li'><a class='lxb-mf-parent-a' href='#tabs-2'>Campylobacter Blog</a><ul class='tab-panel' id='tabs-2'><li class='visit_link'><a href='http://www.campylobacterblog.com/'>Visit Blog</a></li><li class='subscribe_link'><a href='http://feeds.lexblog.com/CampylobacterBlog'>Subscribe</a></li><li class='entry_link e-1'><a href='http://feeds.lexblog.com/~r/CampylobacterBlog/~3/3qYPu2jxEo8/'>Raw Milk Recalled in Ohio</a><li class='rss_date'>Sat, 3 December 2016, 7:03 pm</li><li class='entry_link e-2'><a href='http://feeds.lexblog.com/~r/CampylobacterBlog/~3/tT2AtBo31ak/'>Campylobacter in Raw Milk in Colorado</a><li class='rss_date'>Sat, 8 October 2016, 8:39 pm</li><li class='entry_link e-3'><a href='http://feeds.lexblog.com/~r/CampylobacterBlog/~3/IU1w5V9pEC4/'>California Campylobacter Outbreak</a><li class='rss_date'>Fri, 10 June 2016, 11:44 pm</li><li class='entry_link e-4'><a href='http://feeds.lexblog.com/~r/CampylobacterBlog/~3/MbVPmWqC7cw/'>Raw milk can harbor Campylobacter even after negative tests</a><li class='rss_date'>Sat, 2 April 2016, 3:55 am</li></ul></li><li class='lxb-mf-parent-li'><a class='lxb-mf-parent-a' href='#tabs-3'>E. coli Blog</a><ul class='tab-panel' id='tabs-3'><li class='visit_link'><a href='http://www.ecoliblog.com/'>Visit Blog</a></li><li class='subscribe_link'><a href='http://feeds.lexblog.com/EColiBlog'>Subscribe</a></li><li class='entry_link e-1'><a href='http://feeds.lexblog.com/~r/EColiBlog/~3/jazIMyP8bb0/'>Veal recalled over E. coli</a><li class='rss_date'>Sun, 25 December 2016, 10:16 pm</li><li class='entry_link e-2'><a href='http://feeds.lexblog.com/~r/EColiBlog/~3/qB8TqCm5fC0/'>Adams Farm Slaughterhouse E. coli Outbreak Over</a><li class='rss_date'>Sat, 22 October 2016, 7:24 am</li><li class='entry_link e-3'><a href='http://feeds.lexblog.com/~r/EColiBlog/~3/OngU67FgB0w/'>Sliver Springs E. coli Recall Expands.</a><li class='rss_date'>Sat, 8 October 2016, 6:42 pm</li><li class='entry_link e-4'><a href='http://feeds.lexblog.com/~r/EColiBlog/~3/G1HsgXP3zqc/'>Connecticut, Massachusetts, Pennsylvania, and West Virginia E. coli Outbreak</a><li class='rss_date'>Sun, 25 September 2016, 5:25 am</li></ul></li><li class='lxb-mf-parent-li'><a class='lxb-mf-parent-a' href='#tabs-4'>Food Poison Journal</a><ul class='tab-panel' id='tabs-4'><li class='visit_link'><a href='http://www.foodpoisonjournal.com/'>Visit Blog</a></li><li class='subscribe_link'><a href='http://feeds.lexblog.com/FoodPoisonBlog'>Subscribe</a></li><li class='entry_link e-1'><a href='http://feeds.lexblog.com/~r/FoodPoisonBlog/~3/wKvVU72CoCw/'>Cozy Vale (Valley) Creamery Linked to Raw Milk E. coli Recall</a><li class='rss_date'>Fri, 24 February 2017, 2:33 am</li><li class='entry_link e-2'><a href='http://feeds.lexblog.com/~r/FoodPoisonBlog/~3/ACPMe-eJDNQ/'>What We All Need To Know About Deadly Listeria During An Outbreak Or Recall</a><li class='rss_date'>Thu, 23 February 2017, 5:26 am</li><li class='entry_link e-3'><a href='http://feeds.lexblog.com/~r/FoodPoisonBlog/~3/t-uvSMf7pRk/'>Class 1 Listeria Recall – Ready Pac Chicken Salad</a><li class='rss_date'>Wed, 22 February 2017, 11:43 pm</li><li class='entry_link e-4'><a href='http://feeds.lexblog.com/~r/FoodPoisonBlog/~3/HNXOvOD5-iA/'>Hepatitis A Class Action Settled</a><li class='rss_date'>Tue, 21 February 2017, 3:19 pm</li></ul></li><li class='lxb-mf-parent-li'><a class='lxb-mf-parent-a' href='#tabs-5'>Hepatitis Blog</a><ul class='tab-panel' id='tabs-5'><li class='visit_link'><a href='http://www.hepatitisblog.com/'>Visit Blog</a></li><li class='subscribe_link'><a href='http://feeds.lexblog.com/HepatitisABlog'>Subscribe</a></li><li class='entry_link e-1'><a href='http://feeds.lexblog.com/~r/HepatitisABlog/~3/6QxvmuRswxI/'>Hepatitis A case prompts public health alert in Clearwater area</a><li class='rss_date'>Sun, 25 December 2016, 8:38 pm</li><li class='entry_link e-2'><a href='http://feeds.lexblog.com/~r/HepatitisABlog/~3/2L25KxCc6wQ/'>Hepatitis A Outbreak in Hawaii Hits 292</a><li class='rss_date'>Thu, 10 November 2016, 1:22 pm</li><li class='entry_link e-3'><a href='http://feeds.lexblog.com/~r/HepatitisABlog/~3/7GYvsDp_lGg/'>Hawaii Sushi Hepatitis A Update</a><li class='rss_date'>Sat, 22 October 2016, 7:21 am</li><li class='entry_link e-4'><a href='http://feeds.lexblog.com/~r/HepatitisABlog/~3/FPRn8P6Ifu8/'>Hepatitis A in Chehalis Washington</a><li class='rss_date'>Sat, 8 October 2016, 6:39 pm</li></ul></li><li class='lxb-mf-parent-li'><a class='lxb-mf-parent-a' href='#tabs-6'>Listeria Blog</a><ul class='tab-panel' id='tabs-6'><li class='visit_link'><a href='http://www.listeriablog.com/'>Visit Blog</a></li><li class='subscribe_link'><a href='http://feeds.lexblog.com/ListeriaBlog'>Subscribe</a></li><li class='entry_link e-1'><a href='http://feeds.lexblog.com/~r/ListeriaBlog/~3/zQxu3B6BG-4/'>Trader Joe’s Hummus Recalled</a><li class='rss_date'>Sat, 3 December 2016, 6:45 pm</li><li class='entry_link e-2'><a href='http://feeds.lexblog.com/~r/ListeriaBlog/~3/fAAuuMVOwP8/'>Goat Cheese Recalled Over Listeria</a><li class='rss_date'>Sat, 3 December 2016, 6:42 pm</li><li class='entry_link e-3'><a href='http://feeds.lexblog.com/~r/ListeriaBlog/~3/4TraEnROb8Q/'>Herring Recalled over Listeria Risk</a><li class='rss_date'>Sat, 3 December 2016, 6:37 pm</li><li class='entry_link e-4'><a href='http://feeds.lexblog.com/~r/ListeriaBlog/~3/vF1j1lxVcr8/'>Sabra Recalls Hummus over Listeria worry</a><li class='rss_date'>Fri, 25 November 2016, 8:19 pm</li></ul></li><li class='lxb-mf-parent-li'><a class='lxb-mf-parent-a' href='#tabs-7'>Salmonella Blog</a><ul class='tab-panel' id='tabs-7'><li class='visit_link'><a href='http://www.salmonellablog.com/'>Visit Blog</a></li><li class='subscribe_link'><a href='http://feeds.lexblog.com/SalmonellaBlog'>Subscribe</a></li><li class='entry_link e-1'><a href='http://feeds.lexblog.com/~r/SalmonellaBlog/~3/U8VqHvkgh-k/'>Salmonella Tainted Milk Powder Prompts Recalls</a><li class='rss_date'>Sat, 17 December 2016, 6:53 pm</li><li class='entry_link e-2'><a href='http://feeds.lexblog.com/~r/SalmonellaBlog/~3/g5tqXk9XW9Y/'>Morimoto Restaurant Tied to Salmonella Outbreak</a><li class='rss_date'>Sat, 3 December 2016, 7:01 pm</li><li class='entry_link e-3'><a href='http://feeds.lexblog.com/~r/SalmonellaBlog/~3/pkX3F9Z5LSQ/'>Salmonella Tainted Cucumbers Pulled from Schools and Hospitals in California</a><li class='rss_date'>Thu, 10 November 2016, 1:29 pm</li><li class='entry_link e-4'><a href='http://feeds.lexblog.com/~r/SalmonellaBlog/~3/blClLEtkzHI/'>Hawaiian Seaweed Tied to Salmonella Outbreak</a><li class='rss_date'>Thu, 10 November 2016, 1:24 pm</li></ul></li><li class='lxb-mf-parent-li'><a class='lxb-mf-parent-a' href='#tabs-8'>Shigella Blog</a><ul class='tab-panel' id='tabs-8'><li class='visit_link'><a href='http://www.shigellablog.com/'>Visit Blog</a></li><li class='subscribe_link'><a href='http://feeds.lexblog.com/ShigellaBlog'>Subscribe</a></li><li class='entry_link e-1'><a href='http://feeds.lexblog.com/~r/ShigellaBlog/~3/ZdYaX-XChBY/'>Shigella in Stanislaus</a><li class='rss_date'>Wed, 21 December 2016, 12:38 am</li><li class='entry_link e-2'><a href='http://feeds.lexblog.com/~r/ShigellaBlog/~3/zPR-eRBoR8k/'>Flint has Shigella Issues Too</a><li class='rss_date'>Sat, 8 October 2016, 8:51 pm</li><li class='entry_link e-3'><a href='http://feeds.lexblog.com/~r/ShigellaBlog/~3/Pa_nvrpYqrM/'>New Mexico Warns of Shigella Cases</a><li class='rss_date'>Mon, 18 July 2016, 3:41 pm</li><li class='entry_link e-4'><a href='http://feeds.lexblog.com/~r/ShigellaBlog/~3/ILbyf0GzE7k/'>Shigella Strikes Wisconsin</a><li class='rss_date'>Wed, 29 June 2016, 2:57 am</li></ul></li></ul>
+				<script>
+					jQuery(document).ready(function() {
+				    	jQuery('.widget_lxb_multi_feed_widget ul ul').css('display', 'none');		    		
+				    	jQuery('.widget_lxb_multi_feed_widget a.lxb-mf-parent-a').click(function (event) {
+							event.preventDefault();
+				    		jQuery(this).parent().children('ul').toggle('slow');
+				    		jQuery(this).parent().toggleClass('active');
+    					});
+    				});
+    			</script>
+    			<style>
+    				.widget_lxb_multi_feed_widget ul,
+    				.widget_lxb_multi_feed_widget li {
+    					-webkit-transition: none;
+    					-moz-transition: none;
+    	 				-ms-transition: none;
+     					-o-transition: none;
+     					transition: none;
+    				}
+    			</style>
+    			
+				</section><section class="widget widget_text ">			<div class="textwidget"><a class="twitter-timeline" data-dnt=true href="https://twitter.com/bmarler" data-widget-id="266278475101519872">Tweets by @bmarler</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+		</section><section class="widget widget_lxb_accordion_links color-box dark-gray transparent"><h3 class="widget-title">Links</h3><div class='accordion_links 0'><ul class='above_the_fold'> <li class='lxb_lal_li '><a   href='http://www.thelunchtray.com/'>  <span class='lxb_lal_link_name'>The Lunch Tray</span></a></li> <li class='lxb_lal_li '><a   href='http://www.appetiteforprofit.com/'>  <span class='lxb_lal_link_name'>Appetite For Profit</span></a></li> <li class='lxb_lal_li '><a   href='http://blog.usfoodsafety.com/'>  <span class='lxb_lal_link_name'>Food Safety Blog</span></a></li> <li class='lxb_lal_li '><a   href='http://thefoodwatchdog.com/'>  <span class='lxb_lal_link_name'>The Food Watchdog</span></a></li> <li class='lxb_lal_li '><a   href='http://www.coldtruth.com/'>  <span class='lxb_lal_link_name'>Cold Truth</span></a></li> <li class='lxb_lal_li '><a   href='http://www.cidrap.umn.edu/cidrap/content/fs/food/index.html'>  <span class='lxb_lal_link_name'>CIDRAP</span></a></li> <li class='lxb_lal_li '><a   href='http://www.about-irritablebowelsyndrome.com/'>  <span class='lxb_lal_link_name'>Irritable Bowel Syndrome</span></a></li> <li class='lxb_lal_li '><a   href='http://www.outbreakdatabase.com/'>  <span class='lxb_lal_link_name'>Outbreak Database</span></a></li> <li class='lxb_lal_li '><a   href='http://foodinamerica.wordpress.com/'>  <span class='lxb_lal_link_name'>Food in America</span></a></li> <li class='lxb_lal_li '><a   href='http://www.realrawmilkfacts.com/'>  <span class='lxb_lal_link_name'>Real Raw Milk Facts</span></a></li></ul>
+				<div class='arrow lxb_lal_toggle'>
+					See <span class='lxb_lal_more'>More</span><span class='lxb_lal_fewer'>Fewer</span>
+				</div>
+		
+				<ul class='lxb_lal_below_the_fold'>
+				 <li class='lxb_lal_li '><a   href='http://www.safefoodconnection.com/Safe_Food_Connection/Home.html'>  <span class='lxb_lal_link_name'>Safe Food Connection</span></a></li> <li class='lxb_lal_li '><a   href='http://assassinbug.wordpress.com/'>  <span class='lxb_lal_link_name'>Assassin Bug</span></a></li> <li class='lxb_lal_li '><a   href='http://simplegoodandtasty.com/'>  <span class='lxb_lal_link_name'>Simple Good and Tasty</span></a></li> <li class='lxb_lal_li '><a   href='http://foodsafetywithjaybee.blogspot.com/'>  <span class='lxb_lal_link_name'>Safe Food NZ</span></a></li> <li class='lxb_lal_li '><a   href='http://www.foodsafetynews.com/'>  <span class='lxb_lal_link_name'>Food Safety News</span></a></li> <li class='lxb_lal_li '><a   href='http://ow.ly/pFlY'>  <span class='lxb_lal_link_name'>Food Risk</span></a></li> <li class='lxb_lal_li '><a   href='http://aglawllm.blogspot.com/'>  <span class='lxb_lal_link_name'>Ag and Food Law Blog</span></a></li> <li class='lxb_lal_li '><a   href='http://civileats.com/'>  <span class='lxb_lal_link_name'>Civil Eats</span></a></li> <li class='lxb_lal_li '><a   href='http://www.weaversway.coop/blog/'>  <span class='lxb_lal_link_name'>Weaversway</span></a></li> <li class='lxb_lal_li '><a   href='http://overlawyered.com/'>  <span class='lxb_lal_link_name'>Over Lawyered</span></a></li> <li class='lxb_lal_li '><a   href='http://www.cornucopia.org/'>  <span class='lxb_lal_link_name'>Cornucopia Institute</span></a></li> <li class='lxb_lal_li '><a   href='http://www.foodpolitics.com/'>  <span class='lxb_lal_link_name'>Food Politics</span></a></li> <li class='lxb_lal_li '><a   href='http://www.extension.iastate.edu/foodsafety/news/index.cfm'>  <span class='lxb_lal_link_name'>Iowa State Food Safety News</span></a></li> <li class='lxb_lal_li '><a   href='http://www.foodsafetypolicy.org/'>  <span class='lxb_lal_link_name'>Food Safety Policy</span></a></li> <li class='lxb_lal_li '><a   href='http://www.foodborneillness.org/'>  <span class='lxb_lal_link_name'>Center for Foodborne Illness</span></a></li> <li class='lxb_lal_li '><a   href='http://thepumphandle.wordpress.com/'>  <span class='lxb_lal_link_name'>The Pump Handle</span></a></li> <li class='lxb_lal_li '><a   href='http://www.thepoptort.com/'>  <span class='lxb_lal_link_name'>The Pop Tort</span></a></li> <li class='lxb_lal_li '><a   href='http://www.defendingfoodsafety.com/'>  <span class='lxb_lal_link_name'>Defending Food Safety</span></a></li> <li class='lxb_lal_li '><a   href='http://www.safefoodsblog.com/'>  <span class='lxb_lal_link_name'>Safe Foods Blog</span></a></li> <li class='lxb_lal_li '><a   href='http://foodlawblog.foodlaw.org/'>  <span class='lxb_lal_link_name'>Food Law Blog</span></a></li> <li class='lxb_lal_li '><a   href='http://scienceblogs.com/effectmeasure/'>  <span class='lxb_lal_link_name'>Science Blogs</span></a></li> <li class='lxb_lal_li '><a   href='http://lawprofessors.typepad.com/tortsprof/'>  <span class='lxb_lal_link_name'>Torts Professors Blog</span></a></li> <li class='lxb_lal_li '><a   href='http://www.foodliabilitylaw.com/'>  <span class='lxb_lal_link_name'>Food Liability Law Blog</span></a></li> <li class='lxb_lal_li '><a   href='http://freshtalk.blogspot.com/'>  <span class='lxb_lal_link_name'>Freshtalk</span></a></li> <li class='lxb_lal_li '><a   href='http://blog.eatwellguide.org/'>  <span class='lxb_lal_link_name'>The Green Fork</span></a></li> <li class='lxb_lal_li '><a   href='http://www.ethicurean.com/'>  <span class='lxb_lal_link_name'>Ethicurean</span></a></li> <li class='lxb_lal_li '><a   href='http://www.lavidalocavore.org/'>  <span class='lxb_lal_link_name'>La Vida Locavore</span></a></li> <li class='lxb_lal_li '><a   href='http://whattoeatbook.com/'>  <span class='lxb_lal_link_name'>What to Eat</span></a></li> <li class='lxb_lal_li '><a   href='http://www.fooducate.com/blog/'>  <span class='lxb_lal_link_name'>Fooducate</span></a></li> <li class='lxb_lal_li '><a   href='http://www.fightecoli.com/'>  <span class='lxb_lal_link_name'>Fight E. coli</span></a></li> <li class='lxb_lal_li '><a   href='http://obamafoodorama.blogspot.com/'>  <span class='lxb_lal_link_name'>Obama Foodorama</span></a></li> <li class='lxb_lal_li '><a   href='http://lawprofessors.typepad.com/mass_tort_litigation/'>  <span class='lxb_lal_link_name'>Mass Tort Litigation Blog</span></a></li> <li class='lxb_lal_li '><a   href='http://foodsafetychat.blogspot.com/'>  <span class='lxb_lal_link_name'>foodsafetychat</span></a></li> <li class='lxb_lal_li '><a   href='http://recalls.foodshield.org/'>  <span class='lxb_lal_link_name'>Food Shield</span></a></li> <li class='lxb_lal_li '><a   href='http://consumerist.com/'>  <span class='lxb_lal_link_name'>Consumerist</span></a></li> <li class='lxb_lal_li '><a   href='http://www.extension.iastate.edu/mt/foodsafety/'>  <span class='lxb_lal_link_name'>Iowa State University Food Safety Weblog</span></a></li> <li class='lxb_lal_li '><a   href='http://efoodalert.wordpress.com/'>  <span class='lxb_lal_link_name'>efoodalert</span></a></li> <li class='lxb_lal_li '><a   href='http://usfoodpolicy.blogspot.com/'>  <span class='lxb_lal_link_name'>U.S. Food Policy Blog</span></a></li> <li class='lxb_lal_li '><a   href='http://lawprofessors.typepad.com/foodlaw/'>  <span class='lxb_lal_link_name'>Food Law Prof Blog</span></a></li> <li class='lxb_lal_li '><a   href='http://www.extension.iastate.edu/foodsafety/'>  <span class='lxb_lal_link_name'>Food Safety from Farm to Table - Iowa State University Extension</span></a></li> <li class='lxb_lal_li '><a   href='http://lawprofessors.typepad.com/healthlawprof_blog/'>  <span class='lxb_lal_link_name'>Health Law Prof Blog</span></a></li> <li class='lxb_lal_li '><a   href='http://www.safetables.org/'>  <span class='lxb_lal_link_name'>S. T. O. P.</span></a></li> <li class='lxb_lal_li '><a   href='http://blogs.wsj.com/law'>  <span class='lxb_lal_link_name'>Law Blog</span></a></li> <li class='lxb_lal_li '><a   href='http://www.kitchenconfessional.com/'>  <span class='lxb_lal_link_name'>Kitchen Confessional</span></a></li> <li class='lxb_lal_li '><a   href='http://fanaticcook.blogspot.com/'>  <span class='lxb_lal_link_name'>Fanatic Cook</span></a></li> <li class='lxb_lal_li '><a   href='http://www.lexblog.com/'>  <span class='lxb_lal_link_name'>LexBlog</span></a></li></ul></div></section>		</div>
+
+</div><!-- .mainwrapper -->
+
+
+	<footer class="blog-footer">
+	
+		<div class="blog-footer-inner-wrapper">
+		
+			
+		
+		<div class="footer-1" role="complementary">
+			<section class="widget widget_text blog-logo">			<div class="textwidget"><a href="http://www.marlerblog.com"><h2>Marler Blog</h2>
+<h3>By Marler Clark LLS. PS.</h3></a></div>
+		</section><section class="widget widget_nav_menu "><div class="menu-global-navigation-container"><ul id="menu-global-navigation-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5096"><a href="/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4803"><a href="http://www.marlerblog.com/services/">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9668"><a href="http://www.marlerblog.com/about-bill-marler/">About Bill Marler</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5119"><a href="http://www.marlerblog.com/contact/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4825"><a href="http://www.marlerblog.com/archives-page/">Archives</a></li>
+</ul></div></section>		</div>
+
+		<div class="footer-2" role="complementary">
+			<section class="widget widget_text awards"><h3 class="widget-title">Awards</h3>			<div class="textwidget"><ul><li><a href='http://masterofpublichealth.org/essential-resources/#general'><img src='http://www.marlerblog.com/files/2012/09/top_public_health_resource.jpg' alt='Marler Blog'></a></li><li><a href='http://www.bestlawyers.com/firms/marler-clark/48829/US'><img src='http://www.marlerblog.com/files/2012/08/logo-best-lawyers.png' alt='Marler Blog'></a></li><li><a href='http://www.superlawyers.com/washington/lawyer/William-D-Marler/6f1ada99-7542-4338-92c1-6eba8e40f72d.html'><img src='http://www.marlerblog.com/files/2012/08/Super_Lawyers_2011_badge_93x93.jpeg' alt='Marler Blog'></a></li><li><a href='http://www.avvo.com/attorneys/98104-wa-william-marler-17776.html'><img src='http://www.marlerblog.com/files/2012/08/Avvo-2012-93x93.jpeg' alt='Marler Blog'></a></li><li><a href='http://www.seattleu.edu/alumni/awards.aspx'><img src='http://www.marlerblog.com/files/2012/08/SeattleU.png' alt='Marler Blog'></a></li><li><a href='http://www.bestofus.com/person-details.php?LISTING_ID=95914'><img src='http://www.marlerblog.com/files/2012/08/logo-best-of-us.png' alt='Marler Blog'></a></li><li><a href='http://www.lawdragon.com/the-2014-15-lawdragon-500-leading-lawyers/'><img src='http://www.marlerblog.com/files/2012/08/Marler-93x93.png' alt='Marler Blog'></a></li><li><a href='http://www.marlerblog.com/legal-cases/hallmark-and-westland-meat-packing-company-of-chino-california-is-recalling-143383823-pounds-of-raw/'><img src='http://www.marlerblog.com/files/2012/08/logo-kcba.png' alt='Marler Blog'></a></li><li><a href='http://www.nsf.org/business/newsroom/articles/food_1007_FSLA2010Winners.asp'><img src='http://www.marlerblog.com/files/2012/08/logo-nsf-93x92.png' alt='Marler Blog'></a></li><li><a href='http://www.marlerblog.com/lawyer-oped/separating-the-wheat-from-the-chaff&#8212;the-reality-of-proving-a-foodborne-illness-case-1/'><img src='http://www.marlerblog.com/files/2012/08/logo-wash-post.png' alt='Marler Blog'></a></li><li><a href='http://www.marlerblog.com/lawyer-oped/new-numbers-on-burden-of-foodborne-illness-in-the-united-states-coming-soon/'><img src='http://www.marlerblog.com/files/2012/08/logo-lexis-nexis.png' alt='Marler Blog'></a></li><li><a href='http://www.theatla.com/william-marler.html'><img src='http://www.marlerblog.com/files/2012/08/logo-top-100-93x92.png' alt='Marler Blog'></a></li><li><a href='http://www.marlerblog.com/lawyer-oped/president-obama-tell-your-kids-not-to-eat-their-fruits-and-vegetables-after-august-1/'><img src='http://www.marlerblog.com/files/2012/08/logo-wsa-justice.png' alt='Marler Blog'></a></li><li><a href='http://www.abajournal.com/blawg100'><img src='http://www.marlerblog.com/files/2012/08/BLAWG_100_HonoreeBadgeRed-91x93.jpeg' alt='Marler Blog'></a></li><li><a href='http://www.lexisnexis.com/community/litigationresourcecenter/blogs/litigationblog/archive/2011/11/30/lexisnexis-top-25-tort-law-blogs-for-2011-vote-for-the-top-tort-blog-of-the-year.aspx'><img src='http://www.marlerblog.com/files/2012/08/lxntort.png' alt='Marler Blog'></a></li><li><a href='http://bestlawfirms.usnews.com/'><img src='http://www.marlerblog.com/files/2012/08/Best-Law-Firms-Badge_2011-2012.jpeg' alt='Marler Blog'></a></li></ul></div>
+		</section>		</div>
+
+		<div class="footer-3" role="complementary">
+			<section class="widget widget_text contact-info">			<div class="textwidget"><div class="vcard">
+<div class="org"><h2>Marler Clark</h2><h3>The Food Safety Law Firm</h3></div>
+<div class="adr">
+<div class="street-address">1012 First Avenue, Fifth Floor </div>
+<span class="locality">Seattle</span> <span class="region">WA</span> <span class="postal-code">98104-1008</span>
+</div>
+<div><span class="tel">1-866-770-2032</span></div>
+</div>
+
+<div class="office_hours">OFFICE HOURS:<br />
+<span>M-F, 8:30 am - 5:00 pm, Pacific</span>
+</div></div>
+		</section><section class="widget widget_lxb_link_category_table "><table><tr><td class='label'>Salmonella</td><td><a target="_blank" href="http://www.about-salmonella.com/">About Salmonella</a><a target="_blank" href="http://www.salmonellablog.com/">Salmonella Blog</a><a target="_blank" href="http://www.salmonellalitigation.com/">Salmonella Lawsuits &amp; Litigation</a></td></tr><tr><td class='label'>Shigella</td><td><a target="_blank" href="http://www.about-shigella.com/">About Shigella</a><a target="_blank" href="http://www.shigellablog.com/">Shigella Blog</a></td></tr><tr><td class='label'>Complications of Foodborne Illness</td><td><a target="_blank" href="http://www.about-guillain-barre.com/">Guillain-Barré Syndrome</a><a target="_blank" href="http://www.about-hus.com/">Hemolytic Uremic Syndrome</a><a target="_blank" href="http://www.about-irritablebowelsyndrome.com/">Irritable Bowel Syndrome</a><a target="_blank" href="http://about-reactive-arthritis.com/">Reactive Arthritis</a></td></tr><tr><td class='label'>General Foodborne Illness Information</td><td><a target="_blank" href="http://www.foodborneillness.com/">Foodborneillness.com</a><a target="_blank" href="http://www.outbreakdatabase.com/">Outbreak Database</a></td></tr><tr><td class='label'>See Also</td><td><a target="_blank" href="http://www.foodpoisonjournal.com/">Food Poison Journal</a><a target="_blank" href="http://www.foodsafetynews.com/">Food Safety News</a><a target="_blank" href="http://www.marlerclark.com/">Marler Clark</a><a target="_blank" href="http://www.realrawmilkfacts.com/">Real Raw Milk Facts</a></td></tr></table></section><section class="widget widget_lxb_link_category_table "><table><tr><td class='label'>Botulism</td><td><a target="_blank" href="http://www.botulismblog.com/">Botulism Blog</a></td></tr><tr><td class='label'>Campylobacter</td><td><a target="_blank" href="http://www.about-campylobacter.com/">About Campylobacter</a><a target="_blank" href="http://www.campylobacterblog.com/">Campylobacter Blog</a></td></tr><tr><td class='label'>E. coli</td><td><a target="_blank" href="http://www.about-ecoli.com/">About E. coli</a><a target="_blank" href="http://www.about-hus.com/">About Hemolytic Uremic Syndrome</a><a target="_blank" href="http://www.ecoliblog.com/">E. coli Blog</a><a target="_blank" href="http://www.ecolilitigation.com/">E. coli Lawsuits &amp; Litigation</a></td></tr><tr><td class='label'>Hepatitis A</td><td><a target="_blank" href="http://www.about-hepatitis.com/">About Hepatitis A</a><a target="_blank" href="http://www.hepatitisblog.com/">Hepatitis A Blog</a><a target="_blank" href="http://www.hepatitislitigation.com/">Hepatitis A Lawsuits &amp; Litigation</a></td></tr><tr><td class='label'>Listeria</td><td><a target="_blank" href="http://www.about-listeria.com/">About Listeria</a><a target="_blank" href="http://www.listeriablog.com/">Listeria Blog</a></td></tr><tr><td class='label'>Norovirus</td><td><a target="_blank" href="http://www.about-norwalk.com/">About Norovirus</a></td></tr></table></section>		</div>
+
+		<div class="footer-4" role="complementary">
+			<section class="widget widget_text lxb_mb_colophon">			<div class="textwidget"><div class="colophon">
+				<span class="sans copyright-info">Copyright &copy; 2017, Marler Clark, LLP. All Rights Reserved.</span>	
+			</div>
+		</div>
+		</section><section class="widget widget_nav_menu legal"><div class="menu-footer-links-container"><ul id="menu-footer-links" class="menu"><li id="menu-item-4802" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4802 menu-item-privacy-policy"><a href="http://www.marlerblog.com/privacy-policy/">Privacy Policy |</a></li>
+<li id="menu-item-4801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4801 menu-item-disclaimer"><a href="http://www.marlerblog.com/disclaimer/">Disclaimer</a></li>
+</ul></div></section><section class="widget widget_text lxb_mb_logo">			<div class="textwidget"><a target="_blank" href="http://www.lexblog.com" class="lxb_logo">Design & Support By <span>Lexblog</span></a></div>
+		</section>		</div>
+		
+		
+
+
+		</div><!-- .blog-footer-inner-wrapper -->
+
+	</footer>
+	
+</div><!-- close wrapper div started in header.php -->
+
+        <script type="text/javascript">
+        // <![CDATA[
+        var disqus_shortname = 'marlerblog';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) { url = url[0]; }
+                    else { url = url[1]; }
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+        // ]]>
+        </script>
+        
+<!-- Google Analytics -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-1734745-46']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-1734745-46");
+	pageTracker._initData();
+	pageTracker._trackPageview();
+</script>
+<!-- end Google Analytics --> 
+
+    <script>
+
+		//the show-hide pulltab area at the top
+		jQuery('.pull-tab').hide();	
+        
+        jQuery(document).ready(function() {
+			
+			//aids styling if the search box is actually a nav item
+			jQuery(".header-widgets .search-box").appendTo('#menu-global-navigation');
+			jQuery("#menu-global-navigation .search-box").wrap('<li />');
+			jQuery("#menu-global-navigation li").last().addClass('last');
+
+			//positions the pull tab handle correctly for the show/hide
+			jQuery('.handle').insertAfter('.pull-tab');
+        	jQuery('.handle').click(function() {
+        		jQuery('.pull-tab').slideToggle();
+        	});	
+        	
+        	//strip link behavior from phone number in pull tab contact info area
+        	jQuery('.not-a-link a').click(function(event) {
+  				event.preventDefault();
+			});
+        	
+        	
+        	
+        	
+        	/*html5 placeholders in contact form 7
+      	    jQuery('.wpcf7-form input[type="text"]').each(function() { 
+        		var $this = jQuery(this); 
+        		$this.attr("placeholder", $this.attr("value")).removeAttr("value"); 
+    		});
+    		
+    		jQuery('.wpcf7-form textarea').focus(function() { 
+        		var $this = jQuery(this); 
+        		$this.html('');
+    		});
+    		
+    		jQuery('.wpcf7-form textarea').blur(function() { 
+        	var $this = jQuery(this); 
+        		if($this.html() == '' ) {
+        			$this.html('Comments')
+        		};
+    		});
+*/
+        	
+        });
+
+    </script>
+
+ 
+
+<script type='text/javascript'>
+jQuery(document).ready(function() {   
+    jQuery('input[type="text"]').focus(function() {      
+        if (this.value == this.defaultValue){
+            this.value = '';
+        }
+        if(this.value != this.defaultValue){
+            this.select();
+        }
+    });
+    jQuery('input[type="text"]').blur(function() {       
+        if (this.value == ''){
+            this.value = this.defaultValue;
+        }
+    });
+    
+      jQuery('textarea').focus(function() {      
+        if (this.value == this.defaultValue){
+            this.value = '';
+        }
+        if(this.value != this.defaultValue){
+            this.select();
+        }
+    });
+    jQuery('textarea').blur(function() {       
+        if (this.value == ''){
+            this.value = this.defaultValue;
+        }
+    });
+});
+</script>
+<script type='text/javascript' src='http://www.marlerblog.com/wp-includes/js/comment-reply.min.js?ver=4.5.6'></script>
+<script type='text/javascript' src='http://www.marlerblog.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.marlerblog.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.marlerblog.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.5'></script>
+<script type='text/javascript' src='http://www.marlerblog.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.marlerblog.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.marlerblog.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.marlerblog.com/wp-includes/js/wp-embed.min.js?ver=4.5.6'></script>
+	
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-500f312861abb1f1"></script>
+	
+</div><!-- end .outer_wrap -->
+	
+</body>
+</html>

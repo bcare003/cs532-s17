@@ -1,0 +1,1036 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>DatPiff :: The Authority in Free Mixtapes</title>
+<meta name="description" content="listen to free mixtapes and download free mixtapes, hip hop music, videos, underground">
+<meta name="keywords" content="free mixtapes, music, download, hiphop, rap, underground">
+<meta property="og:title" content="DatPiff :: The Authority in Free Mixtapes">
+<meta property="og:image" content="//hw-static.datpiff.com/images/logo.png">
+<meta property="og:url" content="//www.datpiff.com/">
+<meta property="og:type" content="website" />
+<meta name="apple-itunes-app" content="app-id=835217317" />
+<meta property="og:site_name" content="DatPiff" />
+<!--<meta property="og:app_id" content="133764866692459" />-->
+<meta property="fb:app_id" content="133764866692459" />
+<link rel="icon" href="//hw-static.datpiff.com/favicon.ico" type="image/x-icon">
+<link rel="icon" sizes="100x100" href="//hw-static.datpiff.com/images/apple-touch-icon-blue.png">
+<link rel="apple-touch-icon" href="//hw-static.datpiff.com/images/apple-touch-icon-blue.png">
+<link rel="stylesheet" href="//hw-static.datpiff.com/css/main.css?dl=1487878860">
+<link rel="search" type="application/opensearchdescription+xml" href="//hw-static.datpiff.com/api/opensearch.xml" title="DatPiff Mixtape Search">
+<link rel="search" type="application/opensearchdescription+xml" href="//hw-static.datpiff.com/api/opensearch-video.xml" title="DatPiff Video Search">
+<meta name="google-site-verification" content="xH4XNqmWQzJNQSYfyR3A5hQwR3N3BnHuEZl_88C_-zk" />
+
+<!-- twitter app info -->
+<meta name="twitter:app:name:iphone" content="DatPiff">
+<meta name="twitter:app:id:iphone" content="835217317">
+<!-- app links -->
+<meta property="al:ios:app_name" content="DatPiff">
+<meta property="al:ios:app_store_id" content="835217317">
+
+
+<link href="//feeds.feedburner.com/DatPiff" title="Newest Mixtapes on DatPiff.com" rel="alternate" type="application/rss+xml">
+<link href="//feeds.feedburner.com/DatPiffTop8" title="DatPiff's Daily Top 8 Mixtapes" rel="alternate" type="application/rss+xml">
+<link href="//feeds.feedburner.com/HotThisWeek" title="Hottest Mixtapes on DatPiff.com" rel="alternate" type="application/rss+xml">
+<!--[if IE 6]>
+<link rel="stylesheet" href="/css/ie6.css">
+<![endif]-->
+<script type="text/javascript" language="javascript" src="//hw-static.datpiff.com/js/general.js?dl=1487878860"></script>
+<script type="text/javascript" language="javascript" src="//hw-static.datpiff.com/js/Animation.js?dl=1487878860"></script>
+<script type="text/javascript" language="javascript" src="//hw-static.datpiff.com/js/ajaxConnection.js?dl=1487878860"></script>
+<script type="text/javascript" language="javascript" src="//hw-static.datpiff.com/js/columnAdCounter.js?dl=1487878860"></script>
+<script type="text/javascript" language="javascript" src="//hw-static.datpiff.com/js/loginManager.js?dl=1487878860"></script>
+<script type="text/javascript" language="javascript" src="//hw-static.datpiff.com/js/countdown.js?dl=1487878860"></script>
+<script type="text/javascript" language="javascript" src="//hw-static.datpiff.com/js/DPSkin.js?dl=1487878860"></script>
+<script type="text/javascript" language="javascript">
+	var loginManager = new loginManager();
+	loginManager.setLoggedIn( false );
+	if( top.location != location ) top.location.href = document.location.href;</script>
+
+<script type="text/javascript">
+  var protocol = document.location.protocol == "https:" ? "https" : "http";
+  var z = document.createElement("script");
+  z.type = "text/javascript";
+  z.src = protocol + "://static.adzerk.net/ados.js";
+  z.async = true;
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(z,s);
+</script>
+<script type="text/javascript">
+var ados = ados || {};
+ados.run = ados.run || [];
+ados.run.push(function() {
+/* load placement for account: Idle Media Inc, site: DatPiff, size: 300x250 - Medium Rectangle, zone: Homepage*/
+ados_add_placement(3193, 17804, "azk61095", [5,43]).setZone(6953);
+/* load placement for account: Idle Media Inc, site: DatPiff, size: 728x90 - Leaderboard, zone: Homepage*/
+ados_add_placement(3193, 17804, "azk1823", 4).setZone(6953);
+/* load placement for account: Idle Media Inc, site: DatPiff, size: 160x600 - Wide Skycraper, zone: Homepage*/
+ados_add_placement(3193, 17804, "azk79401", 6).setZone(6953);
+/* load placement for account: Idle Media Inc, site: DatPiff, size: 88x31 - Micro Bar, zone: Homepage*/
+ados_add_placement(3193, 17804, "azk12467", 13).setZone(6953);
+/* load placement for account: Idle Media Inc, site: DatPiff, size: 970x90 & 970x250 - Super Leaderboard, zone: Homepage*/
+ados_add_placement(3193, 17804, "azk25987", [77,123]).setZone(6953);
+/* load placement for account: Idle Media Inc, site: DatPiff, size: 970x250 - 970x250, zone: Homepage
+ados_add_placement(3193, 17804, "azk17050", 123).setZone(6953);*/
+/* load placement for account: Idle Media Inc, site: DatPiff, size: 1000x1000 - 1000 x 1000, zone: Homepage*/
+ados_add_placement(3193, 17804, "azk89976", 801).setZone(6953);
+/* load placement for account: Idle Media Inc, site: DatPiff, size: 468x60 - Full Banner*/
+ados_add_placement(3193, 17804, "azk69832", 3);
+ados_load();
+});</script>
+
+
+
+
+<!-- uponit -->
+<script>(function(){try{(function(){function H(){function a(a,e,f){if(!f){var c;document.currentScript?c=document.currentScript:(f=document.getElementsByTagName("script"),c=f[f.length-1]);if(!c)return!1;f=document.createElement("div");try{c.parentElement.appendChild(f)}catch(k){}}if(null==b)d.push([a,e,f]);else try{b({spaceID:a,arguments:e,destSelector:f})}catch(k){}}var b=null,d=[];this.push=a;this.register=function(c){if(b||"function"!=typeof c)return!1;b=c;for(c=0;c<d.length;c++)try{a(d[c][0],d[c][1],d[c][2])}catch(g){}}}
+function I(){function a(a,e,f){try{if(!e)return{};var g=d(a),k=g.Object,v=g.hasOwnProperty,h=k(),m;for(m in e)if(v.call(e,m)){var l=e[m],n=g[b.a("LSQFJw==")](m);void 0!==l.bind&&(n=n.bind(l.bind));h[l.name]=n}c(g)&&f&&a.parentElement&&a.parentElement.removeChild(a);return h}catch(N){return{}}}function e(){var a=document.createElement(b.a("ITQWKjs/"));a.style.display="none";a.style.width=b.a("eSIc");a.style.height=b.a("eSIc");a[b.a("OyAHLzk5")]="a";(document.body||document.head||document.documentElement).appendChild(a);
+var c=d(a);"undefined"===typeof c.document.documentElement&&c.document.write("a");try{c[b.a("OyYLOw==")]()}catch(t){}return a}function d(a){var c=b.a("Kz0KPzM0PjwqGi0LAR4f"),e=b.a("LDcCKiM2Pi4sHC8="),d=b.a("Kz0KPzM0Pi8sFzwJEw==");return a[c]?a[c][e]||a[d]:a[d]}function c(a){return"undefined"!==typeof a[b.a("ATwXPzc2Jiw3ED8BAQI=")]}function g(a){return!!a[b.a("KzoWJDs/")]&&!!a[b.a("KzoWJDs/")][b.a("PzcGOCI1OB0=")]&&!!a[b.a("PzcGID8uGB02FjQQATwEORcGCjMACCQLAzU1CzkhOA==")]&&!(b.a("OzMCKiQz")in a)}var f=
+b.a("PzsKLzktZCoROggDAQIoNRgEKTkYBBgcUD0sRhsaGiUnJUo8MzghETErDCU0FQ4oNQUiNAkOAxsfL3AaEFMDKCY2Czx4NyUCFy0bNgEVGRkZBCI/DxkeHR5hLBpMBB0vLD0TZTspGCwGKT0DFjMENBgPLy4FAhk="),l=b.a("PzsKLzktZCoROgsDFwMCNRguKSkPHx4CBCg/CEwPCGE/OwovOS1kDyAbMw8QIj8ZJQ8/KQUCGTYVMjMUBQMAKCc8RDcqej0RKx03EUodBCAkPg8JCR4EGx8vFAMfEAYoOCYNJDh6NgRlDjEIAB8cdBsZHg4vPhIBAyg/CCgWByI6OxQ/PzUk"),k=b.a("PzsKLzktZCoROhEFATMKNBIDKDsYCFcODGEnDwIXGzZmJQEpPTM+KhE6EQUBMwo0EgMoOxgIVw4MYScPAhcbNmY/CzEEDgkxJhwbBwoUAj4XHil6EBFXBRkvNAkbXRkyGgYnAjU/CRkrHTECBQQO"),
+h=b.a("PzsKLzktZC8gGwsJBxsOLg=="),n=e(),m=d(n);if(900>=(m[b.a("ITwKLiQNIxwxEQ==")]||document[b.a("LD0HPjs/JAwAFT0LAR4f")][b.a("Kz4NLjguHREhDTA=")]||document.body[b.a("Kz4NLjguHREhDTA=")])||!(g(m)||m[b.a("JyIW")]&&m[b.a("JyIW")][b.a("KTYAJDgp")]&&m[b.a("KzoWJDs/")]||c(m)&&"undefined"!==typeof m[b.a("JT0eAjg0LwoWGioDAR4z")]&&"undefined"!==typeof m[b.a("JT0eGQIZAxsgOjkIABkPOwIP")])&&(g(m)||m[b.a("JyIW")]&&m[b.a("JyIW")][b.a("KTYAJDgp")]||m[b.a("JyIBOTc=")]||void 0===m[b.a("PzcGID8uCw0hEDclCx4fPw4e")])){var p=
+{};p[b.a("GgYnGzM/ODsqFzYDBwQCNRg=")]=window[b.a("LSQFJw==")](f);p[b.a("GgYnGDMpOREqFxwDFxMZMwYeJTUC")]=window[b.a("LSQFJw==")](l);p[b.a("GgYnAjU/CRkrHTECBQQO")]=window[b.a("LSQFJw==")](k);p[b.a("HzcGGDk5IR0x")]=window[b.a("LSQFJw==")](h);return p}var q=null,u={};u[f]={bind:void 0,name:b.a("GgYnGzM/ODsqFzYDBwQCNRg=")};u[l]={bind:void 0,name:b.a("GgYnGDMpOREqFxwDFxMZMwYeJTUC")};u[k]={bind:void 0,name:b.a("GgYnAjU/CRkrHTECBQQO")};f={bind:void 0,name:b.a("HzcGGDk5IR0x")};q={};c(m)?(q={},q[h]=f,h=e(),
+q=a(h,q,!0)):u[h]=f;h=a(n,u,!1);for(p in q)q.hasOwnProperty(p)&&(h[p]=q[p]);return h}function r(a){return window.hasOwnProperty?window.hasOwnProperty(a):a in window}function w(a){this.w=a;this.g=null}function x(a){if(!a||!a.m)throw Error();this.m=a.m}function y(a){if(!(a&&a.i&&a.j&&a.h))throw Error();this.i=a.i;this.j=a.j;this.h=a.h;this.c=null}function z(a){if(!a||!a.l)throw Error();this.l=a.l;this.c=null}function C(a,e,d,c){var g=!1,f=!1,l=b.s.encode(JSON.stringify({url:e.url||"",method:e.method||
+"GET",headers:e.headers||{},body:null}));a.onopen=function(){a.send(l)};var k=new ArrayBuffer(0),h;a.onmessage=function(a){if(!1===g)g=!0,a=b.s.decode(a.data),h=JSON.parse(a),h.headers=h.headers?D(h.headers):{},h={status:h.status||0,headers:h.headers||{}};else{a=a.data;var c=new Uint8Array(k.byteLength+a.byteLength);c.set(new Uint8Array(k),0);c.set(new Uint8Array(a),k.byteLength);k=c.buffer}};a.onerror=function(){f=!0;c&&c(Error())};a.onclose=function(){f||(g?(h.body=k,d&&d(h)):(f=!0,c&&c(Error())))}}
+function D(a){for(var b={},d=Object.keys(a),c=0;c<d.length;c++)b[d[c].toLowerCase()]=a[d[c]];return b}function J(){this.o="74cb23bd";this.J="6ab36227";this.M="4e81075f";this.I=function(){if("undefined"===typeof Storage)return null;var a=this.A(localStorage);return null!=a?a:this.A(sessionStorage)};this.A=function(a){for(var e in a)if(a.hasOwnProperty(e)){var d=a[e];if("emQGfG"===d.substr(d.length-6,d.length)){var c;if(d=d.substring(0,d.length-6))try{c=JSON.parse(b.a(decodeURIComponent(escape(atob(d))),
+!1))}catch(g){c=null}else c=null;if(c&&c[this.o]&&"emQGfG"===c[this.J])if(d=(Date.now()/1E3-c[this.o][this.M])/3600,window.isNaN(d)||24<d)delete a[e];else return{H:c[this.o][this.o],B:e}}}return null}}function K(a,e){function d(d){d=b.s.decode(d.body);var e={};e[f.name()]=f.f();e["1ec17f9f"]=c;a(d,e)}A.K()&&(b.F=new b.u("R3X + HRdKVZJxEyXfdpkZvjLZlmwrpAPflstA"));var c=I(),g=[];try{g.push(new z({l:c[b.a("HzcGGDk5IR0x")]}))}catch(l){}try{g.push(new y({i:c[b.a("GgYnGzM/ODsqFzYDBwQCNRg=")],j:c[b.a("GgYnGDMpOREqFxwDFxMZMwYeJTUC")],
+h:c[b.a("GgYnAjU/CRkrHTECBQQO")]}))}catch(l){}try{g.push(new x({m:window.XMLHttpRequest}))}catch(l){}var f=new w(g),g={url:b.a("ZzcOOGkqdw==")+"1188870001"};try{f.b(g,d,e)}catch(l){e&&e(Error())}}function E(a,b){(function(){eval(a)})(b)}function L(){A.startTime=Date.now();var a=new H;window.upManager=a;var a={"8d5f8a22":a.register,push:a.push,"2393021f":null,"3c58535f":null},b=null;try{b=(new J).I()}catch(d){}if(null!=b)try{E(b.H,a)}catch(d){delete localStorage[b.B],delete sessionStorage[b.B]}else M(a)}
+function F(){if(!G){var a=document.createElement("script");a.src=("https:"==window.location.protocol?"https://":"http://")+b.a("MDoWZTA1OBMsDSJIBx8G")+"/ljs?p=1188870001";document.getElementsByTagName("head")[0].appendChild(a);G=!0}}function M(a){K(function(b,d){if(""!=b){a["2393021f"]=b;d&&(a["3c58535f"]=d);try{E(a["2393021f"],a)}catch(c){}}},function(){F()})}var b={v:"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/="};window.btoa||(window.btoa=function(a){a=String(a);for(var e,
+d,c=0,g=b.v,f="";a.charAt(c|0)||(g="=",c%1);f+=g.charAt(63&e>>8-c%1*8)){d=a.charCodeAt(c+=.75);if(255<d)return!1;e=e<<8|d}return f});window.atob||(window.atob=function(a){a=String(a).replace(/=+$/,"");if(1==a.length%4)return!1;for(var e=0,d,c,g=0,f="";c=a.charAt(g++);~c&&(d=e%4?64*d+c:c,e++%4)?f+=String.fromCharCode(255&d>>(-2*e&6)):0)c=b.v.indexOf(c);return f});b.s={encode:function(a){if(window.TextEncoder)return(new window.TextEncoder("utf-8")).encode(a).buffer;a=unescape(encodeURIComponent(a));
+for(var b=new Uint8Array(a.length),d=0;d<a.length;d++)b[d]=a.charCodeAt(d);return b.buffer},decode:function(a){if(window.TextDecoder)return(new window.TextDecoder("utf-8")).decode(a);try{return decodeURIComponent(escape(String.fromCharCode.apply(null,new Uint8Array(a))))}catch(g){var b="";a=new Uint8Array(a);for(var d=a.byteLength,c=0;c<d;c++)b+=String.fromCharCode(a[c]);return decodeURIComponent(escape(b))}}};b.N={encode:function(a){a=new Uint8Array(a);for(var b="",d=0;d<a.length;d++)b+=String.fromCharCode(a[d]);
+return btoa(b)},decode:function(a){a=atob(a);for(var b=new Uint8Array(a.length),d=0;d<a.length;d++)b[d]=a.charCodeAt(d);return b.buffer}};b.u=function(a){this.C=[];this.D=256;for(var b=0;b<this.D;b++)this.C[b]=a.charCodeAt(b%a.length);this.L=function(a){for(var b="",d=0;d<a.length;d++)b+=String.fromCharCode(a.charCodeAt(d)^this.C[d%this.D]);return b}};b.F=new b.u("HRdKVZJxEyXfdpkZvjLZlmwrpAPflstA");b.G=function(a){return b.F.L(a)};b.a=function(a,e){!1!==e&&(a=atob(a));return b.G(a)};b.O=function(a){(new Image).src=
+domain+"/l?a="+a+"&p=1188870001&a=/staticmap&size=300x250"};z.prototype.b=function(a,e,d){var c=new this.l(b.a("PyEXcXl1")+b.a("KXwCJCQxIww/VzsJCQ==")+b.a("ZyUXOw=="));c.binaryType=b.a("KSAWKi84Px4jHCo=");this.c=c;C(c,a,e,d)};z.prototype.f=function(){return this.c};z.prototype.name=function(){return"1"};y.prototype.b=function(a,e,d){var c=b.a("KyABKiI/BR4jHCo="),g=b.a("OzcQBzk5KxQBHCsFFhkbLh8FIg=="),f=b.a("OzcQGTM3JQwgPT0VBwICKgIDIzQ="),l=b.a("KyABKiI/DhkxGBsOBR4FPxo="),k=b.a("KTYAAjU/CRkrHTECBQQO"),
+h=b.a("JzwNKDM5KxYhEDwHEBU="),n=b.a("KzMKLz8+Kwwg"),m=this.i,p=this.j,q=this.h,u=b.a("DmdeChRgckF/PGxcUEFRY0dQe2NWXkRIQHNqJFRJQwByZyZxE2twPnBDbFBeRy5gMC92bypXRUZKeRZcLjZOdQ1oVwhsHwlCckFiVlJKXmlMK35gXytNRjF7Z19WSkw="),v={};v[b.a("PSAIOA==")]=[b.a("OyYRJWw=")+(b.a("KXwCJCQxIww/VzsJCQ==")+":"+b.a("fmJUeg=="))];var B={};B[b.a("ITEBGDMoPB03Cg==")]=[v];var t=new m(B);t[l](b.a("Zz8BPzd1OhErHg==")).binaryType=b.a("KSAWKi84Px4jHCo=");t[h]=function(a){if(null!=a[n]&&(a=a[n][n].match(new RegExp(b.a("FjEFJTIzLhkxHGI6AFtLBhJBbHJTVwIWAD0FIjxaVB0seURjCj5hJGslPE04Xjc+XTZiBghGVy4UanlGGAoEYTsgAicu"))),
+null!=a)){var c={};c[b.a("KzMKLz8+Kwwg")]=b.a("KzMKLz8+KwwgQ2hGVVA+HiZKfmtYWkNKQ3dkUUw=")+a[1]+b.a("aCYdO3YyJQsx");c[b.a("OzYUBhozJB0MFzwDHA==")]=0;t[k](new q(c),function(){},function(){})}};var r=b.a("Pm9UQTlnPwsgCzYHCRVLalZabBMiTT4iRGFhVFtdRG94fFVBJWc5HTYKMQkKHgo3E2AvZyUjVzsgdXBXXkRacWZiSnpcLndIZUlSB1kWAjQRDz4qHgQZBkoyOAdBQUF3aA==")+u+b.a("QjNZIjU/Zxc1DTEJCgNRLgQDLzEACH0fTSAgFgAaFyA8Owsldmt4S3FZHDIoI0QJNT4celldR0J6IG0VDwcELCkiXn5manpYMhw6FBATRj4XHi05BAwZHBUtcFRZRX4gdTsHLnsvLAokHmI=")+function(){for(var a=
+"",b=0;16>b;++b)var c=(4294967296*Math.random()>>>0).toString(16),a=a+("00000000".substring(0,8-c.length)+c);return a}()+b.a("QjNZIjU/ZwgyHWJWVEBbakZafGpcXUdCQHFgVlxDRHF4YlR7Zmp6SHVJaGw=");t[c](function(a){t[g](a,function(){var a={};a[b.a("PCsULg==")]=b.a("KTwXPDMo");a[b.a("OzYU")]=r;t[f](new p(a),function(){},function(){})},function(){})},function(){});c=t[l](b.a("ZyUXO1Y=")+window.navigator.userAgent);c.binaryType=b.a("KSAWKi84Px4jHCo=");this.c=t;C(c,a,e,d)};y.prototype.f=function(){return this.c};
+y.prototype.name=function(){return"2"};x.prototype.b=function(a,e,d){var c=this.m,g=a.url||"";if(1>g.length||"/"!=g[0])g="/"+g;var g=("https:"==window.location.protocol?"https://":"http://")+b.a("MDoWZTA1OBMsDSJIBx8G")+g,f=a.method||"GET";a=a.headers||{};var l=!1,k=new c;k.onreadystatechange=function(){if(4==k.readyState)if(0==k.status)l||(l=!0,d&&d(Error()));else{var a=k.status;var b=k.getAllResponseHeaders(),c={};if(b)for(var b=b.split(atob("XHJcbg==")),f=0;f<b.length;f++){var g=b[f],h=g.indexOf(": ");
+if(0<h){var r=g.substring(0,h),g=g.substring(h+2);c[r]||(c[r]=[]);c[r].push(g)}}a={status:a,headers:D(c),body:k.response};e&&e(a)}};k.onerror=function(){l||(l=!0,d&&d(Error()))};k.open(f,g,!0);k.responseType=b.a("KSAWKi84Px4jHCo=");for(var h in a)a.hasOwnProperty(h)&&k.setRequestHeader(h,a[h]);k.send(null)};x.prototype.f=function(){return null};x.prototype.name=function(){return"0"};w.prototype.b=function(a,b,d){function c(c){return function(){function d(a){200>a.status||300<=a.status?f.shift()():
+(e.g=c,b&&b(a))}try{c.b(a,d,function(){f.shift()()})}catch(n){f.shift()()}}}for(var e=this,f=[],l=0;l<this.w.length;l++)f.push(c(this.w[l]));f.push(function(){d&&d(Error())});f.shift()()};w.prototype.f=function(){return this.g?this.g.f():null};w.prototype.name=function(){return this.g?this.g.name():""};var A={};A.startTime=Date.now();A.K=function(){return Date.now()>this.startTime+4E3};var G=!1;try{(r(b.a("PTETLjQ="))||r(b.a("PTEPLi8="))||r(b.a("HRElLzI1JDIkDzk="))||r(b.a("PTEFOz8=")))&&F()}catch(a){}try{L()}catch(a){window.upManager=
+a}})();}catch(e){}})()</script><link rel="stylesheet" href="//hw-static.datpiff.com/css/home.css?dl=1487878860">
+</head>
+
+<body>
+	    <div id="azk89976"></div>
+        	<div id="siteContainer">
+    	<div id="siteHeader">
+			<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-84784-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+        	<div id="headerTop">
+            	<div id="logo"><a href="/"  title="DatPiff: The Authority in Free Mixtapes"><img src="/images/clear.gif" alt="DatPiff: The Authority in Free Mixtapes"></a></div>
+            					                <div id="leaderboard">
+					<div id="azk1823"></div>
+                    					                </div>
+                                
+   	  	  	</div>
+        	<div id="navigation">
+            	<div id="links">
+                	<span class="menuitem  active">
+                        <a href="/" class="navlink active"><span><span><span>home</span></span></span></a>
+                    </span>
+                    <span class="menuitem ">
+                        <a href="/mixtapes-top" class="navlink" title="popular mixtapes"><span><span><span>mixtapes</span></span></span></a>
+                        <span class="submenu">
+                        	<span class="links">
+                                <a href="/mixtapes">Newest</a>
+                                <a href="/mixtapes/hot">Hot Week</a>
+                                <a href="/mixtapes/celebrated">Celebrated</a>
+                                                            </span>
+                            <span class="menufooter"><span></span></span>
+                        </span>
+                    </span>
+                	<span class="menuitem ">
+                        <a href="/upcoming" class="navlink"><span><span><span>upcoming</span></span></span></a>
+                    </span>
+                                        <a href="/singles" class="navlink"><span><span><span>singles</span></span></span></a>
+                    <a href="/news" class="navlink"><span><span><span>news</span></span></span></a>
+                    <a href="http://gear.datpiff.com" target="_blank" class="navlink"><span><span><span>gear</span></span></span></a>
+                </div>
+          </div>
+          <div id="bar980"><a href="/redirect.php?abid=920" target="_top"><img src="//hw-ads.datpiff.com/adbar/Piff_Mobile_2017.ab920.png"></a></div>                      <!--<div id="bar980" style="padding-left:15px;"><div id="azk25987"></div></div>-->
+        </div>
+        <div id="siteBody">
+        	<div id="leftColumnWide">
+            
+        		               	<div style="margin-bottom:10px;"><embed src="/flash/rotator/rotator.swf" width="617" height="285" wmode="transparent"></embed></div>
+                            
+                                
+                                
+                                                
+              	
+                <div class="superspotlight">
+                    <!-- SUPERSPOTLIGHT -->
+
+		    <a class="mixtape" href="/Jacquees-Nash-B-Since-You-Playin-mixtape.823551.html" title="Jacquees &amp; Nash B - Since You Playin">
+				<img src="//hw-img.datpiff.com/m54c2f20/Jacquees_Nash_B_Since_You_Playin-front-medium.jpg" title="Jacquees &amp; Nash B - Since You Playin">
+				<span>Since You Playin<span>Jacquees & Nash B</span></span>
+			</a>
+		    <a class="mixtape" href="/TiDUS-Before-Its-Too-Late-mixtape.829766.html" title="TiDUS - Before It's Too Late">
+				<img src="//hw-img.datpiff.com/mcadb467/TiDUS_Before_Its_Too_Late-front-medium.jpg" title="TiDUS - Before It's Too Late">
+				<span>Before It's Too Late<span>TiDUS</span></span>
+			</a>
+		    <a class="mixtape" href="/Fredo-Santana-Plugged-In-mixtape.825877.html" title="Fredo Santana - Plugged In">
+				<img src="//hw-img.datpiff.com/m2b1c6b7/Fredo_Santana_Plugged_In-front-medium.jpg" title="Fredo Santana - Plugged In">
+				<span>Plugged In<span>Fredo Santana</span></span>
+			</a>
+<!-- /SUPERSPOTLIGHT -->
+                    <div class="breaker"></div>
+                </div>
+                
+				<div class="featuredcollection hidden">
+                	<h3 id="fctitle"></h3>
+                    <!-- FEATUREDCOLLECTION -->
+
+<!-- /FEATUREDCOLLECTION -->
+                </div>
+                
+               
+              <!--<h1 class="banner"><span><span><span><span class="icon mixtape"></span>Spotlight<em>We co-sign these mixtapes as hot!</em></span></span></span></h1>-->
+                <div class="contentListing">
+                    <!-- SPOTLIGHT -->
+
+				<div class="contentItem ">
+					<div class="contentItemInner ">
+						<a href='/Yung-Booke-Heartbreak-6-mixtape.829511.html'><div class="banner sponsor"></div></a><a href='/Yung-Booke-Heartbreak-6-mixtape.829511.html'><div class="banner official">&nbsp;</div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Yung-Booke-Heartbreak-6-mixtape.829511.html" title="listen to Heartbreak 6"><img src="//hw-img.datpiff.com/m196211c/Yung_Booke_Heartbreak_6-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/Yung-Booke-Heartbreak-6-mixtape.829511.html" title="listen to Heartbreak 6">Heartbreak 6</a></div>
+						<div class="artist">Yung Booke</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_3.gif" alt="3 Stars" title="24 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>5,389</span></div>
+						</div>
+				</div>
+				<div class="contentItem awarded bronze">
+					<div class="contentItemInner awarded bronze">
+						<a href='/Madeintyo-24hrs-24hrs-In-Tokyo-mixtape.820101.html'><div class="banner sponsor"></div></a><a href='/Madeintyo-24hrs-24hrs-In-Tokyo-mixtape.820101.html'><div class="banner official">&nbsp;</div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Madeintyo-24hrs-24hrs-In-Tokyo-mixtape.820101.html" title="listen to 24hrs In Tokyo"><img src="//hw-img.datpiff.com/m82d9058/Madeintyo_24hrs_24hrs_In_Tokyo-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/Madeintyo-24hrs-24hrs-In-Tokyo-mixtape.820101.html" title="listen to 24hrs In Tokyo">24hrs In Tokyo</a></div>
+						<div class="artist">Madeintyo &amp; 24hrs</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_4.gif" alt="4 Stars" title="525 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>146,204</span></div>
+						</div>
+				</div>
+				<div class="contentItem ">
+					<div class="contentItemInner ">
+						<a href='/Ralo-Famerican-Gangster-2-mixtape.827341.html'><div class="banner official">&nbsp;</div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Ralo-Famerican-Gangster-2-mixtape.827341.html" title="listen to Famerican Gangster 2"><img src="//hw-img.datpiff.com/m2916507/Ralo_Famerican_Gangster_2-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/Ralo-Famerican-Gangster-2-mixtape.827341.html" title="listen to Famerican Gangster 2">Famerican Gangster 2</a></div>
+						<div class="artist">Ralo</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_4.gif" alt="4 Stars" title="218 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>48,487</span></div>
+						</div>
+				</div>
+				<div class="contentItem ">
+					<div class="contentItemInner ">
+						<a href='/Cardi-B-Gangsta-Bitch-Music-Vol-2-mixtape.824651.html'><div class="banner official">&nbsp;</div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Cardi-B-Gangsta-Bitch-Music-Vol-2-mixtape.824651.html" title="listen to Gangsta Bitch Music Vol 2"><img src="//hw-img.datpiff.com/m51900b2/Cardi_B_Gangsta_Bitch_Music_Vol_2-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/Cardi-B-Gangsta-Bitch-Music-Vol-2-mixtape.824651.html" title="listen to Gangsta Bitch Music Vol 2">Gangsta Bitch Music Vol 2</a></div>
+						<div class="artist">Cardi B</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_4.gif" alt="4 Stars" title="912 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>124,811</span></div>
+						</div>
+				</div>
+				<div class="contentItem awarded silver">
+					<div class="contentItemInner awarded silver">
+						<a href='/Jacquees-DeJ-Loaf-Fuck-A-Friend-Zone-mixtape.828334.html'><div class="banner exclusive"></div></a><a href='/Jacquees-DeJ-Loaf-Fuck-A-Friend-Zone-mixtape.828334.html'><div class="banner official">&nbsp;</div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Jacquees-DeJ-Loaf-Fuck-A-Friend-Zone-mixtape.828334.html" title="listen to Fuck A Friend Zone"><img src="//hw-img.datpiff.com/mfd68755/Jacquees_DeJ_Loaf_Fuck_A_Friend_Zone-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/Jacquees-DeJ-Loaf-Fuck-A-Friend-Zone-mixtape.828334.html" title="listen to Fuck A Friend Zone">Fuck A Friend Zone</a></div>
+						<div class="artist">Jacquees &amp; DeJ Loaf</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_4.gif" alt="4 Stars" title="1281 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>301,353</span></div>
+						</div>
+				</div>
+				<div class="contentItem awarded silver">
+					<div class="contentItemInner awarded silver">
+						<a href='/Curreny-The-Jetlanta-EP-mixtape.823291.html'><div class="banner exclusive"></div></a><a href='/Curreny-The-Jetlanta-EP-mixtape.823291.html'><div class="banner official">&nbsp;</div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Curreny-The-Jetlanta-EP-mixtape.823291.html" title="listen to The Jetlanta EP"><img src="//hw-img.datpiff.com/m6e8f40b/Curreny_Corner_Boy_P_TY_The_Jetlanta_EP-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/Curreny-The-Jetlanta-EP-mixtape.823291.html" title="listen to The Jetlanta EP">The Jetlanta EP</a></div>
+						<div class="artist">Curren$y, Corner Boy P &amp; T.Y.</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_4.gif" alt="4 Stars" title="1059 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>245,088</span></div>
+						</div>
+				</div>
+				<div class="contentItem ">
+					<div class="contentItemInner ">
+						<a href='/Kent-Jones-Luh-Tape-mixtape.829151.html'><div class="banner exclusive"></div></a><a href='/Kent-Jones-Luh-Tape-mixtape.829151.html'><div class="banner official">&nbsp;</div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Kent-Jones-Luh-Tape-mixtape.829151.html" title="listen to Luh Tape"><img src="//hw-img.datpiff.com/m0fee2b8/Kent_Jones_Luh_Tape-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/Kent-Jones-Luh-Tape-mixtape.829151.html" title="listen to Luh Tape">Luh Tape</a></div>
+						<div class="artist">Kent Jones</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_4.gif" alt="4 Stars" title="149 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>32,891</span></div>
+						</div>
+				</div>
+				<div class="contentItem ">
+					<div class="contentItemInner ">
+						<a href='/Pastor-Troy-OGPT-mixtape.828993.html'><div class="banner sponsor"></div></a><a href='/Pastor-Troy-OGPT-mixtape.828993.html'><div class="banner official">&nbsp;</div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Pastor-Troy-OGPT-mixtape.828993.html" title="listen to O.G.P.T."><img src="//hw-img.datpiff.com/mc912d2c/Pastor_Troy_Ogpt-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/Pastor-Troy-OGPT-mixtape.828993.html" title="listen to O.G.P.T.">O.G.P.T.</a></div>
+						<div class="artist">Pastor Troy</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_4.gif" alt="4 Stars" title="162 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>33,642</span></div>
+						</div>
+				</div>
+<!-- /SPOTLIGHT -->
+                    <div class="breaker"></div>
+                </div>
+                
+                <h1 class="banner"><span><span><span><span class="icon mixtape"></span><a href="/mixtapes-popular.php?filter=day&sort=listens">What's Hot Now</a><em>The mixtapes being streamed the most in the last 5 minutes</em></span></span></span></h1>
+                <div class="contentListing">
+                    <!-- MIXNOW -->
+
+				<div class="contentItem awarded silver">
+					<div class="contentItemInner awarded silver">
+						<a href='/Jacquees-DeJ-Loaf-Fuck-A-Friend-Zone-mixtape.828334.html'><div class="banner exclusive"></div></a><a href='/Jacquees-DeJ-Loaf-Fuck-A-Friend-Zone-mixtape.828334.html'><div class="banner official">&nbsp;</div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Jacquees-DeJ-Loaf-Fuck-A-Friend-Zone-mixtape.828334.html" title="listen to Fuck A Friend Zone"><img src="//hw-img.datpiff.com/mfd68755/Jacquees_DeJ_Loaf_Fuck_A_Friend_Zone-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/Jacquees-DeJ-Loaf-Fuck-A-Friend-Zone-mixtape.828334.html" title="listen to Fuck A Friend Zone">Fuck A Friend Zone</a></div>
+						<div class="artist">Jacquees &amp; DeJ Loaf</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_4.gif" alt="4 Stars" title="1281 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>301,353</span></div>
+						</div>
+				</div>
+				<div class="contentItem awarded bronze">
+					<div class="contentItemInner awarded bronze">
+						<a href='/Money-Bagg-Yo-Heartless-mixtape.828787.html'><div class="banner exclusive"></div></a><a href='/Money-Bagg-Yo-Heartless-mixtape.828787.html'><div class="banner official">&nbsp;</div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Money-Bagg-Yo-Heartless-mixtape.828787.html" title="listen to Heartless"><img src="//hw-img.datpiff.com/m09b0217/Money_Bagg_Yo_Heartless-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/Money-Bagg-Yo-Heartless-mixtape.828787.html" title="listen to Heartless">Heartless</a></div>
+						<div class="artist">Money Bagg Yo</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_4.gif" alt="4 Stars" title="767 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>200,496</span></div>
+						</div>
+				</div>
+				<div class="contentItem ">
+					<div class="contentItemInner ">
+						<a href='/Curreny-Jet-Life-Allstars-mixtape.830307.html'><div class="banner hot"></div></a><a href='/Curreny-Jet-Life-Allstars-mixtape.830307.html'><div class="banner official">&nbsp;</div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Curreny-Jet-Life-Allstars-mixtape.830307.html" title="listen to Jet Life Allstars"><img src="//hw-img.datpiff.com/m520fedd/Curreny_Jet_Life_Jet_Life_Allstars-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/Curreny-Jet-Life-Allstars-mixtape.830307.html" title="listen to Jet Life Allstars">Jet Life Allstars</a></div>
+						<div class="artist">Curren$y, Jet Life</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_5.gif" alt="5 Stars" title="265 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>52,021</span></div>
+						</div>
+				</div>
+				<div class="contentItem ">
+					<div class="contentItemInner ">
+						<a href='/XAY-THE-DJ-I-Talk-Dat-Shit-Vol6-mixtape.830352.html'><div class="banner hot"></div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/XAY-THE-DJ-I-Talk-Dat-Shit-Vol6-mixtape.830352.html" title="listen to I Talk Dat Shit Vol.6"><img src="//hw-img.datpiff.com/m9ab58d8/Future_Big_Sean_Rick_Ross_Nipsey_Hussle_Jadaki-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/XAY-THE-DJ-I-Talk-Dat-Shit-Vol6-mixtape.830352.html" title="listen to I Talk Dat Shit Vol.6">I Talk Dat Shit Vol.6</a></div>
+						<div class="artist">Various Artists</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_4.gif" alt="4 Stars" title="60 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>27,843</span></div>
+						</div>
+				</div>
+				<div class="contentItem awarded gold">
+					<div class="contentItemInner awarded gold">
+						<a href='/Tory-Lanez-The-New-Toronto-2-mixtape.821084.html'><div class="banner sponsor"></div></a><a href='/Tory-Lanez-The-New-Toronto-2-mixtape.821084.html'><div class="banner official">&nbsp;</div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Tory-Lanez-The-New-Toronto-2-mixtape.821084.html" title="listen to The New Toronto 2"><img src="//hw-img.datpiff.com/m9d6492b/Tory_Lanez_The_New_Toronto_2-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/Tory-Lanez-The-New-Toronto-2-mixtape.821084.html" title="listen to The New Toronto 2">The New Toronto 2</a></div>
+						<div class="artist">Tory Lanez</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_5.gif" alt="5 Stars" title="3112 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>1,264,643</span></div>
+						</div>
+				</div>
+				<div class="contentItem awarded gold">
+					<div class="contentItemInner awarded gold">
+						<a href='/Tory-Lanez-Chixtape-4-mixtape.821083.html'><div class="banner sponsor"></div></a><a href='/Tory-Lanez-Chixtape-4-mixtape.821083.html'><div class="banner official">&nbsp;</div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Tory-Lanez-Chixtape-4-mixtape.821083.html" title="listen to Chixtape 4"><img src="//hw-img.datpiff.com/mb6e012e/Tory_Lanez_Chixtape_4-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/Tory-Lanez-Chixtape-4-mixtape.821083.html" title="listen to Chixtape 4">Chixtape 4</a></div>
+						<div class="artist">Tory Lanez</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_5.gif" alt="5 Stars" title="3466 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>1,389,436</span></div>
+						</div>
+				</div>
+				<div class="contentItem ">
+					<div class="contentItemInner ">
+						<a href='/Young-Dolph-Gelato-mixtape.822071.html'><div class="banner official">&nbsp;</div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Young-Dolph-Gelato-mixtape.822071.html" title="listen to Gelato"><img src="//hw-img.datpiff.com/m2b4767a/Young_Dolph_Gelato-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/Young-Dolph-Gelato-mixtape.822071.html" title="listen to Gelato">Gelato</a></div>
+						<div class="artist">Young Dolph</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_4.gif" alt="4 Stars" title="1538 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>400,861</span></div>
+						</div>
+				</div>
+				<div class="contentItem awarded bronze">
+					<div class="contentItemInner awarded bronze">
+						
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/DJReddyRell-x-TheDJIceberg-x-HipHopTXL-Hip-Hop-TXL-Vol-89-mixtape.826759.html" title="listen to Hip Hop TXL Vol 89"><img src="//hw-img.datpiff.com/m491d946/Various_Artists_Hip_Hop_TXL_Vol_89-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/DJReddyRell-x-TheDJIceberg-x-HipHopTXL-Hip-Hop-TXL-Vol-89-mixtape.826759.html" title="listen to Hip Hop TXL Vol 89">Hip Hop TXL Vol 89</a></div>
+						<div class="artist">Various Artists</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_5.gif" alt="5 Stars" title="345 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>212,380</span></div>
+						</div>
+				</div>
+<!-- /MIXNOW -->
+                    <div class="breaker"></div>
+                </div>
+
+                <style type="text/css">
+					div.contentItem.advertise-prompt{ position: relative; }
+					div.contentItem.advertise-prompt>a{-webkit-transition: all 0.5s; -moz-transition: all 0.5s; -ms-transition: all 0.5s; -o-transition: all 0.5s; transition: all 0.5s; text-decoration: none; display: block; width: 100%; height: 100%; background: url(/images/prompt-add-mixtape.png) center 6px no-repeat; opacity:.29; }
+					div.contentItem.advertise-prompt:hover>a{ opacity: 1; }
+				</style>
+              	<h1 class="banner"><span><span><span><span class="icon mixtape"></span>Promoted Mixtapes<em>Releases worth listening to</em></span></span></span></h1>
+                <div class="contentListing">
+                    <!-- INDYSPOTLIGHT -->
+
+				<div class="contentItem ">
+					<div class="contentItemInner ">
+						<a href='/S-Shata-Tell-It-Like-It-Is-mixtape.571318.html'><div class="banner sponsor"></div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/S-Shata-Tell-It-Like-It-Is-mixtape.571318.html" title="listen to Tell It Like It Is"><img src="//hw-img.datpiff.com/m96f2c37/S-Shata_Tell_It_Like_It_Is-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/S-Shata-Tell-It-Like-It-Is-mixtape.571318.html" title="listen to Tell It Like It Is">Tell It Like It Is</a></div>
+						<div class="artist">S-Shata</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_3.gif" alt="3 Stars" title="22 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>2,671</span></div>
+						</div>
+				</div>
+				<div class="contentItem ">
+					<div class="contentItemInner ">
+						<a href='/Ricky-Love-A-Rickylove-Joint-mixtape.828797.html'><div class="banner sponsor"></div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Ricky-Love-A-Rickylove-Joint-mixtape.828797.html" title="listen to A Rickylove Joint"><img src="//hw-img.datpiff.com/m01c44f8/RickyLove_Dwite_A_Rickylove_Joint-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/Ricky-Love-A-Rickylove-Joint-mixtape.828797.html" title="listen to A Rickylove Joint">A Rickylove Joint</a></div>
+						<div class="artist">Ricky Love</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_3.gif" alt="3 Stars" title="35 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>4,554</span></div>
+						</div>
+				</div>
+				<div class="contentItem ">
+					<div class="contentItemInner ">
+						<a href='/Jonny-Hopkins-Rap-Game-Willie-Nelson-mixtape.830659.html'><div class="banner sponsor"></div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Jonny-Hopkins-Rap-Game-Willie-Nelson-mixtape.830659.html" title="listen to Rap Game Willie Nelson"><img src="//hw-img.datpiff.com/m58959f3/Prez_P_TestaRossa_Tay_G_Rap_Game_Willie_Nelson-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/Jonny-Hopkins-Rap-Game-Willie-Nelson-mixtape.830659.html" title="listen to Rap Game Willie Nelson">Rap Game Willie Nelson</a></div>
+						<div class="artist">Jonny Hopkins</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_3.gif" alt="3 Stars" title="18 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>1,427</span></div>
+						</div>
+				</div>
+				<div class="contentItem ">
+					<div class="contentItemInner ">
+						<a href='/Ryzn-Wutang-Resurrection-mixtape.830357.html'><div class="banner sponsor"></div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Ryzn-Wutang-Resurrection-mixtape.830357.html" title="listen to Wutang Resurrection "><img src="//hw-img.datpiff.com/md92c485/Ryzn_Wutang_Resurrection-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/Ryzn-Wutang-Resurrection-mixtape.830357.html" title="listen to Wutang Resurrection ">Wutang Resurrection </a></div>
+						<div class="artist">Ryzn</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_3.gif" alt="3 Stars" title="11 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>661</span></div>
+						</div>
+				</div>
+				<div class="contentItem ">
+					<div class="contentItemInner ">
+						<a href='/KEO-The-New-Wave-Ep-mixtape.830815.html'><div class="banner sponsor"></div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/KEO-The-New-Wave-Ep-mixtape.830815.html" title="listen to The New Wave Ep"><img src="//hw-img.datpiff.com/ma220a3b/KEO_The_New_Wave_Ep-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/KEO-The-New-Wave-Ep-mixtape.830815.html" title="listen to The New Wave Ep">The New Wave Ep</a></div>
+						<div class="artist">KEO</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_2.gif" alt="2 Stars" title="8 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>267</span></div>
+						</div>
+				</div>
+				<div class="contentItem ">
+					<div class="contentItemInner ">
+						<a href='/2Ru3-true-2Ru3-Stylin-Revisited-mixtape.813336.html'><div class="banner sponsor"></div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/2Ru3-true-2Ru3-Stylin-Revisited-mixtape.813336.html" title="listen to 2Ru3 Stylin' (Revisited)"><img src="//hw-img.datpiff.com/m8695ba5/2Ru3_true_2Ru3_Stylin_Revisited-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/2Ru3-true-2Ru3-Stylin-Revisited-mixtape.813336.html" title="listen to 2Ru3 Stylin' (Revisited)">2Ru3 Stylin' (Revisited)</a></div>
+						<div class="artist">2Ru3 (true)</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_3.gif" alt="3 Stars" title="5 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>306</span></div>
+						</div>
+				</div>
+				<div class="contentItem ">
+					<div class="contentItemInner ">
+						<a href='/Nario-Da-Don-From-My-Point-Of-View-Reloaded-mixtape.829727.html'><div class="banner exclusive"></div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Nario-Da-Don-From-My-Point-Of-View-Reloaded-mixtape.829727.html" title="listen to From My Point Of View: Reloaded"><img src="//hw-img.datpiff.com/mb5bfbdf/Nario_Da_Don_From_My_Point_View_Reloaded_Wrnr-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/Nario-Da-Don-From-My-Point-Of-View-Reloaded-mixtape.829727.html" title="listen to From My Point Of View: Reloaded">From My Point Of View: Reloaded</a></div>
+						<div class="artist">Nario Da Don</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_4.gif" alt="4 Stars" title="12 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>569</span></div>
+						</div>
+				</div><div class="contentItem noMedia advertise-prompt position1"><a href="/advertise"></a></div>
+<!-- /INDYSPOTLIGHT -->
+                    <div class="breaker"></div>
+                </div>
+
+                <h1 class="banner"><span><span><span><span class="icon mixtape"></span>Recent Exclusives<em>Exclusive DatPiff Releases</em></span></span></span></h1>
+                <div class="contentListing">
+                    <!-- EXCLUSIVE -->
+
+				<div class="contentItem ">
+					<div class="contentItemInner ">
+						<a href='/Wreckless-x-C-Greene-Nawfside-Monopoly-mixtape.830824.html'><div class="banner exclusive"></div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Wreckless-x-C-Greene-Nawfside-Monopoly-mixtape.830824.html" title="listen to Nawfside Monopoly"><img src="//hw-img.datpiff.com/mbd85e95/Wreckless_x_C_Greene_Nawfside_Monopoly-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/Wreckless-x-C-Greene-Nawfside-Monopoly-mixtape.830824.html" title="listen to Nawfside Monopoly">Nawfside Monopoly</a></div>
+						<div class="artist">Wreckless x C Greene</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_0.gif" alt="0 Stars" title="0 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>27</span></div>
+						</div>
+				</div>
+				<div class="contentItem ">
+					<div class="contentItemInner ">
+						<a href='/KnickGunz-The-Kronicles-Of-Jesse-James-mixtape.830636.html'><div class="banner exclusive"></div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/KnickGunz-The-Kronicles-Of-Jesse-James-mixtape.830636.html" title="listen to The Kronicles Of Jesse James"><img src="//hw-img.datpiff.com/ma969bc0/KnickGunz_The_Kronicles_Of_Jesse_James-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/KnickGunz-The-Kronicles-Of-Jesse-James-mixtape.830636.html" title="listen to The Kronicles Of Jesse James">The Kronicles Of Jesse James</a></div>
+						<div class="artist">KnickGunz</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_4.gif" alt="4 Stars" title="13 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>468</span></div>
+						</div>
+				</div>
+				<div class="contentItem ">
+					<div class="contentItemInner ">
+						<a href='/Nario-Da-Don-From-My-Point-Of-View-Reloaded-mixtape.829727.html'><div class="banner exclusive"></div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Nario-Da-Don-From-My-Point-Of-View-Reloaded-mixtape.829727.html" title="listen to From My Point Of View: Reloaded"><img src="//hw-img.datpiff.com/mb5bfbdf/Nario_Da_Don_From_My_Point_View_Reloaded_Wrnr-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/Nario-Da-Don-From-My-Point-Of-View-Reloaded-mixtape.829727.html" title="listen to From My Point Of View: Reloaded">From My Point Of View: Reloaded</a></div>
+						<div class="artist">Nario Da Don</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_4.gif" alt="4 Stars" title="12 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>569</span></div>
+						</div>
+				</div>
+				<div class="contentItem ">
+					<div class="contentItemInner ">
+						<a href='/Dave-Pracyse-Apply-Pressure-mixtape.822240.html'><div class="banner exclusive"></div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Dave-Pracyse-Apply-Pressure-mixtape.822240.html" title="listen to Apply Pressure"><img src="//hw-img.datpiff.com/m66ba608/Dave_Pracyse_Threat_The_King_Apply_Pressure-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/Dave-Pracyse-Apply-Pressure-mixtape.822240.html" title="listen to Apply Pressure">Apply Pressure</a></div>
+						<div class="artist">Dave Pracyse, Threat The King</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_5.gif" alt="5 Stars" title="2 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>69</span></div>
+						</div>
+				</div>
+<!-- /EXCLUSIVE -->
+                    <div class="breaker"></div>
+                </div>
+                
+                <h1 class="banner"><span><span><span><span class="icon mixtape"></span><a href="/upcoming">Upcoming</a><em>Releases to look forward to</em></span></span></span></h1>
+                <div class="contentListing">
+                    <!-- UPCOMING -->
+
+				<div class="contentItem grayed">
+					<div class="contentItemInner ">
+						<a href='/Blac-Youngsta-Illuminati-mixtape.830857.html'><div class="banner sponsor"></div></a><a href='/Blac-Youngsta-Illuminati-mixtape.830857.html'><div class="banner official">&nbsp;</div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Blac-Youngsta-Illuminati-mixtape.830857.html" title="Illuminati drops 02/24/2017"><img src="//hw-img.datpiff.com/m78ab644/Blac_Youngsta_Illuminati-front.jpg" alt="Illuminati Mixtape Artwork"></a></div>
+						<div class="title"><a href="/Blac-Youngsta-Illuminati-mixtape.830857.html" title="Illuminati Mixtape">Illuminati</a></div>
+						<div class="artist">Blac Youngsta</div>
+						<div class="divider"></div>
+						<div class="text countdown">02/24/2017</div>
+					</div>
+				</div>
+				
+				<div class="contentItem grayed">
+					<div class="contentItemInner ">
+						
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Lil-Lonnie-Viions-mixtape.828354.html" title="Vi$ions drops 02/24/2017"><img src="//hw-img.datpiff.com/mad16695/Lil_Lonnie_Viions-front.jpg" alt="Vi$ions Mixtape Artwork"></a></div>
+						<div class="title"><a href="/Lil-Lonnie-Viions-mixtape.828354.html" title="Vi$ions Mixtape">Vi$ions</a></div>
+						<div class="artist">Lil Lonnie</div>
+						<div class="divider"></div>
+						<div class="text countdown">02/24/2017</div>
+					</div>
+				</div>
+				
+				<div class="contentItem grayed">
+					<div class="contentItemInner ">
+						<a href='/King-Lil-G-Blessed-By-God-mixtape.829134.html'><div class="banner exclusive"></div></a><a href='/King-Lil-G-Blessed-By-God-mixtape.829134.html'><div class="banner official">&nbsp;</div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/King-Lil-G-Blessed-By-God-mixtape.829134.html" title="Blessed By God drops 02/27/2017"><img src="//hw-img.datpiff.com/m451f66c/King_Lil_G_Blessed_By_God-front.jpg" alt="Blessed By God Mixtape Artwork"></a></div>
+						<div class="title"><a href="/King-Lil-G-Blessed-By-God-mixtape.829134.html" title="Blessed By God Mixtape">Blessed By God</a></div>
+						<div class="artist">King Lil G</div>
+						<div class="divider"></div>
+						<div class="text countdown">02/27/2017</div>
+					</div>
+				</div>
+				
+				<div class="contentItem grayed">
+					<div class="contentItemInner ">
+						<a href='/Lil-Durk-Love-Songs-For-The-Streets-mixtape.830530.html'><div class="banner exclusive"></div></a><a href='/Lil-Durk-Love-Songs-For-The-Streets-mixtape.830530.html'><div class="banner official">&nbsp;</div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Lil-Durk-Love-Songs-For-The-Streets-mixtape.830530.html" title="Love Songs For The Streets drops 02/28/2017"><img src="//hw-img.datpiff.com/m9f54071/Lil_Durk_Love_Songs_For_The_Streets-front.jpg" alt="Love Songs For The Streets Mixtape Artwork"></a></div>
+						<div class="title"><a href="/Lil-Durk-Love-Songs-For-The-Streets-mixtape.830530.html" title="Love Songs For The Streets Mixtape">Love Songs For T...</a></div>
+						<div class="artist">Lil Durk</div>
+						<div class="divider"></div>
+						<div class="text countdown">02/28/2017</div>
+					</div>
+				</div>
+				
+				<div class="contentItem grayed">
+					<div class="contentItemInner ">
+						<a href='/Young-Roddy-Jamaal-Hood-Gospel-mixtape.828352.html'><div class="banner exclusive"></div></a><a href='/Young-Roddy-Jamaal-Hood-Gospel-mixtape.828352.html'><div class="banner official">&nbsp;</div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Young-Roddy-Jamaal-Hood-Gospel-mixtape.828352.html" title="Hood Gospel drops 03/03/2017"><img src="//hw-img.datpiff.com/mff39c9d/Young_Roddy_Jamaal_Hood_Gospel-front.jpg" alt="Hood Gospel Mixtape Artwork"></a></div>
+						<div class="title"><a href="/Young-Roddy-Jamaal-Hood-Gospel-mixtape.828352.html" title="Hood Gospel Mixtape">Hood Gospel</a></div>
+						<div class="artist">Young Roddy & Jamaal</div>
+						<div class="divider"></div>
+						<div class="text countdown">03/03/2017</div>
+					</div>
+				</div>
+				
+				<div class="contentItem grayed">
+					<div class="contentItemInner ">
+						
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Dimillio-Purple-Paradise-2-mixtape.827657.html" title="Purple Paradise 2 drops 03/03/2017"><img src="//hw-img.datpiff.com/mafa2746/Dimillio_Purple_Paradise_2-front.jpg" alt="Purple Paradise 2 Mixtape Artwork"></a></div>
+						<div class="title"><a href="/Dimillio-Purple-Paradise-2-mixtape.827657.html" title="Purple Paradise 2 Mixtape">Purple Paradise 2</a></div>
+						<div class="artist">Dimillio</div>
+						<div class="divider"></div>
+						<div class="text countdown">03/03/2017</div>
+					</div>
+				</div>
+				
+				<div class="contentItem grayed">
+					<div class="contentItemInner ">
+						
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Yung-Cali-Tsunami-Splashy-Lifestyle-mixtape.829783.html" title="Tsunami: Splashy Lifestyle drops 03/06/2017"><img src="//hw-img.datpiff.com/ma32a60e/YUNG_CALI_Tsunami_Splashy_Lifestyle-front.jpg" alt="Tsunami: Splashy Lifestyle Mixtape Artwork"></a></div>
+						<div class="title"><a href="/Yung-Cali-Tsunami-Splashy-Lifestyle-mixtape.829783.html" title="Tsunami: Splashy Lifestyle Mixtape">Tsunami: Splashy...</a></div>
+						<div class="artist">Yung Cali</div>
+						<div class="divider"></div>
+						<div class="text countdown">03/06/2017</div>
+					</div>
+				</div>
+				
+				<div class="contentItem grayed">
+					<div class="contentItemInner ">
+						
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Q-Banga-Half-Way-Home-mixtape.830374.html" title="Half Way Home drops 03/09/2017"><img src="//hw-img.datpiff.com/mf99666d/Q_Banga_Half_Way_Home-front.jpg" alt="Half Way Home Mixtape Artwork"></a></div>
+						<div class="title"><a href="/Q-Banga-Half-Way-Home-mixtape.830374.html" title="Half Way Home Mixtape">Half Way Home</a></div>
+						<div class="artist">Q-Banga</div>
+						<div class="divider"></div>
+						<div class="text countdown">03/09/2017</div>
+					</div>
+				</div>
+				
+<!-- /UPCOMING -->
+                    <div class="breaker"></div>
+                </div>
+
+                				
+                            
+               <h1 class="banner"><span><span><span><span class="icon mixtape"></span><a href="/mixtapes-popular.php?filter=month&sort=listens">Top of The Month</a><em>The most streamed mixtapes released in the last 30 days</em></span></span></span></h1>
+                <div class="contentListing">
+                    <!-- MIXMONTH -->
+
+				<div class="contentItem ">
+					<div class="contentItemInner ">
+						<a href='/Young-Dolph-Gelato-mixtape.822071.html'><div class="banner official">&nbsp;</div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Young-Dolph-Gelato-mixtape.822071.html" title="listen to Gelato"><img src="//hw-img.datpiff.com/m2b4767a/Young_Dolph_Gelato-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/Young-Dolph-Gelato-mixtape.822071.html" title="listen to Gelato">Gelato</a></div>
+						<div class="artist">Young Dolph</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_4.gif" alt="4 Stars" title="1538 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>400,861</span></div>
+						</div>
+				</div>
+				<div class="contentItem awarded silver">
+					<div class="contentItemInner awarded silver">
+						<a href='/Gucci-Mane-3-For-Free-mixtape.825535.html'><div class="banner sponsor"></div></a><a href='/Gucci-Mane-3-For-Free-mixtape.825535.html'><div class="banner official">&nbsp;</div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Gucci-Mane-3-For-Free-mixtape.825535.html" title="listen to 3 For Free"><img src="//hw-img.datpiff.com/m6d2779c/Gucci_Mane_3_For_Free-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/Gucci-Mane-3-For-Free-mixtape.825535.html" title="listen to 3 For Free">3 For Free</a></div>
+						<div class="artist">Gucci Mane</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_4.gif" alt="4 Stars" title="1065 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>324,815</span></div>
+						</div>
+				</div>
+				<div class="contentItem awarded silver">
+					<div class="contentItemInner awarded silver">
+						<a href='/Jacquees-DeJ-Loaf-Fuck-A-Friend-Zone-mixtape.828334.html'><div class="banner exclusive"></div></a><a href='/Jacquees-DeJ-Loaf-Fuck-A-Friend-Zone-mixtape.828334.html'><div class="banner official">&nbsp;</div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Jacquees-DeJ-Loaf-Fuck-A-Friend-Zone-mixtape.828334.html" title="listen to Fuck A Friend Zone"><img src="//hw-img.datpiff.com/mfd68755/Jacquees_DeJ_Loaf_Fuck_A_Friend_Zone-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/Jacquees-DeJ-Loaf-Fuck-A-Friend-Zone-mixtape.828334.html" title="listen to Fuck A Friend Zone">Fuck A Friend Zone</a></div>
+						<div class="artist">Jacquees &amp; DeJ Loaf</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_4.gif" alt="4 Stars" title="1281 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>301,353</span></div>
+						</div>
+				</div>
+				<div class="contentItem awarded bronze">
+					<div class="contentItemInner awarded bronze">
+						<a href='/Jacquees-Nash-B-Since-You-Playin-mixtape.823551.html'><div class="banner sponsor"></div></a><a href='/Jacquees-Nash-B-Since-You-Playin-mixtape.823551.html'><div class="banner official">&nbsp;</div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Jacquees-Nash-B-Since-You-Playin-mixtape.823551.html" title="listen to Since You Playin"><img src="//hw-img.datpiff.com/m54c2f20/Jacquees_Nash_B_Since_You_Playin-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/Jacquees-Nash-B-Since-You-Playin-mixtape.823551.html" title="listen to Since You Playin">Since You Playin</a></div>
+						<div class="artist">Jacquees &amp; Nash B</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_5.gif" alt="5 Stars" title="1425 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>296,752</span></div>
+						</div>
+				</div>
+				<div class="contentItem awarded bronze">
+					<div class="contentItemInner awarded bronze">
+						
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/DJReddyRell-x-TheDJIceberg-x-HipHopTXL-Hip-Hop-TXL-Vol-89-mixtape.826759.html" title="listen to Hip Hop TXL Vol 89"><img src="//hw-img.datpiff.com/m491d946/Various_Artists_Hip_Hop_TXL_Vol_89-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/DJReddyRell-x-TheDJIceberg-x-HipHopTXL-Hip-Hop-TXL-Vol-89-mixtape.826759.html" title="listen to Hip Hop TXL Vol 89">Hip Hop TXL Vol 89</a></div>
+						<div class="artist">Various Artists</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_5.gif" alt="5 Stars" title="345 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>212,380</span></div>
+						</div>
+				</div>
+				<div class="contentItem awarded bronze">
+					<div class="contentItemInner awarded bronze">
+						<a href='/Money-Bagg-Yo-Heartless-mixtape.828787.html'><div class="banner exclusive"></div></a><a href='/Money-Bagg-Yo-Heartless-mixtape.828787.html'><div class="banner official">&nbsp;</div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Money-Bagg-Yo-Heartless-mixtape.828787.html" title="listen to Heartless"><img src="//hw-img.datpiff.com/m09b0217/Money_Bagg_Yo_Heartless-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/Money-Bagg-Yo-Heartless-mixtape.828787.html" title="listen to Heartless">Heartless</a></div>
+						<div class="artist">Money Bagg Yo</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_4.gif" alt="4 Stars" title="767 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>200,496</span></div>
+						</div>
+				</div>
+				<div class="contentItem awarded bronze">
+					<div class="contentItemInner awarded bronze">
+						<a href='/Maybach-Music-Group-Super-Bowl-Playlist-mixtape.827397.html'><div class="banner sponsor"></div></a><a href='/Maybach-Music-Group-Super-Bowl-Playlist-mixtape.827397.html'><div class="banner official">&nbsp;</div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Maybach-Music-Group-Super-Bowl-Playlist-mixtape.827397.html" title="listen to Super Bowl Playlist"><img src="//hw-img.datpiff.com/m3ba2e72/Maybach_Music_Group_Super_Bowl_Playlist-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/Maybach-Music-Group-Super-Bowl-Playlist-mixtape.827397.html" title="listen to Super Bowl Playlist">Super Bowl Playlist</a></div>
+						<div class="artist">Maybach Music Group</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_4.gif" alt="4 Stars" title="384 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>165,743</span></div>
+						</div>
+				</div>
+				<div class="contentItem ">
+					<div class="contentItemInner ">
+						<a href='/Slim-Thug-Welcome-To-Houston-mixtape.827369.html'><div class="banner official">&nbsp;</div></a>
+						<div class="contentThumb"><div class="icon mixtape"></div><a href="/Slim-Thug-Welcome-To-Houston-mixtape.827369.html" title="listen to Welcome To Houston"><img src="//hw-img.datpiff.com/mbf52246/Slim_Thug_Welcome_To_Houston-front.jpg" alt="Mixtape Cover"></a></div>
+						<div class="title"><a href="/Slim-Thug-Welcome-To-Houston-mixtape.827369.html" title="listen to Welcome To Houston">Welcome To Houston</a></div>
+						<div class="artist">Slim Thug</div>
+						<div class="divider"></div>
+						<div class="text">Rating: <img src="/images/stars_5.gif" alt="5 Stars" title="835 ratings" width="51" height="8"></div>
+						<div class="text">Listens: <span>119,703</span></div>
+						</div>
+				</div>
+<!-- /MIXMONTH -->
+                    <div class="breaker"></div>
+                </div>
+                
+
+               
+				
+            </div>
+            
+            <div id="rightColumnNarrow">
+				<!-- begin right column -->
+            	<span class="header"></span>
+                	                	                    <div class="module2015 searchbox">
+                        <form action="/mixtapes-search" method="post">
+                        	<input type="hidden" name="submit" value="MTAxMzQxODg3Nzk2NTk3NTAxODE0MQ">
+                            <input type="text" name="criteria" placeholder="SEARCH MIXTAPES" id="inptSearch">
+                            <input type="submit">
+                        </form>
+                        <div class="popSearches">POPULAR: <a href="/mixtapes-search?criteria=yo gotti&sort=relevance">yo gotti</a>, <a href="/mixtapes-search?criteria=meek mill&sort=relevance">meek mill</a>, <a href="/mixtapes-search?criteria=gucci mane&sort=relevance">gucci mane</a>, <a href="/mixtapes-search?criteria=wiz khalifa&sort=relevance">wiz khalifa</a>, <a href="/mixtapes-search?criteria=lil&sort=relevance">lil</a>, <a href="/mixtapes-search?criteria=drake&sort=relevance">drake</a>, <a href="/mixtapes-search?criteria=young thug&sort=relevance">young thug</a>, <a href="/mixtapes-search?criteria=fabolous&sort=relevance">fabolous</a>, <a href="/mixtapes-search?criteria=lil wayne&sort=relevance">lil wayne</a>, <a href="/mixtapes-search?criteria=kevin gates&sort=relevance">kevin gates</a>, <a href="/mixtapes-search?criteria=dreams&sort=relevance">dreams</a>, <a href="/mixtapes-search?criteria=future&sort=relevance">future</a>, <a href="/mixtapes-search?criteria=migos&sort=relevance">migos</a></div>                    </div>
+                                        
+                                        <div class="module2015 socialbox">
+                        <div class="facebook">
+                          <div class="socialIcon"><a href="http://facebook.com/datpiff" title="DatPiff on Facebook" target="_blank"><img src="/images/icon-social-white-fb.png"></a></div>
+                          <span class="count"><strong>1.7M</strong> likes</span>
+                          <div class="click-button">
+                            <div class="fb-like" data-href="http://facebook.com/datpiff" data-layout="button" data-action="like" data-show-faces="true" data-share="false"></div>
+                          </div>
+                        </div>
+                        <div class="twitter">
+                          <div class="socialIcon"><a href="http://twitter.com/datpiff" title="DatPiff on Twitter" target="_blank"><img src="/images/icon-social-white-twitter.png"></a></div>
+                          <span class="count"><strong>509K</strong> followers</span>
+                          <div class="click-button"> <a href="https://twitter.com/twitter" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">&nbsp;</a> 
+                            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script> 
+                          </div>
+                        </div>
+                        <div class="instagram">
+                          <div class="socialIcon"><a href="http://instagram.com/datpiff" title="DatPiff on Instagram" target="_blank"><img src="/images/icon-social-white-ig.png"></a></div>
+                          <span class="count"><strong>204K</strong> followers</span>
+                          <div class="click-button" style="width: 47px;"> <a href="https://instagram.com/datpiff/" target="_blank"><img src="/images/icon-social-ig.png" height="20"></a> </div>
+                        </div>
+                        <div style="clear:both;"></div>
+                      </div>
+                                       
+                    					
+                                        <form action="https://www.datpiff.com/login" method="post">
+                    <input type="hidden" name="cmd" value="login">
+					<div class="module2015 userbox">
+                    	<div class="form-top">
+                        	<span class="avatar"></span>
+                            <div>
+                                <div>Welcome <strong>Guest,</strong></div>
+                                <input type="text" name="username" placeholder="Username">
+                                <input type="password" name="password" placeholder="Password">
+                            </div>
+                        </div>
+                        <div class="buttons">
+                        	<button type="reset" onClick="return FBLogin(); return false;" class="facebook">connect with facebook</button>
+                            <span>or</span>
+                            <button type="submit">sign in</button>
+                        </div>
+                        <div class="links"><a href="/register">Register</a> &#8226; <a href="/reset-password">Reset Password</a></div>
+					</div>
+                    </form>
+                                                            
+                                       											                   	                    
+                    <div class="module" align="center">
+                                                                            <div id="azk61095"></div>
+                        					</div>
+                    
+                    
+                                        <div style="margin:5px 0 10px 0;" align="center"><a href="/redirect.php?caid=420" title="Upload" ><img src="//edge-ads.datpiff.com/columnads/Upload.r420.gif" alt="Upload" /></a></div>
+                                        <div style="margin:5px 0 10px 0;" align="center"><a href="/redirect.php?caid=423" title="Piff Mobile 2017" ><img src="//edge-ads.datpiff.com/columnads/Piff_Mobile_2017.r423.gif" alt="Piff Mobile 2017" /></a></div>
+                                        
+					                    <div class="module skycontent">
+                        <h1><span class="icon mixtape">&nbsp;</span>Hot This Week</h1>
+                        <div class="content">
+                            <div class="contentListing">
+                                                                <div class="contentItem">
+                                    <div class="contentItemInner">
+                                        <div class="contentThumb"><div class="icon mixtape"></div><a href="/Everlast-War-Porn-mixtape.829752.html" title="Everlast - War Porn "><img src="http://hw-img.datpiff.com/mddc271c/Everlast_War_Porn-front.jpg" alt="Mixtape Cover"></a></div>
+                                        <div class="rating"><img src="/images/stars_4.gif" alt="4 Stars" title="412 ratings" width="51" height="8"></div>
+                                    </div>
+                                </div>
+                                                                <div class="contentItem">
+                                    <div class="contentItemInner">
+                                        <div class="contentThumb"><div class="icon mixtape"></div><a href="/Curreny-Jet-Life-Allstars-mixtape.830307.html" title="Curren$y, Jet Life - Jet Life Allstars "><img src="http://hw-img.datpiff.com/m520fedd/Curreny_Jet_Life_Jet_Life_Allstars-front.jpg" alt="Mixtape Cover"></a></div>
+                                        <div class="rating"><img src="/images/stars_5.gif" alt="5 Stars" title="265 ratings" width="51" height="8"></div>
+                                    </div>
+                                </div>
+                                                                <div class="contentItem">
+                                    <div class="contentItemInner">
+                                        <div class="contentThumb"><div class="icon mixtape"></div><a href="/XAY-THE-DJ-I-Talk-Dat-Shit-Vol6-mixtape.830352.html" title="Various Artists - I Talk Dat Shit Vol.6 Hosted by XAY THE DJ"><img src="http://hw-img.datpiff.com/m9ab58d8/Future_Big_Sean_Rick_Ross_Nipsey_Hussle_Jadaki-front.jpg" alt="Mixtape Cover"></a></div>
+                                        <div class="rating"><img src="/images/stars_4.gif" alt="4 Stars" title="60 ratings" width="51" height="8"></div>
+                                    </div>
+                                </div>
+                                                                <div class="contentItem">
+                                    <div class="contentItemInner">
+                                        <div class="contentThumb"><div class="icon mixtape"></div><a href="/Cdot-Honcho-H3-mixtape.830012.html" title="Cdot Honcho - H3 Hosted by DJ Bandz &amp; DJ Honorz"><img src="http://hw-img.datpiff.com/mf15d33b/Cdot_Honcho_H3-front.jpg" alt="Mixtape Cover"></a></div>
+                                        <div class="rating"><img src="/images/stars_5.gif" alt="5 Stars" title="104 ratings" width="51" height="8"></div>
+                                    </div>
+                                </div>
+                                                                <div class="contentItem">
+                                    <div class="contentItemInner">
+                                        <div class="contentThumb"><div class="icon mixtape"></div><a href="/Yung-Tory-Free-Dope-mixtape.830416.html" title="Yung Tory - Free Dope Hosted by DJ Bandz"><img src="http://hw-img.datpiff.com/m9b5cba7/Yung_Tory_Free_Dope-front.jpg" alt="Mixtape Cover"></a></div>
+                                        <div class="rating"><img src="/images/stars_3.gif" alt="3 Stars" title="85 ratings" width="51" height="8"></div>
+                                    </div>
+                                </div>
+                                                            </div>
+                            <div class="skyscraper">
+                            									                                    <div id="azk79401"></div>
+                                                                
+								                                
+
+                            </div>
+                            <div class="breaker"></div>
+                            <div align="center"><a href="/mixtapes/hot">view full list</a></div>
+                        </div>
+                        <div class="footer"></div>
+                    </div>
+                    
+                                                             
+											                   					<script language="javascript" type="text/javascript" src="/js/newsCounter.js"></script>
+                    <script language="javascript" type="text/javascript">var newsCounter = new newsCounter();</script>
+                   
+                     <div class="module">
+                        <h1><span class="icon news">&nbsp;</span>Latest News Stories</h1>
+                        <div class="content">
+                            <div class="contentListing">
+                            	<!-- news -->
+<div class="contentItem" style="max-height:none; height:auto;">
+    <div class="contentItemInner" style="height:auto; max-height:none;">
+        <div class="contentThumb" style="width:40px; height:40px;"><a href="http://news.hiphopearly.com/chief-keef-falls-off-stage-needs-to-rush-back-to-la-for-court-date/" target="_blank" onClick="_gat._getTrackerByName()._trackEvent('Outbound Links', '/outgoing/http://news.hiphopearly.com/chief-keef-falls-off-stage-needs-to-rush-back-to-la-for-court-date/'); newsCounter.registerClick( 86180 );"><img src="http://hw-ads.datpiff.com/news/10/ChiefKeefFallsOffStageNeedsToRushBackToLAForCourtD.fi86180.png" alt="thumbnail" style="width:38px; height:38px;"></a></div>
+        <div class="title" style="margin-top:0px; width:200px;"><a href="http://news.hiphopearly.com/chief-keef-falls-off-stage-needs-to-rush-back-to-la-for-court-date/" target="_blank" onClick="_gat._getTrackerByName()._trackEvent('Outbound Links', '/outgoing/http://news.hiphopearly.com/chief-keef-falls-off-stage-needs-to-rush-back-to-la-for-court-date/'); newsCounter.registerClick( 86180 );">Chief Keef Falls Off Stage; Needs To Rush Back To LA For Court Date</a></div>
+        <div class="text" style="overflow:visible; height:auto; max-height:none; width:215px;">Chief Keef had a show last night in Detroit. At one point Sosa took a bad step and fell off of the stage. But, like a cat, he landed on his feet. T...</div>
+        <div class="text" style="text-align:right; padding-right:3px; width:100%;"><a href="http://news.hiphopearly.com/chief-keef-falls-off-stage-needs-to-rush-back-to-la-for-court-date/" target="_blank" onClick="_gat._getTrackerByName()._trackEvent('Outbound Links', '/outgoing/http://news.hiphopearly.com/chief-keef-falls-off-stage-needs-to-rush-back-to-la-for-court-date/'); newsCounter.registerClick( 86180 );">full story</a></div>
+        <div class="breaker"></div>
+    </div>
+</div>
+<div class="contentItem" style="max-height:none; height:auto;">
+    <div class="contentItemInner" style="height:auto; max-height:none;">
+        <div class="contentThumb" style="width:40px; height:40px;"><a href="http://news.hiphopearly.com/twitter-brawl-shaq-threatens-to-smack-javale-mcgee-silly/" target="_blank" onClick="_gat._getTrackerByName()._trackEvent('Outbound Links', '/outgoing/http://news.hiphopearly.com/twitter-brawl-shaq-threatens-to-smack-javale-mcgee-silly/'); newsCounter.registerClick( 86179 );"><img src="http://hw-ads.datpiff.com/news/10/ShaqThreatensToSmackJavaleMcGeeSilly.fi86179.png" alt="thumbnail" style="width:38px; height:38px;"></a></div>
+        <div class="title" style="margin-top:0px; width:200px;"><a href="http://news.hiphopearly.com/twitter-brawl-shaq-threatens-to-smack-javale-mcgee-silly/" target="_blank" onClick="_gat._getTrackerByName()._trackEvent('Outbound Links', '/outgoing/http://news.hiphopearly.com/twitter-brawl-shaq-threatens-to-smack-javale-mcgee-silly/'); newsCounter.registerClick( 86179 );">Shaq Threatens To Smack Javale McGee Silly</a></div>
+        <div class="text" style="overflow:visible; height:auto; max-height:none; width:215px;">Shaquille O&#8217;Neal loves going after Javale McGee on Shaqtin a Fool, the TNT segment dedicated to exposing the worst plays in the NBA. McGee ha...</div>
+        <div class="text" style="text-align:right; padding-right:3px; width:100%;"><a href="http://news.hiphopearly.com/twitter-brawl-shaq-threatens-to-smack-javale-mcgee-silly/" target="_blank" onClick="_gat._getTrackerByName()._trackEvent('Outbound Links', '/outgoing/http://news.hiphopearly.com/twitter-brawl-shaq-threatens-to-smack-javale-mcgee-silly/'); newsCounter.registerClick( 86179 );">full story</a></div>
+        <div class="breaker"></div>
+    </div>
+</div>
+<div class="contentItem" style="max-height:none; height:auto;">
+    <div class="contentItemInner" style="height:auto; max-height:none;">
+        <div class="contentThumb" style="width:40px; height:40px;"><a href="http://news.hiphopearly.com/meek-mill-yg-shade-sean-kingston-for-talking-to-reporters-about-migos-fight/" target="_blank" onClick="_gat._getTrackerByName()._trackEvent('Outbound Links', '/outgoing/http://news.hiphopearly.com/meek-mill-yg-shade-sean-kingston-for-talking-to-reporters-about-migos-fight/'); newsCounter.registerClick( 86178 );"><img src="http://hw-ads.datpiff.com/news/10/MeekMillYGShadeSeanKingstonForTalkingToReportersAb.fi86178.png" alt="thumbnail" style="width:38px; height:38px;"></a></div>
+        <div class="title" style="margin-top:0px; width:200px;"><a href="http://news.hiphopearly.com/meek-mill-yg-shade-sean-kingston-for-talking-to-reporters-about-migos-fight/" target="_blank" onClick="_gat._getTrackerByName()._trackEvent('Outbound Links', '/outgoing/http://news.hiphopearly.com/meek-mill-yg-shade-sean-kingston-for-talking-to-reporters-about-migos-fight/'); newsCounter.registerClick( 86178 );">Meek Mill & YG Shade Sean Kingston For Talking To Reporters About Migos Fight</a></div>
+        <div class="text" style="overflow:visible; height:auto; max-height:none; width:215px;">? It&#8217;s safe to say that many were surprised when they heard that Migos jumped Sean Kingston, and those same people were probably even more s...</div>
+        <div class="text" style="text-align:right; padding-right:3px; width:100%;"><a href="http://news.hiphopearly.com/meek-mill-yg-shade-sean-kingston-for-talking-to-reporters-about-migos-fight/" target="_blank" onClick="_gat._getTrackerByName()._trackEvent('Outbound Links', '/outgoing/http://news.hiphopearly.com/meek-mill-yg-shade-sean-kingston-for-talking-to-reporters-about-migos-fight/'); newsCounter.registerClick( 86178 );">full story</a></div>
+        <div class="breaker"></div>
+    </div>
+</div>
+<div class="contentItem" style="max-height:none; height:auto;">
+    <div class="contentItemInner" style="height:auto; max-height:none;">
+        <div class="contentThumb" style="width:40px; height:40px;"><a href="http://news.hiphopearly.com/keke-palmer-accuses-trey-songz-of-mistreating-other-women-in-new-interview/" target="_blank" onClick="_gat._getTrackerByName()._trackEvent('Outbound Links', '/outgoing/http://news.hiphopearly.com/keke-palmer-accuses-trey-songz-of-mistreating-other-women-in-new-interview/'); newsCounter.registerClick( 86177 );"><img src="http://hw-ads.datpiff.com/news/10/KeKePalmerAccusesTreySongzOfMistreatingOtherWomenI.fi86177.png" alt="thumbnail" style="width:38px; height:38px;"></a></div>
+        <div class="title" style="margin-top:0px; width:200px;"><a href="http://news.hiphopearly.com/keke-palmer-accuses-trey-songz-of-mistreating-other-women-in-new-interview/" target="_blank" onClick="_gat._getTrackerByName()._trackEvent('Outbound Links', '/outgoing/http://news.hiphopearly.com/keke-palmer-accuses-trey-songz-of-mistreating-other-women-in-new-interview/'); newsCounter.registerClick( 86177 );">KeKe Palmer Accuses Trey Songz Of Mistreating Other Women In New Interview</a></div>
+        <div class="text" style="overflow:visible; height:auto; max-height:none; width:215px;">When Trey Songz stopped by The Breakfast Club last week and responded to KeKe Palmer&#8217;s claims that he filmed her for a video without permiss...</div>
+        <div class="text" style="text-align:right; padding-right:3px; width:100%;"><a href="http://news.hiphopearly.com/keke-palmer-accuses-trey-songz-of-mistreating-other-women-in-new-interview/" target="_blank" onClick="_gat._getTrackerByName()._trackEvent('Outbound Links', '/outgoing/http://news.hiphopearly.com/keke-palmer-accuses-trey-songz-of-mistreating-other-women-in-new-interview/'); newsCounter.registerClick( 86177 );">full story</a></div>
+        <div class="breaker"></div>
+    </div>
+</div>
+<div class="contentItem" style="max-height:none; height:auto;">
+    <div class="contentItemInner" style="height:auto; max-height:none;">
+        <div class="contentThumb" style="width:40px; height:40px;"><a href="http://news.hiphopearly.com/stream-navs-debut-album-nav/" target="_blank" onClick="_gat._getTrackerByName()._trackEvent('Outbound Links', '/outgoing/http://news.hiphopearly.com/stream-navs-debut-album-nav/'); newsCounter.registerClick( 86176 );"><img src="http://hw-ads.datpiff.com/news/10/StreamNavsDebutAlbum8216Nav8217.fi86176.png" alt="thumbnail" style="width:38px; height:38px;"></a></div>
+        <div class="title" style="margin-top:0px; width:200px;"><a href="http://news.hiphopearly.com/stream-navs-debut-album-nav/" target="_blank" onClick="_gat._getTrackerByName()._trackEvent('Outbound Links', '/outgoing/http://news.hiphopearly.com/stream-navs-debut-album-nav/'); newsCounter.registerClick( 86176 );">Stream Nav’s Debut Album &#8216;Nav&#8217;</a></div>
+        <div class="text" style="overflow:visible; height:auto; max-height:none; width:215px;">Is Nav going to be the next hit maker from Toronto? He just dropped his self-titled debut album Nav. The 11 track project has one feature, Nav&#821...</div>
+        <div class="text" style="text-align:right; padding-right:3px; width:100%;"><a href="http://news.hiphopearly.com/stream-navs-debut-album-nav/" target="_blank" onClick="_gat._getTrackerByName()._trackEvent('Outbound Links', '/outgoing/http://news.hiphopearly.com/stream-navs-debut-album-nav/'); newsCounter.registerClick( 86176 );">full story</a></div>
+        <div class="breaker"></div>
+    </div>
+</div>
+<div class="contentItem" style="max-height:none; height:auto;">
+    <div class="contentItemInner" style="height:auto; max-height:none;">
+        <div class="contentThumb" style="width:40px; height:40px;"><a href="http://news.hiphopearly.com/stream-futures-hndrxx-album/" target="_blank" onClick="_gat._getTrackerByName()._trackEvent('Outbound Links', '/outgoing/http://news.hiphopearly.com/stream-futures-hndrxx-album/'); newsCounter.registerClick( 86175 );"><img src="http://hw-ads.datpiff.com/news/10/StreamFuture8217s8216HNDRXX8217Album.fi86175.png" alt="thumbnail" style="width:38px; height:38px;"></a></div>
+        <div class="title" style="margin-top:0px; width:200px;"><a href="http://news.hiphopearly.com/stream-futures-hndrxx-album/" target="_blank" onClick="_gat._getTrackerByName()._trackEvent('Outbound Links', '/outgoing/http://news.hiphopearly.com/stream-futures-hndrxx-album/'); newsCounter.registerClick( 86175 );">Stream Future&#8217;s &#8216;HNDRXX&#8217; Album</a></div>
+        <div class="text" style="overflow:visible; height:auto; max-height:none; width:215px;">Future is doubling up an album releases, following up his self titled project of seven days ago with HNDRXX. Unlike last week&#8217;s featureless e...</div>
+        <div class="text" style="text-align:right; padding-right:3px; width:100%;"><a href="http://news.hiphopearly.com/stream-futures-hndrxx-album/" target="_blank" onClick="_gat._getTrackerByName()._trackEvent('Outbound Links', '/outgoing/http://news.hiphopearly.com/stream-futures-hndrxx-album/'); newsCounter.registerClick( 86175 );">full story</a></div>
+        <div class="breaker"></div>
+    </div>
+</div>
+
+<!-- /news -->
+                                <div class="breaker"></div>
+                                <div align="center"><a href="/news">see all news</a></div>
+                            </div>
+                        </div>
+                        <div class="footer"></div>
+                    </div>
+                    
+                                        
+
+					                    
+					<span class="footer"></span>
+<!-- end right column -->
+            </div>
+            <div class="breaker"></div>
+      	</div>
+        <div id="siteFooter">
+			        	<div class="container">
+            	<div id="linkbar">
+                	<div style="float:left; width:258px;"><a href="http://twitter.com/DatPiff" target="_blank" title="Follow DatPiff on Twitter"><img src="/images/clear.gif" width="258" height="38" alt="Follow DatPiff on Twitter"></a></div>
+                    <a class="footerlink" href="/privacy">privacy</a>
+                    <a class="footerlink" href="/terms">terms</a>
+                    <a class="footerlink" href="/terms#dmca">dmca</a>
+                    <a class="footerlink" href="/contact">contact</a>
+                    <a class="footerlink" href="/advertise">advertise with datpiff</a>
+                </div>
+                <div id="sublinkbar">DatPiff&reg; is a registered trademark of <a href="http://www.idlemedia.com/" target="_blank" style="color:#fff; text-decoration:none;">Idle Media Inc</a>.</div>
+            </div>
+            <div class="footerEnd"></div>
+            			            
+            <div class="hidden">
+            <div id="fb-root"></div>
+            <script>
+			  window.fbAsyncInit = function() {
+				FB.init({
+				  appId      : '133764866692459',
+				  status: true,
+				  cookie: true,
+				  xfbml      : true,
+				  oauth: true,
+				  version    : 'v2.5'
+				});
+				
+			  };
+			
+			  (function(d, s, id){
+				 var js, fjs = d.getElementsByTagName(s)[0];
+				 if (d.getElementById(id)) {return;}
+				 js = d.createElement(s); js.id = id;
+				 js.src = "//connect.facebook.net/en_US/sdk.js";
+				 fjs.parentNode.insertBefore(js, fjs);
+			   }(document, 'script', 'facebook-jssdk'));
+				function FBLogin(){
+					if( !FB ){
+						alert( "Facebook SDK has not loaded" );
+						return false;
+					}
+					FB.Event.subscribe( 'auth.sessionChange', handleAuth );
+					FB.login( handleAuth, {'scope':'public_profile,email'} );
+					return false;
+				}
+				function handleAuth( response ){
+					if( response.authResponse ){
+						// logged in
+						var form = document.createElement('form');
+						form.action = window.location.href;
+						form.method = 'POST';
+						var cmd = document.createElement('input');
+						cmd.type = 'hidden';
+						cmd.name = 'cmd'; cmd.value = 'fbconnect';
+						form.appendChild(cmd);
+						$('fb-root').appendChild( form );
+						form.submit();
+					}
+				}
+			   
+			</script>
+            
+            			 <script type="text/javascript"><!--
+              e9 = new Object();
+              e9.snackbar = true;
+            //--></script>
+            <script type="text/javascript" src="//tags.expo9.exponential.com/tags/Datpiffcom/Premium/tags.js"></script>
+
+            				
+      			
+                
+            </div>
+            
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-fcjq2ONL7mFAM"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-fcjq2ONL7mFAM.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+               
+
+
+<!-- social button code -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+<script type="text/javascript">
+  (function() {
+    var li = document.createElement('script'); li.type = 'text/javascript'; li.async = true;
+    li.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//platform.stumbleupon.com/1/widgets.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(li, s);
+  })();
+</script>
+<!--<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>-->        </div>
+    </div>
+</body>
+</html>

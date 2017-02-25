@@ -1,0 +1,375 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html  lang="en-US">
+<head id="Head">
+<!--**********************************************************************************-->
+<!-- DotNetNuke - http://www.dotnetnuke.com                                          -->
+<!-- Copyright (c) 2002-2012                                                          -->
+<!-- by DotNetNuke Corporation                                                        -->
+<!--**********************************************************************************-->
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" /><meta content="text/javascript" http-equiv="Content-Script-Type" /><meta content="text/css" http-equiv="Content-Style-Type" /><meta id="MetaKeywords" name="KEYWORDS" content=",DotNetNuke,DNN" /><meta id="MetaCopyright" name="COPYRIGHT" content="Copyright 2011 by Illinois High School Association" /><meta id="MetaGenerator" name="GENERATOR" content="DotNetNuke " /><meta id="MetaAuthor" name="AUTHOR" content="IHSA" /><meta name="RESOURCE-TYPE" content="DOCUMENT" /><meta name="DISTRIBUTION" content="GLOBAL" /><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW" /><meta name="REVISIT-AFTER" content="1 DAYS" /><meta name="RATING" content="GENERAL" /><meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)" /><style id="StylePlaceholder" type="text/css"></style><link href="/Portals/_default/default.css?cdv=54" type="text/css" rel="stylesheet"/><link href="/Portals/_default/Skins/IHSAskin/skin.css?cdv=54" type="text/css" rel="stylesheet"/><link href="/Portals/_default/Skins/IHSAskin/SportsZoneNoMenuSkin.css?cdv=54" type="text/css" rel="stylesheet"/><link href="/Portals/_default/Containers/IHSAcontainers/container.css?cdv=54" type="text/css" rel="stylesheet"/><link href="/Portals/0/portal.css?cdv=54" type="text/css" rel="stylesheet"/><link href="/admin/ControlPanel/module.css?cdv=54" type="text/css" rel="stylesheet"/><link href="/Portals/_default/Skins/_default/WebControlSkin/Default/ComboBox.Default.css?cdv=54" type="text/css" rel="stylesheet"/><script src="/Resources/Shared/Scripts/jquery/jquery.min.js?cdv=54" type="text/javascript"></script><script src="/Resources/Shared/Scripts/jquery/jquery-ui.min.js?cdv=54" type="text/javascript"></script><link rel='SHORTCUT ICON' href='/Portals/0/favicon.ico' type='image/x-icon' /><title>
+	State Series Information & Results
+</title></head>
+<body id="Body">
+    
+    <form method="post" action="/SportsActivities/BoysWrestling/StateSeriesInformationResults.aspx?url=/data/wr/3assign.htm%0D" id="Form" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="StylesheetManager_TSSM" id="StylesheetManager_TSSM" value="" />
+<input type="hidden" name="ScriptManager_TSM" id="ScriptManager_TSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTkwNjA1NjgwNQ9kFgZmDxYCHgRUZXh0BT48IURPQ1RZUEUgSFRNTCBQVUJMSUMgIi0vL1czQy8vRFREIEhUTUwgNC4wIFRyYW5zaXRpb25hbC8vRU4iPmQCAQ9kFg4CBA8WAh4HVmlzaWJsZWhkAgUPFgQeB2NvbnRlbnRkHwFoZAIGDxYCHwIFDyxEb3ROZXROdWtlLEROTmQCBw8WAh8CBTJDb3B5cmlnaHQgMjAxMSBieSBJbGxpbm9pcyBIaWdoIFNjaG9vbCBBc3NvY2lhdGlvbmQCCA8WAh8CBQtEb3ROZXROdWtlIGQCCQ8WAh8CBQRJSFNBZAIMDxYCHwIFDUlOREVYLCBGT0xMT1dkAgIPZBYCAgEPZBYEZg9kFgJmDw8WAh8BaGQWBgICDxBkZBYBZmQCAw8PFgIfAWhkZAIFD2QWBgIBD2QWAgIBD2QWAmYPZBYCZg9kFg4CCw9kFgICAw8QZGQWAGQCDQ9kFgICAw8QZGQWAGQCEQ9kFgJmDxQrAAJkZBYEZg8PFgQeCENzc0NsYXNzBQlyY2JIZWFkZXIeBF8hU0ICAmRkAgEPDxYEHwMFCXJjYkZvb3Rlch8EAgJkZAIXDxBkZBYAZAIdDxBkZBYAZAIhDxBkZBYAZAIlDxBkZBYAZAIDD2QWBAIXD2QWBgIHDxBkZBYAZAILDxBkZBYAZAINDxBkZBYAZAIbD2QWBgIHDxBkZBYAZAIJDxBkZBYAZAINDxQrAAJkZBYEZg8PFgQfAwUJcmNiSGVhZGVyHwQCAmRkAgEPDxYEHwMFCXJjYkZvb3Rlch8EAgJkZAIFDw8WAh8BaGQWBAINDw8WAh8BaGRkAhEPZBYCZg8QZGQWAGQCCA9kFgJmD2QWEmYPZBYCZg8PFggfAwUJVXNlckxvZ2luHwAFBUxvZ2luHgtOYXZpZ2F0ZVVybAXsAWh0dHA6Ly93d3cuaWhzYS5vcmcvU3BvcnRzQWN0aXZpdGllcy9Cb3lzV3Jlc3RsaW5nL1N0YXRlU2VyaWVzSW5mb3JtYXRpb25SZXN1bHRzL3RhYmlkLzU0OC9jdGwvTG9naW4vRGVmYXVsdC5hc3B4P3JldHVybnVybD0lMmZTcG9ydHNBY3Rpdml0aWVzJTJmQm95c1dyZXN0bGluZyUyZlN0YXRlU2VyaWVzSW5mb3JtYXRpb25SZXN1bHRzLmFzcHglM2Z1cmwlM2QlMmZkYXRhJTJmd3IlMmYzYXNzaWduLmh0bSUyNTBEHwQCAhYCHgdvbmNsaWNrBbICcmV0dXJuIGRubk1vZGFsLnNob3coJ2h0dHA6Ly93d3cuaWhzYS5vcmcvU3BvcnRzQWN0aXZpdGllcy9Cb3lzV3Jlc3RsaW5nL1N0YXRlU2VyaWVzSW5mb3JtYXRpb25SZXN1bHRzL3RhYmlkLzU0OC9jdGwvTG9naW4vRGVmYXVsdC5hc3B4P3JldHVybnVybD0lMmZTcG9ydHNBY3Rpdml0aWVzJTJmQm95c1dyZXN0bGluZyUyZlN0YXRlU2VyaWVzSW5mb3JtYXRpb25SZXN1bHRzLmFzcHglM2Z1cmwlM2QlMmZkYXRhJTJmd3IlMmYzYXNzaWduLmh0bSUyNTBEJnBvcFVwPXRydWUnLC8qc2hvd1JldHVybiovdHJ1ZSwzMDAsNjUwLHRydWUsJycpZAICD2QWBGYPZBYGAgEPEA8WBh8DBQxTZWFyY2hCdXR0b24fBAICHwFoZGRkZAIDDxAPFgYfAwUMU2VhcmNoQnV0dG9uHwQCAh8BaGRkZGQCBw8PFgYfAwUMU2VhcmNoQnV0dG9uHwAFTDxpbWcgc3JjPSIvUG9ydGFscy9fZGVmYXVsdC9Ta2lucy9JSFNBc2tpbi9pbWFnZXMvc2VhcmNoLnBuZyIgYWx0PSJTZWFyY2giLz4fBAICZGQCAg9kFgICAg8PFgYfAwUMU2VhcmNoQnV0dG9uHwAFTDxpbWcgc3JjPSIvUG9ydGFscy9fZGVmYXVsdC9Ta2lucy9JSFNBc2tpbi9pbWFnZXMvc2VhcmNoLnBuZyIgYWx0PSJTZWFyY2giLz4fBAICZGQCBA8WAh4FY2xhc3MFDEROTkVtcHR5UGFuZWQCBQ8WAh8HBQxETk5FbXB0eVBhbmVkAgYPFgIfBwUMRE5ORW1wdHlQYW5lZAIHDxYCHwcFDEROTkVtcHR5UGFuZWQCCA8WAh8HBQxETk5FbXB0eVBhbmVkAgkPZBYEZg8WAh8HBStEbm5Nb2R1bGUgRG5uTW9kdWxlLUROTl9IVE1MIERubk1vZHVsZS0xMzM2FgICAQ9kFgICAQ9kFgICAQ8PZBYCHwcFHEROTk1vZHVsZUNvbnRlbnQgTW9kRE5OSFRNTENkAgEPFgIfBwU2RG5uTW9kdWxlIERubk1vZHVsZS1HcmF2aXR5V29ya3MtaUZyYW1lIERubk1vZHVsZS0xMzM3FgICAQ9kFgICAQ9kFgICAQ8PZBYCHwcFJ0ROTk1vZHVsZUNvbnRlbnQgTW9kR3Jhdml0eVdvcmtzaUZyYW1lQ2QCCg9kFgJmDxYCHwcFKkRubk1vZHVsZSBEbm5Nb2R1bGUtRE5OX0hUTUwgRG5uTW9kdWxlLTQ4MBYCAgEPZBYCAgEPZBYCAgEPD2QWAh8HBRxETk5Nb2R1bGVDb250ZW50IE1vZEROTkhUTUxDZBgCBRpSaWJib25CYXIkRWRpdFBhZ2UkU2tpbkxzdA8UKwACZWVkBRZSaWJib25CYXIkQWRkTW9kJGN0bDAyDxQrAAJlZWTPyemrxQ0zilXPwy/KmvXYeiGpUQ==" />
+</div>
+
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ScriptManager_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3a89093640-ae6b-44c3-b8ea-010c934f8924%3aea597d4b%3ab25378d2" type="text/javascript"></script>
+<script src="/js/dnn.js" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQLd58T3DALDqsLUAgLs1ZiABAL+5PGyAgLR9YnYDqKXWWcKyhcDZ9D+ZRV01u2MUUpn" />
+</div><script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [], 90, '');
+//]]>
+</script>
+
+        <script src="/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js?cdv=54" type="text/javascript"></script><script src="/js/dnn.jquery.js?cdv=54" type="text/javascript"></script><script src="/Resources/ControlPanel/ControlPanel.debug.js?cdv=54" type="text/javascript"></script><script src="/js/dnncore.js?cdv=54" type="text/javascript"></script><script src="/js/dnn.modalpopup.js?cdv=54" type="text/javascript"></script>
+        
+        
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<LINK rel="stylesheet" type"text/css" href="/Portals/_default/Skins/IHSAskin/print.css" media="print">
+
+<!--[If IE 6]>
+	<body id="Body" class="ie">
+<![endif]-->
+<!--[If IE 7]>
+	<body id="Body" class="ie7">
+<![endif]-->
+<!--[If IE 8]>
+	<body id="Body" class="ie8">
+<![endif]-->
+<!--<![If !IE]>-->
+	<body id="Body">
+<!--<![endif]>-->
+
+<div id="Bg">
+<div id="Main">
+	<div id="Header">
+    	 <div id="LeftHeader"><a title="Illinois High School Association" class="nosee" href="/default.aspx" id="logo"></a>
+    	</div>
+    	<div id="LoginArea">
+        	
+            <div id="LoginBar"><a href="https://center.ihsa.org/go/ihsa/login.asp" target="_blank"><img src="/Portals/_default/Skins/IHSAskin/images/center-login.png" alt="School and Officials Center Login" /></a>
+            </div>
+        </div>
+        <div id="SloganArea"><img src="/Portals/_default/Skins/IHSAskin/images/future-plays-here.png" alt="The Future Plays Here" /></div>
+    </div>
+    <div id="MenuArea">
+        <ul id="MenuLinks"><li><a class="homehover" href="/">Home</a></li> <li><a class="menuhover" href="/SportsActivities.aspx">Sports &amp; Activities</a></li></ul><div id="topNav" class="TabList"><ul class="Level0"><li id="topNav58" ><a href="http://www.ihsa.org/Schools.aspx"  | IHSA">Schools</a><ul class="Level1"><li id="topNav641" ><a href="http://www.ihsa.org/Schools/SchoolDirectory.aspx"  Directory | IHSA">School Directory</a></li><li id="topNav60" ><a href="http://www.ihsa.org/Schools/EnrollmentsClassifications.aspx"  & Classifications | Schools | IHSA">Enrollments & Classifications</a></li><li id="topNav68" ><a href="http://www.ihsa.org/Schools/TownMeetingsPrincipalsRulesMeetings.aspx"  Meetings / Principals' Rules Meetings | Schools | IHSA">Town Meetings / Principals' Rules Meetings</a></li><li id="topNav61" ><a href="http://www.ihsa.org/Schools/ConferencesAffiliatedSchools.aspx"  & Affiliated Schools | Schools | IHSA">Conferences & Affiliated Schools</a></li><li id="topNav71" ><a href="http://www.ihsa.org/Schools/ApprovedForeignExchangePrograms.aspx"  Foreign Exchange Programs | Schools | IHSA">Approved Foreign Exchange Programs</a></li><li id="topNav229" ><a href="http://www.ihsa.org/Schools/OpenDates.aspx"  Dates | Schools| IHSA">Open Dates</a></li><li id="topNav652" ><a href="http://center.ihsa.org"  Center">Schools Center</a></li></ul></li><li id="topNav73" ><a href="http://www.ihsa.org/Officials.aspx"  | IHSA">Officials</a><ul class="Level1"><li id="topNav74" ><a href="http://www.ihsa.org/Officials/AthleticOfficialsAdvisoryCommittee.aspx"  Officials Advisory Committee | Officials | IHSA">Athletic Officials Advisory Committee</a></li><li id="topNav76" ><a href="http://www.ihsa.org/Officials/HowtoBecomeaLicensedOfficial.aspx"  to Become a Licensed Official | Officials | IHSA">How to Become a Licensed Official</a></li><li id="topNav77" ><a href="http://www.ihsa.org/Officials/FrequentlyAskedQuestions.aspx"  Asked Questions | Officials | IHSA">Frequently Asked Questions</a></li><li id="topNav78" ><a href="http://www.ihsa.org/Officials/ResourcesforOfficials.aspx"  for Officials | Officials | IHSA">Resources for Officials</a></li><li id="topNav91" ><a href="http://www.ihsa.org/Officials/OfficialsRecordBook.aspx"  Record Book | Officials | IHSA">Officials Record Book </a></li><li id="topNav653" ><a href="http://center.ihsa.org/"  Center">Officials Center</a></li></ul></li><li id="topNav92" ><a href="http://www.ihsa.org/NewsMedia.aspx"  & Media | IHSA">News & Media</a><ul class="Level1"><li id="topNav95" ><a href="http://www.ihsa.org/NewsMedia/NewsMediaCenter.aspx"  Media Center | News & Media | IHSA">News Media Center</a></li><li id="topNav719" ><a href="http://www.ihsa.org/NewsMedia/SchoolMedia.aspx"  Media">School Media</a></li><li id="topNav93" ><a href="http://www.ihsa.org/NewsMedia/Announcements.aspx"  | News & Media | IHSA">Announcements</a></li><li id="topNav537" ><a href="http://www.nfhsnetwork.com/associations/ihsa"  Live Streaming">IHSA.tv Live Streaming</a></li><li id="topNav103" ><a href="http://www.ihsa.org/NewsMedia/IHSATVNetwork.aspx"  TV Network | News & Media | IHSA">IHSA TV Network</a></li><li id="topNav833" ><a href="http://www.ihsa.org/NewsMedia/SocialMedia.aspx"  Media">Social Media</a></li><li id="topNav651" ><a href="http://www.ihsa.org/hub.htm"  Hub | News & Media | IHSA">IHSA Hub</a></li><li id="topNav654" ><a href="http://www.ihsa.org/NewsMedia/IllinoisHStoric.aspx"  H.S.toric | News & Media | IHSA">Illinois H.S.toric</a></li></ul></li><li id="topNav105" ><a href="http://www.ihsa.org/Resources.aspx"  | IHSA">Resources</a><ul class="Level1"><li id="topNav166" ><a href="http://www.ihsa.org/Resources/DownloadCenter.aspx"  Center | Resources | IHSA">Download Center</a></li><li id="topNav171" ><a href="http://www.ihsa.org/Resources/EquityCenter.aspx"  Center | Resources | IHSA">Equity Center</a></li><li id="topNav145" ><a href="http://www.ihsa.org/Resources/Sportsmanship.aspx"  | Resources | IHSA">Sportsmanship</a></li><li id="topNav106" ><a href="http://www.ihsa.org/Resources/CoachesEducation.aspx"  Education | Resources | IHSA">Coaches' Education</a></li><li id="topNav110" ><a href="http://www.ihsa.org/Resources/SportsMedicine.aspx"  Medicine | Resources | IHSA">Sports Medicine</a></li><li id="topNav132" ><a href="http://www.ihsa.org/Resources/AwardsRecognition.aspx"  & Recognition | Resources | IHSA">Awards & Recognition</a></li><li id="topNav150" ><a href="http://www.ihsa.org/Resources/CalendarofEvents.aspx"  of Events | Resources | IHSA">Calendar of Events</a></li><li id="topNav612" ><a href="http://www.ihsa.org/Resources/Video.aspx"  Video Productions">Video</a></li><li id="topNav639" ><a href="http://www.ihsa.org/Resources/Merchandise.aspx"  | Resources | IHSA">Merchandise</a></li></ul></li><li id="topNav179" ><a href="http://www.ihsa.org/AbouttheIHSA.aspx"  the IHSA | IHSA">About the IHSA</a><ul class="Level1"><li id="topNav183" ><a href="http://www.ihsa.org/AbouttheIHSA/MissionStatementBeliefs.aspx"  Statement & Beliefs | About the IHSA | IHSA">Mission Statement & Beliefs</a></li><li id="topNav185" ><a href="http://www.ihsa.org/AbouttheIHSA/ConstitutionBylawsPolicies.aspx"  By-laws & Policies | About the IHSA | IHSA">Constitution, By-laws & Policies</a></li><li id="topNav186" ><a href="http://www.ihsa.org/AbouttheIHSA/BoardofDirectors.aspx"  of Directors | About the IHSA | IHSA">Board of Directors</a></li><li id="topNav188" ><a href="http://www.ihsa.org/AbouttheIHSA/LegislativeCommission.aspx"  Commission | About the IHSA | IHSA">Legislative Commission</a></li><li id="topNav63" ><a href="http://www.ihsa.org/AbouttheIHSA/AdvisoryCommittees.aspx"  Committees | About the IHSA | IHSA">Advisory Committees</a></li><li id="topNav189" ><a href="http://www.ihsa.org/AbouttheIHSA/AdministrativeSupportStaff.aspx"  & Support Staff | About the IHSA | IHSA">Administrative & Support Staff</a></li><li id="topNav180" ><a href="http://www.ihsa.org/AbouttheIHSA/MapDirections.aspx"  & Directions | About the IHSA | IHSA">Map & Directions</a></li><li id="topNav193" ><a href="http://www.ihsa.org/AbouttheIHSA/IllinoisHighSchoolActivitiesFoundation.aspx"  High School Activities Foundation | About the IHSA | IHSA">Illinois High School Activities Foundation</a></li><li id="topNav822" ><a href="http://www.ihsa.org/AbouttheIHSA/AccommodationsforStudentswithDisabilities.aspx"  for Students with Disabilities | About the IHSA | IHSA">Accommodations for Students with Disabilities</a></li><li id="topNav786" ><a href="http://www.ihsa.org/AbouttheIHSA/IHSAArchives.aspx"  Archives | About the IHSA">IHSA Archives</a></li><li id="topNav100" ><a href="http://www.ihsa.org/AbouttheIHSA/RelatedOrganizations.aspx"  Organizations | About the IHSA | IHSA">Related Organizations</a></li></ul></li></ul></div>
+    	<div id="SearchArea">
+        	<span id="dnn_dnnSEARCH_ClassicSearch">
+  
+  
+  <input name="dnn$dnnSEARCH$txtSearch" type="text" maxlength="255" size="20" id="dnn_dnnSEARCH_txtSearch" class="NormalTextBox" onkeydown="return __dnn_KeyDown(&#39;13&#39;, &#39;javascript:__doPostBack(%27dnn$dnnSEARCH$cmdSearch%27,%27%27)&#39;, event);" />&nbsp;
+  <a id="dnn_dnnSEARCH_cmdSearch" class="SearchButton" href="javascript:__doPostBack(&#39;dnn$dnnSEARCH$cmdSearch&#39;,&#39;&#39;)"><img src="/Portals/_default/Skins/IHSAskin/images/search.png" alt="Search"/></a>
+</span>
+
+
+
+        </div>        
+	</div>
+    <div id="Top">        
+    </div>
+    <div id="Middle">
+    	<div id="InsideTop">
+            <div id="crumbs">
+                <span id="dnn_dnnBREADCRUMB_lblBreadCrumb"><a href="http://www.ihsa.org/SportsActivities.aspx" class="SkinObject">Sports & Activities</a> » <a href="http://www.ihsa.org/SportsActivities/BoysWrestling.aspx" class="SkinObject">Boys Wrestling</a> » <a href="http://www.ihsa.org/SportsActivities/BoysWrestling/StateSeriesInformationResults.aspx" class="SkinObject">State Series Information & Results</a></span>
+
+            </div> 
+            <div id="TitleText">
+                <h1 id="title">State Series Information & Results</h1>
+            </div>           
+        </div>    
+    	<div id="InsideLeft">
+        	<div id="dnn_InsideLeftPane" class="DNNEmptyPane"></div>
+        </div>
+        <div id="InsideRight">
+        	<div id="dnn_LargePane" class="DNNEmptyPane"></div>
+    		<div id="dnn_ContentPane" class="DNNEmptyPane"></div>
+        	<div id="dnn_RightPane" class="DNNEmptyPane"></div>
+	        <div id="dnn_Large2Pane" class="DNNEmptyPane"></div>
+		</div>
+        <div id="dnn_BottomPane"><div class="DnnModule DnnModule-DNN_HTML DnnModule-1336"><a name="1336"></a>
+
+<div class="SkinContainer">
+    
+        
+<div class="plaincontainer">
+        <div class="plaincontent">
+            <div id="dnn_ctr1336_ContentPane" class="Normal c_contentpane"><!-- Start_Module_1336 --><div id="dnn_ctr1336_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr1336_HtmlModule_lblContent" class="Normal">
+	<table class="YellowMenu" width="100%">
+    <tbody>
+        <tr>
+            <td style="width: 25%;" valign="top">
+            <p class="ThisActivity"><a href="/SportsActivities/BoysWrestling.aspx">Boys Wrestling</a></p>
+            <p class="iFrameMenu"><a href="/SportsActivities/BoysWrestling/StateSeriesInformationResults.aspx">2016-17 State Series</a></p>
+            <p class="iFrameMenu"><a href="/SportsActivities/BoysWrestling/RecordsHistory.aspx?url=/data/wr/records/index.htm">Records &amp; Past Results</a></p>
+            </td>
+            <td style="width: 75%;">
+            <p class="iFrameMenuItem"><strong>Sites:</strong>&nbsp; <a href="?url=/data/wr/1site.htm">1A</a>&nbsp; <a href="?url=/data/wr/2site.htm">2A</a>&nbsp; <a href="?url=/data/wr/3site.htm">3A</a>&nbsp;&nbsp; <a href="?url=/data/wr/site-overview.htm" target="_parent">Overview</a>&nbsp;&nbsp; <strong>Assignments:</strong>&nbsp; <a href="?url=/data/wr/1assign.htm">1A</a>&nbsp; <a href="?url=/data/wr/2assign.htm">2A</a>&nbsp; <a href="?url=/data/wr/3assign.htm">3A</a>&nbsp;&nbsp; <a href="/data/wr/sectional-schematic.pdf">Sectional Schematic</a></p>
+            <p class="iFrameMenuItem"><span class="MenuHighlight">INDIVIDUAL </span><strong>Brackets &amp; Results:&nbsp; </strong><a href="http://s400.trackwrestling.com/tw/Login.jsp?tName=IHSA%20&amp;sDate=02/03/2017&amp;eDate=02/25/2017">Regional &amp; Sectional</a>&nbsp;&nbsp; <a href="http://www.trackwrestling.com/predefinedtournaments/VerifyPassword.jsp?tournamentId=247469009">State Final</a>&nbsp;&nbsp; <a href="http://www.ihsa.tv" target="_blank"><strong>IHSA.TV</strong></a><br />
+            <a href="http://www.ihsa.tv" target="_blank"><strong></strong></a></p>
+            <p class="iFrameMenuItem"><span class="MenuHighlight">DUAL TEAM&nbsp;</span><strong> Schedules &amp; Scores:</strong>&nbsp;<a href="?url=/data/wr/1pair.htm">1A</a>&nbsp; <a href="?url=/data/wr/2pair.htm">2A</a>&nbsp; <a href="?url=/data/wr/3pair.htm">3A</a>&nbsp;&nbsp;<strong>Brackets: </strong><a href="?url=/data/wr/1bracket.htm">1A</a>&nbsp; <a href="?url=/data/wr/2bracket.htm">2A</a>&nbsp; <a href="?url=/data/wr/3bracket.htm">3A</a>&nbsp;&nbsp;<strong><br />
+            ScoreZone:</strong>&nbsp; <a href="?url=/data/scores/wr1.htm">1A</a>&nbsp; <a href="?url=/data/scores/wr2.htm">2A</a>&nbsp; <a href="?url=/data/scores/wr3.htm">3A</a>&nbsp;&nbsp;&nbsp;<a href="?url=/data/scores/justscor.htm"><strong><em>Just the Scores!</em></strong></a></p>
+            <p class="iFrameMenuItem"><strong>State Final Team Info:</strong>&nbsp; <a href="?url=/data/wr/1info1.htm">1A</a>&nbsp; <a href="?url=/data/wr/2info1.htm">2A</a>&nbsp; <a href="?url=/data/wr/3info1.htm">3A</a>&nbsp;&nbsp; <strong>TrackWrestling:  </strong><a href="http://www.trackwrestling.com/teamtournaments/VerifyPassword.jsp?tournamentId=217825009">State Final Results</a>
+            </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+</div><!-- End_Module_1336 --></div>
+        </div>
+</div>
+    
+</div>
+</div><div class="DnnModule DnnModule-GravityWorks-iFrame DnnModule-1337"><a name="1337"></a>
+
+<div class="SkinContainer">
+    
+        
+<div class="plaincontainer">
+        <div class="plaincontent">
+            <div id="dnn_ctr1337_ContentPane" class="Normal c_contentpane"><!-- Start_Module_1337 --><div id="dnn_ctr1337_ModuleContent" class="DNNModuleContent ModGravityWorksiFrameC">
+	
+<div id="FrameDiv">
+   
+</div>
+
+<script type="text/javascript">
+    jQuery(document).ready(function ($) {
+        var frameHTML = '<iframe id="frameMain" onLoad="calcHeight();" frameborder="0" scrolling="NO" height="1px" width="100%" src="/data/wr/3assign.htm?NOCACHE=11:28:07 AM" />';
+        jQuery('#FrameDiv').append(frameHTML);
+
+    });
+
+    function calcHeight() {
+        //find the height of the internal page
+        var height = document.getElementById('frameMain').contentWindow.document.body.scrollHeight;
+
+        //change the height of the iframe
+        document.getElementById('frameMain').height = height;
+    }
+</script>
+</div><!-- End_Module_1337 --></div>
+        </div>
+</div>
+    
+</div>
+</div></div>
+    </div> 
+	<div id="Bottom">
+    </div>
+	<div id="Footer">
+        <div class="bkrighttop">
+            <div></div>
+        </div>
+ 		<div id="dnn_FooterPane"><div class="DnnModule DnnModule-DNN_HTML DnnModule-480"><a name="480"></a>
+
+<div class="SkinContainer">
+    
+        
+<div class="plaincontainer">
+        <div class="plaincontent">
+            <div id="dnn_ctr480_ContentPane" class="Normal c_contentpane"><!-- Start_Module_480 --><div id="dnn_ctr480_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr480_HtmlModule_lblContent" class="Normal">
+	<h4>Illinois High School Association</h4>
+<table width="100%" cellspacing="0" cellpadding="0" border="0" class="footertable">
+    <tbody>
+        <tr>
+            <td>Phone:<strong> (309) 663-6377 </strong><br />
+            Fax: <strong>     (309) 663-7479 </strong><br />
+            <a href="/AbouttheIHSA/MapDirections.aspx"><strong><br />
+            </strong></a></td>
+            <td>2715 McGraw Drive<br />
+            Bloomington, IL 61704-6011<br />
+            <a href="/AbouttheIHSA/MapDirections.aspx"><strong>Map &amp; directions </strong></a></td>
+            <td><strong>Office Hours</strong><br />
+            Monday-Friday, 8:00 am-4:15 pm  <br />
+            (closed Fridays in summer)</td>
+            <td style="width: 130px;"><a class="logoone" target="_blank" href="http://www.iesa.org/"><span>Illinois Elementary School Association</span></a> <a class="logotwo" target="_blank" href="http://www.nfhs.org/"><span>National Federation of State High School Associations</span></a>
+            <p style="text-align: center;"><a href="/AbouttheIHSA/RelatedOrganizations.aspx">Related organizations</a></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p>&copy; 1996&ndash;­2013 Illinois High School Association. All rights reserved.</p>
+</div>
+
+</div><!-- End_Module_480 --></div>
+        </div>
+</div>
+    
+</div>
+</div></div>
+        <div class="bkrightbot">
+            <div></div>
+        </div>
+    </div>
+    <div id="FooterTwo">
+    	<a href="http://www.gravityworksdesign.com" target="_blank" title="Website and Mobile App Development">Web Design by Gravity Works</a>
+    </div>
+
+    <div id="HomeMenu" style="display:none">
+    <ul style="width:148px;">
+        <li><a href="/home/SiteIndex.aspx">Site Index</a></li>
+        <li><a href="/home/ChangePassword.aspx">Change Password</a></li>
+    </ul>
+</div>
+
+<div id="SportsMenu" style="display:none">
+    <div id="BoysSports">
+        <span class="MenuHead">Boys Sports</span>
+        <ul style="width:148px;">
+            <li><a href="/SportsActivities/BoysBaseball.aspx">Baseball</a></li>
+            <li><a href="/SportsActivities/BoysBasketball.aspx">Basketball</a></li>
+            <li><a href="/SportsActivities/BoysBowling.aspx">Bowling</a></li>
+            <li><a href="/SportsActivities/BoysCrossCountry.aspx">Cross Country</a></li>
+            <li><a href="/SportsActivities/BoysFootball.aspx">Football</a></li>
+            <li><a href="/SportsActivities/BoysGolf.aspx">Golf</a></li>
+            <li><a href="/SportsActivities/BoysGymnastics.aspx">Gymnastics</a></li>
+            <li><a href="/SportsActivities/BoysLacrosse.aspx">Lacrosse</a></li>
+            <li><a href="/SportsActivities/BoysSoccer.aspx">Soccer</a></li>
+            <li><a href="/SportsActivities/BoysSwimmingDiving.aspx">Swimming &amp; Diving</a></li>
+            <li><a href="/SportsActivities/BoysTennis.aspx">Tennis</a></li>
+            <li><a href="/SportsActivities/BoysTrackField.aspx">Track &amp; Field</a></li>
+            <li><a href="/SportsActivities/BoysVolleyball.aspx">Volleyball</a></li>
+            <li><a href="/SportsActivities/BoysWaterPolo.aspx">Water Polo</a></li>
+            <li><a href="/SportsActivities/BoysWrestling.aspx">Wrestling</a></li>
+        </ul>
+    </div>
+    <div id="GirlsSports">
+        <span class="MenuHead">Girls Sports</span>
+        <ul style="width:156px;">
+            <li><a href="/SportsActivities/GirlsBadminton.aspx">Badminton</a></li>
+            <li><a href="/SportsActivities/GirlsBasketball.aspx">Basketball</a></li>
+            <li><a href="/SportsActivities/GirlsBowling.aspx">Bowling</a></li>
+            <li><a href="/SportsActivities/CompetitiveCheerleading.aspx">Competitive Cheerleading</a></li>
+            <li><a href="/SportsActivities/CompetitiveDance.aspx">Competitive Dance</a></li>
+            <li><a href="/SportsActivities/GirlsCrossCountry.aspx">Cross Country</a></li>
+            <li><a href="/SportsActivities/GirlsGolf.aspx">Golf</a></li>
+            <li><a href="/SportsActivities/GirlsGymnastics.aspx">Gymnastics</a></li>
+            <li><a href="/SportsActivities/GirlsLacrosse.aspx">Lacrosse</a></li>
+            <li><a href="/SportsActivities/GirlsSoccer.aspx">Soccer</a></li>
+            <li><a href="/SportsActivities/GirlsSoftball.aspx">Softball</a></li>
+            <li><a href="/SportsActivities/GirlsSwimmingDiving.aspx">Swimming &amp; Diving</a></li>
+            <li><a href="/SportsActivities/GirlsTennis.aspx">Tennis</a></li>
+            <li><a href="/SportsActivities/GirlsTrackField.aspx">Track &amp; Field</a></li>
+            <li><a href="/SportsActivities/GirlsVolleyball.aspx">Volleyball</a></li>
+            <li><a href="/SportsActivities/GirlsWaterPolo.aspx">Water Polo</a></li>
+            
+        </ul>
+    </div>
+    <div id="Activities">
+        <span class="MenuHead">Activities</span>
+        <ul style="width:173px;">
+            <li><a href="/SportsActivities/BassFishing.aspx">Bass Fishing</a></li>
+            <li><a href="/SportsActivities/Chess.aspx">Chess</a></li>
+            <li><a href="/SportsActivities/Debate.aspx">Debate</a></li>
+            <li><a href="/SportsActivities/DramaGroupInterpretation.aspx">Drama &amp; Group Interpretation</a></li>
+            <li><a href="/SportsActivities/IndividualEvents.aspx">Individual Events</a></li>
+            <li><a href="/SportsActivities/Journalism.aspx">Journalism</a></li>
+            <li><a href="/SportsActivities/Music.aspx">Music</a></li>
+            <li><a href="/SportsActivities/ScholasticBowl.aspx">Scholastic Bowl</a></li>
+        </ul>
+        <span class="MenuHead" style="margin:22px 0 4px 0;">Special Coed Activities</span>
+        <ul style="width:168px;">
+            <li><a href="/SportsActivities/Spirit.aspx">Spirit</a></li>
+            <li><a href="/SportsActivities/ThreePointShowdown.aspx">Three-Point Showdown</a></li>
+            <li><a href="/SportsActivities/WheelchairBasketball.aspx">Wheelchair Basketball</a></li>
+        </ul>
+    </div>
+</div>
+
+</div>
+</div>
+
+
+
+<script type="text/javascript">
+    function randOrd() {
+        return (Math.round(Math.random()) - 0.5);
+    }
+    $(document).ready(function () {
+        var klasses = ['scorezoneone', 'scorezonetwo'];
+        klasses.sort(randOrd);
+        $('#Bg').each(function (i, val) {
+            $(this).addClass(klasses[i]);
+        });
+    });
+    jQuery(".homehover").hover(function () {
+        jQuery("#HomeMenu").show();
+    });
+    jQuery("#HomeMenu").hover(function () {
+        jQuery("#HomeMenu").show();
+    });
+    jQuery("#HomeMenu").mouseleave(function () {
+        jQuery("#HomeMenu").hide();
+    });
+    jQuery(".homehover").mouseleave(function () {
+        jQuery("#HomeMenu").hide();
+    });
+    jQuery(".menuhover").hover(function () {
+        jQuery("#SportsMenu").show();
+    });
+    jQuery("#SportsMenu").hover(function () {
+        jQuery("#SportsMenu").show();
+    });
+    jQuery("#SportsMenu").mouseleave(function () {
+        jQuery("#SportsMenu").hide();
+    });
+    jQuery(".menuhover").mouseleave(function () {
+        jQuery("#SportsMenu").hide();
+    });
+</script>
+
+<script type="text/javascript">
+ 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1250137-1']);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+ 
+</script>
+<script src="/Portals/_default/Skins/IHSAskin/js/omniture.js"></script>
+<script>
+if ( typeof s !== 'undefined' ) { s.t(); }
+</script>
+        <input name="ScrollTop" type="hidden" id="ScrollTop" />
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off" value="`{`__scdoff`:`1`}" />
+        
+    
+<script type="text/javascript" src="/Resources/Shared/scripts/initWidgets.js" ></script></form>
+    
+    
+    <script type="text/javascript">
+        //<![CDATA[
+        
+        //This code is to force a refresh of browser cache
+        //in case an old version of dnn.js is loaded
+        //It should be removed as soon as .js versioning is added
+        jQuery(document).ready(function () {
+            if (navigator.userAgent.indexOf(" Chrome/") == -1) {
+                if ((typeof dnnJscriptVersion === 'undefined' || dnnJscriptVersion !== "6.0.0") && typeof dnn !== 'undefined') {
+                    window.location.reload(true);
+                }
+            }
+        });
+         //]]>
+    </script>
+</body>
+</html>
