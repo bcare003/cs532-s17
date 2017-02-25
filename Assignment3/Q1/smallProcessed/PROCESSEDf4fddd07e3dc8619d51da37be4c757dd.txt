@@ -1,0 +1,12 @@
+   [bg-error-1280.jpg]
+   [1]GQ
+
+This is a 500 page.
+
+   That means something went wrong.
+   [2]Go to GQ.com
+
+References
+
+   1. http://www.gq.com/?us_site=y
+   2. http://www.gq.com/?us_site=y

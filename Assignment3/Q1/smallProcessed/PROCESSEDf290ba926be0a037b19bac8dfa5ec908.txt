@@ -1,0 +1,563 @@
+   [1]CNBC
+   ____________________
+
+   [2][cnbc-hdr-logo2.png]
+     * [3]HOME
+          + EDITION
+     * [4]News
+          + [5]Economy
+          + [6]Finance
+          + [7]Health Care
+          + [8]Real Estate
+          + [9]Wealth
+          + [10]Autos
+          + [11]Earnings
+          + [12]Energy
+          + [13]Life
+          + [14]Media
+          + [15]Politics
+          + [16]Retail
+          + [17]Commentary
+          + [18]Special Reports
+          + [19]Asia
+          + [20]Europe
+          + [21]CFO Council
+     * [22]Markets
+          + [23]Pre-Markets
+          + [24]U.S.
+          + [25]Asia
+          + [26]Europe
+          + [27]Stocks
+          + [28]Commodities
+          + [29]Currencies
+          + [30]Bonds
+          + [31]Funds
+          + [32]ETFs
+     * [33]Investing
+          + [34]Trading Nation
+          + [35]Trader Talk
+          + [36]Financial Advisors
+          + [37]Personal Finance
+          + [38]CNBC Explains
+          + [39]Portfolio
+          + [40]Watchlist
+          + [41]Stock Screener
+          + [42]Fund Screener
+     * [43]Tech
+          + [44]Mobile
+          + [45]Social Media
+          + [46]Enterprise
+          + [47]Gaming
+          + [48]Cybersecurity
+     * [49]Make It
+          + [50]Entrepreneurs
+          + [51]Leadership
+          + [52]Careers
+          + [53]Money
+          + [54]Specials
+          + [55]Shows
+     * [56]Video
+          + [57]Top Video
+          + [58]Latest Video
+          + [59]U.S. Video
+          + [60]Asia Video
+          + [61]Europe Video
+          + [62]CEO Interviews
+          + [63]Analyst Interviews
+          + [64]Full Episodes
+     * [65]Shows
+          + [66]Watch Live
+          + [67]CNBC U.S. Business Day
+          + [68]CNBC U.S. Primetime
+          + [69]CNBC Asia-Pacific
+          + [70]CNBC Europe
+          + [71]CNBC World
+          + [72]Full Episodes
+     * [73]More
+          + [74]Log In
+          + |
+          + [75]Register
+          + [76]Log Out
+
+     * [77]News
+     *
+          + [78]Economy
+          + [79]Finance
+          + [80]Health Care
+          + [81]Real Estate
+          + [82]Wealth
+          + [83]Autos
+          + [84]Consumer
+          + [85]Earnings
+          + [86]Energy
+          + [87]Life
+          + [88]Media
+          + [89]Politics
+          + [90]Retail
+          + [91]Commentary
+          + [92]Special Reports
+          + [93]Asia
+          + [94]Europe
+          + [95]CFO Council
+
+     * [96]Pro
+     *
+          + [97]View All
+          + [98]News & Analysis
+          + [99]Video
+          + [100]PRO Talks
+          + [101]PRO Uncut
+          + [102]Kensho Stats
+          + [103]Take a Tour
+          + [104]Subscribe
+
+     * [105]Markets
+     *
+          + [106]Pre-Markets
+          + [107]U.S.
+          + [108]Asia
+          + [109]Europe
+          + [110]Stocks
+          + [111]Commodities
+          + [112]Currencies
+          + [113]Bonds
+          + [114]Funds
+          + [115]ETFs
+
+     * [116]Make It
+     *
+          + [117]Entrepreneurs
+          + [118]Leadership
+          + [119]Careers
+          + [120]Money
+          + [121]Specials
+          + [122]Shows
+
+     * [123]Investing
+     *
+          + [124]Trading Nation
+          + [125]Trader Talk
+          + [126]Financial Advisors
+          + [127]Personal Finance
+          + [128]CNBC Explains
+          + [129]Portfolio
+          + [130]Watchlist
+          + [131]Stock Screener
+          + [132]Fund Screener
+
+     * [133]Tech
+     *
+          + [134]Mobile
+          + [135]Social Media
+          + [136]Enterprise
+          + [137]Gaming
+          + [138]Cybersecurity
+
+     * [139]Video
+     *
+          + [140]Top Video
+          + [141]Latest Video
+          + [142]U.S. Video
+          + [143]Asia Video
+          + [144]Europe Video
+          + [145]CEO Interviews
+          + [146]Analyst Interviews
+          + [147]Full Episodes
+
+     * [148]Shows
+     *
+          + [149]CNBC U.S. Business Day
+          + [150]CNBC U.S. Primetime
+          + [151]CNBC Asia-Pacific
+          + [152]CNBC Europe
+          + [153]CNBC World
+
+     * [154]Special Reports
+     *
+          + [155]Snapchat IPO
+          + [156]Investor Toolkit
+          + [157]ETF Strategist
+          + [158]Portfolio Perspective
+          + [159]Trader Talk
+          + [160]Global Investing Hot Spots
+          + [161]Future Opportunities
+          + [162]Retail Report
+
+     * Original Series
+     *
+          + [163]Executive Edge
+          + [164]Trading Nation
+          + [165]Futures Now
+          + [166]Retire Well
+          + [167]The Pulse @ 1 Market
+          + [168]The Bottom Line
+
+     * CNBC Events
+     *
+          + [169]Davos
+          + [170]Delivering Alpha
+          + [171]eMerge Americas
+          + [172]iCONIC Conference
+          + [173]Cambridge Cyber Summit
+          + [174]Sohn Conference
+
+     * Follow CNBC
+     *
+          +
+          +
+
+     *
+          + EDITION
+
+     *
+
+     *
+          + [175]Register
+          + [176]Log In
+
+     *
+          + [177]Profile
+          + [178]Email Preferences
+          + [179]PRO
+          + [180]Sign Out
+
+     * [181]Pro
+          + [182]View All
+          + [183]News & Analysis
+          + [184]Video
+          + [185]PRO Talks
+          + [186]PRO Uncut
+          + [187]Kensho Stats
+          + [188]Take a Tour
+          + [189]Subscribe
+     * [190]LIVE TV
+          + [191]Watch CNBC TV
+          + [192]Watch CNBC Pro
+     * [193]Watchlist
+
+   X
+
+   ×
+
+   ×
+
+   ×
+
+   ×
+
+   [194]Technology
+     * [195]Technology
+     * [196]Mobile
+     * [197]Social Media
+     * [198]Enterprise
+     * [199]Gaming
+     * [200]Cybersecurity
+     * [201]The Pulse @ 1 Market
+
+Musk denies ‘super-rude’ client his Tesla
+
+   [202]Arjun Kharpal | [203]@ArjunKharpal
+   Wednesday, 3 Feb 2016 | 6:05 AM ETCNBC.com
+   SHARES
+   show chapters
+
+   [204]Tesla CEO turns down 'super-rude' customer
+
+   Tesla CEO turns down 'super-rude' customer    Wednesday, 3 Feb 2016 |
+   7:05 AM ET
+
+   If you criticize a company online, you normally get an apologetic
+   response via Twitter. But that wasn't the case for one [205]Tesla
+   customer who got his order personally cancelled by chief executive Elon
+   Musk after the company was slammed in a blog post.
+
+   U.S. venture capitalist Stewart Alsop wrote an open letter two days ago
+   claiming that after a phone call with Musk, his order for a Tesla Model
+   X was cancelled by the billionaire.
+
+   "I also hear that you are not comfortable having me own a Tesla car and
+   have cancelled my order for a Tesla Model X," Alsop said.
+
+   It was apparently a response to another blog post that Alsop had
+   written in September at the [206]launch of the Tesla Model X. Alsop
+   complained that the event had started late, the room was stuffed, he
+   didn't get to see the actual car, Musk presented an "amateur" slide
+   show, and there was too much focus on safety. The investor had also put
+   down a $5,000 deposit.
+
+   "It would still be nice if you showed some class and apologized to the
+   people who believe in this product," Alsop wrote at the time.
+
+   Musk responded via Twitter calling Alsop a "super rude customer" and
+   attempted to play down the dispute.
+
+   [Elon Musk - Tesla cancelled twitter screenshot.png]
+
+   Alsop explained that he had addressed his open letter to Musk because
+   he was hosting the event, adding that in the past when he had
+   criticized BMW, he didn't have his car recalled.
+
+   "I must also admit that I am a little taken aback to be banned by
+   Tesla. When I wrote a blog post about my BMW X1 called 'My Car Makes Me
+   Feel Stoopid', the CEO of BMW didn't take the car back," Alsop wrote.
+
+   The Model X was launched last year after initially being unveiled in
+   2012 and expected to be shipped in 2013. Tesla delivered just 208 Model
+   X cars last year.
+
+   [207]Arjun KharpalTechnology Correspondent
+
+Related Securities
+
+    Symbol
+             Price
+
+                     Change
+                           %Change
+   [208]TSLA
+                  ---
+
+   [loader-2.gif]
+
+   To view this site, you need to have JavaScript enabled in your browser,
+   and either the Flash Plugin or an HTML5-Video enabled browser. Download
+   [209]the latest Flash player and try again.
+
+   Playing
+
+   Share this video...
+   ×
+
+   Watch Next...
+
+     *
+
+References
+
+   Visible links
+   1. http://www.cnbc.com/
+   2. http://www.cnbc.com/
+   3. http://www.cnbc.com/
+   4. http://www.cnbc.com/us-news/
+   5. http://www.cnbc.com/economy/
+   6. http://www.cnbc.com/finance/
+   7. http://www.cnbc.com/health-care/
+   8. http://www.cnbc.com/real-estate/
+   9. http://www.cnbc.com/wealth/
+  10. http://www.cnbc.com/autos/
+  11. http://www.cnbc.com/earnings/
+  12. http://www.cnbc.com/energy/
+  13. http://www.cnbc.com/life/
+  14. http://www.cnbc.com/media/
+  15. http://www.cnbc.com/politics/
+  16. http://www.cnbc.com/retail/
+  17. http://www.cnbc.com/commentary/
+  18. http://www.cnbc.com/special-reports/
+  19. http://www.cnbc.com/asia-news/
+  20. http://www.cnbc.com/europe-news/
+  21. http://www.cnbc.com/global-cfo-council/
+  22. http://www.cnbc.com/markets/
+  23. http://www.cnbc.com/pre-markets/
+  24. http://www.cnbc.com/us-markets/
+  25. http://www.cnbc.com/markets-asia-pacific/
+  26. http://www.cnbc.com/markets-europe/
+  27. http://www.cnbc.com/stocks/
+  28. http://www.cnbc.com/commodities/
+  29. http://www.cnbc.com/currencies/
+  30. http://www.cnbc.com/bonds/
+  31. http://www.cnbc.com/mutual-funds/
+  32. http://www.cnbc.com/exchange-traded-funds/
+  33. http://www.cnbc.com/investing/
+  34. http://www.cnbc.com/trading-nation/
+  35. http://www.cnbc.com/trader-talk/
+  36. http://www.cnbc.com/financial-advisors/
+  37. http://www.cnbc.com/personal-finance/
+  38. http://www.cnbc.com/cnbc-explains/
+  39. http://portfolio.cnbc.com/
+  40. http://watchlist.cnbc.com/
+  41. http://www.cnbc.com/id/15839076
+  42. http://www.cnbc.com/id/15839074
+  43. http://www.cnbc.com/technology/
+  44. http://www.cnbc.com/mobile/
+  45. http://www.cnbc.com/social-media/
+  46. http://www.cnbc.com/enterprise/
+  47. http://www.cnbc.com/gaming/
+  48. http://www.cnbc.com/cybersecurity/
+  49. http://www.cnbc.com/make-it/
+  50. http://www.cnbc.com/make-it/entrepreneurs/
+  51. http://www.cnbc.com/make-it/leadership/
+  52. http://www.cnbc.com/make-it/careers/
+  53. http://www.cnbc.com/make-it/money/
+  54. http://www.cnbc.com/make-it/special-reports/
+  55. http://www.cnbc.com/make-it/shows/
+  56. http://video.cnbc.com/
+  57. http://www.cnbc.com/top-video/
+  58. http://www.cnbc.com/video-all/
+  59. http://www.cnbc.com/us-video/
+  60. http://www.cnbc.com/asia-video/
+  61. http://www.cnbc.com/europe-video/
+  62. http://www.cnbc.com/video-ceo-interviews/
+  63. http://www.cnbc.com/video-analyst-interviews/
+  64. http://www.cnbc.com/live-tv/
+  65. http://www.cnbc.com/tv-worldwide/
+  66. http://www.cnbc.com/live-tv/
+  67. http://www.cnbc.com/tv-worldwide/
+  68. http://www.cnbc.com/make-it/shows/
+  69. http://www.cnbc.com/asia-business-day/
+  70. http://www.cnbc.com/europe-television/
+  71. http://www.cnbc.com/global-television-shows/
+  72. http://www.cnbc.com/live-tv/
+  73. javascript:void(0)
+  74. http://www.cnbc.com/application/generic/?action=signin
+  75. http://www.cnbc.com/application/generic/?action=signup
+  76. javascript:void(0);
+  77. http://www.cnbc.com/us-news/
+  78. http://www.cnbc.com/economy/
+  79. http://www.cnbc.com/finance/
+  80. http://www.cnbc.com/health-care/
+  81. http://www.cnbc.com/real-estate/
+  82. http://www.cnbc.com/wealth/
+  83. http://www.cnbc.com/autos/
+  84. http://www.cnbc.com/consumers/
+  85. http://www.cnbc.com/earnings/
+  86. http://www.cnbc.com/energy/
+  87. http://www.cnbc.com/life/
+  88. http://www.cnbc.com/media/
+  89. http://www.cnbc.com/politics/
+  90. http://www.cnbc.com/retail/
+  91. http://www.cnbc.com/commentary/
+  92. http://www.cnbc.com/special-reports/
+  93. http://www.cnbc.com/asia-news/
+  94. http://www.cnbc.com/europe-news/
+  95. http://www.cnbc.com/global-cfo-council/
+  96. http://www.cnbc.com/pro
+  97. http://www.cnbc.com/pro
+  98. http://www.cnbc.com/pro-story
+  99. http://www.cnbc.com/pro-video
+ 100. http://www.cnbc.com/protalks
+ 101. http://www.cnbc.com/pro-uncut
+ 102. http://www.cnbc.com/kensho
+ 103. javascript:void(0)
+ 104. http://www.cnbc.com/application/pro
+ 105. http://www.cnbc.com/markets/
+ 106. http://www.cnbc.com/pre-markets/
+ 107. http://www.cnbc.com/us-markets/
+ 108. http://www.cnbc.com/markets-asia-pacific/
+ 109. http://www.cnbc.com/markets-europe/
+ 110. http://www.cnbc.com/stocks/
+ 111. http://www.cnbc.com/commodities/
+ 112. http://www.cnbc.com/currencies/
+ 113. http://www.cnbc.com/bonds/
+ 114. http://www.cnbc.com/mutual-funds/
+ 115. http://www.cnbc.com/exchange-traded-funds/
+ 116. http://www.cnbc.com/make-it/
+ 117. http://www.cnbc.com/make-it/entrepreneurs/
+ 118. http://www.cnbc.com/make-it/leadership/
+ 119. http://www.cnbc.com/make-it/careers/
+ 120. http://www.cnbc.com/make-it/money/
+ 121. http://www.cnbc.com/make-it/special-reports/
+ 122. http://www.cnbc.com/make-it/shows/
+ 123. http://www.cnbc.com/investing/
+ 124. http://www.cnbc.com/trading-nation/
+ 125. http://www.cnbc.com/trader-talk/
+ 126. http://www.cnbc.com/financial-advisors/
+ 127. http://www.cnbc.com/personal-finance/
+ 128. http://www.cnbc.com/cnbc-explains/
+ 129. http://portfolio.cnbc.com/
+ 130. http://watchlist.cnbc.com/
+ 131. http://www.cnbc.com/id/15839076
+ 132. http://www.cnbc.com/id/15839074
+ 133. http://www.cnbc.com/technology/
+ 134. http://www.cnbc.com/mobile/
+ 135. http://www.cnbc.com/social-media/
+ 136. http://www.cnbc.com/enterprise/
+ 137. http://www.cnbc.com/gaming/
+ 138. http://www.cnbc.com/cybersecurity/
+ 139. http://video.cnbc.com/
+ 140. http://www.cnbc.com/top-video/
+ 141. http://www.cnbc.com/video-all/
+ 142. http://www.cnbc.com/us-video/
+ 143. http://www.cnbc.com/asia-video/
+ 144. http://www.cnbc.com/europe-video/
+ 145. http://www.cnbc.com/video-ceo-interviews/
+ 146. http://www.cnbc.com/video-analyst-interviews/
+ 147. http://www.cnbc.com/live-tv/
+ 148. http://www.cnbc.com/tv-worldwide/
+ 149. http://www.cnbc.com/tv-worldwide/
+ 150. http://www.cnbc.com/make-it/shows/
+ 151. http://www.cnbc.com/asia-business-day/
+ 152. http://www.cnbc.com/europe-television/
+ 153. http://www.cnbc.com/global-television-shows/
+ 154. http://www.cnbc.com/special-reports/
+ 155. http://www.cnbc.com/snapchat-ipo/
+ 156. http://www.cnbc.com/investor-toolkit/
+ 157. http://www.cnbc.com/etf-strategist/
+ 158. http://www.cnbc.com/portfolio-perspective/
+ 159. http://www.cnbc.com/trader-talk/
+ 160. http://www.cnbc.com/global-investing-hot-spots/
+ 161. http://www.cnbc.com/future-opportunities/
+ 162. http://www.cnbc.com/retail-report/
+ 163. http://www.cnbc.com/executive-edge/
+ 164. http://www.cnbc.com/trading-nation/
+ 165. http://www.cnbc.com/futures-now/
+ 166. http://www.cnbc.com/retirewell/
+ 167. http://www.cnbc.com/the-pulse/
+ 168. http://www.cnbc.com/the-bottom-line/
+ 169. http://www.cnbc.com/davos-world-economic-forum/
+ 170. http://www.cnbc.com/delivering-alpha-ii/
+ 171. http://www.cnbc.com/emerge-americas/
+ 172. http://www.cnbc.com/iconic-conference/
+ 173. http://www.cnbc.com/securing-our-future/
+ 174. http://www.cnbc.com/sohn/
+ 175. javascript:void(0);
+ 176. javascript:void(0);
+ 177. http://www.cnbc.com/account#profile
+ 178. http://www.cnbc.com/account#newsletter
+ 179. http://www.cnbc.com/account#pro
+ 180. javascript:void(0);
+ 181. http://www.cnbc.com/pro
+ 182. http://www.cnbc.com/pro
+ 183. http://www.cnbc.com/pro-story
+ 184. http://www.cnbc.com/pro-video
+ 185. http://www.cnbc.com/protalks
+ 186. http://www.cnbc.com/pro-uncut
+ 187. http://www.cnbc.com/kensho
+ 188. javascript:void(0)
+ 189. http://www.cnbc.com/application/pro
+ 190. javascript:void(0)
+ 191. http://www.cnbc.com/live-tv/
+ 192. http://www.cnbc.com/application/pro
+ 193. http://watchlist.cnbc.com/
+ 194. http://www.cnbc.com/technology/
+ 195. http://www.cnbc.com/technology/
+ 196. http://www.cnbc.com/mobile/
+ 197. http://www.cnbc.com/social-media/
+ 198. http://www.cnbc.com/enterprise/
+ 199. http://www.cnbc.com/gaming/
+ 200. http://www.cnbc.com/cybersecurity/
+ 201. http://www.cnbc.com/the-pulse/
+ 202. http://www.cnbc.com/arjun-kharpal/
+ 203. http://twitter.com/ArjunKharpal
+ 204. javascript:void(0);
+ 205. http://data.cnbc.com/quotes/TSLA
+ 206. http://www.cnbc.com/2015/09/30/tesla-delivers-model-x-electric-suv-to-take-on-luxury-carmakers.html
+ 207. http://www.cnbc.com/arjun-kharpal/
+ 208. http://data.cnbc.com/quotes/TSLA
+ 209. http://get.adobe.com/flashplayer/
+
+   Hidden links:
+ 211. javascript:void(0)
+ 212. javascript:void(0)
+ 213. https://www.facebook.com/cnbc
+ 214. https://twitter.com/cnbc
+ 215. javascript:void(0)
+ 216. javascript:void(0)
+ 217. javascript:void(0)
+ 218. http://www.cnbc.com/markets/
+ 219. http://video.cnbc.com/
+ 220. javascript:void(0),
+ 221. javascript:void(0);
+ 222. http://www.cnbc.com/arjun-kharpal/
+ 223. http://twitter.com/ArjunKharpal
+ 224. http://plus.google.com/+ArjunKharpal
+ 225. http://linkedin.com/profile/view?id=142872004

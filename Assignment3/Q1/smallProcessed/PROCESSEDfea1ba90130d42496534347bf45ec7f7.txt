@@ -1,0 +1,672 @@
+   #[1]SBNation.com
+
+   IFRAME: [2]https://www.googletagmanager.com/ns.html?id=GTM-W8JKW6
+
+   [3]Log In or Sign Up
+     * [4]Log In
+     * [5]Sign Up
+
+   (BUTTON)
+   ____________________ Search
+     * [6]NFL
+     * [7]NBA
+     * [8]MLB
+     * [9]NHL
+     * [10]CFB
+     * [11]Recruiting
+     * [12]CBB
+     * [13]UFC
+     * [14]Soccer
+     * [15]NASCAR
+     * [16]Fantasy
+     * [17]Golf
+     * [18]Shop
+     * [19]Tennis
+     * [20]Cycling
+     * [21]Boxing
+     * [22]Horse Racing
+     * [23]Podcasts
+     * [24]Local
+     * [25]Running
+     * [26]Water Polo
+     * [27]Wrestling
+     * [28]Outsports
+     * [29]Video
+     * [30]Odds
+     * [31]Blogs
+     * [32]StubHub
+       [B9727903.139901453;sz=1x1;ord=%%CACHEBUSTER%%;dc_lat=;dc_rdid=;tag
+       _for_child_directed_treatment=?]
+     * more
+
+     * [33]NFL
+          + [34]Arizona Cardinals
+          + [35]Atlanta Falcons
+          + [36]Baltimore Ravens
+          + [37]Buffalo Bills
+          + [38]Carolina Panthers
+          + [39]Chicago Bears
+          + [40]Cincinnati Bengals
+          + [41]Cleveland Browns
+          + [42]Daily Fantasy Football Advice
+          + [43]Dallas Cowboys
+          + [44]Denver Broncos
+          + [45]Detroit Lions
+          + [46]Fantasy Football
+          + [47]Green Bay Packers
+          + [48]Houston Texans
+          + [49]Indianapolis Colts
+          + [50]Jacksonville Jaguars
+          + [51]Kansas City Chiefs
+          + [52]Los Angeles Rams
+          + [53]Miami Dolphins
+          + [54]Minnesota Vikings
+          + [55]NFL Mock Draft
+          + [56]NFL Odds
+          + [57]New England Patriots
+          + [58]New Orleans Saints
+          + [59]New York Giants
+          + [60]New York Jets
+          + [61]Oakland Raiders
+          + [62]Philadelphia Eagles
+          + [63]Pittsburgh Steelers
+          + [64]San Diego Chargers
+          + [65]San Francisco 49ers
+          + [66]Seattle Seahawks
+          + [67]Tampa Bay Buccaneers
+          + [68]Tennessee Titans
+          + [69]Washington Redskins
+          + [70]All NFL
+     * [71]NBA
+          + [72]Atlanta Hawks
+          + [73]Boston Celtics
+          + [74]Brooklyn Nets
+          + [75]Charlotte Hornets
+          + [76]Chicago Bulls
+          + [77]Cleveland Cavaliers
+          + [78]D-League and International
+          + [79]Dallas Mavericks
+          + [80]Denver Nuggets
+          + [81]Detroit Pistons
+          + [82]Golden State Warriors
+          + [83]Houston Rockets
+          + [84]Indiana Pacers
+          + [85]Los Angeles Clippers
+          + [86]Los Angeles Lakers
+          + [87]Memphis Grizzlies
+          + [88]Miami Heat
+          + [89]Milwaukee Bucks
+          + [90]Minnesota Timberwolves
+          + [91]NBA Odds
+          + [92]New Orleans Pelicans
+          + [93]New York Knicks
+          + [94]Oklahoma City Thunder
+          + [95]Orlando Magic
+          + [96]Philadelphia 76ers
+          + [97]Phoenix Suns
+          + [98]Portland Trail Blazers
+          + [99]Sacramento Kings
+          + [100]San Antonio Spurs
+          + [101]Sonics Rising
+          + [102]Toronto Raptors
+          + [103]Utah Jazz
+          + [104]WNBA and NCAA WBB
+          + [105]Washington Wizards
+          + [106]All NBA
+     * [107]MLB
+          + [108]Arizona Diamondbacks
+          + [109]Atlanta Braves
+          + [110]Baltimore Orioles
+          + [111]Boston Red Sox
+          + [112]Chicago Cubs
+          + [113]Chicago White Sox
+          + [114]Cincinnati Reds
+          + [115]Cleveland Indians
+          + [116]Colorado Rockies
+          + [117]Daily Fantasy Baseball Advice
+          + [118]Detroit Tigers
+          + [119]Fake Teams
+          + [120]FanDuel One-Day Fantasy Baseball
+          + [121]Houston Astros
+          + [122]Kansas City Royals
+          + [123]Los Angeles Angels
+          + [124]Los Angeles Dodgers
+          + [125]MLB Odds
+          + [126]MLB Trade Rumors
+          + [127]Miami Marlins
+          + [128]Milwaukee Brewers
+          + [129]Minnesota Twins
+          + [130]Minor League / Rookies / Prospects
+          + [131]New York Mets
+          + [132]New York Yankees
+          + [133]Oakland Athletics
+          + [134]Philadelphia Phillies
+          + [135]Pittsburgh Pirates
+          + [136]Sabermetrics
+          + [137]San Diego Padres
+          + [138]San Francisco Giants
+          + [139]Seattle Mariners
+          + [140]St. Louis Cardinals
+          + [141]Tampa Bay Rays
+          + [142]Texas Rangers
+          + [143]Toronto Blue Jays
+          + [144]Washington Nationals
+          + [145]All MLB
+     * [146]NHL
+          + [147]Anaheim Ducks
+          + [148]Arizona Coyotes
+          + [149]Boston Bruins
+          + [150]Buffalo Sabres
+          + [151]Calgary Flames
+          + [152]Carolina Hurricanes
+          + [153]Chicago Blackhawks
+          + [154]Colorado Avalanche
+          + [155]Columbus Blue Jackets
+          + [156]Dallas Stars
+          + [157]Detroit Red Wings
+          + [158]Edmonton Oilers
+          + [159]Fantasy Hockey
+          + [160]Florida Panthers
+          + [161]Kings, Sharks, & Ducks
+          + [162]Kings, Sharks, & Ducks
+          + [163]Los Angeles Kings
+          + [164]Minnesota Wild
+          + [165]Montreal Canadiens
+          + [166]NHL Odds
+          + [167]Nashville Predators
+          + [168]New Jersey Devils
+          + [169]New York Islanders
+          + [170]New York Rangers
+          + [171]Ottawa Senators
+          + [172]Philadelphia Flyers
+          + [173]Pittsburgh Penguins
+          + [174]San Jose Sharks
+          + [175]St. Louis Blues
+          + [176]Tampa Bay Lightning
+          + [177]Toronto Maple Leafs
+          + [178]Vancouver Canucks
+          + [179]Washington Capitals
+          + [180]Winnipeg Jets
+          + [181]All NHL
+     * [182]CFB
+          + [183]Advanced College Football Stats
+          + [184]College Football Odds
+          + [185]College Football Recruiting
+          + [186]Every Day Should Be Saturday
+          + [187]View team list
+          + [188]All CFB
+     * [189]Recruiting
+     * [190]CBB
+          + [191]Bracketology
+          + [192]College Basketball Odds
+          + [193]View team list
+          + [194]All CBB
+     * [195]UFC
+          + [196]Bloody Elbow
+          + [197]MMA Fight Schedule
+          + [198]MMA Fighters
+          + [199]MMA Fighting
+          + [200]MMA Mania
+          + [201]MMA Rankings
+     * [202]Soccer
+          + [203]English Premier League
+          + [204]German Bundesliga
+          + [205]Italian Serie A
+          + [206]MLS
+          + [207]NWSL
+          + [208]Odds
+          + [209]Spanish La Liga
+          + [210]View team list
+          + [211]Womens World Cup 2015
+          + [212]All Soccer
+     * [213]NASCAR
+     * [214]Fantasy
+          + [215]FanDuel One-Day Fantasy Basketball
+          + [216]FanDuel One-Week Fantasy Football
+          + [217]One-Day Fantasy Basketball Advice
+          + [218]One-Week Fantasy Football Advice
+     * [219]Golf
+     * [220]Shop
+          + [221]College Shop
+          + [222]MLB Shop
+          + [223]NASCAR Shop
+          + [224]NBA Shop
+          + [225]NFL Shop
+          + [226]NHL Shop
+          + [227]Soccer Shop
+          + [228]UFC Shop
+     * [229]Tennis
+     * [230]Cycling
+     * [231]Boxing
+     * [232]Horse Racing
+     * [233]Podcasts
+     * [234]Local
+     * [235]Running
+     * [236]Water Polo
+     * [237]Wrestling
+     * [238]Outsports
+     * [239]Video
+     * [240]Odds
+     * [241]Blogs
+     * [242]StubHub (BUTTON) ✕
+
+     * [243]Royal Rumble 2017
+     * [244]Wrestling
+
+Royal Rumble 2017 results: John Cena beats AJ Styles, ties Ric Flair’s world
+title record
+
+   [245]New, [246]1 comment
+
+John Cena made WWE history after another epic battle with AJ Styles.
+
+   by [247]Jon Benne[248]@LordBenne Jan 29, 2017, 9:18pm EST
+     * [249]tweet
+     * [250]share
+     * [251]pin
+     * [252]Rec
+
+   [javascript]
+
+   John Cena and AJ Styles put on another incredible match at the Royal
+   Rumble, with the added drama of Cena going for Ric Flair’s WWE title
+   record. After a tightly contested battle, Cena eventually came out on
+   top, winning the 16th world championship of his career and ending
+   Styles’s reign.
+
+   There was only a short feeling-out process as Cena dropped Styles with
+   a clothesline and started beating on him in the corner. Styles
+   recovered and took over the next stretch of the match.
+
+   Cena came back and launched Styles through the air with a massive back
+   body drop. Styles then hit a smooth hurricanrana, but Cena put him back
+   on the mat. He teased the Five Knuckle Shuffle, but Styles came back
+   with a facebuster. Cena then turned Styles inside out with another
+   stiff clothesline and hit the Five Knuckle Shuffle.
+
+   Styles got put on the top rope by Cena, who laid in some strikes and
+   climbed to the top himself. Styles slipped out and got Cena on his
+   shoulders for a spinning powerbomb.
+
+   Styles went for the Phenomenal Forearm, but Cena caught him and hit the
+   Attitude Adjustment, which wasn’t enough to put Styles away. Yet
+   another brutal clothesline got a two-count for Cena, who tried one more
+   but got hit with a Pele kick. Styles then hit the Phenomenal Forearm,
+   which Cena kicked out of.
+
+   After some more back-and-forth action, Cena lifted up Styles into an
+   electric chair position, which he turned into a facebuster. The men
+   continued to trade stiff strikes and Cena tried another AA, which
+   Styles countered into the Calf Crusher. Cena powered out and locked in
+   his STF hold. A long struggle followed, before Styles escaped and stole
+   Cena’s move with an STF of his own.
+
+   Cena lifted him back up and tried the AA once again, which Styles
+   escaped. Then Cena slapped on the Figure Four, a callback to Flair, the
+   man whose title record he was trying to tie. Styles reversed it into an
+   armbar, and Cena once again showed off his power, lifting up Styles and
+   slamming him to the mat to break the hold.
+
+   Cena went up top and tried a leg drop, but Styles blocked it and hit
+   the Styles Clash, which got a two-count. Styles went for a springboard
+   450, which Cena blocked with the knees. Then Cena hit a Code Red for
+   two.
+
+   At this point, both men were throwing their best shots. Cena catapulted
+   Styles into the corner and hit a cutter for two, and then hit his most
+   devastating move: The AA off the top rope. Styles miraculously kicked
+   out right before the referee counted three, bringing the crowd to a
+   frenzy. AJ hit another Styles Clash, but was unable to make the pin
+   attempt. He went for another Phenomenal Attempt, only for Cena to catch
+   him and hit two AAs in a row. The third AA of the match was finally
+   enough to put away Styles and make history for Cena.
+
+In this Storystream
+
+[253]Royal Rumble 2017: Results, highlights, reaction, and much more
+
+     * [254]Royal Rumble 2017 results: Randy Orton wins 2nd Rumble of his
+       career
+     * [255]Royal Rumble 2017 results: John Cena beats AJ Styles, ties Ric
+       Flair’s world title record
+     * [256]Royal Rumble 2017 results: Neville defeats Rich Swann to win
+       Cruiserweight title
+
+   [257]View all 13 stories
+
+More From SBNation.com
+
+     * [258]What we learned from Royal Rumble 2017
+     * [259]Randy Orton wins 2nd Rumble of his career
+     * [260]Highlights and results from the 30th annual Royal Rumble
+     * [261]Open some beers for the 2017 WWE Royal Rumble drinking game
+     * [262]Undertaker rumored to face a Raw Superstar at WrestleMania 33
+     * [263]TNA Impact ratings continue to dwindle
+
+Trending
+
+    1. Draymond Green is kicking again, this time against Blake Griffin
+    2. Andrew Bogut could re-sign with the Warriors thanks to a CBA
+       loophole
+    3. 3 waived NBA players who can make a difference for playoff teams
+
+   This Article has a component height of 9. The sidebar size is medium.
+
+Loading comments...
+
+   [264]Chorus
+     * [265]Terms of Use
+     * [266]Privacy Policy
+     * [267]Communications Preferences
+
+     * [268]Contact
+     * [269]Have a News Tip?
+     * [270]Community Guidelines
+     * [271]Masthead
+     * [272]Browse Blogs
+     * [273]About SBN
+     * [274]Company Blog
+     * [275]Blog Openings
+     * [276]Guiding Principles
+
+   All Systems Operational [277]Check out our status page for more
+   details.
+   [278]Vox Media [279]Advertise with us [280]Jobs @ Vox Media © 2017
+   [281]Vox Media, Inc. All Rights Reserved
+   Sports data © STATS 2016
+     * [282]tweet
+     * [283]share
+
+References
+
+   Visible links
+   1. http://www.sbnation.com/rss/index.xml
+   2. https://www.googletagmanager.com/ns.html?id=GTM-W8JKW6
+   3. https://auth.voxmedia.com/login
+   4. https://auth.voxmedia.com/login
+   5. https://auth.voxmedia.com/signup
+   6. http://www.sbnation.com/nfl
+   7. http://www.sbnation.com/nba
+   8. http://www.sbnation.com/mlb
+   9. http://www.sbnation.com/nhl
+  10. http://www.sbnation.com/college-football
+  11. http://www.sbnation.com/college-football-recruiting
+  12. http://www.sbnation.com/college-basketball
+  13. http://www.mmafighting.com/
+  14. http://www.sbnation.com/soccer
+  15. http://www.sbnation.com/nascar
+  16. http://www.sbnation.com/fantasy
+  17. http://www.sbnation.com/golf
+  18. http://www.fanatics.com/partnerid/14104/
+  19. http://www.sbnation.com/tennis
+  20. http://www.podiumcafe.com/
+  21. http://www.badlefthook.com/
+  22. http://www.anddownthestretchtheycome.com/
+  23. http://www.sbnation.com/podcasts
+  24. http://www.sbnation.com/blogs#local
+  25. http://www.stridenation.com/
+  26. http://www.theskipshot.com/
+  27. http://www.cagesideseats.com/
+  28. http://www.outsports.com/
+  29. http://www.sbnation.com/videos
+  30. http://www.sbnation.com/odds
+  31. http://www.sbnation.com/blogs
+  32. https://www.stubhub.com/sports-tickets/category/28/?gcid=chAFF-_-geoUS-_-genAllTix-_-dt160923-_-cmpSBNation_NavBar-_-partVOX
+  33. http://www.sbnation.com/nfl
+  34. http://www.revengeofthebirds.com/
+  35. http://www.thefalcoholic.com/
+  36. http://www.baltimorebeatdown.com/
+  37. http://www.buffalorumblings.com/
+  38. http://www.catscratchreader.com/
+  39. http://www.windycitygridiron.com/
+  40. http://www.cincyjungle.com/
+  41. http://www.dawgsbynature.com/
+  42. http://www.sbnation.com/fantasy-football-advice-fanduel
+  43. http://www.bloggingtheboys.com/
+  44. http://www.milehighreport.com/
+  45. http://www.prideofdetroit.com/
+  46. http://www.sbnation.com/fantasy
+  47. http://www.acmepackingcompany.com/
+  48. http://www.battleredblog.com/
+  49. http://www.stampedeblue.com/
+  50. http://www.bigcatcountry.com/
+  51. http://www.arrowheadpride.com/
+  52. http://www.turfshowtimes.com/
+  53. http://www.thephinsider.com/
+  54. http://www.dailynorseman.com/
+  55. http://www.sbnation.com/nfl-mock-draft
+  56. http://www.sbnation.com/nfl/odds
+  57. http://www.patspulpit.com/
+  58. http://www.canalstreetchronicles.com/
+  59. http://www.bigblueview.com/
+  60. http://www.ganggreennation.com/
+  61. http://www.silverandblackpride.com/
+  62. http://www.bleedinggreennation.com/
+  63. http://www.behindthesteelcurtain.com/
+  64. http://www.boltsfromtheblue.com/
+  65. http://www.ninersnation.com/
+  66. http://www.fieldgulls.com/
+  67. http://www.bucsnation.com/
+  68. http://www.musiccitymiracles.com/
+  69. http://www.hogshaven.com/
+  70. http://www.sbnation.com/nfl
+  71. http://www.sbnation.com/nba
+  72. http://www.peachtreehoops.com/
+  73. http://www.celticsblog.com/
+  74. http://www.netsdaily.com/
+  75. http://www.atthehive.com/
+  76. http://www.blogabull.com/
+  77. http://www.fearthesword.com/
+  78. http://www.ridiculousupside.com/
+  79. http://www.mavsmoneyball.com/
+  80. http://www.denverstiffs.com/
+  81. http://www.detroitbadboys.com/
+  82. http://www.goldenstateofmind.com/
+  83. http://www.thedreamshake.com/
+  84. http://www.indycornrows.com/
+  85. http://www.clipsnation.com/
+  86. http://www.silverscreenandroll.com/
+  87. http://www.grizzlybearblues.com/
+  88. http://www.hothothoops.com/
+  89. http://www.brewhoop.com/
+  90. http://www.canishoopus.com/
+  91. http://www.sbnation.com/nba/odds
+  92. http://www.thebirdwrites.com/
+  93. http://www.postingandtoasting.com/
+  94. http://www.welcometoloudcity.com/
+  95. http://www.orlandopinstripedpost.com/
+  96. http://www.libertyballers.com/
+  97. http://www.brightsideofthesun.com/
+  98. http://www.blazersedge.com/
+  99. http://www.sactownroyalty.com/
+ 100. http://www.poundingtherock.com/
+ 101. http://www.sonicsrising.com/
+ 102. http://www.raptorshq.com/
+ 103. http://www.slcdunk.com/
+ 104. http://www.swishappeal.com/
+ 105. http://www.bulletsforever.com/
+ 106. http://www.sbnation.com/nba
+ 107. http://www.sbnation.com/mlb
+ 108. http://www.azsnakepit.com/
+ 109. http://www.talkingchop.com/
+ 110. http://www.camdenchat.com/
+ 111. http://www.overthemonster.com/
+ 112. http://www.bleedcubbieblue.com/
+ 113. http://www.southsidesox.com/
+ 114. http://www.redreporter.com/
+ 115. http://www.letsgotribe.com/
+ 116. http://www.purplerow.com/
+ 117. http://www.sbnation.com/fantasy-baseball-advice-fanduel
+ 118. http://www.blessyouboys.com/
+ 119. http://www.faketeams.com/
+ 120. https://www.fanduel.com/sb-nation-baseball
+ 121. http://www.crawfishboxes.com/
+ 122. http://www.royalsreview.com/
+ 123. http://www.halosheaven.com/
+ 124. http://www.truebluela.com/
+ 125. http://www.sbnation.com/mlb/odds
+ 126. http://www.mlbdailydish.com/
+ 127. http://www.fishstripes.com/
+ 128. http://www.brewcrewball.com/
+ 129. http://www.twinkietown.com/
+ 130. http://www.minorleagueball.com/
+ 131. http://www.amazinavenue.com/
+ 132. http://www.pinstripealley.com/
+ 133. http://www.athleticsnation.com/
+ 134. http://www.thegoodphight.com/
+ 135. http://www.bucsdugout.com/
+ 136. http://www.beyondtheboxscore.com/
+ 137. http://www.gaslampball.com/
+ 138. http://www.mccoveychronicles.com/
+ 139. http://www.lookoutlanding.com/
+ 140. http://www.vivaelbirdos.com/
+ 141. http://www.draysbay.com/
+ 142. http://www.lonestarball.com/
+ 143. http://www.bluebirdbanter.com/
+ 144. http://www.federalbaseball.com/
+ 145. http://www.sbnation.com/mlb
+ 146. http://www.sbnation.com/nhl
+ 147. http://www.anaheimcalling.com/
+ 148. http://www.fiveforhowling.com/
+ 149. http://www.stanleycupofchowder.com/
+ 150. http://www.diebytheblade.com/
+ 151. http://www.matchsticksandgasoline.com/
+ 152. http://www.canescountry.com/
+ 153. http://www.secondcityhockey.com/
+ 154. http://www.milehighhockey.com/
+ 155. http://www.jacketscannon.com/
+ 156. http://www.defendingbigd.com/
+ 157. http://www.wingingitinmotown.com/
+ 158. http://www.coppernblue.com/
+ 159. http://www.fantasyhockeyscouts.com/
+ 160. http://www.litterboxcats.com/
+ 161. http://www.battleofcali.com/
+ 162. http://www.battleofcali.com/
+ 163. http://www.jewelsfromthecrown.com/
+ 164. http://www.hockeywilderness.com/
+ 165. http://www.habseyesontheprize.com/
+ 166. http://www.sbnation.com/nhl/odds
+ 167. http://www.ontheforecheck.com/
+ 168. http://www.allaboutthejersey.com/
+ 169. http://www.lighthousehockey.com/
+ 170. http://www.blueshirtbanter.com/
+ 171. http://www.silversevensens.com/
+ 172. http://www.broadstreethockey.com/
+ 173. http://www.pensburgh.com/
+ 174. http://www.fearthefin.com/
+ 175. http://www.stlouisgametime.com/
+ 176. http://www.rawcharge.com/
+ 177. http://www.pensionplanpuppets.com/
+ 178. http://www.nucksmisconduct.com/
+ 179. http://www.japersrink.com/
+ 180. http://www.arcticicehockey.com/
+ 181. http://www.sbnation.com/nhl
+ 182. http://www.sbnation.com/college-football
+ 183. http://www.footballstudyhall.com/
+ 184. http://www.sbnation.com/college-football/odds
+ 185. http://www.sbnation.com/college-football-recruiting
+ 186. http://www.everydayshouldbesaturday.com/
+ 187. http://www.sbnation.com/blogs#college
+ 188. http://www.sbnation.com/college-football
+ 189. http://www.sbnation.com/college-football-recruiting
+ 190. http://www.sbnation.com/college-basketball
+ 191. http://www.bloggingthebracket.com/
+ 192. http://www.sbnation.com/college-basketball/odds
+ 193. http://www.sbnation.com/blogs#college
+ 194. http://www.sbnation.com/college-basketball
+ 195. http://www.mmafighting.com/
+ 196. http://www.bloodyelbow.com/
+ 197. http://www.mmafighting.com/schedule
+ 198. http://www.mmafighting.com/fighters
+ 199. http://www.mmafighting.com/
+ 200. http://www.mmamania.com/
+ 201. http://www.mmafighting.com/rankings
+ 202. http://www.sbnation.com/soccer
+ 203. http://www.sbnation.com/epl
+ 204. http://www.sbnation.com/bundesliga
+ 205. http://www.sbnation.com/serie-a
+ 206. http://www.sbnation.com/mls
+ 207. http://www.sbnation.com/nwsl-womens-soccer
+ 208. http://soccer.oddsshark.com/
+ 209. http://www.sbnation.com/la-liga
+ 210. http://www.sbnation.com/blogs#soccer
+ 211. http://www.sbnation.com/fifa-womens-world-cup
+ 212. http://www.sbnation.com/soccer
+ 213. http://www.sbnation.com/nascar
+ 214. http://www.sbnation.com/fantasy
+ 215. http://wlfanduel.adsrv.eacdn.com/C.ashx?btag=a_6822b_1360c_&affid=4868&siteid=6822&adid=1360
+ 216. http://partners.fanduel.com/processing/clickthrgh.asp?btag=a_6822b_2&p=SBNFB100
+ 217. http://www.sbnation.com/fantasy-basketball-advice-fanduel
+ 218. http://www.sbnation.com/fantasy-football-advice-fanduel
+ 219. http://www.sbnation.com/golf
+ 220. http://www.fanatics.com/partnerid/14104/
+ 221. http://www.fanatics.com/COLLEGE/partnerid/14104
+ 222. http://www.fanatics.com/MLB/partnerid/14104
+ 223. http://www.fanatics.com/NASCAR/partnerid/14104
+ 224. http://www.fanatics.com/NBA/partnerid/14104
+ 225. http://www.fanatics.com/NFL/partnerid/14104
+ 226. http://www.fanatics.com/NHL/partnerid/14104
+ 227. http://www.fanatics.com/Soccer/partnerid/14104
+ 228. http://www.fanatics.com/UFC/partnerid/14104
+ 229. http://www.sbnation.com/tennis
+ 230. http://www.podiumcafe.com/
+ 231. http://www.badlefthook.com/
+ 232. http://www.anddownthestretchtheycome.com/
+ 233. http://www.sbnation.com/podcasts
+ 234. http://www.sbnation.com/blogs#local
+ 235. http://www.stridenation.com/
+ 236. http://www.theskipshot.com/
+ 237. http://www.cagesideseats.com/
+ 238. http://www.outsports.com/
+ 239. http://www.sbnation.com/videos
+ 240. http://www.sbnation.com/odds
+ 241. http://www.sbnation.com/blogs
+ 242. https://www.stubhub.com/sports-tickets/category/28/?gcid=chAFF-_-geoUS-_-genAllTix-_-dt160923-_-cmpSBNation_NavBar-_-partVOX
+ 243. http://www.sbnation.com/wwe-royal-rumble
+ 244. http://www.sbnation.com/wrestling
+ 245. http://www.sbnation.com/2017/1/29/14433848/royal-rumble-2017-results-john-cena-aj-styles-wwe-championship#comments
+ 246. http://www.sbnation.com/2017/1/29/14433848/royal-rumble-2017-results-john-cena-aj-styles-wwe-championship#comments
+ 247. http://www.sbnation.com/users/Jon Benne
+ 248. http://www.twitter.com/LordBenne
+ 249. https://twitter.com/intent/tweet?counturl=http://www.sbnation.com/2017/1/29/14433848/royal-rumble-2017-results-john-cena-aj-styles-wwe-championship&text=John+Cena+ties+Ric+Flair’s+WWE+title+record+at+Royal+Rumble&url=http://www.sbnation.com/2017/1/29/14433848/royal-rumble-2017-results-john-cena-aj-styles-wwe-championship&via=sbnation
+ 250. https://www.facebook.com/sharer/sharer.php?text=John+Cena+ties+Ric+Flair’s+WWE+title+record+at+Royal+Rumble&u=http://www.sbnation.com/2017/1/29/14433848/royal-rumble-2017-results-john-cena-aj-styles-wwe-championship
+ 251. http://www.pinterest.com/pin/create/button/?description=&media=https://cdn0.vox-cdn.com/thumbor/HYUdB5s1C4mFZmi5fqGW-sD9dZQ=/0x1:848x478/1050x591/cdn0.vox-cdn.com/uploads/chorus_image/image/52980047/cena_wins_lol.0.png&url=http://www.sbnation.com/2017/1/29/14433848/royal-rumble-2017-results-john-cena-aj-styles-wwe-championship
+ 252. http://www.sbnation.com/2017/1/29/14433848/royal-rumble-2017-results-john-cena-aj-styles-wwe-championship
+ 253. http://www.sbnation.com/wrestling/2017/1/29/14433038/wwe-royal-rumble-2017-goldberg-undertaker-john-cena-aj-styles
+ 254. http://www.sbnation.com/2017/1/29/14434362/royal-rumble-2017-results-randy-orton-wins-2nd-rumble-of-his-career
+ 255. http://www.sbnation.com/2017/1/29/14433848/royal-rumble-2017-results-john-cena-aj-styles-wwe-championship
+ 256. http://www.sbnation.com/2017/1/29/14433636/royal-rumble-2017-results-neville-rich-swann-cruiserweight-championship
+ 257. http://www.sbnation.com/wrestling/2017/1/29/14433038/wwe-royal-rumble-2017-goldberg-undertaker-john-cena-aj-styles
+ 258. http://www.sbnation.com/wrestling/2017/1/30/14438764/royal-rumble-2017-results-complete-recap-randy-orton-roman-reigns
+ 259. http://www.sbnation.com/2017/1/29/14434362/royal-rumble-2017-results-randy-orton-wins-2nd-rumble-of-his-career
+ 260. http://www.sbnation.com/wrestling/2017/1/29/14433084/wwe-royal-rumble-2017-highlights-results-30th-annual-royal-rumble-undertaker-goldberg
+ 261. http://www.sbnation.com/wrestling/2017/1/29/14412044/wwe-royal-rumble-2017-drinking-game
+ 262. http://www.cagesideseats.com/wwe/2017/1/14/14273862/undertaker-facing-raw-superstar-wwe-wrestlemania-33-vince-mcmahon-long-term-plan-rumor-reigns-balor
+ 263. http://www.cagesideseats.com/tna/2017/1/13/14271198/tna-impact-ratings-jan-12-2017-numbers-continue-to-dwindle
+ 264. http://www.sbnation.com/
+ 265. http://www.voxmedia.com/terms-of-use
+ 266. http://www.voxmedia.com/privacy-policy
+ 267. http://www.voxmedia.com/communications-preferences
+ 268. http://www.sbnation.com/pages/contact?community_id=247
+ 269. http://www.sbnation.com/pages/contact?community_id=247#sports_tips
+ 270. http://www.sbnation.com/community-guidelines
+ 271. http://www.sbnation.com/masthead
+ 272. http://www.sbnation.com/blogs
+ 273. http://www.voxmedia.com/brands/sbnation
+ 274. http://blog.sbnation.com/
+ 275. http://www.sbnation.com/pages/openings
+ 276. http://www.sbnation.com/guide/disclosure
+ 277. http://status.voxmedia.com/
+ 278. http://www.voxmedia.com/
+ 279. http://www.voxmedia.com/vox-advertising
+ 280. http://jobs.voxmedia.com/
+ 281. http://www.voxmedia.com/
+ 282. https://twitter.com/intent/tweet?counturl=http://www.sbnation.com/2017/1/29/14433848/royal-rumble-2017-results-john-cena-aj-styles-wwe-championship&text=John+Cena+ties+Ric+Flair’s+WWE+title+record+at+Royal+Rumble&url=http://www.sbnation.com/2017/1/29/14433848/royal-rumble-2017-results-john-cena-aj-styles-wwe-championship&via=sbnation
+ 283. https://www.facebook.com/sharer/sharer.php?text=John+Cena+ties+Ric+Flair’s+WWE+title+record+at+Royal+Rumble&u=http://www.sbnation.com/2017/1/29/14433848/royal-rumble-2017-results-john-cena-aj-styles-wwe-championship
+
+   Hidden links:
+ 285. http://www.sbnation.com/
+ 286. http://www.sbnation.com/2017/2/23/14722886/draymond-green-kicking-warriors-blake-griffin
+ 287. http://www.sbnation.com/nba/2017/2/23/14721712/andrew-bogut-warriors-bought-out-waivers-nba-trade-deadline
+ 288. http://www.sbnation.com/nba/2017/2/24/14721560/nba-buyout-waived-list-deron-williams-andrew-bogut-terrence-jones
+ 289. http://www.sbnation.com/

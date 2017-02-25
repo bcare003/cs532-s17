@@ -1,0 +1,144 @@
+   #[1]New iPhone 8 Camera Leak Gives Apple The Edge - RSS
+
+
+
+   Tech #​{{::display_hashtag}}
+   Tech #​{{::display_hashtag}} {{article.article.pretty_date}}
+   {{article.metrics.page_views}} views
+   Edit Post
+   {{circ_link.title}}
+
+New iPhone 8 Camera Leak Gives Apple The Edge
+
+   {{article.article.images.featured.description}}
+   {{article.article.images.featured.caption}}
+   [2]Most Read
+   {{contrib_block.display_advoice_brand}}
+   {{contrib_block.display_voice_type}}
+
+   {{contrib_block.display_author.name}}Voice Jay McGregor ,
+
+   {{contrib_block.display_author.type}} Contributor
+   {{contrib_block.display_author.type}}
+
+   Contributor
+
+   Opinions expressed by Forbes Contributors are their own.
+     * Full Bio
+     * Recent Posts
+     * Popular Posts
+
+   Full profile →'">
+
+   The author is a Forbes contributor. The opinions expressed are those of
+   the writer.
+   Loading ...
+   Loading ...
+   This story appears in the {{article.article.magazine.pretty_date}}
+   issue of {{article.article.magazine.pubName}}. Subscribe
+   The iPhone 8 could be getting a serious camera upgrade. Image credit:
+   Rhiannon Williams
+
+   The iPhone 8 could be getting a serious camera upgrade. Image credit:
+   Rhiannon Williams
+
+   The ever-trustworthy Ming-Chi Kuo of KGI securities is at it again with
+   fresh iPhone 8 news, this time about a possible camera update.
+
+   According to Kuo, [3]via 9to5Mac, Apple will incorporate a 3D sensing
+   front-facing camera in the next iPhone. This would require the addition
+   of an IR module and an improved front-facing camera.
+
+   Not dissimilar to the Lumia 950 XL’s dual-sensor setup, the new camera
+   would be able to capture a 3D image of the user, which will have
+   multiple uses including biometric security and AR gaming.
+
+   The innovation is the result of previous acquisitions PrimeSense, which
+   will power the new tech, and, Lumentum’s IR technology. The [4]recent
+   acquisition of Israeli startup, Realface, which specialises in facial
+   recognition technology, also comes into clearer focus with today’s
+   news.
+
+   Apple gets a new trick
+
+   The most interesting aspect of KGI’s report is the assertion that
+   Android is “years” behind Apple in terms of 3D algorithms. The exact
+   quote reads,
+
+     “The analyst says Apple is years ahead of Android platform in terms
+     of 3D algorithms which will make the advanced 3D camera sensor a
+     unique iPhone feature for a couple of years.”
+
+   If this report is accurate, and Apple is staking its individuality on
+   3D algorithms, then it’s a smart direction to head in for two obvious
+   reasons.
+
+   Firstly, the AR market has had a huge injection in the last year thanks
+   to Pokémon GO. Millions now know, understand and are comfortable with
+   the AR concept and would be open to new innovations and
+   smartphone-related features.
+
+   If Apple is planning on heavily focusing on AR and 3D tech in the
+   iPhone 8, then it couldn’t have picked a better time than now thanks to
+   the Pokémon craze.
+
+   Secondly, the reasons for buying an iPhone over an Android - or vice
+   versa - are dwindling. All manufacturers need something to stand out.
+   The operating systems are matched in features and design, whilst
+   there’s little between the iPhone 7 and recent top Android handsets in
+   performance and design.
+
+   So a solid, genuinely innovative feature like fast and accurate
+   biometric security facial recognition, or AR-inspired gaming, would
+   certainly set the iPhone 8 against the competition.
+
+   There are a few hurdles to clear, however, when it comes to facial
+   recognition as a security feature. Namely inaccuracy and, as a result,
+   speed. The Lumia 950XL suffered badly because of it, but I suspect
+   Apple will have a better go of it, especially if the plan is to
+   [5]replace Touch ID.
+
+   Between [6]Samsung’s foldable phone and Apple’s new AR technology, 2017
+   is shaping up to be a year of smartphone innovation. Something the
+   industry has lacked in recent in recent times.
+
+   More on Forbes
+
+   [7]Latest iPhone 8 Leaks Point To Unusual Apple Vision
+
+   [8]New Samsung Galaxy S8 Images Are Clearest Yet
+
+   [9]New iPhone 8 Siri Features Could Vanquish The Competition
+   Start Gallery
+   Page {{article.article.page + 1}} / {{article.article.pages.length}}
+   Continue
+   {{article.article.calledOutCommentCount||''}}
+   Comment on this story
+     * Print
+     * Report Corrections
+     * [10]Reprints & Permissions
+
+Trending on Forbes {{channel_name}}
+
+   false
+
+References
+
+   Visible links
+   1. http://www.forbes.com/sites/jaymcgregor/feed/
+   2. https://www.forbes.com/most-popular/
+   3. https://9to5mac.com/2017/02/21/kgi-oled-iphone-8-to-feature-revolutionary-3d-sensing-front-camera-detect-depth-for-games-and-facial-recognition/
+   4. https://www.forbes.com/sites/jaymcgregor/2017/02/20/iphone-8-facial-recognition-needs-to-be-perfect/#71096e0e367c
+   5. https://www.forbes.com/sites/jaymcgregor/2017/02/20/iphone-8-facial-recognition-needs-to-be-perfect/#71096e0e367c
+   6. https://www.forbes.com/sites/jaymcgregor/2017/02/06/samsung-edges-closer-to-a-foldable-phone-in-new-images/#45fc6f7210ab
+   7. https://www.forbes.com/sites/jaymcgregor/2017/02/13/latest-iphone-8-leaks-point-to-futuristic-apple-vision/#46eecf981fd6
+   8. https://www.forbes.com/sites/jaymcgregor/2017/02/07/new-samsung-galaxy-s8-image-leak/#778ee0e45911
+   9. https://www.forbes.com/sites/jaymcgregor/2017/01/25/new-iphone-8-siri-features-could-vanquish-the-competition/#46ef0c5a7299
+  10. http://forbesreprints.magreprints.com/
+
+   Hidden links:
+  12. http://www.forbes.com/
+  13. http://www.forbes.com/women-at-forbes
+  14. https://www.forbes.com/forbes-on-trump/
+  15. http://www.forbes.com/editors-picks/
+  16. https://www.forbes.com/forbes-on-trump/
