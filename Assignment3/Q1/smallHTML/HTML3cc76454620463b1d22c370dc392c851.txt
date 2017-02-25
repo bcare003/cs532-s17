@@ -1,0 +1,759 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js ie lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]><html class="no-js ie lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]><html class="no-js ie lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head>
+<title>WWE SmackDown Rating Up, Enzo Amore And Big Cass Video From Germany, 'Second Nature' Book - WrestlingInc.com</title>
+<link rel="canonical" href="http://www.WrestlingInc.com/wi/news/2017/0224/623529/wwe-smackdown-rating-up/" />
+<link rel="amphtml" href="http://amp.wrestlinginc.com/wi/news/2017/0224/623529/wwe-smackdown-rating-up/" />
+<link rel="image_src" href="http://i1.ytimg.com/vi/cC7upHiAzlo/mqdefault.jpg" />
+<meta name="title" content="WWE SmackDown Rating Up, Enzo Amore And Big Cass Video From Germany, 'Second Nature' Book" />
+<meta name="image" content="http://www.wrestlinginc.com/wi/images/pics/charlotte-2015-640x360.jpg" />
+<meta property="og:type" content="article" />
+<meta name="datePublished" content="2017-02-24T12:36:02-0500" />
+<meta name="dateModified" content="2017-02-24T12:38:21-0500" />
+<meta property="og:site_name" content="WrestlingInc.com" />
+<meta property="fb:app_id" content="427027570214" />   
+<meta property="fb:pages" content="225021057526395" />
+<meta name="twitter:site" value="@WrestlingInc" />
+<meta name="twitter:url" content="http://www.WrestlingInc.com/wi/news/2017/0224/623529/wwe-smackdown-rating-up/" />
+<meta name="twitter:title" content="WWE SmackDown Rating Up, Enzo Amore And Big Cass Video From Germany, 'Second Nature' Book" />
+<meta name="twitter:description" content="WWE SmackDown Rating Up, Enzo Amore And Big Cass Video From Germany, 'Second Nature' Book" />
+<meta name="twitter:card" value="summary_large_image" />
+<meta name="twitter:image" content="http://i1.ytimg.com/vi/cC7upHiAzlo/mqdefault.jpg">
+<meta name="twitter:app:name:iphone" content="Wrestling Inc." />
+<meta name="twitter:app:id:iphone" content="1102820164" />
+<meta name="twitter:app:name:ipad" content="Wrestling Inc." />
+<meta name="twitter:app:id:ipad" content="1102820164" />
+<meta name="twitter:app:name:googleplay" content="Wrestling Inc." />
+<meta name="twitter:app:id:googleplay" content="com.rumble.wrestlinginc" />
+<meta property="og:image" content="http://i1.ytimg.com/vi/cC7upHiAzlo/mqdefault.jpg" />
+<meta property="og:url" content="http://www.WrestlingInc.com/wi/news/2017/0224/623529/wwe-smackdown-rating-up/" />
+<meta property="og:title" content="WWE SmackDown Rating Up, Enzo Amore And Big Cass Video From Germany, 'Second Nature' Book - WrestlingInc.com" />
+<meta property="og:description" content="WWE SmackDown Rating Up, Enzo Amore And Big Cass Video From Germany, 'Second Nature' Book" />
+<meta name="description" content="WWE SmackDown Rating Up, Enzo Amore And Big Cass Video From Germany, 'Second Nature' Book" />
+<meta name="keywords" content="charlotte flair, ashley fliehr,wwe news,pro wrestling news, pro wrestling headlines" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0; maximum-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Oswald:400,300,700|Roboto:300,400,700,300italic,400italic,700italic" />
+<link rel="stylesheet" type="text/css" href="http://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/wi-02242017/css/main.css" /> 
+<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="http://feeds.feedburner.com/wrestlinginc-news" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" sizes="16x16" />
+<link rel="icon" type="image/x-icon" href="/favicon.ico" sizes="16x16" />
+<link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png" />
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script src="/assets/lib/jquery.backToTop.min.js"></script>
+<script src="/assets/lib/jquery.lazyloadxt.min.js"></script>
+<script src="/assets/lib/classie.js"></script>
+<script src="/assets/lib/uisearch.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+jQuery(document).ready(function($){
+new UISearch( document.getElementById( 'sb-search' ) );
+$('#backTop').backTop({
+'position' : 400,
+'speed' : 500,
+'color' : 'black',
+});
+});
+//]]>
+</script>
+<script src="//sf.mmccint.com/bootstrap?pubid=A-5865595&url=wrestlinginc.com" data-owner="sitefuel"></script>
+<script src="/assets/lib/prebid5.js"></script>
+<script async src="//ads.rubiconproject.com/header/15806.js"></script>
+<script> 
+var browserWidth = window.innerWidth && document.documentElement.clientWidth ? Math.min(window.innerWidth, document.documentElement.clientWidth) : window.innerWidth || document.documentElement.clientWidth || document.getElementsByTagName('body')[0].clientWidth;
+var isMobileLayout;
+if (browserWidth <= 767){
+isMobileLayout = true;
+} else {
+isMobileLayout = false;
+}
+var PREBID_TIMEOUT = 4000;
+if (isMobileLayout) {
+var adUnits = [{
+code: 'div-gpt-wi-billboard',
+sizes: [[320,50]],
+bids: [
+{bidder: 'sovrn', params: { tagid: '398006' }},
+{bidder: 'rubicon', params: { accountId: '15806', siteId: '107244', zoneId: '502844', sizes:[43]}},
+{bidder: 'rhythmone', params: { placementId: '57349' }},
+{bidder: 'defymedia', params: { placementId : '9829651'}},
+{bidder: 'aol', params: { placement: '4324687', network: '10754.1'}}
+]
+},{
+code: 'div-gpt-wi-atf-mobile-box',
+sizes: [[300,250]],
+bids: [
+{bidder: 'sovrn', params: { tagid: '391094' }},
+{bidder: 'rubicon', params: { accountId: '15806', siteId: '107244', zoneId: '502844', sizes:[15]}},
+{bidder: 'defymedia', params: { placementId : '9829654'}},
+{bidder: 'rhythmone', params: { placementId: '57349' }},
+{bidder: 'aol', params: { placement: '4324689', network: '10754.1'}}
+]
+},{
+code: 'div-gpt-wi-leaderboard-btf',
+sizes: [[320, 50]],
+bids: [
+{bidder: 'sovrn', params: { tagid: (browserWidth > 480) ? '391097' : '394411' }},
+{bidder: 'rubicon', params: { accountId: '15806', siteId: '107244', zoneId: '502842', sizes:[43]}},
+{bidder: 'defymedia', params: { placementId : '9829657'}},
+{bidder: 'rhythmone', params: { placementId: '57349' }},
+{bidder: 'aol', params: { placement: '4324690', network: '10754.1'}}
+]
+},{
+code: 'div-gpt-wi-btf-mobile-box',
+sizes: [[300,250]],
+bids: [
+{bidder: 'sovrn', params: { tagid: '391092' }},
+{bidder: 'rubicon', params: { accountId: '15806', siteId: '107244', zoneId: '502842', sizes:[15]}},
+{bidder: 'defymedia', params: { placementId : '9829655'}},
+{bidder: 'rhythmone', params: { placementId: '57349' }},
+{bidder: 'aol', params: { placement: '4324688', network: '10754.1'}}
+], 
+}];
+} else {
+var adUnits = [{
+code: 'div-gpt-wi-billboard',
+sizes: (browserWidth > 991) ? [[728,90],[970,250]] : [[728, 90]],
+bids: [
+{bidder: 'sovrn', params: { tagid: '394409' }},
+{bidder: 'sovrn', params: { tagid: '391096' }},
+{bidder: 'defymedia', params: { placementId : '9829633'}},
+{bidder: 'roxot', params: { publisherId : '8b7638a1-36f2-414d-b799-2b93b5a0a4a8'}},
+{bidder: 'rhythmone', params: { placementId: '57349' }},
+{bidder: 'rubicon', params: { accountId: '15806', siteId: '106184', zoneId: '499464', sizes:[2,57]}}
+]
+},{
+code: 'div-gpt-wi-halfpage',
+sizes: [[300,250],[300,600]],
+bids: [
+{bidder: 'sovrn', params: { tagid: '391095' }},
+{bidder: 'sovrn', params: { tagid: '391094' }},
+{bidder: 'rubicon', params: { accountId: '15806', siteId: '106184', zoneId: '499464', sizes:[10,15]}},
+{bidder: 'rhythmone', params: { placementId: '57349' }},
+{bidder: 'roxot', params: { publisherId : '8b7638a1-36f2-414d-b799-2b93b5a0a4a8'}},
+{bidder: 'defymedia', params: { placementId : '9829637'}}
+]
+},{
+code: 'div-gpt-wi-leaderboard-btf',
+sizes: [[728, 90]],
+bids: [
+{bidder: 'sovrn', params: { tagid: '391097' }},
+{bidder: 'rubicon', params: { accountId: '15806', siteId: '106184', zoneId: '500712', sizes:[2]}},
+{bidder: 'defymedia', params: { placementId : '9829644'}},
+{bidder: 'rhythmone', params: { placementId: '57349' }},
+{bidder: 'aol', params: { placement: '4324686', network: '10754.1'}}
+]
+},{
+code: 'div-gpt-wi-box-btf',
+sizes: [[300,250]],
+bids: [
+{bidder: 'sovrn', params: { tagid: '391092' }},
+{bidder: 'defymedia', params: { placementId : '9829640'}},
+{bidder: 'rubicon', params: { accountId: '15806', siteId: '106184', zoneId: '500712', sizes:[15]}},
+{bidder: 'rhythmone', params: { placementId: '57349' }},
+{bidder: 'aol', params: { placement: '4324684', network: '10754.1'}}
+], 
+}];
+}
+var pbjs = pbjs || {};
+pbjs.que = pbjs.que || [];
+</script>
+<script>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+googletag.cmd.push(function() {
+googletag.pubads().disableInitialLoad();
+});
+pbjs.que.push(function() {
+pbjs.addAdUnits(adUnits);
+pbjs.requestBids({
+bidsBackHandler: sendAdserverRequest
+});
+});
+pbjs.bidderSettings = {
+standard: {
+alwaysUseBid: false,
+adserverTargeting: [{
+key: "hb_bidder",
+val: function(bidResponse) {
+return bidResponse.bidderCode;
+}
+}, {
+key: "hb_adid",
+val: function(bidResponse) {
+return bidResponse.adId;
+}
+}, {
+key: "hb_pb",
+val: function(bidResponse) {
+return bidResponse.pbHg;
+}
+}, {
+key: 'hb_size',
+val: function (bidResponse) {
+return bidResponse.size;
+}
+}]
+}
+};
+function sendAdserverRequest() {
+if (pbjs.adserverRequestSent) return;
+pbjs.adserverRequestSent = true;
+googletag.cmd.push(function() {
+pbjs.que.push(function() {
+pbjs.setTargetingForGPTAsync();
+googletag.pubads().refresh();
+});
+});
+}
+setTimeout(function() {
+sendAdserverRequest();
+}, PREBID_TIMEOUT);
+</script>
+<script src="http://ap.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=7839830&amp;uid=wrestlinginc" id="sBeacon"></script>
+<script>
+(function () {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineOutOfPageSlot('/19481072/wi-outofpage', 'div-gpt-wi-outofpage').addService(googletag.pubads());
+if (isMobileLayout) {
+googletag.defineSlot('/19481072/wi-billboard', [320, 50], 'div-gpt-wi-billboard').addService(googletag.pubads());
+googletag.defineSlot('/19481072/wi-atf-mobile-box', [300, 250], 'div-gpt-wi-atf-mobile-box').addService(googletag.pubads());
+googletag.defineSlot('/19481072/wi-leaderboard-btf', [320, 50], 'div-gpt-wi-leaderboard-btf').addService(googletag.pubads());
+googletag.defineSlot('/19481072/wi-box-btf', [300, 250], 'div-gpt-wi-btf-mobile-box').addService(googletag.pubads());
+} else {
+var leaderboardSizes = [728, 90];
+if(browserWidth > 991) {
+leaderboardSizes = [[970, 250], [728, 90]];
+}
+googletag.defineSlot('/19481072/wi-billboard', leaderboardSizes, 'div-gpt-wi-billboard').addService(googletag.pubads());
+googletag.defineSlot('/19481072/wi-halfpage', [[300, 250], [300, 600]], 'div-gpt-wi-halfpage').addService(googletag.pubads());
+googletag.defineSlot('/19481072/wi-leaderboard-btf', [728, 90], 'div-gpt-wi-leaderboard-btf').addService(googletag.pubads());
+googletag.defineSlot('/19481072/wi-box-btf', [300, 250], 'div-gpt-wi-box-btf').addService(googletag.pubads());
+}
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+});
+</script>
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+<script src="/assets/lib/html5shiv.js"></script>
+<script src="/assets/lib/respond.min.js"></script>
+<![endif]-->
+
+</head>
+<body>
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=256370; 
+var sc_invisible=1; 
+var sc_security=""; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a href="http://statcounter.com/shopify/" target="_blank"><img class="statcounter" src="//c.statcounter.com/256370/0//1/"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"8kTjo1IW1810L7", domain:"wrestlinginc.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=8kTjo1IW1810L7" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MGW7PK"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MGW7PK');</script>
+<!-- End Google Tag Manager -->
+ <div style="width:0px;height:0px;">
+ <!-- wi-outofpage -->
+<div id='div-gpt-wi-outofpage'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-wi-outofpage'); });
+</script>
+</div>
+ </div>
+<header class="header">
+  <div class="navbar navbar-inverse">
+<div class="container">
+  <div class="navbar-header">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="navbar-brand" href="http://www.WrestlingInc.com"><img src="/assets/ui/images/layout/winc-logo.png" class="img-responsive" alt="WrestlingInc.com" title="WrestlingInc.com"></a></div>
+  <div class="collapse navbar-collapse">
+<ul class="nav navbar-nav">
+<li><a href="http://www.WrestlingInc.com" title="Home">Home</a></li>
+<li class="dropdown"> <a aria-expanded="false" role="button" data-toggle="dropdown" class="dropdown-toggle" href="http://www.WrestlingInc.com/wi/news/" title="News">News <span class="caret"></span></a>
+<ul role="menu" class="dropdown-menu">
+<li><a href="http://www.WrestlingInc.com/wi/news/" title="Latest&nbsp;News">Latest&nbsp;News</a></li>
+<li><a href="http://www.WrestlingInc.com/wi/news/wwe-news/" title="WWE&nbsp;News">WWE&nbsp;News</a></li>
+<li><a href="http://www.WrestlingInc.com/wi/news/tna-news/" title="TNA&nbsp;News">TNA&nbsp;News</a></li>
+<li><a href="http://www.WrestlingInc.com/wi/news/interviews/" title="Interviews">Interviews</a></li>
+<li><a href="http://www.WrestlingInc.com/wi/news/today-in-history.shtml" title="Today&nbsp;In&nbsp;History">Today&nbsp;In&nbsp;History</a></li>
+<li><a href="http://www.WrestlingInc.com/wi/news/send-news.shtml" title="Send&nbsp;News">Send&nbsp;News</a></li>
+</ul>
+</li>
+<li><a href="http://www.WrestlingInc.com/wi/events/" title="Events">Events</a></li>
+<li><a href="http://www.WrestlingInc.com/wi/videos/" title="Videos">Videos</a></li>
+<li><a href="http://www.WrestlingInc.com/wi/shows/" title="TV">TV</a></li>
+<li><a href="http://www.WrestlingInc.com/wi/photos/" title="Photos">Photos</a></li>
+<li><a href="http://www.WrestlingInc.com/wi/profiles/" title="Profiles">Profiles</a></li>
+<li><a href="http://www.WrestlingInc.com/wi/podcasts/" title="Podcasts">Podcasts</a></li>
+</ul>
+  </div>
+  <!--/.nav-collapse --> 
+</div>
+<div id="sb-search" class="sb-search">
+<form action="http://www.WrestlingInc.com/index.cfm" id="cse-search-box">
+<input type="hidden" name="cx" value="partner-pub-1425041057769641:ko7hyppfr4t" />
+<input type="hidden" name="page" value="misc.search_results" />
+<input type="hidden" name="cof" value="FORID:10" />
+<input type="hidden" name="ie" value="ISO-8859-1" />
+<input class="sb-search-input form-control" type="text" placeholder="Search" name="q" id="txtsearch" />
+<button class="mob-search" type="submit" name="sa"><i class="fa fa-search"></i></button>
+</form>  
+</div><!--/ .sb-search -->
+  </div><!--/ .navbar -->
+  <div class="bottom hidden-xs">
+<div class="container">
+  <div class="row">
+<div class="col-sm-offset-2 col-sm-10">
+<ul class="menu clearfix">
+<li><a href="/wi/events/2017/358/wwe-elimination-chamber-2017/index.shtml" title="WWE Elimination Chamber (2017)">Elimination Chamber</a></li>
+<li><a href="http://www.WrestlingInc.com/wi/news/send-news.shtml" title="Send News">Send News</a></li>
+<li><a href="http://www.WrestlingInc.com/wi/pages/contact-us.shtml" title="Contact Us">Contact Us</a></li>
+</ul>
+<ul class="social clearfix">
+<li><a href="http://www.facebook.com/WrestlingINC" title="Follow us on Facebook" target="_new"><i class="fa fa-fw fa-facebook-square"></i></a></li>
+<li><a href="http://twitter.com/WrestlingInc" title="Follow us on Twitter" target="_new"><i class="fa fa-fw fa-twitter"></i></a></li>
+<li><a href="http://instagram.com/WrestlingINC" title="Follow us on Instagram" target="_new"><i class="fa fa-fw fa-instagram"></i></a></li>
+<li><a href="https://www.youtube.com/wrestlinginc" title="Wrestling Inc. YouTube channel" target="_new"><i class="fa fa-fw fa-youtube"></i></a></li>
+<li><a href="https://itunes.apple.com/us/podcast/wrestling-inc-podcast/id1004653727" title="Subscribe on iTunes" target="_new"><i class="fa fa-fw fa-apple"></i></a></li>
+</ul>
+<div class="search-block clearfix">
+<form action="http://www.WrestlingInc.com/index.cfm" id="cse-search-box">
+<input type="hidden" name="cx" value="partner-pub-1425041057769641:ko7hyppfr4t" />
+<input type="hidden" name="page" value="misc.search_results" />
+<input type="hidden" name="cof" value="FORID:10" />
+<input type="hidden" name="ie" value="ISO-8859-1" />
+<input class="text" type="text" placeholder="Search" name="q" id="txtsearch" />
+<button class="search" type="submit" name="sa"><i class="fa fa-search"></i></button>
+</form>
+</div>
+</div>
+  </div><!--/ .row -->
+</div><!--/ .container -->
+  </div><!--/ .bottom -->
+</header>
+<div class="container top-a" align="center" style="max-width:970px;"><!-- wi-billboard -->
+<div id='div-gpt-wi-billboard' align='center'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-wi-billboard'); });
+</script>
+</div>
+</div>
+<div class="container wclass">
+<div class="row">
+<div class="col-sm-12">
+<div class="padd-block">
+<div class="row">
+<div class="col-md-8 col-sm-7 left-col">
+
+<script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "NewsArticle",
+"mainEntityofPage": "http://www.WrestlingInc.com/wi/news/2017/0224/623529/wwe-smackdown-rating-up/",
+"headline": "WWE SmackDown Rating Up, Enzo Amore And Big Cass Video From Germany, 'Second Nature' Book",
+"datePublished": "2017-02-24T12:36:02-0500",
+"dateModified": "2017-02-24T12:38:21-0500",
+"description": "WWE SmackDown Rating Up, Enzo Amore And Big Cass Video From Germany, 'Second Nature' Book",
+"image": {
+"@type": "ImageObject", "url": "http://www.wrestlinginc.com/wi/images/pics/charlotte-2015-640x360.jpg",
+"width": 696,
+"height": 392 },
+"author": {
+"@type": "Person",
+"name": "Marc Middleton"
+},
+"publisher": {
+"@type": "Organization",
+"name": "Wrestling Inc.",
+"logo": {
+"@type": "ImageObject",
+"url": "http://www.WrestlingInc.com/assets/ui/images/logos/wi-amp-logo.png",
+"width": 465,
+"height": 60
+}
+}
+}
+</script>
+<div id="page-container">
+<h1 class="page-title" title="WWE SmackDown Rating Up, Enzo Amore And Big Cass Video From Germany, 'Second Nature' Book">WWE SmackDown Rating Up, Enzo Amore And Big Cass Video From Germany, 'Second Nature' Book</h1>
+<div class="page-byline">
+<div class="article-meta">By <a href="/index.cfm?page=misc.contact_us&staffId=395" title="Contact Marc Middleton">Marc Middleton</a> <span>|</span> February 24, 2017 <div class="comments"><a href="/wi/news/2017/0224/623529/wwe-smackdown-rating-up/#disqus_thread" class="comment-count" data-disqus-identifier="news_623529"></a></div></div>
+</div>
+<div class="social-share">
+<div class="addthis_native_toolbox" addthis:url="http://www.WrestlingInc.com/wi/news/2017/0224/623529/wwe-smackdown-rating-up/" addthis:title="WWE SmackDown Rating Up, Enzo Amore And Big Cass Video From Germany, 'Second Nature' Book"></div>
+   
+</div>
+<div class="media-display media-fluid">
+<iframe width="100%" height="100%" src="//www.youtube.com/embed/cC7upHiAzlo?rel=0" frameborder="0" allowfullscreen></iframe> 
+</div>
+<div id="article-container">
+<div class="article-body">
+<p>- <a href="/wi/news/wwe-news/">WWE</a> posted this video of <a href="/wi/profiles/466/enzo-amore/">Enzo Amore</a> and <a href="/wi/profiles/467/big-cass/">Big Cass</a> doing their promos at Wednesday's WWE live event in Dusseldorf. They went on to defeat <a href="/wi/profiles/437/rusev/">Rusev</a> and <a href="/wi/profiles/420/jinder-mahal/">Jinder Mahal</a> in tag team action.<P><!-- wi-atf-mobile-box -->
+<div class="box-a"><div align="center"><div id='div-gpt-wi-atf-mobile-box' style='width:300px; height:250px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-wi-atf-mobile-box'); });
+</script>
+</div></div></div>
+
+ 
+- The final rating for this week's <a href="/wi/shows/3/wwe-smackdown/">WWE SmackDown</a> was a 1.96, up from last week's 1.8 rating. As noted, the show drew 2.792 million viewers, up from last week's 2.626 million viewers.<P>
+- WWE Publishing now has the "Second Nature: The Legacy of <a href="/wi/profiles/48/ric-flair/">Ric Flair</a> and The Rise of Charlotte" book for pre-sale. You can pre-order the book on Amazon <a href="http://amzn.to/2l88aou" target="_blank">at this link</a>. The book will be released on Kindle ($12.99), audio CD ($39.99) and hardcover ($17.70) on July 25th.<P>
+<blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">Woooooo! You can now pre-order Second Nature from any top retailer by going to: <a href="https://t.co/0sWIQ3wFb9">https://t.co/0sWIQ3wFb9</a><a href="https://twitter.com/RicFlairNatrBoy">@RicFlairNatrBoy</a> <a href="https://twitter.com/MsCharlotteWWE">@MsCharlotteWWE</a> <a href="https://t.co/a44eEPmNsD">pic.twitter.com/a44eEPmNsD</a></p>&mdash; WWE Publishing (@WWEpublishing) <a href="https://twitter.com/WWEpublishing/status/834444554279456768">February 22, 2017</a></blockquote><br /><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<p><em>Follow Marc Middleton on Twitter at <a href="http://twitter.com/this_is_marc" target="_ext">@this_is_marc</a>. Got a news tip or correction? Send it to us by <a href="/wi/news/send-news.shtml">clicking here</a>.</em></p>
+<div class="related-stories">
+<h3>Related Articles</h3>
+<ul class="tcs-stories">
+<li><a href="/wi/news/2017/0221/623434/wwe-edits-out-big-e-comment-from-raw/">WWE Edits Out Big E Comment From RAW, Why CM Punk Didn't Answer Phone When Rock Called, Charlotte</a></li>
+<li><a href="/wi/news/2017/0220/623399/charlotte-demands-bayley-relinquish-her-title/">Charlotte Demands Bayley Relinquish Her Title, Vince McMahon On HBO's Andre Doc, New Bella Brains</a></li>
+<li><a href="/wi/news/2017/0129/622733/charlotte-on-defeating-bayley-video/">Charlotte On Defeating Bayley (Video), Fans On WWE Royal Rumble, Neville's Photo Shoot As Champion</a></li>
+<li><a href="/wi/news/2017/0129/622721/wwe-royal-rumble-bayley-vs-charlotte-flair-raw-women-title-match/">WWE Royal Rumble: Bayley Vs. Charlotte Flair (RAW Women's Title Match)</a></li>
+<li><a href="/wi/news/2017/0127/622627/charlotte-talks-pre-match-emotions/">Charlotte Talks Pre-Match Emotions, Stephanie McMahon Workout Clip, Mick Foley WWE Network "Pick"</a></li>
+</ul>
+</div>
+<div class="social-share">
+<div class="addthis_native_toolbox" addthis:url="http://www.WrestlingInc.com/wi/news/2017/0224/623529/wwe-smackdown-rating-up/" addthis:title="WWE SmackDown Rating Up, Enzo Amore And Big Cass Video From Germany, 'Second Nature' Book"></div>
+   
+</div>
+<div class="page-nav">
+<div class="previous">
+<a href="/wi/news/2017/0224/623528/wwe-raw-rating-up/" title="Paige Tweets Actress Playing Her In 'Fighting With My Family,' WWE RAW Rating, Brian Kendrick 'Pick'"><i class="fa fa-chevron-left icon"></i><span class="page-nav-head">Previous Article</span></a><br />
+<a href="/wi/news/2017/0224/623528/wwe-raw-rating-up/">Paige Tweets Actress Playing Her In 'Fighting With My Family,' WWE RAW Rating, Brian Kendrick 'Pick'</a>
+</div>
+<div class="next">
+<a href="/wi/news/2017/0224/623530/sean-waltman-on-his-interaction-with-vince-mcmahon-at-wwe-raw/" title="Sean Waltman On His Interaction With Vince McMahon At WWE RAW, Trying To Get Bret Hart In The Kliq">
+<span class="page-nav-head">Next Article</span> <i class="fa fa-chevron-right icon"></i></a><br />
+<a href="/wi/news/2017/0224/623530/sean-waltman-on-his-interaction-with-vince-mcmahon-at-wwe-raw/">Sean Waltman On His Interaction With Vince McMahon At WWE RAW, Trying To Get Bret Hart In The Kliq</a>
+</div>
+</div>
+</div>
+<div class="around-the-web">
+<div class="OUTBRAIN" data-src="http://www.wrestlinginc.com/" data-widget-id="AR_1" data-ob-template="Wrestlinginc_1"></div> 
+<script type="text/javascript" async src="http://widgets.outbrain.com/outbrain.js"></script>
+
+<!-- Start WrestlingINC - 2x2 -->
+<div id='__kx_ad_1538'></div>
+<script type="text/javascript" language="javascript">
+var __kx_ad_slots = __kx_ad_slots || [];
+
+(function () {
+	var slot = 1538;
+	var h = false;
+	__kx_ad_slots.push(slot);
+	if (typeof __kx_ad_start == 'function') {
+		__kx_ad_start();
+	} else {
+		var s = document.createElement('script');
+		s.type = 'text/javascript';
+		s.async = true;
+		s.src = '//cdn.kixer.com/ad/load.js';
+		s.onload = s.onreadystatechange = function(){
+			if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+				h = true;
+				s.onload = s.onreadystatechange = null;
+				__kx_ad_start();
+			}
+		};
+		var x = document.getElementsByTagName('script')[0];
+		x.parentNode.insertBefore(s, x);
+	}
+})();
+</script>
+<!-- End WrestlingINC - 2x2 -->
+
+</div>
+</div>
+</div>
+<div style="display:none;">
+<img src="http://www.WrestlingInc.com/assets/lib/counters/news.asp?newsId=623529" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> 
+</div>
+<img src="https://cdn.relaymedia.com/ping?url=http%3A%2F%2Fwww%2EWrestlingInc%2Ecom%2Fwi%2Fnews%2F2017%2F0224%2F623529%2Fwwe%2Dsmackdown%2Drating%2Dup%2F" width=1 height=1 />
+<div class="sub-section"><h4>Comments</h4></div>
+<div class="comments-section">
+<p>Please see the <a href="http://goo.gl/dnQe9x"><strong>Comments FAQ</strong></a> and make sure that you agree to our rules before posting.</p>
+<a name="comments"><div id="disqus_thread"></div>
+<script type="text/javascript">
+/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+var disqus_shortname = 'wrestlinginc'; 
+var disqus_identifier = 'news_623529';
+/* * * DON'T EDIT BELOW THIS LINE * * */
+(function() {
+var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+<script type="text/javascript">
+var disqus_shortname = 'wrestlinginc';
+(function () {
+var s = document.createElement('script'); s.async = true;
+s.type = 'text/javascript';
+s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+}());
+</script>
+</div>
+<!-- right-col -->
+<div class="col-md-4 col-sm-5 right-col">
+<div class="right-a widget-top"><!-- wi-box-btf for dsk / tbl -->
+<div id="div-gpt-wi-halfpage">
+<script type='text/javascript'>
+if(isMobileLayout === false) {
+googletag.cmd.push(function() {
+googletag.display('div-gpt-wi-halfpage');
+});
+} else {
+(function( $ ) {
+  $('#div-gpt-wi-halfpage').addClass('hidden');
+})(jQuery);
+}
+</script>
+</div>
+<!-- wi-box-btf for mobile -->
+<div id='div-gpt-wi-btf-mobile-box' style='width:300px; height:250px;'>
+<script type='text/javascript'>
+if(isMobileLayout === true) {
+googletag.cmd.push(function() {
+googletag.display('div-gpt-wi-btf-mobile-box');
+});
+} else {
+(function( $ ) {
+  $('#div-gpt-wi-btf-mobile-box').addClass('hidden');
+})(jQuery);
+}
+</script>
+</div>
+</div>
+<div class="social-media">
+ <iframe src="//www.facebook.com/plugins/like.php?app_id=247450818631413&amp;href=http%3A%2F%2Fwww%2Efacebook%2Ecom%2FWrestlingINC&amp;send=false&amp;layout=standard&amp;width=300&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=25" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100%; height:25px;" allowTransparency="true"></iframe>
+<iframe frameborder="0" id="twitter-widget-0" scrolling="no" allowtransparency="true" src="http://platform.twitter.com/widgets/follow_button.964d0a94cc325dea7c2e73bb84c10df0.en.html#_=1427884388838&amp;dnt=false&amp;id=twitter-widget-0&amp;lang=en&amp;screen_name=WrestlingInc&amp;show_count=true&amp;show_screen_name=true&amp;size=m" class="twitter-follow-button twitter-follow-button" title="Twitter Follow Button" data-twttr-rendered="true" style="width: 243px; height: 20px;"></iframe>
+<script src="//platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div>
+
+    <div class="right-col-widget">
+    <div class="head">
+    <h1><a title="Recent Headlines" href="/wi/news/">Recent Headlines</a></h1>
+    </div>
+    <ul>
+        
+        
+        	<li class="clearfix"><a href="/wi/news/2017/0224/623531/roderick-strong-on-his-wwe-goals/" title="Roderick Strong On His WWE Goals, The WWE Performance Center, Getting The Call From WWE"><div class="img-block"><img src="/assets/ui/images/general/clear.gif" data-src="http://i1.ytimg.com/vi/TMxJIN7dKaA/mqdefault.jpg" class="lazy img-responsive" /></div><div class="cnt-block"><p>Roderick Strong On His WWE Goals, The WWE Performance Center, Getting The Call From WWE</p></div></a></li>
+        
+        
+        	<li class="clearfix"><a href="/wi/news/2017/0224/623530/sean-waltman-on-his-interaction-with-vince-mcmahon-at-wwe-raw/" title="Sean Waltman On His Interaction With Vince McMahon At WWE RAW, Trying To Get Bret Hart In The Kliq"><div class="img-block"><img src="/assets/ui/images/general/clear.gif" data-src="http://i1.ytimg.com/vi/3lOCfYRvdcA/mqdefault.jpg" class="lazy img-responsive" /></div><div class="cnt-block"><p>Sean Waltman On His Interaction With Vince McMahon At WWE RAW, Trying To Get Bret Hart In The Kliq</p></div></a></li>
+        
+        
+        	<li class="clearfix"><a href="/wi/news/2017/0224/623529/wwe-smackdown-rating-up/" title="WWE SmackDown Rating Up, Enzo Amore And Big Cass Video From Germany, 'Second Nature' Book"><div class="img-block"><img src="/assets/ui/images/general/clear.gif" data-src="http://i1.ytimg.com/vi/cC7upHiAzlo/mqdefault.jpg" class="lazy img-responsive" /></div><div class="cnt-block"><p>WWE SmackDown Rating Up, Enzo Amore And Big Cass Video From Germany, "Second Nature" Book</p></div></a></li>
+        
+        
+        	<li class="clearfix"><a href="/wi/news/2017/0224/623528/wwe-raw-rating-up/" title="Paige Tweets Actress Playing Her In 'Fighting With My Family,' WWE RAW Rating, Brian Kendrick 'Pick'"><div class="img-block"><img src="/assets/ui/images/general/clear.gif" data-src="http://i1.ytimg.com/vi/OeTobnYlSO8/mqdefault.jpg" class="lazy img-responsive" /></div><div class="cnt-block"><p>Paige Tweets Actress Playing Her In "Fighting With My Family," WWE RAW Rating, Brian Kendrick "Pick"</p></div></a></li>
+        
+        
+        	<li class="clearfix"><a href="/wi/news/2017/0224/623527/views-from-the-turnbuckle-risk-taking-and-why-fans-need-to/" title="Views From The Turnbuckle: Risk Taking And Why Fans Need To Change Their Expectations"><div class="img-block"><img src="/assets/ui/images/general/clear.gif" data-src="http://i1.ytimg.com/vi/QOYSKnw4Bvg/mqdefault.jpg" class="lazy img-responsive" /></div><div class="cnt-block"><p>Views From The Turnbuckle: Risk Taking And Why Fans Need To Change Their Expectations</p></div></a></li>
+        
+        
+        	<li class="clearfix"><a href="/wi/news/2017/0224/623526/big-cass-on-winning-the-wwe-raw-tag-team-titles/" title="Big Cass On Winning The WWE RAW Tag Team Titles, Fans Getting Involved With Their Entrance, More"><div class="img-block"><img src="/assets/ui/images/general/clear.gif" data-src="http://i1.ytimg.com/vi/mOHcDDZTUKw/mqdefault.jpg" class="lazy img-responsive" /></div><div class="cnt-block"><p>Big Cass On Winning The WWE RAW Tag Team Titles, Fans Getting Involved With Their Entrance, More</p></div></a></li>
+        
+        
+        	<li class="clearfix"><a href="/wi/news/2017/0224/623525/records-owned-by-roman-reigns-video/" title="Records Owned By Roman Reigns (Video), Natalya On A Day In The Life Of A WWE Star, Scott Stanford"><div class="img-block"><img src="/assets/ui/images/general/clear.gif" data-src="http://i1.ytimg.com/vi/8hfWSXFofK8/mqdefault.jpg" class="lazy img-responsive" /></div><div class="cnt-block"><p>Records Owned By Roman Reigns (Video), Natalya On A Day In The Life Of A WWE Star, Scott Stanford</p></div></a></li>
+        
+        
+        	<li class="clearfix"><a href="/wi/news/2017/0224/623524/wwe-uk-matches-announced-for-main-roster-tour/" title="Former WWE Star Confirms WrestleMania Appearance, WWE UK Matches Announced For Main Roster Tour"><div class="img-block"><img src="/assets/ui/images/general/clear.gif" data-src="http://i1.ytimg.com/vi/d3JVUbn5TzM/mqdefault.jpg" class="lazy img-responsive" /></div><div class="cnt-block"><p>Former WWE Star Confirms WrestleMania Appearance, WWE UK Matches Announced For Main Roster Tour</p></div></a></li>
+        
+    </ul>
+    </div> <!-- /right-col-widget -->
+    
+
+
+
+<div class="announcement"><a href="http://www.anrdoezrs.net/click-5461499-12768004"><p>&raquo; WWE Shop $5 Friday! Get select WWE merchandise for as little as $5</p></a></div>
+
+    <div class="right-col-widget">
+    <div class="head">
+    <h1><a title="Most Popular" href="/wi/news/">Most Popular</a></h1>
+    </div>
+    <ul>
+        
+        
+        	<li class="clearfix"><a href="/wi/news/2017/0222/623482/live-spoilers-wwe-nxt-tapings-for-march/" title="WWE NXT Spoilers From UCF"><div class="img-block"><img src="/assets/ui/images/general/clear.gif" data-src="http://www.wrestlinginc.com/wi/images/pics/thumb/bobby-roode.jpg" class="lazy img-responsive" /></div><div class="cnt-block"><p>** UPDATED SPOILERS ** WWE NXT Tapings For March</p></div></a></li>
+        
+        
+        	<li class="clearfix"><a href="/wi/news/2017/0222/623456/top-wwe-superstar-thinks-that-the-earth-is-flat/" title="Daniel Bryan Says That AJ Styles Thinks That The Earth Is Flat"><div class="img-block"><img src="/assets/ui/images/general/clear.gif" data-src="http://i1.ytimg.com/vi/ZuToYSYdJS0/mqdefault.jpg" class="lazy img-responsive" /></div><div class="cnt-block"><p>Daniel Bryan Says That AJ Styles Thinks That The Earth Is Flat</p></div></a></li>
+        
+        
+        	<li class="clearfix"><a href="/wi/news/2017/0222/623485/spoiler-wwe-nxt-superstar-loses-a-loser-leaves-nxt-match-for/" title="Spoiler: WWE NXT Superstar Loses A 'Loser Leaves NXT' Match For Next Month"><div class="img-block"><img src="/assets/ui/images/general/clear.gif" data-src="http://www.wrestlinginc.com/wi/images/pics/thumb/surprise-male-640.jpg" class="lazy img-responsive" /></div><div class="cnt-block"><p>Spoiler: WWE NXT Superstar Loses A "Loser Leaves NXT" Match For Next Month</p></div></a></li>
+        
+        
+        	<li class="clearfix"><a href="/wi/news/2017/0223/623516/student-brings-kill-list-to-middle-school/" title="Student Brings 'Kill List' To Middle School, Reportedly Inspired By Chris Jericho's 'List' On WWE TV"><div class="img-block"><img src="/assets/ui/images/general/clear.gif" data-src="http://i1.ytimg.com/vi/2iuImRBVRck/mqdefault.jpg" class="lazy img-responsive" /></div><div class="cnt-block"><p>Student Brings "Kill List" To Middle School, Reportedly Inspired By Chris Jericho's "List" On WWE TV</p></div></a></li>
+        
+        
+        	<li class="clearfix"><a href="/wi/news/2017/0223/623509/naomi-rehab-video/" title="Possible WWE Roster Changes Coming After WrestleMania 33, Naomi Rehab Video, Seth Rollins Games"><div class="img-block"><img src="/assets/ui/images/general/clear.gif" data-src="http://i1.ytimg.com/vi/0q9SumQKMzI/mqdefault.jpg" class="lazy img-responsive" /></div><div class="cnt-block"><p>Possible WWE Roster Changes Coming After WrestleMania 33, Naomi Rehab Video, Seth Rollins Games</p></div></a></li>
+        
+        
+        	<li class="clearfix"><a href="/wi/news/2017/0223/623493/adult-film-company-filming-a-wwe-parody-on-the-montreal-screwjob/" title="Adult Film Company Filming A WWE Parody On The Montreal Screwjob With Vince McMahon, Others (Photos)"><div class="img-block"><img src="/assets/ui/images/general/clear.gif" data-src="http://i1.ytimg.com/vi/4qWKl9wLS9U/mqdefault.jpg" class="lazy img-responsive" /></div><div class="cnt-block"><p>Adult Film Company Filming A WWE Parody On The Montreal Screwjob With Vince McMahon, Others (Photos)</p></div></a></li>
+        
+        
+        	<li class="clearfix"><a href="/wi/news/2017/0222/623480/aj-styles-plants-seed-for-shane-mcmahon-match-video/" title="AJ Styles Plants Seed For Shane McMahon Match? (Video), AJ Lee Comments On 'Movie' AJ Lee"><div class="img-block"><img src="/assets/ui/images/general/clear.gif" data-src="http://i1.ytimg.com/vi/Npow6P1ElIA/mqdefault.jpg" class="lazy img-responsive" /></div><div class="cnt-block"><p>AJ Styles Plants Seed For Shane McMahon Match? (Video), AJ Lee Comments On "Movie" AJ Lee</p></div></a></li>
+        
+        
+        	<li class="clearfix"><a href="/wi/news/2017/0223/623505/backstage-news-on-naomi-injury/" title="Backstage News On Naomi's Injury, Why She Relinquished The Title This Week, Her Return, More"><div class="img-block"><img src="/assets/ui/images/general/clear.gif" data-src="http://i1.ytimg.com/vi/RAKe12uEmDI/mqdefault.jpg" class="lazy img-responsive" /></div><div class="cnt-block"><p>Backstage News On Naomi's Injury, Why She Relinquished The Title This Week, Her Return, More</p></div></a></li>
+        
+    </ul>
+    </div> <!-- /right-col-widget -->
+    
+<div class="hidden-xs">
+
+
+
+<div class="announcement"><a href="http://www.tkqlhce.com/click-5461499-11486332"><p>&raquo; WWE Shop: $5 Off Orders $30+ with code WWEWINC5</p></a></div>
+</div>
+ 
+<div class="hidden-xs">
+
+    <div class="right-col-widget">
+    <div class="head">
+    <h1><a href="http://www.WrestlingInc.com/wi/photos/index.shtml">Top Photos</a></h1>
+    </div>
+    <ul>        
+        
+            <li class="clearfix"><a href="/wi/photos/2017/12447/photo-torrie-wilson-flashing-her-killer-smile/"><div class="img-block"><img src="/assets/ui/images/general/clear.gif" data-src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e15/e35/16908835_764460757045881_4575163278694547456_n.jpg" class="lazy img-responsive" /></div><div class="cnt-block"><p>Torrie Wilson Flashing Her Killer Smile</p></div></a></li>
+        
+            <li class="clearfix"><a href="/wi/photos/2017/12446/photo-eva-marie-sure-knows-how-to-fill-in-a-dress/"><div class="img-block"><img src="/assets/ui/images/general/clear.gif" data-src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e15/e35/16788696_1017463848384512_7562270856483700736_n.jpg" class="lazy img-responsive" /></div><div class="cnt-block"><p>Eva Marie Sure Knows How To Fill In A Dress</p></div></a></li>
+        
+            <li class="clearfix"><a href="/wi/photos/2017/12445/photo-natalya-showing-off-her-shades/"><div class="img-block"><img src="/assets/ui/images/general/clear.gif" data-src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e15/s750x750/sh0.08/e35/16788732_1450669331612662_7069611195367424000_n.jpg" class="lazy img-responsive" /></div><div class="cnt-block"><p>Natalya Showing Off Her Shades</p></div></a></li>
+        
+            <li class="clearfix"><a href="/wi/photos/2017/12444/photo-can-you-smell-what-noelle-foley-is-cookin/"><div class="img-block"><img src="/assets/ui/images/general/clear.gif" data-src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e15/sh0.08/e35/p750x750/16788976_621692054688892_3724704387663134720_n.jpg" class="lazy img-responsive" /></div><div class="cnt-block"><p>Can You Smell What Noelle Foley Is Cookin?</p></div></a></li>
+        
+            <li class="clearfix"><a href="/wi/photos/2017/12443/photo-lana-hanging-out-in-germany/"><div class="img-block"><img src="/assets/ui/images/general/clear.gif" data-src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e15/s750x750/sh0.08/e35/16789482_1527819087241920_4761757737732276224_n.jpg" class="lazy img-responsive" /></div><div class="cnt-block"><p>Lana Hanging Out In Germany</p></div></a></li>
+        
+            <li class="clearfix"><a href="/wi/photos/2017/12442/photo-carmella-visits-napa-valley/"><div class="img-block"><img src="/assets/ui/images/general/clear.gif" data-src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e15/s640x640/sh0.08/e35/16789275_1795650600696991_7565438231655743488_n.jpg" class="lazy img-responsive" /></div><div class="cnt-block"><p>Carmella Visits Napa Valley</p></div></a></li>
+        
+    </ul>
+    </div> <!-- /right-col-widget -->
+    
+<div class="right-col-widget">
+<div class="head">
+<h1>WRESTLING INC. POLL</h1>
+</div>
+<div class="widget poll-widget">
+<div id="ld-3240-1404"></div><script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:8681077388766823,size:[0, 0],id:"ld-3240-1404"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdome.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script>
+</div>
+</div>
+</div>
+<div class="widget-last right-a"><!-- wi-box-btf for desktop -->
+<div id='div-gpt-wi-box-btf' style='width:300px; height:250px;'>
+<script type='text/javascript'>
+if(isMobileLayout === false) {
+googletag.cmd.push(function() {
+googletag.display('div-gpt-wi-box-btf');
+});
+} else {
+(function( $ ) {
+  $('#div-gpt-wi-box-btf').addClass('hidden');
+})(jQuery);
+}
+</script>
+</div>
+</div>
+</div><!-- /right-col -->
+</div><!-- /row -->
+<div class="row">
+<div class="col-sm-12 bottom-a"><!-- wi-leaderboard-btf -->
+<div id='div-gpt-wi-leaderboard-btf' align='center'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-wi-leaderboard-btf'); });
+</script>
+</div>
+</div>
+</div>
+</div><!-- /padd-block -->
+</div><!-- /col-sm-12 -->  
+</div><!-- /row -->
+</div><!-- /container -->
+<footer class="footer">
+  <div class="container text-center">
+<div class="row">
+<a href="http://www.WrestlingInc.com"><img src="/assets/ui/images/layout/f-logo-s.png" class="img-responsive" title="WrestlingInc.com" alt="WrestlingInc.com"></a>
+<div class="col-sm-12 xs-text-center xs-margin-bottom tcs-padding">
+<ul class="scmi">
+<li><a href="http://twitter.com/WrestlingInc" title="Follow Wrestling Inc. on Twitter" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+<li><a href="http://www.facebook.com/WrestlingINC" title="Wrestling Inc. Facebook" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+<li><a href="http://instagram.com/WrestlingINC" title="Follow Wrestling Inc. on Instagram" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+<li><a href="https://www.youtube.com/wrestlinginc" title="Wrestling Inc. YouTube channel" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+<li><a href="http://feeds.feedburner.com/wrestlinginc-news" title="Subscribe to our RSS feed" target="_blank"><i class="fa fa-rss" aria-hidden="true"></i></a></li>
+<li><a href="https://itunes.apple.com/us/podcast/wrestling-inc-podcast/id1004653727" title="Subscribe on iTunes" target="_blank"><i class="fa fa-apple" aria-hidden="true"></i></a></li>
+</ul>
+</div>
+  
+<div class="col-sm-12 tcs-padding">
+<ul>
+<li><a href="https://play.google.com/store/apps/details?id=com.rumble.wrestlinginc&hl=en" target="_blank"><img src="/assets/ui/images/footer/google-play.png" alt=""></a></li>
+<li><a href="https://itunes.apple.com/us/app/wrestling-inc/id1102820164?ls=1&mt=8" target="_blank"><img src="/assets/ui/images/footer/ios-app.png" alt=""></a></li>
+</ul>
+</div><!-- col-sm-12 -->
+<div class="col-sm-12">
+<ul class="tcs-subscribe">
+<li><a href="http://feedburner.google.com/fb/a/mailverify?uri=wrestlinginc-news&loc=en_US">Email Updates</a></li>
+<li><a href="http://www.WrestlingInc.com/wi/news/send-news.shtml">Send News</a></li>
+<li><a href="http://www.WrestlingInc.com/wi/staff/job-openings.shtml">Join Our Staff</a></li>
+<li><a href="http://www.WrestlingInc.com/wi/pages/contact-us.shtml">Contact Us</a></li>
+<li><a href="http://www.WrestlingInc.com/wi/pages/privacy-policy.shtml" class="last">Privacy Policy</a></li>
+</ul>
+</div>
+<div class="col-sm-12 tcs">
+<ul>
+<li><a href="http://www.webcapacity.com">&copy; 2017 Webcapacity Incorporated. All Rights Reserved</a></li>
+</ul>
+</div>
+</div>
+  </div>
+</footer>
+<a id='backTop'>Back To Top</a>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=winc"></script>
+
+</body>
+</html>
