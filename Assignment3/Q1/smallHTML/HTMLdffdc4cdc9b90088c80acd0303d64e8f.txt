@@ -1,0 +1,828 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video#">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta property="og:site_name" content="Social Media Today"/>
+<meta property="og:url" content="http://www.socialmediatoday.com/social-business/exploring-fashion-focused-twitter-infographic"/>
+<meta about="/tags/infographic" typeof="skos:Concept" property="rdfs:label skos:prefLabel" content="infographic"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"/>
+<link rel="shortcut icon" href="http://www.socialmediatoday.com/sites/default/files/smt_avatar_transparent.png" type="image/png"/>
+<meta property="og:type" content="article"/>
+<meta property="og:email" content="socialmediatoday@socialmediatoday.com"/>
+<link rel="canonical" href="/social-business/exploring-fashion-focused-twitter-infographic"/>
+<meta property="og:image" content="http://www.socialmediatoday.com/sites/default/files/styles/thumbnail/public/post_main_images/twitter_fashion_header.jpg?itok=x97WA2bS"/>
+<meta property="og:title" content="Exploring the Fashion-Focused on Twitter [Infographic]"/>
+<meta property="og:description" content="Twitter has released a new infographic which outlines the findings of their latest research into the fashion-focused audience on the platform.
+
+As part of the lead up to London Fashion Week (17th to"/>
+<script type="text/javascript">var p="http",d="static";if(document.location.protocol=="https:"){p+="s";d="engine";}var z=document.createElement("script");z.type="text/javascript";z.async=true;z.src=p+"://"+d+".adzerk.net/ados.js";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(z,s);</script>
+<script type="text/javascript">
+var ados = ados || {};
+ados.run = ados.run || [];
+ados.run.push(function() {
+/* load placement for account: IndustryDive, site: Social Media Today, size: 728x90 - Leaderboard, zone: Leaderboard*/
+ados_add_placement(862, 439371, "azk0", 4).setZone(155051);
+ados_load();
+});</script>
+<script type="text/javascript">
+var ados = ados || {};
+ados.run = ados.run || [];
+ados.run.push(function() {
+/* load placement for account: IndustryDive, site: Social Media Today, size: 300x250 - Medium Rectangle, zone: Big Box 1*/
+ados_add_placement(862, 439371, "azk1", 5).setZone(155052);
+ados_load();
+});</script>
+<script type="text/javascript">
+var ados = ados || {};
+ados.run = ados.run || [];
+ados.run.push(function() {
+/* load placement for account: IndustryDive, site: Social Media Today, size: 300x250 - Medium Rectangle, zone: Big Box 2*/
+ados_add_placement(862, 439371, "azk2", 5).setZone(155053);
+ados_load();
+});</script>
+<script src="http://cdn.gigya.com/JS/socialize.js?apikey=2_VpKoNiPHQRmYPjZ1smHJtltkxwz-Sdy4u_LJoA9rLDzO0w0pqK4kpTbhcaw4GmhE">{"enabledProviders":"Facebook,Twitter,LinkedIn,Googleplus","lang":"en","sessionExpiration":2000000,"connectWithoutLoginBehavior":"loginExistingUser"}</script><meta name="description" content="Twitter has released a new infographic which outlines the findings of their latest research into the fashion-focused audience on the platform."/>
+<link rel="shortlink" href="http://www.socialmediatoday.com/node/4338853"/>
+<meta property="og:site_name" content="Social Media Today"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="Exploring the Fashion-Focused on Twitter [Infographic]"/>
+<meta property="og:url" content="http://www.socialmediatoday.com/social-business/exploring-fashion-focused-twitter-infographic"/>
+<meta property="og:description" content="Twitter has released a new infographic which outlines the findings of their latest research into the fashion-focused audience on the platform."/>
+<meta property="og:updated_time" content="2017-02-16T04:21:35-05:00"/>
+<meta property="og:image" content="http://www.socialmediatoday.com/sites/default/files/post_main_images/twitter_fashion_header.jpg"/>
+<meta property="og:image:secure_url" content="https://www.socialmediatoday.com/sites/default/files/post_main_images/twitter_fashion_header.jpg"/>
+<meta property="og:image:type" content="image/jpeg"/>
+<meta property="og:image:type" content="image/png"/>
+<meta property="og:image:type" content="image/gif"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Exploring the Fashion-Focused on Twitter [Infographic]"/>
+<meta name="twitter:url" content="http://www.socialmediatoday.com/social-business/exploring-fashion-focused-twitter-infographic"/>
+<meta name="twitter:description" content="Twitter has released a new infographic which outlines the findings of their latest research into the fashion-focused audience on the platform."/>
+<meta property="article:author" content="https://www.facebook.com/adhservices/"/>
+<meta name="twitter:image:src" content="http://www.socialmediatoday.com/sites/default/files/post_main_images/twitter_fashion_header.jpg"/>
+<meta property="article:published_time" content="2017-02-16T04:15:06-05:00"/>
+<meta property="article:modified_time" content="2017-02-16T04:21:35-05:00"/>
+<meta itemprop="description" content="Twitter has released a new infographic which outlines the findings of their latest research into the fashion-focused audience on the platform."/>
+<meta itemprop="name" content="Exploring the Fashion-Focused on Twitter [Infographic]"/>
+<meta name="dcterms.title" content="Exploring the Fashion-Focused on Twitter [Infographic]"/>
+<meta name="dcterms.creator" content="adhutchinson"/>
+<meta name="dcterms.description" content="Twitter has released a new infographic which outlines the findings of their latest research into the fashion-focused audience on the platform."/>
+<meta name="dcterms.date" content="2017-02-16T04:15-05:00"/>
+<meta name="dcterms.modified" content="2017-02-16T04:21-05:00"/>
+<meta name="dcterms.type" content="Text"/>
+<meta name="dcterms.format" content="text/html"/>
+<meta name="dcterms.identifier" content="http://www.socialmediatoday.com/social-business/exploring-fashion-focused-twitter-infographic"/>
+<meta name="dcterms.language" content="und"/>
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/favicon-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/favicon-160x160.png" sizes="160x160">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<meta name="msapplication-TileColor" content="#2b5797">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<title>Exploring the Fashion-Focused on Twitter [Infographic] | Social Media Today</title>
+<link type="text/css" rel="stylesheet" href="http://www.socialmediatoday.com/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="http://www.socialmediatoday.com/sites/default/files/css/css_Qrw63uXB5A3praSqLv70gwxbZIuUFqTL6X9kBqCgdmY.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="http://www.socialmediatoday.com/sites/default/files/css/css_w0FSEv_NkYs64pkXk-j9bIjhri39DyEzij9wAO7tL4U.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="http://www.socialmediatoday.com/sites/all/modules/contrib/popup/popup.css?oluefq" media="all"/>
+<link type="text/css" rel="stylesheet" href="http://www.socialmediatoday.com/sites/default/files/css/css_2f3hzsj1j63jzoaH5V_CANuiSBnCCSPpN66S_0-5Fyg.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400,300,600,800" media="all"/>
+<link type="text/css" rel="stylesheet" href="http://www.socialmediatoday.com/sites/default/files/css/css_zaOco2G8k_Y9ZPkHcPipwrYE0eu9i_I-umrYSytTB3U.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="http://www.socialmediatoday.com/sites/default/files/css/css_FkWiPtiP5YRqPZlfdK57ri9h77lAVVjbmMub85EW7hw.css" media="all"/>
+ 
+<script>
+		if (Function('/*@cc_on return document.documentMode===10@*/')()){
+			document.documentElement.className+=' no-flexbox';
+		}
+	</script>
+<script type="text/javascript" defer="defer" src="http://www.socialmediatoday.com/sites/all/libraries/modernizr/modernizr.custom.81908.js?oluefq"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.google_analytics_uacct = "UA-3688358-1";
+//--><!]]>
+</script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.socialmediatoday.com/sites/default/files/js/js_2lGzjjiqm6ZO0x5VLNyNPFd7MUjZ5HGnjs_kN1QBvc0.js"></script>
+<script type="text/javascript" src="http://www.socialmediatoday.com/sites/default/files/js/js_sDco9wLkq12OdsmMP0oOj4BKtWt1rtErKtNNKwwvYqI.js"></script>
+<script type="text/javascript" src="http://www.socialmediatoday.com/sites/default/files/js/js_ou2599CErKeT1x1GCx2Jxp6AiJobs096NbyZ8YssgMI.js"></script>
+<script type="text/javascript" src="http://www.socialmediatoday.com/sites/all/modules/contrib/popup/popup.js?oluefq"></script>
+<script type="text/javascript" src="http://cdn.gigya.com/js/gigyaGAIntegration.js"></script>
+<script type="text/javascript" src="http://www.socialmediatoday.com/sites/default/files/js/js_USxg_B43au4R9GdZMMch7R8Ar0MWSSMrOyY0JM86PnE.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var switchTo5x = true;
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+if (stLight !== undefined) { stLight.options({"publisher":"dr-2ae1d4ee-7cd7-3c82-5240-47d41e7418b8","version":"5x"}); }
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.socialmediatoday.com/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","http://www.socialmediatoday.com/sites/default/files/googleanalytics/analytics.js?oluefq","ga");ga("create", "UA-3688358-1", {"cookieDomain":"auto"});ga("require", "displayfeatures");ga("set", "dimension2", "Social Business");ga("set", "dimension3", "2017-02-16");ga('require', 'displayfeatures');
+ga('create', 'UA-3688358-1', 'www.socialmediatoday.com');ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+/*<![CDATA[*/(function(w,a,b,d,s){w[a]=w[a]||{};w[a][b]=w[a][b]||{q:[],track:function(r,e,t){this.q.push({r:r,e:e,t:t||+new Date});}};var e=d.createElement(s);var f=d.getElementsByTagName(s)[0];e.async=1;e.src='//smt.socialmediatoday.com/cdnr/62/acton/bn/tracker/10375';f.parentNode.insertBefore(e,f);})(window,'ActOn','Beacon',document,'script');ActOn.Beacon.track();/*]]>*/
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.socialmediatoday.com/sites/default/files/js/js_I8lU_Re4Nt58KXoxNGwaKa8YX99qwChs75n3eavqp58.js"></script>
+<script type="text/javascript" src="http://www.socialmediatoday.com/sites/default/files/js/js_meDomBEy82aWXpUVuohOCqoX7y2SY1EL4mcRvK0f97E.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"smtrelaunch","theme_token":"6qQwCIvIYL4O1nEguwT3XMEdgeY3X_LRS36e2hf3ayY","jquery_version":"1.8","js":{"modules\/statistics\/statistics.js":1,"sites\/all\/themes\/smtrelaunch\/js\/smtscripts.js":1,"sites\/all\/libraries\/modernizr\/modernizr.custom.81908.js":1,"0":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.8.3\/jquery.min.js":1,"1":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/fitvids\/jquery.fitvids.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/contrib\/fitvids\/fitvids.js":1,"sites\/all\/modules\/contrib\/responsive_dropdown_menus\/theme\/responsive-dropdown-menus.js":1,"sites\/all\/modules\/contrib\/popup\/popup.js":1,"http:\/\/cdn.gigya.com\/js\/gigyaGAIntegration.js":1,"sites\/all\/modules\/contrib\/gigya\/js\/gigya.js":1,"sites\/all\/modules\/contrib\/gigya\/js\/gigya.behaviors.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/ctools\/js\/ajax-responder.js":1,"2":1,"http:\/\/w.sharethis.com\/button\/buttons.js":1,"3":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"4":1,"5":1,"\/sites\/all\/libraries\/js-cookie\/js.cookie.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/contrib\/superfish\/superfish.js":1,"sites\/all\/themes\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/all\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/fitvids\/fitvids.css":1,"sites\/all\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/responsive_dropdown_menus\/theme\/responsive-dropdown-menus.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"public:\/\/css\/menu_icons.css":1,"sites\/all\/modules\/contrib\/popup\/popup.css":1,"modules\/taxonomy\/taxonomy.css":1,"\/\/fonts.googleapis.com\/css?family=Open+Sans:400,300,600,800":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-smallscreen.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/all\/themes\/omega\/omega\/css\/formalize.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-text.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-branding.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-menu.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-forms.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-visuals.css":1,"sites\/all\/themes\/smtrelaunch\/css\/global.css":1}},"popup":{"effects":{"show":{"default":"this.body.show();","fade":"\n        if (this.opacity){\n          this.body.fadeTo(\u0027medium\u0027,this.opacity);\n        }else{\n          this.body.fadeIn(\u0027medium\u0027);\n        }","slide-down":"this.body.slideDown(\u0027medium\u0027)","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027show\u0027,\n            opacity:(this.opacity ? this.opacity : \u0027show\u0027)\n          }, \u0027medium\u0027\n        );"},"hide":{"default":"this.body.hide();","fade":"this.body.fadeOut(\u0027medium\u0027);","slide-down":"this.body.slideUp(\u0027medium\u0027);","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027hide\u0027,\n            opacity:\u0027hide\u0027\n          }, \u0027medium\u0027\n        );"}},"linger":250,"delay":0},"gigya":{"enabledProviders":"Facebook,Twitter,LinkedIn,Googleplus","lang":"en","sessionExpiration":2000000,"connectWithoutLoginBehavior":"loginExistingUser","mv":"mayor","loginMode":"drupal"},"fitvids":{"custom_domains":["iframe[src^=\u0027http:\/\/www.ustream.tv\u0027]","iframe[src^=\u0027http:\/\/livestream.com\u0027]"],"selectors":["body"],"simplifymarkup":1},"responsive_dropdown_menus":{"menu-call-to-action":"Call to Action","menu-menu-connect-with-smt":"Connect With SMT","devel":"Development","features":"Features","menu-footer-menu":"Footer Menu","main-menu":"Main menu","management":"Management","navigation":"Navigation","menu-smt-administration":"SMT Administration","user-menu":"User menu","menu-menu-partner-with-us":"Work with Us"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"superfish":{"1":{"id":"1","sf":{"animation":{"opacity":"show","height":"show"},"speed":"fast","autoArrows":false},"plugins":{"smallscreen":{"mode":"window_width","breakpointUnit":"px","title":"Main menu"},"supposition":true,"supersubs":true}}},"statistics":{"data":{"nid":"4338853"},"url":"\/modules\/statistics\/statistics.php"},"omega":{"layouts":{"primary":"normal","order":[],"queries":[]}}});
+//--><!]]>
+</script>
+<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+ <script type="text/javascript">(function(e,a){if(!a.__SV){var b=window;try{var c,l,i,j=b.location,g=j.hash;c=function(a,b){return(l=a.match(RegExp(b+"=([^&]*)")))?l[1]:null};g&&c(g,"state")&&(i=JSON.parse(decodeURIComponent(c(g,"state"))),"mpeditor"===i.action&&(b.sessionStorage.setItem("_mpcehash",g),history.replaceState(i.desiredHash||"",e.title,j.pathname+j.search)))}catch(m){}var k,h;window.mixpanel=a;a._i=[];a.init=function(b,c,f){function e(b,a){var c=a.split(".");2==c.length&&(b=b[c[0]],a=c[1]);b[a]=function(){b.push([a].concat(Array.prototype.slice.call(arguments,
+0)))}}var d=a;"undefined"!==typeof f?d=a[f]=[]:f="mixpanel";d.people=d.people||[];d.toString=function(b){var a="mixpanel";"mixpanel"!==f&&(a+="."+f);b||(a+=" (stub)");return a};d.people.toString=function(){return d.toString(1)+".people (stub)"};k="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config reset people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+for(h=0;h<k.length;h++)e(d,k[h]);a._i.push([b,c,f])};a.__SV=1.2;b=e.createElement("script");b.type="text/javascript";b.async=!0;b.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";c=e.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c)}})(document,window.mixpanel||[]);
+mixpanel.init("e44dee589a2bad5ec8c53f8b1dda225d");</script> 
+ 
+<script type='text/javascript'>
+var _vwo_code=(function(){
+var account_id=70793,
+settings_tolerance=2000,
+library_tolerance=2500,
+use_existing_jquery=false,
+/* DO NOT EDIT BELOW THIS LINE */
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script>
+ 
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-4338853 node-type-post context-social-business">
+ 
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-524SBN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0];var j=d.createElement(s);var dl=l!='dataLayer'?'&l='+l:'';j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;j.type='text/javascript';j.async=true;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-524SBN');</script>
+ 
+<div id="skip-link">
+<a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+</div>
+<div class="page clearfix" id="page">
+<header id="section-header" class="section section-header">
+<div id="zone-header-wrapper" class="zone-wrapper zone-header-wrapper clearfix"> <div id="zone-header" class="zone zone-header clearfix container-12">
+<div class="grid-6 region region-header-first" id="region-header-first">
+<div class="region-inner region-header-first-inner">
+<div class="block block-delta-blocks block-logo block-delta-blocks-logo odd block-without-title" id="block-delta-blocks-logo">
+<div class="block-inner clearfix">
+<div class="content clearfix">
+<div class="logo-img"><a href="/" id="logo" title="Return to the Social Media Today home page"><img typeof="foaf:Image" src="http://www.socialmediatoday.com/sites/all/themes/smtrelaunch/logo.png" alt="Social Media Today"/></a></div> </div>
+</div>
+</div>
+<div class="block block-block block-block-51 block-36 block-block-36 even block-without-title" id="block-block-36">
+<div class="block-inner clearfix">
+<div class="content clearfix">
+<p><a href="/user">SIGN IN</a> | <a href="/user/register">REGISTER</a></p>
+</div>
+</div>
+</div>
+<div class="block block-block block-143 block-block-143 odd block-without-title" id="block-block-143">
+<div class="block-inner clearfix">
+<div class="content clearfix">
+<div id='search'><script>
+  (function() {
+    var cx = '008635452180983262277:b_3obhfg8qk';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script><gcse:searchbox-only linktarget='_blank'></gcse:searchbox-only></div> </div>
+</div>
+</div>
+<div class="block block-superfish block-1 block-superfish-1 even block-without-title" id="block-superfish-1">
+<div class="block-inner clearfix">
+<div class="content clearfix">
+<ul id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-none sf-total-items-8 sf-parent-items-4 sf-single-items-4"><li id="menu-11686-1" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="http://www.socialmediatoday.com/webinars?utm_source=http://www.socialmediatoday.com/social-business/exploring-fashion-focused-twitter-infographic&amp;utm_medium=topmenu&amp;utm_content=webinars&amp;utm_campaign=topmenu" title="" class="sf-depth-1">WEBINARS</a></li><li id="menu-11681-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-7 sf-parent-children-0 sf-single-children-7 menuparent"><a href="http://www.socialmediatoday.com/categories/social-networks?utm_source=http://www.socialmediatoday.com/social-business/exploring-fashion-focused-twitter-infographic&amp;utm_medium=topmenu&amp;utm_content=social%2Bnetworks&amp;utm_campaign=topmenu" title="" class="sf-depth-1 menuparent">SOCIAL NETWORKS</a><ul><li id="menu-11856-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><div class="menu-views"><div class="view view-menu-facebook view-id-menu_facebook view-display-id-block view-dom-id-e7cb343715f18a6f71981822ede7bdeb">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div about="/social-networks/facebook-updates-profile-frames-page-adds-200-national-flags" typeof="sioc:Item foaf:Document" id="node-post-4339910" class="ds-1col node node-post view-mode-menu_teaser_with_image node-not-promoted node-not-sticky author-209482 odd clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h3><a href="/social-networks/facebook-updates-profile-frames-page-adds-200-national-flags">Facebook Updates Profile Frames Page, Adds 200 National Flags</a></h3></div></div></div><div class="field field-name-field-post-main-image field-type-file field-label-hidden"><div class="field-items"><div class="field-item even"><div class="ds-1col file file-image file-image-png view-mode-image_medium_250_x_150 clearfix">
+<a href="/social-networks/facebook-updates-profile-frames-page-adds-200-national-flags"><img typeof="foaf:Image" src="http://www.socialmediatoday.com/sites/default/files/styles/featured-medium-250x150/public/post_main_images/frames_update.png?itok=YT3yVb9D" width="250" height="150" alt="Facebook Updates Profile Frames Page, Adds 200 National Flags | Social Media Today"/></a></div>
+</div></div></div></div>
+</div>
+<div class="views-row views-row-2 views-row-even">
+<div about="/social-networks/instagram-now-lets-you-add-10-photos-and-videos-single-post" typeof="sioc:Item foaf:Document" id="node-post-4339740" class="ds-1col node node-post view-mode-menu_teaser node-not-promoted node-not-sticky author-209482 even clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><a href="/social-networks/instagram-now-lets-you-add-10-photos-and-videos-single-post">Instagram Now Lets You Add Up to 10 Photos and Videos in a Single Post</a></div></div></div></div>
+</div>
+<div class="views-row views-row-3 views-row-odd">
+<div about="/social-networks/4-key-lessons-some-biggest-brand-twitter-fails" typeof="sioc:Item foaf:Document" id="node-post-4339558" class="ds-1col node node-post view-mode-menu_teaser node-not-promoted node-not-sticky author-1335445 odd clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><a href="/social-networks/4-key-lessons-some-biggest-brand-twitter-fails">4 Key Lessons from Some of the Biggest Brand Twitter Fails</a></div></div></div></div>
+</div>
+<div class="views-row views-row-4 views-row-even">
+<div about="/social-networks/cheat-sheet-linkedin-networking-podcast" typeof="sioc:Item foaf:Document" id="node-post-4339595" class="ds-1col node node-post view-mode-menu_teaser node-not-promoted node-not-sticky author-208668 even clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><a href="/social-networks/cheat-sheet-linkedin-networking-podcast">A Cheat Sheet to LinkedIn Networking [Podcast]</a></div></div></div></div>
+</div>
+<div class="views-row views-row-5 views-row-odd views-row-last">
+<div about="/social-networks/facebook-releases-another-snapchat-clone-time-within-whatsapp" typeof="sioc:Item foaf:Document" id="node-post-4339473" class="ds-1col node node-post view-mode-menu_teaser node-not-promoted node-not-sticky author-209482 odd clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><a href="/social-networks/facebook-releases-another-snapchat-clone-time-within-whatsapp">Facebook Releases Another Snapchat Clone, This Time Within WhatsApp</a></div></div></div></div>
+</div>
+</div>
+</div></div></li><li id="menu-11866-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><div class="menu-views"><div class="view view-clone-of-menu-social-networks-second view-id-clone_of_menu_social_networks_second view-display-id-block view-dom-id-460b70e53f32da950581e892a91a4b7c">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div about="/social-networks/3-collaboration-tools-every-social-media-marketing-team-needs" typeof="sioc:Item foaf:Document" id="node-post-4339418" class="ds-1col node node-post view-mode-menu_teaser node-not-promoted node-not-sticky author-1044944 even clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><a href="/social-networks/3-collaboration-tools-every-social-media-marketing-team-needs">3 Collaboration Tools Every Social Media Marketing Team Needs</a></div></div></div></div>
+</div>
+<div class="views-row views-row-2 views-row-even">
+<div about="/social-networks/how-build-powerful-linkedin-profile-infographic" typeof="sioc:Item foaf:Document" id="node-post-4339145" class="ds-1col node node-post view-mode-menu_teaser node-not-promoted node-not-sticky author-209482 odd clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><a href="/social-networks/how-build-powerful-linkedin-profile-infographic">How to Build a Powerful LinkedIn Profile [Infographic]</a></div></div></div></div>
+</div>
+<div class="views-row views-row-3 views-row-odd">
+<div about="/social-networks/zuckerberg-outlines-focus-groups-safety-and-fake-news-new-manifesto" typeof="sioc:Item foaf:Document" id="node-post-4339014" class="ds-1col node node-post view-mode-menu_teaser node-not-promoted node-not-sticky author-209482 even clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><a href="/social-networks/zuckerberg-outlines-focus-groups-safety-and-fake-news-new-manifesto">Zuckerberg Outlines Focus on Groups, Safety and Fake News in New Manifesto</a></div></div></div></div>
+</div>
+<div class="views-row views-row-4 views-row-even views-row-last">
+<div about="/social-networks/3-ways-get-more-bang-your-buck-social-video-ads" typeof="sioc:Item foaf:Document" id="node-post-4338663" class="ds-1col node node-post view-mode-menu_teaser node-not-promoted node-not-sticky author-1346057 odd clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><a href="/social-networks/3-ways-get-more-bang-your-buck-social-video-ads">3 Ways to Get More Bang for Your Buck with Social Video Ads</a></div></div></div></div>
+</div>
+</div>
+</div></div></li><li id="menu-11721-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/tags/facebook" title="" class="sf-depth-2">Facebook</a></li><li id="menu-11731-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/tags/google-plus" title="" class="sf-depth-2">Google+</a></li><li id="menu-11741-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/tags/linkedin" title="" class="sf-depth-2">LinkedIn</a></li><li id="menu-11751-1" class="middle even sf-item-6 sf-depth-2 sf-no-children"><a href="/tags/pinterest" title="" class="sf-depth-2">Pinterest</a></li><li id="menu-19126-1" class="last odd sf-item-7 sf-depth-2 sf-no-children"><a href="/tags/twitter" title="" class="sf-depth-2">Twitter</a></li></ul></li><li id="menu-11691-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-7 sf-parent-children-0 sf-single-children-7 menuparent"><a href="http://www.socialmediatoday.com/categories/marketing?utm_source=http://www.socialmediatoday.com/social-business/exploring-fashion-focused-twitter-infographic&amp;utm_medium=topmenu&amp;utm_content=marketing&amp;utm_campaign=topmenu" title="" class="sf-depth-1 menuparent">MARKETING</a><ul><li id="menu-11881-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><div class="menu-views"><div class="view view-menu-marketing view-id-menu_marketing view-display-id-block view-dom-id-2b39dc23ac2e24a00a7e775af1041f55">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div about="/marketing/essential-guide-using-messengers-marketing-video" typeof="sioc:Item foaf:Document" id="node-post-4339836" class="ds-1col node node-post view-mode-menu_teaser_with_image node-not-promoted node-not-sticky author-86541 odd clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h3><a href="/marketing/essential-guide-using-messengers-marketing-video">The Essential Guide to Using Messengers for Marketing [Video]</a></h3></div></div></div><div class="field field-name-field-post-main-image field-type-file field-label-hidden"><div class="field-items"><div class="field-item even"><div class="ds-1col file file-image file-image-png view-mode-image_medium_250_x_150 clearfix">
+<a href="/marketing/essential-guide-using-messengers-marketing-video"><img typeof="foaf:Image" src="http://www.socialmediatoday.com/sites/default/files/styles/featured-medium-250x150/public/post_main_images/strategic_messenger_marketing.png?itok=o-b6IKOH" width="250" height="150" alt="" title="Inspiring Marketing Episode 001: The Rise of Messengers"/></a></div>
+</div></div></div></div>
+</div>
+<div class="views-row views-row-2 views-row-even">
+<div about="/marketing/long-tail-keywords-what-they-are-and-why-you-need-use-them-infographic" typeof="sioc:Item foaf:Document" id="node-post-4339863" class="ds-1col node node-post view-mode-menu_teaser node-not-promoted node-not-sticky author-177063 even clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><a href="/marketing/long-tail-keywords-what-they-are-and-why-you-need-use-them-infographic">Long-Tail Keywords: What They Are and Why You Need to Use Them [Infographic]</a></div></div></div></div>
+</div>
+<div class="views-row views-row-3 views-row-odd">
+<div about="/marketing/developing-your-inbound-marketing-strategy-2017" typeof="sioc:Item foaf:Document" id="node-post-4339822" class="ds-1col node node-post view-mode-menu_teaser node-not-promoted node-not-sticky author-97269 odd clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><a href="/marketing/developing-your-inbound-marketing-strategy-2017">Developing Your Inbound Marketing Strategy for 2017</a></div></div></div></div>
+</div>
+<div class="views-row views-row-4 views-row-even">
+<div about="/marketing/40-video-stats-you-must-know-if-you-work-ecommerce-infographic" typeof="sioc:Item foaf:Document" id="node-post-4339703" class="ds-1col node node-post view-mode-menu_teaser node-not-promoted node-not-sticky author-994856 even clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><a href="/marketing/40-video-stats-you-must-know-if-you-work-ecommerce-infographic">40 Video Stats You Must Know if You Work in eCommerce [Infographic]</a></div></div></div></div>
+</div>
+<div class="views-row views-row-5 views-row-odd views-row-last">
+<div about="/marketing/essential-email-design-trends-2017-infographic" typeof="sioc:Item foaf:Document" id="node-post-4339701" class="ds-1col node node-post view-mode-menu_teaser node-not-promoted node-not-sticky author-1321280 odd clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><a href="/marketing/essential-email-design-trends-2017-infographic">Essential Email Design Trends 2017 [Infographic]</a></div></div></div></div>
+</div>
+</div>
+</div></div></li><li id="menu-19171-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><div class="menu-views"><div class="view view-menu-marketing-second view-id-menu_marketing_second view-display-id-block view-dom-id-346e00756f9bd77b72e3de24268e5698">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div about="/marketing/9-key-steps-re-branding-your-business-social-media" typeof="sioc:Item foaf:Document" id="node-post-4339476" class="ds-1col node node-post view-mode-menu_teaser node-not-promoted node-not-sticky author-1333801 odd clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><a href="/marketing/9-key-steps-re-branding-your-business-social-media">9 Key Steps for Re-Branding Your Business on Social Media</a></div></div></div></div>
+</div>
+<div class="views-row views-row-2 views-row-even">
+<div about="/marketing/28-places-download-free-images-websites-and-blogs" typeof="sioc:Item foaf:Document" id="node-post-4339440" class="ds-1col node node-post view-mode-menu_teaser node-not-promoted node-not-sticky author-1301254 even clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><a href="/marketing/28-places-download-free-images-websites-and-blogs">28 Places to Download Free Images for Websites and Blogs</a></div></div></div></div>
+</div>
+<div class="views-row views-row-3 views-row-odd">
+<div about="/marketing/why-social-media-stories-matter" typeof="sioc:Item foaf:Document" id="node-post-4338754" class="ds-1col node node-post view-mode-menu_teaser node-not-promoted node-not-sticky author-98957 odd clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><a href="/marketing/why-social-media-stories-matter">Why Social Media Stories Matter</a></div></div></div></div>
+</div>
+<div class="views-row views-row-4 views-row-even views-row-last">
+<div about="/marketing/email-unsubscribes-what-you-can-decipher-your-unsubscribe-data" typeof="sioc:Item foaf:Document" id="node-post-4338909" class="ds-1col node node-post view-mode-menu_teaser node-not-promoted node-not-sticky author-1321280 even clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><a href="/marketing/email-unsubscribes-what-you-can-decipher-your-unsubscribe-data">Email Unsubscribes: What You can Decipher from Your Unsubscribe Data</a></div></div></div></div>
+</div>
+</div>
+</div></div></li><li id="menu-11761-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/tags/advertising" title="" class="sf-depth-2">Advertising</a></li><li id="menu-11766-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/tags/content-marketing" title="" class="sf-depth-2">Content Marketing</a></li><li id="menu-11771-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/tags/ecommerce" title="" class="sf-depth-2">Ecommerce</a></li><li id="menu-11776-1" class="middle even sf-item-6 sf-depth-2 sf-no-children"><a href="/tags/influence" title="" class="sf-depth-2">Influence</a></li><li id="menu-11781-1" class="last odd sf-item-7 sf-depth-2 sf-no-children"><a href="/tags/roi" title="" class="sf-depth-2">ROI</a></li></ul></li><li id="menu-11711-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-8 sf-parent-children-0 sf-single-children-8 menuparent"><a href="http://www.socialmediatoday.com/categories/technology-data?utm_source=http://www.socialmediatoday.com/social-business/exploring-fashion-focused-twitter-infographic&amp;utm_medium=topmenu&amp;utm_content=technology%2Band%2Bdata&amp;utm_campaign=topmenu" title="" class="sf-depth-1 menuparent">TECHNOLOGY &amp; DATA</a><ul><li id="menu-11896-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><div class="menu-views"><div class="view view-menu-technology-and-data view-id-menu_technology_and_data view-display-id-block view-dom-id-5bc0a7ec3a04f526c9678c3daef7079b">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div about="/technology-data/role-ai-account-based-marketing-podcast" typeof="sioc:Item foaf:Document" id="node-post-4339152" class="ds-1col node node-post view-mode-menu_teaser_with_image node-not-promoted node-not-sticky author-208668 odd clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h3><a href="/technology-data/role-ai-account-based-marketing-podcast">The Role of AI in Account Based Marketing [Podcast]</a></h3></div></div></div><div class="field field-name-field-post-main-image field-type-file field-label-hidden"><div class="field-items"><div class="field-item even"><div class="ds-1col file file-image file-image-png view-mode-image_medium_250_x_150 clearfix">
+<a href="/technology-data/role-ai-account-based-marketing-podcast"><img typeof="foaf:Image" src="http://www.socialmediatoday.com/sites/default/files/styles/featured-medium-250x150/public/post_main_images/amannaimat.png?itok=DuDX9tfw" width="250" height="150" alt="artificial intelligence"/></a></div>
+</div></div></div></div>
+</div>
+<div class="views-row views-row-2 views-row-even">
+<div about="/technology-data/best-performing-brands-twitter-last-week-1" typeof="sioc:Item foaf:Document" id="node-post-4337047" class="ds-1col node node-post view-mode-menu_teaser node-not-promoted node-not-sticky author-971177 even clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><a href="/technology-data/best-performing-brands-twitter-last-week-1">The Best Performing Brands on Twitter Last Week</a></div></div></div></div>
+</div>
+<div class="views-row views-row-3 views-row-odd">
+<div about="/technology-data/how-will-ai-change-seo-2017-video" typeof="sioc:Item foaf:Document" id="node-post-4335789" class="ds-1col node node-post view-mode-menu_teaser node-not-promoted node-not-sticky author-1344188 odd clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><a href="/technology-data/how-will-ai-change-seo-2017-video">How Will AI Change SEO in 2017? [Video] </a></div></div></div></div>
+</div>
+<div class="views-row views-row-4 views-row-even">
+<div about="/technology-data/how-protect-your-businesss-digital-presence" typeof="sioc:Item foaf:Document" id="node-post-4333422" class="ds-1col node node-post view-mode-menu_teaser node-not-promoted node-not-sticky author-1092936 even clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><a href="/technology-data/how-protect-your-businesss-digital-presence">How to Protect Your Business&#039;s Digital Presence</a></div></div></div></div>
+</div>
+<div class="views-row views-row-5 views-row-odd views-row-last">
+<div about="/technology-data/how-brands-can-tap-internet-things-maximize-opportunities" typeof="sioc:Item foaf:Document" id="node-post-4331136" class="ds-1col node node-post view-mode-menu_teaser node-not-promoted node-not-sticky author-158946 odd clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><a href="/technology-data/how-brands-can-tap-internet-things-maximize-opportunities">How Brands can Tap Into the Internet of Things to Maximize Opportunities</a></div></div></div></div>
+</div>
+</div>
+</div></div></li><li id="menu-11901-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><div class="menu-views"><div class="view view-menu-technology-and-data-second view-id-menu_technology_and_data_second view-display-id-block view-dom-id-8fd8cd1e8126b266a9cad9d9817fe33d">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div about="/technology-data/top-15-seo-tools-2016-infographic" typeof="sioc:Item foaf:Document" id="node-post-4330250" class="ds-1col node node-post view-mode-menu_teaser node-not-promoted node-not-sticky author-888466 even clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><a href="/technology-data/top-15-seo-tools-2016-infographic">The Top 15 SEO Tools of 2016 [Infographic]</a></div></div></div></div>
+</div>
+<div class="views-row views-row-2 views-row-even">
+<div about="/technology-data/how-get-started-360-degree-videos" typeof="sioc:Item foaf:Document" id="node-post-4330140" class="ds-1col node node-post view-mode-menu_teaser node-not-promoted node-not-sticky author-1328537 odd clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><a href="/technology-data/how-get-started-360-degree-videos">How to Get Started with 360 Degree Videos</a></div></div></div></div>
+</div>
+<div class="views-row views-row-3 views-row-odd">
+<div about="/technology-data/19-technologies-gen-z-wouldnt-recognize-infographic" typeof="sioc:Item foaf:Document" id="node-post-4329387" class="ds-1col node node-post view-mode-menu_teaser node-not-promoted node-not-sticky author-31973 even clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><a href="/technology-data/19-technologies-gen-z-wouldnt-recognize-infographic">19 Technologies Gen Z Wouldn’t Recognize [Infographic]</a></div></div></div></div>
+</div>
+<div class="views-row views-row-4 views-row-even views-row-last">
+<div about="/technology-data/what-do-millennials-really-want-mobile-apps-infographic" typeof="sioc:Item foaf:Document" id="node-post-4327143" class="ds-1col node node-post view-mode-menu_teaser node-not-promoted node-not-sticky author-133075 odd clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><a href="/technology-data/what-do-millennials-really-want-mobile-apps-infographic">What Do Millennials Really Want From Mobile Apps? [Infographic]</a></div></div></div></div>
+</div>
+</div>
+</div></div></li><li id="menu-11786-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/tags/analytics" title="" class="sf-depth-2">Analytics</a></li><li id="menu-11791-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/tags/big-data" title="" class="sf-depth-2">Big Data</a></li><li id="menu-11796-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/tags/marketing-automation" title="" class="sf-depth-2">Marketing Automation</a></li><li id="menu-11801-1" class="middle even sf-item-6 sf-depth-2 sf-no-children"><a href="/tags/security" title="" class="sf-depth-2">Security</a></li><li id="menu-11806-1" class="middle odd sf-item-7 sf-depth-2 sf-no-children"><a href="/tags/social-tools" title="" class="sf-depth-2">Social Tools</a></li><li id="menu-11811-1" class="last even sf-item-8 sf-depth-2 sf-no-children"><a href="/tags/tech-innovation" title="" class="sf-depth-2">Tech and Innovation</a></li></ul></li><li id="menu-11696-1" class="middle odd sf-item-5 sf-depth-1 sf-total-children-8 sf-parent-children-0 sf-single-children-8 menuparent"><a href="http://www.socialmediatoday.com/categories/social-business?utm_source=http://www.socialmediatoday.com/social-business/exploring-fashion-focused-twitter-infographic&amp;utm_medium=topmenu&amp;utm_content=social%2Bbusiness&amp;utm_campaign=topmenu" title="" class="sf-depth-1 menuparent">SOCIAL BUSINESS</a><ul><li id="menu-11906-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><div class="menu-views"><div class="view view-menu-social-business view-id-menu_social_business view-display-id-block view-dom-id-a85372c95d105949d0d0b58361db50f4">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div about="/social-business/facebooks-expanding-live-video-ads-testing-ad-content-all-video-formats" typeof="sioc:Item foaf:Document" id="node-post-4339904" class="ds-1col node node-post view-mode-menu_teaser_with_image node-not-promoted node-not-sticky author-209482 odd clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h3><a href="/social-business/facebooks-expanding-live-video-ads-testing-ad-content-all-video-formats">Facebook&#039;s Expanding Live Video Ads, Testing Ad Content in All Video Formats</a></h3></div></div></div><div class="field field-name-field-post-main-image field-type-file field-label-hidden"><div class="field-items"><div class="field-item even"><div class="ds-1col file file-image file-image-png view-mode-image_medium_250_x_150 clearfix">
+<a href="/social-business/facebooks-expanding-live-video-ads-testing-ad-content-all-video-formats"><img typeof="foaf:Image" src="http://www.socialmediatoday.com/sites/default/files/styles/featured-medium-250x150/public/post_main_images/live_ad.png?itok=A53RJSQg" width="250" height="150" alt="Facebook Announces Live Video Ads, Extended Ad Testing in All Video Formats | Social Media Today"/></a></div>
+</div></div></div></div>
+</div>
+<div class="views-row views-row-2 views-row-even">
+<div about="/social-business/new-report-shows-social-media-preferences-and-habits-among-generations" typeof="sioc:Item foaf:Document" id="node-post-4339935" class="ds-1col node node-post view-mode-menu_teaser node-not-promoted node-not-sticky author-209482 even clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><a href="/social-business/new-report-shows-social-media-preferences-and-habits-among-generations">New Report Shows Social Media Preferences and Habits Among Generations</a></div></div></div></div>
+</div>
+<div class="views-row views-row-3 views-row-odd">
+<div about="/social-business/3-ways-use-new-instagram-slideshow-posts-your-blog-brand-or-business" typeof="sioc:Item foaf:Document" id="node-post-4339842" class="ds-1col node node-post view-mode-menu_teaser node-not-promoted node-not-sticky author-121644 odd clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><a href="/social-business/3-ways-use-new-instagram-slideshow-posts-your-blog-brand-or-business">3 Ways to Use New Instagram Slideshow Posts for Your Blog, Brand or Business</a></div></div></div></div>
+</div>
+<div class="views-row views-row-4 views-row-even">
+<div about="/social-business/linkedin-membership-levels-free-vs-premium-vs-sales-navigator" typeof="sioc:Item foaf:Document" id="node-post-4339791" class="ds-1col node node-post view-mode-menu_teaser node-not-promoted node-not-sticky author-104183 even clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><a href="/social-business/linkedin-membership-levels-free-vs-premium-vs-sales-navigator">LinkedIn Membership Levels: Free vs Premium vs Sales Navigator</a></div></div></div></div>
+</div>
+<div class="views-row views-row-5 views-row-odd views-row-last">
+<div about="/social-business/twitters-providing-new-dm-personalization-tool-brands" typeof="sioc:Item foaf:Document" id="node-post-4339762" class="ds-1col node node-post view-mode-menu_teaser node-not-promoted node-not-sticky author-209482 odd clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><a href="/social-business/twitters-providing-new-dm-personalization-tool-brands">Twitter&#039;s Providing a New DM Personalization Tool for Brands</a></div></div></div></div>
+</div>
+</div>
+</div></div></li><li id="menu-11911-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><div class="menu-views"><div class="view view--menu-social-business-second view-id-_menu_social_business_second view-display-id-block view-dom-id-0de1bb14146f780b43aad9c8439c5fed">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div about="/social-business/most-discussed-issues-facebook-and-instagram-january-infographic" typeof="sioc:Item foaf:Document" id="node-post-4339758" class="ds-1col node node-post view-mode-menu_teaser node-not-promoted node-not-sticky author-209482 even clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><a href="/social-business/most-discussed-issues-facebook-and-instagram-january-infographic">The Most Discussed Issues on Facebook and Instagram in January [Infographic]</a></div></div></div></div>
+</div>
+<div class="views-row views-row-2 views-row-even">
+<div about="/social-business/9-social-media-tips-world-class-marketing-pros-infographic" typeof="sioc:Item foaf:Document" id="node-post-4339712" class="ds-1col node node-post view-mode-menu_teaser node-not-promoted node-not-sticky author-177063 odd clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><a href="/social-business/9-social-media-tips-world-class-marketing-pros-infographic">9 Social Media Tips from World-Class Marketing Pros [Infographic]</a></div></div></div></div>
+</div>
+<div class="views-row views-row-3 views-row-odd">
+<div about="/social-business/pinterest-announces-expansion-promoted-pins-new-markets" typeof="sioc:Item foaf:Document" id="node-post-4339781" class="ds-1col node node-post view-mode-menu_teaser node-not-promoted node-not-sticky author-209482 even clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><a href="/social-business/pinterest-announces-expansion-promoted-pins-new-markets">Pinterest Announces Expansion of Promoted Pins into New Markets</a></div></div></div></div>
+</div>
+<div class="views-row views-row-4 views-row-even views-row-last">
+<div about="/social-business/5-reasons-use-facebook-messenger-business-facebook" typeof="sioc:Item foaf:Document" id="node-post-4339637" class="ds-1col node node-post view-mode-menu_teaser node-not-promoted node-not-sticky author-209482 odd clearfix clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><a href="/social-business/5-reasons-use-facebook-messenger-business-facebook">5 Reasons to Use Facebook Messenger for Business – From Facebook</a></div></div></div></div>
+</div>
+</div>
+</div></div></li><li id="menu-11816-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/tags/community" title="" class="sf-depth-2">Community</a></li><li id="menu-11821-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/tags/customer-service" title="" class="sf-depth-2">Customer Service</a></li><li id="menu-11826-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/tags/employee-advocacy" title="" class="sf-depth-2">Employee Advocacy</a></li><li id="menu-11831-1" class="middle even sf-item-6 sf-depth-2 sf-no-children"><a href="/tags/leadership" title="" class="sf-depth-2">Leadership</a></li><li id="menu-11836-1" class="middle odd sf-item-7 sf-depth-2 sf-no-children"><a href="/tags/small-business" title="" class="sf-depth-2">Small Business</a></li><li id="menu-11841-1" class="last even sf-item-8 sf-depth-2 sf-no-children"><a href="/tags/social-organization" title="" class="sf-depth-2">Social Organization</a></li></ul></li><li id="menu-11846-1" class="middle even sf-item-6 sf-depth-1 sf-no-children"><a href="http://www.socialshakeupshow.com/" title="" class="sf-depth-1">EVENT</a></li><li id="menu-22185-1" class="middle odd sf-item-7 sf-depth-1 sf-no-children"><a href="http://www.socialmediatoday.com/sign-up" title="" class="sf-depth-1">NEWSLETTER</a></li><li id="menu-11851-1" class="last even sf-item-8 sf-depth-1 sf-no-children"><a href="/my-smt/dashboard" class="sf-depth-1"><strong>MY SMT</strong></a></li></ul> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="grid-6 region region-header-second" id="region-header-second">
+<div class="region-inner region-header-second-inner">
+<div class="block block-block block-31 block-block-31 odd block-without-title" id="block-block-31">
+<div class="block-inner clearfix">
+<div class="content clearfix">
+<p>At Social Media Today we’re always working to bring you the latest insights into the world of social media marketing. Our <a href="http://www.socialmediatoday.com/sign-up">newsletter</a> can help deliver that directly to you daily.</p>
+</div>
+</div>
+</div>
+<div class="block block-adzerk block-azk0 block-adzerk-azk0 even block-without-title" id="block-adzerk-azk0">
+<div class="block-inner clearfix">
+<div class="content clearfix">
+<div id="azk0"></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></header>
+<section id="section-content" class="section section-content">
+<div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix"> <div id="zone-content" class="zone zone-content clearfix container-12">
+<div class="grid-9 region region-content" id="region-content">
+<div class="region-inner region-content-inner">
+<a id="main-content"></a>
+<div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main">
+<div class="block-inner clearfix">
+<div class="content clearfix">
+<div about="/social-business/exploring-fashion-focused-twitter-infographic" typeof="sioc:Item foaf:Document" id="node-post-4338853" class="ds-1col node node-post view-mode-full node-not-promoted node-not-sticky author-209482 even clearfix clearfix">
+<div class="field field-name-field-tags field-type-entityreference field-label-inline clearfix"><div class="field-label">Explore more:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="ds-1col taxonomy-term vocabulary-tags view-mode-default clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/tags/twitter">Twitter</a></div></div></div></div>
+</div><div class="field-item odd"><div class="ds-1col taxonomy-term vocabulary-tags view-mode-default clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/tags/twitter-marketing">twitter marketing</a></div></div></div></div>
+</div><div class="field-item even"><div class="ds-1col taxonomy-term vocabulary-tags view-mode-default clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/tags/fashion">fashion</a></div></div></div></div>
+</div><div class="field-item odd"><div class="ds-1col taxonomy-term vocabulary-tags view-mode-default clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/tags/fashion-and-beauty">fashion and beauty</a></div></div></div></div>
+</div><div class="field-item even"><div class="ds-1col taxonomy-term vocabulary-tags view-mode-default clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/tags/fashion-week">Fashion Week</a></div></div></div></div>
+</div><div class="field-item odd"><div class="ds-1col taxonomy-term vocabulary-tags view-mode-default clearfix">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/tags/infographic">infographic</a></div></div></div></div>
+</div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h3>Exploring the Fashion-Focused on Twitter [Infographic]</h3></div></div></div><div class="field field-name-share-this field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="sharethis-wrapper"><span st_url="http://www.socialmediatoday.com/social-business/exploring-fashion-focused-twitter-infographic" st_title="Exploring the Fashion-Focused on Twitter [Infographic]" class="st_twitter_hcount" st_via="socialmedia2day" st_username="" displayText="twitter"></span>
+<span st_url="http://www.socialmediatoday.com/social-business/exploring-fashion-focused-twitter-infographic" st_title="Exploring the Fashion-Focused on Twitter [Infographic]" class="st_linkedin_hcount" displayText="linkedin"></span>
+<span st_url="http://www.socialmediatoday.com/social-business/exploring-fashion-focused-twitter-infographic" st_title="Exploring the Fashion-Focused on Twitter [Infographic]" class="st_facebook_hcount" displayText="facebook"></span>
+<span st_url="http://www.socialmediatoday.com/social-business/exploring-fashion-focused-twitter-infographic" st_title="Exploring the Fashion-Focused on Twitter [Infographic]" class="st_reddit_hcount" displayText="reddit"></span>
+<span st_url="http://www.socialmediatoday.com/social-business/exploring-fashion-focused-twitter-infographic" st_title="Exploring the Fashion-Focused on Twitter [Infographic]" class="st_googleplus_hcount" displayText="googleplus"></span>
+<span st_url="http://www.socialmediatoday.com/social-business/exploring-fashion-focused-twitter-infographic" st_title="Exploring the Fashion-Focused on Twitter [Infographic]" class="st_email_hcount" displayText="email"></span>
+<span st_url="http://www.socialmediatoday.com/social-business/exploring-fashion-focused-twitter-infographic" st_title="Exploring the Fashion-Focused on Twitter [Infographic]" class="st_sharethis_hcount" displayText="sharethis"></span>
+<span st_url="http://www.socialmediatoday.com/social-business/exploring-fashion-focused-twitter-infographic" st_title="Exploring the Fashion-Focused on Twitter [Infographic]" class="st_pinterest_hcount" displayText="pinterest"></span>
+<span st_url="http://www.socialmediatoday.com/social-business/exploring-fashion-focused-twitter-infographic" st_title="Exploring the Fashion-Focused on Twitter [Infographic]" class="st_fblike_hcount" displayText="fblike"></span>
+</div></div></div></div><div class="field field-name-post-date-author-name field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p>February 16, 2017 <a href="http://www.socialmediatoday.com/users/adhutchinson">Andrew Hutchinson</a></p>
+</div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Twitter has released a <a href="https://blog.twitter.com/en-gb/2017/lfw-london-fashion-week-is-happening-on-twitter" rel="nofollow">new infographic</a> which outlines the findings of their latest research into the fashion-focused audience on the platform.</p>
+<p>As part of the lead up to London Fashion Week (17<sup>th</sup> to 21<sup>st</sup> February), Twitter <a href="https://blog.twitter.com/en-gb/2017/lfw-london-fashion-week-is-happening-on-twitter" rel="nofollow">commissioned Nielsen</a> to get an overview of the fashion-related interests and behaviors of Twitter users.</p>
+<p>Their research showed that:</p>
+<ul><li>76% of Twitter users are interested in fashion and fashion trends</li>
+<li>43% of users look to influencers - such as models and designers - for fashion inspiration on the platform</li>
+<li>Twitter users are 75% more likely than non-users to buy clothes that are on trend</li>
+</ul><p>Those are some pretty compelling stats – while most would associate visual-focused platforms like Pinterest and Instagram with <a href="http://www.socialmediatoday.com/social-business/pinterest-releases-report-beauty-trends-and-opportunities-brands">fashion trends</a>, the data here would suggest that Twitter should also be a key consideration for fashion brands.</p>
+<p>You can check out the full Twitter <a href="https://blog.twitter.com/en-gb/2017/lfw-london-fashion-week-is-happening-on-twitter" rel="nofollow">#Fashion2017</a> infographic below.</p>
+<p><img alt="Exploring the Fashion-Focused on Twitter [Infographic] | Social Media Today" src="/sites/default/files/adhutchinson/files/twitter%20fashion%20info.png" style="width: 612px; height: 792px; display: block; margin-left: auto; margin-right: auto;"/></p>
+</div></div></div><div class="field field-name-chartbeat-tracking field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><script type='text/javascript'>
+    var _sf_async_config={};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 59854;
+    _sf_async_config.domain = 'socialmediatoday.com';
+    _sf_async_config.useCanonical = false;
+    _sf_async_config.path='http://www.socialmediatoday.com/social-business/exploring-fashion-focused-twitter-infographic';
+    _sf_async_config.sections = 'Social Business'; 
+    _sf_async_config.authors = 'Andrew Hutchinson';   
+    /** CONFIGURATION END **/
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+</script>
+ 
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "19915597" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=19915597&cv=2.0&cj=1"/>
+</noscript>
+ </div></div></div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<aside class="grid-3 region region-sidebar-second" id="region-sidebar-second">
+<div class="region-inner region-sidebar-second-inner">
+<section class="block block-views block-author-information-block block-views-author-information-block odd" id="block-views-author-information-block">
+<div class="block-inner clearfix">
+<h2 class="block-title">Author Information</h2>
+<div class="content clearfix">
+<div class="view view-author-information view-id-author_information view-display-id-block view-dom-id-3d0caf3dcc92b2b5d1d94ecf59997a9b">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-picture"> <div class="field-content"><a href="/users/adhutchinson"><img typeof="foaf:Image" src="http://www.socialmediatoday.com/sites/default/files/styles/author_image__90x90_/public/pictures/picture-209482-1405435052.jpg?itok=gkeAady0" width="90" height="90" alt=""/></a></div> </div>
+<div class="views-field views-field-view-user"> <span class="field-content"><a href="/users/adhutchinson"><span class="author-name">Andrew Hutchinson</span>
+<span class="author-job-title">Writer/Moderator</span></a></span> </div>
+<div class="views-field views-field-field-user-twitter-url"> <div class="field-content"><a href="https://twitter.com/adhutchinson" target="_blank/">@adhutchinson</a></div> </div> </div>
+</div>
+</div> </div>
+</div>
+</section>
+<section class="block block-block block-145 block-block-145 even" id="block-block-145">
+<div class="block-inner clearfix">
+<h2 class="block-title">Sign up for the Social Media Today newsletter</h2>
+<div class="content clearfix">
+<div>
+<form action="http://www.marketingdive.com/signup/smt-marketing/" id="smt-sidebar-signup-form" method="POST">
+<p>You'll get a daily email with the latest news, lessons, and insights on:</p>
+<ul><li>Social Media</li>
+<li>Marketing</li>
+<li>Digital Strategy</li>
+<li>and more</li>
+</ul><div><input class="email" id="id_email" name="email" placeholder="Enter your work email address" type="email"/></div>
+<div><input checked="checked" id="id_site_newsletters_1" name="site_newsletters" style="display: none" type="checkbox" value="47"/><label for="id_site_newsletters_0"> <input class="checkbox" id="id_site_newsletters_0" name="site_newsletters" type="checkbox" value="7"/> Yes, I'd like to receive Marketing Dive's daily newsletter as well. <a href="https://s3.amazonaws.com/dive_static/diveimages/MarketingDive_sample20151208.jpg" target="_blank" rel="nofollow">Preview</a> </label></div>
+<input name="signup_utm_medium" type="hidden" value="SMT-sidebar"/><input name="signup_utm_source" type="hidden" value="internal"/><input name="signup_utm_campaign" type="hidden" value="SMT"/><input class="submit" type="submit" value="Subscribe"/> </form>
+</div>
+</div>
+</div>
+</section>
+<div class="block block-adzerk block-azk1 block-adzerk-azk1 odd block-without-title" id="block-adzerk-azk1">
+<div class="block-inner clearfix">
+<div class="content clearfix">
+<div id="azk1"></div> </div>
+</div>
+</div>
+<section class="block block-views block-related-items-block block-views-related-items-block even" id="block-views-related-items-block">
+<div class="block-inner clearfix">
+<h2 class="block-title">Related Items</h2>
+<div class="content clearfix">
+<div class="view view-related-items view-id-related_items view-display-id-block view-dom-id-e51ca86776ecb0f1e38f0cf6a181dfb7">
+<div class="view-content">
+<div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first"><div about="/social-business/twitters-providing-new-dm-personalization-tool-brands" typeof="sioc:Item foaf:Document" id="node-post-4339762" class="ds-1col node node-post view-mode-related_items_featured node-not-promoted node-not-sticky author-209482 odd clearfix clearfix">
+<div class="field field-name-related-items-title-ga-tracked- field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h3><a href="http://www.socialmediatoday.com/social-business/twitters-providing-new-dm-personalization-tool-brands?utm_source=web&utm_medium=links&utm_content=Twitter&#039;s Providing a New DM Personalization Tool for Brands&utm_campaign=related-items">Twitter&#039;s Providing a New DM Personalization Tool for Brands</a></h3></div></div></div><div class="field field-name-field-post-main-image field-type-file field-label-hidden"><div class="field-items"><div class="field-item even"><div class="ds-1col file file-image file-image-jpeg view-mode-image_medium_250_x_150 clearfix">
+<a href="/social-business/twitters-providing-new-dm-personalization-tool-brands"><img typeof="foaf:Image" src="http://www.socialmediatoday.com/sites/default/files/styles/featured-medium-250x150/public/post_main_images/tweet_conversations.jpeg?itok=CCy0_wYR" width="250" height="150" alt="Twitter&amp;#039;s Providing a New DM Personalization Tool for Brands | Social Media Today"/></a></div>
+</div></div></div></div>
+</li>
+<li class="views-row views-row-2 views-row-even"><div about="/social-networks/4-key-lessons-some-biggest-brand-twitter-fails" typeof="sioc:Item foaf:Document" id="node-post-4339558" class="ds-1col node node-post view-mode-related_items_list node-not-promoted node-not-sticky author-1335445 even clearfix clearfix">
+<div class="field field-name-related-items-title-ga-tracked- field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h3><a href="http://www.socialmediatoday.com/social-networks/4-key-lessons-some-biggest-brand-twitter-fails?utm_source=web&utm_medium=links&utm_content=4 Key Lessons from Some of the Biggest Brand Twitter Fails&utm_campaign=related-items">4 Key Lessons from Some of the Biggest Brand Twitter Fails</a></h3></div></div></div></div>
+</li>
+<li class="views-row views-row-3 views-row-odd views-row-last"><div about="/social-business/twitter-plans-double-live-stream-programming-2017" typeof="sioc:Item foaf:Document" id="node-post-4339030" class="ds-1col node node-post view-mode-related_items_list node-not-promoted node-not-sticky author-209482 odd clearfix clearfix">
+<div class="field field-name-related-items-title-ga-tracked- field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h3><a href="http://www.socialmediatoday.com/social-business/twitter-plans-double-live-stream-programming-2017?utm_source=web&utm_medium=links&utm_content=Twitter Plans to Double Live-Stream Programming in 2017&utm_campaign=related-items">Twitter Plans to Double Live-Stream Programming in 2017</a></h3></div></div></div></div>
+</li>
+</ul></div> </div>
+</div> </div>
+</div>
+</section>
+<div class="block block-adzerk block-azk2 block-adzerk-azk2 odd block-without-title" id="block-adzerk-azk2">
+<div class="block-inner clearfix">
+<div class="content clearfix">
+<div id="azk2"></div> </div>
+</div>
+</div>
+</div>
+</aside>
+</div>
+</div><div id="zone-postscript-wrapper" class="zone-wrapper zone-postscript-wrapper clearfix"> <div id="zone-postscript" class="zone zone-postscript clearfix container-12">
+<div class="grid-3 region region-postscript-first clearfix" id="region-postscript-first">
+<div class="region-inner region-postscript-first-inner">
+<section class="block block-block block-51 block-block-51 odd" id="block-block-51">
+<div class="block-inner clearfix">
+<h2 class="block-title"><strong>Join The</strong> Conversation</h2>
+<div class="content clearfix">
+<p><a href="/user">SIGN IN</a> | <a href="/user/register">REGISTER TO COMMENT</a></p> </div>
+</div>
+</section>
+<section class="block block-menu block-menu-call-to-action block-menu-menu-call-to-action even" id="block-menu-menu-call-to-action">
+<div class="block-inner clearfix">
+<h2 class="block-title"><strong>Learn</strong> More</h2>
+<div class="content clearfix">
+<ul class="menu"><li class="first leaf"><a href="http://www.socialmediatoday.com/sign-up" title="" class="menu_icon menu-12026"><span><strong>Get Our</strong> Newsletter</span></a></li>
+<li class="leaf"><a href="/white-papers" title="" class="menu_icon menu-12041"><span><strong>Download</strong> White Papers</span></a></li>
+<li class="leaf"><a href="/tags/infographic" title="" class="menu_icon menu-22075"><span><strong>View</strong> Latest Infographics</span></a></li>
+<li class="last leaf"><a href="http://www.marketingdive.com/" title="" class="menu_icon menu-22074"><span><strong>Read</strong> Marketing News</span></a></li>
+</ul> </div>
+</div>
+</section>
+<section class="block block-views block-a9867728e1b1f53cbba22186ed031805 block-views-a9867728e1b1f53cbba22186ed031805 odd" id="block-views-a9867728e1b1f53cbba22186ed031805">
+<div class="block-inner clearfix">
+<h2 class="block-title">Webinars On Demand</h2>
+<div class="content clearfix">
+<div class="view view-clone-of-learn-more-upcoming-webinars view-id-clone_of_learn_more_upcoming_webinars view-display-id-block view-dom-id-9d6a2a767fb312f59b5057e83d745f60">
+<div class="view-content">
+<div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-title"> <span class="field-content"><a href="/webinar/2017-01-11/end-manual-marketing-using-data-achieve-efficiency-and-accuracy-pr-and">The End of Manual Marketing: Using Data to Achieve Efficiency and Accuracy in PR and Communications</a></span> </div>
+<div class="views-field views-field-field-webinar-date"> <div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2017-01-25T02:00:00-05:00">January 25, 2017</span></div> </div>
+<div class="views-field views-field-body"> <span class="field-content">While we’ve had access to the Internet since the early 1990s, we’ve only started to experience the full effects of its disruption on public rela...</span> </div></li>
+<li class="views-row views-row-2 views-row-even views-row-last">
+<div class="views-field views-field-title"> <span class="field-content"><a href="/webinar/2016-11-29/social-media-rising-star-your-digital-marketing-strategy">Social Media: The Rising Star for Your Digital Marketing Strategy</a></span> </div>
+<div class="views-field views-field-field-webinar-date"> <div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2016-12-07T14:00:00-05:00">December 07, 2016</span></div> </div>
+<div class="views-field views-field-body"> <span class="field-content">It's finally happened, social media has grown up and sold out. And it's awesome. For digital marketers, the maturing advertising options on soci...</span> </div></li>
+</ul></div> </div>
+</div> </div>
+</div>
+</section>
+<section class="block block-views block-962f7401cb5696065f570ac698c2846b block-views-962f7401cb5696065f570ac698c2846b even" id="block-views-962f7401cb5696065f570ac698c2846b">
+<div class="block-inner clearfix">
+<h2 class="block-title">Whitepapers</h2>
+<div class="content clearfix">
+<div class="view view-learn-more-upcoming-webinars view-id-learn_more_upcoming_webinars view-display-id-block view-dom-id-770e70b1efd12bd8ffaacdc6e8e21128">
+<div class="view-content">
+<div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-title"> <span class="field-content"><a href="/white-papers/how-create-video-speed-social-6-ways-get-video-produced-faster">How to Create Video at the Speed of Social: 6 Ways to Get Video Produced Faster</a></span> </div>
+<div class="views-field views-field-body"> <span class="field-content">Video is expected to account for three-quarters of all mobile traffic by 2020.  But, creating powerful, effective video requires a significa...</span> </div></li>
+<li class="views-row views-row-2 views-row-even views-row-last">
+<div class="views-field views-field-title"> <span class="field-content"><a href="/white-papers/leveraging-psychology-digital-marketing">Leveraging Psychology in Digital Marketing</a></span> </div>
+<div class="views-field views-field-body"> <span class="field-content">Marketers are constantly seeking to engage with their buyers and drive actions that help buyers move rapidly through their customer lifecycl...</span> </div></li>
+</ul></div> </div>
+</div> </div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div></section>
+<footer id="section-footer" class="section section-footer">
+<div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix"> <div id="zone-footer" class="zone zone-footer clearfix container-12">
+<div class="grid-12 region region-footer-first" id="region-footer-first">
+<div class="region-inner region-footer-first-inner">
+<section class="block block-block block-41 block-block-41 odd" id="block-block-41">
+<div class="block-inner clearfix">
+<h2 class="block-title"><strong>Contact</strong> Us</h2>
+<div class="content clearfix">
+<p>If you have an editorial inquiry, please contact us at <a href="mailto:socialmediatoday@socialmediatoday.com">socialmediatoday@socialmediatoday.com</a></p>
+<p>If you have a technical question, please contact us at <a href="mailto:support_team@socialmediatoday.com">support_team@socialmediatoday.com</a></p>
+<p>For all other inquiries, please see our<br/><a href="/contact">CONTACT PAGE</a></p>
+</div>
+</div>
+</section>
+<div class="block block-menu block-menu-footer-menu block-menu-menu-footer-menu even block-without-title" id="block-menu-menu-footer-menu">
+<div class="block-inner clearfix">
+<div class="content clearfix">
+<ul class="menu"><li class="first leaf"><a href="/about-us" title=""><strong>About</strong> Us</a></li>
+<li class="leaf"><a href="http://www.socialmediatoday.com/contribute" title=""><strong>Contribute</strong></a></li>
+<li class="leaf"><a href="/work-with-us" title=""><strong>Advertise/Sponsor</strong></a></li>
+<li class="leaf"><a href="http://www.industrydive.com/privacy-policy/" title="node/42356"><strong>Privacy</strong> Policy</a></li>
+<li class="leaf"><a href="http://www.industrydive.com/terms-of-use/" title="node/42396"><strong>Terms</strong> of Use</a></li>
+<li class="last leaf"><a href="http://www.industrydive.com/takedown-policy/" title=""><strong>DMCA</strong> Takedown Policy</a></li>
+</ul> </div>
+</div>
+</div>
+<section class="block block-menu block-menu-menu-connect-with-smt block-menu-menu-menu-connect-with-smt odd" id="block-menu-menu-menu-connect-with-smt">
+<div class="block-inner clearfix">
+<h2 class="block-title">Connect With SMT</h2>
+<div class="content clearfix">
+<ul class="menu"><li class="first leaf"><a href="https://twitter.com/socialmedia2day" title="">Twitter <i class="icon-twitter"></i></a></li>
+<li class="leaf"><a href="https://www.linkedin.com/groups/66275" title="">Linkedin <i class="icon-linkedin"></i></a></li>
+<li class="leaf"><a href="https://www.facebook.com/socmediatoday" title="">Facebook <i class="icon-facebook"></i></a></li>
+<li class="leaf"><a href="http://www.socialmediatoday.com/sign-up" title="">Newsletter</a></li>
+<li class="leaf"><a href="https://plus.google.com/+SocialMediaToday/posts" title="">Google + <i class="icon-google-plus"></i></a></li>
+<li class="leaf"><a href="https://www.pinterest.com/socialmedia2day/" title="">Pinterest <i class="icon-pinterest"></i></a></li>
+<li class="leaf"><a href="https://www.youtube.com/user/SocialMediaToday" title="">YouTube <i class="icon-youtube"></i></a></li>
+<li class="last leaf"><a href="http://feeds.feedburner.com/socialmediatoday_allposts" title="">RSS Feed</a></li>
+</ul> </div>
+</div>
+</section>
+<div class="block block-block block-46 block-block-46 even block-without-title" id="block-block-46">
+<div class="block-inner clearfix">
+<div class="content clearfix">
+<p>©2016 socialmediatoday.com All rights reserved</p>
+</div>
+</div>
+</div>
+<div class="block block-block block-144 block-block-144 odd block-without-title" id="block-block-144">
+<div class="block-inner clearfix">
+<div class="content clearfix">
+<div id="advert_interstitial" class="modal_dialog" style="display:none;text-align:center;"></div>
+<script type="text/javascript" src="/sites/all/themes/smtrelaunch/js/jquery.simplemodal.1.4.2.min.js"></script><script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+    (function($){
+        var setCookie = function(c_name, value, expiredays) {
+            var exdate = new Date();
+            exdate.setDate(exdate.getDate() + expiredays);
+            document.cookie = c_name + "=" + escape(value) +
+                ((expiredays == null) ? "" : ";expires=" + exdate.toUTCString()) + "; path=/";
+        }
+
+        var days_between_prestitial = 7; // only show every 7 days
+
+        // "possible" prestitial tracking for ad inventory reporting. _prestitialViewed is used
+        //  for deciding whether or not it's time to show the ad
+        if(document.cookie.indexOf("_prestitialPossible") == -1) {
+            if (typeof mixpanel !== 'undefined') {
+                var sample_size = 10; // only one out of every `sample_size` events is recorded
+                // we do this to save bandwidth/overhead
+                if (Math.floor(Math.random()*sample_size)+1==1) {
+                    mixpanel.track(
+                        "prestitial possible",
+                        {
+                            'sample_size': sample_size,
+                            'url': window.location.href.replace(/[\?\#].*$/,'')
+                        }
+                    );
+                }
+            }
+            setCookie("_prestitialPossible", (new Date()).getTime(), days_between_prestitial);
+        }
+
+         // exceute on interstitial
+        function close_interstitial_ad() {
+            if ((typeof mixpanel !== 'undefined') && ($('.simplemodal-overlay').is(':visible'))) {
+                mixpanel.track(
+                    "prestitial closed",
+                    {
+                        'closed_by': 'user',
+                        'url':  window.location.href.replace(/[\?\#].*$/,'')
+                    }
+                );
+            }
+            $('.simplemodal-overlay').hide();
+            $.modal.close();
+        }
+
+        function open_interstitial_ad() {
+            if (typeof mixpanel !== 'undefined') {
+                mixpanel.track(
+                    "prestitial shown",
+                    {
+                        'url':  window.location.href.replace(/[\?\#].*$/,'')
+                    }
+                );
+            }
+            // store current timestamp
+            setCookie("_prestitialViewed", (new Date()).getTime(), days_between_prestitial);
+            $("#advert_interstitial script").remove(); // otherwise firefox security blocks modal
+            $("#advert_interstitial").modal({
+                minWidth: $("#advert_interstitial").width(),
+                minHeight: $("#advert_interstitial").height(),
+                autoResize: true,
+                autoPosition: true,
+                overlayClose: false,
+                opacity: 75,
+                // closeHTML: '<a href="#" title="Close" class="modal-close">',
+                onClose: close_interstitial_ad
+            });
+            // TODO: not sure why we need to explicitly set minWidth/minHeight ourselves
+
+            // wait a moment and then allow user to close by clicking on the background
+            setTimeout(function() {
+                $('.simplemodal-overlay').click(close_interstitial_ad);
+            }, 750);
+
+            // automatically close after 15 seconds
+            setTimeout(function() {
+                if (typeof mixpanel !== 'undefined') {
+                    if ($('.simplemodal-overlay').is(':visible')) {
+                        mixpanel.track(
+                            "prestitial closed",
+                            {
+                                'closed_by': 'timeout',
+                                'url':  window.location.href.replace(/[\?\#].*$/,'')
+                            }
+                        );
+                    }
+                }
+                $('.simplemodal-overlay').hide();
+                $.modal.close();
+            }, 1000 * 15);
+        }
+
+        // show modal dialog if (and only if) an ad has loaded
+        $(function() {
+            function attempt_popup(try_count) {
+                if (try_count > 20) return; // give up trying after 4 sec delay (20 attempts * 200ms = 4000ms)
+                // open_interstitial_ad(); return;
+                var ad_height = parseInt($("#advert_interstitial").height());
+                if (ad_height > 25) {
+                    open_interstitial_ad();
+                } else {
+                    // if ad hasn't loaded yet, wait and try again.
+                    setTimeout(function() {
+                        attempt_popup(try_count + 1)
+                    }, 200);
+                }
+            }
+            attempt_popup(1); // first attempt to show the ad (if loaded)
+        });
+        // determine whether to actually show prestitial based on cookie. Can also force it with ?prestitial_test or
+        //  skip it with ?prestitial_skip
+        var dive_load_prestitial = ((window.location.href.indexOf("?prestitial_test")>=0) || (document.cookie.indexOf("_prestitialViewed") == -1)) && (window.location.href.indexOf("?prestitial_skip") == -1);
+        dive_load_prestitial = dive_load_prestitial && ($(window).width() > 640) && ($(window).height() > 640);
+        if (dive_load_prestitial) {
+            // load the ad inline right at this spot
+            window.ados = window.ados || {};
+            ados.run = ados.run || [];
+            ados.run.push(function(){
+
+                ados_add_placement(862, 439371, "advert_interstitial", [925,5,2224,4,10,11,2480,2489,2492,569,2525,501,2630,1138,191,2668,2678,2716,309,2741,2737,929,374,828,1638,38]).setZone(156252);
+                ados_load();
+            });
+
+        }
+    })(jQuery);
+    
+
+//--><!]]>
+</script> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></footer>
+</div>
+<div class="region region-page-bottom" id="region-page-bottom">
+<div class="region-inner region-page-bottom-inner">
+</div>
+</div>
+<script type="text/javascript" src="http://www.socialmediatoday.com/sites/default/files/js/js_VU7P4CTgUZdF2SyFko5LLAg9ZK0OSVjXVaAFnTLgVt0.js"></script>
+<script type="text/javascript" src="http://www.socialmediatoday.com/sites/default/files/js/js_27jvQVeXagFAWu4HQcr8DUXEk4YN1W0lvZw1PLRmjAg.js"></script>
+</body>
+<script>/*<![CDATA[*/(function(w,a,b,d,s){w[a]=w[a]||{};w[a][b]=w[a][b]||{q:[],track:function(r,e,t){this.q.push({r:r,e:e,t:t||+new Date});}};var e=d.createElement(s);var f=d.getElementsByTagName(s)[0];e.async=1;e.src='//smt.socialmediatoday.com/cdnr/62/acton/bn/tracker/10375';f.parentNode.insertBefore(e,f);})(window,'ActOn','Beacon',document,'script');ActOn.Beacon.track();/*]]>*/</script>
+</html>

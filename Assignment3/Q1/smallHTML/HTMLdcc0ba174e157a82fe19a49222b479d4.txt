@@ -1,0 +1,195 @@
+<link href="p7stt/p7STT-01.css" rel="stylesheet" type="text/css" media="all" />
+<script type="text/javascript" src="p7stt/p7STTscripts.js"></script>
+<div id="p7STT_1" class="p7STT bottom dark"> <a id="p7STTa_1" class="p7STT-anchor" href="#"><i></i><span>Scroll To Top</span></a>
+  <script type="text/javascript">P7_STTop('p7STT_1',200,1,450)</script>
+</div><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+Wrestling League</title>
+<link href="css/wrestle_css.css" rel="stylesheet" type="text/css" />
+<link href="p7ccm/p7ccm01.css" rel="stylesheet" type="text/css" media="all" />
+<link href="p7ccm/p7ccm02.css" rel="stylesheet" type="text/css" media="all" />
+<link href="p7ccm/p7ccm-responsive.css" rel="stylesheet" type="text/css" media="all" />
+<!--[if lte IE 7]>
+<link href="/p7ie_fixes/p7ccm_ie.css" rel="stylesheet" type="text/css" media="all" />
+<![endif]-->
+<link href="p7pm3/p7PM3-01.css" rel="stylesheet" type="text/css" media="all" />
+<script type="text/javascript" src="p7pm3/p7PM3scripts.js"></script>
+</head>
+
+<body>
+<div id="p7CCM_1" class="p7CCM01 p7ccm01-outer-border p7ccm01-rounded p7ccm01-outer-shadow p7ccm01-auto">
+    <div id="p7CCM_1" class="p7CCM01 p7ccm01-outer-border p7ccm01-rounded p7ccm01-outer-shadow p7ccm01-auto">
+  <div id="p7CCM_1" class="p7CCM01 p7ccm01-outer-border p7ccm01-rounded p7ccm01-outer-shadow p7ccm01-auto">
+  <div class="p7ccm01-content-row p7ccm01-top-rounded p7ccm01-contrast p7ccm-row">
+    <div class="p7ccm01-1col-column1 p7ccm-col">
+      <div class="p7ccm01-1col-column1-cnt p7ccm01-content p7ccm01-top-rounded p7ccm01-no-padding">
+        <meta id="p7PM3" name="viewport" content="width=device-width" />
+<script type="text/javascript" src="p7pm3/p7PM3scripts.js"></script>
+<link href="p7pm3/p7PM3-08.css" rel="stylesheet" type="text/css" media="all" />
+<div id="p7PM3_1" class="p7PM3-08 p7PM3 p7PM3noscript horiz responsive menu-left rounded shadows transparent auto-subs sub-left">
+  <div id="p7PM3tb_1" class="pmm3-toolbar closed"><a href="#" title="Hide/Show Menu">&equiv;</a></div>
+  <ul class="closed">
+    <li><a href="index.php">Home</a>
+      <ul>
+        <li><a href="../contact_us.php">Contact Us</a></li>
+        <li><a href="index_archive.php">Home Page Articles Archive</a></li>
+      </ul>
+    </li>
+    <li><a href="my_home_page.php" title="Return to your personalized home page">My Team Page</a></li>
+    <li><a href="#" title="League Information Tag" class="MenuBarItemSubmenu">League Info</a>
+      <ul>
+        <li><a href="about_us.php" title="About Us">About</a></li>
+        <li><a href="team_listing.php" title="Team Listings">Team Listings</a></li>
+        <li><a href="team_rosters.php">Team Rosters</a></li>
+        <li><a href="directory_officers.php">Officers Directory</a></li>
+        <li><a href="directions.php">Directions</a></li>
+        <li><a href="../tournament_information.php">Tournament Information</a></li>
+        <li><a href="../schedule_listing_all.php" title="Schedules">Schedules</a></li>
+        <li><a href="bylaws.php" title="Bylaws">Bylaws</a></li>
+        <li><a href="forms.php" title="Forms">Forms</a></li>
+      </ul>
+    </li>
+    <li><a href="#" title="Results" class="MenuBarItemSubmenu">Wrestling Results</a>
+      <ul>
+        <li><a href="matches_by_date.php" title="View current season matches by date">Matches (All by Date)</a></li>
+        <li><a href="../matches_by_team.php">Matches (By Team)</a></li>
+        <li><a href="../win_loss.php" title="Team Standings">Team Standings</a></li>
+        <li><a href="../matches_by_individual.php" title="Search Out Individual Wrestlers">Individual</a></li>
+        <li><a href="../seeding.php" title="Seeding Results">Seeding</a></li>
+      </ul>
+    </li>
+    <li><a href="#" title="Online Entry" class="MenuBarItemSubmenu">Coaches Portal</a>
+      <ul>
+        <li><a href="directory_coaches.php">Coaches Directory</a></li>
+        <li><a href="#" title="Rosters" class="MenuBarItemSubmenu">Rosters</a>
+          <ul>
+            <li><a href="../roster_view.php" title="Click to see your teams roster">View Roster</a></li>
+            <li><a href="../roster_add.php" title="Add Wrestler(s)">Add Wrestler(s)</a></li>
+            <li><a href="../roster_view.php" title="Edit Wrestler(s)">Edit Wrestler(s)</a></li>
+            <li><a href="../roster_view.php" title="Delete Wrestler(s)">Delete Wrestler(s)</a></li>
+            <li><a href="../roster_newest_entries.php">Roster Additions</a></li>
+            <li><a href="../roster_update_cert_weights.php">Cert Weight Update Sheet</a></li>
+            <li><a href="../roster_update_seed_weights.php">Seed Weight Update Sheet</a></li>
+            <li><a href="../roster_illegal_cert_weights.php">Illegal Certification Weights</a></li>
+            <li><a href="../roster_noseed_wrestlers.php">No Seed Wrestlers</a></li>
+            <li><a href="../tournament_roster.php" title="Tournament Rosters">Tournament Rosters</a></li>
+          </ul>
+        </li>
+        <li><a href="#" title="Matches" class="MenuBarItemSubmenu">Matches</a>
+          <ul>
+            <li><a href="user_match_entry_setup.php" title="Match Entry">Match Entry</a></li>
+            <li><a href="user_match_fix.php" title="Add, Edit or Delete Bouts">Fix Match Varsity</a></li>
+            <li><a href="user_match_fix_JV.php" title="Fix JV Match">Fix Match JV</a></li>
+            <li><a href="#" title="Report Error in Match Entry">Report Error</a></li>
+            <li><a href="../bout_numbers.php">Incorrect Number Of Bouts</a></li>
+          </ul>
+        </li>
+        <li><a href="#" class="MenuBarItemSubmenu">FAQs</a>
+          <ul>
+            <li><a href="faq_general.php" title="General FAQ">General FAQs</a></li>
+            <li><a href="faq_match_entry.php" title="Match Entry FAQ Section">Match Entry</a></li>
+            <li><a href="faq_rosters.php" title="FAQ section dedicated to team rosters">Rosters</a></li>
+            <li><a href="faq_tournament.php" title="FAQ section dedicated to tournament questions">Tournament</a></li>
+          </ul>
+        </li>
+        <li><a href="../broadcast_message_review.php">Broadcast Message Archive</a></li>
+        <li><a href="../multi_team.php">Multi-Team Switch</a></li>
+        <li><a href="../error_reporting.php" title="Error Reports">Error Reporting</a></li>
+      </ul>
+    </li>
+    <li><a href="../schedule_listing_all.php" title="Contact">Schedule</a></li>
+    <li><a href="../admin_panel.php">Admin Panel</a></li>
+  </ul>
+  <script type="text/javascript">P7_PM3op('p7PM3_1',1,5,-5,-5,0,1,0,1,0,1,1,1,0,900,1,0,0)</script>
+</div>
+      </div>
+    </div>
+  </div>
+  <div class="p7ccm01-content-row p7ccm01-accent p7ccm-row">
+    <div class="p7ccm01-1col-column1 p7ccm-col">
+      <div class="p7ccm01-1col-column1-cnt p7ccm01-content">
+      	<span class="text_Jumbo_White">
+        	<p><img class="fr-dib fr-fil" style="width: 300px;" src="/uploads/header/ccd466b4d646d4a54fbc05da5336f5db7db77832.png"><br></p>      	</span>      
+      </div>
+    </div>
+  </div>
+  <div class="p7ccm01-content-row p7ccm-row">
+    <div class="p7ccm01-1col-column1 p7ccm-col">
+      <div class="p7ccm01-1col-column1-cnt p7ccm01-content">
+      
+      
+      
+    <p class="PageName">Bouts for  vs. </p>
+    <p class="InstructionBox"><img src="images/icons/info.png" alt="Information" width="32" height="32" hspace="5" vspace="5" border="0" align="absmiddle" />Below are all records captured for the event listed. Click on a wrestlers name to view their individual bouts.</p>
+    <blockquote>
+      <table border="0" cellpadding="8" class="QuickLinkPanel">
+        <tr>
+          <td><span class="Text_Medium"><a href="matches_by_date.php">All Matches</a> &nbsp;&nbsp;<a href="matches_by_team.php?Team_Name="> Matches</a>&nbsp;&nbsp;<a href="matches_by_team.php?Team_Name="> Matches</a></span></td>
+        </tr>
+      </table>
+
+	<strong><br /> 
+	Bouts Entered By:</strong>
+        	          	 
+        <br/>
+		  </p>
+      <p class="Text_Medium"><a href="error_reporting.php?Match_Date_URL=&amp;Home_Team_URL=&amp;Visiting_Team_URL=#ErrorReportingForm">
+
+      <img src="images/icons/bout_error.png" alt="Bout Error" width="38" height="38" hspace="5" vspace="5" border="0" align="absmiddle" />Report a Entry Error For THIS Match</a>
+                <br />
+      </p>
+           <p><span class="Text_Large">Varsity Match &nbsp;|&nbsp; vs.  | Match Score: - &nbsp;&nbsp;</span> <br /></p>
+    </blockquote>
+    <table border="0" align="center" cellpadding="10" cellspacing="0" id="InfoTable">
+      <tr class="Table_Header">
+        <td align="right">WGT</td>
+        <td>Wrestler (H)</td>
+        <td> Wrestler (V)</td>
+        <td align="left" nowrap="nowrap">Result (H)</td>
+        <td align="center">Bout (H|V)&nbsp;</td>
+        <td align="center">&nbsp;Seed (H|V)</td>
+        <td align="center">&nbsp;Match (H|V)&nbsp;</td>
+        <td align="center">Bout Time</td>
+      </tr>
+              <tr class="Table_Row" onmouseover="this.oldClassName = this.className; this.className='Table_Row_Highlight';" onmouseout="this.className = this.oldClassName;">
+          <td align="right"></td>
+          <td><a href="matches_individual_bouts.php?Wrestler_Name="></a></td>
+          <td><a href="matches_individual_bouts.php?Wrestler_Name="></a></td>
+          <td align="left"></td>
+          <td align="center">-</td>
+          <td align="center">-</td>
+          <td align="center">&nbsp;-&nbsp;</td>
+          <td align="center"></td>
+        </tr>
+            </table>
+    <p><br />
+      <a href="#">Return to Top</a>
+    </p>
+    <p>&nbsp; </p>
+  <!-- end #mainContent -->
+      
+      
+      </div>
+    </div>
+  </div>
+  <div class="p7ccm01-content-row p7ccm01-trans p7ccm-row">
+      <div class="p7ccm01-1col-column1 p7ccm-col">
+        <div class="p7ccm01-1col-column1-cnt p7ccm01-content p7ccm01-no-padding">
+          <div id="p7CCM_6" class="p7CCM02 p7ccm02-auto">
+            <div class="p7ccm02-content-row p7ccm02-contrast p7ccm-row">
+              <div class="p7ccm02-1col-column1 p7ccm-col">
+                <div class="p7ccm02-1col-column1-cnt p7ccm02-content"><span class="text_Medium_Grey">
+              <p>  &copy; Copyright 2017 | <a href="../index.php">Home</a> | <a href="#">Return to Top</a> | Site Designed by Kinglin | <a href="../admin_panel.php" title="Link to Admin Panel - You will need the proper authorization to view it.">Admin Panel</a> | <a href="../logout.php">Logout</a>              </p>  </span>                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</div>
+</body>
+</html>

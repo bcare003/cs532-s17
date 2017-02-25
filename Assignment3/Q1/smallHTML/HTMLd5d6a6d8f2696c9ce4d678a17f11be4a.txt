@@ -1,0 +1,2055 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<base href="https://qwikad.com/697">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Optima Batteries Digital 1200 Battery Charger 150-34178 and FREE SHIPPING - Worldwide, Worldwide</title>
+
+<meta name="keywords" content="boats, yachts, campers, cars, motorcycles, parts, RVs, trailers, SUVs, trucks, vans, wheels, tires, automotive">
+<meta name="description" content="Optima Batteries Digital 1200 Battery Charger 150-34178 and FREE SHIPPING - Worldwide, Worldwide">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, user-scalable=yes">
+<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="editor/wmd/wmd.css">
+<link rel="stylesheet" type="text/css" href="pager.css">
+<link rel="stylesheet" type="text/css" href="cal.css">
+<link rel="stylesheet" href="newfonts/reg.css">
+<link rel="stylesheet" href="newfonts/reg_more.css">
+<!--[if lt IE 8]>
+<link rel="stylesheet" href="newfonts/ie7.reg.css">
+<![endif]-->
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+<link rel="alternate" type="application/rss+xml" title="QwikAd"
+href="https://qwikad.com/feed/posts/">
+<link rel="alternate" type="application/rss+xml" title="QwikAd"
+href="https://qwikad.com/feed/697/posts/7/115/">
+<meta name="google-site-verification" content="Xx_w078HpfimAlJo6rR7gGm-E1d4lHAghraD9sPO7kc" />
+<meta name="msvalidate.01" content="0517E7A7909C95603B74C61338739A36" />
+<meta property="og:image" content="https://qwikad.com/images/fb_qwikad.png" />
+<meta property="og:title" content="QwikAd.com Classifieds"/>
+<script src="generic.min.js"></script>
+<script src="fav.js"></script>
+<script src="favban.js"></script>
+
+</head>
+<body>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-70096504-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script>
+$(document).ready(function() {
+
+  $('.banpost_top_link').on("click", function(e) {
+    $('#banpost_top').toggle();
+  });
+
+  $('.banpost_middle_link').on("click", function(e) {
+    $('#banpost_middle').toggle();
+  });
+
+  $('.banpost_bottom_link').on("click", function(e) {
+    $('#banpost_bottom').toggle();
+  });
+
+});
+</script>
+
+<div id="top_header">
+<div id="top_header_width">
+
+
+<div id="top_links">
+
+<span class="nav_span"><a href="/0" class="nav_links">Home</a></span>
+
+<span class="nav_span"><a href="?view=login" class="nav_links">My Account</a></span>
+
+<span class="old_browsers"><span class="nav_span"><a href="?view=page&pagename=myfavorites" class="nav_links">My Watchlist</a></span></span>
+
+<span class="nav_span"><a href="?view=page&pagename=help" class="nav_links">FAQ / Help</a></span>
+
+<a href="?view=page&pagename=contact" class="nav_links">Contact Us</a>
+
+</div>
+
+<div id="top_links_mobile">
+<input type="checkbox" id="click_btn">
+<label for="click_btn">
+<div id="lines" class="btn"></div>
+</label>
+<div id="top_links">
+
+<a href="/0" class="nav_links">Home</a><br><br>
+
+<a href="?view=login" class="nav_links">My Account</a><br><br>
+
+<a href="?view=page&pagename=myfavorites" class="nav_links">My Watchlist</a><br><br>
+
+<a href="?view=page&pagename=help" class="nav_links">FAQ / Help</a><br><br>
+
+<a href="?view=page&pagename=contact" class="nav_links">Contact Us</a><br><br>
+
+<a href="?view=selectcity&targetview=post&cityid=0&lang=en" class="post_button">Post A Free Ad</a><br><br>
+<a href="index.php?view=post_event&cityid=697&lang=en" class="post_button_all">Post In All Cities</a><br><br>
+
+<a href="/banpost/?view=post_event&cityid=697&lang=en&catid=1&subcatid=1&shortcutregion=" class="post_button_all">Post A Banner Ad</a>
+
+</div>
+</div>
+
+<div id="top_logo">
+<a href="/0"><img src="images/logo.gif" width="172" height="30" class="logo"></a>
+</div>
+
+
+</div>
+</div>
+
+<div id="path">
+<div id="path_width">
+<div id="top_buttons">
+
+<a href="?view=selectcity&targetview=post&cityid=0&lang=en" class="post_button">Post A Free Ad</a>
+<a href="index.php?view=post_event&cityid=697&lang=en" class="post_button_all">Post In All Cities</a>
+
+<a href="/banpost/?view=post_event&cityid=697&lang=en&catid=1&subcatid=1&shortcutregion=" class="post_button_all">Post A Banner Ad</a>
+
+</div>
+</div>
+</div>
+
+
+
+<div class="citytitle">
+
+<div id="search_bar">
+<form action="?" method="get">
+<input type="hidden" name="cityid" value="0">
+<input type="hidden" name="lang" value="en">
+
+<fieldset>
+	<div class="c">
+
+<input name="search" class="input_search" type="text" size="20" value="" placeholder="Looking for..." onfocus="placeholder=''" onblur="placeholder='Looking for...'">
+
+	</div>
+
+  	<div class="l">
+
+<select name="subcatid" class="input_drop_down">
+<option value="0"> All </option>
+<option value="134">Boats - Yachts</option>
+<option value="260">Campers</option>
+<option value="114">Cars</option>
+<option value="139">Classic Cars</option>
+<option value="135">Motorcycles</option>
+<option value="115">Parts - Accessories</option>
+<option value="118">RVs - Trailers</option>
+<option value="130">SUVs</option>
+<option value="131">Trucks</option>
+<option value="133">Vans</option>
+<option value="258">Wheels - Tires</option>
+</select>
+<input type="hidden" name="view" value="ads">
+<input type="hidden" name="catid" value="7">
+
+	</div>
+  
+	<div class="r">
+
+<button type="submit" class="search_button">Go</button>
+
+</div>
+</fieldset>
+
+</form></div>
+
+<div class="container_generic">
+
+Location: <a href="697-Worldwide/">Worldwide</a> 
+
+</div>
+
+</div>
+
+<span id="contentcell">
+
+<div class="userpath">
+<a href="/0-All-Cities/">Home</a>
+ &raquo; <a href="/0-All-Cities/">All Cities</a>
+
+ &raquo; <a href="697/posts/7-Auto-Sales/">Auto Sales</a> &raquo; <a href="697/posts/7-Auto-Sales/115-Parts-Accessories/">Parts - Accessories</a>
+</div>
+<div class="userpath_border"> </div>
+
+<span id="content">
+
+
+<div class="top_banpost">
+<noscript>
+<style>
+.banpost_top_link {
+display: none;
+}
+</style>
+</noscript>
+<div class="banpost_top_link">See Your Banner Ad Here<span class="bbb-icon bbb-i-arrowdown"></span></div>
+<div class="banpost_spaces"></div>
+<div id="banpost_top" style="display: none;">
+<div class="prompt-dialog">
+<div class="prompt-message">
+Banner Ads</div>
+<div class="prompt-input">
+<h4>Fast And Effective Way to Reach Your Target Market</h4><br>
+<span class='large_bullets'>&bull;</span> Your banner ad will be displayed on over 100,000 pages throughout the entire classifieds.<br><br>
+<span class='large_bullets'>&bull;</span> Your banner ad will take visitors directly to your site, affiliate page, online business, etc.<br><br>
+<span class='large_bullets'>&bull;</span> Your banner ad will receive a significant amount of views and clicks daily.<br><br>
+Click on the <b>Post A Banner Ad</b> button to find out more and to post a banner ad.</div>
+<div class="ok_cancel">
+<a href="JavaScript:void(0);" class="small_button" onClick="$('#banpost_top').hide();">Close</a>
+</div>
+</div>
+</div>
+
+
+<iframe src="../banpost/banpost.php" scrolling="no" marginwidth="0" marginheight="3" hspace="0" vspace="0" frameborder="0" class="banpost_box"></iframe>
+
+
+</div>
+
+
+
+
+﻿
+
+<div class="wrap_title">
+
+<h2>Optima Batteries Digital 1200 Battery Charger 150-34178 and FREE SHIPPING -
+<span class="adarea">$199.99 Or Best Offer</span>
+
+
+
+
+
+
+
+
+</h2>
+
+
+<div class="promo_post">
+
+<span class="featured_post">
+FEATURED</span>
+
+
+</div>
+
+<div id="post_id">
+
+
+
+
+
+
+
+
+
+<span class="fav_post">
+<label class="fav">
+<input type="checkbox" onclick="addremove('<a href=0/posts/7-Auto-Sales/115-Parts-Accessories/192324-Optima-Batteries-Digital-1200-Battery-Charger-150-34178-and-FREE-SHIPPING.html>Optima Batteries Digital 1200 Battery Charger 150-34178 and FREE...</a> - Posted in Auto Sales / Worldwide.')"
+>
+<span data-tooltip="Watchlist" data-tooltip-position="top"><i class="fa fa-star"></i></span>
+</label>
+</span>
+
+
+
+<b>Posted:</b>
+
+10 days ago
+&nbsp;&nbsp;
+
+
+
+
+
+<b>Visits:</b> 19,583&nbsp;&nbsp;
+</div>
+</div>
+<div class="post">
+<div class="wrap">
+
+
+﻿<p> ON SALE WITH MAKE AN OFFER and FREE SHIPPING (Advertised Pricing Mandatory Per The Manufacturer) Battery Charger, Digital 1200, 12 V, 12 Amps </p>
+
+<p>  <a rel="nofollow" target="_blank" href="http://www.dragracecarparts.co/optima-digital-1200-battery-charger-150-34178-free-shipping/"> CLICK HERE and Use Discount Code CHARGER For Added Savings At Checkout </a>   </p>
+
+<p> Brand                                                                                                                                                                                                                                                                                                       Optima Batteries </p>
+
+<p> Manufacturer's Part Number                                                                                                                                                                                                                                                                                  150-34178 </p>
+
+<p> Part Type                                                                                                                                                                                                                                                                                                   Battery Chargers </p>
+
+<p> Product Line                                                                                                                                                                                                                                                                                                Optima Digital 1200 Battery Chargers </p>
+
+<p> Part Number's                                                                                                                                                                                                                                                                                               150-34178 </p>
+
+<p> ULT-150-34178 </p>
+
+<p> 753-150-34178 </p>
+
+<p> UPC:                                                                                                                                                                                                                                                                                                        811405001734 </p>
+
+<p> Solar Powered                                                                                                                                                                                                                                                                                               No </p>
+
+<p> Voltage Type                                                                                                                                                                                                                                                                                                12 </p>
+
+<p> Amperage Rating                                                                                                                                                                                                                                                                                             12 amps </p>
+
+<p>  <strong>  </p>
+
+<p>  <a rel="nofollow" target="_blank" href="http://www.dragracecarparts.co/optima-digital-1200-battery-charger-150-34178-free-shipping/"> INSTANT PURCHASE WITH PAYPAL or CREDIT CARDS </a>   </strong> ‌ </p> <p>&nbsp;</p><p>  <a rel="nofollow" target="_blank" href="http://www.dragracecarparts.co/content/150-34178Digital_1200_Battery_Charger_Manual.pdf">  <strong>  <u> OPTIMA 150-34178 INSTRUCTION MANUAL CLICK HERE </u> ‌ </strong> ‌ </a>   </p> <p>&nbsp;</p><p> Optima Digital 1200 battery chargers are designed to enhance the performance of Optima and other AGM batteries, recover deeply discharged batteries, and extend battery life. They also feature a tri-color LCD display for charging, maintaining, and fault mode indication. The battery chargers include a gauge that displays battery charging and fill rate with charger mode and fault messages and offers one of the best user interfaces on the market. Other innovative features include an integrated LED work light with ergonomically designed DC charging clamps, quick set selections that prompt users with a quick and easy selection of charge profiles by battery type, and USB charging for Apple iPads, iPhones, and other devices, such as cameras and phones. The Optima Digital 1200 battery chargers can be used for charging flooded batteries, AGM batteries, and used in automobiles, motorcycles, marine vehicles, tractors, powersports, RVs, and more. </p> <p>&nbsp;</p><p>  <a href="https://youtu.be/ihhkF2vI2Q0" target="_blank" rel="nofollow"><p><iframe class="video_embeds" frameborder="0" src="https://www.youtube.com/embed/ihhkF2vI2Q0" class="video_embeds" width="700" height="400" scrolling="no" frameborder="0" type="text/html"></iframe></p></a>   </p> 
+
+</b></b></i></i></u></u></a></a></center></center></font></font></big></big></strong></strong></small></small></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+
+<span class="cancel_all_container">
+<span class="cancel_all">
+
+<div class="clearfix"></div>
+
+<div class="post_details">Details / Contact:</div>
+
+<div class="post_details_container">
+
+<script src="adgall.min.js"></script>
+<script src="adgall.js"></script>
+
+<script>
+$(document).ready(function () {
+    $("#owl-demo").owlCarousel({
+        navigation: true,
+        slideSpeed: 600,
+        paginationSpeed: 400,
+        singleItem: true,
+loop: true,
+
+
+        afterInit: makePages,
+        afterUpdate: makePages
+    });
+    function makePages() {
+        $.each(this.owl.userItems, function(i) {
+            $('.owl-controls .owl-page').eq(i)
+                .css({
+                    'background': 'url(' + $(this).find('img').attr('src') + ')',
+                    'background-size': 'cover',
+                    'background-color': '#FFFFFF'
+                })
+        });
+    }
+});
+
+</script>
+
+
+<ul class="pppost">
+<li class="details_left">
+
+<div class="postpics">
+<div class="image_details_container">
+
+<noscript>
+<style>
+.owl-border, #owl-demo, .owl-carousel {
+display: block;
+max-width: 100%;
+height: 100%;
+border: none;
+margin: 0px 0px 5px 0px;
+}
+.item {
+display: inline-block;
+margin: 0px 10px 10px 10px;
+border: 1px solid #D6D6D6;
+*display: inline;
+*zoom: 1;
+}
+.image_bg {
+display: block;
+width: 155px;
+height: 160px;
+}
+.larger-link {
+display: none;
+}
+#email_background {
+border-bottom: none;
+background-color: #FFFFFF;
+}
+</style>
+</noscript>
+
+
+<div class="owl-border">
+
+<a class="larger-link" data-larger-target="#example-larger">
+<div class="enlarge-pics"><span class="bbb-icon-large bbb-i-zoomin"></span></div></a>
+
+<div id="owl-demo" class="owl-carousel owl-theme">
+
+
+<div class="item"><img src="/newpshow.php?src=adpics/5764eadda98048aad275b345f.jpg&w=755&h2=455" class="image_bg" onerror="this.src='/images/error_image.gif'"></div>
+
+
+<div class="item"><img src="/adpics/5764eaddaa00444c6154b12fd.jpg" class="image_bg" onerror="this.src='/images/error_image.gif'"></div>
+
+
+<div class="item"><img src="/adpics/5764eaddaa41bf1893cbaf907.jpg" class="image_bg" onerror="this.src='/images/error_image.gif'"></div>
+
+
+<div class="item"><img src="/adpics/5764eaddaa80c8eec5c8495ff.jpg" class="image_bg" onerror="this.src='/images/error_image.gif'"></div>
+
+
+<div class="item"><img src="/adpics/5764eaddaacd411ceda85fdac.jpg" class="image_bg" onerror="this.src='/images/error_image.gif'"></div>
+
+
+<div class="item"><img src="/adpics/5764eaddab0866d17a81bd2de.jpg" class="image_bg" onerror="this.src='/images/error_image.gif'"></div>
+
+
+<div class="item"><img src="/newpshow.php?src=adpics/57c475baa6d45fddb5650ea4b.png&w=755&h2=455" class="image_bg" onerror="this.src='/images/error_image.gif'"></div>
+
+
+<div class="item"><img src="/newpshow.php?src=adpics/58a2a24729dc6d9158ee6dde2.jpg&w=755&h2=455" class="image_bg" onerror="this.src='/images/error_image.gif'"></div>
+
+
+<div class="item"><img src="/newpshow.php?src=adpics/58a2a2478c2e5e072e703125e.jpg&w=755&h2=455" class="image_bg" onerror="this.src='/images/error_image.gif'"></div>
+
+
+<div class="item"><img src="/newpshow.php?src=adpics/58a2a2478c6cf2457f7b4b460.jpg&w=755&h2=455" class="image_bg" onerror="this.src='/images/error_image.gif'"></div>
+
+
+</div>
+</div>
+</div>
+</div>
+
+<script>
+$(window).load(function(){
+jQuery(document).ready(function($){
+$('[data-larger-target]').click(function(){
+$('html').addClass('overlay');
+var activeLarge=$(this).attr('data-larger-target');
+$(activeLarge).addClass('visible')
+});
+$(document).keyup(function(e){
+if(e.keyCode==27&&$('html').hasClass('overlay')){
+clearLarge()
+}
+});
+$('.larger-exit-btn').click(function(){
+clearLarge()
+});
+$('.larger-overlay').click(function(){
+clearLarge()
+});
+function clearLarge(){
+$('.larger.visible').addClass('transitioning').removeClass('visible');
+$('html').removeClass('overlay');
+setTimeout(function(){
+$('.larger').removeClass('transitioning')
+},100)
+}
+})
+});
+</script>
+
+
+<script src="adgallview.js"></script>
+
+<script>
+$(window).load(function() {
+  $('.flexslider').flexslider({
+    animation: "slide",
+    controlsContainer: $(".custom-controls-container"),
+    customDirectionNav: $(".custom-navigation a")
+  });
+
+});
+</script>
+
+<div id="example-larger" class="larger"><div class="larger-overlay"></div>
+<div class="larger-body">
+
+<div class="flexslider">
+<ul class="slides">
+
+
+<li><div class="pic_count">1 / 10</div><img src="/newpshow.php?src=adpics/5764eadda98048aad275b345f.jpg&w=905&h2=605" class="image_bg" onerror="this.src='/images/error_image.gif'"></li>
+
+
+
+<li><div class="pic_count">2 / 10</div><img src="/adpics/5764eaddaa00444c6154b12fd.jpg" class="image_bg" onerror="this.src='/images/error_image.gif'"></li>
+
+
+
+<li><div class="pic_count">3 / 10</div><img src="/adpics/5764eaddaa41bf1893cbaf907.jpg" class="image_bg" onerror="this.src='/images/error_image.gif'"></li>
+
+
+
+<li><div class="pic_count">4 / 10</div><img src="/adpics/5764eaddaa80c8eec5c8495ff.jpg" class="image_bg" onerror="this.src='/images/error_image.gif'"></li>
+
+
+
+<li><div class="pic_count">5 / 10</div><img src="/adpics/5764eaddaacd411ceda85fdac.jpg" class="image_bg" onerror="this.src='/images/error_image.gif'"></li>
+
+
+
+<li><div class="pic_count">6 / 10</div><img src="/adpics/5764eaddab0866d17a81bd2de.jpg" class="image_bg" onerror="this.src='/images/error_image.gif'"></li>
+
+
+
+<li><div class="pic_count">7 / 10</div><img src="/newpshow.php?src=adpics/57c475baa6d45fddb5650ea4b.png&w=905&h2=605" class="image_bg" onerror="this.src='/images/error_image.gif'"></li>
+
+
+
+<li><div class="pic_count">8 / 10</div><img src="/newpshow.php?src=adpics/58a2a24729dc6d9158ee6dde2.jpg&w=905&h2=605" class="image_bg" onerror="this.src='/images/error_image.gif'"></li>
+
+
+
+<li><div class="pic_count">9 / 10</div><img src="/newpshow.php?src=adpics/58a2a2478c2e5e072e703125e.jpg&w=905&h2=605" class="image_bg" onerror="this.src='/images/error_image.gif'"></li>
+
+
+
+<li><div class="pic_count">10 / 10</div><img src="/newpshow.php?src=adpics/58a2a2478c6cf2457f7b4b460.jpg&w=905&h2=605" class="image_bg" onerror="this.src='/images/error_image.gif'"></li>
+
+
+
+</ul>
+
+<div class="custom-navigation">
+
+<div class="enlarge-camera"><span class="bbb-icon bbb-i-image"></span></div>
+
+<span class="larger-exit-btn">×</span>
+  <a href="#" class="flex-prev"><div class="flex-prev-button">‹</div></a>
+  <div class="custom-controls-container"></div>
+  <a href="#" class="flex-next"><div class="flex-next-button">›</div></a>
+</div>
+
+
+</div>
+</div>
+</div>
+
+</li>
+<li class="details_right">
+
+
+<div class="user_since"><span class="user_icon"><span class="bbb-icon bbb-i-user"></span></span> <div class="posting_since">Posting Since June 18, 2014</div></div>
+
+<div id="post_fields">
+
+<div id="email_background">
+
+
+
+
+
+
+<script type="text/javascript">
+<!--
+function onCpChange(s_el) {
+var elements = document.body.getElementsByTagName("textarea");
+var cp = s_el.options[s_el.selectedIndex].value;
+for (var i=0, cnt=elements.length; i<cnt; i++) {
+if (-1 != (" " + elements[i].className + " ").indexOf("ads_code")) {
+elements[i].value = elements[i].value.replace(/&cp=.*\"/g, "&cp="+cp+"\"");
+}
+}
+}
+//-->
+</script>
+
+
+
+<script>
+$(window).load(function(){
+$('.email_button').click(function(){
+    $('#newemail').toggle();
+});
+
+$('.email_close').click(function(){
+    $('#newemail').hide();
+});
+});
+</script>
+
+<noscript>
+<style>
+#newemail, #newoffer {
+display: block;
+position: relative;
+width: 100%;
+min-width: 280px;
+border: 1px solid #D6D6D6;
+background-color: #FFFFFF;
+margin: -10px 0px 25px 0px;
+-moz-border-radius: 2px;
+-webkit-border-radius: 2px;
+-khtml-border-radius: 2px;
+border-radius: 2px;
+-webkit-box-shadow: 0px 0px 0px 0px rgba(153,153,153,1);
+-moz-box-shadow: 0px 0px 0px 0px rgba(153,153,153,1);
+box-shadow: 0px 0px 0px 0px rgba(153,153,153,1);
+}
+.email_button {
+display: none;
+}
+.email_close {
+display: none;
+}
+</style>
+</noscript>
+
+<div id="email_button_position">
+
+<a class="email_button">Send An Email</a>
+
+</div>
+
+<div id="newemail">
+<div class="youradhere_heading">Send An Email</div>
+<div class="youradhere_body">
+<div id="newemailtitle">Copy And Paste Into Your Email</div>
+
+<input type="text" class="input" id="enter_email" onClick="this.select();" value="dragracingparts@gmail.com">
+
+<br>
+<div id="newemailtitle">Or Reply With</div>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=dragracingparts@gmail.com&su=Optima Batteries Digital 1200 Battery Charger 150-34178 and FREE SHIPPING" target="_blank">GMail</a> | <a href="https://compose.mail.yahoo.com/?to=dragracingparts@gmail.com&subject=Optima Batteries Digital 1200 Battery Charger 150-34178 and FREE SHIPPING" target="_blank">Yahoo! Mail</a> | <a href="https://mail.live.com/default.aspx?rru=compose&to=dragracingparts@gmail.com&subject=Optima Batteries Digital 1200 Battery Charger 150-34178 and FREE SHIPPING" target="_blank">Hotmail, Live Mail</a> | <a href="https://mail.aol.com/mail/compose-message.aspx?to=dragracingparts@gmail.com&subject=Optima Batteries Digital 1200 Battery Charger 150-34178 and FREE SHIPPING" target="_blank">AOL Mail</a>
+<br>
+<div class="email_close"><a class="small_button">Close</a></div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+<script>
+$(window).load(function(){
+$('.offer_button').click(function(){
+    $('#newoffer').toggle();
+});
+
+$('.offer_close').click(function(){
+    $('#newoffer').hide();
+});
+});
+</script>
+
+<noscript>
+<style>
+#newoffer {
+display: block;
+position: relative;
+width: 80%;
+min-width: 280px;
+border: 1px solid #D6D6D6;
+background-color: #FFFFFF;
+margin: 0px 0px 15px 0px;
+-moz-border-radius: 2px;
+-webkit-border-radius: 2px;
+-khtml-border-radius: 2px;
+border-radius: 2px;
+-webkit-box-shadow: 0px 0px 0px 0px rgba(153,153,153,1);
+-moz-box-shadow: 0px 0px 0px 0px rgba(153,153,153,1);
+box-shadow: 0px 0px 0px 0px rgba(153,153,153,1);
+}
+.offer_button {
+display: none;
+}
+.offer_close {
+display: none;
+}
+</style>
+</noscript>
+
+<div id="email_button_position">
+
+<a class="offer_button">Make An Offer</a>
+
+</div>
+
+
+<div id="newoffer">
+<div class="youradhere_heading">
+Make An Offer</div>
+<div class="youradhere_body">
+
+<div class="req_fields_all">All fields required</div>
+
+	
+<!-- Begin Version 5.0 -->
+<script language="javascript">
+function checkFormFields(form) {
+	
+	var msg = '';
+
+	if (form.elements['receiver_name'].value == ''
+
+			|| form.elements['sender_email'].value == ''
+
+			) {
+		msg += 'You forgot to fill out all required fields\n';
+	}
+
+if (!form.elements['agree'].checked) {
+msg += 'You forgot to check the security checkbox\n';
+}
+	
+	if (msg != '') {
+		alert(msg);
+		return false;
+	}
+}
+</script>
+
+<br>
+
+<form action="https://qwikad.com/?view=showad&adid=192324&cityid=697&" onSubmit="return checkFormFields(this)" method="post" name="myForm" target="_self">
+
+<b>Your Email Address:</b><br>
+<input type="text" class="input" name="sender_email" id="sender_email" value="">
+
+<br>
+<br>
+
+		<b>Would You Consider Taking?</b> (Enter your amount below):<br>
+<input type="text" class="input" name="receiver_name" id="receiver_name" maxlength="15"  value="">
+
+<br>
+<br>
+
+
+<div class="checked_checkboxes"><input type="checkbox" name="agree" value="1" checked="checked"></div>
+
+
+
+<input type="hidden" name="do" value="send">
+
+			<button type="submit" name="send" id="submit_button">Send</button>&nbsp;
+
+</form>
+
+<br>
+
+<div class="offer_close"><a class="small_button">Close</a></div>
+
+</div>
+
+
+
+
+
+
+</div>
+</div>
+
+
+
+
+
+
+
+<div id="fields_background">
+<b>Specific Location:</b> USA</div>
+
+
+
+
+
+
+<div id="fields_background"><div class="price_wrap">
+Price: <span class="hasprice">$199.99<span class="hasprice"> Or Best Offer</span></span>
+</div>
+</div>
+
+
+
+
+
+
+
+<div id="fields_background">
+
+
+
+<b>Manufacturer:</b> Optima</div>
+
+
+
+<div id="fields_background">
+
+
+
+<b>Condition:</b> New</div>
+
+
+
+<div id="fields_background">
+
+
+
+<b>For Sale By:</b> Owner</div>
+
+
+
+<div id="fields_background">
+
+<span class="phone_ad">&#9742;</span>
+
+
+<b>Phone:</b> 614-403-8678</div>
+
+
+
+<div id="fields_background">
+
+
+
+<b>Contact Name:</b> Sales</div>
+
+
+
+<div id="fields_background">
+
+
+
+<b>Ships To:</b> Anywhere Within The Country</div>
+
+
+
+
+
+
+<div id="fields_background">
+
+
+
+<b>Posted:</b>
+
+10 days ago
+&nbsp;&nbsp;
+
+
+
+
+
+
+</div>
+<div id="fields_background">
+<b>Visits:</b> 19,583</div>
+
+
+
+<div id="social_media_post">
+<div class="social_buttons_post">
+
+<span class="social_media_post_title">Share This Ad:</span>
+<a href="https://www.facebook.com/share.php?u=https://qwikad.com/697/posts/7-Auto-Sales/115-Parts-Accessories/192324-Optima-Batteries-Digital-1200-Battery-Charger-150-34178-and-FREE-SHIPPING.html" target="_blank"><img src="images/facebook.png" width="32" height="32" class="facebook"></a>
+<span class="media_sep"></span>
+
+<a href="https://twitter.com/intent/tweet?text=Optima Batteries Digital 1200 Battery Charger 150-34178 and FREE... %0A%0AGo To:  https://qwikad.com/697/posts/7-Auto-Sales/115-Parts-Accessories/192324-Optima-Batteries-Digital-1200-Battery-Charger-150-34178-and-FREE-SHIPPING.html%0A%0A&hashtags=Jobs,Employment" target="_blank"><img src="images/twitter.png" width="32" height="32" class="twitter"></a>
+<span class="media_sep"></span>
+<a href="https://plus.google.com/share?url=https://qwikad.com/697/posts/7-Auto-Sales/115-Parts-Accessories/192324-Optima-Batteries-Digital-1200-Battery-Charger-150-34178-and-FREE-SHIPPING.html" target="_blank"><img src="images/googleplus.png" width="32" height="32" class="gplus"></a>
+<span class="media_sep"></span>
+<a href="?view=mailad&cityid=697&adid=192324&adtype=A"><img src="images/mail.png" width="32" height="32" class="emailqwikad"></a>
+
+</div>
+</div>
+
+
+
+</li>
+</ul>
+
+</div>
+</div>
+
+
+
+<div class="clearfix"></div>
+
+
+</div>
+</div>
+
+
+
+
+
+
+<div class="user_details">
+<div class="user_more">Premium Ads From This User:</div>
+
+
+<a href="697/posts/7-Auto-Sales/115-Parts-Accessories/257836-BTE-Racing-1-80-or-1-98-Straight-Cut-Powerglide-Planetary-9310-Low-Gear-Set.html">
+
+BTE Racing 1.80 or 1.98 Straight Cut Powerglide Planetary 9310 Low Gear Set</a> - Parts - Accessories<br>
+
+
+
+
+<a href="293/posts/6-Services/144-Automotive/104514-TRIPLE-B-AUTO-REPAIR-and-Tires-at-70-east-and-Route-310-26-years-exp.html">
+
+TRIPLE B AUTO REPAIR and Tires at 70 east and Route 310 26 years exp</a> - Automotive<br>
+
+
+
+
+<a href="697/posts/7-Auto-Sales/115-Parts-Accessories/192331-BTE-Racing-Powerglide-Roller-Bearing-Tail-Housing-BTEPGH-4-SHIP-S-FREE.html">
+
+BTE Racing Powerglide Roller Bearing Tail Housing BTEPGH-4 SHIP'S FREE</a> - Parts - Accessories<br>
+
+
+
+
+<a href="697/posts/7-Auto-Sales/115-Parts-Accessories/192326-SHIFNOID-Electric-Shifter-Solenoid-Powerglide-Front-Cable-SN5000FC-FREE-SHIPPING.html">
+
+SHIFNOID Electric Shifter Solenoid Powerglide Front Cable SN5000FC FREE SHIPPING</a> - Parts - Accessories<br>
+
+
+
+</div>
+
+
+
+
+<div id="postid">
+<div class="postid_links">
+<b>Post ID:</b> 192324 &nbsp;&nbsp; <b>Updated</b>: 
+February 14 &nbsp;&nbsp; 
+ 
+<b>Posted In:</b> 
+<a href="/0-All-Cities/">All Cities</a>
+
+ &raquo; <a href="697/posts/7-Auto-Sales/">Auto Sales</a> &raquo; <a href="697/posts/7-Auto-Sales/115-Parts-Accessories/">Parts - Accessories</a> 
+</div>
+</div>
+
+
+
+<div class="showad_banpost">
+
+<noscript>
+<style>
+.banpost_middle_link {
+display: none;
+}
+</style>
+</noscript>
+<div class="banpost_middle_link">See Your Banner Ad Here<span class="bbb-icon bbb-i-arrowdown"></span></div>
+<div class="banpost_spaces"></div>
+<div id="banpost_middle" style="display: none;">
+<div class="prompt-dialog">
+<div class="prompt-message">
+Banner Ads</div>
+<div class="prompt-input">
+<h4>Fast And Effective Way to Reach Your Target Market</h4><br>
+<span class='large_bullets'>&bull;</span> Your banner ad will be displayed on over 100,000 pages throughout the entire classifieds.<br><br>
+<span class='large_bullets'>&bull;</span> Your banner ad will take visitors directly to your site, affiliate page, online business, etc.<br><br>
+<span class='large_bullets'>&bull;</span> Your banner ad will receive a significant amount of views and clicks daily.<br><br>
+Click on the <b>Post A Banner Ad</b> button to find out more and to post a banner ad.</div>
+<div class="ok_cancel">
+<a href="JavaScript:void(0);" class="small_button" onClick="$('#banpost_middle').hide();">Close</a>
+</div>
+</div>
+</div>
+
+<iframe src="../banpost/banpost.php" scrolling="no" marginwidth="0" marginheight="3" hspace="0" vspace="0" frameborder="0" class="banpost_box"></iframe>
+
+</div>
+
+<script type="text/javascript" src="your_ad_here.js"></script>
+<noscript>
+<style>
+.drop_down_main {
+display: none;
+}
+</style>
+</noscript>
+
+
+
+
+
+<script>
+$(window).load(function(){
+$('.drop_down_main').click(function(){
+    $('#youradhere_ads').toggle();
+});
+
+$('.youradhere_close').click(function(){
+    $('#youradhere_ads').hide();
+});
+});
+</script>
+
+<div id="latest_featured_ads">Featured Ads <span class="drop_down_main"><a class="flag_drop_down">See Your Ad Here<span class="bbb-icon bbb-i-arrowdown"></span></a></span></div>
+
+<div id="youradhere_ads">
+<div class="youradhere_heading">
+Featured Ads</div>
+<div class="youradhere_body">
+If you'd like for your ad to be featured here, choose the "feature this ad" option while posting your local or all cities ad. Why should you feature your ad? As a rule, featured ads receive significantly more visits. Here's why:
+<br><br>
+<span class="large_bullets">&bull;</span> Featured ads have the <span class="featured_promo">FEATURED</span> sign on them.
+<br>
+<span class="large_bullets">&bull;</span> Featured ads appear above the free / regular ads.
+<br>
+<span class="large_bullets">&bull;</span> Featured ads appear in the home page slider.
+<br>
+<span class="large_bullets">&bull;</span> Featured ads come up first in search results.
+<br>
+<span class="large_bullets">&bull;</span> Featured ads cannot be flagged for removal by users.
+<br>
+<br>
+And... Featured ads do not have to be posted in the right categories. You can post your featured ad in any category you choose.
+<br>
+<div class="youradhere_close"><a class="small_button">Close</a></div>
+
+</div>
+</div>
+
+
+
+
+
+<div id="border_listings">
+
+<div id="featured_ad_listings">FEATURED</div>
+
+
+<a href="435/posts/20-Income-Opps/290-Affiliate-Marketing/258025-Opportunity-Get-In-Pre-Launch.html"><div class="noimage"> </div></a>
+
+
+<a href="435/posts/20-Income-Opps/290-Affiliate-Marketing/258025-Opportunity-Get-In-Pre-Launch.html" class="posttitle">
+
+Opportunity , Get In Pre Launch</a>
+
+
+
+<div class="ads_posted_on">
+
+<span class="cat_name_cell">Affiliate Marketing &nbsp; 
+
+
+Bumped:
+</span>
+
+
+1 hour ago
+</div>
+
+<div class="ads_body">
+
+
+
+
+</a>
+
+
+
+
+
+
+
+
+
+
+
+Watch video  Go To http://www.prelaunchbuilder.ne<br>t/?rdray <a href="435/posts/20-Income-Opps/290-Affiliate-Marketing/258025-Opportunity-Get-In-Pre-Launch.html">Read more &raquo;</a>
+
+</div>
+
+
+
+<div class="ads_border_top">
+
+
+<div class="ads_date">
+
+
+
+
+
+
+
+
+</div>
+
+
+<b>San Francisco</b>&nbsp;&nbsp;
+</div>
+
+<div id="fav">
+<label class="fav">
+<input type="checkbox" onclick="addremove('<a href=435/posts/20-Income-Opps/290-Affiliate-Marketing/258025-Opportunity-Get-In-Pre-Launch.html>Opportunity , Get In Pre Launch</a> - Posted in Income Opps / San Francisco.')"
+>
+<span data-tooltip="Watchlist" data-tooltip-position="left"><i class="fa fa-star"></i></span>
+</label>
+</div>
+
+
+
+
+</div>
+
+</div>
+
+
+
+<div id="border_listings">
+
+<div id="featured_ad_listings">FEATURED</div>
+
+
+<a href="697/posts/20-Income-Opps/129-Business-Opportunities/256837-Power-leverage-turning-100-into-5850-shock-vid-.html"><div class="noimage"> </div></a>
+
+
+<a href="697/posts/20-Income-Opps/129-Business-Opportunities/256837-Power-leverage-turning-100-into-5850-shock-vid-.html" class="posttitle">
+
+Power leverage turning 100 into 5850 - shock vid... </a>
+
+
+
+<div class="ads_posted_on">
+
+<span class="cat_name_cell">Business Opportunities &nbsp; 
+
+
+Bumped:
+</span>
+
+
+1 hour ago
+</div>
+
+<div class="ads_body">
+
+
+
+
+</a>
+
+
+
+
+
+
+
+
+
+
+
+It turns a one-time $100 into $5,850 over and over. 
+
+And it's complete. 
+https://youtu.be/VH--8STY3bY
+The system is ready. 
+The adverts are ready. 
+The banners are ready. 
+The... <a href="697/posts/20-Income-Opps/129-Business-Opportunities/256837-Power-leverage-turning-100-into-5850-shock-vid-.html">Read more &raquo;</a>
+
+</div>
+
+
+
+<div class="ads_border_top">
+
+
+<div class="ads_date">
+
+
+
+
+
+
+
+
+</div>
+
+
+<b>Worldwide</b>&nbsp;&nbsp;
+
+</div>
+
+<div id="fav">
+<label class="fav">
+<input type="checkbox" onclick="addremove('<a href=0/posts/20-Income-Opps/129-Business-Opportunities/256837-Power-leverage-turning-100-into-5850-shock-vid-.html>Power leverage turning 100 into 5850 - shock vid... </a> - Posted in Income Opps / Worldwide.')"
+>
+<span data-tooltip="Watchlist" data-tooltip-position="left"><i class="fa fa-star"></i></span>
+</label>
+</div>
+
+
+
+
+</div>
+
+</div>
+
+
+
+<div id="border_listings">
+
+<div id="featured_ad_listings">FEATURED</div>
+
+
+<a href="697/posts/20-Income-Opps/290-Affiliate-Marketing/260879-Restaurants-triple-your-profits-with-this-program.html"><div class="noimage"> </div></a>
+
+
+<a href="697/posts/20-Income-Opps/290-Affiliate-Marketing/260879-Restaurants-triple-your-profits-with-this-program.html" class="posttitle">
+
+Restaurants triple your profits with this program</a>
+
+
+
+<div class="ads_posted_on">
+
+<span class="cat_name_cell">Affiliate Marketing &nbsp; 
+
+
+Posted:
+</span>
+
+
+2 hours ago
+</div>
+
+<div class="ads_body">
+
+
+
+
+</a>
+
+
+
+
+
+
+
+
+
+
+
+Restaurants and Email Marketing 
+Every day, people come and go from your restaurant. You see new faces and the regulars. Wouldn't it be great if you could find a way to get those new... <a href="697/posts/20-Income-Opps/290-Affiliate-Marketing/260879-Restaurants-triple-your-profits-with-this-program.html">Read more &raquo;</a>
+
+</div>
+
+
+
+<div class="ads_border_top">
+
+
+<div class="ads_date">
+
+
+
+
+
+
+
+
+</div>
+
+
+<b>Worldwide</b>&nbsp;&nbsp;
+
+</div>
+
+<div id="fav">
+<label class="fav">
+<input type="checkbox" onclick="addremove('<a href=0/posts/20-Income-Opps/290-Affiliate-Marketing/260879-Restaurants-triple-your-profits-with-this-program.html>Restaurants triple your profits with this program</a> - Posted in Income Opps / Worldwide.')"
+>
+<span data-tooltip="Watchlist" data-tooltip-position="left"><i class="fa fa-star"></i></span>
+</label>
+</div>
+
+
+
+
+</div>
+
+</div>
+
+
+
+<div id="border_listings">
+
+<div id="featured_ad_listings">FEATURED</div>
+
+<span class="urgent_featured_listings">URGENT</span>
+
+<a href="246/posts/6-Services/314-Entertainment-Leisure/259409-Amazing-Animatronic-Dinosaur-s-Suit-Rental-Unbelievable-Experiences-for-Parties-and-Events-.html"><img src="/newp.php?src=adpics/58a9acad4426988a38a19277f.jpg&w=570&h=450" id="thumb_listings" onerror="this.src='/images/space.gif'"></a>
+
+
+<a href="246/posts/6-Services/314-Entertainment-Leisure/259409-Amazing-Animatronic-Dinosaur-s-Suit-Rental-Unbelievable-Experiences-for-Parties-and-Events-.html" class="highlighted">
+
+Amazing Animatronic Dinosaur's Suit Rental! Unbelievable Experiences...</a>
+
+
+
+<div class="ads_posted_on">
+
+<span class="cat_name_cell">Entertainment - Leisure &nbsp; 
+
+
+Bumped:
+</span>
+
+
+2 hours ago
+</div>
+
+<div class="ads_body">
+
+
+
+
+</a>
+
+
+
+
+
+
+
+
+
+
+
+Hey!! 
+
+Did you hear?? 
+
+The Amazing Animatronic Dinosaur's are here, and YOU can rent them (includes actors) for your next Party, Event, or Fundraiser.
+... <a href="246/posts/6-Services/314-Entertainment-Leisure/259409-Amazing-Animatronic-Dinosaur-s-Suit-Rental-Unbelievable-Experiences-for-Parties-and-Events-.html">Read more &raquo;</a>
+
+</div>
+
+
+
+<div class="ads_border_top">
+
+
+<div class="ads_date">
+
+
+$1
+
+
+
+
+
+</div>
+
+
+<b>Buffalo</b>&nbsp;&nbsp;
+</div>
+
+<div id="fav">
+<label class="fav">
+<input type="checkbox" onclick="addremove('<a href=246/posts/6-Services/314-Entertainment-Leisure/259409-Amazing-Animatronic-Dinosaur-s-Suit-Rental-Unbelievable-Experiences-for-Parties-and-Events-.html>Amazing Animatronic Dinosaurs Suit Rental! Unbelievable Experiences for...</a> - Posted in Services / Buffalo.')"
+>
+<span data-tooltip="Watchlist" data-tooltip-position="left"><i class="fa fa-star"></i></span>
+</label>
+</div>
+
+
+
+
+</div>
+
+</div>
+
+
+
+<div id="border_listings">
+
+<div id="featured_ad_listings">FEATURED</div>
+
+
+<a href="697/posts/5-For-Sale/298-Miscellaneous/252540-Set-of-2-POTHOLDERS-Reversible-Durable-and-ADORABLE-.html"><img src="/newp.php?src=adpics/58887dd6a46ead27d2000e3f9.jpg&w=570&h=450" id="thumb_listings" onerror="this.src='/images/space.gif'"></a>
+
+
+<a href="697/posts/5-For-Sale/298-Miscellaneous/252540-Set-of-2-POTHOLDERS-Reversible-Durable-and-ADORABLE-.html" class="posttitle">
+
+Set of 2 POTHOLDERS, Reversible, Durable and ADORABLE!</a>
+
+
+
+<div class="ads_posted_on">
+
+<span class="cat_name_cell">Miscellaneous &nbsp; 
+
+
+Bumped:
+</span>
+
+
+5 hours ago
+</div>
+
+<div class="ads_body">
+
+
+
+
+</a>
+
+
+
+
+
+
+
+
+
+
+
+SET OF 2 HANDMADE POTHOLDERS - Pair of Pot Holders
+‌‌
+
+Winter Birds and Poinsettias/ Snowflakes
+
+This listing is for a pair of matching potholders. These adorable kitchen... <a href="697/posts/5-For-Sale/298-Miscellaneous/252540-Set-of-2-POTHOLDERS-Reversible-Durable-and-ADORABLE-.html">Read more &raquo;</a>
+
+</div>
+
+
+
+<div class="ads_border_top">
+
+
+<div class="ads_date">
+
+
+$10.99
+
+
+
+
+
+</div>
+
+
+<b>Worldwide</b>&nbsp;&nbsp;
+
+</div>
+
+<div id="fav">
+<label class="fav">
+<input type="checkbox" onclick="addremove('<a href=0/posts/5-For-Sale/298-Miscellaneous/252540-Set-of-2-POTHOLDERS-Reversible-Durable-and-ADORABLE-.html>Set of 2 POTHOLDERS, Reversible, Durable and ADORABLE!</a> - Posted in For Sale / Worldwide.')"
+>
+<span data-tooltip="Watchlist" data-tooltip-position="left"><i class="fa fa-star"></i></span>
+</label>
+</div>
+
+
+
+
+</div>
+
+</div>
+
+
+
+<div id="border_listings">
+
+<div id="featured_ad_listings">FEATURED</div>
+
+
+<a href="697/posts/5-For-Sale/75-Children-s-Clothing/233215-TODDLER-Girl-s-SKIRT-TuTu-Hair-Bow.html"><img src="/newp.php?src=adpics/582ba686cbce4d27d2000e3f9.jpg&w=570&h=450" id="thumb_listings" onerror="this.src='/images/space.gif'"></a>
+
+
+<a href="697/posts/5-For-Sale/75-Children-s-Clothing/233215-TODDLER-Girl-s-SKIRT-TuTu-Hair-Bow.html" class="posttitle">
+
+TODDLER Girl's SKIRT, TuTu + Hair Bow</a>
+
+
+
+<div class="ads_posted_on">
+
+<span class="cat_name_cell">Children's Clothing &nbsp; 
+
+
+Bumped:
+</span>
+
+
+5 hours ago
+</div>
+
+<div class="ads_body">
+
+
+
+
+</a>
+
+
+
+
+
+
+
+
+
+
+
+Your little princess will look adorable in this individually designed and handcrafted tutu skirt. Below are some specifications.
+ 
+BABY GIRL'S SKIRT & HAIR BOW---- Purple / LAVENDER... <a href="697/posts/5-For-Sale/75-Children-s-Clothing/233215-TODDLER-Girl-s-SKIRT-TuTu-Hair-Bow.html">Read more &raquo;</a>
+
+</div>
+
+
+
+<div class="ads_border_top">
+
+
+<div class="ads_date">
+
+
+$18
+
+
+
+
+
+</div>
+
+
+<b>Worldwide</b>&nbsp;&nbsp;
+
+</div>
+
+<div id="fav">
+<label class="fav">
+<input type="checkbox" onclick="addremove('<a href=0/posts/5-For-Sale/75-Children-s-Clothing/233215-TODDLER-Girl-s-SKIRT-TuTu-Hair-Bow.html>TODDLER Girls SKIRT, TuTu + Hair Bow</a> - Posted in For Sale / Worldwide.')"
+>
+<span data-tooltip="Watchlist" data-tooltip-position="left"><i class="fa fa-star"></i></span>
+</label>
+</div>
+
+
+
+
+</div>
+
+</div>
+
+
+
+<div id="border_listings">
+
+<div id="featured_ad_listings">FEATURED</div>
+
+<span class="urgent_featured_listings">URGENT</span>
+
+<a href="697/posts/20-Income-Opps/290-Affiliate-Marketing/252455--This-is-sweeping-the-Globe-.html"><img src="/newp.php?src=adpics/58882d44b44f9cc87f6e1dca4.jpg&w=570&h=450" id="thumb_listings" onerror="this.src='/images/space.gif'"></a>
+
+
+<a href="697/posts/20-Income-Opps/290-Affiliate-Marketing/252455--This-is-sweeping-the-Globe-.html" class="highlighted">
+
+ This is sweeping the Globe!</a>
+
+
+
+<div class="ads_posted_on">
+
+<span class="cat_name_cell">Affiliate Marketing &nbsp; 
+
+
+Bumped:
+</span>
+
+
+10 hours ago
+</div>
+
+<div class="ads_body">
+
+
+
+
+</a>
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Hi Kurt,
+
+ You have to trust me on this one. 
+EasyCash4Ads provides more value for
+ a one-time $19 than anything you have seen online!
+
+Folks, you have to experience this!
+... <a href="697/posts/20-Income-Opps/290-Affiliate-Marketing/252455--This-is-sweeping-the-Globe-.html">Read more &raquo;</a>
+
+</div>
+
+
+
+<div class="ads_border_top">
+
+
+<div class="ads_date">
+
+
+$19.00
+
+
+
+
+
+</div>
+
+
+<b>Worldwide</b>&nbsp;&nbsp;
+
+</div>
+
+<div id="fav">
+<label class="fav">
+<input type="checkbox" onclick="addremove('<a href=0/posts/20-Income-Opps/290-Affiliate-Marketing/252455--This-is-sweeping-the-Globe-.html> This is sweeping the Globe!</a> - Posted in Income Opps / Worldwide.')"
+>
+<span data-tooltip="Watchlist" data-tooltip-position="left"><i class="fa fa-star"></i></span>
+</label>
+</div>
+
+
+
+
+</div>
+
+</div>
+
+
+
+<div id="border_listings">
+
+<div id="featured_ad_listings">FEATURED</div>
+
+<span class="urgent_featured_listings">URGENT</span>
+
+<a href="697/posts/20-Income-Opps/129-Business-Opportunities/256605-FREE-MONEY.html"><img src="/newp.php?src=adpics/589bffaadff95f6eaaba99259.gif&w=570&h=450" id="thumb_listings" onerror="this.src='/images/space.gif'"></a>
+
+
+<a href="697/posts/20-Income-Opps/129-Business-Opportunities/256605-FREE-MONEY.html" class="highlighted">
+
+FREE MONEY</a>
+
+
+
+<div class="ads_posted_on">
+
+<span class="cat_name_cell">Business Opportunities &nbsp; 
+
+
+Bumped:
+</span>
+
+
+10 hours ago
+</div>
+
+<div class="ads_body">
+
+
+
+
+</a>
+
+
+
+
+
+
+
+
+
+
+
+JUST REFERRALS AND SALES HERE!‌‌
+Looking for ways to earn an additional income? YES!‌‌
+share with friends‌‌. Click‌‌ to continue (netboard.me)
+ <a href="697/posts/20-Income-Opps/129-Business-Opportunities/256605-FREE-MONEY.html">Read more &raquo;</a>
+
+</div>
+
+
+
+<div class="ads_border_top">
+
+
+<div class="ads_date">
+
+
+
+
+
+
+
+Free
+</div>
+
+
+<b>Worldwide</b>&nbsp;&nbsp;
+
+</div>
+
+<div id="fav">
+<label class="fav">
+<input type="checkbox" onclick="addremove('<a href=0/posts/20-Income-Opps/129-Business-Opportunities/256605-FREE-MONEY.html>FREE MONEY</a> - Posted in Income Opps / Worldwide.')"
+>
+<span data-tooltip="Watchlist" data-tooltip-position="left"><i class="fa fa-star"></i></span>
+</label>
+</div>
+
+
+
+
+</div>
+
+</div>
+
+
+
+<div id="border_listings">
+
+<div id="featured_ad_listings">FEATURED</div>
+
+
+<a href="697/posts/20-Income-Opps/290-Affiliate-Marketing/250002-GET-THE-INFORMATION-YOU-VE-BEEN-LOOKING-FOR.html"><img src="/newp.php?src=adpics/587aee179218135dfb378ae69.jpg&w=570&h=450" id="thumb_listings" onerror="this.src='/images/space.gif'"></a>
+
+
+<a href="697/posts/20-Income-Opps/290-Affiliate-Marketing/250002-GET-THE-INFORMATION-YOU-VE-BEEN-LOOKING-FOR.html" class="posttitle">
+
+GET THE INFORMATION YOU'VE BEEN LOOKING FOR</a>
+
+
+
+<div class="ads_posted_on">
+
+<span class="cat_name_cell">Affiliate Marketing &nbsp; 
+
+
+Bumped:
+</span>
+
+
+11 hours ago
+</div>
+
+<div class="ads_body">
+
+
+
+
+</a>
+
+
+
+
+
+
+
+
+
+
+
+ENTREPRENEUR'S MANUAL‌‌
+Get A Free Copy while offer lasts
+Click here to get your FREE copy of the book <a href="697/posts/20-Income-Opps/290-Affiliate-Marketing/250002-GET-THE-INFORMATION-YOU-VE-BEEN-LOOKING-FOR.html">Read more &raquo;</a>
+
+</div>
+
+
+
+<div class="ads_border_top">
+
+
+<div class="ads_date">
+
+
+
+
+
+
+
+Free
+</div>
+
+
+<b>Worldwide</b>&nbsp;&nbsp;
+
+</div>
+
+<div id="fav">
+<label class="fav">
+<input type="checkbox" onclick="addremove('<a href=0/posts/20-Income-Opps/290-Affiliate-Marketing/250002-GET-THE-INFORMATION-YOU-VE-BEEN-LOOKING-FOR.html>GET THE INFORMATION YOUVE BEEN LOOKING FOR</a> - Posted in Income Opps / Worldwide.')"
+>
+<span data-tooltip="Watchlist" data-tooltip-position="left"><i class="fa fa-star"></i></span>
+</label>
+</div>
+
+
+
+
+</div>
+
+</div>
+
+
+
+<div id="border_listings">
+
+<div id="featured_ad_listings">FEATURED</div>
+
+
+<a href="697/posts/5-For-Sale/237-E-Books/233202-eBooks-Read-amp-Download.html"><img src="/newp.php?src=adpics/587ae3e4b925d33595711a5ec.jpg&w=570&h=450" id="thumb_listings" onerror="this.src='/images/space.gif'"></a>
+
+
+<a href="697/posts/5-For-Sale/237-E-Books/233202-eBooks-Read-amp-Download.html" class="posttitle">
+
+eBooks Read &amp; Download</a>
+
+
+
+<div class="ads_posted_on">
+
+<span class="cat_name_cell">E-Books &nbsp; 
+
+
+Bumped:
+</span>
+
+
+12 hours ago
+</div>
+
+<div class="ads_body">
+
+
+
+
+</a>
+
+
+
+
+
+
+
+
+
+
+
+Get an e-book on any topic. New holiday additions. Check us out now at:‌
+
+ <a href="697/posts/5-For-Sale/237-E-Books/233202-eBooks-Read-amp-Download.html">Read more &raquo;</a>
+
+</div>
+
+
+
+<div class="ads_border_top">
+
+
+<div class="ads_date">
+
+
+
+
+
+
+
+
+</div>
+
+
+<b>Worldwide</b>&nbsp;&nbsp;
+
+</div>
+
+<div id="fav">
+<label class="fav">
+<input type="checkbox" onclick="addremove('<a href=0/posts/5-For-Sale/237-E-Books/233202-eBooks-Read-amp-Download.html>eBooks Read  Download</a> - Posted in For Sale / Worldwide.')"
+>
+<span data-tooltip="Watchlist" data-tooltip-position="left"><i class="fa fa-star"></i></span>
+</label>
+</div>
+
+
+
+
+</div>
+
+</div>
+
+
+<div id="show_all_featured"><a href="?cityid=0&lang=en&search=&catid=0&view=ads" class="small_button">All featured ads</a></div>
+
+
+
+
+</span>
+</span>
+
+<div class="clearfix"></div>
+
+</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+
+<div class="no_show">
+<div class="main_container_holder"> 
+
+
+
+
+</div>
+</div>
+
+
+<div class="bottom_banpost">
+<noscript>
+<style>
+.banpost_bottom_link {
+display: none;
+}
+</style>
+</noscript>
+<div class="banpost_bottom_link">See Your Banner Ad Here<span class="bbb-icon bbb-i-arrowdown"></span></div>
+<div class="banpost_spaces"></div>
+<div id="banpost_bottom" style="display: none;">
+<div class="prompt-dialog">
+<div class="prompt-message">
+Banner Ads</div>
+<div class="prompt-input">
+<h4>Fast And Effective Way to Reach Your Target Market</h4><br>
+<span class='large_bullets'>&bull;</span> Your banner ad will be displayed on over 100,000 pages throughout the entire classifieds.<br><br>
+<span class='large_bullets'>&bull;</span> Your banner ad will take visitors directly to your site, affiliate page, online business, etc.<br><br>
+<span class='large_bullets'>&bull;</span> Your banner ad will receive a significant amount of views and clicks daily.<br><br>
+Click on the <b>Post A Banner Ad</b> button to find out more and to post a banner ad.</div>
+<div class="ok_cancel">
+<a href="JavaScript:void(0);" class="small_button" onClick="$('#banpost_bottom').hide();">Close</a>
+</div>
+</div>
+</div>
+
+
+<iframe src="../banpost/banpost.php" scrolling="no" marginwidth="0" marginheight="3" hspace="0" vspace="0" frameborder="0" class="banpost_box"></iframe>
+
+
+</div>
+
+<div class="clearfix"></div>
+
+</span>
+</span>
+
+
+</div>
+<div class="footer">
+
+<span class="cancel_all">
+<span class="footer_container">
+
+<span class="footer_cat">QwikAd:</span>
+
+<a href="?view=page&pagename=contact" class="nav_links">Contact Us</a> <span class="foot_space">|</span>
+<a href="?view=page&pagename=help" class="nav_links">FAQ / Help</a> <span class="foot_space">|</span>
+<a href="?view=page&pagename=updatemain" class="nav_links">Updates & Known Issues</a> <span class="foot_space">|</span>
+<a href="?view=page&pagename=about" class="nav_links">About Us</a> <span class="foot_space">|</span>
+<a href="?view=page&pagename=terms" class="nav_links">Terms Of Use</a> <span class="foot_space">|</span>
+<a href="?view=page&pagename=privacy" class="nav_links">Privacy Policy</a> <span class="foot_space">|</span>
+<a
+href="/affiliate/" target="_blank" class="nav_links">Become An Affiliate</a>
+
+<br><br>
+
+<span class="footer_cat">Shortcuts:</span>
+
+<a href="/0" class="nav_links">Home</a>
+<span class="foot_space">|</span>
+
+<a href="?view=login" class="nav_links">My Account</a> <span class="foot_space">|</span>
+
+<a href="?view=selectcity&targetview=post&cityid=0&lang=en" class="nav_links">Post A Free Ad</a>
+ <span class="foot_space">|</span>
+<a href="?view=post_event&cityid=697&lang=en" class="nav_links">Post In All Cities</a> <span class="foot_space">|</span>
+
+<a href="/banpost/?view=post_event&cityid=697&lang=en&catid=1&subcatid=1&shortcutregion=" class="nav_links">Post A Banner Ad</a> <span class="foot_space">|</span>
+
+<span class="old_browsers"><a href="?view=page&pagename=myfavorites" class="nav_links">My Watchlist</a> <span class="foot_space">|</span></span>
+<a href="/affiliate/login.php" target="_blank" class="nav_links">Affiliate Login</a>
+
+<br><br>
+
+<span class="social_footer">
+<span class="footer_cat">Share QwikAd:</span>
+
+<a href="https://www.facebook.com/share.php?u=https://qwikad.com" target="_blank"><img src="images/facebook.png" width="28" height="28" class="facebook"></a>
+<span class="media_sep"></span>
+<a href="https://twitter.com/intent/tweet?text=Advertise Anything - Free %0A%0AVisit:  https%3A%2F%2FQwikAd.com %0A%0ABe Found. &hashtags=SuccessStory" target="_blank"><img src="images/twitter.png" width="28" height="28" class="twitter"></a>
+<span class="media_sep"></span>
+<a href="https://plus.google.com/share?url=https://qwikad.com" target="_blank"><img src="images/googleplus.png" width="28" height="28" class="gplus"></a>
+<span class="media_sep"></span>
+<a href="index.php?view=page&pagename=recommend_site"><img src="images/mail.png" width="28" height="28" class="emailqwikad"></a>
+
+
+
+</span>
+</span>
+
+
+
+<div class="footer_copyright">
+&copy; 2012 - 2017 QwikAd.com
+</div>
+</span></div>
+
+<script type="text/javascript" src="backtotop.js"></script>
+<a href="#" id="back_to_top"><span class="scroll_up">TOP</span></a> 
+
+</body>
+</html>

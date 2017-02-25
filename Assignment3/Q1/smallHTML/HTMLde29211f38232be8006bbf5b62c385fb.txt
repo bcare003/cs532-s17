@@ -1,0 +1,1090 @@
+<!DOCTYPE html>
+<!--[if (gt IE 9)|!(IE)]> <!--> <html lang="en" class="no-js section-dining format-medium tone-news app-article page-theme-standard has-top-ad type-size-small" itemid="https://www.nytimes.com/2001/06/20/dining/encore-encore-for-a-star-of-summer.html" itemtype="http://schema.org/NewsArticle"  itemscope xmlns:og="http://opengraphprotocol.org/schema/"> <!--<![endif]-->
+<!--[if IE 9]> <html lang="en" class="no-js ie9 lt-ie10 section-dining format-medium tone-news app-article page-theme-standard has-top-ad type-size-small" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+<!--[if IE 8]> <html lang="en" class="no-js ie8 lt-ie10 lt-ie9 section-dining format-medium tone-news app-article page-theme-standard has-top-ad type-size-small" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+<!--[if (lt IE 8)]> <html lang="en" class="no-js lt-ie10 lt-ie9 lt-ie8 section-dining format-medium tone-news app-article page-theme-standard has-top-ad type-size-small" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+<head>
+    <title>Encore! Encore! For a Star Of Summer - The New York Times</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="shortcut icon" href="https://static01.nyt.com/favicon.ico" />
+<link rel="apple-touch-icon-precomposed" sizes="144×144" href="https://static01.nyt.com/images/icons/ios-ipad-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114×114" href="https://static01.nyt.com/images/icons/ios-iphone-114x144.png" />
+<link rel="apple-touch-icon-precomposed" href="https://static01.nyt.com/images/icons/ios-default-homescreen-57x57.png" />
+<meta name="sourceApp" content="nyt-v5" />
+<meta id="applicationName" name="applicationName" content="article" />
+<meta id="foundation-build-id" name="foundation-build-id" content="" />
+<link rel="canonical" href="https://www.nytimes.com/2001/06/20/dining/encore-encore-for-a-star-of-summer.html" />
+<link rel="alternate" media="only screen and (max-width: 640px)" href="http://mobile.nytimes.com/2001/06/20/dining/encore-encore-for-a-star-of-summer.html" />
+<link rel="alternate" media="handheld" href="http://mobile.nytimes.com/2001/06/20/dining/encore-encore-for-a-star-of-summer.html" />
+<meta property="al:android:url" content="nytimes://reader/id/2001062000000873047" />
+<meta property="al:android:package" content="com.nytimes.android" />
+<meta property="al:android:app_name" content="NYTimes" />
+<meta name="twitter:app:name:googleplay" content="NYTimes" />
+<meta name="twitter:app:id:googleplay" content="com.nytimes.android" />
+<meta name="twitter:app:url:googleplay" content="nytimes://reader/id/2001062000000873047" />
+<link rel="alternate" href="android-app://com.nytimes.android/nytimes/reader/id/2001062000000873047" />
+<meta property="al:iphone:url" content="nytimes://www.nytimes.com/2001/06/20/dining/encore-encore-for-a-star-of-summer.html" />
+<meta property="al:iphone:app_store_id" content="284862083" />
+<meta property="al:iphone:app_name" content="NYTimes" />
+<meta property="al:ipad:url" content="nytimes://www.nytimes.com/2001/06/20/dining/encore-encore-for-a-star-of-summer.html" />
+<meta property="al:ipad:app_store_id" content="357066198" />
+<meta property="al:ipad:app_name" content="NYTimes" />
+<meta name="robots" content="noarchive" />
+<meta itemprop="alternativeHeadline" name="hdl_p" content="Encore! Encore! For a Star Of Summer" />
+<meta name="channels" content="" />
+<meta itemprop="description" name="description" content="Comment on several dishes using corn bread; recipes; photo (M)" />
+<meta name="genre" itemprop="genre" content="News" />
+<meta itemprop="identifier" name="articleid" content="2001062000000873047" />
+<meta itemprop="usageTerms" name="usageTerms" content="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html" />
+<meta itemprop="inLanguage" content="en-US" />
+<meta name="hdl" content="Encore! Encore! For a Star Of Summer" />
+<meta name="col" content="" id="column-name" />
+<meta name="pdate" content="20010620" />
+<meta name="utime" content="20010620010000" />
+<meta name="ptime" content="20010620010000" />
+<meta name="DISPLAYDATE" content="June 20, 2001" />
+<meta name="dat" content="June 20, 2001" />
+<meta name="lp" content="Comment on several dishes using corn bread; recipes; photo (M)" />
+<meta name="msapplication-starturl" content="http://www.nytimes.com" />
+<meta name="cre" content="The New York Times" />
+<meta name="slug" content="20korn" />
+<meta property="article:collection" content="https://static01.nyt.com/services/json/sectionfronts/dining/index.jsonp" />
+<meta name="sectionfront_jsonp" content="https://static01.nyt.com/services/json/sectionfronts/dining/index.jsonp" />
+<meta property="og:url" content="https://www.nytimes.com/2001/06/20/dining/encore-encore-for-a-star-of-summer.html" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Encore! Encore! For a Star Of Summer" />
+<meta property="og:description" content="Comment on several dishes using corn bread; recipes; photo (M)" />
+<meta property="article:published" itemprop="datePublished" content="2001-06-20T01:00:00-04:00" />
+<meta property="article:modified" itemprop="dateModified" content="2001-06-20T01:00:00-04:00" />
+<meta property="article:section" itemprop="articleSection" content="Food" />
+<meta property="article:section-taxonomy-id" itemprop="articleSection" content="D9C94A2B-0364-4D25-8383-592CC66F82D4" />
+<meta property="article:section_url" content="https://www.nytimes.com/pages/dining/index.html" />
+<meta property="article:top-level-section" content="dining" />
+<meta property="fb:app_id" content="9869919170" />
+<meta name="twitter:site" value="@nytimes" />
+<meta property="twitter:url" content="https://www.nytimes.com/2001/06/20/dining/encore-encore-for-a-star-of-summer.html" />
+<meta property="twitter:title" content="Encore! Encore! For a Star Of Summer" />
+<meta property="twitter:description" content="Comment on several dishes using corn bread; recipes; photo (M)" />
+<meta name="author" content="Regina Schrambling" />
+<meta name="tone" content="news" id="article-tone" />
+<meta name="byl" content="By REGINA SCHRAMBLING" />
+<meta name="PT" content="article" />
+<meta name="CG" content="dining" />
+<meta name="SCG" content="" />
+<meta name="PST" content="News" />
+<meta name="tom" content="News" />
+<meta name="edt" content="Late Edition - Final" />
+<meta property="og:image" content="https://static01.nyt.com/images/icons/t_logo_291_black.png" />
+<meta property="twitter:image" content="https://static01.nyt.com/images/icons/t_logo_150_black.png" />
+<meta name="twitter:card" value="summary" />
+<meta property="article:author" content="" />
+<meta property="article:tag" content="COOKING AND COOKBOOKS" />
+<meta name="des" content="COOKING AND COOKBOOKS" />
+<meta name="keywords" content="COOKING AND COOKBOOKS" />
+<meta name="dfp-ad-unit-path" content="dining" />
+<meta name="dfp-amazon-enabled" content="false" />
+<link rel="alternate" type="application/json+oembed" href="https://www.nytimes.com/svc/oembed/json/?url=https%3A%2F%2Fwww.nytimes.com%2F2001%2F06%2F20%2Fdining%2Fencore-encore-for-a-star-of-summer.html" title="Encore! Encore! For a Star Of Summer" />
+    
+            <link id="legacy-zam5nzz" rel="stylesheet" type="text/css" href="https://typeface.nyt.com/css/zam5nzz.css" media="all" />
+    <!--[if (gt IE 9)|!(IE)]> <!-->
+        <link rel="stylesheet" type="text/css" media="screen" href="https://a1.nyt.com/assets/article/20170223-170128/css/article/story/styles.css" />
+    <!--<![endif]-->
+    <!--[if lte IE 9]>
+        <link rel="stylesheet" type="text/css" media="screen" href="https://a1.nyt.com/assets/article/20170223-170128/css/article/story/styles-ie.css" />
+    <![endif]-->
+<link rel="stylesheet" type="text/css" media="print" href="https://a1.nyt.com/assets/article/20170223-170128/css/article/story/styles-print.css" />
+                <!--  begin abra  -->
+<script>
+var NYTD=NYTD||{};NYTD.Abra=function(t){"use strict";function n(t){var n=u[t];return n&&n[1]||null}function e(t,n){if(t){var e,o,r=n[0],u=n[1],a=0,c=0;if(1!==u.length||4294967296!==u[0])for(e=i(t+" "+r)>>>0,a=0,c=0;o=u[a++];)if(e<(c+=o[0]))return o}}function o(n,e,o,i){f+="subject="+n+"&test="+encodeURIComponent(e)+"&variant="+encodeURIComponent(o||0)+"&url="+encodeURIComponent(t.location.href)+"&instant=1&skipAugment=true\n",i&&s.push(i),c||(c=t.setTimeout(r,0))}function r(){var n=new t.XMLHttpRequest,e=s;n.withCredentials=!0,n.open("POST",a),n.onreadystatechange=function(){var t,o;if(4==n.readyState)for(t=200==n.status?null:new Error(n.statusText);o=e.shift();)o(t)},n.send(f),f="",s=[],c=null}function i(t){for(var n,e,o,r,i,u,a,c=0,f=0,s=[],l=[n=1732584193,e=4023233417,~n,~e,3285377520],h=[],p=t.length;f<=p;)h[f>>2]|=(f<p?t.charCodeAt(f):128)<<8*(3-f++%4);for(h[a=p+8>>2|15]=p<<3;c<=a;c+=16){for(n=l,f=0;f<80;n=[0|[(u=((t=n[0])<<5|t>>>27)+n[4]+(s[f]=f<16?~~h[c+f]:u<<1|u>>>31)+1518500249)+((e=n[1])&(o=n[2])|~e&(r=n[3])),i=u+(e^o^r)+341275144,u+(e&o|e&r|o&r)+882459459,i+1535694389][0|f++/20],t,e<<30|e>>>2,o,r])u=s[f-3]^s[f-8]^s[f-14]^s[f-16];for(f=5;f;)l[--f]=l[f]+n[f]|0}return l[0]}var u,a,c,f="",s=[];return n.init=function(n,r){var i,c,f,s,l,h=[],p=(t.document.cookie.match(/(^|;) *nyt-a=([^;]*)/)||[])[2],d=(t.document.cookie.match(/(^|;) *ab7=([^;]*)/)||[])[2];if(u)throw new Error("can't init twice");if(a=r,u={},d)for(d=decodeURIComponent(d).split("&"),i=0;i<d.length;i++)l=d[i].split("="),u[l[0]]=[,l[1]],l[1]&&h.push(l[0]+"="+l[1]);for(i=0;i<n.length;i++)f=n[i],c=f[0],c in u||(s=e(p,f)||[],u[c]=s,s[1]&&h.push(c.replace(/[^\w-]/g)+"="+(""+s[1]).replace(/[^\w-]/g)),s[2]&&o("ab-alloc",c,s[1]));h.length&&t.document.documentElement.setAttribute("data-nyt-ab",h.join(" "))},n.reportExposure=function(n,e){var r=u[n];r&&r[2]?o("ab-expose",n,r[1],e):e&&t.setTimeout(function(){e(null)},0)},n}(this);
+</script>
+<script>NYTD.Abra.init([["www-story-reader-satisfaction",[[21474837,"Control",1],[21474836,"VariantA",1],[4252017623,null,0]]],["www-signup-favor-test",[[2147483648,"0",1],[2147483648,"1",1]]],["www-fixed-nav-subscribe-test",[[4294967296,"1",1]]],["www-ad-diagnostic",[[21474837,"1",0],[4273492459,null,0]]],["www-fabrik-off",[[4294967296,"1",1]]],["www-auto-newsletter",[[4294967296,"1",1]]],["www-story-pro-agro",[[42949673,"control",1],[42949673,"10",1],[42949673,"8",1],[42949673,"6",1],[42949673,"4",1],[42949673,"pro-10",1],[42949673,"pro-8",1],[42949673,"pro-6",1],[42949673,"pro-4",1],[3908420239,null,0]]],["EC_SampleTest",[[2147483648,"variantA",0],[2147483648,"variantB",0]]],["EC_DigiAbandonmentTest",[[4294967296,"sendAbandonmentEmail",1]]],["EC_HdAbandonmentTest",[[2147483648,"control",1],[2147483648,"sendAbandonmentEmail",1]]],["EC_CrosswordsUpsellTest",[[2147483648,"control",1],[2147483648,"upsell",1]]],["mapleFreeTrial",[[1073741824,"0",1],[1073741824,"1",1],[1073741824,"2",1],[1073741824,"3",1]]],["EC_NewSubOnboardingTest",[[4294967296,"control",1]]],["PaywallAU",[[1417339208,"0",1],[1417339208,"1",1],[1460288880,"2",1]]]], '//et.nytimes.com/')</script>
+<!--  end abra  -->
+                <script id="page-config-data" type="text/json">
+{"pageconfig":{"ledeMediaSize":"none","keywords":["article-medium"],"collections":[]}}</script>
+<script id="display_overrides">
+            []    </script>
+
+			<!-- Media.net Initialization Script -->
+<!--NY times Desktop-->
+<script type="text/javascript">
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function () {
+        window.advBidxc = window.advBidxc || {};
+        window.advBidxc.renderAd = function () {};
+        window.advBidxc.startTime = new Date().getTime();
+        window.advBidxc.customerId = "8CU2553YN"; //Media.net Customer ID
+        window.advBidxc.timeout = 300;
+        function loadScript(tagSrc) {
+            if (tagSrc.substr(0, 4) !== 'http') {
+                var isSSL = 'https:' == document.location.protocol;
+                tagSrc = (isSSL ? 'https:' : '') + tagSrc;
+            }
+            var scriptTag = document.createElement('script'),
+                placeTag = document.getElementsByTagName("script")[0];
+            scriptTag.type = 'text/javascript';
+            scriptTag.async = true;
+            scriptTag.src = tagSrc;
+            placeTag.parentNode.insertBefore(scriptTag, placeTag);
+        }
+
+        function loadGPT() {
+            if (!window.advBidxc.isAdServerLoaded) {
+                loadScript('//www.googletagservices.com/tag/js/gpt.js');
+                window.advBidxc.isAdServerLoaded = true;
+            }
+        }
+
+        window.advBidxc.loadGPT = setTimeout(loadGPT, window.advBidxc.timeout);
+    })();
+</script>
+<script src="https://contextual.media.net/bidexchange.js?cid=8CU2553YN&amp;https=1"></script>
+
+    <!-- A9 Initialization Script -->
+    <script type="text/javascript">
+        var amznads = amznads || {};
+        amznads.asyncParams = {
+            'id': '3030',
+            'callbackFn': function() {
+                try {
+                    amznads.setTargetingForGPTAsync('amznslots');
+                } catch (e) { }
+            },
+            'timeout': 1000
+        };
+
+        (function() {
+            var a, s = document.getElementsByTagName("script")[0];
+            a = document.createElement("script");
+            a.type = "text/javascript";
+            a.async = true;
+            a.src = "https://c.amazon-adsystem.com/aax2/amzn_ads.js";
+            s.parentNode.insertBefore(a, s);
+        })();
+    </script>
+	<script type="text/json" id="trending-link-json">
+	</script>
+
+<!--esi
+<script id="user-info-data" type="application/json">
+<esi:include src="/svc/web-products/userinfo-v3.json" />
+</script>
+-->
+<script id="magnum-feature-flags" type="application/json">["limitFabrikSave","moreFollowSuggestions","unfollowComments","scoopTool","videoVHSCover","videoVHSShareTools","videoVHSLive","videoVHSNewControls","videoVHSEmbeddedOnly","allTheEmphases","freeTrial","dedupeWhatsNext","trendingPageLinks","sprinklePaidPost","headerBidder","standardizeWhatsNextCollection","onlyLayoutA","simple","simpleExtendedByline","collectionsWhatsNext","mobileMediaViewer","podcastInLede","MovieTickets","MoreInSubsectionFix","seriesIssueMarginalia","serverSideCollectionUrls","multipleBylines","fabrikWebsocketsOnly","translationLinks","papihttps","verticalFullBleed","updateRestaurantReservations","mapDining","newsletterInlineModule","PersonalizationApiUpdate","a9HeaderEnabled","removeInternationalEdition","headlineBalancer","clientSideABRA","newsletterTitleTracking","surveyInterstitial","removeFBMessengerPromo","removeMarginaliaAbTest","paidpostSprinklingFix","abraOverrideVersion","headlineBalancerEverywhere","signupFavor","lazyloadOakImages","mapleFreeTrial","adQuerySupportForMultipleUserAddedKeywords","oakUpdateAdStride","autoPlaceNewsletter","piiBlockDFP","adExclusiveIERibbonCheck","didScroll","supportedByAdFullBleed","anchorsHttps","oakBylineMargin","TopFlexAdSiteWide","oakStyleTouchups","adAggro"]</script>
+<script>
+var require = {
+    baseUrl: 'https://a1.nyt.com/assets/',
+    waitSeconds: 20,
+    paths: {
+        'foundation': 'article/20170223-170128/js/foundation',
+        'shared': 'article/20170223-170128/js/shared',
+        'article': 'article/20170223-170128/js/article',
+        'application': 'article/20170223-170128/js/article/story',
+        'videoFactory': 'https://static01.nyt.com/js2/build/video/2.0/videofactoryrequire',
+        'videoPlaylist': 'https://static01.nyt.com/js2/build/video/players/extended/2.0/appRequire',
+        'auth/mtr': 'https://static01.nyt.com/js/mtr',
+        'auth/growl': 'https://static01.nyt.com/js/auth/growl/default',
+        'vhs': 'https://static01.nyt.com/video/vhs/build/vhs-2.x.min'
+    },
+    map: {
+        '*': {
+            'story/main': 'article/story/main'
+        }
+    }
+};
+</script>
+<!--[if (gte IE 9)|!(IE)]> <!-->
+<script data-main="foundation/main" src="https://a1.nyt.com/assets/article/20170223-170128/js/foundation/lib/framework.js"></script>
+<!--<![endif]-->
+<!--[if lt IE 9]>
+<script>
+    require.map['*']['foundation/main'] = 'foundation/legacy_main';
+</script>
+<script data-main="foundation/legacy_main" src="https://a1.nyt.com/assets/article/20170223-170128/js/foundation/lib/framework.js"></script>
+<![endif]-->
+    <script>
+    require(['foundation/main'], function () {
+        require(['auth/mtr', 'auth/growl']);
+    });
+    </script>
+</head>
+
+<body>
+    
+    <style>
+    .lt-ie10 .messenger.suggestions {
+        display: block !important;
+        height: 50px;
+    }
+
+    .lt-ie10 .messenger.suggestions .message-bed {
+        background-color: #f8e9d2;
+        border-bottom: 1px solid #ccc;
+    }
+
+    .lt-ie10 .messenger.suggestions .message-container {
+        padding: 11px 18px 11px 30px;
+    }
+
+    .lt-ie10 .messenger.suggestions .action-link {
+        font-family: "nyt-franklin", arial, helvetica, sans-serif;
+        font-size: 10px;
+        font-weight: bold;
+        color: #a81817;
+        text-transform: uppercase;
+    }
+
+    .lt-ie10 .messenger.suggestions .alert-icon {
+        background: url('https://static01.nyt.com/images/icons/icon-alert-12x12-a81817.png') no-repeat;
+        width: 12px;
+        height: 12px;
+        display: inline-block;
+        margin-top: -2px;
+        float: none;
+    }
+
+    .lt-ie10 .masthead,
+    .lt-ie10 .navigation,
+    .lt-ie10 .comments-panel {
+        margin-top: 50px !important;
+    }
+
+    .lt-ie10 .ribbon {
+        margin-top: 97px !important;
+    }
+</style>
+<div id="suggestions" class="suggestions messenger nocontent robots-nocontent" style="display:none;">
+    <div class="message-bed">
+        <div class="message-container last-message-container">
+            <div class="message">
+                <span class="message-content">
+                    <i class="icon alert-icon"></i><span class="message-title">NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.</span>
+                    <a href="http://www.nytimes.com/content/help/site/ie9-support.html" class="action-link">LEARN MORE »</a>
+                </span>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div id="shell" class="shell">
+    <header id="masthead" class="masthead masthead-theme-standard" role="banner">
+    <div class="container">
+        <div class="quick-navigation button-group">
+            <button class="button sections-button"><i class="icon sprite-icon"></i><span class="button-text">Sections</span></button>
+            <button class="button home-button" data-href="http://www.nytimes.com/" title="Go to the home page to see the latest top stories."><i class="icon sprite-icon"></i>
+                <span class="button-text">Home</span>
+            </button>
+            <button class="button search-button"><i class="icon sprite-icon"></i><span class="button-text">Search</span></button>
+            <a class="button skip-button skip-to-content visually-hidden focusable" href="#story-header">Skip to content</a>
+                        <a class="button skip-button skip-to-navigation visually-hidden focusable" href="#site-index-navigation">Skip to navigation</a>
+                                    <a class="button skip-button skip-to-mobile visually-hidden focusable" href="http://mobile.nytimes.com/2001/06/20/dining/encore-encore-for-a-star-of-summer.html">View mobile version</a>
+                    </div><!-- close button-group -->
+        <div class="branding">
+            <h2 class="branding-heading">
+                <a id="branding-heading-link" href="http://www.nytimes.com/">
+                    <span class="visually-hidden">The New York Times</span>
+                </a>
+            </h2>
+            <script>window.magnum.writeLogo('small', 'https://a1.nyt.com/assets/article/20170223-170128/images/foundation/logos/', 'dining', 'masthead-theme-standard', 'standard', 'branding-heading-link', 'article');</script>
+        </div><!-- close branding -->
+                <div class="story-meta">
+            <h6 class="kicker"><span class="kicker-label"><a href="https://www.nytimes.com/pages/dining/index.html">Food</a></span><span class="pipe">|</span>Encore! Encore! For a Star Of Summer</h6>
+        </div><!-- close story-meta -->
+        <div class="user-tools">
+            <div id="Bar1" class="ad bar1-ad nocontent robots-nocontent"></div>
+            <div id="sharetools-masthead" aria-label="tools" role="group" class="sharetools theme-classic  sharetools-masthead  "
+data-shares="facebook,twitter,email,show-all,save"
+data-url="https://www.nytimes.com/2001/06/20/dining/encore-encore-for-a-star-of-summer.html"
+data-title="Encore! Encore! For a Star Of Summer"
+data-author="By REGINA SCHRAMBLING"
+data-media=""
+data-description="Comment on several dishes using corn bread; recipes; photo (M)"
+	data-publish-date="June 20, 2001"
+>
+<div class="ad sharetools-inline-article-ad hidden nocontent robots-nocontent">
+</div>
+</div><!-- close shareTools -->
+            <button class="button search-button"><i class="icon sprite-icon"></i><span class="button-text">Search</span></button>
+            <div class="user-tools-button-group button-group">
+                <button class="button subscribe-button hidden" data-href="http://www.nytimes.com/subscriptions/Multiproduct/lp3004.html?campaignId=4XUYF">Subscribe Now</button>
+                <button class="button login-button login-modal-trigger hidden">Log In</button>
+                                                <button class="button notifications-button hidden"><i class="icon sprite-icon"></i><span class="button-text">0</span></button>
+                <button class="button user-settings-button"><i class="icon sprite-icon"></i><span class="button-text">Settings</span></button>
+            </div><!-- close user-tools-button-group -->
+        </div><!-- close user-tools -->
+    </div><!-- close container -->
+    <div class="search-flyout-panel flyout-panel">
+    <button class="button close-button" type="button"><i class="icon"></i><span class="visually-hidden">Close search</span></button>
+    <nav class="search-form-control form-control layout-horizontal">
+    <h2 class="visually-hidden">Site Search Navigation</h2>
+    <form class="search-form" role="search">
+        <div class="control">
+            <div class="label-container visually-hidden">
+                                <label for="search-input">Search NYTimes.com</label>
+                            </div>
+            <div class="field-container">
+                                <input id="search-input" name="search-input" type="text" class="search-input text" autocomplete="off" placeholder="Search NYTimes.com" />
+                
+                <button type="button" class="button clear-button" tabindex="-1" aria-describedby="clear-search-input"><i class="icon"></i><span id="clear-search-input" class="visually-hidden">Clear this text input</span></button>
+                <div class="auto-suggest" style="display: none;">
+                    <ol></ol>
+                </div>
+                <button class="button submit-button" type="submit">Go</button>
+            </div>
+        </div><!-- close control -->
+    </form>
+</nav>
+
+
+</div><!-- close flyout-panel -->
+    <div id="notification-modals" class="notification-modals"></div>
+</header>
+            <nav id="ribbon" class="ribbon ribbon-start nocontent robots-nocontent" aria-hidden="true">
+    <div class="nocontent robots-nocontent">
+        <ol class="ribbon-menu">
+                    <li class="collection ribbon-loader">
+                <div class="loader loader-t-logo-32x32-ecedeb-ffffff"><span class="visually-hidden">Loading...</span></div>
+            </li>
+        </ol>
+        <div class="ribbon-navigation-container">
+            <nav class="ribbon-navigation next">
+                <span class="visually-hidden">See next articles</span>
+                <div class="arrow arrow-right">
+                    <div class="arrow-conceal"></div>
+                </div>
+            </nav>
+            <nav class="ribbon-navigation previous">
+                <span class="visually-hidden">See previous articles</span>
+                <div class="arrow arrow-left">
+                    <div class="arrow-conceal"></div>
+                </div>
+            </nav>
+        </div>
+    </div><!-- close nocontent -->
+    </nav>
+
+<script type="text/javascript">
+(function () {
+    var ribbon;
+    if (window.magnum.getFlags().indexOf('adAggro') !== -1 &&
+        (window.NYTD.Abra('www-story-pro-agro') !== 'control' &&
+        window.NYTD.Abra('www-story-pro-agro') !== null &&
+        window.NYTD.Abra('www-story-pro-agro') !== 'null' &&
+        window.NYTD.Abra('www-story-pro-agro') !== '')) {
+        ribbon = document.querySelector('#ribbon');
+        if (ribbon && ribbon.parentNode) {
+            ribbon.parentNode.removeChild(ribbon);
+        }
+    }
+})();
+</script>
+        <nav id="navigation" class="navigation">
+    <h2 class="visually-hidden">Site Navigation</h2>
+</nav><!-- close navigation -->
+
+<nav id="mobile-navigation" class="mobile-navigation hidden">
+    <h2 class="visually-hidden">Site Mobile Navigation</h2>
+</nav><!-- close mobile-navigation -->
+
+    <div id="navigation-edge" class="navigation-edge"></div>
+    <div id="page" class="page">
+        <div id="TopAd" class="ad top-ad nocontent robots-nocontent">
+    <div class="accessibility-ad-header visually-hidden">
+    <p>Advertisement</p>
+</div>
+</div>
+
+        <main id="main" class="main" role="main">
+        <article id="story" class="story theme-main   ">
+
+    <div id='TragedyAd' class='ad tragedy-ad nocontent robots-nocontent'></div>
+
+                        
+    <header id="story-header" class="story-header">
+                                <div id="story-meta" class="story-meta ">
+                            <div class="supported-by hidden nocontent robots-nocontent">
+                    <span class="ad-label">Supported by</span>
+                    <div id="supported-by-ad" class="supported-by-ad ad"></div>
+                </div>
+                                        <h3 class="kicker">
+                                            <span class="kicker-label"><a href="https://www.nytimes.com/pages/dining/index.html">Food</a></span>                                                                                                                                            </h3>
+                        			<h1 itemprop="headline" id="headline" class="headline">Encore! Encore! For a Star Of Summer</h1>
+	                                                <div id="story-meta-footer" class="story-meta-footer">
+                                                                                                    
+
+<p class="byline-dateline"><span class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person" >By <span class="byline-author" data-byline-name="REGINA SCHRAMBLING" itemprop="name">REGINA SCHRAMBLING</span></span><time class="dateline" datetime="2001-06-20T01:00:00-04:00" itemprop="dateModified" content="2001-06-20T01:00:00-04:00">JUNE 20, 2001</time>
+</p>
+
+                                    <div class="story-meta-footer-sharetools">
+                        <div id="sharetools-story-meta-footer" aria-label="tools" role="group" class="sharetools theme-classic  sharetools-story-meta-footer  "
+data-shares="facebook,twitter,email,show-all,save"
+data-url="https://www.nytimes.com/2001/06/20/dining/encore-encore-for-a-star-of-summer.html"
+data-title="Encore! Encore! For a Star Of Summer"
+data-author="By REGINA SCHRAMBLING"
+data-media=""
+data-description="Comment on several dishes using corn bread; recipes; photo (M)"
+	data-publish-date="June 20, 2001"
+>
+<a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a>
+<span class="sharetools-label visually-hidden">Share This Page</span>
+<div class="ad sharetools-inline-article-ad hidden nocontent robots-nocontent">
+<a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a>
+</div>
+</div><!-- close shareTools -->
+                                                                                                </div>
+                            </div><!-- close story-meta-footer -->
+        </div><!-- close story-meta -->
+    </header>
+
+    <script type="text/javascript">
+        if (
+            window.magnum
+            && window.magnum.getFlags().indexOf('headlineBalancer') > 0
+            && window.magnum.headlineBalancer
+            && window.magnum.headlineBalancer.initialize
+            && window.magnum.headlineBalancer.shouldRun()
+        ) {
+            window.magnum.headlineBalancer.initialize();
+        }
+    </script>
+
+        
+    <div class="story-body-supplemental">
+    <div class="story-body story-body-1">
+        <p class="story-body-text story-content" data-para-count="268" data-total-count="268">CONNOISSEURS know corn bread has a shelf life just slightly longer than a soufflé. Hot out of the oven, it reaches perfection in those few heartbeats between the moment you get the butter slathered on and the second it starts to fall apart as you take the first bite.</p><p class="story-body-text story-content" data-para-count="166" data-total-count="434">Once corn bread goes cold on you, it's no longer fit to be bread. It never reheats well; it just dries out and turns to crumbs. And then it starts to get interesting.</p><p class="story-body-text story-content" data-para-count="526" data-total-count="960">Leftover corn bread is one of the great secret ingredients in summer, when it seems there's always corn bread left over, along with the excess coleslaw and barbecued chicken. Even at its most forlorn, hours or a day old, it still has strong corn flavor and crunchy texture. You just can't  eat it by the wedge. You have to crush it into crumbs and make it into a topping for baked fish, break it up and treat it like couscous in a salad or cube it and use it in savory puddings or as a stuffing for baked tomatoes or zucchini.</p><p class="story-body-text story-content" data-para-count="506" data-total-count="1466">I started recycling stale corn bread instead of tossing it out many summers ago after interviewing a Texas barbecue impresario who called himself Crazy Sam Higgins. Along with educating me in the finer points of rubs as opposed to sauces and in smoking rather than grilling, he passed along a recipe for a corn-bread salad that he swore was so good, anyone who made it would be tempted to eat the whole bowlful. An ingredient list that started with a full pint of mayonnaise made it easy to understand why.</p>        <a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a>
+    </div><!-- close story-body -->
+    <div class="supplemental first" id="supplemental-1">
+    </div><!-- close supplemental -->
+</div><!-- close story-body-supplemental -->
+<div class="story-interrupter" id="story-continues-1">
+    <div id="FlexAd" class="ad flex-ad nocontent robots-nocontent">
+    <div class="accessibility-ad-header visually-hidden">
+    <p>Advertisement</p>
+</div>
+<a class="visually-hidden skip-to-text-link" href="#story-continues-2">Continue reading the main story</a>
+    <div class="flex-ad-creative"></div>
+</div>
+</div>
+<div class="story-body-supplemental">
+    <div class="story-body story-body-2">
+        <p class="story-body-text story-content" data-para-count="293" data-total-count="1759" id="story-continues-2">But it's more than just unflinching richness that makes this salad irresistible. It's the contrast of color and crunch in natural complements for corn: scallions, celery, bell pepper, pimentos, toasted pecans and juicy tomatoes. I bake corn bread just to let it go cold so I can eat this dish.</p><div id="story-ad-1" class="story-ad ad ad-placeholder nocontent robots-nocontent ">
+    <div class="accessibility-ad-header visually-hidden">
+    <p>Advertisement</p>
+</div>
+<a class="visually-hidden skip-to-text-link" href="#story-continues-3">Continue reading the main story</a>
+</div>
+<p class="story-body-text story-content" data-para-count="280" data-total-count="2039" id="story-continues-3">I've since come across corn-bread salad recipes that call for bacon, eggs, cheese, ranch dressing and other overkill ingredients. And I've experimented myself, adding Vidalia onions, fresh corn or pickled jalapeños. But this is one of those rare recipes you really can't improve.</p><p class="story-body-text story-content" data-para-count="618" data-total-count="2657">I had better luck putting my imprint on another corn-bread makeover, a pudding from ''Tom Douglas' Seattle Kitchen'' (Morrow, 2000) that had been haunting me for months before I decided to try it for a dinner party a couple of weeks ago. It called for a chef's extravagance of fresh herbs and cheese, but my menu had more of a Southwestern theme and two kinds of cheese already. I left out the Monterey Jack, parsley, rosemary and thyme, and added sweet red pepper and chipotle chilies in smoky adobo sauce. And I didn't know whether to be wounded or flattered when there were leftovers of everything but that pudding.</p><p class="story-body-text story-content" data-para-count="316" data-total-count="2973">Both dishes sound and taste very American but have antecedents in Europe. Corn-bread salad is just a Texas twist on Tuscan bread salad, also a salvage operation for stale bread. And the pudding is a savory take on pain perdu (alias French toast), in which stale bread absorbs a new identity thanks to eggs and dairy.</p><div id="story-ad--aggro-4" class="story-ad ad ad-placeholder nocontent robots-nocontent  ad-aggro-4">
+    <div class="accessibility-ad-header visually-hidden">
+    <p>Advertisement</p>
+</div>
+<a class="visually-hidden skip-to-text-link" href="#story-continues-4">Continue reading the main story</a>
+</div>
+<p class="story-body-text story-content" data-para-count="207" data-total-count="3180" id="story-continues-4">You could make either dish with store-bought corn bread or with the oversweetened kind from a mix, but that would be silly. It takes less time to make corn bread from scratch than it does for it to go stale.</p><p class="story-body-text story-content" data-para-count="10" data-total-count="3190">CORN BREAD</p><p class="story-body-text story-content" data-para-count="16" data-total-count="3206">Time: 25 minutes</p><p class="story-body-text story-content" data-para-count="45" data-total-count="3251">1 tablespoon plus  1/4 cup peanut or corn oil</p><p class="story-body-text story-content" data-para-count="28" data-total-count="3279">1 cup coarse yellow cornmeal</p><p class="story-body-text story-content" data-para-count="13" data-total-count="3292">1/2 cup flour</p><div id="story-ad--aggro-6" class="story-ad ad ad-placeholder nocontent robots-nocontent  ad-aggro-6">
+    <div class="accessibility-ad-header visually-hidden">
+    <p>Advertisement</p>
+</div>
+<a class="visually-hidden skip-to-text-link" href="#story-continues-5">Continue reading the main story</a>
+</div>
+<p class="story-body-text story-content" data-para-count="28" data-total-count="3320" id="story-continues-5">2 tablespoons sugar or honey</p><p class="story-body-text story-content" data-para-count="24" data-total-count="3344">1 teaspoon baking powder</p><p class="story-body-text story-content" data-para-count="22" data-total-count="3366">1 teaspoon baking soda</p><p class="story-body-text story-content" data-para-count="17" data-total-count="3383">1/2 teaspoon salt</p><p class="story-body-text story-content" data-para-count="6" data-total-count="3389">2 eggs</p><p class="story-body-text story-content" data-para-count="17" data-total-count="3406">1 cup buttermilk.</p><p class="story-body-text story-content" data-para-count="87" data-total-count="3493">1. Heat oven to 425 degrees. Use 1 tablespoon oil to grease 9-inch square or round pan.</p><p class="story-body-text story-content" data-para-count="255" data-total-count="3748">2. Combine dry ingredients in one bowl, whisk wet ingredients in another. Combine and stir together just until batter is moistened but not smooth. Spread into pan and bake 15 to 20 minutes, until toothpick inserted in center comes out clean. Cool on rack.</p><div class="newsletter-signup hidden auto-newsletter" id="newsletter-promo" data-newsletter-productCode="" data-newsletter-productTitle="">
+        <script type="application/json" id="auto-newsletter-rules">[{"headline":"Cooking","summary":"Daily inspiration, delicious recipes, and other updates from Sam Sifton and The New York Times, right to your inbox.","product-code":"CK","product-title":"Cooking","sample-url":"http:\/\/www.nytimes.com\/pages\/cooking\/cooking-email\/index.html?pgtype=subscriptionspage&version=new&contentId=CK&eventName=sample&module=newsletter-sign-up"},{"headline":"Morning Briefing","summary":"What you need to know to start your day, delivered to your inbox.","product-code":"NN","product-title":"Morning Briefing","sample-url":"http:\/\/www.nytimes.com\/newsletters\/sample\/morning-briefing?pgtype=subscriptionspage&version=new&contentId=NN&eventName=sample&module=newsletter-sign-up"},{"headline":"Magazine","summary":"The best of The New York Times Magazine delivered to your inbox every week, including exclusive feature stories, photography, columns and more.","product-code":"MA","product-title":"The New York Times Magazine","sample-url":"http:\/\/www.nytimes.com\/newsletters\/sample\/magazine?pgtype=subscriptionspage&version=new&contentId=MA&eventName=sample&module=newsletter-sign-up"}]</script>
+        <h2 class="headline"></h2>    <p class="summary"></p>    <form name="regilite" class="newsletter-form" method="post" autocomplete="off">
+        <div class="control input-control">
+            <div class="form-errors">
+                <p class="error captcha-error hidden">Please verify you're not a robot by clicking the box.</p>
+                <p class="error invalid-email-error hidden">Invalid email address. Please re-enter.</p>
+                <p class="error buffet-error hidden">You must select a newsletter to subscribe to.</p>
+            </div>
+            <div class="field-container">
+                <input id="email" name="email" class="email-input" type="email" aria-required="true" placeholder="Enter your email address" value="">
+                <button id="submit-button" type="submit" class="button submit-button">Sign Up</button>
+            </div>
+        </div><!-- close control -->
+        <div class="control checkbox-control">
+            <div class="field-container">
+                <input id="special-offers" class="checkbox" type="checkbox" name="special-offers" value="MM" checked="">
+            </div>
+            <div class="label-container">
+                <label class="checkboxLabel" for="special-offers">Receive occasional updates and special offers for The New York Times's products and services.</label>
+            </div>
+        </div><!-- close control -->
+        <div class="g-recaptcha" id="captcha-container" data-sitekey="6LeN0R4TAAAAACwPa5WX2QYE0npOf2-2veTOm2Tp"></div>
+    </form>
+    <div class="messages">
+        <h2 class="success-message hidden">Thank you for subscribing.</h2>
+        <h2 class="error submit-error hidden">An error has occurred. Please try again later.</h2>
+        <h2 class="subscriber hidden">You are already subscribed to this email.</h2>
+        <p class="view-all-link hidden"><a href="/newsletters" target="_blank">View all New York Times newsletters.</a></p>
+    </div><!-- close messages -->
+    <ul class="footer">
+                <li id="sample-newsletter-link" class="sample"><a href="" target="_blank">See Sample</a></li>
+                <li class="manage-email"><a href="/mem/email.html" target="_blank">Manage Email Preferences</a></li>
+        <li class="logout hidden"><a href="/logout" target="_blank">Not you?</a></li>
+        <li class="privacy"><a href="/privacy" target="_blank">Privacy Policy</a></li>
+    </ul><!-- close footer -->
+    <script src="https://www.google.com/recaptcha/api.js" async="async" defer="defer"></script>
+</div>
+<p class="story-body-text story-content" data-para-count="24" data-total-count="3772">Yield: 8 to 10 servings.</p><p class="story-body-text story-content" data-para-count="27" data-total-count="3799">CHIPOTLE-CORN-BREAD PUDDING</p><p class="story-body-text story-content" data-para-count="22" data-total-count="3821">Time: About 50 minutes</p><p class="story-body-text story-content" data-para-count="31" data-total-count="3852">2 1/2 tablespoons melted butter</p><div id="story-ad--aggro-8" class="story-ad ad ad-placeholder nocontent robots-nocontent  ad-aggro-4 ad-aggro-8">
+    <div class="accessibility-ad-header visually-hidden">
+    <p>Advertisement</p>
+</div>
+<a class="visually-hidden skip-to-text-link" href="#story-continues-6">Continue reading the main story</a>
+</div>
+<p class="story-body-text story-content" data-para-count="49" data-total-count="3901" id="story-continues-6">Just under 3 cups stale corn bread in large cubes</p><p class="story-body-text story-content" data-para-count="62" data-total-count="3963">1 large Vidalia or other sweet onion, peeled and thinly sliced</p><div id="story-ad-2" class="story-ad ad ad-placeholder nocontent robots-nocontent ">
+    <div class="accessibility-ad-header visually-hidden">
+    <p>Advertisement</p>
+</div>
+<a class="visually-hidden skip-to-text-link" href="#story-continues-7">Continue reading the main story</a>
+</div>
+<p class="story-body-text story-content" data-para-count="57" data-total-count="4020" id="story-continues-7">1 large red sweet pepper, cored, seeded and thinly sliced</p><p class="story-body-text story-content" data-para-count="26" data-total-count="4046">1 teaspoon Mexican oregano</p><p class="story-body-text story-content" data-para-count="26" data-total-count="4072">1 teaspoon coarse sea salt</p><div id="story-ad--aggro-10" class="story-ad ad ad-placeholder nocontent robots-nocontent  ad-aggro-10">
+    <div class="accessibility-ad-header visually-hidden">
+    <p>Advertisement</p>
+</div>
+<a class="visually-hidden skip-to-text-link" href="#story-continues-8">Continue reading the main story</a>
+</div>
+<p class="story-body-text story-content" data-para-count="62" data-total-count="4134" id="story-continues-8">2 to 4 chipotle chilies in adobo, chopped, with sauce to taste</p><p class="story-body-text story-content" data-para-count="12" data-total-count="4146">4 large eggs</p><p class="story-body-text story-content" data-para-count="20" data-total-count="4166">1 pint half-and-half</p><p class="story-body-text story-content" data-para-count="20" data-total-count="4186">1/4 cup heavy cream.</p><p class="story-body-text story-content" data-para-count="127" data-total-count="4313">1. Heat oven to 350 degrees. Grease 8-inch baking dish with one-half tablespoon melted butter. Arrange corn bread cubes in pan.</p><div id="story-ad--aggro-12" class="story-ad ad ad-placeholder nocontent robots-nocontent  ad-aggro-4 ad-aggro-6">
+    <div class="accessibility-ad-header visually-hidden">
+    <p>Advertisement</p>
+</div>
+<a class="visually-hidden skip-to-text-link" href="#story-continues-9">Continue reading the main story</a>
+</div>
+<p class="story-body-text story-content" data-para-count="293" data-total-count="4606" id="story-continues-9">2. Place remaining butter in large sauté pan. Add onion, pepper, oregano and salt and cook slowly until very soft and almost caramelized, about 20 minutes. Strew over corn bread. In bowl, whisk together chipotles,  eggs, half and half and cream. Pour over corn bread and let stand 10 minutes.</p><p class="story-body-text story-content" data-para-count="52" data-total-count="4658">3. Bake 40 minutes, until set and golden. Serve hot.</p><p class="story-body-text story-content" data-para-count="23" data-total-count="4681">Yield: 6 to 8 servings.</p><p class="story-body-text story-content" data-para-count="16" data-total-count="4697">CORN-BREAD SALAD</p><p class="story-body-text story-content" data-para-count="68" data-total-count="4765">Adapted from ''I'm Glad I Ate When I Did 'Cause I'm Not Hungry Now''</p><p class="story-body-text story-content" data-para-count="29" data-total-count="4794">(Crazy Sam Enterprises, 1984)</p><p class="story-body-text story-content" data-para-count="30" data-total-count="4824">Time: 10 minutes plus chilling</p><p class="story-body-text story-content" data-para-count="39" data-total-count="4863">About 6 cups stale corn bread, crumbled</p><p class="story-body-text story-content" data-para-count="43" data-total-count="4906">1 large green bell pepper, seeded and diced</p><p class="story-body-text story-content" data-para-count="33" data-total-count="4939">1 to 2 large ripe tomatoes, diced</p><p class="story-body-text story-content" data-para-count="22" data-total-count="4961">2 stalks celery, diced</p><p class="story-body-text story-content" data-para-count="44" data-total-count="5005">1 large bunch scallions, trimmed and chopped</p><p class="story-body-text story-content" data-para-count="43" data-total-count="5048">1 2-ounce jar pimentos, drained and chopped</p><p class="story-body-text story-content" data-para-count="17" data-total-count="5065">1 pint mayonnaise</p><p class="story-body-text story-content" data-para-count="31" data-total-count="5096">1/2 cup toasted pecans, chopped</p><p class="story-body-text story-content" data-para-count="37" data-total-count="5133">Salt and fresh black pepper to taste.</p><p class="story-body-text story-content" data-para-count="57" data-total-count="5190">Combine all the ingredients in a large bowl and mix well.</p><div id="story-ad--aggro-16" class="story-ad ad ad-placeholder nocontent robots-nocontent  ad-aggro-4 ad-aggro-8">
+    <div class="accessibility-ad-header visually-hidden">
+    <p>Advertisement</p>
+</div>
+<a class="visually-hidden skip-to-text-link" href="#story-continues-10">Continue reading the main story</a>
+</div>
+<p class="story-body-text story-content" data-para-count="21" data-total-count="5211" id="story-continues-10">Chill before serving.</p><p class="story-body-text story-content" data-para-count="18" data-total-count="5229">Yield: 8 servings.</p>        <a class="visually-hidden skip-to-text-link" href="#whats-next">Continue reading the main story</a>
+    </div><!-- close story-body -->
+    <div class="supplemental " id="supplemental-2">
+    </div><!-- close supplemental -->
+</div><!-- close story-body-supplemental -->
+
+    
+    <div class="reader-satisfaction-survey prompt feedback-prompt story-content hidden">
+<a class="feedback-link" href="https://docs.google.com/forms/d/e/1FAIpQLSfLW30xgZodF1qRAg80oWEGuDpW-1HHaL0g42G3SmvB2f4lCw/viewform?entry.8537735=https://www.nytimes.com/2001/06/20/dining/encore-encore-for-a-star-of-summer.html" target="_blank">
+    <p class="feedback-message">We&#8217;re interested in your feedback on this page. <strong>Tell us what you think.</strong></p>
+</a>
+</div>
+
+    <div id="storage-drawer" class="hidden">
+        <div class="supplemental-sub-item" data-attribute-position="0" data-attribute-name="PaidPost" data-attribute-type="PaidPost" data-attribute-subtype="">
+    <aside id='middle-right-paid-post-container' class='ad middle-right-ad paid-post-ad marginalia-item hidden nocontent robots-nocontent'>
+    <h2 class='marginalia-heading'></h2>
+    <ul class='story-menu'>
+        <li id='MiddleRightPaidPost1' class='story-menu-item ad'></li>
+        <li id='MiddleRightPaidPost2' class='story-menu-item ad'></li>
+        <li id='MiddleRightPaidPost3' class='story-menu-item ad'></li>
+        <li id='MiddleRightPaidPost4' class='story-menu-item ad'></li>
+    </ul>
+</aside>
+</div>
+    </div>
+
+</article>
+
+
+<aside class="module trending-module hidden nocontent robots-nocontent" data-truncate-enabled="true"></aside><section id="whats-next" class="whats-next nocontent robots-nocontent">
+    <h2 class="visually-hidden">What's Next</h2>
+    <div class="nocontent robots-nocontent">
+        <div class="loader-container">
+            <div class="loader loader-t-logo-32x32-ecedeb-ffffff"><span class="visually-hidden">Loading...</span></div>
+        </div>
+    </div><!-- close nocontent -->
+</section>
+<div id="TopAd1" class="text-ad bottom-left-ad nocontent robots-nocontent"></div>
+<div id="Top5" class="ad top5-ad hidden nocontent robots-nocontent"></div>
+                    <div class="search-overlay"></div>
+            </main><!-- close main -->
+            <section id="site-index" class="site-index">
+    <header class="section-header">
+        <p class="user-action"><a href="http://www.nytimes.com/">Go to Home Page &raquo;</a></p>
+        <h2 class="section-heading">
+            <span class="visually-hidden">Site Index</span>
+            <a id="site-index-branding-link" href="http://www.nytimes.com/">
+                <span class="visually-hidden">The New York Times</span>
+            </a>
+        </h2>
+        <script>window.magnum.writeLogo('small', 'https://a1.nyt.com/assets/article/20170223-170128/images/foundation/logos/', '', '', 'standard', 'site-index-branding-link', '');</script>
+    </header>
+
+    <nav id="site-index-navigation" class="site-index-navigation" role="navigation">
+        <h2 class="visually-hidden">Site Index Navigation</h2>
+        <div class="split-6-layout layout">
+
+                                                                                    
+                    <div class="column">
+                        <h3 class="menu-heading">News</h3>
+                        <ul class="menu">
+
+                                                                                                                                                                                                                                                
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/world/index.html">World</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/national/index.html">U.S.</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/politics/index.html">Politics</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/nyregion/index.html">N.Y.</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/business/index.html">Business</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/technology/index.html">Tech</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/section/science">Science</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/health/index.html">Health</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/sports/index.html">Sports</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/education/index.html">Education</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/obituaries/index.html">Obituaries</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/corrections/index.html">Corrections</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                                            
+                    <div class="column">
+                        <h3 class="menu-heading">Opinion</h3>
+                        <ul class="menu">
+
+                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/opinion/index.html">Today's Opinion</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/opinion/index.html#columnists">Op-Ed Columnists</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/opinion/index.html#editorials">Editorials</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/opinion/index.html#contributing">Contributing Writers</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/opinion/index.html#op-ed">Op-Ed Contributors</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/opinion/index.html#opinionator">Opinionator</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/opinion/index.html#letters">Letters</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/opinion/index.html#sundayreview">Sunday Review</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/opinion/index.html#takingNote">Taking Note</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/roomfordebate">Room for Debate</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://topics.nytimes.com/top/opinion/thepubliceditor/index.html">Public Editor</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/video/opinion">Video: Opinion</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                                            
+                    <div class="column">
+                        <h3 class="menu-heading">Arts</h3>
+                        <ul class="menu">
+
+                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/arts/index.html">Today's Arts</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/arts/design/index.html">Art & Design</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/books/index.html">Books</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/arts/dance/index.html">Dance</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/movies/index.html">Movies</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/arts/music/index.html">Music</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/events/">N.Y.C. Events Guide</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/arts/television/index.html">Television</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/theater/index.html">Theater</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/video/arts">Video: Arts</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                                            
+                    <div class="column">
+                        <h3 class="menu-heading">Living</h3>
+                        <ul class="menu">
+
+                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/automobiles/index.html">Automobiles</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/crosswords/">Crossword</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/dining/index.html">Food</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/education/index.html">Education</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/fashion/index.html">Fashion & Style</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/health/index.html">Health</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/section/jobs">Jobs</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/magazine/index.html">Magazine</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/events/">N.Y.C. Events Guide</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/section/realestate">Real Estate</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/section/t-magazine">T Magazine</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/section/travel">Travel</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/fashion/weddings/index.html">Weddings & Celebrations</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                                            
+                    <div class="column">
+                        <h3 class="menu-heading">Listings & More</h3>
+                        <ul class="menu">
+
+                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/ref/classifieds/">Classifieds</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/marketing/tools-and-services/">Tools & Services</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/topics/">Times Topics</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://topics.nytimes.com/top/opinion/thepubliceditor/index.html">Public Editor</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/events/">N.Y.C. Events Guide</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/interactive/blogs/directory.html">Blogs</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/pages/multimedia/index.html">Multimedia</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://lens.blogs.nytimes.com/">Photography</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/video">Video</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/store/?&t=qry542&utm_source=nytimes&utm_medium=HPB&utm_content=hp_browsetree&utm_campaign=NYT-HP&module=SectionsNav&action=click&region=TopBar&version=BrowseTree&contentCollection=NYT%20Store&contentPlacement=2&pgtype=Homepage">NYT Store</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/times-journeys/?utm_source=nytimes&utm_medium=HPLink&utm_content=hp_browsetree&utm_campaign=NYT-HP">Times Journeys</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/seeallnav">Subscribe</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/membercenter">Manage My Account</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                            
+            <div class="column last-column">
+                
+<h3 class="menu-heading">Subscribe</h3>
+
+<ul class="menu primary-menu">
+    <li class="menu-label">Subscribe</li>
+    <li class="home-delivery">
+        <i class="icon sprite-icon"></i>
+                    <a href="http://www.nytimes.com/hdleftnav">Home Delivery</a>
+            </li>
+    <li class="digital-subscriptions">
+        <i class="icon sprite-icon"></i>
+                    <a href="http://www.nytimes.com/digitalleftnav">Digital Subscriptions</a>
+            </li>
+    <li class="times-premier">
+        <i class="icon sprite-icon"></i>
+        <a href="http://www.nytimes.com/tpnav">Times Insider</a>
+    </li>
+    <li class="nyt-crossword last-item">
+        <i class="icon sprite-icon"></i>
+        <a id="nyt-crossword" href="http://www.nytimes.com/crosswords/index.html">Crossword</a>
+    </li>
+</ul>
+
+<ul class="menu secondary-menu">
+
+    <li>
+        <a href="http://www.nytimes.com/marketing/newsletters">Email Newsletters</a>
+    </li>
+    <li>
+        <a href="https://myaccount.nytimes.com/mem/tnt.html">Alerts</a>
+    </li>
+    <li>
+                    <a href="http://www.nytimes.com/giftleftnav">Gift Subscriptions</a>
+            </li>
+    <li>
+                    <a href="http://www.nytimes.com/corporateleftnav">Corporate Subscriptions</a>
+            </li>
+    <li>
+                    <a href="http://www.nytimes.com/educationleftnav">Education Rate</a>
+            </li>
+
+</ul>
+<ul class="menu secondary-menu">
+    <li>
+        <a href="http://www.nytimes.com/services/mobile/index.html">Mobile Applications</a>
+    </li>
+    <li>
+                    <a href="http://eedition.nytimes.com/cgi-bin/signup.cgi?cc=37FYY">Replica Edition</a>
+            </li>
+    
+</ul>
+
+            </div><!-- close column -->
+
+        </div><!-- close split-6-layout -->
+
+    </nav><!-- close nav -->
+
+</section><!-- close site-index -->
+
+            <footer id="page-footer" class="page-footer" role="contentinfo">
+    <nav>
+        <h2 class="visually-hidden">Site Information Navigation</h2>
+         <ul>
+             <li>
+                <a href="http://www.nytimes.com/content/help/rights/copyright/copyright-notice.html" itemprop="copyrightNotice">
+                    &copy; <span itemprop="copyrightYear">2017</span><span itemprop="copyrightHolder provider sourceOrganization" itemscope itemtype="http://schema.org/Organization" itemid="http://www.nytimes.com"><span itemprop="name"> The New York Times Company</span><meta itemprop="tickerSymbol" content="NYSE NYT"/></span>
+                </a>
+            </li>
+            <li class="visually-hidden"><a href="http://www.nytimes.com">Home</a></li>
+            <li class="visually-hidden"><a href="http://query.nytimes.com/search/sitesearch/#/">Search</a></li>
+            <li class="visually-hidden">Accessibility concerns? Email us at <a href="mailto:accessibility@nytimes.com">accessibility@nytimes.com</a>. We would love to hear from you.</li>
+            <li class="wide-viewport-item"><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+            <li class="wide-viewport-item"><a href="http://www.nytco.com/careers">Work With Us</a></li>
+            <li class="wide-viewport-item"><a href="http://nytmediakit.com/">Advertise</a></li>
+            <li class="wide-viewport-item"><a href="http://www.nytimes.com/content/help/rights/privacy/policy/privacy-policy.html#pp">Your Ad Choices</a></li>
+            <li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+            <li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html" itemprop="usageTerms">Terms of Service</a></li>
+            <li class="wide-viewport-item last-item"><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+         </ul>
+    </nav>
+    <nav class="last-nav">
+        <h2 class="visually-hidden">Site Information Navigation</h2>
+        <ul>
+            <li><a href="http://spiderbites.nytimes.com">Site Map</a></li>
+            <li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+            <li><a href="https://myaccount.nytimes.com/membercenter/feedback.html">Site Feedback</a></li>
+            <li class="wide-viewport-item last-item"><a href="http://www.nytimes.com/subscriptions/Multiproduct/lp5558.html?campaignId=37WXW">Subscriptions</a></li>
+        </ul>
+    </nav>
+</footer>
+        </div><!-- close page -->
+    </div><!-- close shell -->
+    <script>
+require(['foundation/main'], function () {
+    require(['story/main']);
+    require(['jquery/nyt', 'foundation/views/page-manager'], function ($, pageManager) {
+        if (window.location.search.indexOf('disable_tagx') > 0) {
+            return;
+        }
+        $(document).ready(function () {
+            require(['https://a1.nyt.com/analytics/tagx-simple.min.js'], function () {
+                pageManager.trackingFireEventQueue();
+            });
+        });
+    });
+});
+</script>
+<!--esi                                                                                                                    
+<esi:include src="/appconfig/https/show-modal.js" />                                                                       
+-->
+
+    <div id="Inv1" class="ad inv1-ad hidden"></div>
+<div id="Inv2" class="ad inv2-ad hidden"></div>
+<div id="Inv3" class="ad inv3-ad hidden"></div>
+<div id="ab1" class="ad ab1-ad hidden"></div>
+<div id="ab2" class="ad ab2-ad hidden"></div>
+<div id="ab3" class="ad ab3-ad hidden"></div>
+<div id="prop1" class="ad prop1-ad hidden"></div>
+<div id="prop2" class="ad prop2-ad hidden"></div>
+<div id="Anchor" class="ad anchor-ad hidden"></div>
+<div id="ADX_CLIENTSIDE" class="ad adx-clientside-ad hidden"></div>
+</body>
+</html>

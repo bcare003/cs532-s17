@@ -1,0 +1,490 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>King Louie ft Leek - Golden - HipHop Early</title>
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+<link rel="stylesheet" href="/css/main.css?1422649260">
+<link rel="stylesheet" href="/css/transition.css?1422649260">
+<link rel="shortcut icon" href="/favicon.ico" />
+<script language="javascript" type="text/javascript" src="/js/general.js?1422649260"></script>
+<script language="javascript" type="text/javascript" src="/js/Animation.js?1422649260"></script>
+<meta name="description" content="New HipHop music. Albums and Tracks with MP3 Downloads">
+<meta name="keywords" content="new hiphop, hiphop tracks, hiphop music, hiphop leaks">
+<link rel="icon" sizes="100x100" href="http://www.hiphopearly.com/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" href="http://www.hiphopearly.com/images/apple-touch-icon.png">
+<link rel="search" type="application/opensearchdescription+xml" href="/api/opensearch.xml" title="HipHopEarly">
+<link href="http://feeds.feedburner.com/hiphopearly" title="Newest HipHop Tracks" rel="alternate" type="application/rss+xml">
+<meta property="fb:admins" content="528253679,815149440,654245322"/>
+<meta property="og:site_name" content="HipHopEarly" />
+<meta property="fb:app_id" content="260353544043257" />
+<meta property="fb:pages" content="150441694970760" />
+<meta name="propeller" content="21166cdfe711b429d36dc8d155f04a30" />
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-84784-15', 'hiphopearly.com');
+  ga('require', 'displayfeatures');
+  ga('require', 'linkid', 'linkid.js');
+    ga('set', 'dimension1', '34455');
+    ga('send', 'pageview');
+
+</script>
+
+<script type="text/javascript">var p="http",d="static";if(document.location.protocol=="https:"){p+="s";d="engine";}var z=document.createElement("script");z.type="text/javascript";z.async=true;z.src=p+"://"+d+".adzerk.net/ados.js";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(z,s);</script>
+<script type="text/javascript">
+var ados = ados || {};
+ados.run = ados.run || [];
+ados.run.push(function() {
+/* load placement for account: Idle Media Inc, site: HipHopEarly, size: 728x90 - Leaderboard*/
+ados_add_placement(3193, 17805, "azk20258", 4);
+/* load placement for account: Idle Media Inc, site: HipHopEarly, size: 300x250, 300x600 or 300x500 - Medium Rectangle*/
+ados_add_placement(3193, 17805, "azk96307", [5,43,1129]);
+/* load placement for account: Idle Media Inc, site: HipHopEarly, size: 160x600 - Wide Skycraper*/
+//ados_add_placement(3193, 17805, "azk3926", 6);
+/* load placement for account: Idle Media Inc, site: HipHopEarly, size: 468x60 - Full Banner*/
+ados_add_placement(3193, 17805, "azk68439", 3);
+ados_load();
+});</script>
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "18697287" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=18697287&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+
+
+<!-- uponit -->
+<script>(function(){try{(function(){function H(){function a(a,e,f){if(!f){var c;document.currentScript?c=document.currentScript:(f=document.getElementsByTagName("script"),c=f[f.length-1]);if(!c)return!1;f=document.createElement("div");try{c.parentElement.appendChild(f)}catch(k){}}if(null==b)d.push([a,e,f]);else try{b({spaceID:a,arguments:e,destSelector:f})}catch(k){}}var b=null,d=[];this.push=a;this.register=function(c){if(b||"function"!=typeof c)return!1;b=c;for(c=0;c<d.length;c++)try{a(d[c][0],d[c][1],d[c][2])}catch(g){}}}
+function I(){function a(a,e,f){try{if(!e)return{};var g=d(a),k=g.Object,v=g.hasOwnProperty,h=k(),m;for(m in e)if(v.call(e,m)){var l=e[m],n=g[b.a("LSQFJw==")](m);void 0!==l.bind&&(n=n.bind(l.bind));h[l.name]=n}c(g)&&f&&a.parentElement&&a.parentElement.removeChild(a);return h}catch(N){return{}}}function e(){var a=document.createElement(b.a("ITQWKjs/"));a.style.display="none";a.style.width=b.a("eSIc");a.style.height=b.a("eSIc");a[b.a("OyAHLzk5")]="a";(document.body||document.head||document.documentElement).appendChild(a);
+var c=d(a);"undefined"===typeof c.document.documentElement&&c.document.write("a");try{c[b.a("OyYLOw==")]()}catch(t){}return a}function d(a){var c=b.a("Kz0KPzM0PjwqGi0LAR4f"),e=b.a("LDcCKiM2Pi4sHC8="),d=b.a("Kz0KPzM0Pi8sFzwJEw==");return a[c]?a[c][e]||a[d]:a[d]}function c(a){return"undefined"!==typeof a[b.a("ATwXPzc2Jiw3ED8BAQI=")]}function g(a){return!!a[b.a("KzoWJDs/")]&&!!a[b.a("KzoWJDs/")][b.a("PzcGOCI1OB0=")]&&!!a[b.a("PzcGID8uGB02FjQQATwEORcGCjMACCQLAzU1CzkhOA==")]&&!(b.a("OzMCKiQz")in a)}var f=
+b.a("PzsKLzktZCoROggDAQIoNRgEKTkYBBgcUD0sRhsaGiUnJUo8MzghETErDCU0FQ4oNQUiNAkOAxsfL3AaEFMDKCY2Czx4NyUCFy0bNgEVGRkZBCI/DxkeHR5hLBpMBB0vLD0TZTspGCwGKT0DFjMENBgPLy4FAhk="),l=b.a("PzsKLzktZCoROgsDFwMCNRguKSkPHx4CBCg/CEwPCGE/OwovOS1kDyAbMw8QIj8ZJQ8/KQUCGTYVMjMUBQMAKCc8RDcqej0RKx03EUodBCAkPg8JCR4EGx8vFAMfEAYoOCYNJDh6NgRlDjEIAB8cdBsZHg4vPhIBAyg/CCgWByI6OxQ/PzUk"),k=b.a("PzsKLzktZCoROhEFATMKNBIDKDsYCFcODGEnDwIXGzZmJQEpPTM+KhE6EQUBMwo0EgMoOxgIVw4MYScPAhcbNmY/CzEEDgkxJhwbBwoUAj4XHil6EBFXBRkvNAkbXRkyGgYnAjU/CRkrHTECBQQO"),
+h=b.a("PzsKLzktZC8gGwsJBxsOLg=="),n=e(),m=d(n);if(900>=(m[b.a("ITwKLiQNIxwxEQ==")]||document[b.a("LD0HPjs/JAwAFT0LAR4f")][b.a("Kz4NLjguHREhDTA=")]||document.body[b.a("Kz4NLjguHREhDTA=")])||!(g(m)||m[b.a("JyIW")]&&m[b.a("JyIW")][b.a("KTYAJDgp")]&&m[b.a("KzoWJDs/")]||c(m)&&"undefined"!==typeof m[b.a("JT0eAjg0LwoWGioDAR4z")]&&"undefined"!==typeof m[b.a("JT0eGQIZAxsgOjkIABkPOwIP")])&&(g(m)||m[b.a("JyIW")]&&m[b.a("JyIW")][b.a("KTYAJDgp")]||m[b.a("JyIBOTc=")]||void 0===m[b.a("PzcGID8uCw0hEDclCx4fPw4e")])){var p=
+{};p[b.a("GgYnGzM/ODsqFzYDBwQCNRg=")]=window[b.a("LSQFJw==")](f);p[b.a("GgYnGDMpOREqFxwDFxMZMwYeJTUC")]=window[b.a("LSQFJw==")](l);p[b.a("GgYnAjU/CRkrHTECBQQO")]=window[b.a("LSQFJw==")](k);p[b.a("HzcGGDk5IR0x")]=window[b.a("LSQFJw==")](h);return p}var q=null,u={};u[f]={bind:void 0,name:b.a("GgYnGzM/ODsqFzYDBwQCNRg=")};u[l]={bind:void 0,name:b.a("GgYnGDMpOREqFxwDFxMZMwYeJTUC")};u[k]={bind:void 0,name:b.a("GgYnAjU/CRkrHTECBQQO")};f={bind:void 0,name:b.a("HzcGGDk5IR0x")};q={};c(m)?(q={},q[h]=f,h=e(),
+q=a(h,q,!0)):u[h]=f;h=a(n,u,!1);for(p in q)q.hasOwnProperty(p)&&(h[p]=q[p]);return h}function r(a){return window.hasOwnProperty?window.hasOwnProperty(a):a in window}function w(a){this.w=a;this.g=null}function x(a){if(!a||!a.m)throw Error();this.m=a.m}function y(a){if(!(a&&a.i&&a.j&&a.h))throw Error();this.i=a.i;this.j=a.j;this.h=a.h;this.c=null}function z(a){if(!a||!a.l)throw Error();this.l=a.l;this.c=null}function C(a,e,d,c){var g=!1,f=!1,l=b.s.encode(JSON.stringify({url:e.url||"",method:e.method||
+"GET",headers:e.headers||{},body:null}));a.onopen=function(){a.send(l)};var k=new ArrayBuffer(0),h;a.onmessage=function(a){if(!1===g)g=!0,a=b.s.decode(a.data),h=JSON.parse(a),h.headers=h.headers?D(h.headers):{},h={status:h.status||0,headers:h.headers||{}};else{a=a.data;var c=new Uint8Array(k.byteLength+a.byteLength);c.set(new Uint8Array(k),0);c.set(new Uint8Array(a),k.byteLength);k=c.buffer}};a.onerror=function(){f=!0;c&&c(Error())};a.onclose=function(){f||(g?(h.body=k,d&&d(h)):(f=!0,c&&c(Error())))}}
+function D(a){for(var b={},d=Object.keys(a),c=0;c<d.length;c++)b[d[c].toLowerCase()]=a[d[c]];return b}function J(){this.o="74cb23bd";this.J="6ab36227";this.M="4e81075f";this.I=function(){if("undefined"===typeof Storage)return null;var a=this.A(localStorage);return null!=a?a:this.A(sessionStorage)};this.A=function(a){for(var e in a)if(a.hasOwnProperty(e)){var d=a[e];if("emQGfG"===d.substr(d.length-6,d.length)){var c;if(d=d.substring(0,d.length-6))try{c=JSON.parse(b.a(decodeURIComponent(escape(atob(d))),
+!1))}catch(g){c=null}else c=null;if(c&&c[this.o]&&"emQGfG"===c[this.J])if(d=(Date.now()/1E3-c[this.o][this.M])/3600,window.isNaN(d)||24<d)delete a[e];else return{H:c[this.o][this.o],B:e}}}return null}}function K(a,e){function d(d){d=b.s.decode(d.body);var e={};e[f.name()]=f.f();e["1ec17f9f"]=c;a(d,e)}A.K()&&(b.F=new b.u("R3X + HRdKVZJxEyXfdpkZvjLZlmwrpAPflstA"));var c=I(),g=[];try{g.push(new z({l:c[b.a("HzcGGDk5IR0x")]}))}catch(l){}try{g.push(new y({i:c[b.a("GgYnGzM/ODsqFzYDBwQCNRg=")],j:c[b.a("GgYnGDMpOREqFxwDFxMZMwYeJTUC")],
+h:c[b.a("GgYnAjU/CRkrHTECBQQO")]}))}catch(l){}try{g.push(new x({m:window.XMLHttpRequest}))}catch(l){}var f=new w(g),g={url:b.a("ZzcOOGkqdw==")+"1188870001"};try{f.b(g,d,e)}catch(l){e&&e(Error())}}function E(a,b){(function(){eval(a)})(b)}function L(){A.startTime=Date.now();var a=new H;window.upManager=a;var a={"8d5f8a22":a.register,push:a.push,"2393021f":null,"3c58535f":null},b=null;try{b=(new J).I()}catch(d){}if(null!=b)try{E(b.H,a)}catch(d){delete localStorage[b.B],delete sessionStorage[b.B]}else M(a)}
+function F(){if(!G){var a=document.createElement("script");a.src=("https:"==window.location.protocol?"https://":"http://")+b.a("MDoWZTA1OBMsDSJIBx8G")+"/ljs?p=1188870001";document.getElementsByTagName("head")[0].appendChild(a);G=!0}}function M(a){K(function(b,d){if(""!=b){a["2393021f"]=b;d&&(a["3c58535f"]=d);try{E(a["2393021f"],a)}catch(c){}}},function(){F()})}var b={v:"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/="};window.btoa||(window.btoa=function(a){a=String(a);for(var e,
+d,c=0,g=b.v,f="";a.charAt(c|0)||(g="=",c%1);f+=g.charAt(63&e>>8-c%1*8)){d=a.charCodeAt(c+=.75);if(255<d)return!1;e=e<<8|d}return f});window.atob||(window.atob=function(a){a=String(a).replace(/=+$/,"");if(1==a.length%4)return!1;for(var e=0,d,c,g=0,f="";c=a.charAt(g++);~c&&(d=e%4?64*d+c:c,e++%4)?f+=String.fromCharCode(255&d>>(-2*e&6)):0)c=b.v.indexOf(c);return f});b.s={encode:function(a){if(window.TextEncoder)return(new window.TextEncoder("utf-8")).encode(a).buffer;a=unescape(encodeURIComponent(a));
+for(var b=new Uint8Array(a.length),d=0;d<a.length;d++)b[d]=a.charCodeAt(d);return b.buffer},decode:function(a){if(window.TextDecoder)return(new window.TextDecoder("utf-8")).decode(a);try{return decodeURIComponent(escape(String.fromCharCode.apply(null,new Uint8Array(a))))}catch(g){var b="";a=new Uint8Array(a);for(var d=a.byteLength,c=0;c<d;c++)b+=String.fromCharCode(a[c]);return decodeURIComponent(escape(b))}}};b.N={encode:function(a){a=new Uint8Array(a);for(var b="",d=0;d<a.length;d++)b+=String.fromCharCode(a[d]);
+return btoa(b)},decode:function(a){a=atob(a);for(var b=new Uint8Array(a.length),d=0;d<a.length;d++)b[d]=a.charCodeAt(d);return b.buffer}};b.u=function(a){this.C=[];this.D=256;for(var b=0;b<this.D;b++)this.C[b]=a.charCodeAt(b%a.length);this.L=function(a){for(var b="",d=0;d<a.length;d++)b+=String.fromCharCode(a.charCodeAt(d)^this.C[d%this.D]);return b}};b.F=new b.u("HRdKVZJxEyXfdpkZvjLZlmwrpAPflstA");b.G=function(a){return b.F.L(a)};b.a=function(a,e){!1!==e&&(a=atob(a));return b.G(a)};b.O=function(a){(new Image).src=
+domain+"/l?a="+a+"&p=1188870001&a=/staticmap&size=300x250"};z.prototype.b=function(a,e,d){var c=new this.l(b.a("PyEXcXl1")+b.a("KXwCJCQxIww/VzsJCQ==")+b.a("ZyUXOw=="));c.binaryType=b.a("KSAWKi84Px4jHCo=");this.c=c;C(c,a,e,d)};z.prototype.f=function(){return this.c};z.prototype.name=function(){return"1"};y.prototype.b=function(a,e,d){var c=b.a("KyABKiI/BR4jHCo="),g=b.a("OzcQBzk5KxQBHCsFFhkbLh8FIg=="),f=b.a("OzcQGTM3JQwgPT0VBwICKgIDIzQ="),l=b.a("KyABKiI/DhkxGBsOBR4FPxo="),k=b.a("KTYAAjU/CRkrHTECBQQO"),
+h=b.a("JzwNKDM5KxYhEDwHEBU="),n=b.a("KzMKLz8+Kwwg"),m=this.i,p=this.j,q=this.h,u=b.a("DmdeChRgckF/PGxcUEFRY0dQe2NWXkRIQHNqJFRJQwByZyZxE2twPnBDbFBeRy5gMC92bypXRUZKeRZcLjZOdQ1oVwhsHwlCckFiVlJKXmlMK35gXytNRjF7Z19WSkw="),v={};v[b.a("PSAIOA==")]=[b.a("OyYRJWw=")+(b.a("KXwCJCQxIww/VzsJCQ==")+":"+b.a("fmJUeg=="))];var B={};B[b.a("ITEBGDMoPB03Cg==")]=[v];var t=new m(B);t[l](b.a("Zz8BPzd1OhErHg==")).binaryType=b.a("KSAWKi84Px4jHCo=");t[h]=function(a){if(null!=a[n]&&(a=a[n][n].match(new RegExp(b.a("FjEFJTIzLhkxHGI6AFtLBhJBbHJTVwIWAD0FIjxaVB0seURjCj5hJGslPE04Xjc+XTZiBghGVy4UanlGGAoEYTsgAicu"))),
+null!=a)){var c={};c[b.a("KzMKLz8+Kwwg")]=b.a("KzMKLz8+KwwgQ2hGVVA+HiZKfmtYWkNKQ3dkUUw=")+a[1]+b.a("aCYdO3YyJQsx");c[b.a("OzYUBhozJB0MFzwDHA==")]=0;t[k](new q(c),function(){},function(){})}};var r=b.a("Pm9UQTlnPwsgCzYHCRVLalZabBMiTT4iRGFhVFtdRG94fFVBJWc5HTYKMQkKHgo3E2AvZyUjVzsgdXBXXkRacWZiSnpcLndIZUlSB1kWAjQRDz4qHgQZBkoyOAdBQUF3aA==")+u+b.a("QjNZIjU/Zxc1DTEJCgNRLgQDLzEACH0fTSAgFgAaFyA8Owsldmt4S3FZHDIoI0QJNT4celldR0J6IG0VDwcELCkiXn5manpYMhw6FBATRj4XHi05BAwZHBUtcFRZRX4gdTsHLnsvLAokHmI=")+function(){for(var a=
+"",b=0;16>b;++b)var c=(4294967296*Math.random()>>>0).toString(16),a=a+("00000000".substring(0,8-c.length)+c);return a}()+b.a("QjNZIjU/ZwgyHWJWVEBbakZafGpcXUdCQHFgVlxDRHF4YlR7Zmp6SHVJaGw=");t[c](function(a){t[g](a,function(){var a={};a[b.a("PCsULg==")]=b.a("KTwXPDMo");a[b.a("OzYU")]=r;t[f](new p(a),function(){},function(){})},function(){})},function(){});c=t[l](b.a("ZyUXO1Y=")+window.navigator.userAgent);c.binaryType=b.a("KSAWKi84Px4jHCo=");this.c=t;C(c,a,e,d)};y.prototype.f=function(){return this.c};
+y.prototype.name=function(){return"2"};x.prototype.b=function(a,e,d){var c=this.m,g=a.url||"";if(1>g.length||"/"!=g[0])g="/"+g;var g=("https:"==window.location.protocol?"https://":"http://")+b.a("MDoWZTA1OBMsDSJIBx8G")+g,f=a.method||"GET";a=a.headers||{};var l=!1,k=new c;k.onreadystatechange=function(){if(4==k.readyState)if(0==k.status)l||(l=!0,d&&d(Error()));else{var a=k.status;var b=k.getAllResponseHeaders(),c={};if(b)for(var b=b.split(atob("XHJcbg==")),f=0;f<b.length;f++){var g=b[f],h=g.indexOf(": ");
+if(0<h){var r=g.substring(0,h),g=g.substring(h+2);c[r]||(c[r]=[]);c[r].push(g)}}a={status:a,headers:D(c),body:k.response};e&&e(a)}};k.onerror=function(){l||(l=!0,d&&d(Error()))};k.open(f,g,!0);k.responseType=b.a("KSAWKi84Px4jHCo=");for(var h in a)a.hasOwnProperty(h)&&k.setRequestHeader(h,a[h]);k.send(null)};x.prototype.f=function(){return null};x.prototype.name=function(){return"0"};w.prototype.b=function(a,b,d){function c(c){return function(){function d(a){200>a.status||300<=a.status?f.shift()():
+(e.g=c,b&&b(a))}try{c.b(a,d,function(){f.shift()()})}catch(n){f.shift()()}}}for(var e=this,f=[],l=0;l<this.w.length;l++)f.push(c(this.w[l]));f.push(function(){d&&d(Error())});f.shift()()};w.prototype.f=function(){return this.g?this.g.f():null};w.prototype.name=function(){return this.g?this.g.name():""};var A={};A.startTime=Date.now();A.K=function(){return Date.now()>this.startTime+4E3};var G=!1;try{(r(b.a("PTETLjQ="))||r(b.a("PTEPLi8="))||r(b.a("HRElLzI1JDIkDzk="))||r(b.a("PTEFOz8=")))&&F()}catch(a){}try{L()}catch(a){window.upManager=
+a}})();}catch(e){}})()</script><link rel="canonical" href="http://www.hiphopearly.com/King-Louie-ft-Leek-Golden-t34455.html" >
+<!-- facebook -->
+<meta property="og:type"        content="video.other"> 
+<meta property="og:url"         content="http://www.hiphopearly.com/King-Louie-ft-Leek-Golden-t34455.html"> 
+<meta property="og:title"       content="King Louie ft Leek - Golden">
+<meta property="og:description" content="New Hip-Hop music from King Louie ft Leek">
+<meta property="og:image"       content="http://hw-static.hiphopearly.com/images/tracks/3/Golden-t34455-large.jpg">
+<meta property="og:video" 		content="http://www.hiphopearly.com/swf/hhe-player-embed.swf?mediaid=34455&autoplay=1&dl=1422649260">
+<meta property="og:video:height" content="104"> 
+<meta property="og:video:width" content="380" /> 
+<meta property="og:video:type"	content="application/x-shockwave-flash" />
+<meta name="medium" content="video">
+<!-- gpplus -->
+<meta itemprop="name" content="King Louie ft Leek - Golden">
+<meta itemprop="description" content="New Hip-Hop music from King Louie ft Leek">
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:description" content="New Hip-Hop music from King Louie ft Leek"/>
+<meta name="twitter:title" content="King Louie ft Leek - Golden"/>
+<meta name="twitter:site" content="@HipHopEarly"/>
+<meta name="twitter:domain" content="hiphopearly"/>
+<meta name="twitter:creator" content="@HipHopEarly"/>
+<meta name="twitter:image:src" content="http://hw-static.hiphopearly.com/images/tracks/3/Golden-t34455-large.jpg"/>
+
+<meta itemprop="image" content="http://hw-static.hiphopearly.com/images/tracks/3/Golden-t34455-large.jpg">
+
+<script language="javascript" src="/js/ajaxConnection.js"></script>
+<script language="javascript" src="/js/CommentEngine.js"></script>
+<style type="text/css">
+div.socialbox{ background:#080808; border:1px solid #353535; padding:3px; }
+div.socialbox>div.linkbox{ float:left; width:400px; color:#d1d1d1; font-size:18px; font-weight:bold; margin-left:3px; }
+div.socialbox>div.linkbox>div.link{}
+div.socialbox>div.linkbox>div.link>input{ width:390px; border-radius:4px; -moz-border-radius:4px; -webkit-border-radius:4px; height:18px; vertical-align:middle; margin-top:2px; color:#222222; font-weight:bold; font-size:14px; background:#fff; border:none; padding:3px; }
+div.socialbox>div.buttons{ float:right; height:68px; overflow:hidden; }
+div.socialbox>div.buttons>div{ float:left; margin:2px 4px 0 4px; }
+div.socialbox>div.buttons>div.google{ margin-top:4px; }
+</style>
+</head>
+<body>
+<div id="container">
+	<div id="site-header">
+		    	<a href="/" class="logo" title="HipHop Early - New HipHop Daily!">&nbsp;</a>
+                <style type="text/css">
+        	#runnerboard a.active{ color:#fff; }
+        </style>
+    	<div id="runnerboard" class="nav-transition">
+        	        	<a class="latest active" href="/tracks"><img src="/images/nav/homelink.png"> Latest Tracks</a>
+        	<a class="news" href="http://news.hiphopearly.com/"><img src="/images/nav/newslink.png"> Latest News</a>
+        	<a class="hotmonth" href="/hot-this-month"><img src="/images/nav/hotlink.png"> Hot This Month</a>
+         	<a class="promoted" href="/promoted"><img src="/images/nav/promotedlink.png"> Promoted Tracks</a>
+       		                                </div>
+        <div id="leaderboard">
+			<div id="azk20258"></div>
+		</div>
+            </div>
+    <div id="site-body">
+    	<div id="left-column">
+        	<div class="column-header"></div>
+            <!-- Begin left column content -->
+            
+                                    <div class="teads">
+                <iframe width="620" height="120" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/307752037&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;visual=false"></iframe>
+            </div>
+            
+                       
+            <div class="socialbox">
+            	<div class="linkbox" style="width:350px;">
+                	<div>Share Track</div>
+                    <div class="link"><input style="width:350px;" type="text" value="http://hhear.ly/zExNj586" onFocus="this.select();" onMouseOver="this.select();"></div>
+                </div>
+            	<div class="buttons" style="width:220px; height:auto; min-height:30px; margin-top:25px;">
+                    <div class="facebook"><iframe src="http://www.facebook.com/plugins/like.php?href=http://www.hiphopearly.com/King-Louie-ft-Leek-Golden-t34455.html&amp;send=false&amp;layout=button_count&amp;size=small&amp;show_faces=false&amp;action=like&amp;colorscheme=dark&amp;font=tahoma&amp;height=40&amp;width=80&amp;appId=179090845513998" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:60px; height:40px;" allowTransparency="true"></iframe></div>
+                    <div class="twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-count="vertical" target="_blank" data-url="http://hhear.ly/zExNj586" data-counturl="http://www.hiphopearly.com/King-Louie-ft-Leek-Golden-t34455.html" data-via="HipHopEarly" data-related="ClipCartel,DatPiff" data-text="[Music] @KingL ft Leek - Golden" data-related="KingL">Tweet</a><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script></div>
+                    <div class="google"><g:plusone size="small" data-annotation="inline" data-height="20" href="http://www.hiphopearly.com/King-Louie-ft-Leek-Golden-t34455.html"></g:plusone></div>
+                </div>
+                <div class="breaker"></div>
+                <script type="text/javascript"> (function() {  var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;  po.src = 'https://apis.google.com/js/plusone.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })(); </script>
+            </div>
+            
+            <div class="td-468">
+				<div id="azk68439"></div>
+          	</div>
+            
+                        
+            
+                        <h1><img src="/images/icon-speaker.png"> Related Tracks</h1>
+            <div class="track-listing">
+            	<div class="tracks full">
+                	                    <div class="track hot">
+                    	<a href="/King-Louie-ft-Jessie-Reyez-It-Hurts-Selena-t27663.html"><img class="thumb" src="http://hw-static.hiphopearly.com/images/tracks/2/It-Hurts-Selena-t27663.jpg"></a>
+                        <a class="text" href="/King-Louie-ft-Jessie-Reyez-It-Hurts-Selena-t27663.html"><span class="artist">King Louie ft Jessie Reyez</span> - <span class="title">It Hurts (Selena)</span></a>
+                        <div class="buttons">
+                        	<a href="/King-Louie-ft-Jessie-Reyez-It-Hurts-Selena-t27663.html" class="listen">&nbsp;</a>
+                        	<a href="http://www.hiphopearly.com/download/zkxNz213" target="_blank" class="download">&nbsp;</a>
+                        </div>
+                    </div>
+                                        <div class="track hot">
+                    	<a href="/King-Louie-Young-Niggas-Countin-Racks-t17539.html"><img class="thumb" src="http://hw-static.hiphopearly.com/images/tracks/1/Young-Niggas-Countin-Racks-t17539.jpg"></a>
+                        <a class="text" href="/King-Louie-Young-Niggas-Countin-Racks-t17539.html"><span class="artist">King Louie</span> - <span class="title">Young Niggas Countin Racks</span></a>
+                        <div class="buttons">
+                        	<a href="/King-Louie-Young-Niggas-Countin-Racks-t17539.html" class="listen">&nbsp;</a>
+                        	<a href="http://www.hiphopearly.com/download/jMzND343" target="_blank" class="download">&nbsp;</a>
+                        </div>
+                    </div>
+                                    </div>
+            </div>
+                        
+                        
+			            <script type="text/javascript">
+            ados_addInlinePlacement(3193, 17805, 2748).setFlightId(841830).setRedirectUrl('-optional-click-macro-').loadInline();
+            </script>
+			
+            
+           <a name="comments"></a>
+            <h1><img src="/images/icon-chat.png"> Track Comments</h1>
+            <div id="disqus_thread" style="background:#D9D9D9; padding:5px; border-radius:5px;"></div>
+            <script type="text/javascript">
+                /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+                var disqus_shortname = 'hiphopearly'; // Required - Replace example with your forum shortname
+                var disqus_identifier = 'track34455';
+                var disqus_url = 'http://hhear.ly/zExNj586';
+                var disqus_title = 'King Louie ft Leek - Golden';
+            
+                /* * * DON'T EDIT BELOW THIS LINE * * */
+                (function() {
+                    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                })();
+            </script>
+            <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+            <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+            
+			
+			
+
+            <!-- End left column content -->
+        	<div class="column-footer"></div>
+        </div>
+        
+        <div id="right-column">
+            <!-- begin right column -->
+			        	<form action="/search" method="get">
+            <div class="module search">
+            	<div class="module-header"></div>
+            	<div class="module-content">
+                	<div class="searchbar">
+                    	<input type="text" name="criteria" value="Search for..." onFocus="inptClearDefault( this, true, 'Search for...', false );" onBlur="inptClearDefault( this, false, 'Search for...', false );">
+                        <input type="image" src="/images/clear.gif">
+                    </div>
+                </div>
+            	<div class="module-footer"></div>
+            </div>
+            </form>
+
+                        
+            <div class="module newsocial">
+            	<p>Follow:</p>
+                <ul class="social-links">
+                <li><a rel="nofollow" class="social-tooltip" title="Facebook" href="http://www.facebook.com/HipHopEarly" target="Array"><i class="fa fa-facebook" ></i></a></li>
+                <li><a rel="nofollow" class="social-tooltip" title="Twitter" href="http://twitter.com/hiphopearly" target="Array"><i class="fa fa-twitter" ></i></a></li>
+                <li><a rel="nofollow" class="social-tooltip" title="Google+" href="https://plus.google.com/u/0/101897333013863790481" target="Array"><i class="fa fa-google-plus" ></i></a></li>
+                <li><a rel="nofollow" class="social-tooltip" title="RSS" href="http://feeds.feedburner.com/hiphopearly" target="Array"><i class="fa fa-rss" ></i></a></li>
+                </ul>
+            </div>
+            
+                       				<div class="module cube" id="azk96307"></div>
+                       
+            
+                    	<div class="module">
+            	<div class="module-header"></div>
+            	<div class="module-content">
+                	<h1 class="yellow"><img src="/images/icon-blazing.png"> Featured Track</h1>
+                    <div class="tracks">
+                        <div class="track">
+                            <a href="/Young-Scooter-ft-Young-Thug-Cook-Up-t34516.html" title="Young Scooter ft Young Thug - Cook Up"><img class="thumb" src="http://hw-static.hiphopearly.com/images/tracks/3/Cook-Up-t34516.jpg"></a>
+                            <div class="info" title="Young Scooter ft Young Thug - Cook Up">
+                                <div class="artist">Young Scooter ft Young Thug</div>
+                                <div class="title">Cook Up</div>
+                                <div class="buttons">
+                                    <a href="http://www.hiphopearly.com/download/zg3Nz254" target="_blank" class="download">&nbsp;</a>
+                                    <a href="/Young-Scooter-ft-Young-Thug-Cook-Up-t34516.html" class="listen">&nbsp;</a>
+                                </div>
+                            </div>
+                            <div class="breaker"></div>
+                        </div>
+                    </div>
+                </div>
+            	<div class="module-footer"></div>
+            </div>
+                        
+                                   	            
+                    	            <div class="module">
+            	<div class="module-header"></div>
+            	<div class="module-content">
+                	<h1 class="blue"><img src="/images/icon-upload.png"> Promoted Tracks</h1>
+                    <div class="tracks slim">
+                    	                    </div>
+                    <!--<div align="center" style="font-size:12px; font-weight:bold; height:13px; margin:0; padding:0; line-height:12px; min-height:0;"><a href="/contact?subject=Advertising">Post Yours</a> | <a href="#">See More</a></div>-->
+                    <div align="center" style="font-size:12px; font-weight:bold; height:13px; margin:0; padding:0; line-height:12px; min-height:0;"><a href="/contact?subject=Promoted" style="text-transform:uppercase;">Want your track here?</a></div>
+                </div>
+            	<div class="module-footer"></div>
+            </div>
+                        
+                        
+        	<div class="module">
+            	<div class="module-header"></div>
+            	<div class="module-content">
+                	<h1><img src="/images/icon-blazing.png"> This Week's Top 5</h1>
+                    <div class="tracks">
+				<div class="track">
+					<a href="/Gucci-Mane-ft-Nicki-Minaj-Make-Love-t34523.html" title="Gucci Mane ft Nicki Minaj - Make Love"><img class="thumb" src="http://hw-static.hiphopearly.com/images/tracks/3/Make-Love-t34523.jpg"></a>
+					<div class="info" title="Gucci Mane ft Nicki Minaj - Make Love">
+						<div class="artist">Gucci Mane ft Nicki Minaj</div>
+						<div class="title">Make Love</div>
+						<div class="buttons">
+							<a href="http://www.hiphopearly.com/download/zk0Mj701" target="_blank" class="download">&nbsp;</a>
+							<a href="/Gucci-Mane-ft-Nicki-Minaj-Make-Love-t34523.html" class="listen">&nbsp;</a>
+						</div>
+					</div>
+					<div class="breaker"></div>
+				</div>
+				<div class="track">
+					<a href="/Ace-Hood-Guess-Who-t34509.html" title="Ace Hood - Guess Who?"><img class="thumb" src="http://hw-static.hiphopearly.com/images/tracks/3/Guess-Who-t34509.jpg"></a>
+					<div class="info" title="Ace Hood - Guess Who?">
+						<div class="artist">Ace Hood</div>
+						<div class="title">Guess Who?</div>
+						<div class="buttons">
+							<a href="http://www.hiphopearly.com/download/zc4Mz397" target="_blank" class="download">&nbsp;</a>
+							<a href="/Ace-Hood-Guess-Who-t34509.html" class="listen">&nbsp;</a>
+						</div>
+					</div>
+					<div class="breaker"></div>
+				</div>
+				<div class="track">
+					<a href="/Young-Scooter-ft-Young-Thug-Cook-Up-t34516.html" title="Young Scooter ft Young Thug - Cook Up"><img class="thumb" src="http://hw-static.hiphopearly.com/images/tracks/3/Cook-Up-t34516.jpg"></a>
+					<div class="info" title="Young Scooter ft Young Thug - Cook Up">
+						<div class="artist">Young Scooter ft Young Thug</div>
+						<div class="title">Cook Up</div>
+						<div class="buttons">
+							<a href="http://www.hiphopearly.com/download/zg3Nz254" target="_blank" class="download">&nbsp;</a>
+							<a href="/Young-Scooter-ft-Young-Thug-Cook-Up-t34516.html" class="listen">&nbsp;</a>
+						</div>
+					</div>
+					<div class="breaker"></div>
+				</div>
+				<div class="track">
+					<a href="/French-Montana-ft-Chris-Brown-Migos-Hold-Up-t34507.html" title="French Montana ft Chris Brown, Migos - Hold Up"><img class="thumb" src="http://hw-static.hiphopearly.com/images/tracks/3/Hold-Up-t34507.jpg"></a>
+					<div class="info" title="French Montana ft Chris Brown, Migos - Hold Up">
+						<div class="artist">French Montana ft Chris Bro...</div>
+						<div class="title">Hold Up</div>
+						<div class="buttons">
+							<a href="http://www.hiphopearly.com/download/zcxNz800" target="_blank" class="download">&nbsp;</a>
+							<a href="/French-Montana-ft-Chris-Brown-Migos-Hold-Up-t34507.html" class="listen">&nbsp;</a>
+						</div>
+					</div>
+					<div class="breaker"></div>
+				</div>
+				<div class="track">
+					<a href="/Kevin-Gates-ft-Wochee-Never-Enuf-t34500.html" title="Kevin Gates ft Wochee - Never Enuf"><img class="thumb" src="http://hw-static.hiphopearly.com/images/tracks/3/Never-Enuf-t34500.jpg"></a>
+					<div class="info" title="Kevin Gates ft Wochee - Never Enuf">
+						<div class="artist">Kevin Gates ft Wochee</div>
+						<div class="title">Never Enuf</div>
+						<div class="buttons">
+							<a href="http://www.hiphopearly.com/download/zY5MT298" target="_blank" class="download">&nbsp;</a>
+							<a href="/Kevin-Gates-ft-Wochee-Never-Enuf-t34500.html" class="listen">&nbsp;</a>
+						</div>
+					</div>
+					<div class="breaker"></div>
+				</div></div>
+                    <div align="center" style="font-size:12px; font-weight:bold; height:13px; margin:0; padding:0; line-height:12px; min-height:0;"><a href="/hot-this-week" style="text-transform:uppercase;">See All</a></div>
+                </div>
+            	<div class="module-footer"></div>
+            </div>
+            
+        	<div class="module">
+            	<div class="module-header"></div>
+            	<div class="module-content">
+                	<h1><img src="/images/icon-news.png"> Popular Topics</h1>
+                    <div class="news">
+				<div class="newsitem">
+					<a href="http://news.hiphopearly.com/twitter-brawl-shaq-threatens-to-smack-javale-mcgee-silly/" title="Shaq Threatens To Smack Javale McGee Silly" target="_blank" onClick="_gat._getTrackerByName()._trackEvent('Outbound Links', '/outgoing/http://news.hiphopearly.com/twitter-brawl-shaq-threatens-to-smack-javale-mcgee-silly/');"><img class="thumb" src="http://news.hiphopearly.com/wp-content/uploads/2017/02/shaq-mcgee.png"></a>
+					<div class="info" title="Shaq Threatens To Smack Javale McGee Silly">
+						<a href="http://news.hiphopearly.com/twitter-brawl-shaq-threatens-to-smack-javale-mcgee-silly/" class="title" target="_blank" onClick="_gat._getTrackerByName()._trackEvent('Outbound Links', '/outgoing/http://news.hiphopearly.com/twitter-brawl-shaq-threatens-to-smack-javale-mcgee-silly/');">Shaq Threatens To Smack Javale McGee Silly</a>
+						<div class="snippet">Shaquille O&#8217;Neal loves going after Javale McGee on Shaqtin a Fool, the ...</div>
+						<a href="http://news.hiphopearly.com/twitter-brawl-shaq-threatens-to-smack-javale-mcgee-silly/" class="readmore" target="_blank" onClick="_gat._getTrackerByName()._trackEvent('Outbound Links', '/outgoing/http://news.hiphopearly.com/twitter-brawl-shaq-threatens-to-smack-javale-mcgee-silly/');">Read more...</a>
+					</div>
+					<div class="breaker"></div>
+				</div>
+				<div class="newsitem">
+					<a href="http://news.hiphopearly.com/meek-mill-yg-shade-sean-kingston-for-talking-to-reporters-about-migos-fight/" title="Meek Mill &amp; YG Shade Sean Kingston For Talking To Reporters About Migos Fight" target="_blank" onClick="_gat._getTrackerByName()._trackEvent('Outbound Links', '/outgoing/http://news.hiphopearly.com/meek-mill-yg-shade-sean-kingston-for-talking-to-reporters-about-migos-fight/');"><img class="thumb" src="http://news.hiphopearly.com/wp-content/uploads/2017/02/Kingston-Meek-YG.png"></a>
+					<div class="info" title="Meek Mill &amp; YG Shade Sean Kingston For Talking To Reporters About Migos Fight">
+						<a href="http://news.hiphopearly.com/meek-mill-yg-shade-sean-kingston-for-talking-to-reporters-about-migos-fight/" class="title" target="_blank" onClick="_gat._getTrackerByName()._trackEvent('Outbound Links', '/outgoing/http://news.hiphopearly.com/meek-mill-yg-shade-sean-kingston-for-talking-to-reporters-about-migos-fight/');">Meek Mill & YG Shade Sean Kingston For Talking To Reporters About Migos Fight</a>
+						<div class="snippet">  It&#8217;s safe to say that manyÂ were surprised when they heard that Migos...</div>
+						<a href="http://news.hiphopearly.com/meek-mill-yg-shade-sean-kingston-for-talking-to-reporters-about-migos-fight/" class="readmore" target="_blank" onClick="_gat._getTrackerByName()._trackEvent('Outbound Links', '/outgoing/http://news.hiphopearly.com/meek-mill-yg-shade-sean-kingston-for-talking-to-reporters-about-migos-fight/');">Read more...</a>
+					</div>
+					<div class="breaker"></div>
+				</div>
+				<div class="newsitem">
+					<a href="http://news.hiphopearly.com/keke-palmer-accuses-trey-songz-of-mistreating-other-women-in-new-interview/" title="KeKe Palmer Accuses Trey Songz Of Mistreating Other Women In New Interview" target="_blank" onClick="_gat._getTrackerByName()._trackEvent('Outbound Links', '/outgoing/http://news.hiphopearly.com/keke-palmer-accuses-trey-songz-of-mistreating-other-women-in-new-interview/');"><img class="thumb" src="http://news.hiphopearly.com/wp-content/uploads/2017/01/trey-keke-palmer-1.png"></a>
+					<div class="info" title="KeKe Palmer Accuses Trey Songz Of Mistreating Other Women In New Interview">
+						<a href="http://news.hiphopearly.com/keke-palmer-accuses-trey-songz-of-mistreating-other-women-in-new-interview/" class="title" target="_blank" onClick="_gat._getTrackerByName()._trackEvent('Outbound Links', '/outgoing/http://news.hiphopearly.com/keke-palmer-accuses-trey-songz-of-mistreating-other-women-in-new-interview/');">KeKe Palmer Accuses Trey Songz Of Mistreating Other Women In New Interview</a>
+						<div class="snippet">When Trey Songz stopped by The Breakfast Club last week andÂ responded to KeK...</div>
+						<a href="http://news.hiphopearly.com/keke-palmer-accuses-trey-songz-of-mistreating-other-women-in-new-interview/" class="readmore" target="_blank" onClick="_gat._getTrackerByName()._trackEvent('Outbound Links', '/outgoing/http://news.hiphopearly.com/keke-palmer-accuses-trey-songz-of-mistreating-other-women-in-new-interview/');">Read more...</a>
+					</div>
+					<div class="breaker"></div>
+				</div>
+				<div class="newsitem">
+					<a href="http://news.hiphopearly.com/stream-navs-debut-album-nav/" title="Stream Nav&acirc;€™s Debut Album &amp;#8216;Nav&amp;#8217;" target="_blank" onClick="_gat._getTrackerByName()._trackEvent('Outbound Links', '/outgoing/http://news.hiphopearly.com/stream-navs-debut-album-nav/');"><img class="thumb" src="http://news.hiphopearly.com/wp-content/uploads/2017/02/nav.png"></a>
+					<div class="info" title="Stream Nav&acirc;€™s Debut Album &amp;#8216;Nav&amp;#8217;">
+						<a href="http://news.hiphopearly.com/stream-navs-debut-album-nav/" class="title" target="_blank" onClick="_gat._getTrackerByName()._trackEvent('Outbound Links', '/outgoing/http://news.hiphopearly.com/stream-navs-debut-album-nav/');">Stream Navâ€™s Debut Album &#8216;Nav&#8217;</a>
+						<div class="snippet">Is Nav going to be the next hit maker from Toronto? He just dropped his self-...</div>
+						<a href="http://news.hiphopearly.com/stream-navs-debut-album-nav/" class="readmore" target="_blank" onClick="_gat._getTrackerByName()._trackEvent('Outbound Links', '/outgoing/http://news.hiphopearly.com/stream-navs-debut-album-nav/');">Read more...</a>
+					</div>
+					<div class="breaker"></div>
+				</div>
+				<div class="newsitem">
+					<a href="http://news.hiphopearly.com/stream-futures-hndrxx-album/" title="Stream Future&amp;#8217;s &amp;#8216;HNDRXX&amp;#8217; Album" target="_blank" onClick="_gat._getTrackerByName()._trackEvent('Outbound Links', '/outgoing/http://news.hiphopearly.com/stream-futures-hndrxx-album/');"><img class="thumb" src="http://news.hiphopearly.com/wp-content/uploads/2017/02/hndrxx-album.png"></a>
+					<div class="info" title="Stream Future&amp;#8217;s &amp;#8216;HNDRXX&amp;#8217; Album">
+						<a href="http://news.hiphopearly.com/stream-futures-hndrxx-album/" class="title" target="_blank" onClick="_gat._getTrackerByName()._trackEvent('Outbound Links', '/outgoing/http://news.hiphopearly.com/stream-futures-hndrxx-album/');">Stream Future&#8217;s &#8216;HNDRXX&#8217; Album</a>
+						<div class="snippet">Future is doubling up an album releases, following up his self titled project...</div>
+						<a href="http://news.hiphopearly.com/stream-futures-hndrxx-album/" class="readmore" target="_blank" onClick="_gat._getTrackerByName()._trackEvent('Outbound Links', '/outgoing/http://news.hiphopearly.com/stream-futures-hndrxx-album/');">Read more...</a>
+					</div>
+					<div class="breaker"></div>
+				</div></div>
+                </div>
+            	<div class="module-footer"></div>
+            </div>
+            
+        	<div class="module">
+            	<div class="module-header"></div>
+            	<div class="module-content">
+                	<h1><img src="/images/icon-search.png"> Popular Searches</h1>
+                    <div class="tag-cloud"><a href="/search?criteria=&quot;drake&quot;" style="font-size:104%">"drake"</a>, <a href="/search?criteria=ace hood " style="font-size:100%">ace hood </a>, <a href="/search?criteria=kevin gates" style="font-size:100%">kevin gates</a>, <a href="/search?criteria=gucci mane " style="font-size:100%">gucci mane </a>, <a href="/search?criteria=chris brown" style="font-size:128%">chris brown</a>, <a href="/search?criteria=lil wayne" style="font-size:112%">lil wayne</a>, <a href="/search?criteria=drake" style="font-size:152%">drake</a>, <a href="/search?criteria=trey songz" style="font-size:100%">trey songz</a>, <a href="/search?criteria=21 savage" style="font-size:100%">21 savage</a>, <a href="/search?criteria=young thug" style="font-size:144%">young thug</a>, <a href="/search?criteria=migos" style="font-size:100%">migos</a>, <a href="/search?criteria=future" style="font-size:160%">future</a>, <a href="/search?criteria=kodak black" style="font-size:136%">kodak black</a>, <a href="/search?criteria=&quot;future&quot;" style="font-size:120%">"future"</a>, <a href="/search?criteria=g herbo" style="font-size:100%">g herbo</a></div>
+                </div>
+            	<div class="module-footer"></div>
+            </div>
+            <!-- end right column -->
+        </div>
+        
+        <div class="breaker"></div>
+    </div>
+</div>
+
+<div id="site-footer">    <div>
+    	<div class="links"><a href="/contact">Contact</a> &bull; <a href="/contact?subject=Advertising">Advertise</a> &bull; <a href="/terms">Terms</a> &bull; <a href="/privacy">Privacy</a> &bull; <a href="/terms#dmca">DMCA</a></div>
+    	<div class="copyright">&copy; 2010 <a href="http://www.idlemedia.com/" target="_blank">Idle Media Inc</a></div>
+    </div>
+    
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-fcjq2ONL7mFAM"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-fcjq2ONL7mFAM.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag --></div>
+<script type="text/javascript">
+window._ttf = window._ttf || [];
+_ttf.push({
+       pid          : 52142
+       ,lang        : "en"
+       ,slot        : '#left-column .track-detail-header, .teads'
+       ,format      : "inboard"
+       ,minSlot     : 1
+       ,components  : { skip: {delay : 0}}
+       ,passBack    : function(num) {
+        var adosWindow = window; while (!adosWindow.divName) { if (adosWindow == adosWindow.parent) break; adosWindow = adosWindow.parent } if (adosWindow.divName) { func = adosWindow.ados_passback || adosWindow.parent.ados_passback; func(adosWindow.divName, 1344570); }
+       }
+});
+ 
+(function (d) {
+        var js, s = d.getElementsByTagName('script')[0];
+        js = d.createElement('script');
+        js.async = true;
+        js.src = '//cdn.teads.tv/media/format.js';
+        s.parentNode.insertBefore(js, s);
+})(window.document);
+</script>
+</body>
+</html>
