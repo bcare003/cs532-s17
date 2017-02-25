@@ -1,0 +1,10 @@
+                                   Not Found
+
+   The requested URL /wordpress/ was not found on this server.
+
+   Additionally, a 404 Not Found error was encountered while trying to use
+   an ErrorDocument to handle the request.
+     __________________________________________________________________
+
+
+    Apache/2.2.22 Server at www.wrestlingarsenal.net Port 80

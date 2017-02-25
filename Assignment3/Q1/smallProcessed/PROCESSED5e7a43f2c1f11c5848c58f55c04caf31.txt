@@ -1,0 +1,392 @@
+   #[1]CNET Search
+
+   [2]CNET
+   [3]Reviews
+     * [4]Best Products
+     * [5]Appliances
+     * [6]Audio
+     * [7]Cameras
+     * [8]Cars
+
+     * [9]Networking
+     * [10]Desktops
+     * [11]Drones
+     * [12]Headphones
+     * [13]Laptops
+
+     * [14]Phones
+     * [15]Printers
+     * [16]Software
+     * [17]Smart Home
+     * [18]Tablets
+
+     * [19]TVs
+     * [20]Virtual Reality
+     * [21]Wearable Tech
+     * [22]Web Hosting
+     * [23]Forums
+
+   [24]News
+     * [25]Apple
+     * [26]Computers
+     * [27]Deals
+     * [28]Google
+     * [29]Internet
+
+     * [30]Microsoft
+     * [31]Mobile
+     * [32]Photography
+     * [33]Security
+     * [34]Sci-Tech
+
+     * [35]Tech Culture
+     * [36]Tech Industry
+     * [37]Photo Galleries
+     * [38]Video
+     * [39]Forums
+
+   [40]Video
+     * [41]Apple Byte
+     * [42]CNET Top 5
+     * [43]How To
+     * [44]Googlicious
+     * [45]Smart Home
+
+     * [46]Tech Today
+     * [47]News
+     * [48]Next Big Thing
+     * [49]Special Features
+     * [50]CNET Podcasts
+
+     * [51]Laptops
+     * [52]Phones
+     * [53]Tablets
+     * [54]TVs
+
+   [55]How To
+     * [56]Appliances
+     * [57]Computers
+     * [58]Gaming
+     * [59]Home Entertainment
+     * [60]Internet
+
+     * [61]Mobile Apps
+     * [62]Phones
+     * [63]Photography
+     * [64]Security
+     * [65]Smart Home
+
+     * [66]Tablets
+     * [67]Wearable Tech
+     * [68]Forums
+     * [69]Speed Test
+
+   [70]Smart Home
+     * [71]Best smart home devices
+     * [72]How To
+     * [73]News
+     * [74]Tour our smart apartment
+     * [75]Tour our smart house
+
+   [76]Product Compatibility
+     * [77]Amazon Alexa
+     * [78]Apple HomeKit
+     * [79]Belkin WeMo
+
+     * [80]Google Home
+     * [81]Lutron
+     * [82]Nest
+
+     * [83]Philips Hue
+     * [84]Samsung SmartThings
+     * [85]Wink
+
+   [86]Cars
+     * [87]Car Reviews
+     * [88]Best Cars
+     * [89]New Cars
+     * [90]Used Cars
+
+   [91]Deals
+     * [92]Cheapskate
+     * [93]Best Tech Under $50
+     * [94]All Deals
+     * [95]Tech Deals
+     * [96]Non-Tech Deals
+
+     * [97]Audio Deals
+     * [98]Cell Phone Deals
+     * [99]Desktop Deals
+     * [100]Laptop Deals
+     * [101]Hard Drive & Storage Deals
+
+     * [102]Printer Deals
+     * [103]Tablet Deals
+     * [104]Camera Deals
+     * [105]Monitor Deals
+     * [106]Software Deals
+
+     * [107]TV Deals
+     * [108]Web Hosting
+     * [109]VPN Services
+     * [110]WordPress Hosting
+     * [111]Domain Names
+
+   [112]Download
+     * [113]Join CNET
+     * [114]Member Benefits
+
+     * [115]Sign In to CNET
+
+     * Signed in as My Profile
+     * My Profile
+     * [116]Forums
+     * [117]Sign Out
+
+     * [118]Australia
+     * [119]China
+     * [120]France
+     * [121]Germany
+     * [122]Japan
+
+     * [123]Korea
+     * [124]United Kingdom
+
+     * US Editions
+     * [125]English
+     * [126]Español
+
+   ____________________
+   [Brian_404.png]
+   WHAT THE
+   404
+   You are here in error. Let's not point fingers.
+   Instead, let's use them to click away.
+   Check out some amazing stories below.
+
+All Time Favorites
+
+Anki Cozmo is like a Disney character turned into a robot toy
+
+   1:25
+
+How a Nazi Enigma machine works (and how to break its code)
+
+   2:08
+
+How to make perfect microwave eggs, every time
+
+   1:07
+
+Let's smash some light bulbs and look inside
+
+   3:21
+
+How to cook the perfect restaurant steak at home
+
+   4:03
+
+Apple's Home meets the CNET Smart Home
+
+   2:14
+
+The history of the telephone
+
+   6:23
+
+Who owns who in the Marvel film universe?
+
+   1:54
+
+Staff Picks
+
+   [127]
+
+Marvel vs. DC: Which universe wins?
+
+   There are a lot of comic book superheroes onscreen these days. And
+   there are filmic fights going down offscreen, too, but which studio has
+   it right?
+   by[128] Caitlin Petrakovitz
+   [129]
+
+Explore the CNET Smart Home
+
+   We transformed this house in Louisville into a living lab to test smart
+   home products.
+   [130]
+
+Seeking Shelter
+
+   With phones in hand, refugees stranded in Greece tap underground
+   networks to find safe haven. But there may be a catch.
+   by[131] Ben Fox Rubin
+   [132]
+
+Virtual Reality 101: Your guide to VR
+
+   Here's everything you need to know about what VR is and how it will
+   affect your life in the near future.
+   by[133] Scott Stein
+   [134]CNET
+   © CBS Interactive Inc.  /  All Rights Reserved.
+   [135]About CNET [136]Privacy Policy [137]Ad Choice [138]Terms of Use
+   [139]Mobile User Agreement [140]Help Center
+
+References
+
+   Visible links
+   1. https://www.cnet.com/opensearch.xml
+   2. https://www.cnet.com/
+   3. https://www.cnet.com/reviews/
+   4. https://www.cnet.com/best-products/
+   5. https://www.cnet.com/topics/appliances/
+   6. https://www.cnet.com/topics/audio/
+   7. https://www.cnet.com/topics/cameras/
+   8. https://www.cnet.com/roadshow/
+   9. https://www.cnet.com/topics/networking/
+  10. https://www.cnet.com/topics/desktops/
+  11. https://www.cnet.com/topics/drones/
+  12. https://www.cnet.com/topics/headphones/
+  13. https://www.cnet.com/topics/laptops/
+  14. https://www.cnet.com/topics/phones/
+  15. https://www.cnet.com/topics/printers/
+  16. https://www.cnet.com/topics/software/
+  17. https://www.cnet.com/smart-home/
+  18. https://www.cnet.com/topics/tablets/
+  19. https://www.cnet.com/topics/tvs/
+  20. https://www.cnet.com/tags/virtual-reality/
+  21. https://www.cnet.com/topics/wearable-tech/
+  22. https://www.cnet.com/web-hosting/
+  23. https://www.cnet.com/forums/
+  24. https://www.cnet.com/news/
+  25. https://www.cnet.com/apple/
+  26. https://www.cnet.com/topics/computers/
+  27. https://www.cnet.com/deals/
+  28. https://www.cnet.com/google/
+  29. https://www.cnet.com/topics/internet/
+  30. https://www.cnet.com/tags/microsoft/
+  31. https://www.cnet.com/topics/mobile/
+  32. https://www.cnet.com/topics/photography/
+  33. https://www.cnet.com/topics/security/
+  34. https://www.cnet.com/topics/sci-tech/
+  35. https://www.cnet.com/topics/tech-culture/
+  36. https://www.cnet.com/topics/tech-industry/
+  37. https://www.cnet.com/pictures/
+  38. https://www.cnet.com/videos/cnet-news/
+  39. https://www.cnet.com/forums/
+  40. https://www.cnet.com/videos/
+  41. https://www.cnet.com/apple-byte/
+  42. https://www.cnet.com/cnet-top-5/
+  43. https://www.cnet.com/how-to/videos/
+  44. https://www.cnet.com/googlicious/
+  45. https://www.cnet.com/videos/smart-home/
+  46. https://www.cnet.com/videos/tech-today/
+  47. https://www.cnet.com/videos/cnet-news/
+  48. https://www.cnet.com/next-big-thing/
+  49. https://www.cnet.com/videos/special-features/
+  50. https://www.cnet.com/cnet-podcasts/
+  51. https://www.cnet.com/topics/laptops/videos/
+  52. https://www.cnet.com/topics/phones/videos/
+  53. https://www.cnet.com/topics/tablets/videos/
+  54. https://www.cnet.com/topics/tvs/videos/
+  55. https://www.cnet.com/how-to/
+  56. https://www.cnet.com/topics/appliances/how-to/
+  57. https://www.cnet.com/topics/computers/how-to/
+  58. https://www.cnet.com/topics/gaming/how-to/
+  59. https://www.cnet.com/topics/home-entertainment/how-to/
+  60. https://www.cnet.com/topics/internet/how-to/
+  61. https://www.cnet.com/topics/mobile-apps/how-to/
+  62. https://www.cnet.com/topics/phones/how-to/
+  63. https://www.cnet.com/topics/photography/how-to/
+  64. https://www.cnet.com/topics/security/how-to/
+  65. https://www.cnet.com/topics/smart-home/how-to/
+  66. https://www.cnet.com/topics/tablets/how-to/
+  67. https://www.cnet.com/topics/wearable-tech/how-to/
+  68. https://www.cnet.com/forums/
+  69. https://www.cnet.com/internet-speed-test/
+  70. https://www.cnet.com/smart-home/
+  71. https://www.cnet.com/topics/smart-home/best-smart-home-devices/
+  72. https://www.cnet.com/topics/smart-home/how-to/
+  73. https://www.cnet.com/topics/smart-home/#latest
+  74. https://www.cnet.com/smart-home/apartment/
+  75. https://www.cnet.com/smart-home/
+  76. https://www.cnet.com/smart-home/compatibility/
+  77. https://www.cnet.com/smart-home/compatibility/amazon-alexa/
+  78. https://www.cnet.com/products/apple-homekit/compatibility/
+  79. https://www.cnet.com/products/belkin-wemo/compatibility/
+  80. https://www.cnet.com/products/google-home/compatibility/
+  81. https://www.cnet.com/products/lutron/compatibility/
+  82. https://www.cnet.com/products/nest/compatibility/
+  83. https://www.cnet.com/products/philips-hue/compatibility/
+  84. https://www.cnet.com/products/smartthings-hub-and-sensors/compatibility/
+  85. https://www.cnet.com/products/wink/compatibility/
+  86. https://www.cnet.com/roadshow/
+  87. https://www.cnet.com/roadshow/finder/automobiles/
+  88. https://www.cnet.com/roadshow/best/automobiles/
+  89. https://www.cnet.com/roadshow/for-sale/?filter=condition_new
+  90. https://www.cnet.com/roadshow/for-sale/?filter=condition_used
+  91. https://www.cnet.com/deals/
+  92. https://www.cnet.com/cheapskate/
+  93. https://www.cnet.com/holiday-gift-guide/under-50/
+  94. https://www.cnet.com/deals/
+  95. https://www.cnet.com/deals/tech/
+  96. https://www.cnet.com/deals/non-tech/
+  97. https://www.cnet.com/deals/audio/
+  98. https://www.cnet.com/deals/phones/
+  99. https://www.cnet.com/deals/desktops/
+ 100. https://www.cnet.com/deals/laptops/
+ 101. https://www.cnet.com/deals/storage/
+ 102. https://www.cnet.com/deals/printers/
+ 103. https://www.cnet.com/deals/tablets/
+ 104. https://www.cnet.com/deals/cameras/
+ 105. https://www.cnet.com/deals/monitors/
+ 106. https://www.cnet.com/deals/software/
+ 107. https://www.cnet.com/deals/televisions/
+ 108. https://www.cnet.com/web-hosting/
+ 109. https://www.cnet.com/best-vpn-services-directory/
+ 110. https://www.cnet.com/wordpress-hosting-providers/
+ 111. https://www.cnet.com/domain-name-providers/
+ 112. http://download.cnet.com/
+ 113. https://www.cnet.com/user/registration/?appId=376
+ 114. https://www.cnet.com/user/join-cnet/
+ 115. https://www.cnet.com/user/login/?appId=376
+ 116. https://www.cnet.com/forums/
+ 117. https://www.cnet.com/user/logout/
+ 118. https://www.cnet.com/au/
+ 119. http://www.cnetnews.com.cn/
+ 120. http://www.cnetfrance.fr/
+ 121. http://www.cnet.de/
+ 122. http://japan.cnet.com/
+ 123. http://www.cnet.co.kr/
+ 124. https://www.cnet.com/uk/
+ 125. https://www.cnet.com/
+ 126. https://www.cnet.com/es/
+ 127. https://www.cnet.com/special-reports/marvel-cinematic-universe-dc-extended-universe-showdown/
+ 128. https://www.cnet.com/profiles/caitrose/
+ 129. https://www.cnet.com/smart-home/
+ 130. https://www.cnet.com/special-reports/road-trip-greece-refugee-crisis/
+ 131. https://www.cnet.com/profiles/ben.rubin/
+ 132. https://www.cnet.com/special-reports/vr101
+ 133. https://www.cnet.com/profiles/scottstein8/
+ 134. https://www.cnet.com/
+ 135. https://www.cnet.com/about/
+ 136. http://cbsi.force.com/CBSi/privacy
+ 137. http://legalterms.cbsinteractive.com/adchoice
+ 138. http://legalterms.cbsinteractive.com/terms-of-use
+ 139. http://legalterms.cbsinteractive.com/eula
+ 140. https://cbsi.secure.force.com/CBSi/knowledgehome?referer=cnet.com
+
+   Hidden links:
+ 142. https://www.cnet.com/videos/anki-cozmo-is-like-a-disney-character-turned-into-a-robot-toy/
+ 143. https://www.cnet.com/videos/how-a-nazi-enigma-machine-works-and-how-to-break-its-code/
+ 144. https://www.cnet.com/videos/how-to-make-perfect-microwave-eggs-every-time/
+ 145. https://www.cnet.com/videos/lets-smash-some-light-bulbs-and-look-inside/
+ 146. https://www.cnet.com/videos/how-to-cook-sous-vide-steak/
+ 147. https://www.cnet.com/videos/apples-home-meets-the-cnet-smart-home/
+ 148. https://www.cnet.com/videos/the-history-of-the-telephone/
+ 149. https://www.cnet.com/videos/who-owns-who-in-the-marvel-film-universe/
+ 150. https://www.cnet.com/special-reports/marvel-cinematic-universe-dc-extended-universe-showdown/
+ 151. https://www.cnet.com/smart-home/
+ 152. https://www.cnet.com/special-reports/road-trip-greece-refugee-crisis/
+ 153. https://www.cnet.com/special-reports/vr101

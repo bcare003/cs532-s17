@@ -1,0 +1,49 @@
+   IFRAME: [1]//www.googletagmanager.com/ns.html?id=GTM-S6J5
+
+   [2]Home
+   [3]Sign In [4]Join
+   [javascript]
+   [5]See Badges
+   [6]LogOut
+
+   ____________________
+
+Oops! Error 404 - Page not found
+
+Did you take a wrong turn?
+
+   imagen
+   imagen
+
+     * [7]ABOUT US
+     * [8]CONTACT US
+     * [9]VISIT NATIONALGEOGRAPHIC.ORG
+     * [10]SUBSCRIBE
+     * [11]PRIVACY POLICY
+     * [12]TERMS OF SERVICE
+
+   © 1996-2015 National Geographic Society.
+
+   © 2016 National Geographic Partners, LLC.
+
+   All rights reserved.
+
+References
+
+   Visible links
+   1. http://www.googletagmanager.com/ns.html?id=GTM-S6J5
+   2. http://kids.nationalgeographic.com/
+   3. http://kids.nationalgeographic.com/games//#members.kids_signin
+   4. http://kids.nationalgeographic.com/games//#members.kids_join
+   5. http://kids.nationalgeographic.com/profiles/user-profile
+   6. http://kids.nationalgeographic.com/games//#members.logout
+   7. http://kids.nationalgeographic.com/about-us
+   8. http://kids.nationalgeographic.com/contact-us
+   9. http://nationalgeographic.org/
+  10. https://ngkidsubs.nationalgeographic.com/servlet/Show?WESPAGE=OrderPages/ngk/1310/landing_01A3.jsp&MSRSMAG=WO&EFK1=WOAL2S8&EFK2=WOAL2U4&EFK3=&MSCCMPLX=KIDSFTSUB9
+  11. http://kids.nationalgeographic.com/privacy-policy
+  12. http://www.nationalgeographic.com/community/terms/
+
+   Hidden links:
+  14. http://kids.nationalgeographic.com/games/%0d/#search-open
+  15. http://kids.nationalgeographic.com/

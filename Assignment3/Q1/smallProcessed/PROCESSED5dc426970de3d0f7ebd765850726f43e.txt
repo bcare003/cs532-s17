@@ -1,0 +1,22 @@
+   [1]Google URL Shortener URL Shortener
+
+   404: Page not found – the page http://goo.gl/uqn1QJ%0D does not exist.
+
+   If you typed in or copied/pasted this URL, make sure you included all
+   the characters, with no extra punctuation.
+
+     * Google
+     * [2]Help
+     * [3]Report Spam
+     * [4]Privacy Policy
+     * [5]Acceptable Usage Policy
+     * [6]Terms of Service
+
+References
+
+   1. http://goo.gl/
+   2. http://www.google.com/support/websearch/bin/answer.py?answer=190768
+   3. http://goo.gl/#reportspam
+   4. http://www.google.com/privacy.html
+   5. http://goo.gl/policy.html
+   6. http://www.google.com/accounts/TOS
