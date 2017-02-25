@@ -1,0 +1,29 @@
+<!DOCTYPE html><html class="no-js" lang=""><head><title>Forbes Welcome</title><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="referrer" content="origin"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=2"><meta name="description" content="Forbes Welcome page -- Forbes is a global media company, focusing on business, investing, technology, entrepreneurship, leadership, and lifestyle."><meta name="keywords" content="business news, market analysis, company profiles, personal finance, management, entrepreneurship, investments, financial advice, economy, technology news"><link rel="stylesheet" href="//i.forbesimg.com/welcomead/styles/18256f93.main.css"><script type="text/javascript">fbs_settings = {
+                mobile: 'false',
+                preview: 'false',
+                test: 'false',
+                classes: 'WyJhZGJveDE2MCIsInNwb25zb3JfZm9vdGVyIiwiYWRraXRfZnJlZV9odG1sIiwibW0tYWQtc3BvbnNvcmVkIiwiYWQtc2xvdC0xIiwiYWRfMzAwSG9tZSIsImFkcy1yb3RhdGUiLCJiYXJfYWQiLCJhZHNNaWRkbGUiLCJoaWRlX2ludGVybmFsX2FkIiwic21hbGxfYWQiLCJibG9ja19hZF9zcG9uc29yZWRfbGlua3NfbG9jYWxpemVkLXdyYXBwZXIiLCJ0ZXh0QWRCbG9jayIsImNubldpcmVBZEx0Z0JveCIsImlubmVycG9zdGFkc3BhY2UiLCJwdWJsaWNpZGFkZS1kb3R0ZWQiLCJ0cmJfZ3B0QWQiLCJTSU1fYWRfMTQweDE0MF9ob21lcGFnZV90dl9wcm9tbyIsImFkXzEwMDB4OTAiLCJsaW5rX2FkdmVydGlzZSIsImFkQmxvY2tfNiIsImFkX2JveF9yaWdoIiwidmlldy1hZHZlcnRpc2VtZW50cy0zMDAiLCJzcG9uc29yZWRyZXN1bHRzIiwiYWRfY29sX2EiLCJtb2QtYWRibG9jayIsImFkX3N3ZiIsImFkcm93MSIsInBsYXllcl9hZCIsImNvcm5lckJveElubmVyV2hpdGVBZCJd'
+            };</script><script type="text/javascript">try {
+                fbs_settings.data = {"channel":"channel_0","section":"section_0","location":"welcomead_default","panel":"welcome_ad","contentPositions":[{"position":1,"title":"Quote of the Day","description":"[Mentors] show you something about yourself that you didn’t realize.","following":false,"byline":"Butch Rovan","hideDescription":false,"sponsored":false,"twitterHandle":"","hashtag":"","removeTopPadding":false,"removeBottomPadding":false}],"panelId":"panel4","limit":0,"swimlane":false,"more":false,"enableAds":false,"removeBVPrepend":false,"brandvoiceHeader":false,"profileLink":false,"fullListLink":false,"pagination":false,"filters":false,"year":0,"directLink":false};
+            } catch (err) {
+                fbs_settings.data = null;
+            }</script><script type="text/javascript">try {
+                fbs_settings.angular_preload = ["//i.forbesimg.com/forbes/scripts/aa204416.vendor.js","//i.forbesimg.com/forbes/scripts/7cc547d9.scripts.js","//i.forbesimg.com/forbes/styles/4163257a.main.css"];
+            } catch (err) {
+                fbs_settings.angular_preload = null;
+            }</script><script src="//i.forbesimg.com/welcomead/scripts/vendor/69216742.modernizr.js"></script></head><body class=''><div id="app" class="container clearfix default-template ad-300-by-250"><div id="navigation"></div><div id="content"><div id="adblock-hover" class="hidden"><span class="close-btn preloaded"><span class="close">CLOSE</span> <i class="icon icon-close"></i></span> <img> <a href="//www.forbes.com/adblock/instructions/" target="_blank">More Options</a></div>  <script>(function() {
+                        setTimeout(function() {
+                            var inviEles = document.getElementsByClassName('invisible');
+                            for (var ele in inviEles) {
+                                if (!inviEles[0]) {
+                                    return;
+                                }
+                                inviEles[0].className = inviEles[0].className.replace('invisible', '');
+                            }
+                            if (window.performance && performance.mark) {
+                                performance.mark('content_visible');
+                            }
+                        });
+                    })();</script><div class="content-container"><div class="content-inner"><h1 class="title">  <i class="invisible branding icon icon-forbes-logo"></i> <span class="top invisible">Quote of</span> <span class="bottom invisible">the Day</span></h1><div class="body">  <blockquote class="body-content invisible"><img src="//specials-images.forbesimg.com/imageserve/57e197ac31358e16c589c0b5/40x0.png"> [Mentors] show you something about yourself that you didn’t realize.</blockquote>  <p class="body-byline invisible">Butch Rovan</p>  </div></div></div>  </div><div id="ads"></div></div><!--[if lte IE 9]>
+        <script src="//i.forbesimg.com/welcomead/scripts/b9b8347c.legacy.js"></script>
+        <![endif]--><script src="//i.forbesimg.com/welcomead/scripts/1a364ca6.vendor.js"></script><script src="//i.forbesimg.com/welcomead/scripts/26965671.main.js"></script></body></html>

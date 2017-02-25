@@ -1,0 +1,600 @@
+
+<!DOCTYPE html>
+<!-- Sorry, no IE8 support! -->
+<!-- @see http://foundation.zurb.com/docs/compatibility.html -->
+<!--[if lte IE 8]> <html lang="en" class="no-js ie ie8"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Collectible United States (USA) Mint Coins | GovMint.com</title>
+<meta name="description" content="We sell authentic coins from around the world. Looking for collectible U.S. mint coins &amp; foreign currency? GovMint.com has it. Free shipping available.
+" />
+<meta name="robots" content="INDEX,FOLLOW" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="http://www.govmint.com/media/favicon/default/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="http://www.govmint.com/media/favicon/default/favicon.ico" type="image/x-icon" />
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'http://www.govmint.com/js/blank.html';
+    var BLANK_IMG = 'http://www.govmint.com/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+
+<!-- JQUERY CDN -->
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script type="text/javascript">jQuery.noConflict();</script>
+<script type="text/javascript" src="//code.jquery.com//jquery-migrate-1.2.1.min.js"></script>
+<!-- /JQUERY CDN -->
+    <script type="text/javascript">
+        window.parseTLSinfo = function(data) {
+            if(data.tls_version.split(' ')[1] < 1.2){ 
+                jQuery.ajax({
+                    url:'/lib/Amsh/logTLS.php',
+                    data:{
+                        'ip':"",
+                        'tls_version':data.tls_version.split(' ')[1],
+                        'browser':navigator.userAgent,
+                    },
+                    type:'POST',
+                });
+            }
+        };
+    </script>
+    <script src="https://www.howsmyssl.com/a/check?callback=parseTLSinfo"></script>
+    <link type="text/css" rel="stylesheet" href="http://www.govmint.com/skin/m/1482247962,//skin/frontend/base/default/css/amasty/amlabel/amlabel.css,//skin/frontend/base/default/css/amasty/ampromo/styles.css,//skin/frontend/base/default/css/amshopby.css,//skin/frontend/base/default/css/amasty/amxsearch.css,//skin/frontend/base/default/css/recommendation_zone.css,//skin/frontend/base/default/ash_jreject/css/jquery.reject.css,//skin/frontend/base/default/ash_slideshow/css/bxslider/bxslider.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.govmint.com/skin/m/1482247962,//skin/frontend/yeti/snowden/assets/css/app.css,//skin/frontend/base/default/sagepaysuite/css/sagePaySuite.css" media="all" />
+<script type="text/javascript" src="http://www.govmint.com/skin/m/1468349180,//js/prototype/prototype.js,//js/lib/ccard.js,//js/prototype/validation.js,//js/scriptaculous/builder.js,//js/scriptaculous/effects.js,//js/scriptaculous/dragdrop.js,//js/scriptaculous/controls.js,//js/scriptaculous/slider.js,//js/varien/js.js,//js/varien/form.js,//js/mage/translate.js,//js/mage/cookies.js,//js/amasty/amlabel/amlabel_observer.js,//js/amasty/amxsearch/main.js" ></script>
+<script type="text/javascript" src="http://www.govmint.com/skin/m/1468349180,//js/amsh_phonemask/jquery.maskedinput.js,//js/amsh_phonemask/format_phone.js,//skin/frontend/yeti/enterprise/js/scripts.js,//skin/frontend/base/default/ash_jreject/js/jquery.reject.js,//skin/frontend/base/default/ash_slideshow/js/bxslider/jquery.bxslider.min.js,//skin/frontend/base/default/ash_slideshow/js/bxslider/plugins/jquery.easing.js" ></script>
+<script type="text/javascript" src="http://www.govmint.com/skin/m/1468349180,//skin/frontend/base/default/ash_slideshow/js/bxslider/plugins/jquery.fitvids.js,//skin/frontend/yeti/enterprise/js/enterprise/catalogevent.js,//skin/frontend/yeti/enterprise/js/enterprise/wishlist.js,//skin/frontend/yeti/snowden/assets/js/lib.min.js,//skin/frontend/yeti/snowden/assets/js/app.js" ></script>
+<link rel="stylesheet" type="text/css" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" />
+
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.www.govmint.com';
+//]]>
+</script>
+<meta name="viewport" content="initial-scale=1.0, width=device-width" />
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["HK","IE","MO","PA"];
+//]]>
+</script>
+<style>
+    
+    .am_search_popup{
+        border: 4px solid #BBBBBB;
+        border-top-width: 6px;
+        background-color: #BBBBBB;
+        width: 355px;
+    }
+    
+    .am_search_popup_triangle{
+        background-color: #BBBBBB;
+    }
+
+    .am_search_popup div.am_element:hover,
+    .am_search_popup div.am_element.active
+    {
+        background: #0088CC; 
+    }
+    
+    .amhighlight{
+        background: #EEEEEE;
+    }
+    
+    
+    .am_search_popup div.am_element .am_title,
+    .am_search_popup div.am_element .regular-price .price,
+    .am_search_popup div.am_element,
+    .am_search_popup div.am_element a
+    {
+        color: #0088CC; 
+    }
+    
+    .am_search_popup div.am_element:hover .am_title,
+    .am_search_popup div.am_element:hover .regular-price .price,
+    .am_search_popup div.am_element:hover,
+    .am_search_popup div.am_element:hover a,
+    .am_search_popup div.am_element.active .am_title,
+    .am_search_popup div.am_element.active .regular-price .price,
+    .am_search_popup div.am_element.active,
+    .am_search_popup div.am_element.active a
+    {
+        color: #FFFFFF; 
+    }
+    
+    .am_search_popup div.am_element:hover .amhighlight,
+    .am_search_popup div.am_element.active .amhighlight
+    {
+        background-color: #BBBBBB;
+    }
+    
+</style>
+
+<!--[if IE 8]>
+<style>
+.am_search_popup_triangle{
+    display: none;
+}
+.am_search_popup{
+    margin-top: -10px;
+}
+</style>
+<![endif]-->
+<script type="text/javascript">
+//<![CDATA[
+
+Event.observe(window, "load", function(){
+    $('search').stopObserving();
+
+    var xsearchObj = new Xsearch({
+        url: 'http://www.govmint.com/amxsearchfront/ajax/index/',
+        minChars: '3'
+    });
+})
+
+</script><!-- MyBuys Version 1.2.2 -->
+            <link href="https://t.p.mybuys.com/clients/GOVMINT/css/styles.css" type="text/css" rel="stylesheet" id="mybuysstyles" />
+        <script type="text/javascript" src="http://t.p.mybuys.com/js/mybuys4.js"></script>
+        <script type="text/javascript" src="http://t.p.mybuys.com/clients/GOVMINT/js/setup.js"></script>
+    <script type='text/javascript'>
+//<![CDATA[
+    
+    jQuery(document).ready(function() {
+        jQuery.reject({
+            display: ["msie","firefox","chrome","safari"],
+            reject: {"msie5":true,"msie6":true,"msie7":true,"msie8":true,"firefox2":true,"firefox3":true,"firefox4":true,"firefox5":true,"firefox6":true,"firefox7":true,"firefox8":true,"firefox9":true,"chrome1":true,"chrome2":true,"chrome3":true,"chrome4":true,"chrome5":true,"chrome6":true,"chrome7":true,"chrome8":true,"chrome9":true,"chrome10":true,"chrome11":true,"chrome12":true,"chrome13":true,"chrome14":true,"chrome15":true,"safari1":true,"safari2":true,"safari3":true,"safari4":true,"opera1":true,"opera2":true,"opera3":true,"opera4":true,"opera5":true,"opera6":true,"opera7":true,"opera8":true,"opera9":true},
+            imagePath: "/skin/frontend/base/default//ash_jreject/images/browsers/",
+            enable: true,
+            header: "Did you know that your Internet Browser is out of date?",
+            paragraph1: "Your browser is out of date, and may not be compatible with our website. A list of the most popular web browsers can be found below.",
+            paragraph2: "Your browser is out of date, and may not be compatible with our website. A list of the most popular web browsers can be found below.",
+            closeMessage: "By closing this window you acknowledge that your experience on this website may be degraded.",
+            closeLink: "Close This Window",
+            closeURL: "#",
+            close: true,
+            closeESC: true,
+            closeCookie: false,
+            overlayBgColor: "#000",
+            overlayOpacity: 0.8,
+            fadeInTime: 300,
+            fadeOutTime: 300        });
+    });
+//]]>
+</script>
+<script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script><meta name="p:domain_verify" content="2cc5647f2b0bd3c69941ba8914f4b333"/>
+<meta name="msvalidate.01" content="825448588CE3304AF7D589231C73FD36" />
+<meta property="twitter:account_id" content="34749707" />
+<meta name="google-site-verification" content="6fOz9JUlPBeS_2WEQktBueOqapLz_WLLsF4QD5Ks-To" />
+
+</head>
+<body class=" cms-index-index cms-home cms-home">
+
+ 
+
+<!-- Tealium Universal Data Object / Data Layer -->
+<script type="text/javascript">
+    utag_data = {"site_region":"en_US","site_currency":"USD","page_name":"Collectible United States (USA) Mint Coins | GovMint.com","page_type":"cms page"};
+</script>
+<!-- ****************************************** --> 
+
+<!-- GOVMINT Tealium Universal Data Object / Data Layer -->
+<script type="text/javascript">
+    utag_data_govmint = {"site_region":"en_US","site_currency":"USD","page_name":"Collectible United States (USA) Mint Coins | GovMint.com","page_type":"cms page","cart_total_items":"0","cart_total_value":"","cart_url":"http:\/\/www.govmint.com\/checkout\/cart\/","country_code":"US","language_code":"en_US","site_section":"Home Page"};
+</script>
+<!-- ****************************************** --> 
+
+<!-- Async Load of Tealium utag.js library -->
+<script type="text/javascript">
+    (function(a,b,c,d){
+        a='//tags.tiqcdn.com/utag/assetmktg/govmint/prod/utag.js';
+        b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d. 
+        async=true;
+        a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+        })();
+</script>
+<!-- ************************************* --><script type="application/ld+json">
+{
+   "@context": "http://schema.org",
+   "@type": "WebSite",
+   "url": "http://www.govmint.com/",
+   "potentialAction": {
+     "@type": "SearchAction",
+     "target": "http://www.govmint.com/catalogsearch/result/?q={search_term_string}",
+     "query-input": "required name=search_term_string"
+   }
+}
+</script>    <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
+            </div>
+        </div>
+    </noscript>
+<div class="header-wrap">
+    
+<div class="mobile-top-wrap row small-collapse show-for-small-only">
+    <div class="mobile-top-links large-12 columns">
+        <ul class="button-group">
+            <li class="mobile-logo"><a href="http://www.govmint.com/"><img src="http://www.govmint.com/skin/frontend/yeti/snowden/assets/images/logo.png" alt="GovMint.com" title="GovMint.com" /></a></li>
+            <li class="account-trigger"><a class="button small secondary expand no-margin" href="#mobile-account" alt="Account"><i class="fa fa-user"></i> </a></li>
+            <li class="mobile-cart">
+                <a class="button small secondary no-margin" href="http://www.govmint.com/checkout/cart/"><i class="cart-icon"></i><span class="qty">0</span></a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<div class="header row">
+
+    <div id="mobile-account" class="top-links mobile-top large-12 columns">
+        <ul class="links">
+                        <li class="first" ><a href="https://www.govmint.com/customer/account/" title="My Account" >My Account</a></li>
+                                <!--{WISHLISTLINKS_98cc1a23c6881a39adf04714dc6abdca}--><li ><a href="https://www.govmint.com/wishlist/" title="My Wishlist" >My Wishlist</a></li>
+<!--/{WISHLISTLINKS_98cc1a23c6881a39adf04714dc6abdca}-->                                <li ><a href="http://www.govmint.com/checkout/cart/" title="My Cart" class="top-link-cart">My Cart</a></li>
+                                <li ><a href="https://www.govmint.com/onestepcheckout/index/" title="Checkout" class="top-link-checkout">Checkout</a></li>
+                                <li class=" last" ><a href="https://www.govmint.com/customer/account/login/referer/aHR0cDovL3d3dy5nb3ZtaW50LmNvbS8_YWQ9R1MxMDEwQg,,/" title="Log In" >Log In</a></li>
+            </ul>
+            </div>
+
+    <div id="mobile-search">
+    <div class="call-us">Call a Coin Professional: <a tel="18006429160">1-800-642-9160</a></div>
+    <form id="search_mini_form" action="http://www.govmint.com/catalogsearch/result/" method="get">
+        <div class="form-search row collapse">
+            <label for="search" class="hide">Search:</label>
+            <input id="search" class="no-margin" type="text" name="q" value="" placeholder="Search our website" class="input-text" maxlength="128" autocomplete="off" />
+            <button type="submit" title="Search" class="button no-margin">Search</button>
+            <div id="search_autocomplete" class="search-autocomplete"></div>
+            <script type="text/javascript">
+            // <![CDATA[
+            //     var searchForm = new Varien.searchForm('search_mini_form', 'search', '');
+            //     searchForm.initAutocomplete('http://www.govmint.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
+            // ]]>
+            </script>
+        </div>
+    </form>
+</div>
+
+    <div class="logo-wrap medium-5 large-6 show-for-medium-up columns">
+                <span class="logo"><a href="http://www.govmint.com/">
+            <img src="http://www.govmint.com/skin/frontend/yeti/snowden/assets/images/logo.png" alt="GovMint.com" title="GovMint.com" />
+        </a></span>
+            </div>
+</div>
+
+<!--{TOPMENU_31b58f13cf13f890e64f10ff1e107628}-->    <div class="nav-container">
+        <div class="nav-bar row">
+            <button id="nav-trigger" class="button secondary expand show-for-small-only"><i class="fa fa-bars"></i> Menu</button>
+
+            <div class="large-12 columns">
+                <ul id="nav">
+                    <li  class="level0 nav-1 first level-top parent"><a href="http://www.govmint.com/us-coins.html"  class="level-top" ><span>U.S. Coins</span></a><ul class="level0"><li  class="level1 nav-1-1 first parent"><a href="http://www.govmint.com/us-coins/silver-coins.html" ><span>U.S. Silver Coins</span></a><ul class="level1"><li  class="level2 nav-1-1-1 first"><a href="http://www.govmint.com/us-coins/silver-coins/silver-eagle.html" ><span>Silver Eagle</span></a></li><li  class="level2 nav-1-1-2"><a href="http://www.govmint.com/us-coins/silver-coins/morgan-dollar.html" ><span>Morgan Silver Dollar</span></a></li><li  class="level2 nav-1-1-3"><a href="http://www.govmint.com/us-coins/silver-coins/peace-dollar.html" ><span>Peace Dollar</span></a></li><li  class="level2 nav-1-1-4"><a href="http://www.govmint.com/us-coins/silver-coins/eisenhower-dollar.html" ><span>Eisenhower Dollar</span></a></li><li  class="level2 nav-1-1-5"><a href="http://www.govmint.com/us-coins/silver-coins/half-dollar.html" ><span>Half Dollar</span></a></li><li  class="level2 nav-1-1-6 last"><a href="http://www.govmint.com/us-coins/silver-coins/silver-commemorative-coins.html" ><span>Silver Commemoratives</span></a></li></ul></li><li  class="level1 nav-1-2 parent"><a href="http://www.govmint.com/us-coins/gold-coins.html" ><span>U.S. Gold Coins</span></a><ul class="level1"><li  class="level2 nav-1-2-1 first"><a href="http://www.govmint.com/us-coins/gold-coins/gold-eagle.html" ><span>Gold Eagle</span></a></li><li  class="level2 nav-1-2-2"><a href="http://www.govmint.com/us-coins/gold-coins/gold-buffalo.html" ><span>Gold Buffalo</span></a></li><li  class="level2 nav-1-2-3"><a href="http://www.govmint.com/us-coins/gold-coins/gold-liberty.html" ><span>Gold Liberty</span></a></li><li  class="level2 nav-1-2-4"><a href="http://www.govmint.com/us-coins/gold-coins/gold-indian.html" ><span>Gold Indian</span></a></li><li  class="level2 nav-1-2-5"><a href="http://www.govmint.com/us-coins/gold-coins/gold-saint-gaudens.html" ><span>Gold Saint Gaudens</span></a></li><li  class="level2 nav-1-2-6 last"><a href="http://www.govmint.com/us-coins/gold-coins/gold-commemorative-coins.html" ><span>Gold Commemoratives</span></a></li></ul></li><li  class="level1 nav-1-3 parent"><a href="http://www.govmint.com/us-coins/proof-and-mint-sets.html" ><span>Proof and Mint Sets</span></a><ul class="level1"><li  class="level2 nav-1-3-1 first"><a href="http://www.govmint.com/us-coins/proof-and-mint-sets/proof-set.html" ><span>Proof Sets</span></a></li><li  class="level2 nav-1-3-2"><a href="http://www.govmint.com/us-coins/proof-and-mint-sets/silver-proof-set.html" ><span>Silver Proof Sets</span></a></li><li  class="level2 nav-1-3-3"><a href="http://www.govmint.com/us-coins/proof-and-mint-sets/mint-set.html" ><span>Mint Sets</span></a></li><li  class="level2 nav-1-3-4"><a href="http://www.govmint.com/us-coins/proof-and-mint-sets/national-park-quarters.html" ><span>National Park</span></a></li><li  class="level2 nav-1-3-5"><a href="http://www.govmint.com/us-coins/proof-and-mint-sets/presidential-dollar.html" ><span>Presidential Dollar</span></a></li><li  class="level2 nav-1-3-6 last"><a href="http://www.govmint.com/us-coins/proof-and-mint-sets/presidential-error-coins.html" ><span>Presidential Error Coins</span></a></li></ul></li><li  class="level1 nav-1-4 parent"><a href="http://www.govmint.com/us-coins/other-us-coins.html" ><span>Other U.S. Coins</span></a><ul class="level1"><li  class="level2 nav-1-4-1 first"><a href="http://www.govmint.com/us-coins/other-us-coins/dollar.html" ><span>Dollar</span></a></li><li  class="level2 nav-1-4-2"><a href="http://www.govmint.com/us-coins/other-us-coins/quarter.html" ><span>Quarter</span></a></li><li  class="level2 nav-1-4-3"><a href="http://www.govmint.com/us-coins/other-us-coins/dime.html" ><span>Dime</span></a></li><li  class="level2 nav-1-4-4"><a href="http://www.govmint.com/us-coins/other-us-coins/nickel.html" ><span>Nickel</span></a></li><li  class="level2 nav-1-4-5"><a href="http://www.govmint.com/us-coins/other-us-coins/cent.html" ><span>Cent</span></a></li><li  class="level2 nav-1-4-6 last"><a href="http://www.govmint.com/us-coins/other-us-coins/platinum-eagle.html" ><span>Platinum Eagle</span></a></li></ul></li><li  class="level1 nav-1-5 last parent"><a href="http://www.govmint.com/us-coins/exclusive-collections.html" ><span>Exclusive Collections</span></a><ul class="level1"><li  class="level2 nav-1-5-1 first"><a href="http://www.govmint.com/us-coins/exclusive-collections/smithsonian-classics.html" ><span>Smithsonian Classics</span></a></li><li  class="level2 nav-1-5-2"><a href="http://www.govmint.com/us-coins/exclusive-collections/smithsonian-institution.html" ><span>Smithsonian Institution</span></a></li><li  class="level2 nav-1-5-3"><a href="http://www.govmint.com/us-coins/exclusive-collections/vault-rarities.html" ><span>Vault Rarities</span></a></li><li  class="level2 nav-1-5-4"><a href="http://www.govmint.com/us-coins/exclusive-collections/shipwreck.html" ><span>Shipwreck</span></a></li><li  class="level2 nav-1-5-5"><a href="http://www.govmint.com/us-coins/exclusive-collections/olympics.html" ><span>Olympics</span></a></li><li  class="level2 nav-1-5-6 last"><a href="http://www.govmint.com/us-coins/exclusive-collections/rive-d-or-collection.html" ><span>Rive d'Or Collection</span></a></li></ul></li></ul></li><li  class="level0 nav-2 level-top parent"><a href="http://www.govmint.com/world-coins.html"  class="level-top" ><span>World Coins</span></a><ul class="level0"><li  class="level1 nav-2-1 first parent"><a href="http://www.govmint.com/world-coins/top-world-coins.html" ><span>Top World Coins</span></a><ul class="level1"><li  class="level2 nav-2-1-1 first"><a href="http://www.govmint.com/world-coins/top-world-coins/angel-coins.html" ><span>Angel Coins</span></a></li><li  class="level2 nav-2-1-2"><a href="http://www.govmint.com/world-coins/top-world-coins/britannia-coins.html" ><span>Britannia Coins</span></a></li><li  class="level2 nav-2-1-3"><a href="http://www.govmint.com/world-coins/top-world-coins/kangaroo-coins.html" ><span>Kangaroo Coins</span></a></li><li  class="level2 nav-2-1-4"><a href="http://www.govmint.com/world-coins/top-world-coins/koala-coins.html" ><span>Koala Coins</span></a></li><li  class="level2 nav-2-1-5"><a href="http://www.govmint.com/world-coins/top-world-coins/kookaburra-coins.html" ><span>Kookaburra Coins</span></a></li><li  class="level2 nav-2-1-6"><a href="http://www.govmint.com/world-coins/top-world-coins/krugerrand-coins.html" ><span>Krugerrand Coins</span></a></li><li  class="level2 nav-2-1-7"><a href="http://www.govmint.com/world-coins/top-world-coins/libertad-coins.html" ><span>Libertad Coins</span></a></li><li  class="level2 nav-2-1-8"><a href="http://www.govmint.com/world-coins/top-world-coins/maple-leaf-coins.html" ><span>Maple Leaf Coins</span></a></li><li  class="level2 nav-2-1-9"><a href="http://www.govmint.com/world-coins/top-world-coins/panda-coins.html" ><span>Panda Coins</span></a></li><li  class="level2 nav-2-1-10"><a href="http://www.govmint.com/world-coins/top-world-coins/ancient-coins.html" ><span>Ancient Coins</span></a></li><li  class="level2 nav-2-1-11"><a href="http://www.govmint.com/world-coins/top-world-coins/lunar-coins.html" ><span>Lunar Coins</span></a></li><li  class="level2 nav-2-1-12"><a href="http://www.govmint.com/world-coins/top-world-coins/mexico-mint-coins.html" ><span>Mexico Mint Coins</span></a></li><li  class="level2 nav-2-1-13"><a href="http://www.govmint.com/world-coins/top-world-coins/paris-mint-coins.html" ><span>Paris Mint Coins</span></a></li><li  class="level2 nav-2-1-14"><a href="http://www.govmint.com/world-coins/top-world-coins/perth-mint-coins.html" ><span>Perth Mint Coins</span></a></li><li  class="level2 nav-2-1-15"><a href="http://www.govmint.com/world-coins/top-world-coins/pobjoy-mint-coins.html" ><span>Pobjoy Mint Coins</span></a></li><li  class="level2 nav-2-1-16"><a href="http://www.govmint.com/world-coins/top-world-coins/royal-canadian-mint-coins.html" ><span>Royal Canadian Mint</span></a></li><li  class="level2 nav-2-1-17"><a href="http://www.govmint.com/world-coins/top-world-coins/theroyalmint.html" ><span>The Royal Mint Coins</span></a></li><li  class="level2 nav-2-1-18 last"><a href="http://www.govmint.com/world-coins/top-world-coins/goldcoinsunder200dollars.html" ><span>Gold Coins Under $200</span></a></li></ul></li><li  class="level1 nav-2-2 parent"><a href="http://www.govmint.com/world-coins/by-country-a-f.html" ><span>By Country (A-F)</span></a><ul class="level1"><li  class="level2 nav-2-2-1 first"><a href="http://www.govmint.com/world-coins/by-country-a-f/andorra-coins.html" ><span>Andorra Coins</span></a></li><li  class="level2 nav-2-2-2"><a href="http://www.govmint.com/world-coins/by-country-a-f/australia-coins.html" ><span>Australia Coins</span></a></li><li  class="level2 nav-2-2-3"><a href="http://www.govmint.com/world-coins/by-country-a-f/austria-coins.html" ><span>Austria Coins</span></a></li><li  class="level2 nav-2-2-4"><a href="http://www.govmint.com/world-coins/by-country-a-f/british-coins.html" ><span>British Coins</span></a></li><li  class="level2 nav-2-2-5"><a href="http://www.govmint.com/world-coins/by-country-a-f/british-virgin-island-coins.html" ><span>British Virgin Island Coins</span></a></li><li  class="level2 nav-2-2-6"><a href="http://www.govmint.com/world-coins/by-country-a-f/cameroon-coins.html" ><span>Cameroon Coins</span></a></li><li  class="level2 nav-2-2-7"><a href="http://www.govmint.com/world-coins/by-country-a-f/canada-coins.html" ><span>Canada Coins</span></a></li><li  class="level2 nav-2-2-8"><a href="http://www.govmint.com/world-coins/by-country-a-f/central-african-republic-coins.html" ><span>Central African Republic</span></a></li><li  class="level2 nav-2-2-9"><a href="http://www.govmint.com/world-coins/by-country-a-f/china-coins.html" ><span>China Coins</span></a></li><li  class="level2 nav-2-2-10"><a href="http://www.govmint.com/world-coins/by-country-a-f/congo-coins.html" ><span>Congo Coins</span></a></li><li  class="level2 nav-2-2-11"><a href="http://www.govmint.com/world-coins/by-country-a-f/cook-islands-coins.html" ><span>Cook Islands Coins</span></a></li><li  class="level2 nav-2-2-12"><a href="http://www.govmint.com/world-coins/by-country-a-f/fiji-coins.html" ><span>Fiji Coins</span></a></li><li  class="level2 nav-2-2-13 last"><a href="http://www.govmint.com/world-coins/by-country-a-f/france-coins.html" ><span>France Coins</span></a></li></ul></li><li  class="level1 nav-2-3 parent"><a href="http://www.govmint.com/world-coins/by-country-g-j.html" ><span>By Country (G-J)</span></a><ul class="level1"><li  class="level2 nav-2-3-1 first"><a href="http://www.govmint.com/world-coins/by-country-g-j/germany-coins.html" ><span>Germany Coins</span></a></li><li  class="level2 nav-2-3-2"><a href="http://www.govmint.com/world-coins/by-country-g-j/hungary-coins.html" ><span>Hungary Coins</span></a></li><li  class="level2 nav-2-3-3"><a href="http://www.govmint.com/world-coins/by-country-g-j/india-coins.html" ><span>India Coins</span></a></li><li  class="level2 nav-2-3-4"><a href="http://www.govmint.com/world-coins/by-country-g-j/isle-of-man-coins.html" ><span>Isle of Man Coins</span></a></li><li  class="level2 nav-2-3-5"><a href="http://www.govmint.com/world-coins/by-country-g-j/israel-coins.html" ><span>Israel Coins</span></a></li><li  class="level2 nav-2-3-6"><a href="http://www.govmint.com/world-coins/by-country-g-j/italy-coins.html" ><span>Italy Coins</span></a></li><li  class="level2 nav-2-3-7 last"><a href="http://www.govmint.com/world-coins/by-country-g-j/judea-coins.html" ><span>Judea Coins</span></a></li></ul></li><li  class="level1 nav-2-4 parent"><a href="http://www.govmint.com/world-coins/by-country-k-r.html" ><span>By Country (K-R)</span></a><ul class="level1"><li  class="level2 nav-2-4-1 first"><a href="http://www.govmint.com/world-coins/by-country-k-r/mexico-coins.html" ><span>Mexico Coins</span></a></li><li  class="level2 nav-2-4-2"><a href="http://www.govmint.com/world-coins/by-country-k-r/mongolia-coins.html" ><span>Mongolia Coins</span></a></li><li  class="level2 nav-2-4-3"><a href="http://www.govmint.com/world-coins/by-country-k-r/new-zealand-coins.html" ><span>New Zealand Coins</span></a></li><li  class="level2 nav-2-4-4"><a href="http://www.govmint.com/world-coins/by-country-k-r/niue-coins.html" ><span>Niue Coins</span></a></li><li  class="level2 nav-2-4-5"><a href="http://www.govmint.com/world-coins/by-country-k-r/palau-coins.html" ><span>Palau Coins</span></a></li><li  class="level2 nav-2-4-6"><a href="http://www.govmint.com/world-coins/by-country-k-r/philippines-coins.html" ><span>Philippines Coins</span></a></li><li  class="level2 nav-2-4-7"><a href="http://www.govmint.com/world-coins/by-country-k-r/prussia-coins.html" ><span>Prussia Coins</span></a></li><li  class="level2 nav-2-4-8"><a href="http://www.govmint.com/world-coins/by-country-k-r/roman-empire-coins.html" ><span>Roman Empire Coins</span></a></li><li  class="level2 nav-2-4-9 last"><a href="http://www.govmint.com/world-coins/by-country-k-r/russia-coins.html" ><span>Russia Coins</span></a></li></ul></li><li  class="level1 nav-2-5 last parent"><a href="http://www.govmint.com/world-coins/by-country-s-z.html" ><span>By Country (S-Z)</span></a><ul class="level1"><li  class="level2 nav-2-5-1 first"><a href="http://www.govmint.com/world-coins/by-country-s-z/samoa-coins.html" ><span>Samoa Coins</span></a></li><li  class="level2 nav-2-5-2"><a href="http://www.govmint.com/world-coins/by-country-s-z/solomon-islands.html" ><span>Solomon Islands</span></a></li><li  class="level2 nav-2-5-3"><a href="http://www.govmint.com/world-coins/by-country-s-z/somalia-coins.html" ><span>Somalia Coins</span></a></li><li  class="level2 nav-2-5-4"><a href="http://www.govmint.com/world-coins/by-country-s-z/south-africa-coins.html" ><span>South Africa Coins</span></a></li><li  class="level2 nav-2-5-5"><a href="http://www.govmint.com/world-coins/by-country-s-z/spain-coins.html" ><span>Spain Coins</span></a></li><li  class="level2 nav-2-5-6"><a href="http://www.govmint.com/world-coins/by-country-s-z/switzerland-coins.html" ><span>Switzerland Coins</span></a></li><li  class="level2 nav-2-5-7"><a href="http://www.govmint.com/world-coins/by-country-s-z/tanzania-coins.html" ><span>Tanzania Coins</span></a></li><li  class="level2 nav-2-5-8"><a href="http://www.govmint.com/world-coins/by-country-s-z/tokelau-coins.html" ><span>Tokelau Coins</span></a></li><li  class="level2 nav-2-5-9"><a href="http://www.govmint.com/world-coins/by-country-s-z/tristan-da-cunha-coins.html" ><span>Tristan da Cunha Coins</span></a></li><li  class="level2 nav-2-5-10"><a href="http://www.govmint.com/world-coins/by-country-s-z/tuvalu-coins.html" ><span>Tuvalu Coins</span></a></li><li  class="level2 nav-2-5-11 last"><a href="http://www.govmint.com/world-coins/by-country-s-z/vanuatu-coins.html" ><span>Vanuatu Coins</span></a></li></ul></li></ul></li><li  class="level0 nav-3 level-top parent"><a href="http://www.govmint.com/precious-metal.html"  class="level-top" ><span>Bars</span></a><ul class="level0"><li  class="level1 nav-3-1 first"><a href="http://www.govmint.com/precious-metal/gold-bars-and-ingots.html" ><span>Gold Bar and Ingots</span></a></li><li  class="level1 nav-3-2"><a href="http://www.govmint.com/precious-metal/silver-bars-and-ingots.html" ><span>Silver Bar and Ingots</span></a></li><li  class="level1 nav-3-3 last"><a href="http://www.govmint.com/precious-metal/bulk-bags.html" ><span>Bulk Bags</span></a></li></ul></li><li  class="level0 nav-4 level-top parent"><a href="http://www.govmint.com/currency.html"  class="level-top" ><span>Currency</span></a><ul class="level0"><li  class="level1 nav-4-1 first"><a href="http://www.govmint.com/currency/paper-note.html" ><span>Paper Note</span></a></li><li  class="level1 nav-4-2 last"><a href="http://www.govmint.com/currency/currency-proof.html" ><span>Currency Proof</span></a></li></ul></li><li  class="level0 nav-5 level-top"><a href="http://www.govmint.com/deals.html"  class="level-top" ><span>President's Day Sale</span></a></li><li  class="level0 nav-6 last level-top"><a href="http://www.govmint.com/new-arrivals.html"  class="level-top" ><span>New Arrivals</span></a></li>                </ul>
+            </div>
+        </div>
+    </div>
+<!--/{TOPMENU_31b58f13cf13f890e64f10ff1e107628}--><!--{AMSH_CACHEBUSTER_ACCOUNT_03c2f98902dba22107c6f53f2476b2ea}--><style>
+#invalid_address_notification {
+    background: #f0c8c6 none repeat scroll 0 0;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    box-shadow: 10px 10px 20px #ccc;
+    right: 26px;
+    font-weight: normal;
+    top:0;
+    color:#000 !important;
+    padding: 10px;
+    position: absolute;
+    width: 200px;
+    z-index: 1000;
+}
+#invd-trigger{
+    width: 20px;
+}
+    </style>
+<div class='account-group hide-for-small-only'>
+    
+    <div class='account-links'>
+        
+        <a class='my-account-dropdown' data-dropdown="account-drop" aria-controls="account-drop" aria-expanded="false">
+                            <span class="red">Sign in</span><br />
+                Your Account <i class='fa fa-caret-down'></i>
+                    </a>
+        <ul id="account-drop" class="f-dropdown" data-dropdown-content aria-hidden="true" tabindex="-1">
+                            <li>
+                    <a href="https://www.govmint.com/customer/account/login/referer/aHR0cDovL3d3dy5nb3ZtaW50LmNvbS8_YWQ9R1MxMDEwQg,,/">
+                        Sign in                    </a>
+                </li>
+                    </ul>
+    </div>
+
+    <div class='cart-links'>
+        <span class='mini-cart right'>
+                    </span>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+/**
+ * AAI HACK:
+ *
+ * The account dropdown and mini-cart blocks are rendered outside
+ * of the `catalog.topnav` (Mage_Page_Block_Html_Topmenu) to allow
+ * dynamic content to be a FPC hole punch.
+ *
+ * Below we do some trickery to move DOM elements into the top menu's
+ * nav bar to match AMSH old design.
+ */
+jQuery(document).ready(function(){
+    jQuery('.header-wrap .account-group').fadeIn('300').appendTo('.nav-bar.row');
+    jQuery('.header-wrap .top-cart').fadeIn('300').prependTo('.nav-bar.row .account-group .cart-links .mini-cart');
+});
+//]]>
+</script>
+<!--/{AMSH_CACHEBUSTER_ACCOUNT_03c2f98902dba22107c6f53f2476b2ea}--><!--{AMSH_CACHEBUSTER_MINICART_50916eb2638537032cc21c3116ea91b8}-->
+
+
+<div class='top-cart'>
+    <a class='mini-cart-dropdown' data-dropdown="mini-cart-dropdown-content" aria-controls="mini-cart-dropdown-content" aria-expanded="false">
+        <span class='cart-icon'></span>
+        <span class='qty'>0</span>
+        <span class='cart-text'>Cart <i class='fa fa-caret-down'></i></span>
+
+            </a>
+    <div id="mini-cart-dropdown-content" data-dropdown-content class="f-dropdown medium content" aria-hidden="true" tabindex="-1">
+                    <p class="cart-empty cart-empty-message">
+                                    You have no items in your shopping cart.                            </p>
+            </div>
+
+</div>
+<!--/{AMSH_CACHEBUSTER_MINICART_50916eb2638537032cc21c3116ea91b8}-->
+</div>
+
+
+<!--{AMSH_SPLITPAY_BANNER_79ada90a9cab8f20e978012b14c35dc4}-->    <div class="zblock container hide-for-small-only">
+        <div class="row">
+            <div class="large-12 columns">
+                <div class="zblock zblock-page-top-splitpay" id="zblock-30"><div class="zblock-item"><p style="text-align: center; vertical-align: middle; padding-top: 3px; padding-bottom: 0px; margin-bottom: 1px;"><span style="font-size: medium; color: #999999;"><strong>FREE SHIPPING &amp; <span style="text-decoration: underline;"><a href="http://www.govmint.com/splitpay-terms-and-conditions"><span style="color: #999999; text-decoration: underline;">INTEREST FREE PAYMENTS</span></a></span> on approved orders of $149 or more!</strong></span></p>
+<p style="margin: 0px;"><a title="2016 Cyber Week" href="http://www.govmint.com/deals.html?link=promo"><img alt="2016 Cyber Week" src="http://www.govmint.com/media/wysiwyg/promo-banner/v1_Presidents_SALE_Promo_980x68.jpg" /></a></p></div></div>            </div>
+        </div>
+    </div>
+            <div class="mobile zblock container show-for-small-only">
+            <div class="zblock zblock-mobile-page-top-splitpay" id="zblock-31"><div class="zblock-item"><p><img title="Split Pay" alt="Split Pay on all orders over $149." src="http://www.govmint.com/media/wysiwyg/promo-banner/640x75_Free_Shipping-149-2016-InterestFree_1_1.jpg" /></p></div></div>        </div>
+    <!--/{AMSH_SPLITPAY_BANNER_79ada90a9cab8f20e978012b14c35dc4}-->
+<div class="page row">
+    <div class="large-12 columns">
+        <div class="main-container col1-layout clearfix">
+            <div class="main">
+                                <div class="col-main">
+                    <!--{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}--><!--/{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}-->
+                    
+                                                                        <div id="mobile-homeSlider" class="row show-for-small-only">
+                                <div class="mobile slideshow-container large-12 columns">
+                                    <div class="mobile slideshow">
+                                        <div class="zblock zblock-mobile-homepage-slideshow" id="zblock-26"><div class="zblock-item"><p><a title="2017 Silver Eagles" href="http://www.govmint.com/us-coins/silver-coins/silver-eagle/shopby/2017.html?dir=asc&amp;order=price&amp;link=hpbanner"><img title="2017 Silver Eagles" alt="2017 Silver Eagles" src="http://www.govmint.com/media/wysiwyg/homepage-rotator/2017-Silver-Eagles-FDI-GRADED-02-Homepage_640_1.jpg" /></a></p></div><div class="zblock-item"><p><a href="http://www.govmint.com/2017-1-dollar-1-oz-silver-eagle-pcgs-ms70-first-strike-donald-trump-label.html?link=hpbanner"><img alt="" src="http://www.govmint.com/media/wysiwyg/homepage-rotator/2017_Trump_Silver_Eagle_Homepage_640_1.jpg" /></a></p></div><div class="zblock-item"><p><a href="http://www.govmint.com/1999-2008-u-s-proof-set-10-pc-collection.html?link=hpbanner"><img alt="" src="http://www.govmint.com/media/wysiwyg/homepage-rotator/1999-2008-US-Proof-Set-Homepage_640.jpg" /></a></p></div><div class="zblock-item"><p><a href="http://www.govmint.com/deals.html?link=hpbanner"><img alt="" src="http://www.govmint.com/media/wysiwyg/homepage-rotator/v1_Presidents_SALE_Homepage_640.jpg" /></a></p></div><div class="zblock-item"><p><a href="http://www.govmint.com/2017-5-dollar-1-10-oz-gold-eagle-ngc-ms70-with-free-2017-silver-eagle-bu.html?link=hpbanner"><img alt="" src="http://www.govmint.com/media/wysiwyg/homepage-rotator/v2_2017_5Dollar_Gold_Eagle_MS70_Homepage_640_1.jpg" /></a></p></div></div>                                    </div>
+                                </div>
+                            </div>
+                        
+                                                    <div id="homeSlider" class="row hide-for-small-only">
+                                <div class="slideshow-container large-12 columns">
+                                    <div class="slideshow">
+                                        <div class="zblock zblock-homepage-slideshow" id="zblock-20"><div class="zblock-item"><p><a title="2017 Silver Eagles" href="http://www.govmint.com/us-coins/silver-coins/silver-eagle/shopby/2017.html?dir=asc&amp;order=price&amp;link=hpbanner"><img title="2017 Silver Eagles" alt="2017 Silver Eagles" src="http://www.govmint.com/media/wysiwyg/homepage-rotator/2017-Silver-Eagles-FDI-GRADED-02-Homepage_2.jpg" /></a></p></div><div class="zblock-item"><p><a href="http://www.govmint.com/2017-1-dollar-1-oz-silver-eagle-pcgs-ms70-first-strike-donald-trump-label.html?link=hpbanner"><img alt="" src="http://www.govmint.com/media/wysiwyg/homepage-rotator/2017_Trump_Silver_Eagle_Homepage_1.jpg" /></a></p></div><div class="zblock-item"><p><a href="http://www.govmint.com/1999-2008-u-s-proof-set-10-pc-collection.html?link=hpbanner"><img alt="" src="http://www.govmint.com/media/wysiwyg/homepage-rotator/1999-2008-US-Proof-Set-Homepage.jpg" /></a></p></div><div class="zblock-item"><p><a href="http://www.govmint.com/deals.html?link=hpbanner"><img alt="" src="http://www.govmint.com/media/wysiwyg/homepage-rotator/v1_Presidents_SALE_Homepage.jpg" /></a></p></div><div class="zblock-item"><p><a href="http://www.govmint.com/2017-5-dollar-1-10-oz-gold-eagle-ngc-ms70-with-free-2017-silver-eagle-bu.html?link=hpbanner"><img alt="" src="http://www.govmint.com/media/wysiwyg/homepage-rotator/v2_2017_5Dollar_Gold_Eagle_MS70_Homepage_1.jpg" /></a></p></div></div>                                    </div>
+                                </div>
+                            </div>
+                        
+                                                    <div id="homeCarousel" class="row">
+                                <div class="category-carousel-container large-12 columns">
+                                                                        <h2 class="category-carousel-title">
+                                        Most Popular Categories                                    </h2>
+                                    <div class="product-tabs">
+                                        <div><div class="zblock zblock-homepage_carousel" id="zblock-22"><div class="zblock-item"><p><a href="http://www.govmint.com/us-coins/silver-coins/silver-eagle.html?link=hpcarousel"><img title="America Silver Eagles" alt="America Silver Eagles" src="http://www.govmint.com/media/wysiwyg/home-carousel/silver-eagles-102915_1_1.jpg" height="194" width="267" /></a><a class="btn btn-primary btn-block" title="Silver Eagle Coins" href="http://www.govmint.com/us-coins/silver-coins/silver-eagle.html?link=hpcarousel2">Get Silver Eagle Coins</a></p></div><div class="zblock-item"><p><a href="http://www.govmint.com/us-coins/proof-and-mint-sets.html?link=hpcarousel"><img title="Proof and Mint Sets" alt="Proof and Mint Sets" src="http://www.govmint.com/media/wysiwyg/home-carousel/proof-set-102915_1_1.jpg" height="194" width="267" /></a><a class="btn btn-primary btn-block" title="Proof and Mint Sets" href="http://www.govmint.com/us-coins/proof-and-mint-sets.html?link=hpcarousel2">Buy Proof and Mint Sets</a></p></div><div class="zblock-item"><p><a href="http://www.govmint.com/us-coins/gold-coins/gold-eagle.html?link=hpcarousel"><img title="America Gold Eagles" alt="America Gold Eagles" src="http://www.govmint.com/media/wysiwyg/home-carousel/gold-eagles-102915_1_1.jpg" height="194" width="267" /></a><a class="btn btn-primary btn-block" title="Gold Eagle Coins" href="http://www.govmint.com/us-coins/gold-coins/gold-eagle.html?link=hpcarousel2">Buy Gold Eagle Coins</a></p></div><div class="zblock-item"><p><a href="http://www.govmint.com/us-coins/silver-coins/morgan-dollar.html?link=hpcarousel"><img title="America Silver Eagles" alt="Morgan Silver Dollars" src="http://www.govmint.com/media/wysiwyg/home-carousel/morgan-102915_1_1.jpg" height="194" width="267" /></a><a class="btn btn-primary btn-block" title="Silver Eagle Coins" href="http://www.govmint.com/us-coins/silver-coins/morgan-dollar.html?link=hpcarousel2">Buy Morgan Dollars</a></p></div><div class="zblock-item"><p><a href="http://www.govmint.com/currency/currency-proof.html?link=hpcarousel"><img title="Currency Proofs" alt="Currency Proofs" src="http://www.govmint.com/media/wysiwyg/home-carousel/currency-proof-120415_1_1.jpg" height="194" width="267" /></a><a class="btn btn-primary btn-block" title="Currency Proofs" href="http://www.govmint.com/currency/currency-proof.html?link=hpcarousel2">Get Currency Proofs</a></p></div><div class="zblock-item"><p><a href="http://www.govmint.com/us-coins/exclusive-collections/smithsonian-institution.html?link=hpcarousel"><img title="Smithsonian Institution Products" alt="Smithsonian Institution Products" src="http://www.govmint.com/media/wysiwyg/home-carousel/smithsonian-102915_1_1.jpg" height="194" width="267" /></a><a class="btn btn-primary btn-block" title="Smithsonian Institution Products" href="http://www.govmint.com/us-coins/exclusive-collections/smithsonian-institution.html?link=hpcarousel2">Get Smithsonian Coins</a></p></div></div></div>                                    </div>
+                                </div>
+                            </div>
+                        
+                        <script type="text/javascript">
+                        //<![CDATA[
+
+                            // Homepage Main Slideshow
+                            jQuery('.zblock-homepage-slideshow, .zblock-mobile-homepage-slideshow', '.slideshow-container .slideshow').bxSlider({
+                                auto: true,
+                                useCSS: false,
+                                easing: 'easeInOutExpo',
+                                mode: 'fade',
+                                speed: 1000,
+                                prevText: '<i class="fa fa-caret-left"></i>',
+                                nextText: '<i class="fa fa-caret-right"></i>'
+                            });
+
+                            jQuery('.category-carousel-container .product-tabs .zblock-homepage_carousel').bxSlider({
+                                useCSS: false,
+                                easing: 'easeInOutExpo',
+                                speed: 700,
+                                minSlides: 3,
+                                maxSlides: 3,
+                                slideWidth: 390,
+                                slideMargin: 10,
+                                pager: false,
+                                prevText: '<i class="fa fa-caret-left"></i>',
+                                nextText: '<i class="fa fa-caret-right"></i>'
+                            });
+
+                        //]]>
+                        </script>
+
+                        <div id="homeCallouts" class="row callouts">
+                            <div class="callouts-inner">
+                                <div class="medium-3 columns">
+                                    <div class="zblock zblock-widget" id="zblock-19"><div class="zblock-item"><p><a title="2016 American Liberty Silver Medal" href="http://www.govmint.com/us-coins/silver-coins/silver-eagle/shopby/2017.html?dir=asc&amp;order=price&amp;link=featured"><img title="2017 Silver Eagle" alt="2017 Silver Eagle" src="http://www.govmint.com/media/wysiwyg/featured-banners/Featured_banner_2017_Silver_Eagles_v2_1.jpg" /></a></p></div></div>                                </div>
+                                <div class="medium-3 columns">
+                                    <p><div class="zblock zblock-widget" id="zblock-23"><div class="zblock-item"><p><a href="http://www.govmint.com/us-coins/gold-coins/gold-eagle/shopby/2017.html?link=featured"><img title="Holiday" alt="Holiday" src="http://www.govmint.com/media/wysiwyg/featured-banners/Featured_banner_Gift_Guide_v2_1.jpg" height="247" width="215" /></a></p></div></div></p>                                </div>
+                                <div class="medium-3 columns">
+                                    <div class="zblock zblock-widget" id="zblock-18"><div class="zblock-item"><p><a href="http://www.govmint.com/deals.html?link=featured"><img alt="Deals" src="http://www.govmint.com/media/wysiwyg/featured-banners/Featured_banner_Todays_Deals_v2_1.jpg" height="247" width="215" /></a></p></div></div>                                </div>
+                                <div class="medium-3 columns">
+                                    
+<p><div class="zblock zblock-widget" id="zblock-21"><div class="zblock-item"><p><a href="http://www.govmint.com/world-coins/by-country-a-f/china-coins/shopby/2017.html?link=featured"><img title="2017 Pandas" alt="2017 Pandas" src="http://www.govmint.com/media/wysiwyg/featured-banners/Featured_banner_Pandas_v2_1.jpg" height="247" width="215" /></a></p></div></div></p>                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row partners">
+                            <div class="large-12 columns">
+                                <span class="partners-title">Official Partners of:</span>
+                                <div class="logos"><div class="row-fluid" style="margin-bottom: 10px; text-align: center;">
+<div class="span12"><a href="our-official-partners"><img alt="The Royal Mint" src="http://www.govmint.com/media/wysiwyg/partners/90x50-Partner-TRM_1.jpg" height="47" width="85" /></a> <a href="our-official-partners"><img alt="China Gold Coin" src="http://www.govmint.com/media/wysiwyg/partners/90x50-Partner-CGCM_1.jpg" height="47" width="85" /></a> <a href="our-official-partners"><img alt="Perth Mint" src="http://www.govmint.com/media/wysiwyg/partners/90x50-Partner-TPMA_1.jpg" height="47" width="85" /></a> <a href="our-official-partners"><img alt="Pobjoy Mint" src="http://www.govmint.com/media/wysiwyg/partners/90x50-Partner-PM_1.jpg" height="47" width="85" /></a> <a href="our-official-partners"><img alt="Royal Australian Mint" src="http://www.govmint.com/media/wysiwyg/partners/90x50-Partner-RAM_1.jpg" height="47" width="85" /></a> <a href="our-official-partners"><img alt="Royal Canadian Mint" src="http://www.govmint.com/media/wysiwyg/partners/90x50-Partner-RCM_1.jpg" height="47" width="85" /></a> <a href="our-official-partners"><img alt="The Holy Land Mint" src="http://www.govmint.com/media/wysiwyg/partners/90x50-Partner-THLM_1.jpg" height="47" width="85" /></a> <a href="our-official-partners"><img alt="South Africa Mint" src="http://www.govmint.com/media/wysiwyg/partners/90x50-Partner-SAM2016_1.jpg" height="47" width="85" /></a> <a href="our-official-partners"><img alt="NGC" src="http://www.govmint.com/media/wysiwyg/partners/90x50-Partner-NGC_1.jpg" height="47" width="85" /></a> <a href="our-official-partners"><img alt="PCGS" src="http://www.govmint.com/media/wysiwyg/partners/90x50-Partner-PCGS_1.jpg" height="47" width="85" /></a></div>
+</div>                                </div>
+                            </div>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="footer-wrap">
+    <div class="row">
+        <div class="large-12 columns">
+                        <div class="footer-cols row">
+    <div class="footer-col col-1">
+        <div class="first-col">
+            <h3>Connect With Us</h3>
+            <div class="mobile-hide">
+                <div class="block block-subscribe">
+    <div class="row">
+        <div class="large-12 columns">
+            <div class="block-title">
+                <strong><span>Email Sign Up</span></strong>
+            </div>
+            <form action="https://www.govmint.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+                <div class="block-content row collapse">
+                    <div class="input-box small-10 columns">
+                        <input type="email" placeholder="Enter email address" autocapitalize="off" autocorrect="off" spellcheck="false" name="email" id="newsletter" title="Sign up for our newsletter" class="input-text required-entry validate-email no-margin" />
+                    </div>
+                    <div class="actions small-2 columns">
+                        <button type="submit" title="Subscribe" class="button postfix no-margin"><i class="fa fa-caret-right"></i></button>
+                    </div>
+                </div>
+            </form>
+            <script type="text/javascript">
+            //<![CDATA[
+                var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+            //]]>
+            </script>
+        </div>
+    </div>
+</div>                <ul class="social-media">
+<li><img alt="Instagram" src="http://www.govmint.com/media/wysiwyg/1451960637_facebook.png" height="16px" width="16px" />&nbsp;&nbsp; <a href="http://www.facebook.com/GovMint" target="_blank">Like Us on Facebook</a></li>
+<li><img alt="Instagram" src="http://www.govmint.com/media/wysiwyg/1451960659_twitter.png" height="16px" width="16px" />&nbsp;&nbsp; <a href="http://www.twitter.com/GovMint" target="_blank">Follow Us on Twitter</a></li>
+<li><img alt="Instagram" src="http://www.govmint.com/media/wysiwyg/1451960693_google_plus.png" height="16px" width="16px" />&nbsp;&nbsp; <a href="https://plus.google.com/+Govmint" target="_blank">Follow Us on Google</a></li>
+<li><img alt="Instagram" src="http://www.govmint.com/media/wysiwyg/instagram.png" height="16px" width="16px" />&nbsp;&nbsp; <a href="http://www.instagram.com/Govmint" target="_blank">Follow Us Instagram</a></li>
+<!--<li><a class="youtube" href="http://www.youtube.com/user/GovMint" target="_blank">GovMint.com Youtube Channel</a></li>-->
+<li><a class="suggestion" href="mailto:customerservice@govmint.com">Have a suggestion for Us?</a></li>
+</ul>            </div>
+        </div>
+    </div>
+    <div class="footer-col col-2">
+        <div class="second-col">
+            <h4>Shop By</h4>
+            <div class="mobile-hide">
+                <ul>
+<li><a href="http://www.govmint.com/us-coins.html?link=footer">U.S. Coins</a></li>
+<li><a href="http://www.govmint.com/world-coins.html?link=footer">World Coins</a></li>
+<li><a href="http://www.govmint.com/precious-metal.html?link=footer">Precious Metals</a></li>
+<li><a href="http://www.govmint.com/currency.html?link=footer">Currency</a></li>
+<li><a href="http://www.govmint.com/accessories.html?link=footer">Accessories</a></li>
+<li><a href="http://www.govmint.com/all-silver-coins.html?link=footer">All Silver Coins</a></li>
+<li><a href="http://www.govmint.com/all-gold-coins.html?link=footer">All Gold Coins</a></li>
+<li><a href="http://www.govmint.com/2016.html?link=footer">All 2016 Products</a></li>
+<li><a href="http://www.govmint.com/2017.html?link=footer">All 2017 Products</a></li>
+</ul>            </div>
+            <h4>Reference</h4>
+            <div class="mobile-hide">
+                <ul>
+<li><a href="/glossary">Glossary</a></li>
+<li><a href="/coin-grading">Coin Grading Reference</a></li>
+<li><a href="/coin-collectors-spotlight">Coin Collecting Articles &amp; Videos</a></li>
+<!--<li><a href="/catalogrequest/">Request a Catalog</a></li>-->
+<li><a href="/catalog/seo_sitemap/category/">Sitemap</a></li>
+</ul>            </div>
+        </div>
+    </div>
+    <div class="footer-col col-3">
+        <div class="third-col">
+            <h4>Customer Support</h4>
+            <div class="mobile-hide">
+                <ul>
+<li><a href="http://www.govmint.com/customer-service">Contact Customer Service</a></li>
+<li><a href="http://www.govmint.com/shipping-handling">Shipping and Handling</a></li>
+<li><a href="http://www.govmint.com/faqs">Frequently Asked Questions</a></li>
+<li><a href="http://www.govmint.com/privacy">Privacy Policy</a></li>
+<li><a href="http://www.govmint.com/about-us">About GovMint.com</a></li>
+<li><a href="http://www.amsi-corp.com/careers.asp" target="_blank">Careers</a></li>
+</ul>
+
+            </div>
+
+            <h4>GovMint.com</h4>
+            <div class="mobile-hide">
+                <address>14101 Southcross Drive<br /> Burnsville, MN 55337</address>
+<p>Sales:&nbsp;1-800-642-9160&nbsp;</p>            </div>
+        </div>
+    </div>
+    <div class="footer-col col-4">
+        <div class="fourth-col">
+            <h4>Shop with Confidence</h4>
+            <div class="mobile-hide">
+                <ul>
+<li><a href="/return-policy/">Return Policy</a></li>
+<li><a href="http://www.bbb.org/minnesota/business-reviews/coin-dealers-supplies/govmintcom-in-burnsville-mn-96502382" rel="nofollow"> <span><span itemprop="name">GovMint.com</span><meta itemprop="url" content="http://www.govmint.com/" />BBB Rating: <span itemprop="aggregateRating"> <span itemprop="ratingValue">4.2</span>/<span itemprop="bestRating">5</span><span itemprop="ratingCount" style="display: none;">8</span></span></span></a></li>
+<li><a href="/terms-conditions/">Terms and Conditions</a></li>
+<li><a href="http://www.govmint.com/splitpay-terms-and-conditions ">Split Pay Program<sup>&trade;</sup></a></li>
+</ul>                <div class="confidence-icons">
+                    <ul>
+<li><a class="verisign"><img title="VeriSign Secured" alt="VeriSign Secured" src="http://www.govmint.com/media/wysiwyg/icon_verisign-secured.png" height="50" width="99" /></a></li>
+<li><a class="mcafee" href="https://www.mcafeesecure.com/verify?host=www.govmint.com" target="_BLANK"><img title="McAfee Secure" alt="McAfee Secure" src="http://www.govmint.com/media/wysiwyg/icon_mcafee-secure.png" height="35" width="99" /></a></li>
+<li><a class="bbb" href="http://www.bbb.org/minnesota/business-reviews/coin-dealers-supplies/govmintcom-in-burnsville-mn-96502382" target="_blank"><img title="BBB Accredited Business" alt="BBB Accredited Business" src="http://www.govmint.com/media/wysiwyg/icon_bbb_1.png" height="35" width="99" /></a></li>
+<li><a class="dma" href="http://thedma.org/" target="_blank"><img title="DMA Member" alt="DMA Member" src="http://www.govmint.com/media/wysiwyg/DMA99px_1.jpg" height="35" width="99" /></a></li>
+</ul>                </div>
+            </div>
+        </div>
+    </div>
+    <a href="tel:18006429160" class="button call-btn hide-for-medium-up">Call 1-800-642-9160</a>
+</div>
+<div class="row">
+    <div class="large-12 columns">
+        <hr>
+        <div class="note">
+            <style>
+                div.note p {font-style: italic;font-weight: normal;}
+            </style>
+            </strong><em>GovMint.com &reg; is a private distributor of worldwide government coin and currency issues and privately issued and licensed collectibles, and is not affiliated with the United States government. GovMint.com is not an investment company and does not offer financial advice or sell items as an investment. The collectible coin market is speculative, and coin values may rise or fall over time. Prices and availability are subject to change without notice.</em></address>        </div>
+        <p class="credits">All rights reserved.  &copy; 2017 GovMint.com, a brand of Asset Marketing Services, LLC</p>
+    </div>
+</div>
+                        
+<!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/nwmatcher/1.2.5/nwmatcher.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/selectivizr/1.0.2/selectivizr-min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+    <script src="//raw.githubusercontent.com/chuckcarpenter/REM-unit-polyfill/master/js/rem.min.js"></script>
+<![endif]-->
+
+
+<script type="text/javascript">
+    var amlabel_selector = '.product-image';
+    </script>	<script type="text/javascript">
+		mybuys.initPage();
+	</script>
+<div id="wishlist_edit_action_container"></div>
+<!--{WISHLISTS_00da1753d14ef0e4a42882eae93bdca6}--><!--/{WISHLISTS_00da1753d14ef0e4a42882eae93bdca6}-->        </div>
+    </div>
+</div>
+</body>
+</html>
