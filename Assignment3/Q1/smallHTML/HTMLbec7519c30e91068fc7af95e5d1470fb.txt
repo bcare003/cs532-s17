@@ -1,0 +1,641 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html lang="en-GB" prefix="og: http://ogp.me/ns#" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html lang="en-GB" prefix="og: http://ogp.me/ns#" class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html lang="en-GB" prefix="og: http://ogp.me/ns#" class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-GB" prefix="og: http://ogp.me/ns#" class="no-js"><!--<![endif]-->
+
+	<head>
+
+		<meta charset="utf-8">
+		<!-- Google Chrome Frame for IE -->
+		<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge" /><![endif]-->
+		<!-- mobile meta -->
+                    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        
+		<link rel="pingback" href="http://thealphabrain.com/xmlrpc.php">
+
+		
+		<!-- head extras -->
+		<title>Guy Hunting Random Person Who Took a Dump on The Front Of His $80,000 Tesla - theAlphaBrain</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v4.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://thealphabrain.com/guy-hunting-random-person-who-took-a-dump-on-the-front-of-his-80000-tesla/" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Guy Hunting Random Person Who Took a Dump on The Front Of His $80,000 Tesla - theAlphaBrain" />
+<meta property="og:description" content="A Tesla owner was trying to impress his date by showing off his new $80,000 Tesla. Unfortunately for the guy, as they returned to the vehicle they discovered someone had took a giant dump right on the front of the $80,000 car. The poor victim revealed: &#8216;I was on a date with a girl, who &hellip;" />
+<meta property="og:url" content="http://thealphabrain.com/guy-hunting-random-person-who-took-a-dump-on-the-front-of-his-80000-tesla/" />
+<meta property="og:site_name" content="theAlphaBrain" />
+<meta property="article:publisher" content="http://www.facebook.com/thealphabrain" />
+<meta property="article:section" content="Life" />
+<meta property="article:published_time" content="2016-02-06T01:19:26+00:00" />
+<meta property="og:image" content="http://thealphabrain.com/wp-content/uploads/2016/02/Tesla.jpg" />
+<meta property="og:image:width" content="2880" />
+<meta property="og:image:height" content="1250" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="theAlphaBrain &raquo; Feed" href="http://thealphabrain.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="theAlphaBrain &raquo; Comments Feed" href="http://thealphabrain.com/comments/feed/" />
+
+<!-- All in One Webmaster plugin by Crunchify.com --><meta name="google-site-verification" content="google-site-verification=zXeI5n_Y3fRpXlOfXpkRJFtS27fgi73q39PK3bChtVk" /> 
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-48723912-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript">
+_qoptions={qacct:"p-hXDHLg5sA7LJA"};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<link rel="author" href="www.google.com/+thealphabrain">
+<link rel="publisher" href="https://plus.google.com/u/0/b/110235199199771977989/110235199199771977989/about">
+<!-- /All in One Webmaster plugin -->
+
+<link rel="alternate" type="application/rss+xml" title="theAlphaBrain &raquo; Guy Hunting Random Person Who Took a Dump on The Front Of His $80,000 Tesla Comments Feed" href="http://thealphabrain.com/guy-hunting-random-person-who-took-a-dump-on-the-front-of-his-80000-tesla/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/thealphabrain.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.3"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='login-with-ajax-css'  href='http://thealphabrain.com/wp-content/themes/15zine/plugins/login-with-ajax/widget.css?ver=3.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='advanced-responsive-video-embedder-css'  href='http://thealphabrain.com/wp-content/plugins/advanced-responsive-video-embedder/public/arve-public.css?ver=8.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://thealphabrain.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='cb-main-stylesheet-css'  href='http://thealphabrain.com/wp-content/themes/15zine/library/css/style.css?ver=3.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cb-font-stylesheet-css'  href='//fonts.googleapis.com/css?family=Montserrat%3A400%2C700%7CMontserrat%3A400%2C700%2C400italic&#038;ver=3.0.2' type='text/css' media='all' />
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='cb-ie-only-css'  href='http://thealphabrain.com/wp-content/themes/15zine/library/css/ie.css?ver=3.0.2' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='fontawesome-css'  href='http://thealphabrain.com/wp-content/themes/15zine/library/css/font-awesome-4.6.3/css/font-awesome.min.css?ver=4.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://thealphabrain.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.5' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v5.5.4 - Universal enabled - https://www.monsterinsights.com/ -->
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-48723912-1', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('send','pageview');
+
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+<script type='text/javascript' src='http://thealphabrain.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://thealphabrain.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var LWA = {"ajaxurl":"http:\/\/thealphabrain.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://thealphabrain.com/wp-content/themes/15zine/plugins/login-with-ajax/login-with-ajax.js?ver=3.1.5'></script>
+<script type='text/javascript' src='http://thealphabrain.com/wp-content/plugins/jquery-image-lazy-loading/js/jquery.lazyload.min.js?ver=1.7.1'></script>
+<script type='text/javascript' src='http://thealphabrain.com/wp-content/themes/15zine/library/js/modernizr.custom.min.js?ver=2.6.2'></script>
+<link rel='https://api.w.org/' href='http://thealphabrain.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://thealphabrain.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://thealphabrain.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.6.3" />
+<link rel='shortlink' href='http://wp.me/p7844N-1I5' />
+<link rel="alternate" type="application/json+oembed" href="http://thealphabrain.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fthealphabrain.com%2Fguy-hunting-random-person-who-took-a-dump-on-the-front-of-his-80000-tesla%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://thealphabrain.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fthealphabrain.com%2Fguy-hunting-random-person-who-took-a-dump-on-the-front-of-his-80000-tesla%2F&#038;format=xml" />
+		<style>
+		.getty.alignleft {
+			margin-right: 5px;
+		}
+		.getty.alignright {
+			margin-left: 5px;
+		}
+		</style>
+		<style type='text/css'>
+img.lazy { display: none; }
+</style>
+<script data-cfasync="false" src="//load.sumome.com/" data-sumo-platform="wordpress" data-sumo-site-id="d61014164165cff7bc4105f7042c2ce2aba749013236ec0fe03fd668cefb1c39" async></script>
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+<link rel='dns-prefetch' href='//i0.wp.com'>
+<link rel='dns-prefetch' href='//i1.wp.com'>
+<link rel='dns-prefetch' href='//i2.wp.com'>
+<style type='text/css'>img#wpstats{display:none}</style><!-- Header Tag Code --> <script data-cfasync='false' type='text/javascript'>/*<![CDATA[*/(function (a, c, s, u){'Insticator'in a || (a.Insticator={ad:{loadAd: function (b){Insticator.ad.q.push(b)}, q: []}, helper:{}, embed:{}, version: "2.0", q: [], load: function (t, o){Insticator.q.push({t: t, o: o})}}); var b=c.createElement(s); b.src=u + new Date(Math.floor(new Date().getTime() / 6e5) * 6e5).getTime(); b.async=!0; var d=c.getElementsByTagName(s)[0]; d.parentNode.insertBefore(b, d)})(window, document, 'script', '//www.insticator.com/embeds/script?sid=e9f8a01e-dd42-4a51-a8b2-0af660b589c6&cbt=');/*]]>*/</script> <!-- End Header Tag Code -->
+<meta name="earnify-site-verification" content="3e2b6f33f0aa21380de07ba44da020305a0665b0" /><style type="text/css">.cb-tm-dark #cb-top-menu {
+  background-color: #000 !important;
+}
+
+input#mce-EMAIL {
+    width: 50%;
+}
+
+#cb-section-f .cb-module-custom {
+  padding: 0px 0px;
+}
+
+#mc-embedded-subscribe {
+    color: black;
+}
+
+input#mce-EMAIL {
+    color: #000;
+}#cb-nav-bar .cb-mega-menu-columns .cb-sub-menu > li > a { color: #f2c231; } .cb-entry-content a {color:#1e73be; }.cb-review-box .cb-bar .cb-overlay span { background: #f9db32; }.cb-review-box i { color: #f9db32; }.cb-meta-style-1 .cb-article-meta { background: rgba(0, 0, 0, 0.25); }.cb-module-block .cb-meta-style-2 img, .cb-module-block .cb-meta-style-4 img, .cb-grid-x .cb-grid-img img, .cb-grid-x .cb-grid-img .cb-fi-cover  { opacity: 0.75; }@media only screen and (min-width: 768px) {
+                .cb-module-block .cb-meta-style-1:hover .cb-article-meta { background: rgba(0, 0, 0, 0.59); }
+                .cb-module-block .cb-meta-style-2:hover img, .cb-module-block .cb-meta-style-4:hover img, .cb-grid-x .cb-grid-feature:hover img, .cb-grid-x .cb-grid-feature:hover .cb-fi-cover, .cb-slider li:hover img { opacity: 0.41; }
+            }.cb-header { background-color: #000000; }.cb-mob-menu .cb-mob-bg { background-image: url(http://thealphabrain.com/wp-content/uploads/2016/01/star-wars-black-and-white.jpg) }@media only screen and (min-width: 1020px){ body { font-size: 16px; }}.cb-menu-light #cb-nav-bar .cb-main-nav, .cb-stuck.cb-menu-light #cb-nav-bar .cb-nav-bar-wrap { border-bottom-color: #000000; }.cb-mm-on.cb-menu-light #cb-nav-bar .cb-main-nav > li:hover, .cb-mm-on.cb-menu-dark #cb-nav-bar .cb-main-nav > li:hover { background: #000000; }</style><!-- end custom css --><style type="text/css">body, #respond, .cb-font-body { font-family: 'Montserrat', sans-serif; } h1, h2, h3, h4, h5, h6, .cb-font-header, #bbp-user-navigation, .cb-byline{ font-family:'Montserrat', sans-serif; }</style><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+<style>.cb-mm-on #cb-nav-bar .cb-main-nav .menu-item-118:hover, .cb-mm-on #cb-nav-bar .cb-main-nav .menu-item-118:focus { background:#33CCFF !important ; }
+.cb-mm-on #cb-nav-bar .cb-main-nav .menu-item-118 .cb-big-menu { border-top-color: #33CCFF; }
+.cb-mm-on #cb-nav-bar .cb-main-nav .menu-item-6528:hover, .cb-mm-on #cb-nav-bar .cb-main-nav .menu-item-6528:focus { background:#33CCFF !important ; }
+.cb-mm-on #cb-nav-bar .cb-main-nav .menu-item-6528 .cb-big-menu { border-top-color: #33CCFF; }
+.cb-mm-on #cb-nav-bar .cb-main-nav .menu-item-117:hover, .cb-mm-on #cb-nav-bar .cb-main-nav .menu-item-117:focus { background:#33CCFF !important ; }
+.cb-mm-on #cb-nav-bar .cb-main-nav .menu-item-117 .cb-big-menu { border-top-color: #33CCFF; }
+.cb-mm-on #cb-nav-bar .cb-main-nav .menu-item-119:hover, .cb-mm-on #cb-nav-bar .cb-main-nav .menu-item-119:focus { background:#33CCFF !important ; }
+.cb-mm-on #cb-nav-bar .cb-main-nav .menu-item-119 .cb-big-menu { border-top-color: #33CCFF; }
+.cb-mm-on #cb-nav-bar .cb-main-nav .menu-item-120:hover, .cb-mm-on #cb-nav-bar .cb-main-nav .menu-item-120:focus { background:#33CCFF !important ; }
+.cb-mm-on #cb-nav-bar .cb-main-nav .menu-item-120 .cb-big-menu { border-top-color: #33CCFF; }</style><link rel="icon" href="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2016/01/cropped-Logo_A_512x512.jpg?fit=32%2C32" sizes="32x32" />
+<link rel="icon" href="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2016/01/cropped-Logo_A_512x512.jpg?fit=192%2C192" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2016/01/cropped-Logo_A_512x512.jpg?fit=180%2C180" />
+<meta name="msapplication-TileImage" content="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2016/01/cropped-Logo_A_512x512.jpg?fit=270%2C270" />
+		<!-- end head extras -->
+
+	</head>
+
+	<body class="single single-post postid-6577 single-format-standard custom-background  cb-sticky-mm  cb-tm-dark cb-body-light cb-menu-light cb-mm-light cb-footer-dark   cb-m-sticky cb-sw-tm-fw cb-sw-header-fw cb-sw-menu-fw cb-sw-footer-fw cb-menu-al-left  cb-fis-b-screen-width cb-fis-big-border  cb-fis-tl-me-overlay  cb-h-logo-off">
+
+		
+		<div id="cb-outer-container">
+
+			
+				<div id="cb-top-menu" class="clearfix cb-font-header ">
+					<div class="wrap clearfix cb-site-padding cb-top-menu-wrap">
+
+													<div class="cb-left-side cb-mob">
+
+								<a href="#" id="cb-mob-open" class="cb-link"><i class="fa fa-bars"></i></a>
+								                <div id="mob-logo" class="cb-top-logo">
+                    <a href="http://thealphabrain.com">
+                        <img src="http://thealphabrain.com/wp-content/uploads/2016/01/TAB_Logo_110x25.jpg" alt=" logo" >
+                    </a>
+                </div>
+            							</div>
+						                        <ul class="cb-top-nav cb-left-side"><li id="menu-item-6167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6167"><a href="http://thealphabrain.com/get-in-touch/">Contact</a></li>
+<li id="menu-item-6148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6148"><a href="http://thealphabrain.com/advertise/">Advertise</a></li>
+<li id="menu-item-6215" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6215"><a href="http://thealphabrain.com/write-for-us-2/">Write For Us</a></li>
+</ul>                                                <ul class="cb-top-nav cb-right-side"><li class="cb-icon-search cb-menu-icons-extra"><a href="#"  title="Search" id="cb-s-trigger-gen"><i class="fa fa-search"></i> <span class="cb-search-title">Search</span></a></li><li class="cb-icon-login cb-menu-icons-extra"><a href="#" class="cb-lwa-trigger" title="Log in / Join" id="cb-lwa-trigger-gen"><i class="fa fa-user"></i> <span class="cb-login-join-title">Log in / Join</span></a></li></ul>					</div>
+				</div>
+
+				<div id="cb-mob-menu" class="cb-mob-menu">
+					<div class="cb-mob-close-wrap">
+						
+						<a href="#" id="cb-mob-close" class="cb-link"><i class="fa cb-times"></i></a>
+										    </div>
+
+					<div class="cb-mob-menu-wrap">
+						<ul id="cb-mob-ul" class="cb-mobile-nav cb-top-nav cb-mob-ul-show"><li id="menu-item-6222" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-6222"><a href="http://thealphabrain.com/category/life/">Life</a></li>
+<li id="menu-item-6223" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6223"><a href="http://thealphabrain.com/category/tech/">Tech</a></li>
+<li id="menu-item-6529" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6529"><a href="http://thealphabrain.com/category/women/">Women</a></li>
+<li id="menu-item-6221" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6221"><a href="http://thealphabrain.com/category/fooddrink/">Food / Drink</a></li>
+<li id="menu-item-6224" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6224"><a href="http://thealphabrain.com/category/sports/">Sports</a></li>
+<li id="menu-item-6169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6169"><a href="http://thealphabrain.com/join/">Subscribe</a></li>
+<li id="menu-item-6168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6168"><a href="http://thealphabrain.com/get-in-touch/">Contact</a></li>
+<li id="menu-item-6214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6214"><a href="http://thealphabrain.com/write-for-us-2/">Write For Us</a></li>
+<li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"><a href="http://thealphabrain.com/advertise/">Advertise</a></li>
+<li id="menu-item-52" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="http://thealphabrain.com/privacy/">Privacy</a></li>
+</ul>													<span class="cb-mob-bg"></span>
+											</div>
+
+				</div>
+			
+			<div id="cb-container" class="clearfix" >
+									<header id="cb-header" class="cb-header  cb-with-block ">
+
+					    <div id="cb-logo-box" class="cb-logo-left wrap">
+	                    	                <div id="logo">
+                                        <a href="http://thealphabrain.com">
+                        <img src="http://thealphabrain.com/wp-content/uploads/2016/01/Tab_Logo_220x80.gif" alt=" logo" >
+                    </a>
+                                    </div>
+            	                        <div class="cb-large cb-block"><script type="text/javascript">
+	atOptions = {
+		'key' : '76fc31b7665c671979bbc4271de46b76',
+		'format' : 'iframe',
+		'height' : 90,
+		'width' : 728,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.bnserving.com/invoke.js"></scr' + 'ipt>');
+</script></div>	                    </div>
+
+					</header>
+				
+				<div id="cb-lwa" class="cb-lwa-modal cb-modal"><div class="cb-close-m cb-ta-right"><i class="fa cb-times"></i></div>
+<div class="cb-lwa-modal-inner cb-modal-inner cb-light-loader cb-pre-load cb-font-header clearfix">
+    <div class="lwa lwa-default clearfix">
+                
+        
+
+        <form class="lwa-form cb-form cb-form-active clearfix" action="http://thealphabrain.com/wp-login.php" method="post">
+            
+            <div class="cb-form-body">
+                <input class="cb-form-input cb-form-input-username" type="text" name="log" placeholder="Username">
+                <input class="cb-form-input" type="password" name="pwd" placeholder="Password">
+                                <span class="lwa-status cb-ta-center"></span>
+                <div class="cb-submit cb-ta-center">
+                  <input type="submit" name="wp-submit" class="lwa_wp-submit cb-submit-form" value="Log In" tabindex="100" />
+                  <input type="hidden" name="lwa_profile_link" value="" />
+                  <input type="hidden" name="login-with-ajax" value="login" />
+                </div>
+
+                <div class="cb-remember-me cb-extra cb-ta-center"><label>Remember Me</label><input name="rememberme" type="checkbox" class="lwa-rememberme" value="forever" /></div>
+                
+                <div class="cb-lost-password cb-extra cb-ta-center">
+                                          <a class="lwa-links-remember cb-title-trigger cb-trigger-pass" href="http://thealphabrain.com/wp-login.php?action=lostpassword" title="Lost your password?">Lost your password?</a>
+                                     </div>
+           </div>
+        </form>
+        
+                <form class="lwa-remember cb-form clearfix" action="http://thealphabrain.com/wp-login.php?action=lostpassword" method="post">
+
+            <div class="cb-form-body">
+
+                <input type="text" name="user_login" class="lwa-user-remember cb-form-input" placeholder="Enter username or email">
+                                <span class="lwa-status cb-ta-center"></span>
+
+                 <div class="cb-submit cb-ta-center">
+                        <input type="submit" value="Get New Password" class="lwa-button-remember cb-submit-form" />
+                        <input type="hidden" name="login-with-ajax" value="remember" />
+                 </div>
+            </div>
+
+        </form>
+            </div>
+</div></div><div id="cb-menu-search" class="cb-s-modal cb-modal"><div class="cb-close-m cb-ta-right"><i class="fa cb-times"></i></div><div class="cb-s-modal-inner cb-pre-load cb-light-loader cb-modal-inner cb-font-header cb-mega-three cb-mega-posts clearfix"><form method="get" class="cb-search" action="http://thealphabrain.com/">
+
+    <input type="text" class="cb-search-field cb-font-header" placeholder="Search.." value="" name="s" title="" autocomplete="off">
+    <button class="cb-search-submit" type="submit" value=""><i class="fa fa-search"></i></button>
+    
+</form><div id="cb-s-results"></div></div></div>				
+									 <nav id="cb-nav-bar" class="clearfix ">
+					 	<div class="cb-nav-bar-wrap cb-site-padding clearfix cb-font-header  cb-menu-fw">
+		                    <ul class="cb-main-nav wrap clearfix"><li id="menu-item-118" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-118"><a href="http://thealphabrain.com/category/life/">Life</a><div class="cb-menu-drop cb-bg cb-mega-menu cb-big-menu clearfix"><div class="cb-mega-three cb-mega-posts  clearfix"><div class="cb-upper-title"><h2>Life</h2><a href="http://thealphabrain.com/category/life/" class="cb-see-all">See all</a></div><ul class="cb-sub-posts"> <li class="cb-looper cb-article-1 cb-mm-posts-count-3 cb-style-1 clearfix post-3309 post type-post status-publish format-standard has-post-thumbnail category-life"><div class="cb-mask cb-img-fw" style="background-color: #33CCFF;"><a href="http://thealphabrain.com/stop-wearing-shoes-with-no-socks-immediately/"><img width="360" height="240" src="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/07/JACKASS.jpg?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="JACKASS" srcset="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/07/JACKASS.jpg?w=1280 1280w, https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/07/JACKASS.jpg?resize=300%2C200 300w, https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/07/JACKASS.jpg?resize=768%2C512 768w, https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/07/JACKASS.jpg?resize=360%2C240 360w" sizes="(max-width: 360px) 100vw, 360px" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://thealphabrain.com/stop-wearing-shoes-with-no-socks-immediately/">Stop Wearing Shoes With No Socks&#8230;</a></h2></div></li> <li class="cb-looper cb-article-2 cb-mm-posts-count-3 cb-style-1 clearfix post-7336 post type-post status-publish format-standard has-post-thumbnail category-life"><div class="cb-mask cb-img-fw" style="background-color: #33CCFF;"><a href="http://thealphabrain.com/marijuana-whole-new-world/"><img width="360" height="240" src="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2016/03/GettyImages-143185314-925x466.jpg?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Coloradoan&#039;s Celebrate 4/20 With Marijuana Smokeout" srcset="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2016/03/GettyImages-143185314-925x466.jpg?resize=360%2C240 360w, https://i1.wp.com/thealphabrain.com/wp-content/uploads/2016/03/GettyImages-143185314-925x466.jpg?zoom=2&amp;resize=360%2C240 720w" sizes="(max-width: 360px) 100vw, 360px" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://thealphabrain.com/marijuana-whole-new-world/">The War On Marijuana – A Whole New World</a></h2></div></li> <li class="cb-looper cb-article-3 cb-mm-posts-count-3 cb-style-1 clearfix post-1940 post type-post status-publish format-standard has-post-thumbnail category-life"><div class="cb-mask cb-img-fw" style="background-color: #33CCFF;"><a href="http://thealphabrain.com/could-a-4-day-work-week-save-the-economy/"><img width="360" height="240" src="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/04/Economy.jpg?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Economy" srcset="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/04/Economy.jpg?resize=360%2C240 360w, https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/04/Economy.jpg?zoom=2&amp;resize=360%2C240 720w" sizes="(max-width: 360px) 100vw, 360px" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://thealphabrain.com/could-a-4-day-work-week-save-the-economy/">Could A 4 Day Work Week Save The Economy?</a></h2></div></li></ul></div></div></li>
+<li id="menu-item-6528" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6528"><a href="http://thealphabrain.com/category/women/">Women</a><div class="cb-menu-drop cb-bg cb-mega-menu cb-big-menu clearfix"><div class="cb-mega-three cb-mega-posts  clearfix"><div class="cb-upper-title"><h2>Women</h2><a href="http://thealphabrain.com/category/women/" class="cb-see-all">See all</a></div><ul class="cb-sub-posts"> <li class="cb-looper cb-article-1 cb-mm-posts-count-3 cb-style-1 clearfix post-7936 post type-post status-publish format-standard has-post-thumbnail category-women"><div class="cb-mask cb-img-fw" style="background-color: #33CCFF;"><a href="http://thealphabrain.com/elizabeth-turner-new-favorite-maxim-model/"><img width="360" height="240" src="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2016/05/qw.jpg?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="qw" srcset="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2016/05/qw.jpg?resize=360%2C240 360w, https://i1.wp.com/thealphabrain.com/wp-content/uploads/2016/05/qw.jpg?zoom=2&amp;resize=360%2C240 720w, https://i1.wp.com/thealphabrain.com/wp-content/uploads/2016/05/qw.jpg?zoom=3&amp;resize=360%2C240 1080w" sizes="(max-width: 360px) 100vw, 360px" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://thealphabrain.com/elizabeth-turner-new-favorite-maxim-model/">Elizabeth Turner: Your New Favorite Maxim Model</a></h2></div></li> <li class="cb-looper cb-article-2 cb-mm-posts-count-3 cb-style-1 clearfix post-6451 post type-post status-publish format-standard has-post-thumbnail category-women"><div class="cb-mask cb-img-fw" style="background-color: #33CCFF;"><a href="http://thealphabrain.com/need-some-inspiration-natalie-roser-is-here-for-you/"><img width="360" height="240" src="https://i2.wp.com/thealphabrain.com/wp-content/uploads/2016/01/Natalie-Roser-e1454540380470.jpg?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Natalie Roser" srcset="https://i2.wp.com/thealphabrain.com/wp-content/uploads/2016/01/Natalie-Roser-e1454540380470.jpg?resize=360%2C240 360w, https://i2.wp.com/thealphabrain.com/wp-content/uploads/2016/01/Natalie-Roser-e1454540380470.jpg?zoom=2&amp;resize=360%2C240 720w, https://i2.wp.com/thealphabrain.com/wp-content/uploads/2016/01/Natalie-Roser-e1454540380470.jpg?zoom=3&amp;resize=360%2C240 1080w" sizes="(max-width: 360px) 100vw, 360px" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://thealphabrain.com/need-some-inspiration-natalie-roser-is-here-for-you/">Need Some Inspiration? Natalie Roser Is Here for You</a></h2></div></li> <li class="cb-looper cb-article-3 cb-mm-posts-count-3 cb-style-1 clearfix post-7462 post type-post status-publish format-standard has-post-thumbnail category-women"><div class="cb-mask cb-img-fw" style="background-color: #33CCFF;"><a href="http://thealphabrain.com/rhine-sugden-proof-not-british-people-bad-teeth/"><img width="360" height="240" src="https://i2.wp.com/thealphabrain.com/wp-content/uploads/2016/04/Rhian.jpg?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Rhian" srcset="https://i2.wp.com/thealphabrain.com/wp-content/uploads/2016/04/Rhian.jpg?resize=360%2C240 360w, https://i2.wp.com/thealphabrain.com/wp-content/uploads/2016/04/Rhian.jpg?zoom=2&amp;resize=360%2C240 720w, https://i2.wp.com/thealphabrain.com/wp-content/uploads/2016/04/Rhian.jpg?zoom=3&amp;resize=360%2C240 1080w" sizes="(max-width: 360px) 100vw, 360px" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://thealphabrain.com/rhine-sugden-proof-not-british-people-bad-teeth/">Rhian Sugden: Proof Not All British People Have Bad Teeth</a></h2></div></li></ul></div></div></li>
+<li id="menu-item-117" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-117"><a href="http://thealphabrain.com/category/tech/">Tech</a><div class="cb-menu-drop cb-bg cb-mega-menu cb-big-menu clearfix"><div class="cb-mega-three cb-mega-posts  clearfix"><div class="cb-upper-title"><h2>Tech</h2><a href="http://thealphabrain.com/category/tech/" class="cb-see-all">See all</a></div><ul class="cb-sub-posts"> <li class="cb-looper cb-article-1 cb-mm-posts-count-3 cb-style-1 clearfix post-88 post type-post status-publish format-standard has-post-thumbnail category-tech tag-ios tag-kickstarter tag-monsieur tag-smartbar"><div class="cb-mask cb-img-fw" style="background-color: #33CCFF;"><a href="http://thealphabrain.com/the-smart-bar-is-here/"><img width="360" height="240" src="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2014/11/Monsieur-Bartender-Fireplace2-1024x575.jpg?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Monsieur-Bartender-Fireplace2-1024x575" srcset="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2014/11/Monsieur-Bartender-Fireplace2-1024x575.jpg?resize=360%2C240 360w, https://i1.wp.com/thealphabrain.com/wp-content/uploads/2014/11/Monsieur-Bartender-Fireplace2-1024x575.jpg?zoom=2&amp;resize=360%2C240 720w" sizes="(max-width: 360px) 100vw, 360px" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://thealphabrain.com/the-smart-bar-is-here/">The Smart Bar is Here!</a></h2></div></li> <li class="cb-looper cb-article-2 cb-mm-posts-count-3 cb-style-1 clearfix post-7698 post type-post status-publish format-standard has-post-thumbnail category-tech"><div class="cb-mask cb-img-fw" style="background-color: #33CCFF;"><a href="http://thealphabrain.com/fizzics-get-perfect-beer-every-time/"><img width="360" height="240" src="https://i2.wp.com/thealphabrain.com/wp-content/uploads/2016/04/Fizzics-Main.jpg?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Fizzics Main" srcset="https://i2.wp.com/thealphabrain.com/wp-content/uploads/2016/04/Fizzics-Main.jpg?resize=360%2C240 360w, https://i2.wp.com/thealphabrain.com/wp-content/uploads/2016/04/Fizzics-Main.jpg?zoom=2&amp;resize=360%2C240 720w, https://i2.wp.com/thealphabrain.com/wp-content/uploads/2016/04/Fizzics-Main.jpg?zoom=3&amp;resize=360%2C240 1080w" sizes="(max-width: 360px) 100vw, 360px" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://thealphabrain.com/fizzics-get-perfect-beer-every-time/">Fizzics: Get Perfect Beer Every Time</a></h2></div></li> <li class="cb-looper cb-article-3 cb-mm-posts-count-3 cb-style-1 clearfix post-8053 post type-post status-publish format-standard has-post-thumbnail category-tech"><div class="cb-mask cb-img-fw" style="background-color: #33CCFF;"><a href="http://thealphabrain.com/hb-rings-allow-feel-heartbeat-loved-one-real-time/"><img width="360" height="240" src="https://i0.wp.com/thealphabrain.com/wp-content/uploads/2016/08/HB_Rings.jpg?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="HB_Rings" srcset="https://i0.wp.com/thealphabrain.com/wp-content/uploads/2016/08/HB_Rings.jpg?resize=360%2C240 360w, https://i0.wp.com/thealphabrain.com/wp-content/uploads/2016/08/HB_Rings.jpg?zoom=2&amp;resize=360%2C240 720w" sizes="(max-width: 360px) 100vw, 360px" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://thealphabrain.com/hb-rings-allow-feel-heartbeat-loved-one-real-time/">HB Rings Allow You to Feel the Heartbeat of a Loved One in Real-Time</a></h2></div></li></ul></div></div></li>
+<li id="menu-item-119" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-119"><a href="http://thealphabrain.com/category/sports/">Sports</a><div class="cb-menu-drop cb-bg cb-mega-menu cb-big-menu clearfix"><div class="cb-mega-three cb-mega-posts  clearfix"><div class="cb-upper-title"><h2>Sports</h2><a href="http://thealphabrain.com/category/sports/" class="cb-see-all">See all</a></div><ul class="cb-sub-posts"> <li class="cb-looper cb-article-1 cb-mm-posts-count-3 cb-style-1 clearfix post-7902 post type-post status-publish format-standard has-post-thumbnail category-sports"><div class="cb-mask cb-img-fw" style="background-color: #33CCFF;"><a href="http://thealphabrain.com/samsungs-galaxy-surfboard-looks-awesome/"><img width="360" height="240" src="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2016/05/Samsung_Surfboard.png?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Samsung_Surfboard" srcset="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2016/05/Samsung_Surfboard.png?resize=360%2C240 360w, https://i1.wp.com/thealphabrain.com/wp-content/uploads/2016/05/Samsung_Surfboard.png?zoom=2&amp;resize=360%2C240 720w, https://i1.wp.com/thealphabrain.com/wp-content/uploads/2016/05/Samsung_Surfboard.png?zoom=3&amp;resize=360%2C240 1080w" sizes="(max-width: 360px) 100vw, 360px" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://thealphabrain.com/samsungs-galaxy-surfboard-looks-awesome/">The New Samsung Galaxy Surfboard Looks Awesome!</a></h2></div></li> <li class="cb-looper cb-article-2 cb-mm-posts-count-3 cb-style-1 clearfix post-7892 post type-post status-publish format-standard has-post-thumbnail category-sports"><div class="cb-mask cb-img-fw" style="background-color: #33CCFF;"><a href="http://thealphabrain.com/worried-fitness-work-commute/"><img width="360" height="240" src="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2016/05/1Rebel_Bus.jpg?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="1Rebel_Bus" srcset="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2016/05/1Rebel_Bus.jpg?resize=360%2C240 360w, https://i1.wp.com/thealphabrain.com/wp-content/uploads/2016/05/1Rebel_Bus.jpg?zoom=2&amp;resize=360%2C240 720w" sizes="(max-width: 360px) 100vw, 360px" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://thealphabrain.com/worried-fitness-work-commute/">Worried About Your Fitness? Work Out While You Commute</a></h2></div></li> <li class="cb-looper cb-article-3 cb-mm-posts-count-3 cb-style-1 clearfix post-7830 post type-post status-publish format-standard has-post-thumbnail category-sports"><div class="cb-mask cb-img-fw" style="background-color: #33CCFF;"><a href="http://thealphabrain.com/leicester-city-captain-wes-morgan-appear-new-captain-morgan-rum-limited-edition/"><img width="360" height="240" src="https://i2.wp.com/thealphabrain.com/wp-content/uploads/2016/05/Captain-Morgan_Leicester.jpg?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Captain Morgan_Leicester" srcset="https://i2.wp.com/thealphabrain.com/wp-content/uploads/2016/05/Captain-Morgan_Leicester.jpg?w=1000 1000w, https://i2.wp.com/thealphabrain.com/wp-content/uploads/2016/05/Captain-Morgan_Leicester.jpg?resize=300%2C201 300w, https://i2.wp.com/thealphabrain.com/wp-content/uploads/2016/05/Captain-Morgan_Leicester.jpg?resize=768%2C515 768w, https://i2.wp.com/thealphabrain.com/wp-content/uploads/2016/05/Captain-Morgan_Leicester.jpg?resize=360%2C240 360w" sizes="(max-width: 360px) 100vw, 360px" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://thealphabrain.com/leicester-city-captain-wes-morgan-appear-new-captain-morgan-rum-limited-edition/">Leicester City captain Wes Morgan will Appear in the New Captain Morgan Rum Limited Edition</a></h2></div></li></ul></div></div></li>
+<li id="menu-item-120" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-120"><a href="http://thealphabrain.com/category/fooddrink/">Food / Drink</a><div class="cb-menu-drop cb-bg cb-mega-menu cb-big-menu clearfix"><div class="cb-mega-three cb-mega-posts  clearfix"><div class="cb-upper-title"><h2>Food / Drink</h2><a href="http://thealphabrain.com/category/fooddrink/" class="cb-see-all">See all</a></div><ul class="cb-sub-posts"> <li class="cb-looper cb-article-1 cb-mm-posts-count-3 cb-style-1 clearfix post-1119 post type-post status-publish format-standard has-post-thumbnail category-fooddrink"><div class="cb-mask cb-img-fw" style="background-color: #33CCFF;"><a href="http://thealphabrain.com/great-tipping-debate/"><img width="360" height="240" src="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/02/Tipping.jpg?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Tipping" srcset="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/02/Tipping.jpg?resize=360%2C240 360w, https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/02/Tipping.jpg?zoom=2&amp;resize=360%2C240 720w, https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/02/Tipping.jpg?zoom=3&amp;resize=360%2C240 1080w" sizes="(max-width: 360px) 100vw, 360px" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://thealphabrain.com/great-tipping-debate/">To Tip Or Not To Tip: That Is The Question</a></h2></div></li> <li class="cb-looper cb-article-2 cb-mm-posts-count-3 cb-style-1 clearfix post-975 post type-post status-publish format-standard has-post-thumbnail category-fooddrink"><div class="cb-mask cb-img-fw" style="background-color: #33CCFF;"><a href="http://thealphabrain.com/choice-wing-sauce-says/"><img width="360" height="240" src="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/01/Wings.jpg?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Wings" srcset="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/01/Wings.jpg?w=1536 1536w, https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/01/Wings.jpg?resize=300%2C199 300w, https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/01/Wings.jpg?resize=768%2C511 768w, https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/01/Wings.jpg?resize=360%2C240 360w" sizes="(max-width: 360px) 100vw, 360px" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://thealphabrain.com/choice-wing-sauce-says/">What Your Choice Of Wing Sauce Says About You</a></h2></div></li> <li class="cb-looper cb-article-3 cb-mm-posts-count-3 cb-style-1 clearfix post-1268 post type-post status-publish format-standard has-post-thumbnail category-fooddrink"><div class="cb-mask cb-img-fw" style="background-color: #33CCFF;"><a href="http://thealphabrain.com/embarrassing-top-20-beers-america/"><img width="360" height="240" src="https://i0.wp.com/thealphabrain.com/wp-content/uploads/2015/02/america-beer.jpg?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="america beer" srcset="https://i0.wp.com/thealphabrain.com/wp-content/uploads/2015/02/america-beer.jpg?w=1200 1200w, https://i0.wp.com/thealphabrain.com/wp-content/uploads/2015/02/america-beer.jpg?resize=300%2C200 300w, https://i0.wp.com/thealphabrain.com/wp-content/uploads/2015/02/america-beer.jpg?resize=768%2C512 768w, https://i0.wp.com/thealphabrain.com/wp-content/uploads/2015/02/america-beer.jpg?resize=360%2C240 360w" sizes="(max-width: 360px) 100vw, 360px" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://thealphabrain.com/embarrassing-top-20-beers-america/">How Embarrassing! The Top 20 Beers In America!</a></h2></div></li></ul></div></div></li>
+<li id="menu-item-trending" class="cb-trending"><a href="#" id="cb-trend-menu-item" class="cb-trending-item"># Trending</a><div class="cb-menu-drop cb-mega-menu  cb-bg cb-big-menu"><div id="cb-trending-block" class="cb-mega-trending cb-mega-posts cb-pre-load clearfix"><div class="cb-upper-title"><h2># Trending</h2><span class="cb-see-all"><a href="#" data-cb-r="cb-1" class="cb-selected cb-trending-op">Now</a><a href="#" data-cb-r="cb-2" class="cb-trending-op">Week</a><a href="#" data-cb-r="cb-3" class="cb-trending-op">Month</a></span></div><ul id="cb-trend-data" class="clearfix"> <li class="cb-article-1 clearfix"><div class="cb-mask"><a href="http://thealphabrain.com/why-is-alcohol-legal-and-marijuana-not/"><img width="360" height="240" src="https://i2.wp.com/thealphabrain.com/wp-content/uploads/2015/03/weed-3.jpg?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="weed 3" srcset="https://i2.wp.com/thealphabrain.com/wp-content/uploads/2015/03/weed-3.jpg?resize=360%2C240 360w, https://i2.wp.com/thealphabrain.com/wp-content/uploads/2015/03/weed-3.jpg?zoom=2&amp;resize=360%2C240 720w, https://i2.wp.com/thealphabrain.com/wp-content/uploads/2015/03/weed-3.jpg?zoom=3&amp;resize=360%2C240 1080w" sizes="(max-width: 360px) 100vw, 360px" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://thealphabrain.com/why-is-alcohol-legal-and-marijuana-not/">Why Is Alcohol Legal, And Marijuana Not?</a></h2></div><span class="cb-countdown">1</span><a href="http://thealphabrain.com/why-is-alcohol-legal-and-marijuana-not/" class="cb-link-overlay"></a></li> <li class="cb-article-2 clearfix"><div class="cb-mask"><a href="http://thealphabrain.com/there-are-no-ugly-people-just-poor-people/"><img width="360" height="240" src="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/04/Cristiano-Ronaldo-had-a-gaps-between-teeth-2-cristiano-ronaldo.jpg?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Cristiano-Ronaldo-had-a-gaps-between-teeth-2-cristiano-ronaldo" srcset="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/04/Cristiano-Ronaldo-had-a-gaps-between-teeth-2-cristiano-ronaldo.jpg?resize=360%2C240 360w, https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/04/Cristiano-Ronaldo-had-a-gaps-between-teeth-2-cristiano-ronaldo.jpg?zoom=2&amp;resize=360%2C240 720w, https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/04/Cristiano-Ronaldo-had-a-gaps-between-teeth-2-cristiano-ronaldo.jpg?zoom=3&amp;resize=360%2C240 1080w" sizes="(max-width: 360px) 100vw, 360px" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://thealphabrain.com/there-are-no-ugly-people-just-poor-people/">There Are No Ugly People; Just Poor People</a></h2></div><span class="cb-countdown">2</span><a href="http://thealphabrain.com/there-are-no-ugly-people-just-poor-people/" class="cb-link-overlay"></a></li> <li class="cb-article-3 clearfix"><div class="cb-mask"><a href="http://thealphabrain.com/eight-reasons-why-baseball-sucks/"><img width="360" height="240" src="https://i2.wp.com/thealphabrain.com/wp-content/uploads/2015/04/Boring.jpg?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Boring" srcset="https://i2.wp.com/thealphabrain.com/wp-content/uploads/2015/04/Boring.jpg?resize=360%2C240 360w, https://i2.wp.com/thealphabrain.com/wp-content/uploads/2015/04/Boring.jpg?zoom=2&amp;resize=360%2C240 720w, https://i2.wp.com/thealphabrain.com/wp-content/uploads/2015/04/Boring.jpg?zoom=3&amp;resize=360%2C240 1080w" sizes="(max-width: 360px) 100vw, 360px" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://thealphabrain.com/eight-reasons-why-baseball-sucks/">8 Reasons Why Baseball Sucks</a></h2></div><span class="cb-countdown">3</span><a href="http://thealphabrain.com/eight-reasons-why-baseball-sucks/" class="cb-link-overlay"></a></li></ul></div></div></li></ul>		                </div>
+	 				</nav>
+ 					
+	<div class="cb-entire-post cb-first-alp clearfix">
+
+		<div id="cb-featured-image" class="cb-fis cb-fis-big cb-fis-with-bg cb-fis-block-site-width cb-fis-block-screen-width cb-fis-block-background"><div class="cb-entry-header cb-meta clearfix"><h1 class="entry-title cb-entry-title cb-title">Guy Hunting Random Person Who Took a Dump on The Front Of His $80,000 Tesla</h1></div><div class="cb-fis-bg" style="background-image: url( https://i0.wp.com/thealphabrain.com/wp-content/uploads/2016/02/Tesla.jpg?resize=1400%2C600);"></div></div>			
+		<div class="cb-post-wrap cb-wrap-pad wrap clearfix cb-sidebar-right">
+
+			
+					
+    <meta itemprop="datePublished" content="2016-02-06T01:19:26+00:00">
+    <meta itemprop="dateModified" content="2016-02-06T01:19:26+00:00">
+    <meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="http://thealphabrain.com/guy-hunting-random-person-who-took-a-dump-on-the-front-of-his-80000-tesla/">
+    <span class="cb-hide" itemscope itemprop="publisher" itemtype="https://schema.org/Organization">
+        <meta itemprop="name" content="theAlphaBrain">
+        <meta itemprop="url" content="http://thealphabrain.com/wp-content/uploads/2016/01/Tab_Logo_220x80.gif">
+        <span class="cb-hide" itemscope itemprop="logo" itemtype="https://schema.org/ImageObject">
+            <meta itemprop="url" content="http://thealphabrain.com/wp-content/uploads/2016/01/Tab_Logo_220x80.gif">
+        </span>
+    </span>
+
+    <meta itemprop="headline " content="Guy Hunting Random Person Who Took a Dump on The Front Of His $80,000 Tesla">
+
+      <span class="cb-hide" itemscope itemtype="http://schema.org/ImageObject" itemprop="image" >
+        <meta itemprop="url" content="https://i0.wp.com/thealphabrain.com/wp-content/uploads/2016/02/Tesla.jpg?fit=2880%2C1250">
+        <meta itemprop="width" content="2880">
+        <meta itemprop="height" content="1250">
+    </span>
+
+
+					<div class="cb-main clearfix">
+
+						
+						<article id="post-6577" class="clearfix post-6577 post type-post status-publish format-standard has-post-thumbnail hentry category-life">
+
+							
+							<section class="cb-entry-content clearfix" itemprop="articleBody">
+
+
+
+								<span class="cb-itemprop" itemprop="reviewBody"><p>A Tesla owner was trying to impress his date by showing off his new $80,000 Tesla. Unfortunately for the guy, as they returned to the vehicle they discovered someone had took a giant dump right on the front of the $80,000 car.</p>
+<p>The poor victim revealed:</p>
+<blockquote><p><i>&#8216;I was on a date with a girl, who was very conservative. It was our third date and when we walked out, sure enough we saw that someone had taken a very large s**t on my windshield&#8230;leading me to believe that perhaps someone had s**t in a container at home and then threw it on my car later.&#8217;</i></p></blockquote>
+<p>As you can imagine his date was not impressed and was apparently traumatized by the whole incident.</p>
+<p>Police officers were apparently very unhelpful and the poor guy was left to use a magazine and a bottle of water to remove the matter.</p>
+<p>Not content with just brushing the incident off, the guy kept a sample and is now doing his own investigation to find the culprit.</p>
+<p>On a post on Craig’s List the victim went on to add:</p>
+<blockquote><p>&#8216;&#8230;I will plan on ruling you out with DNA for I have kept a sample of the s**t for I can see someone trying to pull another fast one on me,&#8217; he added.</p>
+<p>&#8216;And trust me, that is not going to happen. Taking dumps on a person&#8217;s car is something children do, not adults. And although from time to time, I could see why someone deserves it, this was absolutely uncalled for.&#8217;</p></blockquote>
+<p>He is even offering ‘significant compensation’ to anyone who can help him solve the crisis.</p>
+<p>Signing off on his post, he wrote –</p>
+<blockquote><p>&#8216;Lastly, a message to the person who did this: I will find you. Do you understand me? I have already had my lawyer draft up subpoena to acquire footage from nearby security cameras amongst other things.</p>
+<p>&#8216;Personally, I think you need medical attention to do what you have done.&#8217;</p></blockquote>
+<p>I wonder if he got another date?</p>
+</span>								
+<script type="text/javascript" src="https://s.newsmaxfeednetwork.com/static/js/connectV5.js"></script>
+<script type="text/javascript">
+NM.init({
+      widgetId: "eUt2HrFqdkd57dEq8oqY7Zp816Lqk1X_8LDjLoLo",
+      template: "NM11",
+      articleSelector: ".cb-entry-content"
+});
+</script>
+								
+							</section> <!-- end article section -->
+							
+							<footer class="cb-article-footer">
+								<div class="cb-post-large cb-post-footer-block clearfix"><div id="contentad23116"></div>
+<script type="text/javascript">
+    (function(d) {
+        var params =
+        {
+            id: "191e4045-e139-4c17-bb7e-84cd1ab96607",
+            d:  "dGhlYWxwaGFicmFpbi5jb20=",
+            wid: "23116",
+            cb: (new Date()).getTime()
+        };
+
+        var qs=[];
+        for(var key in params) qs.push(key+'='+encodeURIComponent(params[key]));
+        var s = d.createElement('script');s.type='text/javascript';s.async=true;
+        var p = 'https:' == document.location.protocol ? 'https' : 'http';
+        s.src = p + "://api.content.ad/Scripts/widget2.aspx?" + qs.join('&');
+        d.getElementById("contentad23116").appendChild(s);
+    })(document);
+</script>
+ 
+<ins class="adbladeads" data-cid="7759-1947604124" data-host="web.adblade.com" data-tag-type="2" style="display:none"></ins>
+<script async src="http://web.adblade.com/js/ads/async/show.js" type="text/javascript"></script>         
+<script type="text/javascript">
+    (function() {
+        var a = document.createElement("script");
+        var b = document.getElementsByTagName("script")[0];
+        a.async = 1;
+        a.src = "//cdn.earnify.com/widget.min.js";
+        b.parentNode.insertBefore(a, b);
+    })();
+</script>
+<div class="earnify-widget" data-widget-id="5257"></div>     
+
+<div id="VibIrYQRedwKSqcRAUB7ezLTrgejcuOz00yYDuTX"></div>
+
+
+
+
+<script src="https://s.newsmaxfeednetwork.com/static/js/connectV5.js">
+</script>
+
+  <script type="text/javascript">
+  NM.init({
+         widgetId: "VibIrYQRedwKSqcRAUB7ezLTrgejcuOz00yYDuTX",
+         template: "NM01"
+   });
+   </script> </div><div id="cb-next-previous-posts" class="cb-next-previous cb-post-block-bg cb-post-footer-block cb-font-header clearfix"><div class="cb-previous-post cb-meta cb-next-previous-block"><div class="cb-arrow"><i class="fa fa-angle-left"></i></div><span class="cb-read-previous-title cb-read-title"><a href="http://thealphabrain.com/dont-be-a-dick-eat-pizza-the-right-way/">Previous Article</a></span><a href="http://thealphabrain.com/dont-be-a-dick-eat-pizza-the-right-way/" class="cb-previous-title cb-title">Don’t Be a Dick: Eat Pizza the Right Way</a></div><div class="cb-next-post cb-meta cb-next-previous-block"><div class="cb-arrow"><i class="fa fa-angle-right"></i></div><span class="cb-read-next-title cb-read-title"><a href="http://thealphabrain.com/intern-falls-asleep-on-first-day-of-new-job/">Next Article</a></span><a href="http://thealphabrain.com/intern-falls-asleep-on-first-day-of-new-job/" class="cb-next-title cb-title">Intern Falls Asleep On Second Day</a></div></div><div id="cb-related-posts-block" class="cb-post-footer-block cb-arrows-tr cb-module-block clearfix"><h3 class="cb-title cb-title-header">Related Posts</h3><div id="cb-related-posts" class="cb-slider-2 cb-slider cb-meta-below"><ul class="slides clearfix">                <li class="cb-style-1 clearfix cb-no-1 post-4371 post type-post status-publish format-standard has-post-thumbnail hentry category-life">
+                    <div class="cb-mask"><a href="http://thealphabrain.com/this-is-why-you-should-start-following-female-figure-skating/"><img width="360" height="240" src="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/08/Kiira-Korpi4.jpg?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Kiira-Korpi4" srcset="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/08/Kiira-Korpi4.jpg?resize=360%2C240 360w, https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/08/Kiira-Korpi4.jpg?zoom=2&amp;resize=360%2C240 720w, https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/08/Kiira-Korpi4.jpg?zoom=3&amp;resize=360%2C240 1080w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+                    <div class="cb-meta">
+                        <h4 class="cb-post-title"><a href="http://thealphabrain.com/this-is-why-you-should-start-following-female-figure-skating/">This is Why You Should Start Following Female Figure Skating</a></h4>
+                                            </div>
+                </li>
+                <li class="cb-style-1 clearfix cb-no-2 post-4633 post type-post status-publish format-standard has-post-thumbnail hentry category-life">
+                    <div class="cb-mask"><a href="http://thealphabrain.com/petter-stordalen-the-billionaire-that-promises-to-help-syrian-refugees/"><img width="360" height="240" src="https://i2.wp.com/thealphabrain.com/wp-content/uploads/2015/09/Petter-Stordalen.jpg?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Petter Stordalen" srcset="https://i2.wp.com/thealphabrain.com/wp-content/uploads/2015/09/Petter-Stordalen.jpg?w=1192 1192w, https://i2.wp.com/thealphabrain.com/wp-content/uploads/2015/09/Petter-Stordalen.jpg?resize=300%2C200 300w, https://i2.wp.com/thealphabrain.com/wp-content/uploads/2015/09/Petter-Stordalen.jpg?resize=768%2C513 768w, https://i2.wp.com/thealphabrain.com/wp-content/uploads/2015/09/Petter-Stordalen.jpg?resize=360%2C240 360w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+                    <div class="cb-meta">
+                        <h4 class="cb-post-title"><a href="http://thealphabrain.com/petter-stordalen-the-billionaire-that-promises-to-help-syrian-refugees/">Petter Stordalen, the Billionaire That Promises to Help Syrian Refugees</a></h4>
+                                            </div>
+                </li>
+                <li class="cb-style-1 clearfix cb-no-1 post-5417 post type-post status-publish format-standard has-post-thumbnail hentry category-life">
+                    <div class="cb-mask"><a href="http://thealphabrain.com/random-lightsaber-duels-are-the-future/"><img width="360" height="240" src="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/12/Lightsaber.jpg?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Lightsaber" srcset="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/12/Lightsaber.jpg?resize=360%2C240 360w, https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/12/Lightsaber.jpg?zoom=2&amp;resize=360%2C240 720w, https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/12/Lightsaber.jpg?zoom=3&amp;resize=360%2C240 1080w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+                    <div class="cb-meta">
+                        <h4 class="cb-post-title"><a href="http://thealphabrain.com/random-lightsaber-duels-are-the-future/">Random Lightsaber Duels Are The Future!</a></h4>
+                                            </div>
+                </li>
+                <li class="cb-style-1 clearfix cb-no-2 post-1982 post type-post status-publish format-standard has-post-thumbnail hentry category-life">
+                    <div class="cb-mask"><a href="http://thealphabrain.com/people-who-have-more-sex-earn-more-money/"><img width="360" height="240" src="https://i2.wp.com/thealphabrain.com/wp-content/uploads/2015/04/Ses.jpg?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Ses" srcset="https://i2.wp.com/thealphabrain.com/wp-content/uploads/2015/04/Ses.jpg?w=1024 1024w, https://i2.wp.com/thealphabrain.com/wp-content/uploads/2015/04/Ses.jpg?resize=300%2C201 300w, https://i2.wp.com/thealphabrain.com/wp-content/uploads/2015/04/Ses.jpg?resize=768%2C514 768w, https://i2.wp.com/thealphabrain.com/wp-content/uploads/2015/04/Ses.jpg?resize=360%2C240 360w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+                    <div class="cb-meta">
+                        <h4 class="cb-post-title"><a href="http://thealphabrain.com/people-who-have-more-sex-earn-more-money/">People Who Have More Sex, Earn More Money</a></h4>
+                                            </div>
+                </li>
+                <li class="cb-style-1 clearfix cb-no-1 post-2792 post type-post status-publish format-standard has-post-thumbnail hentry category-life">
+                    <div class="cb-mask"><a href="http://thealphabrain.com/homeless-man-leaves-10000-cash-at-a-bus-stop-somehow-gets-it-back/"><img width="360" height="240" src="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/06/Homeless-2.jpg?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Homeless and cold" srcset="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/06/Homeless-2.jpg?resize=360%2C240 360w, https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/06/Homeless-2.jpg?zoom=2&amp;resize=360%2C240 720w, https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/06/Homeless-2.jpg?zoom=3&amp;resize=360%2C240 1080w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+                    <div class="cb-meta">
+                        <h4 class="cb-post-title"><a href="http://thealphabrain.com/homeless-man-leaves-10000-cash-at-a-bus-stop-somehow-gets-it-back/">Homeless Man Leaves $10,000 Cash at a Bus Stop: Somehow Gets It Back</a></h4>
+                                            </div>
+                </li>
+                <li class="cb-style-1 clearfix cb-no-2 post-3336 post type-post status-publish format-standard has-post-thumbnail hentry category-life">
+                    <div class="cb-mask"><a href="http://thealphabrain.com/does-junk-food-make-you-dumb/"><img width="360" height="240" src="https://i2.wp.com/thealphabrain.com/wp-content/uploads/2015/07/Junk-Food.jpg?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Junk Food" srcset="https://i2.wp.com/thealphabrain.com/wp-content/uploads/2015/07/Junk-Food.jpg?resize=360%2C240 360w, https://i2.wp.com/thealphabrain.com/wp-content/uploads/2015/07/Junk-Food.jpg?zoom=2&amp;resize=360%2C240 720w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+                    <div class="cb-meta">
+                        <h4 class="cb-post-title"><a href="http://thealphabrain.com/does-junk-food-make-you-dumb/">Does Junk Food Make You Dumb?</a></h4>
+                                            </div>
+                </li>
+</ul></div></div>							</footer> <!-- end article footer -->
+
+						</article> <!-- end article -->						
+
+					</div> <!-- end .cb-main -->
+
+			
+			
+			
+<aside class="cb-sidebar clearfix"><div id="text-16" class="cb-sidebar-widget widget_text">			<div class="textwidget"><script type="text/javascript">
+	atOptions = {
+		'key' : '5691396a36893c344c7a9f4cd1339c5b',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.bnserving.com/invoke.js"></scr' + 'ipt>');
+</script></div>
+		</div><div id="text-15" class="cb-sidebar-widget widget_text">			<div class="textwidget"><div id="a19RczEIBffmU4CNb_I18zyktQlP_w6VFkcl29U8"></div>
+<script src="https://s.newsmaxfeednetwork.com/static/js/connectV5.js">
+</script>
+
+  <script type="text/javascript">
+  NM.init({
+         widgetId: "a19RczEIBffmU4CNb_I18zyktQlP_w6VFkcl29U8",
+         template: "NM05"
+   });
+   </script> 
+    </div>
+		</div><div id="text-11" class="cb-sidebar-widget widget_text">			<div class="textwidget"><div id="contentad272743"></div>
+<script type="text/javascript">
+    (function(d) {
+        var params =
+        {
+            id: "daa4fb04-a698-4773-a597-5cc04f31f72a",
+            d:  "dGhlYWxwaGFicmFpbi5jb20=",
+            wid: "272743",
+            cb: (new Date()).getTime()
+        };
+
+        var qs=[];
+        for(var key in params) qs.push(key+'='+encodeURIComponent(params[key]));
+        var s = d.createElement('script');s.type='text/javascript';s.async=true;
+        var p = 'https:' == document.location.protocol ? 'https' : 'http';
+        s.src = p + "://api.content.ad/Scripts/widget2.aspx?" + qs.join('&');
+        d.getElementById("contentad272743").appendChild(s);
+    })(document);
+</script>
+                    
+</div>
+		</div><div id="cb-social-media-widget-2" class="cb-sidebar-widget cb-widget-social-media clearfix"><h3 class="cb-sidebar-widget-title cb-widget-title">Social</h3><div class="cb-social-media-icons cb-colors"><a href="http://www.instagram.com/thealphabraindotcom" target="_blank" class="cb-instagram cb-icon-1"></a><a href="http://www.facebook.com/thealphabrain" target="_blank" class="cb-facebook cb-icon-2"></a><a href="http://www.twitter.com/thealphabrain" target="_blank" class="cb-twitter cb-icon-3"></a><a href="https://www.youtube.com/channel/UC4JH8tvDdngyyOd4sfZmdqw" target="_blank" class="cb-youtube cb-icon-4"></a></div></div><div id="text-14" class="cb-sidebar-widget widget_text">			<div class="textwidget"><div id="contentad172486"></div>
+<script type="text/javascript">
+    (function(d) {
+        var params =
+        {
+            id: "20a246b1-b22d-49d0-b4a7-db8a39054c9b",
+            d:  "dGhlYWxwaGFicmFpbi5jb20=",
+            wid: "172486",
+            cb: (new Date()).getTime()
+        };
+
+        var qs=[];
+        for(var key in params) qs.push(key+'='+encodeURIComponent(params[key]));
+        var s = d.createElement('script');s.type='text/javascript';s.async=true;
+        var p = 'https:' == document.location.protocol ? 'https' : 'http';
+        s.src = p + "://api.content.ad/Scripts/widget2.aspx?" + qs.join('&');
+        d.getElementById("contentad172486").appendChild(s);
+    })(document);
+</script>
+                    </div>
+		</div><div id="image-2" class="cb-sidebar-widget widget_image"><div class="jetpack-image-container"><a target="_blank" href="https://apple.news/T_pD9phWBQ9S9C6mQ33g6XQ"><img src="http://thealphabrain.com/wp-content/uploads/2016/03/Apple-News.png" class="alignnone" /></a></div>
+</div><div id="text-13" class="cb-sidebar-widget widget_text">			<div class="textwidget"><!-- Insticator API Embed Code --> <div id="insticator-container"><div id="div-insticator-ad-1"></div><div id="insticator-embed"></div><div id="div-insticator-ad-2"></div><script data-cfasync='false' type="text/javascript">/*<![CDATA[*/Insticator.ad.loadAd("div-insticator-ad-1");Insticator.ad.loadAd("div-insticator-ad-2");Insticator.load("em",{id : "84efb81e-0364-4aff-a368-5787cf2c785b"})/*]]>*/</script></div> <!-- End Insticator API Embed Code --></div>
+		</div><div id="cb-recent-posts-2" class="cb-sidebar-widget cb-widget-latest-articles"><h3 class="cb-sidebar-widget-title cb-widget-title">Latest</h3>
+    		<div class="cb-module-block cb-small-margin">
+    		                <article class="cb-looper cb-article cb-article-big cb-meta-style-2 clearfix post-3309 post type-post status-publish format-standard has-post-thumbnail hentry category-life">
+                    <div class="cb-mask cb-img-fw" >
+                        <a href="http://thealphabrain.com/stop-wearing-shoes-with-no-socks-immediately/"><img width="360" height="240" src="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/07/JACKASS.jpg?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="JACKASS" srcset="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/07/JACKASS.jpg?w=1280 1280w, https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/07/JACKASS.jpg?resize=300%2C200 300w, https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/07/JACKASS.jpg?resize=768%2C512 768w, https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/07/JACKASS.jpg?resize=360%2C240 360w" sizes="(max-width: 360px) 100vw, 360px" /></a>                                            </div>
+                    <div class="cb-meta cb-article-meta">
+                        <h4 class="cb-post-title"><a href="http://thealphabrain.com/stop-wearing-shoes-with-no-socks-immediately/">Stop Wearing Shoes With No Socks&#8230;</a></h4>
+                                            </div>
+                    <a href="http://thealphabrain.com/stop-wearing-shoes-with-no-socks-immediately/" class="cb-link"></a>                </article>
+    		                <article class="cb-looper cb-article cb-article-big cb-meta-style-2 clearfix post-7336 post type-post status-publish format-standard has-post-thumbnail hentry category-life">
+                    <div class="cb-mask cb-img-fw" >
+                        <a href="http://thealphabrain.com/marijuana-whole-new-world/"><img width="360" height="240" src="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2016/03/GettyImages-143185314-925x466.jpg?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Coloradoan&#039;s Celebrate 4/20 With Marijuana Smokeout" srcset="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2016/03/GettyImages-143185314-925x466.jpg?resize=360%2C240 360w, https://i1.wp.com/thealphabrain.com/wp-content/uploads/2016/03/GettyImages-143185314-925x466.jpg?zoom=2&amp;resize=360%2C240 720w" sizes="(max-width: 360px) 100vw, 360px" /></a>                                            </div>
+                    <div class="cb-meta cb-article-meta">
+                        <h4 class="cb-post-title"><a href="http://thealphabrain.com/marijuana-whole-new-world/">The War On Marijuana – A Whole New World</a></h4>
+                                            </div>
+                    <a href="http://thealphabrain.com/marijuana-whole-new-world/" class="cb-link"></a>                </article>
+    		                <article class="cb-looper cb-article cb-article-big cb-meta-style-2 clearfix post-1119 post type-post status-publish format-standard has-post-thumbnail hentry category-fooddrink">
+                    <div class="cb-mask cb-img-fw" >
+                        <a href="http://thealphabrain.com/great-tipping-debate/"><img width="360" height="240" src="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/02/Tipping.jpg?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Tipping" srcset="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/02/Tipping.jpg?resize=360%2C240 360w, https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/02/Tipping.jpg?zoom=2&amp;resize=360%2C240 720w, https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/02/Tipping.jpg?zoom=3&amp;resize=360%2C240 1080w" sizes="(max-width: 360px) 100vw, 360px" /></a>                                            </div>
+                    <div class="cb-meta cb-article-meta">
+                        <h4 class="cb-post-title"><a href="http://thealphabrain.com/great-tipping-debate/">To Tip Or Not To Tip: That Is The Question</a></h4>
+                                            </div>
+                    <a href="http://thealphabrain.com/great-tipping-debate/" class="cb-link"></a>                </article>
+    		                <article class="cb-looper cb-article cb-article-big cb-meta-style-2 clearfix post-1940 post type-post status-publish format-standard has-post-thumbnail hentry category-life">
+                    <div class="cb-mask cb-img-fw" >
+                        <a href="http://thealphabrain.com/could-a-4-day-work-week-save-the-economy/"><img width="360" height="240" src="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/04/Economy.jpg?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Economy" srcset="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/04/Economy.jpg?resize=360%2C240 360w, https://i1.wp.com/thealphabrain.com/wp-content/uploads/2015/04/Economy.jpg?zoom=2&amp;resize=360%2C240 720w" sizes="(max-width: 360px) 100vw, 360px" /></a>                                            </div>
+                    <div class="cb-meta cb-article-meta">
+                        <h4 class="cb-post-title"><a href="http://thealphabrain.com/could-a-4-day-work-week-save-the-economy/">Could A 4 Day Work Week Save The Economy?</a></h4>
+                                            </div>
+                    <a href="http://thealphabrain.com/could-a-4-day-work-week-save-the-economy/" class="cb-link"></a>                </article>
+    		                <article class="cb-looper cb-article cb-article-big cb-meta-style-2 clearfix post-88 post type-post status-publish format-standard has-post-thumbnail hentry category-tech tag-ios tag-kickstarter tag-monsieur tag-smartbar">
+                    <div class="cb-mask cb-img-fw" >
+                        <a href="http://thealphabrain.com/the-smart-bar-is-here/"><img width="360" height="240" src="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2014/11/Monsieur-Bartender-Fireplace2-1024x575.jpg?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Monsieur-Bartender-Fireplace2-1024x575" srcset="https://i1.wp.com/thealphabrain.com/wp-content/uploads/2014/11/Monsieur-Bartender-Fireplace2-1024x575.jpg?resize=360%2C240 360w, https://i1.wp.com/thealphabrain.com/wp-content/uploads/2014/11/Monsieur-Bartender-Fireplace2-1024x575.jpg?zoom=2&amp;resize=360%2C240 720w" sizes="(max-width: 360px) 100vw, 360px" /></a>                                            </div>
+                    <div class="cb-meta cb-article-meta">
+                        <h4 class="cb-post-title"><a href="http://thealphabrain.com/the-smart-bar-is-here/">The Smart Bar is Here!</a></h4>
+                                            </div>
+                    <a href="http://thealphabrain.com/the-smart-bar-is-here/" class="cb-link"></a>                </article>
+    		    		</div>
+    		</div>    </aside>
+
+		</div>
+
+	</div>	
+
+</div> <!-- end #cb-content -->
+
+				</div> <!-- end #cb-container -->
+    			
+    			<footer id="cb-footer">
+
+                    
+                     
+                    
+                        <div class="cb-footer-lower cb-font-header clearfix">
+
+                            <div class="wrap clearfix">
+
+                            	                                    <div id="cb-footer-logo">
+                                        <a href="http://thealphabrain.com">
+                                            <img src="http://thealphabrain.com/wp-content/uploads/2016/01/Tab_Logo_220x80.gif" alt=" logo" >
+                                        </a>
+                                    </div>
+                                
+                                <div class="cb-footer-links clearfix"><ul id="menu-footer-menu" class="nav cb-footer-nav clearfix"><li id="menu-item-6178" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6178"><a href="http://thealphabrain.com/get-in-touch/">Contact</a></li>
+<li id="menu-item-6213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6213"><a href="http://thealphabrain.com/write-for-us-2/">Write For Us</a></li>
+<li id="menu-item-6155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6155"><a href="http://thealphabrain.com/advertise/">Advertise</a></li>
+<li id="menu-item-6157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6157"><a href="http://thealphabrain.com/privacy/">Privacy</a></li>
+</ul></div>
+                                <div class="cb-copyright">theAlphaBrain Inc // 2016</div>
+
+                                		                            <div class="cb-to-top"><a href="#" id="cb-to-top"><i class="fa fa-angle-up cb-circle"></i></a></div>
+		                        
+           					</div>
+
+        				</div>
+    				
+    			</footer> <!-- end footer -->
+
+		</div> <!-- end #cb-outer-container -->
+
+		<span id="cb-overlay"></span>
+        <input type="hidden" id="_zinenonce" name="_zinenonce" value="74629ed070" /><input type="hidden" name="_wp_http_referer" value="/guy-hunting-random-person-who-took-a-dump-on-the-front-of-his-80000-tesla/?utm_content=buffera065e" />			<div style="display:none">
+	</div>
+<script type="text/javascript"> var infolinks_pid = 2896730; var infolinks_wsid = 0; </script> <script type="text/javascript" src="//resources.infolinks.com/js/infolinks_main.js"></script>
+<script>!function(){var a,b="aff7c7c2",c="https://g2.gumgum.com/javascripts/ggv2.js",d=top,e="script",f=d.document,g=f.getElementsByTagName(e)[0],h=d.XMLHttpRequest||d.XDomainRequest,i=function(a){var b=f.createElement(e);b.src=a,b.async=!0,g.parentNode.insertBefore(b,g)},j=function(){d.clearTimeout(a)};return d.ggv2id=b,h?(h=new h,h.open("GET",c),h.onload=function(){j();try{(d.execScript||function(a){d.eval.call(d,a)})(h.responseText)}catch(a){}},a=d.setTimeout(function(){h.abort()},3e3),void h.send()):i(c)}();</script>
+<script type="text/javascript">
+var infolinks_pid = 2896730;
+var infolinks_wsid = 0;
+</script>
+<script type="text/javascript" src="//resources.infolinks.com/js/infolinks_main.js"></script><script type='text/javascript' src='http://thealphabrain.com/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122'></script>
+<script type='text/javascript' src='http://thealphabrain.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://thealphabrain.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201708'></script>
+<script type='text/javascript' src='http://thealphabrain.com/wp-content/themes/15zine/library/js/cookie.min.js?ver=3.0.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cbExt = {"cbLb":"on"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://thealphabrain.com/wp-content/themes/15zine/library/js/cb-ext.js?ver=3.0.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cbScripts = {"cbUrl":"http:\/\/thealphabrain.com\/wp-admin\/admin-ajax.php","cbPostID":"6577","cbFsClass":"cb-embed-fs","cbSlider":["600",true,"7000","on"],"cbALlNonce":"50d2700474","cbPlURL":"http:\/\/thealphabrain.com\/wp-content\/plugins","cbShortName":null};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://thealphabrain.com/wp-content/themes/15zine/library/js/cb-scripts.min.js?ver=3.0.2'></script>
+<script type='text/javascript' src='http://thealphabrain.com/wp-includes/js/wp-embed.min.js?ver=4.6.3'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201708.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.5',blog:'105356649',post:'6577',tz:'0',srv:'thealphabrain.com'} ]);
+	_stq.push([ 'clickTrackerInit', '105356649', '6577' ]);
+</script>
+	</body>
+
+</html> <!-- The End. what a ride! -->

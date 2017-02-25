@@ -1,0 +1,2152 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html
+class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
+<!--[if IE 7]><html
+class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if IE 8]><html
+class="no-js lt-ie9"><![endif]-->
+<!--[if IE 9 ]><html
+lang="en" class="no-js ie9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html
+lang="en" class="no-js"><!--<![endif]--><head><title>This Brand Is Reimagining American-Made Luxury</title><meta
+charset="utf-8" /><meta
+http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta
+name="title" content="This Brand Is Reimagining American-Made Luxury" /><meta
+name="description" content="New York-based Deveaux is creating high-end fashion right here in the States." /><meta
+name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"><meta
+name="apple-itunes-app" content="app-id=1020421151, affiliate-data=pt=305920&ct=OnSiteESQ&mt=8"><link
+rel="icon" type="image/x-icon" href="//esq.h-cdn.co/assets/esquire/20170222163545/images/favicon.ico" /><link
+rel="apple-touch-icon-precomposed" sizes="114x114" href="//esq.h-cdn.co/assets/esquire/20170222163545/images/apple-touch-icon.png"><link
+rel="apple-touch-icon-precomposed" sizes="72x72" href="//esq.h-cdn.co/assets/esquire/20170222163545/images/apple-touch-icon.png"><link
+rel="apple-touch-icon-precomposed" href="//esq.h-cdn.co/assets/esquire/20170222163545/images/apple-touch-icon.png"><link
+rel="canonical" href="http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/" /><meta
+property="fb:app_id" content="171874009543995" /><meta
+property="fb:pages" content="84169421673" /><meta
+property="og:type" content="article" /><meta
+property="og:site_name" content="Esquire" /><meta
+property="og:url" content="http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/" /><meta
+property="og:image" content="http://esq.h-cdn.co/assets/17/06/1600x800/landscape-1486570293-deveaux.jpg" /><meta
+property="og:image:url" content="http://esq.h-cdn.co/assets/17/06/1600x800/landscape-1486570293-deveaux.jpg" /><meta
+property="og:image:width" content = "1600" /><meta
+property="og:image:height" content = "800" /><meta
+property="og:title" content="This Brand Is Reimagining American-Made Luxury" /><meta
+property="og:description" content="New York-based Deveaux is creating high-end fashion right here in the States." /><meta
+property="article:section" content="Fashion" /><meta
+property="article:published_time" content="2017-02-08 04:35:01" /><meta
+property="article:modified_time" content="2017-02-08 16:35:01" /><meta
+property="article:publisher" content="https://www.facebook.com/Esquire" /><meta
+name="google-site-verification" content="jc-n3hu5vRQZpMR_8zTdWlZclmVbvCl2qFQ2fxka3rc" /><meta
+name="auto-publish" content="timely" /><link
+rel="publisher" href="https://plus.google.com/+esquire/videos" /><meta
+property="twitter:card" content="summary_large_image" /><meta
+property="twitter:site" content="@Esquire" /><meta
+property="twitter:title" content="This Brand Is Reimagining American-Made Luxury" /><meta
+property="twitter:description" content="New York-based Deveaux is creating high-end fashion right here in the States." /><meta
+property="twitter:image" content="http://esq.h-cdn.co/assets/17/06/1600x800/landscape-1486570293-deveaux.jpg" /><meta
+name="sailthru.contenttype" content="article" /><meta
+name="sailthru.tags" content="Style" /><meta
+name="sailthru.date" content="2017-02-08T11:35:01-05:00" /><meta
+name="sailthru.image.full" content="http://esq.h-cdn.co/assets/17/06/768x384/landscape-1486570293-deveaux.jpg" /><meta
+name="sailthru.image.thumb" content="http://esq.h-cdn.co/assets/17/06/160x160/square-1486570293-deveaux.jpg" /><meta
+name="sailthru.socialtitle" content="This Brand Is Reimagining American-Made Luxury" />
+ <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Article",
+		"url": "http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/",
+
+		"author": 			{
+			"@type": "Person",
+			"name": "Miles Raymer",
+			"url": "http://www.esquire.com/author/7848/miles-raymer/"
+					}		 , 
+
+		"image":
+			{
+			"@list": [
+									"http://esq.h-cdn.co/assets/17/06/980x490/landscape-1486570293-deveaux.jpg" , 									"http://esq.h-cdn.co/assets/17/06/640x320/landscape-1486570750-deveaux-team.jpg" , 									"http://esq.h-cdn.co/assets/17/06/640x320/landscape-1486570882-deveaux-fw17-look-1.jpg" , 									"http://esq.h-cdn.co/assets/17/06/640x320/landscape-1486571288-deveaux-in-iceland.jpg"							]
+		},
+	
+
+		"headline": "This Brand Is Reimagining American-Made Luxury",
+		"articleBody": " On the day before Deveaux&#039;s runway show at this year&#039;s New York Fashion Week: Men&#039;s, the Lower Manhattan streets full of conspicuously stylish dudes are a mess thanks to the wet, icy snow that the city&#039;s being pelted with. But inside the upstart luxury label&#039;s Tribeca showroom, the atmosphere is comfortable and warm.  All the pieces are finished, all the models&#039; changes have been sorted out and hung neatly on racks, and designers Matt Breen, Patrick Doss, and Andrea Tsao have time to hang out over a pot of coffee—a pleasant change from their NYFW debut last year, which necessitated an emergency relocation when the venue canceled on them just hours before their models were supposed to walk.    The trio&#039;s young, but they have a casually refined air about them that seems remarkably mature. You can say just about the same thing about their clothes, too. Their spring/summer &#039;17 collection is confidently understated even at its most daring, using a neutral palette and soft silhouettes–like cropped drawstring pants matched with tunic-like shirts–to mellow out the clever way the pieces play around with proportion and symmetry. &quot;There&#039;s a rule,&quot; Doss says. &quot;If we wouldn&#039;t wear it, it&#039;s got to go, no matter how connected to the idea you are personally.&quot;  Deveaux was born out of a dare–or actually. more like a series of dares. Could a retailer like Breen, who&#039;d previously founded SoHo menswear boutique Carson Street Clothiers (alongside Brian Trunzo, who was an initial partner in Deveaux) make it as a designer? Could a scrappy startup break into the men&#039;s luxury market? And could they do all that while also manufacturing exclusively in the United States? &quot;We&#039;ve faced headwinds from a host of things,&quot; Breen admits. For instance, the challenge of finding American manufacturers who could execute exactly what they wanted. &quot;It requires a lot of hand-holding, a lot of back and forth. There&#039;s really a lot of steps to that process. We want the quality to be like a lot of European designers who are making things in Italy or Japan. We want to try and push our manufacturers to that point.&quot; &quot;We&#039;ve talked to other designers who&#039;ve been around for five-plus years,&quot; Tsao says, &quot;and when we say that one of our main objectives is to be American luxury and to be made here, the reaction I generally get is, &#039;You haven&#039;t been doing this long enough to realize that that&#039;s a huge mistake.&#039;&quot;  Three seasons in, it seems like it wasn&#039;t such a mistake after all. The day after our conversation, the trio will send a team of models down the Cadillac House runway in a respectably robust assortment of menswear (with a few women&#039;s looks introduced into the mix) in front of hi-def drone footage of the Icelandic landscape, one of the collection&#039;s key influences.  The amount of attention it draws will feel like a major step up for Deveaux, as will the collection itself. It&#039;s a little more conservative than spring/summer–lots of dark tones, Scandinavian-inspired knitwear, and a couple of fairly straightforward suits–but there&#039;s still a sense of play hovering around it, expressed through the architectural lines of a robe coat, speckled trousers, and an unabashedly &#039;70s wide-lapelled shearling coat. Overall it feels like a big step forward into maturity, and one that could easily lure in fans of the past American luxury greats like Calvin Klein that the trio are working hard to emulate.  Deveaux may be hitting its stride, but its designers haven&#039;t stopped challenging themselves. Fall/winter also sees the debut of their first footwear collection: a zip boot, a Chelsea boot, and a slip-on in three different combinations of color and leather (plus a fourth option exclusive to the slip-on), produced with the family-owned Canadian brand Viberg Boot. The expansion underlines the team&#039;s commitment to doing things their way, and the boots&#039; quality proves the worth of sticking to your principles. &quot;I think if you listen to criticism all the time,&quot; Doss says, &quot;you&#039;ll never surprise yourself. There are things sitting on that rack that are from the same tanneries, the same mills that Prada, Valentino, and Hermès use. They wouldn&#039;t be there on the rack if we&#039;d listened.&quot; &quot;People telling me, &#039;No, you&#039;re insane, you&#039;re crazy&#039; is what gets me out of bed,&quot; says Breen.  ",
+		"wordCount": "900",
+		"datePublished": "2017-02-08T16:35:01+00:00",
+		"mainEntityOfPage": "True"
+	}</script>  <script>/* Modernizr 2.8.3 (Custom Build) | MIT & BSD
+	* Build: http://modernizr.com/download/#-flexbox-csstransforms-csstransforms3d-csstransitions-inlinesvg-svg-touch-shiv-mq-cssclasses-addtest-prefixed-teststyles-testprop-testallprops-prefixes-domprefixes
+	*/
+	;window.Modernizr=function(a,b,c){function B(a){j.cssText=a}function C(a,b){return B(m.join(a+";")+(b||""))}function D(a,b){return typeof a===b}function E(a,b){return!!~(""+a).indexOf(b)}function F(a,b){for(var d in a){var e=a[d];if(!E(e,"-")&&j[e]!==c)return b=="pfx"?e:!0}return!1}function G(a,b,d){for(var e in a){var f=b[a[e]];if(f!==c)return d===!1?a[e]:D(f,"function")?f.bind(d||b):f}return!1}function H(a,b,c){var d=a.charAt(0).toUpperCase()+a.slice(1),e=(a+" "+o.join(d+" ")+d).split(" ");return D(b,"string")||D(b,"undefined")?F(e,b):(e=(a+" "+p.join(d+" ")+d).split(" "),G(e,b,c))}var d="2.8.3",e={},f=!0,g=b.documentElement,h="modernizr",i=b.createElement(h),j=i.style,k,l={}.toString,m=" -webkit- -moz- -o- -ms- ".split(" "),n="Webkit Moz O ms",o=n.split(" "),p=n.toLowerCase().split(" "),q={svg:"http://www.w3.org/2000/svg"},r={},s={},t={},u=[],v=u.slice,w,x=function(a,c,d,e){var f,i,j,k,l=b.createElement("div"),m=b.body,n=m||b.createElement("body");if(parseInt(d,10))while(d--)j=b.createElement("div"),j.id=e?e[d]:h+(d+1),l.appendChild(j);return f=["&#173;",'<style id="s',h,'">',a,"</style>"].join(""),l.id=h,(m?l:n).innerHTML+=f,n.appendChild(l),m||(n.style.background="",n.style.overflow="hidden",k=g.style.overflow,g.style.overflow="hidden",g.appendChild(n)),i=c(l,a),m?l.parentNode.removeChild(l):(n.parentNode.removeChild(n),g.style.overflow=k),!!i},y=function(b){var c=a.matchMedia||a.msMatchMedia;if(c)return c(b)&&c(b).matches||!1;var d;return x("@media "+b+" { #"+h+" { position: absolute; } }",function(b){d=(a.getComputedStyle?getComputedStyle(b,null):b.currentStyle)["position"]=="absolute"}),d},z={}.hasOwnProperty,A;!D(z,"undefined")&&!D(z.call,"undefined")?A=function(a,b){return z.call(a,b)}:A=function(a,b){return b in a&&D(a.constructor.prototype[b],"undefined")},Function.prototype.bind||(Function.prototype.bind=function(b){var c=this;if(typeof c!="function")throw new TypeError;var d=v.call(arguments,1),e=function(){if(this instanceof e){var a=function(){};a.prototype=c.prototype;var f=new a,g=c.apply(f,d.concat(v.call(arguments)));return Object(g)===g?g:f}return c.apply(b,d.concat(v.call(arguments)))};return e}),r.flexbox=function(){return H("flexWrap")},r.touch=function(){var c;return"ontouchstart"in a||a.DocumentTouch&&b instanceof DocumentTouch?c=!0:x(["@media (",m.join("touch-enabled),("),h,")","{#modernizr{top:9px;position:absolute}}"].join(""),function(a){c=a.offsetTop===9}),c},r.csstransforms=function(){return!!H("transform")},r.csstransforms3d=function(){var a=!!H("perspective");return a&&"webkitPerspective"in g.style&&x("@media (transform-3d),(-webkit-transform-3d){#modernizr{left:9px;position:absolute;height:3px;}}",function(b,c){a=b.offsetLeft===9&&b.offsetHeight===3}),a},r.csstransitions=function(){return H("transition")},r.svg=function(){return!!b.createElementNS&&!!b.createElementNS(q.svg,"svg").createSVGRect},r.inlinesvg=function(){var a=b.createElement("div");return a.innerHTML="<svg/>",(a.firstChild&&a.firstChild.namespaceURI)==q.svg};for(var I in r)A(r,I)&&(w=I.toLowerCase(),e[w]=r[I](),u.push((e[w]?"":"no-")+w));return e.addTest=function(a,b){if(typeof a=="object")for(var d in a)A(a,d)&&e.addTest(d,a[d]);else{a=a.toLowerCase();if(e[a]!==c)return e;b=typeof b=="function"?b():b,typeof f!="undefined"&&f&&(g.className+=" "+(b?"":"no-")+a),e[a]=b}return e},B(""),i=k=null,function(a,b){function l(a,b){var c=a.createElement("p"),d=a.getElementsByTagName("head")[0]||a.documentElement;return c.innerHTML="x<style>"+b+"</style>",d.insertBefore(c.lastChild,d.firstChild)}function m(){var a=s.elements;return typeof a=="string"?a.split(" "):a}function n(a){var b=j[a[h]];return b||(b={},i++,a[h]=i,j[i]=b),b}function o(a,c,d){c||(c=b);if(k)return c.createElement(a);d||(d=n(c));var g;return d.cache[a]?g=d.cache[a].cloneNode():f.test(a)?g=(d.cache[a]=d.createElem(a)).cloneNode():g=d.createElem(a),g.canHaveChildren&&!e.test(a)&&!g.tagUrn?d.frag.appendChild(g):g}function p(a,c){a||(a=b);if(k)return a.createDocumentFragment();c=c||n(a);var d=c.frag.cloneNode(),e=0,f=m(),g=f.length;for(;e<g;e++)d.createElement(f[e]);return d}function q(a,b){b.cache||(b.cache={},b.createElem=a.createElement,b.createFrag=a.createDocumentFragment,b.frag=b.createFrag()),a.createElement=function(c){return s.shivMethods?o(c,a,b):b.createElem(c)},a.createDocumentFragment=Function("h,f","return function(){var n=f.cloneNode(),c=n.createElement;h.shivMethods&&("+m().join().replace(/[\w\-]+/g,function(a){return b.createElem(a),b.frag.createElement(a),'c("'+a+'")'})+");return n}")(s,b.frag)}function r(a){a||(a=b);var c=n(a);return s.shivCSS&&!g&&!c.hasCSS&&(c.hasCSS=!!l(a,"article,aside,dialog,figcaption,figure,footer,header,hgroup,main,nav,section{display:block}mark{background:#FF0;color:#000}template{display:none}")),k||q(a,c),a}var c="3.7.0",d=a.html5||{},e=/^<|^(?:button|map|select|textarea|object|iframe|option|optgroup)$/i,f=/^(?:a|b|code|div|fieldset|h1|h2|h3|h4|h5|h6|i|label|li|ol|p|q|span|strong|style|table|tbody|td|th|tr|ul)$/i,g,h="_html5shiv",i=0,j={},k;(function(){try{var a=b.createElement("a");a.innerHTML="<xyz></xyz>",g="hidden"in a,k=a.childNodes.length==1||function(){b.createElement("a");var a=b.createDocumentFragment();return typeof a.cloneNode=="undefined"||typeof a.createDocumentFragment=="undefined"||typeof a.createElement=="undefined"}()}catch(c){g=!0,k=!0}})();var s={elements:d.elements||"abbr article aside audio bdi canvas data datalist details dialog figcaption figure footer header hgroup main mark meter nav output progress section summary template time video",version:c,shivCSS:d.shivCSS!==!1,supportsUnknownElements:k,shivMethods:d.shivMethods!==!1,type:"default",shivDocument:r,createElement:o,createDocumentFragment:p};a.html5=s,r(b)}(this,b),e._version=d,e._prefixes=m,e._domPrefixes=p,e._cssomPrefixes=o,e.mq=y,e.testProp=function(a){return F([a])},e.testAllProps=H,e.testStyles=x,e.prefixed=function(a,b,c){return b?H(a,b,c):H(a,"pfx")},g.className=g.className.replace(/(^|\s)no-js(\s|$)/,"$1$2")+(f?" js "+u.join(" "):""),e}(this,this.document);
+
+	(function( Modernizr){
+		var mob = /Mobile|iP(hone|od|ad)|Android|BlackBerry|IEMobile|Kindle|NetFront|Silk-Accelerated|(hpw|web)OS|Fennec|Minimo|Opera M(obi|ini)|Blazer|Dolfin|Dolphin|Skyfire|Zune/ig,
+			ios = /iP(hone|od|ad)/ig,
+			ie = /MSIE|Trident/ig,
+			android = /Android/ig,
+			ua  = navigator.userAgent;
+
+		Modernizr.addTest("mobile", function(){
+			return mob.test( ua ) && Modernizr.mq("only screen and (min-width: 320px) and (max-width: 639px)");
+		});
+
+		Modernizr.addTest("tablet", function(){
+			return mob.test( ua ) && ! Modernizr.mobile;
+		});
+
+		Modernizr.addTest("ie", function(){
+			return ie.test( ua );
+		});
+
+		Modernizr.addTest("ios", function() {
+			return ios.test( ua );
+		});
+
+		Modernizr.addTest("android", function() {
+			return android.test( ua );
+		});
+
+	})( Modernizr );</script> <link
+rel="stylesheet" href="//esq.h-cdn.co/assets/esquire/20170222163545/css/main.css" /><!--[if lte IE 8]> <script src="//esq.h-cdn.co/assets/esquire/20170222163545/libs/respond.min.js"></script> <![endif]--> <script id="dataLayer" type="text/javascript">var HRST = HRST || {};
+
+HRST.site = {
+	name:     "Esquire",
+	prefix:   "esquire",
+	domain:   "esquire.com",
+	dartZone: "/4328/hdm.esquire",
+};
+
+HRST.breakpoints = {"mobile":320,"mobile_w":480,"tablet":640,"tablet_w":768,"desktop":980,"desktop_w":1024};
+
+HRST.article = {
+
+	sourceName: "Hearst Editorial",
+
+	syndicatingSite: "",
+
+	syndicateSiteOrigin: "",
+
+	wordCount: "872",
+
+	universalID: "esquire.article.52942",
+
+	section: {
+		name:   "Style",
+		prefix: "style"
+	},
+
+	subSection: {
+		name:   "Fashion",
+		prefix: "mens-fashion"
+	},
+
+	collection: [
+			],
+
+	sponsor: {
+		name: "",
+		type: "",
+		startDate: "02-24-2017",
+		expirationDate: "02-24-2017",
+		program: "None"
+	},
+
+	movie:  "",
+
+	tvshow: "",
+
+	pageUrl: "http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/",
+
+	canonicalUrl: "http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/",
+
+	id: "esquire.article.52942",
+
+	contentID: "80133",
+
+	formerShareCount: "",
+
+	type: "news",
+
+	template: "article",
+
+	display: "standard-article",
+
+	title: "This Brand Is Reimagining American-Made Luxury",
+
+	author: {
+		name: "Miles Raymer",
+		role: "--"
+	},
+
+	publishDate: {
+		year: "2017",
+		month: "02",
+		day: "08",
+		hour: "16",
+		minute: "35"
+	},
+
+	modifiedDate: {
+		year: "2017",
+		month: "02",
+		day: "08",
+		hour: "16",
+		minute: "35"
+	},
+
+	createDate: {
+		year: "2017",
+		month: "02",
+		day: "08",
+		hour: "16",
+		minute: "22"
+	},
+
+	image: {
+		thumb: "",
+		large: "http://esq.h-cdn.co/assets/17/06/980x490/landscape-1486570293-deveaux.jpg"
+	},
+
+	adCategory: {
+		id: "1",
+		name: "Fashion",
+		prefix: "fashion"
+	},
+
+	tags: [
+			],
+
+	themes: [
+					"Fashion Week",					"Fashion"			],
+
+	
+	autoSocial: "timely"
+};
+
+HRST.landing = {
+	type: "",
+	header: "",
+	layout: "",
+	value: {
+				name: "",
+		type: ""
+	},
+	sponsor: {
+		name: "",
+		type: "",
+		program: ""
+	}
+};
+
+HRST.targeting = {
+	site: "com",
+	sect: "style",
+	sub: "mens-fashion",
+	page: "deveaux-designer-profile",
+	cat: "fashion",
+	tool: "article",
+	artid: "esquire.article.52942",
+	clc:
+					""
+		,
+	type: "",
+	author: "miles-raymer"
+};
+
+HRST.datalayer = {
+	currency: "$",
+	pageType: "article",
+	propertyName: "esquire.com",
+	channelName: "Style",
+	subChannelName: "Fashion",
+	contentTitle: "This Brand Is Reimagining American-Made Luxury",
+	contentId: "esquire.article.52942",
+	canonicalUrl: "http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/",
+	contentSource: "Hearst Editorial",
+	contentTopic: "",
+	contentPublishDate: "1486571701",
+	contentCollectionName:
+					""
+		,
+	contentAuthor: "Miles Raymer",
+	articleLength: "872",
+	photoNonInteraction: "true",
+	photoId: "",
+	photoLocation: "",
+	gallerySize: "",
+	syndicationRights: "OK for Syndication",
+	themes: [
+					"Fashion Week",					"Fashion"			],
+	autoSocial: "timely",
+	numSearchResults: "",
+	contentType: "news"
+			, embeddedMedia: {"video":{"aol":0,"abcvideo":0,"brightcove":0,"facebook":0,"funnyordie":0,"hulu":0,"kaltura":0,"mtv":0,"ndn":0,"tmz":0,"vevo":0,"vimeo":0,"video":0,"gopher":0,"yahoo":0,"youtube":0},"music":{"soundcloud":0,"spotify":0},"quiz":{"playbuzz":0,"quizatious":0},"commerce":{"shop":0},"social":{"facebook":0,"instagram":0,"pinterest":0,"twitter":0,"vine":0}}
+		};
+
+HRST.contentTesting = {
+	url: "https://upweb.hdmtools.com",
+	streamUrl: "http://upstream.hdmtools.com",
+	site: "esquire"
+};</script> <script type="text/javascript">var mediaOsConfig = {"locale":"en_US"};</script> <script src="//esq.h-cdn.co/assets/esquire/20170222163545/libs/require-2.1.9.min.js" data-main="//esq.h-cdn.co/assets/esquire/20170222163545/js/rams.js"></script> <script type="text/javascript">( function( d ) {
+			var e = d.createElement( "script" );
+			if ( document.cookie.indexOf( "nsghtn=dev" ) > -1 ) {
+				e.src = d.location.protocol + "//nexus.ensighten.com/hearst/mag-dev/Bootstrap.js";
+			} else {
+				e.src = d.location.protocol + "//nexus.ensighten.com/hearst/mag/Bootstrap.js";
+			}
+			e.async = true;
+			d.getElementsByTagName( "head" )[0].appendChild( e );
+		}( document ) );</script> </head><body
+id="article" class="" data-display="standard-article" ><div
+class="buzzing-recirc"
+data-enabled="1"			 			 data-section="style"		/><div
+id="themes-recirc"><div
+id="themes-recirc-transporter" data-stories="0"></div><div
+id="themes-recirc-left-rail" data-stories="0"></div><div
+id="themes-recirc-primary" data-stories="0"></div><div
+id="themes-recirc-secondary" data-stories="0"></div><div
+id="themes-recirc-end-of-content" data-stories="2"></div></div><div
+class="gpt-tag gpt-tag-oop" id="gpt-ad-oop-1" data-oop="true"></div><div
+id="fb-root"></div> <script id="module-story--template" type="text/template"><% if ( typeof sponsorship !== "undefined" && _.isObject(sponsorship.sponsor) &&  typeof sponsorship.sponsor.sponsor_name !== "undefined" ) { %>
+		<div class="module-story" data-sponsor="<%= sponsorship.sponsor.sponsor_name %>" data-uid="<%= uid %>">
+		<% } else { %>
+		<div class="module-story" data-uid="<%= uid %>">
+		<% } %>
+			<a href="<%= url %>" class="module-story--link link" title="<%= _.escape(title) %>">
+				<div class="module-story--image">
+					<div class="module-story--image-inner">
+												<% if ( typeof images !== "undefined" ) { %>
+																<% var imageCuts = "";
+									_.each( images, function( value, key ) {
+										if ( key === _.keys( images )[0] ) {
+											imageCuts += "data-src=" + value.url + " data-cut=" + key;
+										}
+										imageCuts += " data-img" + key + "=" + value.url;
+									} );
+								%>
+								<img class="lazy-image swap-image" nopin="nopin" <%= imageCuts %> />
+						<% } else { %>
+							<% if ( image ) { %>
+								<% if ( typeof image !== "undefined" ) { %>
+									<img src="<%= image %>" nopin="nopin" />
+								<% } else if ( typeof type !== "undefined" ) { %>
+									<% if ( type == "gallery" ) { %>
+										<!-- content type icon start -->
+
+	<i class="icon link-icon icon-gallery module-story--icon"></i>
+<!-- content type icon end -->
+									<% } else { %>
+										<!-- content type icon start -->
+
+	<i class="icon link-icon icon-article module-story--icon"></i>
+<!-- content type icon end -->
+									<% } %>
+								<% } %>
+							<% } else { %>
+								<div class="nav-feed--image-inner no-image">
+																	<i class="icon icon-article module-story--icon link-icon"></i>
+																</div>
+							<% } %>
+						<% } %>
+					</div>
+				</div>
+
+				<div class="module-story--inner">
+					<div class="module-story--text">
+						<span class="module-story--title link-txt">
+						<% if ( typeof truncation !== "undefined" && ! truncation ) { %>
+							<%= title %>
+						<% } else { %>
+							<%= ( title.length > 50 ) ? title.substring(0, 50) + "&hellip;" : title %>
+						<% } %>
+						<% if ( typeof sponsorship !== "undefined" && _.isObject(sponsorship.sponsor) &&  typeof sponsorship.sponsor.sponsor_name !== "undefined" ) { %>
+							<% if ( sponsorship.sponsor_type == 1 ) { %>
+								<div class="module-story--sponsor link-txt">Esquire + <%= sponsorship.sponsor.sponsor_name %><div>
+							<% } else if ( sponsorship.sponsor_type == 3 ) { %>
+								<div class="module-story--sponsor link-txt">Created by <%= sponsorship.sponsor.sponsor_name %></div>
+							<% } else if ( sponsorship.sponsor_type == 5 ) { %>
+								<div class="module-story--sponsor link-txt">Created by Esquire for <%= sponsorship.sponsor.sponsor_name %></div>
+							<% } %>
+						<% } %>
+					</div>
+				</div>
+			</a>
+			<% if ( typeof sponsorship !== "undefined" && _.isObject(sponsorship.sponsor) && typeof sponsorship.sponsor.tracking_pixel !== "undefined" ) { %>
+				<img width="1" height="1" nopin="nopin" style="position:absolute;display:none" data-src="<%= sponsorship.sponsor.tracking_pixel %>"/>
+			<% } %>
+		</div></script> <div
+id="search-overlay"><div
+class="search-overlay-inner" role="search">
+<i
+class="icon icon-m icon-close01 search-layer-close"></i><form
+id="search-layer-form" name="search-layer-form" method="GET" action=""><div
+class="search-typeahead">
+<input
+type="text" value="" name="" class="search-text" id="search-text" placeholder="Search" autocomplete="off" size="" tabIndex="1" onfocus="this.value = this.value;" autofocus/></div></form><p
+class="search-label">Type to Search</p><div
+id="auto-complete-suggest--scrollable"><ul
+class="auto-complete-suggest slide-back"></ul></div></div></div><nav
+id="nav-panel" class="nav-panel" role="navigation"><ul
+id="nav-panel--scrollable" class="nav-panel--inner"><li>
+<a
+class="nav-panel--trigger nav-panel--panel--title link link-txt" href="#">Entertainment</a><ul
+class="nav-panel--panel">
+<a
+class="nav-panel--panel--close link" href="#"><i
+class="icon icon-m icon-arrow-left01 link-icon"></i></a><li><a
+class="nav-panel--panel--link link link-txt" href="/entertainment/">Entertainment</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/entertainment/tv/">TV</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/entertainment/movies/">Movies</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/entertainment/books/">Books</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/entertainment/music/">Music</a></li></ul></li><li>
+<a
+class="nav-panel--trigger nav-panel--panel--title link link-txt" href="#">Style</a><ul
+class="nav-panel--panel">
+<a
+class="nav-panel--panel--close link" href="#"><i
+class="icon icon-m icon-arrow-left01 link-icon"></i></a><li><a
+class="nav-panel--panel--link link link-txt" href="/style/">Style</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/style/mens-fashion/">Fashion</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/style/grooming/">Grooming</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/style/mens-accessories/">Accessories</a></li></ul></li><li>
+<a
+class="nav-panel--trigger nav-panel--panel--title link link-txt" href="#">Food</a><ul
+class="nav-panel--panel">
+<a
+class="nav-panel--panel--close link" href="#"><i
+class="icon icon-m icon-arrow-left01 link-icon"></i></a><li><a
+class="nav-panel--panel--link link link-txt" href="/food-drink/food/">Food</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/food-drink/restaurants/">Restaurants</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/food-drink/food/recipes/">Recipes</a></li></ul></li><li>
+<a
+class="nav-panel--trigger nav-panel--panel--title link link-txt" href="#">Drinks</a><ul
+class="nav-panel--panel">
+<a
+class="nav-panel--panel--close link" href="#"><i
+class="icon icon-m icon-arrow-left01 link-icon"></i></a><li><a
+class="nav-panel--panel--link link link-txt" href="/food-drink/drinks/">Drinks</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/food-drink/bars/">Bars</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/cocktail-recipes/">Cocktail Recipes</a></li></ul></li><li>
+<a
+class="nav-panel--panel--title link link-txt" href="/sports/">Sports</a></li><li>
+<a
+class="nav-panel--trigger nav-panel--panel--title link link-txt" href="#">Lifestyle</a><ul
+class="nav-panel--panel">
+<a
+class="nav-panel--panel--close link" href="#"><i
+class="icon icon-m icon-arrow-left01 link-icon"></i></a><li><a
+class="nav-panel--panel--link link link-txt" href="/lifestyle/">Lifestyle</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/lifestyle/sex/">Sex &amp; Relationships</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/lifestyle/cars/">Cars &amp; Tech</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/lifestyle/health/">Fitness &amp; Health</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/lifestyle/money/">Money &amp; Career</a></li></ul></li><li>
+<a
+class="nav-panel--trigger nav-panel--panel--title link link-txt" href="#">Women</a><ul
+class="nav-panel--panel">
+<a
+class="nav-panel--panel--close link" href="#"><i
+class="icon icon-m icon-arrow-left01 link-icon"></i></a><li><a
+class="nav-panel--panel--link link link-txt" href="/women/">Women</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/sexiest-woman-alive/">Sexiest Woman Alive</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/sexy-videos/">Sexy Videos</a></li></ul></li><li>
+<a
+class="nav-panel--trigger nav-panel--panel--title link link-txt" href="#">News &amp; Politics</a><ul
+class="nav-panel--panel">
+<a
+class="nav-panel--panel--close link" href="#"><i
+class="icon icon-m icon-arrow-left01 link-icon"></i></a><li><a
+class="nav-panel--panel--link link link-txt" href="/news-politics/">News &amp; Politics</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="/news-politics/politics/">Charles P. Pierce</a></li></ul></li><li>
+<a
+class="nav-panel--panel--title link link-txt" href="/the-code">The Code</a></li><li>
+<a
+class="nav-panel--panel--title link link-txt" href="http://tv.esquire.com/">EsquireTV</a></li><li>
+<a
+class="nav-panel--trigger nav-panel--panel--title link link-txt" href="#">Subscribe</a><ul
+class="nav-panel--panel">
+<a
+class="nav-panel--panel--close link" href="#"><i
+class="icon icon-m icon-arrow-left01 link-icon"></i></a><li><a
+class="nav-panel--panel--link link link-txt" href="https://subscribe.hearstmags.com/subscribe/splits/esquire/esq_sub_nav_link" target="_blank">Subscribe</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="https://subscribe.hearstmags.com/subscribe/splits/esquire/esq_sub_nav_link" target="_blank">Print Edition</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="https://subscribe.hearstmags.com/subscribe/splits/esquire/esq_digital_nav_link" target="_blank">Digital Edition</a></li><li><a
+class="nav-panel--panel--link link link-txt" href="https://subscribe.hearstmags.com/subscribe/splits/esquire/esq_gift_nav_link" target="_blank">Give a Gift</a></li></ul></li><li>
+<a
+class="nav-panel--panel--title link link-txt" href="http://classic.esquire.com">Archive</a></li><li>
+<a
+class="nav-panel--panel--title link link-txt" href="https://preferences.hearstmags.com/brands/ESQ/subscribe2.aspx?authId=579C4F1D-8F2C-4898-9F2E-044CF1071AA9&maj=WNL&min=UNDEF" target="_blank">Newsletter</a></li><li>
+<a
+class="nav-panel--trigger nav-panel--panel--title link link-txt" href="#">Follow</a><ul
+class="nav-panel--panel">
+<a
+class="nav-panel--panel--close link" href="#"><i
+class="icon icon-m icon-arrow-left01 link-icon"></i></a><li><span
+class="nav-panel--panel--title">Follow</span></li><li
+class="nav-panel--panel--social-item nav-panel--panel--social-item-facebook">
+<a
+class="nav-panel--panel--link link" href="https://www.facebook.com/Esquire" target="_blank">
+<i
+class="icon icon-facebook link-icon"></i>
+<span
+class="link_txt">facebook</span>
+</a></li><li
+class="nav-panel--panel--social-item nav-panel--panel--social-item-twitter">
+<a
+class="nav-panel--panel--link link" href="https://twitter.com/esquire" target="_blank">
+<i
+class="icon icon-twitter link-icon"></i>
+<span
+class="link_txt">twitter</span>
+</a></li><li
+class="nav-panel--panel--social-item nav-panel--panel--social-item-googleplus">
+<a
+class="nav-panel--panel--link link" href="https://plus.google.com/+esquire/videos" target="_blank">
+<i
+class="icon icon-googleplus link-icon"></i>
+<span
+class="link_txt">google+</span>
+</a></li><li
+class="nav-panel--panel--social-item nav-panel--panel--social-item-pinterest">
+<a
+class="nav-panel--panel--link link" href="http://www.pinterest.com/esquiremag/?auto_follow=1" target="_blank">
+<i
+class="icon icon-pinterest link-icon"></i>
+<span
+class="link_txt">pinterest</span>
+</a></li><li
+class="nav-panel--panel--social-item nav-panel--panel--social-item-tumblr">
+<a
+class="nav-panel--panel--link link" href="http://esquire.tumblr.com/" target="_blank">
+<i
+class="icon icon-tumblr link-icon"></i>
+<span
+class="link_txt">tumblr</span>
+</a></li><li
+class="nav-panel--panel--social-item nav-panel--panel--social-item-instagram">
+<a
+class="nav-panel--panel--link link" href="http://instagram.com/esquire" target="_blank">
+<i
+class="icon icon-instagram link-icon"></i>
+<span
+class="link_txt">instagram</span>
+</a></li><li
+class="nav-panel--panel--social-item nav-panel--panel--social-item-youtube">
+<a
+class="nav-panel--panel--link link" href="https://www.youtube.com/c/esquire?sub_confirmation=1" target="_blank">
+<i
+class="icon icon-youtube link-icon"></i>
+<span
+class="link_txt">youtube</span>
+</a></li></ul></li><li><a
+class="nav-panel--panel--title link link-txt" href="http://www.esquire.com/promotions/">Promotions</a></li><li><a
+class="nav-panel--panel--title link link-txt" href="http://sweepstakes.esquire.com/">Win</a></li></ul>
+<a
+class="nav-panel--close link global-close-link" href="#"><i
+class="icon icon-m icon-close01 link-icon"></i></a>
+</nav><div
+id="site-wrapper" class="site-wrapper"><div
+class="header-content"><div
+id="social-follow" class="ready"><div
+class="social-module"><div
+class="social-follow--buttons"><div
+class="social-follow--button facebook">
+Like Us On Facebook<div
+class ="social-follow--facebook-wrapper"><div
+class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div></div></div><div
+class="social-follow--button twitter">
+Follow Us On Twitter<div
+class ="social-follow--buton-wrapper">
+<a
+class="twitter-follow-button" href="https://twitter.com/Esquire" data-show-count="false">Esquire</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script> </div></div><div
+class="social-follow--button pinterest">
+Follow Us On Pinterest
+<a
+data-pin-do="buttonFollow" href="http://www.pinterest.com/esquiremag//">Esquire</a></div></div><div
+class="social-follow--close-container"><div
+class="social-follow--close"><i
+class="icon icon-close01 social-follow--close-icon"></i></div></div></div></div><div
+id="sticky-wrap">
+<nav
+class="nav "><div
+class="nav--inner "><div
+class="nav--menu">
+<i
+class="nav--link nav--open-panel icon icon-menu" data-tracking-id="nav-sidebar-open"></i>
+<a
+class="nav--logo link " href="/" >
+<svg
+viewBox="0 0 813 137" version="1.1"><title>Group</title>
+<desc>Created with Sketch.</desc>
+<defs>
+<polygon
+id="path-1" points="0.111771909 85 119.6866 85 119.6866 0.00986685021 0.111771909 0.00986685021 0.111771909 85"></polygon>
+</defs>
+<g
+id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g
+id="Artboard">
+<g
+id="Page-1" transform="translate(5.000000, 11.000000)">
+<g
+id="Group-3" transform="translate(239.000000, 33.233000)">
+<mask
+id="mask-2" fill="white">
+<use
+xlink:href="#path-1"></use>
+</mask>
+<g
+id="Clip-2"></g>
+<path
+d="M119.6866,78.5673 L119.6696,0.4663 L79.0806,0.4723 C79.0806,0.4723 80.4556,28.6463 78.3206,34.1203 C74.6926,46.0233 45.4456,44.3333 45.4536,30.4553 C45.4636,14.3243 75.2376,17.0973 75.2376,17.0973 L72.2566,0.4373 C72.2566,0.4373 3.4176,-5.9697 0.1206,30.8273 C-0.6174,56.4743 45.0706,67.1663 78.8566,54.5413 L78.8416,85.0003 L119.6866,78.5673 Z" id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)"></path>
+</g>
+<path
+d="M504.4459,76.9872 C504.0499,76.5702 496.6129,78.4242 491.2229,77.1082 C485.2749,75.6552 484.8879,71.2032 484.8879,65.2822 L484.8909,33.6052 C484.8909,33.6052 440.2899,33.6152 440.2869,33.6152 L440.2869,63.5092 C440.2869,67.0342 440.5829,75.6172 428.0699,75.6172 C422.4439,75.6172 416.0219,75.1432 416.0219,67.0342 L416.0219,33.6052 L371.6709,33.6052 L371.7089,71.6922 C371.7089,93.4062 408.1319,100.0472 445.5549,85.8702 C445.5549,85.8702 463.0709,99.7162 506.8719,89.5352 C506.8719,89.5352 504.9589,77.5272 504.4459,76.9872" id="Fill-4" fill="#FFFFFF"></path>
+<path
+d="M583.441,39.7237 C583.726,35.0427 595.363,33.8417 596.071,39.2577 C596.071,39.2577 583.133,44.7787 583.441,39.7237 M682.383,73.5917 C681.258,73.2167 673.068,75.0587 663.904,71.8827 C649.238,66.7997 646.988,47.1327 664.399,35.8967 L648.105,22.1007 C619.36,33.1777 613.446,33.9667 610.756,34.5817 C609.42,30.6737 603.182,24.1097 589.95,24.8977 C582.754,25.3267 572.058,29.3667 568.965,36.7247 C566.881,41.6827 568.143,47.2497 572.976,51.0537 C579.943,56.5367 593.242,55.1707 593.242,55.1707 C589.055,72.7137 552.587,84.7137 552.587,65.9117 L552.587,33.6497 L509.277,33.6497 L509.277,71.1177 C509.277,89.8357 532.247,94.6777 554.801,93.1887 C586.359,91.1057 604.109,72.9957 610.579,53.4457 L625.975,49.8917 C625.975,49.8917 604.905,77.3527 631.196,89.8417 C646.196,96.9667 673.779,91.4747 684.865,85.5667 C684.865,85.5667 683.025,73.8047 682.383,73.5917" id="Fill-6" fill="#FFFFFF"></path>
+<path
+d="M143.6334,72.2163 C143.6334,72.2163 154.8214,65.1333 166.3204,55.0493 C166.3204,55.0493 176.2254,60.8363 180.7584,67.7163 C180.7584,67.7163 164.9664,64.7163 143.6334,72.2163 M179.4474,78.4863 C174.6954,84.3413 156.0844,84.2853 157.3904,80.4523 C158.7944,76.3283 177.2574,77.3613 179.4474,78.4863 M226.6244,73.5773 C230.7064,69.4303 230.4614,64.3863 226.9974,58.8913 C221.8834,50.7793 207.7584,46.0293 204.3834,39.5913 C202.9004,36.7623 202.9574,33.4023 205.1604,29.2653 L204.3994,25.8683 L156.7374,31.1333 C153.9154,37.4893 156.7934,42.4473 157.0014,43.0303 C122.5714,79.8993 66.7374,80.2333 65.2514,67.2383 C63.8574,55.0523 102.0314,52.3593 102.0314,52.3593 L101.2834,40.2113 C101.2834,40.2113 75.5704,42.2333 75.1844,34.3193 C74.7864,26.1583 98.8394,23.5203 112.7854,23.3593 L109.2264,3.7683 C64.0704,3.2743 21.8624,13.2233 17.9844,30.2823 C16.8204,35.3993 20.2374,44.3993 38.8634,48.1543 L38.8634,48.8083 C38.8634,48.8083 -0.2646,54.9853 0.0014,71.9633 C0.2374,87.0663 33.9874,93.7753 57.8204,93.9423 C106.1114,94.2793 131.5704,78.2743 131.5704,78.2743 C124.8214,96.7363 177.6964,98.9663 214.4044,85.7163 C216.1524,85.0853 230.2584,91.0913 238.8244,94.8783 C238.8244,94.8783 244.3044,81.7533 243.5714,79.9663 C242.9044,78.3413 226.6244,73.5773 226.6244,73.5773" id="Fill-8" fill="#FFFFFF"></path>
+<path
+d="M743.4219,70.2163 C743.4219,61.6513 772.9629,58.7843 772.9629,58.7843 L772.5469,50.2163 C768.2389,50.0983 751.4219,50.7163 751.4219,46.2163 C751.4219,40.3413 777.1529,38.9093 786.1719,38.5913 L784.3209,24.8833 C768.7789,24.9263 698.9469,25.1133 696.0899,44.0123 C694.5469,54.2163 714.6519,56.6263 714.6519,56.6263 L714.6459,57.1063 C714.6459,57.1063 688.3209,61.9733 688.3209,74.7163 C688.3209,100.7163 779.1279,93.4363 802.6329,86.9663 C802.6329,86.9663 800.3579,75.4183 799.3209,74.8833 C798.3829,74.3983 779.3209,77.2163 764.1949,76.8113 C751.8919,76.4813 743.4219,74.5183 743.4219,70.2163" id="Fill-10" fill="#FFFFFF"></path>
+<path
+d="M554.3648,12.7849 C554.3648,20.1619 546.2738,25.3779 532.1138,25.3779 C518.2028,25.3779 509.8498,20.2739 509.8498,12.7849 C509.8498,4.4279 522.0948,0.0009 532.1038,0.0009 C541.8278,0.0009 554.3648,4.3169 554.3648,12.7849" id="Fill-12" fill="#FFFFFF"></path>
+</g>
+</g>
+</g>
+</svg></a></div><div
+class="nav--dynamic-content"><div
+class="nav--all-menus"><div
+class="nav--main-menu"><ul
+class="nav--primary" data-type="ajax"><li
+class="nav--primary--item">
+<a
+class="nav--primary--link link link-txt" href="/style/">Style</a></li><li
+class="nav--primary--item">
+<a
+class="nav--primary--link link link-txt" href="/news-politics/">News</a></li><li
+class="nav--primary--item">
+<a
+class="nav--primary--link link link-txt" href="/news-politics/politics/">Politics</a></li><li
+class="nav--primary--item">
+<a
+class="nav--primary--link link link-txt" href="/entertainment/">Culture</a></li><li
+class="nav--primary--item">
+<a
+class="nav--primary--link link link-txt" href="/food-drink/">Food & Drink</a></li></ul></div><div
+class="nav--sub-menu"><ul
+class="nav--secondary"><li
+class="nav--secondary--item item-follow">
+<a
+class="nav--secondary--link link link-txt" href="#">Follow</a><ul
+class="nav--secondary--link-list"><li
+class="nav--secondary--social-item nav--secondary--social-item-facebook">
+<a
+class="nav--secondary--link link" href="https://www.facebook.com/Esquire" target="_blank">
+<i
+class="icon icon-facebook link-icon"></i>
+</a></li><li
+class="nav--secondary--social-item nav--secondary--social-item-twitter">
+<a
+class="nav--secondary--link link" href="https://twitter.com/esquire" target="_blank">
+<i
+class="icon icon-twitter link-icon"></i>
+</a></li><li
+class="nav--secondary--social-item nav--secondary--social-item-googleplus">
+<a
+class="nav--secondary--link link" href="https://plus.google.com/+esquire/videos" target="_blank">
+<i
+class="icon icon-googleplus link-icon"></i>
+</a></li><li
+class="nav--secondary--social-item nav--secondary--social-item-pinterest">
+<a
+class="nav--secondary--link link" href="http://www.pinterest.com/esquiremag/?auto_follow=1" target="_blank">
+<i
+class="icon icon-pinterest link-icon"></i>
+</a></li><li
+class="nav--secondary--social-item nav--secondary--social-item-tumblr">
+<a
+class="nav--secondary--link link" href="http://esquire.tumblr.com/" target="_blank">
+<i
+class="icon icon-tumblr link-icon"></i>
+</a></li><li
+class="nav--secondary--social-item nav--secondary--social-item-instagram">
+<a
+class="nav--secondary--link link" href="http://instagram.com/esquire" target="_blank">
+<i
+class="icon icon-instagram link-icon"></i>
+</a></li><li
+class="nav--secondary--social-item nav--secondary--social-item-youtube">
+<a
+class="nav--secondary--link link" href="https://www.youtube.com/c/esquire?sub_confirmation=1" target="_blank">
+<i
+class="icon icon-youtube link-icon"></i>
+</a></li></ul></li><li
+class="nav--secondary--item item-subscribe">
+<a
+class="nav--secondary--link link link-txt" href="https://subscribe.hearstmags.com/subscribe/splits/esquire/esq_sub_nav_link" target="_blank">Subscribe</a><ul
+class="nav--secondary--link-list"><li>
+<a
+class="nav--secondary--link link link-txt" href="https://subscribe.hearstmags.com/subscribe/splits/esquire/esq_gift_nav_link" target="_blank">Give A Gift</a></li><li>
+<a
+class="nav--secondary--link link link-txt" href="https://subscribe.hearstmags.com/subscribe/splits/esquire/esq_digital_nav_link" target="_blank">Digital Edition</a></li></ul></li></ul></div></div></div><div
+class="nav--item-search ">
+<i
+class="nav--link nav--open-search icon icon-search"></i></div></div>
+</nav></div><div
+class="swipeable-nav"><div
+class="swipeable-nav__shutter-lft disabled"></div><div
+class="swipeable-nav__shutter-rt disabled"></div><div
+class="swipeable-nav--inner  include-subscribe-link "></div></div><div
+class="breaking-news" data-target="" data-type="ajax"><div
+class="breaking-news--container">
+<a
+href="" class="breaking-news--link link"><p
+class="link-txt">
+<span
+class="breaking-news--label">
+Breaking News!
+</span>
+<span
+class="breaking-news--headline">
+</span></p>
+</a></div></div><div
+class="module-top-pathing--container" data-type="ajax" data-tracking-id="artTopTout"><div
+class="module module-top-pathing"><div
+class="module-story module-story-1" data-uid="article.53306">
+<a
+href="/news-politics/a53306/who-is-milo/" class="module-story--link link" title="I Can&#039;t Wait to Forget Milo"><div
+class="module-story--image"><div
+class="module-story--image-inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://esq.h-cdn.co/assets/17/08/320x160/landscape-1487718930-milo.jpg"
+data-img320-w = "320"
+data-img320-h = "160"
+data-cut=320
+src="//esq.h-cdn.co/assets/esquire/20170222163545/images/blank.png" data-src="http://esq.h-cdn.co/assets/17/08/320x160/landscape-1487718930-milo.jpg" alt=""
+nopin="nopin"  /></div></div><div
+class="module-story--inner"><div
+class="module-story--text"><div
+class="module-story--category"></div>
+<span
+class="module-story--title link-txt">I Can't Wait to Forget Milo</span></div></div>
+</a></div><div
+class="module-story module-story-2" data-uid="article.53359">
+<a
+href="/style/mens-fashion/news/a53359/tip-sheet-the-code/" class="module-story--link link" title="5 Ways to Make Your Life More Stylish Right Now"><div
+class="module-story--image"><div
+class="module-story--image-inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://esq.h-cdn.co/assets/17/08/320x160/landscape-1487806545-index-image.jpg"
+data-img320-w = "320"
+data-img320-h = "160"
+data-cut=320
+src="//esq.h-cdn.co/assets/esquire/20170222163545/images/blank.png" data-src="http://esq.h-cdn.co/assets/17/08/320x160/landscape-1487806545-index-image.jpg" alt=""
+nopin="nopin"  /></div></div><div
+class="module-story--inner"><div
+class="module-story--text"><div
+class="module-story--category"></div>
+<span
+class="module-story--title link-txt">5 Ways to Make Your Life More Stylish Right Now</span></div></div>
+</a></div><div
+class="module-story module-story-3" data-uid="article.53301">
+<a
+href="/entertainment/movies/a53301/biggest-oscar-snubs-of-all-time/" class="module-story--link link" title="The 10 Biggest Snubs in Oscar History"><div
+class="module-story--image"><div
+class="module-story--image-inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://esq.h-cdn.co/assets/17/08/320x160/landscape-1487718797-oscar-snubs-social-illo.jpg"
+data-img320-w = "320"
+data-img320-h = "160"
+data-cut=320
+src="//esq.h-cdn.co/assets/esquire/20170222163545/images/blank.png" data-src="http://esq.h-cdn.co/assets/17/08/320x160/landscape-1487718797-oscar-snubs-social-illo.jpg" alt=""
+nopin="nopin"  /></div></div><div
+class="module-story--inner"><div
+class="module-story--text"><div
+class="module-story--category"></div>
+<span
+class="module-story--title link-txt">The 10 Biggest Snubs in Oscar History</span></div></div>
+</a></div><div
+class="module-story module-story-4" data-uid="article.53299">
+<a
+href="/food-drink/drinks/a53299/whisky-older-than-you/" class="module-story--link link" title="What&#039;s It Like to Drink a Whisky Older Than You?"><div
+class="module-story--image"><div
+class="module-story--image-inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://esq.h-cdn.co/assets/17/08/320x160/landscape-1487784654-lead.jpg"
+data-img320-w = "320"
+data-img320-h = "160"
+data-cut=320
+src="//esq.h-cdn.co/assets/esquire/20170222163545/images/blank.png" data-src="http://esq.h-cdn.co/assets/17/08/320x160/landscape-1487784654-lead.jpg" alt=""
+nopin="nopin"  /></div></div><div
+class="module-story--inner"><div
+class="module-story--text"><div
+class="module-story--category"></div>
+<span
+class="module-story--title link-txt">What's It Like to Drink a Whisky Older Than You?</span></div></div>
+</a></div><div
+class="module-story module-story-5" data-uid="article.53291">
+<a
+href="/style/mens-fashion/news/a53291/clarks-originals-veg-tan-collection/" class="module-story--link link" title="Clarks Upgrades Your Favorite Footwear"><div
+class="module-story--image"><div
+class="module-story--image-inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://esq.h-cdn.co/assets/17/08/320x160/landscape-1487707197-clarks-veg-tan.jpg"
+data-img320-w = "320"
+data-img320-h = "160"
+data-cut=320
+src="//esq.h-cdn.co/assets/esquire/20170222163545/images/blank.png" data-src="http://esq.h-cdn.co/assets/17/08/320x160/landscape-1487707197-clarks-veg-tan.jpg" alt=""
+nopin="nopin"  /></div></div><div
+class="module-story--inner"><div
+class="module-story--text"><div
+class="module-story--category"></div>
+<span
+class="module-story--title link-txt">Clarks Upgrades Your Favorite Footwear</span></div></div>
+</a></div></div></div><div
+class="leaderboard"><div
+class="leaderboard--inner"><div
+class="gpt-tag" id="gpt-leaderboard-ad"></div></div></div></div><article
+class="page-container" itemscope itemtype="http://schema.org/Article"> <script id="shop--template" type="text/template"><div class="shop-title"><%= headline %>
+	<% if ( shopSource === "bazaar") { %>
+		<span class="shop-icon--bazaar"></span>
+	<% } %>
+	</div>
+	<!-- single-shop -->
+	<% if ( products.length === 1 ) {
+		var product = products[0]; %>
+		<a href="<%= product.href %>" class="shop-item--wrap" target="_blank">
+			<% if ( product.image ) { %>
+				<div class="shop-item-image-wrap">
+					<div class="shop-item--image" href="" target="_blank">
+						<img src="<%= product.image %>" data-large="<%=product.largeImage%>" class="lazy-image" />
+					</div>
+				</div>
+			<% } %>
+
+			<div class="shop-item--detail-wrap">
+				<% if ( product.name ) { %>
+					<div class="shop-item--name"><%= product.name %></div>
+				<% } %>
+
+				<% if ( product.price ) { %>
+					<div class="shop-item--price"><%= product.price %></div>
+				<% } %>
+
+				<div class="shop-item--button" class="<%= ( product.status === 'out_of_stock') ? 'sold-out' : ''%> ">
+					<i class="icon icon-cart"></i>
+					<span><%= product.buttonLabel %></span>
+				</div>
+			</div>
+		</a>
+		<% if ( product.hasReviews ) { %>
+			<div class="js-modal-show" data-modal-id="modal-reviews" data-review-href="<%= product.reviewsHref %>">
+				<%= product.reviewsLabel %>
+			</div>
+		<% } %>
+
+	<% } else if ( products.length > 1 ) { %>
+	<!-- multi-shop -->
+		<ul class="shop-products">
+			<% _.forEach(products, function(product) { %>
+			<li class="shop-products--results" data-id="<%= product.count %>">
+				<a href="<%= product.href %>"
+				   class="shop-item--wrap"
+				   data-product-name="<%= product.name %>"
+				   target="_blank"
+				>
+					<div class="shop-item">
+						<% if ( product.image ) { %>
+							<div class="shop-item--image" href="" target="_blank">
+								<img src="<%= product.image %>" data-large="<%=product.largeImage%>" class="lazy-image" />
+							</div>
+						<% } %>
+					</div>
+					<div class="shop-item--controls">
+						<div class="shop-item--button-wrap">
+							<div class="shop-item--button" class="<%= ( product.status === 'out_of_stock') ? 'sold-out' : ''%> ">
+								<i class="icon icon-cart"></i>
+								<span><%= product.buttonLabel %></span>
+							</div>
+
+						<% var productBrandName = (product.brand || product.name) %>
+						<% if (productBrandName) { %>
+							<div class="shop-item--designer"><%= productBrandName %></div>
+						<% } %>
+
+						</div>
+
+					</div>
+				</a>
+			</li>
+			<% }); %>
+		</ul>
+	<% } %></script> <div
+class="modal-overlay product-modal-overlay"><div
+id="modal-reviews" class="modal">
+<header
+class="modal-header">
+<button
+id="modal-close" class="modal-close"><i
+class="icon icon-close01"></i></button>
+</header><div
+class="modal-content"></div></div></div><div
+class="modal-overlay product-shop-overlay"><div
+id="modal-shop" class="modal">
+<header
+class="modal-header">
+<button
+id="modal-shop-close" class="modal-close"><i
+class="icon icon-close01"></i></button>
+</header><div
+class="modal-content"></div></div></div> <script id="modal-shop--template" type="text/template"><div class="modal-shop--product-image">
+		<div class="modal-shop--product-image-inner">
+			<% if ( typeof largeImage !== "undefined") { %>
+				<img src="<%=largeImage%>">
+			<% } else { %>
+				<img src="<%=image%>">
+			<% } %>
+		</div>
+	</div>
+	<div class="modal-shop--product-name">
+		<span><%=name%></span>
+	</div>
+	<div class="modal-shop--button-wrap">
+		<a href="<%=href%>"
+		   target="_blank"
+		   data-product-name="<%= name %>"
+		>
+			<div class="modal-shop--product-button">
+				<span><%= buttonLabel %></span>
+			</div>
+		</a>
+	</div></script> <div
+class="standard-article " itemprop="articleBody"><header
+class="content-header standard-article-header"><div
+class="content-header--info"><h1 class="content-header--title standard-article--title" itemprop="headline">This Brand Is Reimagining American-Made Luxury</h1><h2 class="content-header--dek standard-article--dek" itemprop="alternativeHeadline"><p>New York-based Deveaux is creating high-end fashion right here in the States.</p></h2></div>
+</header><div
+class="standard-article-body--container standard-article-body--container-main"><div
+class="standard-article--secondary-content"><div
+class="standard-article--primary-ad " data-id="gpt-ad-vertical-top"><div
+class="ad-gpt-main"><div
+class="gpt-tag " id="gpt-ad-vertical-top"></div></div></div><div
+class="module module-story-list recirc-standard-secondary  " data-tracking-id="recirc-standard-secondary" data-tracking-label="Most Popular "  ><div
+class="module-story-list--header"><div
+class="module-story-list--title">
+Most Popular</div></div><div
+class="module-story-list--stories"></div></div></div><div
+class="standard-article-body--content"><div
+class="standard-article--lead standard-article--lead-image"><div
+class="embedded-image--lead"><div
+class="embedded-image--lead-inner">
+<img
+class="lazy-image swap-image embedded-image--image  zoomable   "
+data-img320="http://esq.h-cdn.co/assets/17/06/480x240/landscape-1486570293-deveaux.jpg"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+data-zoom="http://esq.h-cdn.co/assets/17/06/1600x800/landscape-1486570293-deveaux.jpg"  src="//esq.h-cdn.co/assets/esquire/20170222163545/images/blank.png" data-src="http://esq.h-cdn.co/assets/17/06/480x240/landscape-1486570293-deveaux.jpg" alt=""
+data-img480="http://esq.h-cdn.co/assets/17/06/640x320/landscape-1486570293-deveaux.jpg"
+data-img480-w = "640"
+data-img480-h = "320"
+data-img640="http://esq.h-cdn.co/assets/17/06/768x384/landscape-1486570293-deveaux.jpg"
+data-img640-w = "768"
+data-img640-h = "384"
+data-img768="http://esq.h-cdn.co/assets/17/06/980x490/landscape-1486570293-deveaux.jpg"
+data-img768-w = "980"
+data-img768-h = "490"
+/><div
+class="zoomable-expand">
+<i
+class="icon icon-expand-arrows link-icon"></i></div><div
+class="embedded-image--lead-image-share"><div
+class="share-module " data-share-location="social-btns-image"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-pinterest "><div
+class="share-button share-button--pinterest "
+data-content-id="80133" data-tracking-id="share-button-pinterest" data-url="http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/" data-image="http://esq.h-cdn.co/assets/17/06/1600x800/gallery-1486570293-deveaux.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Pinterest"
+target="_blank"
+href="//pinterest.com/pin/create/button/?url=http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/&media=http://esq.h-cdn.co/assets/17/06/1600x800/gallery-1486570293-deveaux.jpg&description=This%20Brand%20Is%20Reimagining%20American-Made%20Luxury  - Esquire.com"
+data-share-url="http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/" data-share-media="http://esq.h-cdn.co/assets/17/06/1600x800/gallery-1486570293-deveaux.jpg" data-share-description="This%20Brand%20Is%20Reimagining%20American-Made%20Luxury"
+data-site=" - Esquire.com" data-pin-do="nothing">
+<i
+class="share-button--icon icon icon-pinterest link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="embedded-image--lead-copyright"></div><div
+class="social-byline standard-article-social-byline"><div
+class="social-byline--pub-info"><div
+class="byline " ><div
+class="byline--image">
+<a
+class='link' href='http://www.esquire.com/author/7848/miles-raymer/'><div
+class="icon">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+width="90%" viewBox="0 0 224.2 145.1" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"><title>Author</title>
+<desc>Created with Sketch.</desc>
+<defs></defs>
+<g
+id="Cosmo-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+<g
+id="Author" sketch:type="MSArtboardGroup" fill="#FFFFFF">
+<path
+class="st0" d="M187.3,91.4c-2.4,1.7-4.7,3.3-6.8,4.5c-23.1,13.7-49.1,21.7-85.8,21.7c-23.8,0-57.6-6.9-57.8-22
+c-0.3-17,38.9-23.2,38.9-23.2v-0.6c-18.6-3.8-22-12.8-20.9-17.9c3.9-17.1,46.1-27,91.2-26.5l3.6,19.6c-13.9,0.2-38,2.8-37.6,11
+c0.4,7.9,26.1,5.9,26.1,5.9l0.8,12.1c0,0-38.2,2.7-36.8,14.9c1.3,11.2,42.6,12.5,76-10.7L187.3,91.4z"></path>
+</g>
+</g>
+</svg></div></a></div><div
+class="byline--info "><div
+class="byline--author byline--author-block" itemprop="author" itemscope itemtype="http://schema.org/Person">
+By
+<a
+href="http://www.esquire.com/author/7848/miles-raymer/" class="link link-txt byline--author-name" rel="author"><span
+itemprop="name">Miles Raymer</span></a></div><div
+class="byline--date"><div
+class="publish-date">
+<i
+class="icon icon-clock"></i>
+<time
+datetime="2017-02-08T11:35:01-0500" pubdate itemprop="datePublished">
+Feb 8, 2017
+<span
+class="pubtimestamp"></span>
+</time></div></div></div></div></div><div
+class="social-byline--share"><div
+class="share-module " data-share-location="social-btns-primary"><ul
+class="share-module--buttons"><div
+class="share-module--count">
+<span
+class="share-count "
+data-content-id="80133"
+data-count="aggregate"
+></span></div><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="80133" data-tracking-id="share-button-facebook" data-url="http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/" data-image="http://esq.h-cdn.co/assets/17/06/1600x800/landscape-1486570293-deveaux.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.3/dialog/feed?app_id=171874009543995&name=This+Brand+Is+Reimagining+American-Made+Luxury&description=New+York-based+Deveaux+is+creating+high-end+fashion+right+here+in+the+States.&display=popup&link=http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/&picture=http://esq.h-cdn.co/assets/17/06/1600x800/landscape-1486570293-deveaux.jpg&redirect_uri=http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/&version=v2.3"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="80133" data-tracking-id="share-button-twitter" data-url="http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/" data-image="http://esq.h-cdn.co/assets/17/06/1600x800/landscape-1486570293-deveaux.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/&text=This%20Brand%20Is%20Reimagining%20American-Made%20Luxury&via=Esquire"
+data-site-handle="Esquire">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-sms "><div
+class="share-button share-button--sms "
+data-content-id="80133" data-tracking-id="share-button-sms" data-url="http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/" data-image="http://esq.h-cdn.co/assets/17/06/1600x800/landscape-1486570293-deveaux.jpg">
+<a
+class="share-button--link link " title="SMS" href="sms:?&body=http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/?src=social-text">
+<i
+class="share-button--icon icon icon-sms link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-whatsapp "><div
+class="share-button share-button--whatsapp "
+data-content-id="80133" data-tracking-id="share-button-whatsapp" data-url="http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/" data-image="http://esq.h-cdn.co/assets/17/06/1600x800/landscape-1486570293-deveaux.jpg">
+<a
+class="share-button--link link whatsapp "
+href="#"
+title="Share on WhatsApp"
+data-appurl="whatsapp://send?text=This%20Brand%20Is%20Reimagining%20American-Made%20Luxury%20http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/%3Fsrc%3Dwhats-app"
+data-androidurl="http://www.whatsapp.com/android/"
+data-iosurl="http://www.whatsapp.com/appstore/">			<i
+class="share-button--icon icon icon-whatsapp link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="80133" data-tracking-id="share-button-email" data-url="http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/" data-image="http://esq.h-cdn.co/assets/17/06/1600x800/landscape-1486570293-deveaux.jpg">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=This%20Brand%20Is%20Reimagining%20American-Made%20Luxury&body=http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="standard-article-body--text"><p
+class="dropcap body-el-text standard-body-el-text">On the day before <a
+class="body-el-link standard-body-el-link" href="https://deveauxnewyork.com/" target="_blank" data-tracking-id="recirc-text-link">Deveaux's</a> runway show at this year's New York Fashion Week: Men's, the Lower Manhattan streets full of conspicuously stylish dudes are a mess thanks to the wet, icy snow that the city's being pelted with. But inside the upstart luxury label's Tribeca showroom, the atmosphere is comfortable and warm.</p><p
+class="body-el-text standard-body-el-text">All the pieces are finished, all the models' changes have been sorted out and hung neatly on racks, and designers Matt Breen, Patrick Doss, and Andrea Tsao have time to hang out over a pot of coffee&mdash;a pleasant change from their NYFW debut last year, which necessitated an emergency relocation when the venue canceled on them just hours before their models were supposed to walk.</p><div
+class="ad-gpt-breaker-container"><div
+class="ad-gpt-breaker ad-article-breaker-mobile " data-id="gpt-ad-vertical-top-mobile"><div
+class="ad-article-breaker-text">Advertisement - Continue Reading Below</div><div
+class="gpt-tag" id="gpt-ad-vertical-top-mobile"></div></div></div><p
+class="dropcap body-el-text standard-body-el-text"><div
+class="embedded-image  embedded-image--CM standard-article-embedded-image--CM standard-article-body-el-image"><div
+class="embedded-image--inner">
+<img
+class=" swap-image   zoomable   pinterest-enabled"
+data-pin-description="This Brand Is Reimagining American-Made Luxury - Esquire.com"
+data-pin-url="http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/"
+data-pin-media="http://esq.h-cdn.co/assets/17/06/1600x800/gallery-1486570293-deveaux.jpg"
+data-img320="http://esq.h-cdn.co/assets/17/06/480x439/gallery-1486570750-deveaux-team.jpg"
+data-img320-w = "480"
+data-img320-h = "439"
+data-cut=320
+data-zoom="http://esq.h-cdn.co/assets/17/06/1600x1464/gallery-1486570750-deveaux-team.jpg"  src="//esq.h-cdn.co/assets/esquire/20170222163545/images/blank.png" data-src="http://esq.h-cdn.co/assets/17/06/480x439/gallery-1486570750-deveaux-team.jpg" alt=""
+data-img480="http://esq.h-cdn.co/assets/17/06/640x585/gallery-1486570750-deveaux-team.jpg"
+data-img480-w = "640"
+data-img480-h = "585"
+data-img640="http://esq.h-cdn.co/assets/17/06/640x585/gallery-1486570750-deveaux-team.jpg"
+data-img640-w = "640"
+data-img640-h = "585"
+data-img768="http://esq.h-cdn.co/assets/17/06/768x702/gallery-1486570750-deveaux-team.jpg"
+data-img768-w = "768"
+data-img768-h = "702"
+data-img980="http://esq.h-cdn.co/assets/17/06/640x585/gallery-1486570750-deveaux-team.jpg"
+data-img980-w = "640"
+data-img980-h = "585"
+data-img1024="http://esq.h-cdn.co/assets/17/06/768x702/gallery-1486570750-deveaux-team.jpg"
+data-img1024-w = "768"
+data-img1024-h = "702"
+nopin="nopin"  /><div
+class="zoomable-expand">
+<i
+class="icon icon-expand-arrows link-icon"></i></div><div
+class="image-share"><div
+class="share-module " data-share-location="social-btns-image"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-pinterest "><div
+class="share-button share-button--pinterest "
+data-content-id="80133" data-tracking-id="share-button-pinterest" data-url="http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/" data-image="http://esq.h-cdn.co/assets/17/06/1600x1464/gallery-1486570750-deveaux-team.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Pinterest"
+target="_blank"
+href="//pinterest.com/pin/create/button/?url=http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/&media=http://esq.h-cdn.co/assets/17/06/1600x1464/gallery-1486570750-deveaux-team.jpg&description=This%20Brand%20Is%20Reimagining%20American-Made%20Luxury  - Esquire.com"
+data-share-url="http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/" data-share-media="http://esq.h-cdn.co/assets/17/06/1600x1464/gallery-1486570750-deveaux-team.jpg" data-share-description="This%20Brand%20Is%20Reimagining%20American-Made%20Luxury"
+data-site=" - Esquire.com" data-pin-do="nothing">
+<i
+class="share-button--icon icon icon-pinterest link-icon"></i>
+</a></div></li></ul></div></div></div><div
+class ="embedded-image--info"><div
+class="embedded-image--caption">
+Clockwise from left: Matt Breen, Patrick Doss, Christopher Fenimore, and Andrea Tsao.</div></div></div></p><p
+class="body-el-text standard-body-el-text">The trio's young, but they have a casually refined air about them that seems remarkably mature. You can say just about the same thing about their clothes, too. Their spring/summer '17 collection is confidently understated even at its most daring, using a neutral palette and soft silhouettes&ndash;like cropped drawstring pants matched with tunic-like shirts&ndash;to mellow out the clever way the pieces play around with proportion and symmetry.</p><div
+class="module module-story-list recirc-standard-primary hidden  " data-tracking-id="recirc-standard-primary" data-tracking-label="Most Popular "  ><div
+class="module-story-list--header"><div
+class="module-story-list--title">
+Most Popular</div></div><div
+class="module-story-list--stories"></div></div><p
+class="body-el-text standard-body-el-text">"There's a rule," Doss says. "If we wouldn't wear it, it's got to go, no matter how connected to the idea you are personally."</p><div
+class="embedded-image  embedded-image--RL standard-article-embedded-image--RL standard-article-body-el-image"><div
+class="embedded-image--inner">
+<img
+class=" swap-image   zoomable   pinterest-enabled"
+data-pin-description="This Brand Is Reimagining American-Made Luxury - Esquire.com"
+data-pin-url="http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/"
+data-pin-media="http://esq.h-cdn.co/assets/17/06/1600x800/gallery-1486570293-deveaux.jpg"
+data-img320="http://esq.h-cdn.co/assets/17/06/480x720/gallery-1486570882-deveaux-fw17-look-1.jpg"
+data-img320-w = "480"
+data-img320-h = "720"
+data-cut=320
+data-zoom="http://esq.h-cdn.co/assets/17/06/1600x2400/gallery-1486570882-deveaux-fw17-look-1.jpg"  src="//esq.h-cdn.co/assets/esquire/20170222163545/images/blank.png" data-src="http://esq.h-cdn.co/assets/17/06/480x720/gallery-1486570882-deveaux-fw17-look-1.jpg" alt=""
+data-img480="http://esq.h-cdn.co/assets/17/06/640x960/gallery-1486570882-deveaux-fw17-look-1.jpg"
+data-img480-w = "640"
+data-img480-h = "960"
+data-img640="http://esq.h-cdn.co/assets/17/06/480x720/gallery-1486570882-deveaux-fw17-look-1.jpg"
+data-img640-w = "480"
+data-img640-h = "720"
+data-img768="http://esq.h-cdn.co/assets/17/06/480x720/gallery-1486570882-deveaux-fw17-look-1.jpg"
+data-img768-w = "480"
+data-img768-h = "720"
+data-img980="http://esq.h-cdn.co/assets/17/06/640x960/gallery-1486570882-deveaux-fw17-look-1.jpg"
+data-img980-w = "640"
+data-img980-h = "960"
+data-img1024="http://esq.h-cdn.co/assets/17/06/640x960/gallery-1486570882-deveaux-fw17-look-1.jpg"
+data-img1024-w = "640"
+data-img1024-h = "960"
+nopin="nopin"  /><div
+class="zoomable-expand">
+<i
+class="icon icon-expand-arrows link-icon"></i></div><div
+class="image-share"><div
+class="share-module " data-share-location="social-btns-image"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-pinterest "><div
+class="share-button share-button--pinterest "
+data-content-id="80133" data-tracking-id="share-button-pinterest" data-url="http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/" data-image="http://esq.h-cdn.co/assets/17/06/1600x2400/gallery-1486570882-deveaux-fw17-look-1.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Pinterest"
+target="_blank"
+href="//pinterest.com/pin/create/button/?url=http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/&media=http://esq.h-cdn.co/assets/17/06/1600x2400/gallery-1486570882-deveaux-fw17-look-1.jpg&description=This%20Brand%20Is%20Reimagining%20American-Made%20Luxury  - Esquire.com"
+data-share-url="http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/" data-share-media="http://esq.h-cdn.co/assets/17/06/1600x2400/gallery-1486570882-deveaux-fw17-look-1.jpg" data-share-description="This%20Brand%20Is%20Reimagining%20American-Made%20Luxury"
+data-site=" - Esquire.com" data-pin-do="nothing">
+<i
+class="share-button--icon icon icon-pinterest link-icon"></i>
+</a></div></li></ul></div></div></div></div><p
+class="body-el-text standard-body-el-text">Deveaux was born out of a dare&ndash;or actually. more like a series of dares. Could a retailer like Breen, who'd previously founded SoHo menswear boutique Carson Street Clothiers (alongside Brian Trunzo, who was an initial partner in Deveaux) make it as a designer? Could a scrappy startup break into the men's luxury market? And could they do all that while also manufacturing exclusively in the United States?</p><p
+class="body-el-text standard-body-el-text">"We've faced headwinds from a host of things," Breen admits. For instance, the challenge of finding American manufacturers who could execute exactly what they wanted. "It requires a lot of hand-holding, a lot of back and forth. There's really a lot of steps to that process. We want the quality to be like a lot of European designers who are making things in Italy or Japan. We want to try and push our manufacturers to that point."</p><div
+class="ad-article-breaker standard-article-body-el-breaker"><div
+class="ad-gpt-breaker-container"><div
+class="ad-gpt-breaker mobile-only " data-id="ad-article-breaker-mobile-0"><div
+class="ad-article-breaker-text">Advertisement - Continue Reading Below</div><div
+class="gpt-tag" id="ad-article-breaker-mobile-0"></div></div></div></div><p
+class="body-el-text standard-body-el-text">"We've talked to other designers who've been around for five-plus years," Tsao says, "and when we say that one of our main objectives is to be American luxury and to be made here, the reaction I generally get is, 'You haven't been doing this long enough to realize that that's a huge mistake.'"</p><div
+class="pullquote pullquote-C standard-article-body-el-pullquote-C">
+<i
+class="icon icon-quote"></i><p>"One of our main objectives is to be American luxury and to be made here."</p></div><p
+class="body-el-text standard-body-el-text">Three seasons in, it seems like it wasn't such a mistake after all. The day after our conversation, the trio will send a team of models down the Cadillac House runway in a respectably robust assortment of menswear (with a few women's looks introduced into the mix) in front of hi-def drone footage of the Icelandic landscape, one of the collection's key influences.</p><p
+class="body-el-text standard-body-el-text">The amount of attention it draws will feel like a major step up for Deveaux, as will the collection itself. <span>It's a little more conservative than spring/summer&ndash;lots of dark tones, Scandinavian-inspired knitwear, and a couple of fairly straightforward suits&ndash;but there's still a sense of play hovering around it, expressed through the architectural lines of a robe coat, speckled trousers, and an unabashedly '70s wide-lapelled shearling coat. Overall it feels like a big step forward into maturity, and one that could easily lure in fans of the past American luxury greats like Calvin Klein that the trio are working hard to emulate.</span></p><div
+class="embedded-image  embedded-image--CM standard-article-embedded-image--CM standard-article-body-el-image"><div
+class="embedded-image--inner">
+<img
+class=" swap-image   zoomable   pinterest-enabled"
+data-pin-description="This Brand Is Reimagining American-Made Luxury - Esquire.com"
+data-pin-url="http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/"
+data-pin-media="http://esq.h-cdn.co/assets/17/06/1600x800/gallery-1486570293-deveaux.jpg"
+data-img320="http://esq.h-cdn.co/assets/17/06/480x319/gallery-1486571288-deveaux-in-iceland.jpg"
+data-img320-w = "480"
+data-img320-h = "319"
+data-cut=320
+data-zoom="http://esq.h-cdn.co/assets/17/06/1600x1063/gallery-1486571288-deveaux-in-iceland.jpg"  src="//esq.h-cdn.co/assets/esquire/20170222163545/images/blank.png" data-src="http://esq.h-cdn.co/assets/17/06/480x319/gallery-1486571288-deveaux-in-iceland.jpg" alt=""
+data-img480="http://esq.h-cdn.co/assets/17/06/640x425/gallery-1486571288-deveaux-in-iceland.jpg"
+data-img480-w = "640"
+data-img480-h = "425"
+data-img640="http://esq.h-cdn.co/assets/17/06/640x425/gallery-1486571288-deveaux-in-iceland.jpg"
+data-img640-w = "640"
+data-img640-h = "425"
+data-img768="http://esq.h-cdn.co/assets/17/06/768x510/gallery-1486571288-deveaux-in-iceland.jpg"
+data-img768-w = "768"
+data-img768-h = "510"
+data-img980="http://esq.h-cdn.co/assets/17/06/640x425/gallery-1486571288-deveaux-in-iceland.jpg"
+data-img980-w = "640"
+data-img980-h = "425"
+data-img1024="http://esq.h-cdn.co/assets/17/06/768x510/gallery-1486571288-deveaux-in-iceland.jpg"
+data-img1024-w = "768"
+data-img1024-h = "510"
+nopin="nopin"  /><div
+class="zoomable-expand">
+<i
+class="icon icon-expand-arrows link-icon"></i></div><div
+class="image-share"><div
+class="share-module " data-share-location="social-btns-image"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-pinterest "><div
+class="share-button share-button--pinterest "
+data-content-id="80133" data-tracking-id="share-button-pinterest" data-url="http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/" data-image="http://esq.h-cdn.co/assets/17/06/1600x1063/gallery-1486571288-deveaux-in-iceland.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Pinterest"
+target="_blank"
+href="//pinterest.com/pin/create/button/?url=http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/&media=http://esq.h-cdn.co/assets/17/06/1600x1063/gallery-1486571288-deveaux-in-iceland.jpg&description=This%20Brand%20Is%20Reimagining%20American-Made%20Luxury  - Esquire.com"
+data-share-url="http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/" data-share-media="http://esq.h-cdn.co/assets/17/06/1600x1063/gallery-1486571288-deveaux-in-iceland.jpg" data-share-description="This%20Brand%20Is%20Reimagining%20American-Made%20Luxury"
+data-site=" - Esquire.com" data-pin-do="nothing">
+<i
+class="share-button--icon icon icon-pinterest link-icon"></i>
+</a></div></li></ul></div></div></div><div
+class ="embedded-image--info"><div
+class="embedded-image--caption">
+The Deveaux team in Iceland.</div></div></div><p
+class="body-el-text standard-body-el-text">Deveaux may be hitting its stride, but its designers haven't stopped challenging themselves. Fall/winter also sees the debut of their first footwear collection: a zip boot, a Chelsea boot, and a slip-on in three different combinations of color and leather (plus a fourth option exclusive to the slip-on), produced with the family-owned Canadian brand Viberg Boot. The expansion underlines the team's commitment to doing things their way, and the boots' quality proves the worth of sticking to your principles.</p><p
+class="body-el-text standard-body-el-text">"I think if you listen to criticism all the time," Doss says, "you'll never surprise yourself. There are things sitting on that rack that are from the same tanneries, the same mills that Prada, Valentino, and Herm&egrave;s use. They wouldn't be there on the rack if we'd listened."</p><p
+class="body-el-text standard-body-el-text">"People telling me, 'No, you're insane, you're crazy' is what gets me out of bed," says Breen.</p><div
+class="embed--contentlinks editorial--center single " data-tracking-id="recirc-editorial" data-tracking-label="Related Story"><div
+class="editorial-story-list--header"><div
+class="editorial-story-list--title">Related Story</div></div><div
+class="editorial-story-list--stories"><div
+class="editorial-story single" data-uid="">
+<a
+class="editorial-story--link link embed-contentlink single body-el-link standard-body-el-link" href="/style/mens-fashion/news/g3238/trends-new-york-fashion-week-mens-fall-2017/"><div
+class="editorial-story--img show-images"><div
+class="editorial-story--img-inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://esq.h-cdn.co/assets/17/06/320x160/landscape-1486487183-nyfw.jpg"
+data-img320-w = "320"
+data-img320-h = "160"
+data-cut=320
+src="//esq.h-cdn.co/assets/esquire/20170222163545/images/blank.png" data-src="http://esq.h-cdn.co/assets/17/06/320x160/landscape-1486487183-nyfw.jpg" alt=""
+nopin="nopin"  /></div></div><div
+class="editorial-story--text show-images"><div
+class="editorial-story--title link-txt single">
+<span
+class="editorial-story--title-text">The 10 Things You Need to Know from NYFW: Men's</span></div></div>
+</a></div></div></div></div></div></div><div
+class="ad-marketplace-horizontal"><div
+id="article-marketplace-horizontal"></div></div><div
+class="recirc-end-of-content " data-tracking-id="recirc-end-of-content" data-tracking-label="More from Esquire"><div
+class="module-story--header">More from Esquire:</div><div
+class="module-story-list clearfix"><div
+class="module-story-list--stories"><div
+class="module-story"></div><div
+class="module-story"></div></div></div></div><div
+id="share-sticky-bar" class="share-sticky-bar standard-article--share-fixed"><div
+class="share-module " data-share-location="social-btns-fixed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="80133" data-tracking-id="share-button-facebook" data-url="http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/" data-image="http://esq.h-cdn.co/assets/17/06/1600x800/landscape-1486570293-deveaux.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.3/dialog/feed?app_id=171874009543995&name=This+Brand+Is+Reimagining+American-Made+Luxury&description=New+York-based+Deveaux+is+creating+high-end+fashion+right+here+in+the+States.&display=popup&link=http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/&picture=http://esq.h-cdn.co/assets/17/06/1600x800/landscape-1486570293-deveaux.jpg&redirect_uri=http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/&version=v2.3"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="80133" data-tracking-id="share-button-twitter" data-url="http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/" data-image="http://esq.h-cdn.co/assets/17/06/1600x800/landscape-1486570293-deveaux.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/&text=This%20Brand%20Is%20Reimagining%20American-Made%20Luxury&via=Esquire"
+data-site-handle="Esquire">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-sms "><div
+class="share-button share-button--sms "
+data-content-id="80133" data-tracking-id="share-button-sms" data-url="http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/" data-image="http://esq.h-cdn.co/assets/17/06/1600x800/landscape-1486570293-deveaux.jpg">
+<a
+class="share-button--link link " title="SMS" href="sms:?&body=http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/?src=social-text">
+<i
+class="share-button--icon icon icon-sms link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-whatsapp "><div
+class="share-button share-button--whatsapp "
+data-content-id="80133" data-tracking-id="share-button-whatsapp" data-url="http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/" data-image="http://esq.h-cdn.co/assets/17/06/1600x800/landscape-1486570293-deveaux.jpg">
+<a
+class="share-button--link link whatsapp "
+href="#"
+title="Share on WhatsApp"
+data-appurl="whatsapp://send?text=This%20Brand%20Is%20Reimagining%20American-Made%20Luxury%20http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/%3Fsrc%3Dwhats-app"
+data-androidurl="http://www.whatsapp.com/android/"
+data-iosurl="http://www.whatsapp.com/appstore/">			<i
+class="share-button--icon icon icon-whatsapp link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="80133" data-tracking-id="share-button-email" data-url="http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/" data-image="http://esq.h-cdn.co/assets/17/06/1600x800/landscape-1486570293-deveaux.jpg">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=This%20Brand%20Is%20Reimagining%20American-Made%20Luxury&body=http://www.esquire.com/style/mens-fashion/news/a52942/deveaux-designer-profile/?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div><div
+class="module module-recommended norewrite standard-article-module-recommended" ></div><div
+id="transporter" class="landing-feed-container" data-tracking-id="artTrnsprtr" data-tracking-label="More From Fashion"><div
+class="transporter-header"><div
+class="transporter-header--byline">More From</div><div
+class="transporter-header--name"><a
+href="http://www.esquire.com/style/mens-fashion" class="link link-txt">Fashion</a></div></div><div
+class="landing-feed--story transporter-story-1"><div
+class="landing-feed--story-inner"><div
+class="landing-feed--story-container" data-uid="article.53359"><div
+class="landing-feed--story-image">
+<a
+href="/style/mens-fashion/news/a53359/tip-sheet-the-code/" class="link story-image--link"><div
+class="story-image--inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://esq.h-cdn.co/assets/17/08/480x240/landscape-1487806545-index-image.jpg"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+src="//esq.h-cdn.co/assets/esquire/20170222163545/images/blank.png" data-src="http://esq.h-cdn.co/assets/17/08/480x240/landscape-1487806545-index-image.jpg" alt=""
+data-img980="http://esq.h-cdn.co/assets/17/08/640x320/landscape-1487806545-index-image.jpg"
+data-img980-w = "640"
+data-img980-h = "320"
+nopin="nopin"  /></div></a></div><div
+class="landing-feed--story-utils"><div
+class="landing-feed--story-section">
+<a
+class="landing-feed--story-section-name link link-txt" href="/style/mens-fashion/">Fashion</a></div><div
+class="landing-feed--story-shares">
+<i
+class="icon icon-share"></i>
+<span
+class="landing-feed--story-shares-text">Share</span><div
+class="share landing-share share-bar"><div
+class="share-module " data-share-location="social-btns-feed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="80718" data-tracking-id="share-button-facebook" data-url="http://www.esquire.com/style/mens-fashion/news/a53359/tip-sheet-the-code/" data-image="http://esq.h-cdn.co/assets/17/08/1600x800/landscape-1487806545-index-image.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.3/dialog/feed?app_id=171874009543995&name=5+Ways+to+Make+Your+Life+More+Stylish+Right+Now&description=Our+editors+weigh+in+on+the+clothes%2C+places%2C+and+objects+improving+their+everyday+existence.&display=popup&link=http://www.esquire.com/style/mens-fashion/news/a53359/tip-sheet-the-code/&picture=http://esq.h-cdn.co/assets/17/08/1600x800/landscape-1487806545-index-image.jpg&redirect_uri=http://www.esquire.com/style/mens-fashion/news/a53359/tip-sheet-the-code/&version=v2.3"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="80718" data-tracking-id="share-button-twitter" data-url="http://www.esquire.com/style/mens-fashion/news/a53359/tip-sheet-the-code/" data-image="http://esq.h-cdn.co/assets/17/08/1600x800/landscape-1487806545-index-image.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.esquire.com/style/mens-fashion/news/a53359/tip-sheet-the-code/&text=5%20Ways%20to%20Make%20Your%20Life%20More%20Stylish%20Right%20Now&via=Esquire"
+data-site-handle="Esquire">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="80718" data-tracking-id="share-button-email" data-url="http://www.esquire.com/style/mens-fashion/news/a53359/tip-sheet-the-code/" data-image="http://esq.h-cdn.co/assets/17/08/1600x800/landscape-1487806545-index-image.jpg">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=5%20Ways%20to%20Make%20Your%20Life%20More%20Stylish%20Right%20Now&body=http://www.esquire.com/style/mens-fashion/news/a53359/tip-sheet-the-code/?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="landing-feed--story-content">
+<a
+class="landing-feed--story-title link link-txt" href="/style/mens-fashion/news/a53359/tip-sheet-the-code/">5 Ways to Make Your Life More Stylish Right Now</a></div></div></div></div><div
+class="landing-feed--story transporter-story-2"><div
+class="landing-feed--story-inner"><div
+class="landing-feed--story-container" data-uid="gallery.3252"><div
+class="landing-feed--story-image">
+<a
+href="/style/mens-fashion/advice/g3252/best-menswear-pink/" class="link story-image--link"><div
+class="story-image--inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://esq.h-cdn.co/assets/17/08/480x240/landscape-1487787219-pink.jpg"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+src="//esq.h-cdn.co/assets/esquire/20170222163545/images/blank.png" data-src="http://esq.h-cdn.co/assets/17/08/480x240/landscape-1487787219-pink.jpg" alt=""
+data-img980="http://esq.h-cdn.co/assets/17/08/640x320/landscape-1487787219-pink.jpg"
+data-img980-w = "640"
+data-img980-h = "320"
+nopin="nopin"  /></div></a></div><div
+class="landing-feed--story-utils"><div
+class="landing-feed--story-section">
+<a
+class="landing-feed--story-section-name link link-txt" href="/style/mens-fashion/">Fashion</a></div><div
+class="landing-feed--story-shares">
+<i
+class="icon icon-share"></i>
+<span
+class="landing-feed--story-shares-text">Share</span><div
+class="share landing-share share-bar"><div
+class="share-module " data-share-location="social-btns-feed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="80663" data-tracking-id="share-button-facebook" data-url="http://www.esquire.com/style/mens-fashion/advice/g3252/best-menswear-pink/" data-image="http://esq.h-cdn.co/assets/17/08/1024x512/landscape-1487787219-pink.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.3/dialog/feed?app_id=171874009543995&name=It%27s+Time+to+Work+More+Pink+Into+Your+Wardrobe&description=And+there%27s+never+been+a+better+moment+to+do+it.&display=popup&link=http://www.esquire.com/style/mens-fashion/advice/g3252/best-menswear-pink/&picture=http://esq.h-cdn.co/assets/17/08/1024x512/landscape-1487787219-pink.jpg&redirect_uri=http://www.esquire.com/style/mens-fashion/advice/g3252/best-menswear-pink/&version=v2.3"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="80663" data-tracking-id="share-button-twitter" data-url="http://www.esquire.com/style/mens-fashion/advice/g3252/best-menswear-pink/" data-image="http://esq.h-cdn.co/assets/17/08/1024x512/landscape-1487787219-pink.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.esquire.com/style/mens-fashion/advice/g3252/best-menswear-pink/&text=It%27s%20Time%20for%20You%20to%20Start%20Wearing%20Pink&via=Esquire"
+data-site-handle="Esquire">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="80663" data-tracking-id="share-button-email" data-url="http://www.esquire.com/style/mens-fashion/advice/g3252/best-menswear-pink/" data-image="http://esq.h-cdn.co/assets/17/08/1024x512/landscape-1487787219-pink.jpg">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=It%27s%20Time%20to%20Work%20More%20Pink%20Into%20Your%20Wardrobe&body=http://www.esquire.com/style/mens-fashion/advice/g3252/best-menswear-pink/?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="landing-feed--story-content">
+<a
+class="landing-feed--story-title link link-txt" href="/style/mens-fashion/advice/g3252/best-menswear-pink/">It's Time for You to Start Wearing Pink</a></div></div></div></div><div
+class="landing-feed--ad landing-feed--ad-vertical"><div
+class="ad-gpt-vertical"><div
+class="gpt-tag" id="gpt-ad-vertical-bottom"></div></div></div><div
+class="landing-feed--story transporter-story-3"><div
+class="landing-feed--story-inner"><div
+class="landing-feed--story-container" data-uid="article.53325"><div
+class="landing-feed--story-image">
+<a
+href="/style/mens-fashion/news/a53325/jordan-brand-all-star-weekend/" class="link story-image--link"><div
+class="story-image--inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://esq.h-cdn.co/assets/17/08/480x240/landscape-1487780177-nola-gotta-shine.jpg"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+src="//esq.h-cdn.co/assets/esquire/20170222163545/images/blank.png" data-src="http://esq.h-cdn.co/assets/17/08/480x240/landscape-1487780177-nola-gotta-shine.jpg" alt=""
+data-img980="http://esq.h-cdn.co/assets/17/08/640x320/landscape-1487780177-nola-gotta-shine.jpg"
+data-img980-w = "640"
+data-img980-h = "320"
+nopin="nopin"  /></div></a></div><div
+class="landing-feed--story-utils"><div
+class="landing-feed--story-section">
+<a
+class="landing-feed--story-section-name link link-txt" href="/style/mens-fashion/">Fashion</a></div><div
+class="landing-feed--story-shares">
+<i
+class="icon icon-share"></i>
+<span
+class="landing-feed--story-shares-text">Share</span><div
+class="share landing-share share-bar"><div
+class="share-module " data-share-location="social-btns-feed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="80669" data-tracking-id="share-button-facebook" data-url="http://www.esquire.com/style/mens-fashion/news/a53325/jordan-brand-all-star-weekend/" data-image="http://esq.h-cdn.co/assets/17/08/1600x800/landscape-1487780177-nola-gotta-shine.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.3/dialog/feed?app_id=171874009543995&name=How+Jordan+Brand+Brought+Style+and+Substance+to+All-Star+Weekend&description=Plus+lots+of+dope+shoes.&display=popup&link=http://www.esquire.com/style/mens-fashion/news/a53325/jordan-brand-all-star-weekend/&picture=http://esq.h-cdn.co/assets/17/08/1600x800/landscape-1487780177-nola-gotta-shine.jpg&redirect_uri=http://www.esquire.com/style/mens-fashion/news/a53325/jordan-brand-all-star-weekend/&version=v2.3"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="80669" data-tracking-id="share-button-twitter" data-url="http://www.esquire.com/style/mens-fashion/news/a53325/jordan-brand-all-star-weekend/" data-image="http://esq.h-cdn.co/assets/17/08/1600x800/landscape-1487780177-nola-gotta-shine.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.esquire.com/style/mens-fashion/news/a53325/jordan-brand-all-star-weekend/&text=How%20Jordan%20Brand%20Brought%20Style%20and%20Substance%20to%20All-Star%20Weekend&via=Esquire"
+data-site-handle="Esquire">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="80669" data-tracking-id="share-button-email" data-url="http://www.esquire.com/style/mens-fashion/news/a53325/jordan-brand-all-star-weekend/" data-image="http://esq.h-cdn.co/assets/17/08/1600x800/landscape-1487780177-nola-gotta-shine.jpg">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=How%20Jordan%20Brand%20Brought%20Style%20and%20Substance%20to%20All-Star%20Weekend&body=http://www.esquire.com/style/mens-fashion/news/a53325/jordan-brand-all-star-weekend/?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="landing-feed--story-content">
+<a
+class="landing-feed--story-title link link-txt" href="/style/mens-fashion/news/a53325/jordan-brand-all-star-weekend/">How Jordan Brand Brought Style and Substance to All-Star Weekend</a></div></div></div></div><div
+class="landing-feed--story transporter-story-4"><div
+class="landing-feed--story-inner"><div
+class="landing-feed--story-container" data-sponsor="Hugo_Boss" data-uid="article.52906"><div
+class="landing-feed--story-image">
+<a
+href="/style/mens-fashion/a52906/3-ways-to-dress-for-awards-season/" class="link story-image--link"><div
+class="story-image--inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://esq.h-cdn.co/assets/17/06/480x240/landscape-1486492665-hugoboss-lede-05.jpeg"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+src="//esq.h-cdn.co/assets/esquire/20170222163545/images/blank.png" data-src="http://esq.h-cdn.co/assets/17/06/480x240/landscape-1486492665-hugoboss-lede-05.jpeg" alt=""
+data-img980="http://esq.h-cdn.co/assets/17/06/640x320/landscape-1486492665-hugoboss-lede-05.jpeg"
+data-img980-w = "640"
+data-img980-h = "320"
+nopin="nopin"  /></div></a></div><div
+class="landing-feed--story-utils"><div
+class="landing-feed--story-section">
+<a
+class="landing-feed--story-section-name link link-txt" href="/style/mens-fashion/">Fashion</a></div><div
+class="landing-feed--story-shares">
+<i
+class="icon icon-share"></i>
+<span
+class="landing-feed--story-shares-text">Share</span><div
+class="share landing-share share-bar"><div
+class="share-module " data-share-location="social-btns-feed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="80081" data-tracking-id="share-button-facebook" data-url="http://www.esquire.com/style/mens-fashion/a52906/3-ways-to-dress-for-awards-season/" data-image="http://esq.h-cdn.co/assets/17/06/1600x800/landscape-1486492665-hugoboss-lede-05.jpeg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.3/dialog/feed?app_id=171874009543995&name=3+Ways+to+Look+Like+a+Style+Star+During+Awards+Season&description=Even+if+you%27re+not+getting+your+photo+taken+on+the+red+carpet.+&display=popup&link=http://www.esquire.com/style/mens-fashion/a52906/3-ways-to-dress-for-awards-season/&picture=http://esq.h-cdn.co/assets/17/06/1600x800/landscape-1486492665-hugoboss-lede-05.jpeg&redirect_uri=http://www.esquire.com/style/mens-fashion/a52906/3-ways-to-dress-for-awards-season/&version=v2.3"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="80081" data-tracking-id="share-button-twitter" data-url="http://www.esquire.com/style/mens-fashion/a52906/3-ways-to-dress-for-awards-season/" data-image="http://esq.h-cdn.co/assets/17/06/1600x800/landscape-1486492665-hugoboss-lede-05.jpeg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.esquire.com/style/mens-fashion/a52906/3-ways-to-dress-for-awards-season/&text=3%20Ways%20to%20Look%20Like%20a%20Style%20Star%20During%20Awards%20Season&via=Esquire"
+data-site-handle="Esquire">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="80081" data-tracking-id="share-button-email" data-url="http://www.esquire.com/style/mens-fashion/a52906/3-ways-to-dress-for-awards-season/" data-image="http://esq.h-cdn.co/assets/17/06/1600x800/landscape-1486492665-hugoboss-lede-05.jpeg">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=3%20Ways%20to%20Look%20Like%20a%20Style%20Star%20During%20Awards%20Season&body=http://www.esquire.com/style/mens-fashion/a52906/3-ways-to-dress-for-awards-season/?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="landing-feed--story-content">
+<a
+class="landing-feed--story-title link link-txt" href="/style/mens-fashion/a52906/3-ways-to-dress-for-awards-season/">3 Ways to Look Like a Style Star During Awards Season</a><div
+class="module-story--sponsor link-txt plaintext-created-for">Created for Hugo_Boss</div></div></div></div></div><div
+class="landing-feed--story transporter-story-5"><div
+class="landing-feed--story-inner"><div
+class="landing-feed--story-container" data-uid="article.53309"><div
+class="landing-feed--story-image">
+<a
+href="/style/mens-fashion/news/a53309/andy-warhol-sick-surgery/" class="link story-image--link"><div
+class="story-image--inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://esq.h-cdn.co/assets/17/08/480x240/landscape-1487728842-gettyimages-162930059.jpg"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+src="//esq.h-cdn.co/assets/esquire/20170222163545/images/blank.png" data-src="http://esq.h-cdn.co/assets/17/08/480x240/landscape-1487728842-gettyimages-162930059.jpg" alt=""
+data-img980="http://esq.h-cdn.co/assets/17/08/640x320/landscape-1487728842-gettyimages-162930059.jpg"
+data-img980-w = "640"
+data-img980-h = "320"
+nopin="nopin"  /></div></a></div><div
+class="landing-feed--story-utils"><div
+class="landing-feed--story-section">
+<a
+class="landing-feed--story-section-name link link-txt" href="/style/mens-fashion/">Fashion</a></div><div
+class="landing-feed--story-shares">
+<i
+class="icon icon-share"></i>
+<span
+class="landing-feed--story-shares-text">Share</span><div
+class="share landing-share share-bar"><div
+class="share-module " data-share-location="social-btns-feed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="80650" data-tracking-id="share-button-facebook" data-url="http://www.esquire.com/style/mens-fashion/news/a53309/andy-warhol-sick-surgery/" data-image="http://esq.h-cdn.co/assets/17/08/1024x512/landscape-1487728842-gettyimages-162930059.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.3/dialog/feed?app_id=171874009543995&name=Andy+Warhol+Was+Sick+for+at+Least+a+Month+Before+He+Died&description=This+New+York+Times+interview+suggests+his+surgery+wasn%27t+so+routine+after+all.&display=popup&link=http://www.esquire.com/style/mens-fashion/news/a53309/andy-warhol-sick-surgery/&picture=http://esq.h-cdn.co/assets/17/08/1024x512/landscape-1487728842-gettyimages-162930059.jpg&redirect_uri=http://www.esquire.com/style/mens-fashion/news/a53309/andy-warhol-sick-surgery/&version=v2.3"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="80650" data-tracking-id="share-button-twitter" data-url="http://www.esquire.com/style/mens-fashion/news/a53309/andy-warhol-sick-surgery/" data-image="http://esq.h-cdn.co/assets/17/08/1024x512/landscape-1487728842-gettyimages-162930059.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.esquire.com/style/mens-fashion/news/a53309/andy-warhol-sick-surgery/&text=Andy%20Warhol%20Was%20Sick%20for%20at%20Least%20a%20Month%20Before%20He%20Died&via=Esquire"
+data-site-handle="Esquire">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="80650" data-tracking-id="share-button-email" data-url="http://www.esquire.com/style/mens-fashion/news/a53309/andy-warhol-sick-surgery/" data-image="http://esq.h-cdn.co/assets/17/08/1024x512/landscape-1487728842-gettyimages-162930059.jpg">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=Andy%20Warhol%20Was%20Sick%20for%20at%20Least%20a%20Month%20Before%20He%20Died&body=http://www.esquire.com/style/mens-fashion/news/a53309/andy-warhol-sick-surgery/?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="landing-feed--story-content">
+<a
+class="landing-feed--story-title link link-txt" href="/style/mens-fashion/news/a53309/andy-warhol-sick-surgery/">Andy Warhol Was Sick for at Least a Month Before He Died</a></div></div></div></div><div
+class="landing-feed--story transporter-story-6"><div
+class="landing-feed--story-inner"><div
+class="landing-feed--story-container" data-uid="article.53294"><div
+class="landing-feed--story-image">
+<a
+href="/style/mens-fashion/news/a53294/adidas-kith-naked-city-sock-nmd/" class="link story-image--link"><div
+class="story-image--inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://esq.h-cdn.co/assets/17/08/480x240/landscape-1487719133-adidas-consortium-kithxnaked-concept-5.jpg"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+src="//esq.h-cdn.co/assets/esquire/20170222163545/images/blank.png" data-src="http://esq.h-cdn.co/assets/17/08/480x240/landscape-1487719133-adidas-consortium-kithxnaked-concept-5.jpg" alt=""
+data-img980="http://esq.h-cdn.co/assets/17/08/640x320/landscape-1487719133-adidas-consortium-kithxnaked-concept-5.jpg"
+data-img980-w = "640"
+data-img980-h = "320"
+nopin="nopin"  /></div></a></div><div
+class="landing-feed--story-utils"><div
+class="landing-feed--story-section">
+<a
+class="landing-feed--story-section-name link link-txt" href="/style/mens-fashion/">Fashion</a></div><div
+class="landing-feed--story-shares">
+<i
+class="icon icon-share"></i>
+<span
+class="landing-feed--story-shares-text">Share</span><div
+class="share landing-share share-bar"><div
+class="share-module " data-share-location="social-btns-feed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="80627" data-tracking-id="share-button-facebook" data-url="http://www.esquire.com/style/mens-fashion/news/a53294/adidas-kith-naked-city-sock-nmd/" data-image="http://esq.h-cdn.co/assets/17/08/1600x800/landscape-1487719133-adidas-consortium-kithxnaked-concept-5.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.3/dialog/feed?app_id=171874009543995&name=The+%28Seriously+Cool%29+New+Adidas+NMD+Was+Made+for+Everyone&description=The+City+Sock+2+from+Kith+and+Naked+isn%27t+buying+into+old-school+gender+divides.&display=popup&link=http://www.esquire.com/style/mens-fashion/news/a53294/adidas-kith-naked-city-sock-nmd/&picture=http://esq.h-cdn.co/assets/17/08/1600x800/landscape-1487719133-adidas-consortium-kithxnaked-concept-5.jpg&redirect_uri=http://www.esquire.com/style/mens-fashion/news/a53294/adidas-kith-naked-city-sock-nmd/&version=v2.3"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="80627" data-tracking-id="share-button-twitter" data-url="http://www.esquire.com/style/mens-fashion/news/a53294/adidas-kith-naked-city-sock-nmd/" data-image="http://esq.h-cdn.co/assets/17/08/1600x800/landscape-1487719133-adidas-consortium-kithxnaked-concept-5.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.esquire.com/style/mens-fashion/news/a53294/adidas-kith-naked-city-sock-nmd/&text=The%20%28Seriously%20Cool%29%20New%20Adidas%20NMD%20Was%20Made%20for%20Everyone&via=Esquire"
+data-site-handle="Esquire">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="80627" data-tracking-id="share-button-email" data-url="http://www.esquire.com/style/mens-fashion/news/a53294/adidas-kith-naked-city-sock-nmd/" data-image="http://esq.h-cdn.co/assets/17/08/1600x800/landscape-1487719133-adidas-consortium-kithxnaked-concept-5.jpg">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=The%20%28Seriously%20Cool%29%20New%20Adidas%20NMD%20Was%20Made%20for%20Everyone&body=http://www.esquire.com/style/mens-fashion/news/a53294/adidas-kith-naked-city-sock-nmd/?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="landing-feed--story-content">
+<a
+class="landing-feed--story-title link link-txt" href="/style/mens-fashion/news/a53294/adidas-kith-naked-city-sock-nmd/">The (Seriously Cool) New Adidas NMD Was Made for Everyone</a></div></div></div></div><div
+class="landing-feed--story transporter-story-7"><div
+class="landing-feed--story-inner"><div
+class="landing-feed--story-container" data-uid="article.53291"><div
+class="landing-feed--story-image">
+<a
+href="/style/mens-fashion/news/a53291/clarks-originals-veg-tan-collection/" class="link story-image--link"><div
+class="story-image--inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://esq.h-cdn.co/assets/17/08/480x240/landscape-1487707197-clarks-veg-tan.jpg"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+src="//esq.h-cdn.co/assets/esquire/20170222163545/images/blank.png" data-src="http://esq.h-cdn.co/assets/17/08/480x240/landscape-1487707197-clarks-veg-tan.jpg" alt=""
+data-img980="http://esq.h-cdn.co/assets/17/08/640x320/landscape-1487707197-clarks-veg-tan.jpg"
+data-img980-w = "640"
+data-img980-h = "320"
+nopin="nopin"  /></div></a></div><div
+class="landing-feed--story-utils"><div
+class="landing-feed--story-section">
+<a
+class="landing-feed--story-section-name link link-txt" href="/style/mens-fashion/">Fashion</a></div><div
+class="landing-feed--story-shares">
+<i
+class="icon icon-share"></i>
+<span
+class="landing-feed--story-shares-text">Share</span><div
+class="share landing-share share-bar"><div
+class="share-module " data-share-location="social-btns-feed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="80623" data-tracking-id="share-button-facebook" data-url="http://www.esquire.com/style/mens-fashion/news/a53291/clarks-originals-veg-tan-collection/" data-image="http://esq.h-cdn.co/assets/17/08/768x384/landscape-1487707197-clarks-veg-tan.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.3/dialog/feed?app_id=171874009543995&name=Clarks+Just+Gave+Your+Favorite+Footwear+a+Major+Upgrade&description=Five+of+the+brand%27s+classic+silhouettes+get+wrapped+in+luxe%2C+veg-tan+leather.&display=popup&link=http://www.esquire.com/style/mens-fashion/news/a53291/clarks-originals-veg-tan-collection/&picture=http://esq.h-cdn.co/assets/17/08/768x384/landscape-1487707197-clarks-veg-tan.jpg&redirect_uri=http://www.esquire.com/style/mens-fashion/news/a53291/clarks-originals-veg-tan-collection/&version=v2.3"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="80623" data-tracking-id="share-button-twitter" data-url="http://www.esquire.com/style/mens-fashion/news/a53291/clarks-originals-veg-tan-collection/" data-image="http://esq.h-cdn.co/assets/17/08/768x384/landscape-1487707197-clarks-veg-tan.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.esquire.com/style/mens-fashion/news/a53291/clarks-originals-veg-tan-collection/&text=Clarks%20Just%20Gave%20Your%20Favorite%20Footwear%20a%20Major%20Upgrade&via=Esquire"
+data-site-handle="Esquire">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="80623" data-tracking-id="share-button-email" data-url="http://www.esquire.com/style/mens-fashion/news/a53291/clarks-originals-veg-tan-collection/" data-image="http://esq.h-cdn.co/assets/17/08/768x384/landscape-1487707197-clarks-veg-tan.jpg">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=Clarks%20Just%20Gave%20Your%20Favorite%20Footwear%20a%20Major%20Upgrade&body=http://www.esquire.com/style/mens-fashion/news/a53291/clarks-originals-veg-tan-collection/?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="landing-feed--story-content">
+<a
+class="landing-feed--story-title link link-txt" href="/style/mens-fashion/news/a53291/clarks-originals-veg-tan-collection/">Clarks Just Gave Your Favorite Footwear a Major Upgrade</a></div></div></div></div><div
+class="landing-feed--story transporter-story-8"><div
+class="landing-feed--story-inner"><div
+class="landing-feed--story-container" data-uid="article.53288"><div
+class="landing-feed--story-image">
+<a
+href="/style/mens-fashion/news/a53288/supreme-branded-metrocards-nyc-subways/" class="link story-image--link"><div
+class="story-image--inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://esq.h-cdn.co/assets/17/08/480x240/landscape-1487694075-lead.jpg"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+src="//esq.h-cdn.co/assets/esquire/20170222163545/images/blank.png" data-src="http://esq.h-cdn.co/assets/17/08/480x240/landscape-1487694075-lead.jpg" alt=""
+data-img980="http://esq.h-cdn.co/assets/17/08/640x320/landscape-1487694075-lead.jpg"
+data-img980-w = "640"
+data-img980-h = "320"
+nopin="nopin"  /></div></a></div><div
+class="landing-feed--story-utils"><div
+class="landing-feed--story-section">
+<a
+class="landing-feed--story-section-name link link-txt" href="/style/mens-fashion/">Fashion</a></div><div
+class="landing-feed--story-shares">
+<i
+class="icon icon-share"></i>
+<span
+class="landing-feed--story-shares-text">Share</span><div
+class="share landing-share share-bar"><div
+class="share-module " data-share-location="social-btns-feed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="80618" data-tracking-id="share-button-facebook" data-url="http://www.esquire.com/style/mens-fashion/news/a53288/supreme-branded-metrocards-nyc-subways/" data-image="http://esq.h-cdn.co/assets/17/08/1600x800/landscape-1487694075-lead.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.3/dialog/feed?app_id=171874009543995&name=The+Supreme-Branded+MetroCard+Is+Here+and+It%27s+Already+Causing+Chaos&description=Because+of+course+it+is.&display=popup&link=http://www.esquire.com/style/mens-fashion/news/a53288/supreme-branded-metrocards-nyc-subways/&picture=http://esq.h-cdn.co/assets/17/08/1600x800/landscape-1487694075-lead.jpg&redirect_uri=http://www.esquire.com/style/mens-fashion/news/a53288/supreme-branded-metrocards-nyc-subways/&version=v2.3"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="80618" data-tracking-id="share-button-twitter" data-url="http://www.esquire.com/style/mens-fashion/news/a53288/supreme-branded-metrocards-nyc-subways/" data-image="http://esq.h-cdn.co/assets/17/08/1600x800/landscape-1487694075-lead.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.esquire.com/style/mens-fashion/news/a53288/supreme-branded-metrocards-nyc-subways/&text=The%20Supreme-Branded%20MetroCard%20Is%20Here%20and%20It%27s%20Already%20Causing%20Chaos&via=Esquire"
+data-site-handle="Esquire">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="80618" data-tracking-id="share-button-email" data-url="http://www.esquire.com/style/mens-fashion/news/a53288/supreme-branded-metrocards-nyc-subways/" data-image="http://esq.h-cdn.co/assets/17/08/1600x800/landscape-1487694075-lead.jpg">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=The%20Supreme-Branded%20MetroCard%20Is%20Here%20and%20It%27s%20Already%20Causing%20Chaos&body=http://www.esquire.com/style/mens-fashion/news/a53288/supreme-branded-metrocards-nyc-subways/?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="landing-feed--story-content">
+<a
+class="landing-feed--story-title link link-txt" href="/style/mens-fashion/news/a53288/supreme-branded-metrocards-nyc-subways/">The Supreme-Branded MetroCard Is Here and It's Already Causing Chaos</a></div></div></div></div><div
+class="landing-feed--story transporter-story-9"><div
+class="landing-feed--story-inner"><div
+class="landing-feed--story-container" data-uid="article.53285"><div
+class="landing-feed--story-image">
+<a
+href="/style/mens-fashion/a53285/how-stylish-men-know-how-to-dress-well/" class="link story-image--link"><div
+class="story-image--inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://esq.h-cdn.co/assets/17/08/480x240/landscape-1487694664-landscape-1487600554-gettyimages-500442484.jpg"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+src="//esq.h-cdn.co/assets/esquire/20170222163545/images/blank.png" data-src="http://esq.h-cdn.co/assets/17/08/480x240/landscape-1487694664-landscape-1487600554-gettyimages-500442484.jpg" alt=""
+data-img980="http://esq.h-cdn.co/assets/17/08/640x320/landscape-1487694664-landscape-1487600554-gettyimages-500442484.jpg"
+data-img980-w = "640"
+data-img980-h = "320"
+nopin="nopin"  /></div></a></div><div
+class="landing-feed--story-utils"><div
+class="landing-feed--story-section">
+<a
+class="landing-feed--story-section-name link link-txt" href="/style/mens-fashion/">Fashion</a></div><div
+class="landing-feed--story-shares">
+<i
+class="icon icon-share"></i>
+<span
+class="landing-feed--story-shares-text">Share</span><div
+class="share landing-share share-bar"><div
+class="share-module " data-share-location="social-btns-feed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="80615" data-tracking-id="share-button-facebook" data-url="http://www.esquire.com/style/mens-fashion/a53285/how-stylish-men-know-how-to-dress-well/" data-image="http://esq.h-cdn.co/assets/17/08/1280x640/landscape-1487694664-landscape-1487600554-gettyimages-500442484.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.3/dialog/feed?app_id=171874009543995&name=The+5+Most+Important+Epiphanies+Every+Stylish+Man+Has&description=Essential+moments+on+the+path+to+dressing+well.&display=popup&link=http://www.esquire.com/style/mens-fashion/a53285/how-stylish-men-know-how-to-dress-well/&picture=http://esq.h-cdn.co/assets/17/08/1280x640/landscape-1487694664-landscape-1487600554-gettyimages-500442484.jpg&redirect_uri=http://www.esquire.com/style/mens-fashion/a53285/how-stylish-men-know-how-to-dress-well/&version=v2.3"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="80615" data-tracking-id="share-button-twitter" data-url="http://www.esquire.com/style/mens-fashion/a53285/how-stylish-men-know-how-to-dress-well/" data-image="http://esq.h-cdn.co/assets/17/08/1280x640/landscape-1487694664-landscape-1487600554-gettyimages-500442484.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.esquire.com/style/mens-fashion/a53285/how-stylish-men-know-how-to-dress-well/&text=The%205%20Most%20Important%20Epiphanies%20Every%20Stylish%20Man%20Has&via=Esquire"
+data-site-handle="Esquire">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="80615" data-tracking-id="share-button-email" data-url="http://www.esquire.com/style/mens-fashion/a53285/how-stylish-men-know-how-to-dress-well/" data-image="http://esq.h-cdn.co/assets/17/08/1280x640/landscape-1487694664-landscape-1487600554-gettyimages-500442484.jpg">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=The%205%20Most%20Important%20Epiphanies%20Every%20Stylish%20Man%20Has&body=http://www.esquire.com/style/mens-fashion/a53285/how-stylish-men-know-how-to-dress-well/?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="landing-feed--story-content">
+<a
+class="landing-feed--story-title link link-txt" href="/style/mens-fashion/a53285/how-stylish-men-know-how-to-dress-well/">The 5 Most Important Epiphanies Every Stylish Man Has</a></div></div></div></div><div
+class="landing-feed--story transporter-story-10"><div
+class="landing-feed--story-inner"><div
+class="landing-feed--story-container" data-uid="gallery.3250"><div
+class="landing-feed--story-image">
+<a
+href="/style/mens-fashion/advice/g3250/how-to-dress-90s/" class="link story-image--link"><div
+class="story-image--inner">
+<img
+class="lazy-image swap-image    "
+data-img320="http://esq.h-cdn.co/assets/17/07/480x240/landscape-1487358269-lead.jpg"
+data-img320-w = "480"
+data-img320-h = "240"
+data-cut=320
+src="//esq.h-cdn.co/assets/esquire/20170222163545/images/blank.png" data-src="http://esq.h-cdn.co/assets/17/07/480x240/landscape-1487358269-lead.jpg" alt=""
+data-img980="http://esq.h-cdn.co/assets/17/07/640x320/landscape-1487358269-lead.jpg"
+data-img980-w = "640"
+data-img980-h = "320"
+nopin="nopin"  /></div></a></div><div
+class="landing-feed--story-utils"><div
+class="landing-feed--story-section">
+<a
+class="landing-feed--story-section-name link link-txt" href="/style/mens-fashion/">Fashion</a></div><div
+class="landing-feed--story-shares">
+<i
+class="icon icon-share"></i>
+<span
+class="landing-feed--story-shares-text">Share</span><div
+class="share landing-share share-bar"><div
+class="share-module " data-share-location="social-btns-feed"><ul
+class="share-module--buttons"><li
+class="share-module--button-wrap share-module--button-wrap-facebook "><div
+class="share-button share-button--facebook "
+data-content-id="80568" data-tracking-id="share-button-facebook" data-url="http://www.esquire.com/style/mens-fashion/advice/g3250/how-to-dress-90s/" data-image="http://esq.h-cdn.co/assets/17/07/1600x800/landscape-1487358269-lead.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Facebook"
+href="//www.facebook.com/v2.3/dialog/feed?app_id=171874009543995&name=Here%27s+How+to+Channel+%2790s+Style+%28and+Actually+Look+Cool%29&description=Think+of+it+as+an+homage%2C+not+a+recreation.&display=popup&link=http://www.esquire.com/style/mens-fashion/advice/g3250/how-to-dress-90s/&picture=http://esq.h-cdn.co/assets/17/07/1600x800/landscape-1487358269-lead.jpg&redirect_uri=http://www.esquire.com/style/mens-fashion/advice/g3250/how-to-dress-90s/&version=v2.3"
+target="_blank">
+<i
+class="share-button--icon icon icon-facebook link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-twitter "><div
+class="share-button share-button--twitter "
+data-content-id="80568" data-tracking-id="share-button-twitter" data-url="http://www.esquire.com/style/mens-fashion/advice/g3250/how-to-dress-90s/" data-image="http://esq.h-cdn.co/assets/17/07/1600x800/landscape-1487358269-lead.jpg">
+<a
+class="share-button--link share-button--open-window link " title="Share on Twitter"
+target="_blank"
+href="//www.twitter.com/share?url=http://www.esquire.com/style/mens-fashion/advice/g3250/how-to-dress-90s/&text=Here%27s%20How%20to%20Channel%20%2790s%20Style%20%28and%20Actually%20Look%20Cool%29&via=Esquire"
+data-site-handle="Esquire">
+<i
+class="share-button--icon icon icon-twitter link-icon"></i>
+</a></div></li><li
+class="share-module--button-wrap share-module--button-wrap-email "><div
+class="share-button share-button--email "
+data-content-id="80568" data-tracking-id="share-button-email" data-url="http://www.esquire.com/style/mens-fashion/advice/g3250/how-to-dress-90s/" data-image="http://esq.h-cdn.co/assets/17/07/1600x800/landscape-1487358269-lead.jpg">
+<a
+class="share-button--link link " title="Email"
+href="mailto:?subject=Here%27s%20How%20to%20Channel%20%2790s%20Style%20%28and%20Actually%20Look%20Cool%29&body=http://www.esquire.com/style/mens-fashion/advice/g3250/how-to-dress-90s/?src=social-email">
+<i
+class="share-button--icon icon icon-email link-icon"></i>
+</a></div></li></ul></div></div></div></div><div
+class="landing-feed--story-content">
+<a
+class="landing-feed--story-title link link-txt" href="/style/mens-fashion/advice/g3250/how-to-dress-90s/">Here's How to Channel '90s Style (and Actually Look Cool)</a></div></div></div></div><div
+class="ad-gpt-breaker-container"><div
+class="ad-gpt-breaker  " data-id="gpt-ad-leaderboard-bottom"><div
+class="gpt-tag" id="gpt-ad-leaderboard-bottom"></div></div></div><ul
+class="tags  tags--transporter "><li
+class="tags--item">
+<a
+data-tracking-id="recirc-SEO-tags" class="tags--link link link-txt" href="/style/" title="Style">
+Style				</a></li><li
+class="tags--item">
+<a
+data-tracking-id="recirc-SEO-tags" class="tags--link link link-txt" href="/style/mens-fashion/" title="Fashion">
+Fashion				</a></li><li
+class="tags--item tags--seo">
+<a
+class="tags--link link link-txt" data-tracking-id="recirc-SEO-tags" href="/style/news/a44587/orlebar-brown-snapshorts/" title="This Luxury Swimwear Brand Just Introduced Totally Customizable Trunks">This Luxury Swimwear Brand Just Introduced Totally Customizable Trunks</a></li><li
+class="tags--item tags--seo">
+<a
+class="tags--link link link-txt" data-tracking-id="recirc-SEO-tags" href="/style/news/a51263/audemars-piguet-sun-xun-art-basel-miami-beach/" title="This Luxury Watch Brand Looks to Contemporary Art for Inspiration">This Luxury Watch Brand Looks to Contemporary Art for Inspiration</a></li><li
+class="tags--item tags--seo">
+<a
+class="tags--link link link-txt" data-tracking-id="recirc-SEO-tags" href="/style/a24546/bluer-launch-0813/" title="Bluer: A New, American-Made Brand to Know">Bluer: A New, American-Made Brand to Know</a></li><li
+class="tags--item tags--seo">
+<a
+class="tags--link link link-txt" data-tracking-id="recirc-SEO-tags" href="/style/mens-fashion/a40262/public-school-cadillac-dubai-show-video/" title="This American Fashion Show in Dubai Showcases a New Kind of Luxury">This American Fashion Show in Dubai Showcases a New Kind of Luxury</a></li><li
+class="tags--item tags--seo">
+<a
+class="tags--link link link-txt" data-tracking-id="recirc-SEO-tags" href="/style/news/a46796/piaget-polo-s/" title="This Luxury Watchmaker Just Introduced a Wildly Wearable Everyday Timepiece">This Luxury Watchmaker Just Introduced a Wildly Wearable Everyday Timepiece</a></li><li
+class="tags--item tags--seo">
+<a
+class="tags--link link link-txt" data-tracking-id="recirc-SEO-tags" href="/style/mens-fashion/a40725/filson-flagship-seattle/" title="This 19th-Century Brand Is Pushing 21st-Century Boundaries">This 19th-Century Brand Is Pushing 21st-Century Boundaries</a></li></ul></div><a
+class="link" id="transporter--load-more" href="http://www.esquire.com/style/mens-fashion"><div
+class="load-more static transporter" data-tracking-id="load-more-bar"><div
+class="load-more--icons">
+<i
+class="icon icon-m icon-arrow-down01 link-icon"></i>
+<i
+class="icon icon-m icon-arrow-down01 link-icon"></i>
+<i
+class="icon icon-m icon-loader link-icon"></i></div><div
+class="load-more-label link-txt">More From Fashion</div></div>
+</a></article><div
+class="amazon-shop-product-modal"><div
+class="product-modal-overlay modal-overlay"><div
+id="modal-product-reviews" class="modal">
+<header
+class="modal-header">
+<button
+class="modal-close"><i
+class="icon icon-close01"></i></button>
+</header><div
+class="modal-content"></div></div></div></div><div
+class="zoomable-container"><div
+id="zoomable-close" class="zoomable-close">
+<i
+class="icon icon-close01"></i></div><div
+class="zoomable-outer"><div
+class="zoomable-inner"><div
+class="zoomable-wrap"></div></div></div></div><div
+class ="footer-outer">
+<footer
+class="footer"><h3 class="footer--logo"><a
+class="link" href="/">
+<svg
+viewBox="0 0 813 137" version="1.1"><title>Group</title>
+<desc>Created with Sketch.</desc>
+<defs>
+<polygon
+id="path-1" points="0.111771909 85 119.6866 85 119.6866 0.00986685021 0.111771909 0.00986685021 0.111771909 85"></polygon>
+</defs>
+<g
+id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g
+id="Artboard">
+<g
+id="Page-1" transform="translate(5.000000, 11.000000)">
+<g
+id="Group-3" transform="translate(239.000000, 33.233000)">
+<mask
+id="mask-2" fill="white">
+<use
+xlink:href="#path-1"></use>
+</mask>
+<g
+id="Clip-2"></g>
+<path
+d="M119.6866,78.5673 L119.6696,0.4663 L79.0806,0.4723 C79.0806,0.4723 80.4556,28.6463 78.3206,34.1203 C74.6926,46.0233 45.4456,44.3333 45.4536,30.4553 C45.4636,14.3243 75.2376,17.0973 75.2376,17.0973 L72.2566,0.4373 C72.2566,0.4373 3.4176,-5.9697 0.1206,30.8273 C-0.6174,56.4743 45.0706,67.1663 78.8566,54.5413 L78.8416,85.0003 L119.6866,78.5673 Z" id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)"></path>
+</g>
+<path
+d="M504.4459,76.9872 C504.0499,76.5702 496.6129,78.4242 491.2229,77.1082 C485.2749,75.6552 484.8879,71.2032 484.8879,65.2822 L484.8909,33.6052 C484.8909,33.6052 440.2899,33.6152 440.2869,33.6152 L440.2869,63.5092 C440.2869,67.0342 440.5829,75.6172 428.0699,75.6172 C422.4439,75.6172 416.0219,75.1432 416.0219,67.0342 L416.0219,33.6052 L371.6709,33.6052 L371.7089,71.6922 C371.7089,93.4062 408.1319,100.0472 445.5549,85.8702 C445.5549,85.8702 463.0709,99.7162 506.8719,89.5352 C506.8719,89.5352 504.9589,77.5272 504.4459,76.9872" id="Fill-4" fill="#FFFFFF"></path>
+<path
+d="M583.441,39.7237 C583.726,35.0427 595.363,33.8417 596.071,39.2577 C596.071,39.2577 583.133,44.7787 583.441,39.7237 M682.383,73.5917 C681.258,73.2167 673.068,75.0587 663.904,71.8827 C649.238,66.7997 646.988,47.1327 664.399,35.8967 L648.105,22.1007 C619.36,33.1777 613.446,33.9667 610.756,34.5817 C609.42,30.6737 603.182,24.1097 589.95,24.8977 C582.754,25.3267 572.058,29.3667 568.965,36.7247 C566.881,41.6827 568.143,47.2497 572.976,51.0537 C579.943,56.5367 593.242,55.1707 593.242,55.1707 C589.055,72.7137 552.587,84.7137 552.587,65.9117 L552.587,33.6497 L509.277,33.6497 L509.277,71.1177 C509.277,89.8357 532.247,94.6777 554.801,93.1887 C586.359,91.1057 604.109,72.9957 610.579,53.4457 L625.975,49.8917 C625.975,49.8917 604.905,77.3527 631.196,89.8417 C646.196,96.9667 673.779,91.4747 684.865,85.5667 C684.865,85.5667 683.025,73.8047 682.383,73.5917" id="Fill-6" fill="#FFFFFF"></path>
+<path
+d="M143.6334,72.2163 C143.6334,72.2163 154.8214,65.1333 166.3204,55.0493 C166.3204,55.0493 176.2254,60.8363 180.7584,67.7163 C180.7584,67.7163 164.9664,64.7163 143.6334,72.2163 M179.4474,78.4863 C174.6954,84.3413 156.0844,84.2853 157.3904,80.4523 C158.7944,76.3283 177.2574,77.3613 179.4474,78.4863 M226.6244,73.5773 C230.7064,69.4303 230.4614,64.3863 226.9974,58.8913 C221.8834,50.7793 207.7584,46.0293 204.3834,39.5913 C202.9004,36.7623 202.9574,33.4023 205.1604,29.2653 L204.3994,25.8683 L156.7374,31.1333 C153.9154,37.4893 156.7934,42.4473 157.0014,43.0303 C122.5714,79.8993 66.7374,80.2333 65.2514,67.2383 C63.8574,55.0523 102.0314,52.3593 102.0314,52.3593 L101.2834,40.2113 C101.2834,40.2113 75.5704,42.2333 75.1844,34.3193 C74.7864,26.1583 98.8394,23.5203 112.7854,23.3593 L109.2264,3.7683 C64.0704,3.2743 21.8624,13.2233 17.9844,30.2823 C16.8204,35.3993 20.2374,44.3993 38.8634,48.1543 L38.8634,48.8083 C38.8634,48.8083 -0.2646,54.9853 0.0014,71.9633 C0.2374,87.0663 33.9874,93.7753 57.8204,93.9423 C106.1114,94.2793 131.5704,78.2743 131.5704,78.2743 C124.8214,96.7363 177.6964,98.9663 214.4044,85.7163 C216.1524,85.0853 230.2584,91.0913 238.8244,94.8783 C238.8244,94.8783 244.3044,81.7533 243.5714,79.9663 C242.9044,78.3413 226.6244,73.5773 226.6244,73.5773" id="Fill-8" fill="#FFFFFF"></path>
+<path
+d="M743.4219,70.2163 C743.4219,61.6513 772.9629,58.7843 772.9629,58.7843 L772.5469,50.2163 C768.2389,50.0983 751.4219,50.7163 751.4219,46.2163 C751.4219,40.3413 777.1529,38.9093 786.1719,38.5913 L784.3209,24.8833 C768.7789,24.9263 698.9469,25.1133 696.0899,44.0123 C694.5469,54.2163 714.6519,56.6263 714.6519,56.6263 L714.6459,57.1063 C714.6459,57.1063 688.3209,61.9733 688.3209,74.7163 C688.3209,100.7163 779.1279,93.4363 802.6329,86.9663 C802.6329,86.9663 800.3579,75.4183 799.3209,74.8833 C798.3829,74.3983 779.3209,77.2163 764.1949,76.8113 C751.8919,76.4813 743.4219,74.5183 743.4219,70.2163" id="Fill-10" fill="#FFFFFF"></path>
+<path
+d="M554.3648,12.7849 C554.3648,20.1619 546.2738,25.3779 532.1138,25.3779 C518.2028,25.3779 509.8498,20.2739 509.8498,12.7849 C509.8498,4.4279 522.0948,0.0009 532.1038,0.0009 C541.8278,0.0009 554.3648,4.3169 554.3648,12.7849" id="Fill-12" fill="#FFFFFF"></path>
+</g>
+</g>
+</g>
+</svg></a></h3><ul
+class="footer--social"><li
+class="footer--social-item footer--social-item-facebook">
+<a
+class="footer--link link" href="https://www.facebook.com/Esquire" target="_blank">
+<i
+class="icon icon-facebook link-icon"></i>
+</a></li><li
+class="footer--social-item footer--social-item-twitter">
+<a
+class="footer--link link" href="https://twitter.com/esquire" target="_blank">
+<i
+class="icon icon-twitter link-icon"></i>
+</a></li><li
+class="footer--social-item footer--social-item-googleplus">
+<a
+class="footer--link link" href="https://plus.google.com/+esquire/videos" target="_blank">
+<i
+class="icon icon-googleplus link-icon"></i>
+</a></li><li
+class="footer--social-item footer--social-item-pinterest">
+<a
+class="footer--link link" href="http://www.pinterest.com/esquiremag/?auto_follow=1" target="_blank">
+<i
+class="icon icon-pinterest link-icon"></i>
+</a></li><li
+class="footer--social-item footer--social-item-tumblr">
+<a
+class="footer--link link" href="http://esquire.tumblr.com/" target="_blank">
+<i
+class="icon icon-tumblr link-icon"></i>
+</a></li><li
+class="footer--social-item footer--social-item-instagram">
+<a
+class="footer--link link" href="http://instagram.com/esquire" target="_blank">
+<i
+class="icon icon-instagram link-icon"></i>
+</a></li><li
+class="footer--social-item footer--social-item-youtube">
+<a
+class="footer--link link" href="https://www.youtube.com/c/esquire?sub_confirmation=1" target="_blank">
+<i
+class="icon icon-youtube link-icon"></i>
+</a></li></ul><ul
+class="footer--links no-related-links"><li><a
+href="https://preferences.hearstmags.com/brands/ESQ/subscribe2.aspx?authId=579C4F1D-8F2C-4898-9F2E-044CF1071AA9&maj=WNL&min=UNDEF">Newsletter</a></li><li><a
+href="https://subscribe.hearstmags.com/subscribe/splits/esquire/esq_digital_footer_link">Digital Editions</a></li><li><a
+href="/about/about-us/">About Us</a></li><li><a
+href="http://www.esquiremediakit.com/r5/home.asp">Media Kit</a></li><li><a
+href="http://www.hearst.com/press-room/">Press Room</a></li><li><a
+href="/about/contact-us/">Contact Us</a></li><li><a
+href="/about/community-guidelines/">Community Guidelines</a></li><li><a
+href="/about/advertise-online/">Advertise Online</a></li><li><a
+href="/about/about-our-ads/">About Our Ads</a></li><li><a
+href="https://w1.buysub.com/pubs/HR/ESQ/ESQ_nameAddrEntry_combo.jsp?cds_page_id=41134&cds_mag_code=ESQ&id=1422381776104&lsid=50271202561015217&vid=1">Customer Service</a></li><li><a
+href="https://subscribe.hearstmags.com/subscribe/splits/esquire/esq_sub_footer_link">Subscribe</a></li><li><a
+href="http://subscribe.hearstmags.com/circulation/shared/index.html">Other Hearst Subscriptions</a></li><li><a
+href="https://subscribe.hearstmags.com/subscribe/splits/esquire/esq_gift_nav_link_footer">Give a Gift</a></li><li><a
+href="/promotions/">Events & Promotions</a></li><li><a
+href="http://www.bestproducts.com/">BestProducts</a></li><li><a
+href="http://sweepstakes.esquire.com">Giveaways</a></li><li><a
+href="http://www.hearst.com/beinggreen/">Being Green</a></li><li><a
+href="/about/oba-policy/">Why Did I Get This Ad?</a></li></ul><div
+class="footer--logo-hearst"><img
+src="//esq.h-cdn.co/assets/esquire/20170222163545/images/blank.png" class="lazy-image" data-src="//esq.h-cdn.co/assets/esquire/20170222163545/images/logo-network-men.png" alt="Hearst Corporation"></div><p
+class="footer--hearst-disclaimer">A Part of Hearst Digital Media</p><div
+class="footer--legal"><p
+class="footer--legal-text">&copy;2017 Hearst Communications, Inc. All Rights Reserved.</p><ul
+class="footer--legal-links"><li
+class="footer--legal-link"><a
+class="link link-txt" href="/about/privacy-policy">Privacy Policy</a></li><li
+class="footer--legal-link"><a
+class="link link-txt" href="/about/privacy-policy#california">Your California Privacy Rights</a></li><li
+class="footer--legal-link"><a
+class="link link-txt" href="/about/terms-of-use">Terms of Use</a></li><li
+class="footer--legal-link"><a
+class="link link-txt" href="/sitemap/">Site Map</a></li></ul></div></footer></div><div
+class="page-container-overlay"></div></div></div> <script type="text/javascript">var JS_BASE_TRANSLATIONS = {"locales":{"locale":"en_US","fallbackLocales":"en_US"},"en_US":{"translation":{"LANG_TYPE_TO_SEARCH":"Type to Search","LANG_PRESS_ENTER_TO_SEARCH":"Press enter to search","LANG_PRESS_ENTER_OR_SELECT_ONE_OF_THE_SUGGESTIONS_BELOW_TO_SEARCH":"Press enter or select one of the suggestions below to search","LANG_LOAD_MORE_STORIES":"Load more stories","LANG_LOADING_MORE_STORIES":"Loading more stories","LANG_JOIN_THE_CONVERSATION":"Join the Conversation!","LANG_SEE_THE_CONVERSATION":"See the Conversation!","LANG_HIDE_THE_CONVERSATION":"Hide the Conversation","LANG_MOST_POPULAR":"Most Popular"}}};</script> </body></html>

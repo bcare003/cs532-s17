@@ -1,0 +1,1488 @@
+<!DOCTYPE html>
+<!--
+===================================================================
+== lovingly brought to you by... ==================================
+===================================================================
+ ______     __  __     ______     ______     __  __     ______
+/\  ___\   /\ \_\ \   /\  __ \   /\  == \   /\ \/\ \   /\  ___\
+\ \ \____  \ \  __ \  \ \ \/\ \  \ \  __<   \ \ \_\ \  \ \___  \
+ \ \_____\  \ \_\ \_\  \ \_____\  \ \_\ \_\  \ \_____\  \/\_____\
+  \/_____/   \/_/\/_/   \/_____/   \/_/ /_/   \/_____/   \/_____/
+
+===================================================================
+=============================== http://www.voxmedia.com/careers ===
+===================================================================
+-->
+
+<!--[if lte IE 8]>   <html class="no-js ie8">
+  <meta http-equiv="X-UA-Compatible" content="IE=8">
+<![endif]-->
+<!--[if IE 9]>       <html class="no-js ie9">   <![endif]-->
+<!--[if gte IE 10]>  <html class="no-js ie10">  <![endif]-->
+<!--[if !IE]><!-->   <html class="no-js">       <!--<![endif]-->
+  <head data-network="sbn">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
+
+<meta name="description" content="He&#39;s no longer unhinged. He&#39;s so much more." />
+<link rel="canonical" href="http://www.cagesideseats.com/2016/6/15/11944150/dean-ambrose-the-new-architect" />
+<meta property="og:description" content="He&#39;s no longer unhinged. He&#39;s so much more." />
+<meta property="fb:app_id" content="549923288395304" />
+<meta property="og:image" content="https://cdn0.vox-cdn.com/thumbor/2cAPIzHIOg-JXlRlqwS5nbDzLEc=/0x0:835x470/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg" />
+<meta property="og:image:height" content="900" />
+<meta property="og:image:width" content="1600" />
+<meta property="og:site_name" content="Cageside Seats" />
+<meta property="og:title" content="Dean Ambrose: The New Architect" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.cagesideseats.com/2016/6/15/11944150/dean-ambrose-the-new-architect" />
+
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:url" content="http://www.cagesideseats.com/2016/6/15/11944150/dean-ambrose-the-new-architect" />
+      <meta name="twitter:title" content="Dean Ambrose: The New Architect" />
+      <meta name="twitter:description" content="He&#39;s no longer unhinged. He&#39;s so much more." />
+      <meta name="twitter:image:src" content="https://cdn0.vox-cdn.com/thumbor/2cAPIzHIOg-JXlRlqwS5nbDzLEc=/0x0:835x470/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg" />
+      <meta name="twitter:site" content="cagesideseats" />
+    
+
+      <meta name="sailthru.title" content="Dean Ambrose: The New Architect" />
+      <meta name="sailthru.tags" content="professional-wrestling,combat-sports,cageside-seats" />
+      <meta name="sailthru.date" content="2016-06-15" />
+      <meta name="sailthru.description" content="He&#39;s no longer unhinged. He&#39;s so much more." />
+    
+
+
+<link rel="alternate" type="application/rss+xml" title="Cageside Seats -  All Posts" href="http://www.cagesideseats.com/rss/current"/>
+<link rel="alternate" type="application/rss+xml" title="Cageside Seats -  FanPosts" href="http://www.cagesideseats.com/rss/fanposts"/>
+<link rel="alternate" type="application/rss+xml" title="Cageside Seats -  FanShots" href="http://www.cagesideseats.com/rss/fanshots"/>
+
+  <link href="https://cdn2.vox-cdn.com/uploads/blog/favicon/244/favicon-5ac868f8.ico" rel="shortcut icon" type="image/x-icon"/>
+
+  <link href="https://cdn2.vox-cdn.com/uploads/blog/sbnu_logo_minimal/244/touch_icon_ipad_retina_cagesideseats.com.minimal.png" rel="apple-touch-icon-precomposed" sizes="144x144" type="image/png"/>
+  <link href="https://cdn1.vox-cdn.com/uploads/blog/sbnu_logo_minimal/244/touch_icon_iphone_retina_cagesideseats.com.minimal.png" rel="apple-touch-icon-precomposed" sizes="114x114" type="image/png"/>
+  <link href="https://cdn2.vox-cdn.com/uploads/blog/sbnu_logo_minimal/244/touch_icon_ipad_retina_cagesideseats.com.minimal.png" rel="apple-touch-icon-precomposed" sizes="72x72" type="image/png"/>
+  <link href="https://cdn1.vox-cdn.com/uploads/blog/sbnu_logo_minimal/244/touch_icon_iphone_retina_cagesideseats.com.minimal.png" rel="apple-touch-icon-precomposed" type="image/png"/>
+
+<title>Dean Ambrose: The New Architect - Cageside Seats</title>
+  <meta property="article:publisher" content="https://www.facebook.com/cagesideseatsdotcom" />
+  <meta property="article:published_time" content="2016-06-15T10:34:42-04:00" />
+  <meta name="author" content="ThingsandStuff" />
+
+<meta name="outbrainsection" content="wwe"></meta>
+<meta data-chorus-version="4bc20e5cb1858215c29f9990b092e1a8f3f284c8" />
+
+
+    
+    <!--[if (gte IE 10)|(IEMobile)|(!IE)]><!-->
+  <link rel="stylesheet" media="all" href="https://cdn0.vox-cdn.com/stylesheets/sbn_base.v6d931512461e4438.css" />
+<!--<![endif]-->
+
+<!--[if (lt IE 10)]>
+  <link rel="stylesheet" media="all" href="https://cdn0.vox-cdn.com/stylesheets/sbn_ie9_a.v4650dc3e2228f58a.css" />
+  <link rel="stylesheet" media="all" href="https://cdn0.vox-cdn.com/stylesheets/sbn_ie9_b.ve30a2bb5a80ff210.css" />
+<![endif]-->
+
+
+  <link href="https://cdn0.vox-cdn.com/sbn_chorus_page/3419043401/244/community_colors.css" media="screen" rel="stylesheet" type="text/css" />
+
+
+        <script type="text/javascript" src="http://auth.voxmedia.com/sso/initiate_auto_login?community_id=244&rand=74535750"></script>
+
+
+<script type="text/javascript">
+  window.Chorus = window.Chorus || {};
+  window.Chorus.Context = {
+      logged_in   : false
+    , user_id     : 0
+    , network_domain : "sbnation.com"
+    , network_slug : "sbn"
+    , current_env : "production"
+    , community_id : 244
+    , login_action : "https://auth.voxmedia.com/login?return_to=http%3A%2F%2Fwww.cagesideseats.com%2F2016%2F6%2F15%2F11944150%2Fdean-ambrose-the-new-architect"
+    , register_action : "https://auth.voxmedia.com/signup?return_to=http%3A%2F%2Fwww.cagesideseats.com%2F2016%2F6%2F15%2F11944150%2Fdean-ambrose-the-new-architect"
+    , ga_account_id : "UA-16182366-1"
+    , ga_track_prefix : "t1."
+    , entry_id : 11708191
+    , is_preview: false
+    , entry_url : "http://www.cagesideseats.com/2016/6/15/11944150/dean-ambrose-the-new-architect"
+    , emc_admin : false
+    , community_domain : "cagesideseats.com"
+    , community_is_primary: false
+    , main_link_color  : 'A58030'
+    ,  community_twitter_screen_name: "cagesideseats" 
+    , communtiy_facebook_url : "https://www.facebook.com/cagesideseatsdotcom" 
+    
+    , page_type : "FanPost"
+    , environment : "production"
+  };
+  if (!window.Vox && window.Chorus) {
+    Vox = {
+      Video: Chorus.Video
+    }
+  }
+
+
+
+
+</script>
+
+<script>var chorusInitQueue=[],volume_embed_host="https://volume.vox-cdn.com";var Chorus=Chorus||{};Chorus.windowLoaded=!1,Chorus.AddScript=function(o,n){var t=document.createElement("script");t.async=!0,t.type="text/javascript",t.src=o,"function"==typeof n&&(t.onload=n);var e=document.getElementsByTagName("script")[0];return e.parentNode.insertBefore(t,e),t},Chorus.ready=function(o){"loading"!=document.readyState?o():document.addEventListener?document.addEventListener("DOMContentLoaded",o):document.attachEvent("onreadystatechange",function(){"loading"!=document.readyState&&o()})},Chorus.OnLoad=function(o){if(Chorus.windowLoaded=!0)return void o();var n=window.onload;"function"!=typeof window.onload?window.onload=o:window.onload=function(){n(),o()}},Chorus.OnLoad(function(){Chorus.windowLoaded=!0});</script>
+
+<!-- GTM DataLayer -->
+ <script>
+   dataLayer = [{"Network":"sbnation","Community":"cagesideseats","GA Primary ID":"UA-1367699-1","GA Secondary ID":"UA-16182366-1","GA CrossDomains":"7500toholte.sbnation.com,aseaofblue.com,acmepackingcompany.com,addictedtoquack.com,allaboutthejersey.com,alligatorarmy.com,amazinavenue.com,americanninjawarriornation.com,anaheimcalling.com,anchorofgold.com,anddownthestretchtheycome.com,andthevalleyshook.com,angelsonparade.com,anonymouseagle.com,arcticicehockey.com,azdesertswarm.com,arkansasfight.com,arrowheadpride.com,atthehive.com,athleticsnation.com,azsnakepit.com,backingthepack.com,badlefthook.com,baltimorebeatdown.com,bannersontheparkway.com,barcablaugranes.com,barkingcarnival.com,battleofcali.com,battleredblog.com,bavarianfootballworks.com,bcinterruption.com,behindthesteelcurtain.com,beyondtheboxscore.com,bigblueview.com,bigcatcountry.com,bigdsoccer.com,bigeastcoastbias.com,bitterandblue.sbnation.com,blackwhitereadallover.com,blackandredunited.com,blackheartgoldpants.com,blackshoediaries.com,blazersedge.com,bleedcubbieblue.com,bleedinggreennation.com,blessyouboys.com,blocku.com,blogabull.com,blog.sbnation.com,bloggersodear.com,bloggingtheboys.com,bloggingthebracket.com,bloodyelbow.com,bluebirdbanter.com,blueshirtbanter.com,boltsfromtheblue.com,bracethehammer.sbnation.com,brewcrewball.com,brewhoop.com,brightsideofthesun.com,bringonthecats.com,broadstreethockey.com,brotherlygame.com,bruinsnation.com,btpowerhouse.com,buckys5thquarter.com,bucsdugout.com,bucsnation.com,buffalorumblings.com,buildingthedam.com,ubbullrun.com,bulletsforever.com,burgundywave.com,burntorangenation.com,cagesideseats.com,californiagoldenblogs.com,camdenchat.com,canalstreetchronicles.com,canescountry.com,canishoopus.com,cardchronicle.com,cardiachill.com,cartilagefreecaptain.sbnation.com,casualhoya.com,catscratchreader.com,celticsblog.com,centerlinesoccer.com,chiesaditotti.com,cincyjungle.com,clipsnation.com,collegeandmagnolia.com,collegecrosse.com,cominghomenewcastle.sbnation.com,conquestchronicles.com,cornnation.com,cottagersconfidential.sbnation.com,cougcenter.com,cowboysrideforfree.com,crimsonandcreammachine.com,dailynorseman.com,dawgsports.com,dawgsbynature.com,defendingbigd.com,denverstiffs.com,detroitbadboys.com,diebytheblade.com,dirtysouthsoccer.com,downthedrive.com,draysbay.com,dukebasketballreport.com,dynamotheory.com,epluribusloonum.com,eightysixforever.com,everydayshouldbesaturday.com,habseyesontheprize.com,faketeams.com,fearthefin.com,fearthesword.com,fearthewall.com,federalbaseball.com,fieldgulls.com,fishstripes.com,fiveforhowling.com,fmfstateofmind.com,footballstudyhall.com,forwhomthecowbelltolls.com,fosseposse.sbnation.com,frogsowar.com,fromtherumbleseat.com,futnation.com,ganggreennation.com,garnetandblackattack.com,gaslampball.com,gobblercountry.com,goldenstateofmind.com,goodbullhunting.com,gotthebattlefeveron.com,grizzlybearblues.com,halosheaven.com,hammerandrails.com,hockeywilderness.com,hogshaven.com,hothothoops.com,hottimeinoldtown.com,houseofsparky.com,hudsonriverblue.com,hustlebelt.com,inthetopone.com,indomitablecitysoccer.com,indycornrows.com,insidenu.com,intothecalderon.com,japersrink.com,jewelsfromthecrown.com,lagconfidential.com,landgrantholyland.com,letsgotribe.com,libertyballers.com,lighthousehockey.com,lionofviennasuite.sbnation.com,litterboxcats.com,lonestarball.com,lookoutlanding.com,maizenbrew.com,managingmadrid.com,massivereport.com,matchsticksandgasoline.com,mavsmoneyball.com,mccoveychronicles.com,midmajormadness.com,milehighhockey.com,milehighreport.com,minerrush.com,minorleagueball.com,mlbdailydish.com,mmafighting.com,mmamania.com,mountroyalsoccer.com,mwcconnection.com,musiccitymiracles.com,netsdaily.com,nevermanagealone.com,ninersnation.com,nucksmisconduct.com,offtackleempire.com,onthebanks.com,ontheforecheck.com,onceametro.com,obnug.com,onefootdown.com,orlandopinstripedpost.com,ourdailybears.com,outsports.com,overthemonster.com,pacifictakes.com,patspulpit.com,peachtreehoops.com,pensburgh.com,pensionplanpuppets.com,pinstripealley.com,podiumcafe.com,postingandtoasting.com,poundingtherock.com,prideofdetroit.com,progressiveboink.com,purplerow.com,raptorshq.com,rawcharge.com,redcuprebellion.com,redreporter.com,revengeofthebirds.com,ridiculousupside.com,rockchalktalk.com,rockmnation.com,rockytoptalk.com,rokerreport.sbnation.com,rollbamaroll.com,royalbluemersey.sbnation.com,royalsreview.com,rslsoapbox.com,ruleoftree.com,rumbleinthegarden.com,sactownroyalty.com,arizona.sbnation.com,atlanta.sbnation.com,bayarea.sbnation.com,boston.sbnation.com,chicago.sbnation.com,cleveland.sbnation.com,sbncollegehockey.com,dallas.sbnation.com,dc.sbnation.com,denver.sbnation.com,detroit.sbnation.com,houston.sbnation.com,kansascity.sbnation.com,losangeles.sbnation.com,minnesota.sbnation.com,newyork.sbnation.com,philly.sbnation.com,pittsburgh.sbnation.com,seattle.sbnation.com,stlouis.sbnation.com,tampabay.sbnation.com,sbnation.com,secondcityhockey.com,serpentsofmadonnina.com,shakinthesouthland.com,silverandblackpride.com,silverscreenandroll.com,silversevensens.com,slcdunk.com,sonicsrising.com,sounderatheart.com,southsidesox.com,stlouisgametime.com,stmarysmusings.sbnation.com,stampedeblue.com,stanleycupofchowder.com,starsandstripesfc.com,stateoftheu.com,streakingthelawn.com,stridenation.com,stumptownfooty.com,swishappeal.com,talkingchop.com,tarheelblog.com,teamspeedkills.com,testudotimes.com,acmilan.theoffside.com,thebentmusket.com,thebirdwrites.com,thebluetestament.com,thebusbybabe.sbnation.com,jacketscannon.com,thechampaignroom.com,coppernblue.com,crawfishboxes.com,crimsonquarry.com,thedailygopher.com,thedailystampede.com,thedreamshake.com,thefalcoholic.com,thegoodphight.com,theicegarden.com,jerseydoesntshrink.com,liverpooloffside.sbnation.com,themaneland.com,theonlycolors.com,thephinsider.com,ralphiereport.com,riftherald.com,theshortfuse.sbnation.com,thesirenssong.com,slipperstillfits.com,smokingmusket.com,thetilehurstend.sbnation.com,theuconnblog.com,threelionsroar.com,throughitalltogether.sbnation.com,tomahawknation.com,nunesmagician.com,truebluela.com,turfshowtimes.com,twiceacosmo.com,twinkietown.com,underdogdynasty.com,uwdawgpound.com,vanquishthefoe.com,villarrealusa.com,violanation.com,vivaelbirdos.com,vivathematadors.com,vuhoops.com,wakingthered.com,weaintgotnohistory.sbnation.com,welcometoloudcity.com,widerightnattylite.com,windycitygridiron.com,wingingitinmotown.com","Content ID":"11708191","Entry Groups":"wwe:front-page","Demand Post":"no","All Chorus Categories":"sbnation:cagesideseats:wwe:front-page","Content Type":"fan-post","chartbeat_domain":"cagesideseats.com","chartbeat_zone":"172968584/sbn/professional-wrestling/cagesideseats.com","Logged in Status":"Logged Out","Day of Week":"friday","Hour of Day":"12"}];
+ </script>
+
+  <!-- Krux -->
+    <script class="kxct" data-id="JIlvM1nH" data-timing="async" data-version="1.9" type="text/javascript" src="https://cdn.krxd.net/controltag?confid=JIlvM1nH" async></script>
+
+  <script class="kxint" type="text/javascript">
+    window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
+    (function(){
+      function retrieve(n){
+        var m, k='kxvoxmedia_'+n;
+        if (window.localStorage) {
+          return window.localStorage[k] || "";
+        } else if (navigator.cookieEnabled) {
+          m = document.cookie.match(k+'=([^;]*)'); return (m && unescape(m[1])) || "";
+        } else {
+          return '';
+        }
+      }
+      Krux.user = retrieve('user');
+      Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+    })();
+  </script>
+
+  <!-- End Krux -->
+
+<!-- Umbel -->
+<script type="text/javascript">
+window._umbel = window._umbel || [];
+(function() {
+var d = new Date();
+d.setDate(d.getDate() + 365);
+document.cookie = "umbel_api_key=rhrdgrjixmwngtzk; expires=" + d.toUTCString();
+if (document.location.href.indexOf('utm_source=umbel') !== -1) {
+if (typeof Chorus !== 'undefined' && typeof Chorus.Video !== 'undefined') {
+Chorus.Video.autoplay = true;
+jQuery(document).ready(function(){
+document.location.hash = jQuery('.chorus-video-embed').first().attr('id');
+});
+}
+}
+})();
+</script>
+<script src="https://tags.api.umbel.com/rhrdgrjixmwngtzk/w.js" async></script>
+
+
+<script type="text/javascript">
+_umbel.push(['tag', 'profile.tags', 'sport:professional-wrestling']);
+</script>
+
+<!-- End Umbel -->
+
+<script>
+  var ChorusAds = ChorusAds || {};ChorusAds.adsBlocked = true;
+  var pbjs = pbjs || {};pbjs.que = pbjs.que || [];
+  var googletag = googletag || {};googletag.cmd = googletag.cmd || [];
+  var PREBID_TIMEOUT = 1500;
+  ChorusAds.recordedSlots = [{"name":"reskin","sizes":[[2,2]],"context":{"device_type":["desktop"],"browser_width":{"min":"881","max":0}}},{"name":"btf_leaderboard","sizes":[[728,90],[1020,90]],"context":{"device_type":["desktop"],"browser_width":{"min":"881","max":0}},"sonobi_id":"ec4600e23b4cd879089d"},{"name":"btf_medium_rectangle","sizes":[[300,250],[300,600]],"context":{"device_type":["desktop"],"browser_width":{"min":"881","max":0}},"sonobi_id":"ccd40245e88184acd6ec"},{"name":"half_page","sizes":[[300,250],[300,600]],"context":{"device_type":["desktop"],"browser_width":{"min":"881","max":0}},"sonobi_id":"605c683c65e2e331c0ed"},{"name":"prelude","sizes":[[1400,600]],"context":{"device_type":["desktop"],"browser_width":{"min":"881","max":0}}},{"name":"high_impact","sizes":[[970,250],[970,90],[728,90],[1020,90]],"context":{"device_type":["desktop"],"browser_width":{"min":"881","max":0}},"sonobi_id":"4a543f22407e054ba9cf"},{"name":"mid_body","sizes":[[1030,590],[970,250],[728,90]],"context":{"device_type":["desktop"],"browser_width":{"min":"0","max":0}},"sonobi_id":"fc50bc63beb30c3cf909"},{"name":"native_ad_linkset_link","sizes":[[1200,100]],"context":{"device_type":["desktop","tablet","mobile"],"browser_width":{"min":"0","max":0}}},{"name":"mobile_leaderboard","sizes":[[320,50],[300,250],[1030,590]],"context":{"device_type":["mobile"],"browser_width":{"min":"0","max":"600"}},"sonobi_id":"1d0a49ec9337dc6054af"},{"name":"mobile_footer","sizes":[[320,50],[300,250]],"context":{"device_type":["mobile"],"browser_width":{"min":"0","max":"600"}},"sonobi_id":"1d0a49ec9337dc6054af"},{"name":"tablet_leaderboard","sizes":[[728,90]],"context":{"device_type":["tablet"],"browser_width":{"min":"601","max":0}}},{"name":"tablet_btf_leaderboard","sizes":[[728,90]],"context":{"device_type":["tablet"],"browser_width":{"min":"601","max":0}}},{"name":"tablet_half_page","sizes":[[300,600],[300,250]],"context":{"device_type":["tablet"],"browser_width":{"min":"601","max":0}}}];
+ChorusAds.allowedSlots = ["reskin","prelude","high_impact","tablet_leaderboard","mobile_leaderboard","native_ad_linkset_link","half_page","tablet_half_page","mid_body","btf_medium_rectangle","btf_leaderboard","tablet_btf_leaderboard","mobile_footer"];
+  ChorusAds.production=true;ChorusAds.slug="/172968584/sbn/professional-wrestling/cagesideseats.com";ChorusAds.is_unison=false;ChorusAds.front_page=false;
+  pbjs.que.push(function() { ChorusAds.addVariable("network", ["sbn"]);
+ ChorusAds.addVariable("affiliation", ["professional-wrestling"]);
+ ChorusAds.addVariable("unison", [false]);
+ ChorusAds.addVariable("entry_id", [11708191]);
+ ChorusAds.addVariable("entry_type", ["fanpost"]);
+ ChorusAds.addVariable("entry_slug", ["2016/6/15/11944150/dean-ambrose-the-new-architect"]);
+ ChorusAds.addVariable("entry_author", ["ThingsandStuff"]);
+ ChorusAds.addVariable("entry_group", ["wwe","front-page"]);
+ ChorusAds.addVariable("hub_page", ["wwe"]);
+ ChorusAds.addVariable("page_type", ["interior_page"]);
+ ChorusAds.addVariable("keywords", "dean ambrose the new architect cageside seats");});
+</script>
+<script src="https://cdn0.vox-cdn.com/javascripts/sbn_advertising.v9957cbffd1e9c593.js" async="async" onload="ChorusAds.adsBlocked=false;"></script>
+<script src="https://c.amazon-adsystem.com/aax2/apstag.js" async></script>
+<script src="https://www.googletagservices.com/tag/js/gpt.js" async></script>
+<script>(function(){for(var a=("; "+document.cookie).split("; nda4mz="),b=[],c=1;c<a.length;c++)b.push(a[c].split(";")[0]);var d="https:\/\/p.d.0fmm.com\/v4\/AAAACgAAc9Uau9icuBlvDvtokvlNaAAA_oA_LnA0086ASLFkx4dqFskjo6gsKeuE43n0tQzAxT93cvCQegY1DuyEJfr6VNy6ROxl0mOK0pEDXktzHtrV4X_SD6JdiY_tg"+b.join(","),e=document.createElement("script");e.async=!0;e.src=d;var f=document.getElementsByTagName("head")[0];f.insertBefore(e,f.childNodes[0]||null);}).call(this);</script>
+
+
+<script src="https://cdn0.vox-cdn.com/javascripts/libraries.v8eec3ca5202b0ec1.js"></script>
+<script src="https://cdn0.vox-cdn.com/javascripts/sbn_head.v0efcc5916b8ba677.js"></script>
+<script>
+  window.ooyala_player_id = 'e7e908eebffd4efeb96a3096aa9b4bd0';
+  window.alternate_ooyala_player_id = '8a9e910e8b2942ff8cf8c5d8e737d803';
+  window.ooyala_options = {"tweaks":null};
+  Chorus.VideoContext.addVideo([]);
+</script>
+
+
+  <script>
+//<![CDATA[
+
+if (typeof Util !== 'undefined') {
+  var disable_fonts = (Util.getUrlVars()["disable_fonts"] == true);
+  if (disable_fonts == false) {
+      if (Util.UserAgentProfiler.isMobile()) {
+        document.write('<link rel=\"stylesheet\" href=\"https://cloud.typography.com/706184/710840/css/fonts.css\" type=\"text/css\" />');
+      } else {
+        document.write('<link rel=\"stylesheet\" href=\"https://cloud.typography.com/706184/636620/css/fonts.css\" type=\"text/css\" />');
+      }
+  }
+}
+
+//]]>
+</script>
+
+
+    <meta name="verify-v1" content="9apG2FCrk5P90hwWjU89w4ZowGl7Ex22+hky49jjYw8=" >
+
+<META name="y_key" content="62c3f8fc8fb5a8b0">
+
+<meta name="msvalidate.01" content="E46371E563647467E5A0D9B40179B6FC" />
+  </head>
+  <body class="" >
+
+    <div id="fb-root"></div>
+<script type="text/javascript">
+  window.fbAsyncInit = function() {
+    FB.init({
+      version: 'v2.6',
+      appId: '549923288395304',
+      status: true,
+      cookie: true,
+      xfbml: true
+    });
+
+    if (Chorus && Chorus.EventDispatcher) {
+      Chorus.EventDispatcher.publish('facebookSdkAvailable');
+    }
+  }
+</script>
+
+
+    
+<div id='div-gpt-ad-reskin' class="dfp_ad" data-cb-dfp-id="unit=reskin" data-cb-ad-id="Reskin">
+  <script type='text/javascript'>pbjs.que.push(function() {ChorusAds.showAd("reskin");});</script>
+</div>
+
+
+<div class="m-ad m-ad__prelude">
+  
+<div id='div-gpt-ad-prelude' class="dfp_ad" data-cb-dfp-id="unit=prelude" data-cb-ad-id="Prelude">
+  <script type='text/javascript'>pbjs.que.push(function() {ChorusAds.showAd("prelude");});</script>
+</div>
+
+</div>
+
+
+    <!-- Google Tag Manager Container-->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WFW2PB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WFW2PB');</script>
+<!-- End Google Tag Manager Container -->
+
+
+
+
+    <div id="top" class="l-outer-wrap">
+      <div class="l-inner-wrap">
+        <div class="l-page-wrap">
+          <div class="l-page-head">
+          
+          <div class="m-user-nav">
+  <a class="m-user-nav__home-link" href="http://www.sbnation.com/">SB Nation</a>
+
+  <ul class="m-user-nav__list">
+      <li class="m-user-nav__login">
+        <a data-chorus-auth="login" href="https://auth.voxmedia.com/login?community_id=244&return_to=http%3A%2F%2Fwww.cagesideseats.com%2F2016%2F6%2F15%2F11944150%2Fdean-ambrose-the-new-architect">Login</a>
+      </li>
+      <li class="m-user-nav__sign-up">
+        <a data-chorus-auth="register" href="https://auth.voxmedia.com/signup?community_id=244&return_to=http%3A%2F%2Fwww.cagesideseats.com%2F2016%2F6%2F15%2F11944150%2Fdean-ambrose-the-new-architect">Sign Up</a>
+      </li>
+  </ul>
+</div>
+
+          <div class="m-ad m-ad__leaderboard">
+  <div class="m-ad__desktop-only">
+      
+<div id='div-gpt-ad-high_impact' class="dfp_ad" data-cb-dfp-id="unit=high_impact" data-cb-ad-id="High impact">
+  <script type='text/javascript'>pbjs.que.push(function() {ChorusAds.showAd("high_impact");});</script>
+</div>
+
+  </div>
+  <div class="m-ad__tablet-only">
+    
+<div id='div-gpt-ad-tablet_leaderboard' class="dfp_ad" data-cb-dfp-id="unit=tablet_leaderboard" data-cb-ad-id="Tablet leaderboard">
+  <script type='text/javascript'>pbjs.que.push(function() {ChorusAds.showAd("tablet_leaderboard");});</script>
+</div>
+
+  </div>
+</div>
+
+            <div class="m-ad rail m-ad__billboard">
+</div>
+
+          <div class="m-site-nav uses-badge-logo has-both-navs">
+  <a href="http://www.cagesideseats.com/" class="m-site-nav__logo">
+    <img class="is-large" src="https://cdn1.vox-cdn.com/uploads/blog/sbnu_logo/244/large_cagesideseats.com.full.184785.233317.png" alt="Large cagesideseats.com.full.184785.233317" />
+    <img class="is-small" src="https://cdn0.vox-cdn.com/uploads/blog/sbnu_logo_lockup/244/cagesideseats.com.lockup.png" alt="Cagesideseats.com.lockup" />
+</a>
+
+    <p class="m-site-nav__description">Cageside Seats, for Pro Wrestling and MMA fans</p>
+  <nav role="navigation">
+    <ul class="m-site-nav__community" id="community-nav">
+  <li><a href="http://www.cagesideseats.com/">Home</a></li>
+      <li><a href="/fanposts">Fanposts</a></li>
+      <li><a href="/fanshots">Fanshots</a></li>
+
+
+
+
+  <li class="has-dropdown">
+    <a href="http://www.cagesideseats.com/sections">Sections</a>
+    <div class="m-site-nav__dropdown">
+      <ul>
+          <li><a href="http://www.cagesideseats.com/wwe">WWE</a></li>
+          <li><a href="http://www.cagesideseats.com/wwe-smackdown">WWE SmackDown</a></li>
+          <li><a href="http://www.cagesideseats.com/cageside-seats-features">Cageside Seats Features</a></li>
+          <li><a href="http://www.cagesideseats.com/wwe-raw">WWE Raw</a></li>
+          <li><a href="http://www.cagesideseats.com/tna">TNA</a></li>
+        <li><a href="http://www.cagesideseats.com/archives/full">Full Archive</a></li>
+      </ul>
+    </div>
+  </li>
+
+
+
+
+    <li class="is-pinned"> <a class="tickets" data-analytics-campaign="stubhub-nav" href="http://www.stubhub.com/wrestling-tickets/category/113/?gcid=chAFF-_-geoUS-_-genOthSpot-_-dt160926-_-cmpSBNation-_-partVOX">StubHub</a><img src="https://ad.doubleclick.net/ddm/ad/N7937.2466702VOXMEDIA/B9727903.139901453;sz=1x1;ord=%%CACHEBUSTER%%;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?" class="m-site-nav__tracking-pixel" /></li>
+
+
+    <li class="is-pinned"><a href="http://www.fanatics.com/?partnerid=14104">Shop</a></li>
+
+
+  <li class="has-dropdown">
+    <a href="/masthead">About</a>
+    <div class="m-site-nav__dropdown">
+      <ul>
+        <li><a href="/masthead">Masthead</a></li>
+        <li><a href="/community-guidelines">Community Guidelines</a></li>
+      </ul>
+    </div>
+  </li>
+
+  <li class="m-site-nav__more-link has-dropdown">
+    <span class="nav-title"><a>More</a></span>
+    <div class="m-site-nav__dropdown">
+      <ul></ul>
+    </div>
+  </li>
+</ul>
+
+    <ul class="m-site-nav__network" id="network-nav">
+  <li class="has-dropdown" id="global-nav-nfl">
+    <a href="http://www.sbnation.com/nfl">NFL</a>
+  </li>
+  <li class="has-dropdown" id="global-nav-nba">
+    <a href="http://www.sbnation.com/nba">NBA</a>
+  </li>
+  <li class="has-dropdown" id="global-nav-mlb">
+    <a href="http://www.sbnation.com/mlb">MLB</a>
+  </li>
+  <li class="has-dropdown" id="global-nav-nhl">
+    <a href="http://www.sbnation.com/nhl">NHL</a>
+  </li>
+  <li class="has-dropdown" id="global-nav-cfb">
+    <a href="http://www.sbnation.com/college-football">CFB</a>
+  </li>
+  <li>
+    <a href="http://www.sbnation.com/college-football-recruiting">Recruiting</a>
+  </li>
+  <li class="has-dropdown" id="global-nav-cbb">
+    <a href="http://www.sbnation.com/college-basketball">CBB</a>
+  </li>
+  <li class="has-dropdown" id="global-nav-ufc">
+    <a href="http://www.mmafighting.com/">UFC</a>
+  </li>
+  <li class="has-dropdown" id="global-nav-soccer">
+    <a href="http://www.sbnation.com/soccer">Soccer</a>
+  </li>
+  <li class="has-dropdown" id="global-nav-nascar">
+    <a href="http://www.sbnation.com/nascar">NASCAR</a>
+  </li>
+  <li>
+    <a href="http://www.sbnation.com/fantasy">Fantasy</a>
+  </li>
+  <li>
+    <a href="http://www.sbnation.com/golf">Golf</a>
+  </li>
+  <li class="has-dropdown is-pinned" id="global-nav-shop">
+    <a href="http://www.fanatics.com/partnerid/14104/">Shop</a>
+  </li>
+
+    <li class="is-pinned"> <a class="tickets" data-analytics-campaign="stubhub-nav" href="http://www.stubhub.com/wrestling-tickets/category/113/?gcid=chAFF-_-geoUS-_-genOthSpot-_-dt160926-_-cmpSBNation-_-partVOX">StubHub</a> <img src="https://ad.doubleclick.net/ddm/ad/N7937.2466702VOXMEDIA/B9727903.139901453;sz=1x1;ord=%%CACHEBUSTER%%;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?" class="m-site-nav__tracking-pixel" /></li>
+
+  <li>
+    <a href="http://www.sbnationradio.com/">Radio</a>
+  </li>
+  <li>
+    <a href="http://www.sbnation.com/tennis">Tennis</a>
+  </li>
+  <li>
+    <a href="http://www.podiumcafe.com/">Cycling</a>
+  </li>
+  <li>
+    <a href="http://www.badlefthook.com/">Boxing</a>
+  </li>
+  <li>
+    <a href="http://www.anddownthestretchtheycome.com/">Horse Racing</a>
+  </li>
+  <li>
+    <a href="http://www.sbnation.com/podcasts">Podcasts</a>
+  </li>
+  <li>
+    <a href="http://www.sbnation.com/blogs#local">Local</a>
+  </li>
+  <li>
+    <a href="http://www.stridenation.com/">Running</a>
+  </li>
+  <li>
+    <a href="http://www.cagesideseats.com/">Wrestling</a>
+  </li>
+  <li>
+    <a href="http://www.outsports.com/">Outsports</a>
+  </li>
+  <li>
+    <a href="http://www.sbnation.com/videos">Video</a>
+  </li>
+  <li>
+    <a href="http://www.sbnation.com/odds">Odds</a>
+  </li>
+
+  <li class="m-site-nav__more-link has-dropdown">
+    <a>More</a>
+    <div class="m-site-nav__dropdown">
+      <ul></ul>
+    </div>
+  </li>
+</ul>
+
+<div id="5d382463a6487b81c3037d539f823ee5" data-unless-profile-is="mobile" data-delayed-load-cell-key="5d382463a6487b81c3037d539f823ee5/SbnSiteNav/network_nav_sub_items"></div>
+
+    <ul class="m-site-nav__right-side" id="site-nav-right">
+    <li class="m-site-nav__netnav-trigger"><a href="http://www.sbnation.com">SB Nation</a></li>
+  <li><a class="m-site-nav__all-blogs-link" href="http://www.sbnation.com/blogs">All 320 blogs</a></li>
+
+    <li class="m-site-nav__social-btn">
+      <span class="ss-social">&#xF610;</span>
+      <div class="m-site-nav__dropdown" id="nav-fb-like-btn">
+        <fb:like href="https://www.facebook.com/cagesideseatsdotcom" width="90" colorscheme="light" layout="button_count" action="like" show_faces="false" send="false"></fb:like>
+      </div>
+    </li>
+
+    <li class="m-site-nav__social-btn">
+      <span class="ss-social">&#xF611;</span>
+      <div class="m-site-nav__dropdown">
+        <a class="twitter-follow-button" data-lang="en" data-show-count="false" data-show-screen-name="false" href="https://twitter.com/cagesideseats"></a>
+      </div>
+    </li>
+
+  <li class="m-site-nav__search">
+    <a href="/search" class="m-site-nav__search-link"><span class="ss-icon">&#x1F50E;</span><span class="m-site-nav__search-link-label">Search</span></a>
+    <form action="/search" method="get" class="m-site-nav__dropdown">
+      <input type="text" name="q" id="basic_search_query_footer" value="" class="m-site-nav__search__input" placeholder="Search" />
+      <button type="submit" class="p-button m-site-nav__search__submit">Search</button>
+    </form>
+  </li>
+</ul>
+
+  </nav>
+  <a class="m-site-nav__mobile-trigger" id="mobile-menu-open" data-analytics-link="mobile-menu"><span class="ss-icon">&#xE9A1;</span></a>
+</div>
+
+          <div class="m-ad m-ad__mobile-leaderboard">
+  
+<div id='div-gpt-ad-mobile_leaderboard' class="dfp_ad" data-cb-dfp-id="unit=mobile_leaderboard" data-cb-ad-id="Mobile leaderboard">
+  <script type='text/javascript'>pbjs.que.push(function() {ChorusAds.showAd("mobile_leaderboard");});</script>
+</div>
+
+</div>
+
+          <ul class="m-mobile-supplemental-nav uses-one">
+    <li><a data-analytics-link="supplemental-nav-1" href="http://www.cagesideseats.com/fanshots">Fanshots</a></li>
+    <li><a data-analytics-link="supplemental-nav-2" href="http://www.cagesideseats.com/fanposts">Fanposts</a></li>
+</ul>
+
+          
+          <div class="m-user-msg__root">
+
+  
+  
+  
+
+  </div>
+          
+          </div>
+          
+
+  <div class="fonzorship-wrapper">
+    <h2 class="p-header-group">FanPost</h2>
+    
+  </div>
+
+
+
+
+
+
+<div class="l-container">
+  <div class="m-entry__top-header l-chunk">
+    
+    <ul class="m-entry__sections">
+    <li class="m-entry__sections-hub"><a href="http://www.cagesideseats.com/wwe">WWE</a></li>
+</ul>
+
+    <header>
+  <h2 class="m-entry__title" data-remote-headline-edit="title" data-remote-headline-promo-headine="Dean Ambrose: The New Architect"  data-remote-admin-entry-id="11708191">Dean Ambrose: The New&nbsp;Architect</h2>
+
+  <p class="m-entry__byline">
+    By <a rel="author" href="http://www.sbnation.com/users/ThingsandStuff">ThingsandStuff</a>
+
+
+    on Jun 15, 2016, 6:00pm EDT
+
+    <span class="m-comment-count ">
+    <a class="m-comment-count__bubble unread" data-unread-comments-id="11708191" href="http://www.cagesideseats.com/2016/6/15/11944150/dean-ambrose-the-new-architect#comments"></a>
+    <a class="m-comment-count__bubble" href="http://www.cagesideseats.com/2016/6/15/11944150/dean-ambrose-the-new-architect#comments">55</a>
+</span>
+
+    <span class="m-entry-admin-button " data-remote-admin-entry-type="button" data-remote-admin-entry-id="11708191"></span>
+
+    <span class="m-flag-button-wrapper" data-flag-id="11708191">
+  
+  </span>
+
+  </p>
+
+</header>
+
+  </div>
+  <div class="l-chunk has-rail ">
+    <div class="l-main"><div class="l-main-float">
+        <div class="m-entry__top-hero m-entry__top-hero__default">
+          <div class="m-entry__photo m-shareable-content__wrap">
+  <picture>
+  <source
+    srcset="https://cdn0.vox-cdn.com/thumbor/lC3-WSYmtvuZEkymG71VVXgkx-c=/71x0:775x469/2400x1600/filters:format(webp)/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg 2400w, https://cdn0.vox-cdn.com/thumbor/ZssBQQzqtl03oykl-RrlRBGl2Dk=/71x0:775x469/1920x1280/filters:format(webp)/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg 1920w, https://cdn0.vox-cdn.com/thumbor/ecz4d4HhrZpfoRiXjbwrzhRymtQ=/71x0:775x469/1310x873/filters:format(webp)/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg 1310w, https://cdn0.vox-cdn.com/thumbor/sf8_E6vILfFTomf6KiB1yAKs2Mk=/71x0:775x469/783x522/filters:format(webp)/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg 783w, https://cdn0.vox-cdn.com/thumbor/Rj9RIKFRWGSysL-_kCW1P8uDme8=/71x0:775x469/730x487/filters:format(webp)/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg 730w, https://cdn0.vox-cdn.com/thumbor/spu7PX_fGDA6Ms-31mRv2uO1Wt4=/71x0:775x469/709x473/filters:format(webp)/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg 709w, https://cdn0.vox-cdn.com/thumbor/28KDlO-MtAWXpDSvTzsYbsZkZyE=/71x0:775x469/500x333/filters:format(webp)/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg 500w, https://cdn0.vox-cdn.com/thumbor/-4pb-UjqJCKnUedqEhGXMcTW_f4=/71x0:775x469/400x267/filters:format(webp)/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg 400w, https://cdn0.vox-cdn.com/thumbor/pKEpPy-HAR45EArzKiSaqNO8Lbc=/71x0:775x469/352x235/filters:format(webp)/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg 352w, https://cdn0.vox-cdn.com/thumbor/vidC1hN9Qb01RNrCBTgAeOVPeVA=/71x0:775x469/305x203/filters:format(webp)/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg 305w, https://cdn0.vox-cdn.com/thumbor/o0yb1ASKx5DTZF7agRCpOUd-7hc=/71x0:775x469/249x166/filters:format(webp)/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg 249w, https://cdn0.vox-cdn.com/thumbor/R36JL6yVmkJ7Nqval3ccgrsNGOc=/71x0:775x469/207x138/filters:format(webp)/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg 207w, https://cdn0.vox-cdn.com/thumbor/z8B0YPRW_UzOhjhRQg9mQRgOVqM=/71x0:775x469/153x102/filters:format(webp)/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg 153w, https://cdn0.vox-cdn.com/thumbor/hh46bzv04xX9iK5aFgBts22QHmY=/71x0:775x469/133x89/filters:format(webp)/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg 133w, https://cdn0.vox-cdn.com/thumbor/-crMk0FD-Z_3qgkxFjW29S2AGLs=/71x0:775x469/100x67/filters:format(webp)/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg 100w, https://cdn0.vox-cdn.com/thumbor/v0dUuey1hZMpkJf85gXrpRfrrrc=/71x0:775x469/82x55/filters:format(webp)/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg 82w"
+    sizes="(min-width: 881px) 700px, 100vw"
+    type="image/webp"
+  >
+  <img data-shareable-content="pinterest" srcset="https://cdn0.vox-cdn.com/thumbor/_B973PJGyWyd_FJzzM3riLR0nVE=/71x0:775x469/2400x1600/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg 2400w, https://cdn0.vox-cdn.com/thumbor/taZqg7KhomzIV9yUB_s6wJzTDQU=/71x0:775x469/1920x1280/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg 1920w, https://cdn0.vox-cdn.com/thumbor/NcnZ6RrJPTj1FhBCxcuULpBMf_U=/71x0:775x469/1310x873/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg 1310w, https://cdn0.vox-cdn.com/thumbor/XE-RvnX5sMfZio0z1Ea2qr688ok=/71x0:775x469/783x522/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg 783w, https://cdn0.vox-cdn.com/thumbor/7I4V3Vx4t2Elev4-udeFBojBawM=/71x0:775x469/730x487/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg 730w, https://cdn0.vox-cdn.com/thumbor/fNC1eZBOwHsPOx0MfDzefFhxdco=/71x0:775x469/709x473/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg 709w, https://cdn0.vox-cdn.com/thumbor/U38zZH31W8u5GPqNnzNVYWk4gpc=/71x0:775x469/500x333/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg 500w, https://cdn0.vox-cdn.com/thumbor/BFMlHXPb4iqqnZvX4NOTJFi7Zz0=/71x0:775x469/400x267/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg 400w, https://cdn0.vox-cdn.com/thumbor/9bwbm9-cOupAXb7sxf0O_WOw3sE=/71x0:775x469/352x235/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg 352w, https://cdn0.vox-cdn.com/thumbor/D5yGYirbpBZ_dJmU7DiQxp6G1zs=/71x0:775x469/305x203/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg 305w, https://cdn0.vox-cdn.com/thumbor/r0SQGJudJYiocEIlDY_KQeMno9Y=/71x0:775x469/249x166/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg 249w, https://cdn0.vox-cdn.com/thumbor/6YbUoOJgA8RhYZU_59p7gAoNtO8=/71x0:775x469/207x138/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg 207w, https://cdn0.vox-cdn.com/thumbor/J_X_cFVOGV5mnJ9XKoFaW5Z5A1w=/71x0:775x469/153x102/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg 153w, https://cdn0.vox-cdn.com/thumbor/0ec9m9-7TlSl44Zuej9-cVyIHhA=/71x0:775x469/133x89/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg 133w, https://cdn0.vox-cdn.com/thumbor/sDAl2LNtT6DOXFgVUrKH0z6Nu8g=/71x0:775x469/100x67/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg 100w, https://cdn0.vox-cdn.com/thumbor/O6rXk9WPDC58jJ_v9Y0Gu4PQbso=/71x0:775x469/82x55/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg 82w" sizes="(min-width: 881px) 700px, 100vw" src="https://cdn0.vox-cdn.com/thumbor/NcnZ6RrJPTj1FhBCxcuULpBMf_U=/71x0:775x469/1310x873/cdn0.vox-cdn.com/uploads/chorus_image/image/49869909/Dean_Ambrose.0.0.jpg" />
+</picture>
+  <div class="m-entry-admin-pane" data-remote-admin-entry-type="pane" data-remote-admin-entry-id="11708191"></div>
+
+</div>
+
+        </div>
+        
+
+
+
+      
+
+        <span id="chorus-social-fixed-threshold"></span>
+<div id="chorus-social-fixed" class="m-chorus-social__fixed sbn-community sbn" data-analytics-placement="fixed">
+    <a href="/" class="m-chorus-social__fixed__logo" data-analytics-link="logo">
+      <img src="https://cdn1.vox-cdn.com/uploads/blog/sbnu_logo_lockup/244/large_cagesideseats.com.lockup.png" alt="Large cagesideseats.com.lockup" />
+    </a>
+  <div class="m-chorus-social__fixed__buttons">
+      <a href="https://twitter.com/intent/tweet?text=Dean%20Ambrose%3A%20The%20New%20Architect&amp;url=http%3A%2F%2Fwww.cagesideseats.com%2F2016%2F6%2F15%2F11944150%2Fdean-ambrose-the-new-architect&amp;via=cagesideseats" class="p-button-social twitter" data-analytics-social="twitter">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44.71 36.327" class="inline-svg" data-svg-fallback="/v/racked/scripts/../../chorus/images/social/twitter.png" data-svg-fallback-override="" width="100" height="100"><path d="M44.71 4.295c-1.656.724-3.415 1.242-5.278 1.45 1.914-1.14 3.363-2.95 4.036-5.072-1.76 1.035-3.726 1.81-5.796 2.225C35.965 1.138 33.584 0 30.945 0c-5.07 0-9.16 4.088-9.16 9.16 0 .724.052 1.448.208 2.12-7.607-.413-14.335-3.88-18.888-9.417-.777 1.345-1.242 2.742-1.242 4.45 0 3.157 1.604 5.95 4.088 7.607-1.5-.052-2.897-.466-4.14-1.138v.103c0 4.45 3.158 8.176 7.35 9.004-.777.206-1.605.31-2.433.31-.57 0-1.138-.052-1.708-.155 1.138 3.622 4.553 6.313 8.538 6.365-3.105 2.483-7.09 4.346-11.385 4.346-.724 0-1.45-.05-2.173-.155 4.036 2.59 8.9 3.727 14.075 3.727 16.87 0 26.08-13.972 26.08-26.08v-1.19c1.76-1.295 3.313-2.9 4.555-4.762" class="shape-1"/></svg>
+
+        <span class="p-button-social__social-text">Tweet</span>
+      </a>
+      <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.cagesideseats.com%2F2016%2F6%2F15%2F11944150%2Fdean-ambrose-the-new-architect" class="p-button-social facebook" data-analytics-social="facebook">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.406 43.754" class="inline-svg" data-svg-fallback="/v/racked/scripts/../../chorus/images/social/facebook.png" data-svg-fallback-override="" width="100" height="100"><path d="M5.43 43.754v-20.53H0V15.83h5.43V9.518C5.43 4.557 8.635 0 16.024 0c2.99 0 5.204.286 5.204.286l-.175 6.903s-2.257-.023-4.72-.023c-2.663 0-3.09 1.228-3.09 3.266v5.398h8.022l-.35 7.393h-7.672v20.53H5.43z" class="shape-1"/></svg>
+
+        <span class="p-button-social__social-text">Share</span>
+      </a>
+  </div>
+</div>
+
+        <div class="m-entry__upper-social">
+          <div class="m-entry__social">
+    <a href="https://twitter.com/intent/tweet?text=Dean%20Ambrose%3A%20The%20New%20Architect&amp;url=http%3A%2F%2Fwww.cagesideseats.com%2F2016%2F6%2F15%2F11944150%2Fdean-ambrose-the-new-architect&amp;via=cagesideseats" class="p-button has-icon twitter" data-analytics-social="twitter" data-analytics-placement="top">
+  <span class="ss-social">&#xF611;</span>
+  <span class="p-button__social-text">Tweet</span>
+  <span class="p-button__social-text-long">Share on Twitter</span>
+  <span data-use-parens="true" class="p-button__count"></span>
+</a>
+
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.cagesideseats.com%2F2016%2F6%2F15%2F11944150%2Fdean-ambrose-the-new-architect" class="p-button has-icon facebook" data-analytics-social="facebook" data-analytics-placement="top">
+  <span class="ss-social">&#xF610;</span><span class="p-button__social-text">Share</span>
+  <span class="p-button__social-text-long">Share on Facebook</span>
+  <span data-facebook-share-count-url="http://www.cagesideseats.com/2016/6/15/11944150/dean-ambrose-the-new-architect" data-use-parens="true" class="p-button__count"></span>
+</a>
+
+    <a href="https://www.pinterest.com/pin/create/button/?description=He%27s+no+longer+unhinged.+He%27s+so+much+more.&amp;media=https%3A%2F%2Fcdn0.vox-cdn.com%2Fthumbor%2FA2GDAxwERiuzFz9UiPFlBnqkF_w%3D%2F0x0%3A835x470%2F1050x591%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F49869909%2FDean_Ambrose.0.0.jpg&amp;url=http%3A%2F%2Fwww.cagesideseats.com%2F2016%2F6%2F15%2F11944150%2Fdean-ambrose-the-new-architect" class="p-button has-icon pinterest" data-pin-do="true" data-analytics-social="pinterest" data-analytics-placement="top">
+  <span class="ss-social">&#xF650;</span><span class="p-button__social-text">Pin</span>
+  <span class="p-button__social-text-long">Pinterest</span>
+  <span data-pinterest-share-count-url="http://www.cagesideseats.com/2016/6/15/11944150/dean-ambrose-the-new-architect" data-use-parens="true" class="p-button__count"></span>
+</a>
+
+    <a href="http://www.cagesideseats.com/2016/6/15/11944150/dean-ambrose-the-new-architect#comments" class="p-button has-icon comments">
+    <span class="comments-count-wrapper">
+      <span class="comments-count">55</span>
+    </span>
+    <span class="p-button__social-text">
+      Comments
+    </span>
+</a>
+
+      <span class="p-button has-icon recommend">
+    <span class="ss-icon">&#x22C6;</span>
+    <span class="p-button__social-text">Rec</span>
+    <span class="p-button__social-text-long"> Recommend this Post</span>
+    <span class="p-button__count">
+      71
+    </span>
+  </span>
+
+</div>
+
+        </div>
+
+
+      <div class="m-entry__body" id="article-body">
+    <p>I once had a friend who I thought I was very close to. This person's friendship was key to my happiness and made me feel special and important. Then one day, we had a fight, and just like that, our friendship was over. It never had the depth that I had thought it did. I cried for days and thought about it for months.</p>
+<p>I didn't get over it all at once. There was no big moment of vengeance or reconciliation. But time did its work, and one day, I realized I had moved on. Thinking about this person just doesn't affect my feelings anymore.</p>
+<p>So when I watched the Shield reunion on Ambrose's talk show segment on the 6/13 Raw, I knew exactly what was happening for Dean Ambrose's character.</p>
+<p>After the segment aired, there was a lot of debate about whether Ambrose had ruined the segment. "Why was he grinning? making faces? trying to hug Rollins? His character wouldn't do that. His attitude was wrong. His acting was wrong."</p>
+<p>If you compare Dean on this past Raw to the Dean from two years ago, then absolutely, it was night and day. After the Shield breakup, all Seth had to do was turn up in the arena during an Ambrose match and Dean would lose focus, lose control, and come at him. He lost matches because he was more interested in getting to Seth. Seth still had power over him.</p>
+<p>So why was he hugging and laughing on Monday? Because he's over it. Not in a "no hard feelings" way - in a much more dangerous way. Dean is back in control of his emotions because now he's detached.</p>
+<p>Watch the part where Seth switches from reminiscing about the old Shield days to bragging about the chairshot. It's the exact same emotional manipulation he was pulling two years ago. It gets to the crowd and inspires boos. It gets to Roman and inspires a rage-filled glare.</p>
+<p>And Dean laughs. He laughs at Seth. Because somewhere in two years, he has stopped feeling anything toward him. Seth gets louder and louder, trying to exert the old influence that he had over Dean, back when his "I was never your friend" speech left Dean sinking weakly into the corner of the ring, back when Dean was screaming, "I was your brother!" while beating Seth with both fists.</p>
+<p>Now, nothing Seth says can touch him, because Seth doesn't matter anymore. He is de-fanged. He's nothing but an ugly, loud little man, getting himself more and more wound up while his words simply dissipate in the air.</p>
+<p>And this means that Dean now has the upper hand. Watch Seth and Roman face off, moving closer to one another, ready to fight - while Dean grins in the background. He's grinning because he put them in this ring together and cranked up their emotions without ever having his own emotions affected.</p>
+<p><img src="https://cdn0.vox-cdn.com/uploads/chorus_asset/file/6652887/hqdefault.0.jpg" alt="Raw screenshot"></p>
+<p>He orchestrates the crowd to cheer first for the idea of Seth winning, then for the idea of Roman winning. Watch how self-satisfied little smiles creep onto their faces as they imagine winning on Sunday. They're reacting just as he planned. Then watch their faces drop when he reveals his true plan - to get the briefcase and defeat whomever is holding the belt.</p>
+<p>Moments later, Roman has dispatched Seth, and then Dean calmly dispatches Roman and stands tall over them both.</p>
+<p>Because he's in control this time.</p>
+<p>Seth has lost his power; he can no longer push Dean to lose focus and make mistakes. But Roman's power - the power of a loyal friend - is no longer influencing him, either. Dean shows where he truly stands when he attacks Roman with Dirty Deeds.</p>
+<p>This latest version of Dean may be the most dangerous. In the Shield, he was often overcome by what he was feeling and depended on Seth and Roman to calm him down and direct his energy. After the Shield, he was driven by his feelings about Seth and his loyalty to Roman.</p>
+<p>On Monday night, he showed that's he's now beyond their influence, both positive and negative. If he goes full-on dark, he could finally become the Joker character that fans have imagined he could be.</p><!-- extended entry -->
+</div>
+
+
+
+      <p class="m-entry__fanpost-disclaimer">
+  The FanPosts are solely the subjective opinions of Cageside Seats readers and do not necessarily reflect the views of Cageside Seats editors or staff.
+
+<p>
+
+      <div class="m-linksets has-logo" id="nextclicks">
+  <img class="m-linksets__logo" src="https://cdn1.vox-cdn.com/uploads/blog/sbnu_logo_minimal/244/small_cagesideseats.com.minimal.png" alt="Small cagesideseats.com.minimal" />
+  <h3><span>More from <em class="uses-primary-color">Cageside Seats</em></span></h3>
+    <ul>
+        <li><a class="chorus-optimize" data-analytics-viewport="nextclicks" data-analytics-class="nextclicks" data-chorus-optimize-id="14442917" data-chorus-optimize-module="m-linksets" data-chorus-optimize-field="hed" href="http://www.cagesideseats.com/wwe/2017/2/20/14678876/vince-mcmahon-fired-the-rock-before-raw-los-angeles">Vince McMahon fired The Rock before Raw went on the air in Los Angeles</a></li>
+        <li><a class="chorus-optimize" data-analytics-viewport="nextclicks" data-analytics-class="nextclicks" data-chorus-optimize-id="14445009" data-chorus-optimize-module="m-linksets" data-chorus-optimize-field="hed" href="http://www.cagesideseats.com/wwe/2017/2/20/14680968/the-rock-called-cm-punk-from-the-ring-video-after-raw-went-off-the-air-in-los-angeles-response">The Rock called CM Punk from the ring after Raw went off the air in Los Angeles</a></li>
+        <li><a class="chorus-optimize" data-analytics-viewport="nextclicks" data-analytics-class="nextclicks" data-chorus-optimize-id="14431955" data-chorus-optimize-module="m-linksets" data-chorus-optimize-field="hed" href="http://www.cagesideseats.com/2017/2/21/14667914/rumor-roundup-feb-21-2017-wrestlemania-33-shaquille-oneal-big-show-wwe-draft-kelly-kelly-victoria">Rumor Roundup (Feb. 21, 2017): Shaq/Show, WWE draft, returning Women’s champs, more!</a></li>
+        <li><a class="chorus-optimize" data-analytics-viewport="nextclicks" data-analytics-class="nextclicks" data-chorus-optimize-id="14442369" data-chorus-optimize-module="m-linksets" data-chorus-optimize-field="hed" href="http://www.cagesideseats.com/wwe/2017/2/21/14678328/wwe-raw-results-recap-reactions-feb-20-2017-big-show-braun-strowman">WWE RAW results, recap, reactions (Feb. 20, 2017): The Man Event</a></li>
+        <li><a class="chorus-optimize" data-analytics-viewport="nextclicks" data-analytics-class="nextclicks" data-chorus-optimize-id="14444301" data-chorus-optimize-module="m-linksets" data-chorus-optimize-field="hed" href="http://www.cagesideseats.com/wwe/2017/2/20/14680260/gif-braun-strowman-kip-up">GIF: BRAUN STROWMAN KIP UP</a></li>
+        <li><a class="chorus-optimize" data-analytics-viewport="nextclicks" data-analytics-class="nextclicks" data-chorus-optimize-id="14453583" data-chorus-optimize-module="m-linksets" data-chorus-optimize-field="hed" href="http://www.cagesideseats.com/wwe/2017/2/21/14689542/vince-mcmahon-triple-h-reported-not-happy-the-rock-called-cm-punk-during-wwe-raw-los-angeles">Vince McMahon &amp; Triple H were reportedly not happy with The Rock calling CM Punk during Raw dark segment</a></li>
+        <li><a class="chorus-optimize" data-analytics-viewport="nextclicks" data-analytics-class="nextclicks" data-chorus-optimize-id="14447273" data-chorus-optimize-module="m-linksets" data-chorus-optimize-field="hed" href="http://www.cagesideseats.com/wwe/2017/2/21/14683232/wwe-got-it-all-wrong-bayley-on-raw-los-angeles-stephanie-mcmahon">WWE got it all wrong with Bayley on RAW</a></li>
+      
+<div id='div-gpt-ad-native_ad_linkset_link' class="dfp_ad" data-cb-dfp-id="unit=native_ad_linkset_link" data-cb-ad-id="Native ad linkset link">
+  <script type='text/javascript'>pbjs.que.push(function() {ChorusAds.showAd("native_ad_linkset_link");});</script>
+</div>
+
+
+    </ul>
+  <div class="m-linksets__embed p-scalable-video">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/mYM8APFmNXo" frameborder="0" allowfullscreen></iframe>
+</div>
+
+</div>
+<style type="text/css">.next-clicks-main-container {display: none}</style>
+
+      
+
+      
+        <div class="m-entry__lower-social">
+          <div class="m-entry__social">
+    <a href="https://twitter.com/intent/tweet?text=Dean%20Ambrose%3A%20The%20New%20Architect&amp;url=http%3A%2F%2Fwww.cagesideseats.com%2F2016%2F6%2F15%2F11944150%2Fdean-ambrose-the-new-architect&amp;via=cagesideseats" class="p-button has-icon twitter" data-analytics-social="twitter" data-analytics-placement="bottom">
+  <span class="ss-social">&#xF611;</span>
+  <span class="p-button__social-text">Tweet</span>
+  <span class="p-button__social-text-long">Share on Twitter</span>
+  <span data-use-parens="true" class="p-button__count"></span>
+</a>
+
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.cagesideseats.com%2F2016%2F6%2F15%2F11944150%2Fdean-ambrose-the-new-architect" class="p-button has-icon facebook" data-analytics-social="facebook" data-analytics-placement="bottom">
+  <span class="ss-social">&#xF610;</span><span class="p-button__social-text">Share</span>
+  <span class="p-button__social-text-long">Share on Facebook</span>
+  <span data-facebook-share-count-url="http://www.cagesideseats.com/2016/6/15/11944150/dean-ambrose-the-new-architect" data-use-parens="true" class="p-button__count"></span>
+</a>
+
+    <a href="https://www.pinterest.com/pin/create/button/?description=He%27s+no+longer+unhinged.+He%27s+so+much+more.&amp;media=https%3A%2F%2Fcdn0.vox-cdn.com%2Fthumbor%2FA2GDAxwERiuzFz9UiPFlBnqkF_w%3D%2F0x0%3A835x470%2F1050x591%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F49869909%2FDean_Ambrose.0.0.jpg&amp;url=http%3A%2F%2Fwww.cagesideseats.com%2F2016%2F6%2F15%2F11944150%2Fdean-ambrose-the-new-architect" class="p-button has-icon pinterest" data-pin-do="true" data-analytics-social="pinterest" data-analytics-placement="bottom">
+  <span class="ss-social">&#xF650;</span><span class="p-button__social-text">Pin</span>
+  <span class="p-button__social-text-long">Pinterest</span>
+  <span data-pinterest-share-count-url="http://www.cagesideseats.com/2016/6/15/11944150/dean-ambrose-the-new-architect" data-use-parens="true" class="p-button__count"></span>
+</a>
+
+    <a href="http://www.cagesideseats.com/2016/6/15/11944150/dean-ambrose-the-new-architect#comments" class="p-button has-icon comments">
+    <span class="comments-count-wrapper">
+      <span class="comments-count">55</span>
+    </span>
+    <span class="p-button__social-text">
+      Comments
+    </span>
+</a>
+
+      <span class="p-button has-icon recommend">
+    <span class="ss-icon">&#x22C6;</span>
+    <span class="p-button__social-text">Rec</span>
+    <span class="p-button__social-text-long"> Recommend this Post</span>
+    <span class="p-button__count">
+      71
+    </span>
+  </span>
+
+</div>
+
+        </div>
+      
+      
+    </div></div>
+
+    <div class="l-rail">
+        <div class="m-ad rail m-ad__halfpage">
+  
+<div id='div-gpt-ad-half_page' class="dfp_ad" data-cb-dfp-id="unit=half_page" data-cb-ad-id="Half page">
+  <script type='text/javascript'>pbjs.que.push(function() {ChorusAds.showAd("half_page");});</script>
+</div>
+
+  
+<div id='div-gpt-ad-tablet_half_page' class="dfp_ad" data-cb-dfp-id="unit=tablet_half_page" data-cb-ad-id="Tablet half page">
+  <script type='text/javascript'>pbjs.que.push(function() {ChorusAds.showAd("tablet_half_page");});</script>
+</div>
+
+</div>
+
+
+
+  
+  <div class="m-rock m-latest-news">
+  <h2>Recent FanPosts</h2>
+  <div class="m-rock__body">
+    <ul class="m-rock__list">
+        <li><a data-analytics-link="latest-news" href="http://www.cagesideseats.com/2017/2/24/14723070/naomi-to-be-replaced-by-asuka-at-the-garden">Asuka to replace Naomi on MSG house show</a></li>
+        <li><a data-analytics-link="latest-news" href="http://www.cagesideseats.com/2017/2/24/14722920/the-nightly-thursday-february-23">The Nightly, Thursday, February 23</a></li>
+        <li><a data-analytics-link="latest-news" href="http://www.cagesideseats.com/2017/2/22/14697390/wwe-and-its-authenticity-problem">WWE, wrestling promos, and the authenticity problem</a></li>
+        <li><a data-analytics-link="latest-news" href="http://www.cagesideseats.com/2017/2/22/14696700/tag-team-weekly-roundup-and-power-rankings">WWE tag teams: Weekly roundup and power rankings</a></li>
+        <li><a data-analytics-link="latest-news" href="http://www.cagesideseats.com/2017/2/23/14715094/the-meaning-of-winning-a-wwe-title">The meaning of winning a WWE title</a></li>
+        <li><a data-analytics-link="latest-news" href="http://www.cagesideseats.com/2017/2/23/14716376/your-top-3-tna-matches">YOUR Top 3: TNA Matches</a></li>
+        <li><a data-analytics-link="latest-news" href="http://www.cagesideseats.com/2017/2/22/14706710/wwe-205-live-recap-and-reactions-feb-21-2017-many-careers-may-have">205 Live recap & reactions: Making Careers</a></li>
+        <li><a data-analytics-link="latest-news" href="http://www.cagesideseats.com/2017/2/23/14706772/the-nightly-wednesday-february-22">The Nightly, Wednesday, February 22</a></li>
+        <li><a data-analytics-link="latest-news" href="http://www.cagesideseats.com/2017/2/22/14703456/the-curious-case-of-the-cruiserweights">The Curious Case of the Cruiserweights</a></li>
+        <li><a data-analytics-link="latest-news" href="http://www.cagesideseats.com/2017/2/22/14703372/this-week-is-the-books-and-smackdown-wins-again-despite-its">This week is the books and SmackDown wins again despite it&#39;s questionable finish.</a></li>
+    </ul>
+  </div>
+  
+</div>
+
+  
+
+
+
+    </div>
+  </div>
+
+  <div class="m-ad m-ad__mid-body">
+  <div class="m-ad__desktop-only">
+    
+<div id='div-gpt-ad-mid_body' class="dfp_ad" data-cb-dfp-id="unit=mid_body" data-cb-ad-id="Mid body">
+  <script type='text/javascript'>pbjs.que.push(function() {ChorusAds.showAd("mid_body");});</script>
+</div>
+
+  </div>
+</div>
+
+    
+
+    <div class="l-chunk has-rail">
+        <div class="l-main"><div class="l-main-float l-main-float-fullwidth">
+          <div id="comments" class="comments_wrapper "></div>
+
+<script type="script/template" id="comment-account-actions-template">
+    <div class="account-actions-login">
+  <h2 class="comments-signin-title">
+    Join the conversation!<br/>
+    <a data-chorus-auth="login" href="https://auth.voxmedia.com/login?community_id=244&return_to=http%3A%2F%2Fwww.cagesideseats.com%2F2016%2F6%2F15%2F11944150%2Fdean-ambrose-the-new-architect%23comments">Log in</a> or
+    <a data-chorus-auth="register" href="http://www.sbnation.com/signup">sign up</a>
+  </h2>
+</div>
+
+</script>
+
+<script type="script/template" id="comment-auto-update-alert-template" class="template">
+  <div class="au-alert-column-set">
+    <div class="au-alert-column au-column-count">
+      <strong>[%= data.comments.length %]</strong>
+      <em>COMMENT[%= data.comments.length > 1 ? "S" : "" %]</em>
+    </div>
+
+    <div class="au-alert-column au-column-comments-list">
+      [% var len = Math.min(data.comments.length, data.settings.autoUpdateAlertMaxShown) %]
+      [% for (var i = 0; i < len; i++) { %]
+        [% var comment = data.comments[i]; %]
+        <p>
+          <a href="#" class="go_to_comment" data-comment-id="[%= comment.id %]">
+            [%= comment.user.display_name %]
+          </a>
+
+          [% if (comment.parent) { %]
+            <span><em>replied to</em> [%= comment.parent.user.display_name %]</span>
+          [% } else { %]
+            <span><em>posted a new comment</em></span>
+          [% } %]
+        </p>
+      [% } %]
+    </div>
+  </div>
+
+  <p class="legend">
+     Press <strong>Z</strong> to read next comment.
+     <strong>R</strong> to reply.
+  </p>
+
+  <a href="#" class="close">Close</a>
+</script>
+
+<script type="script/template" id="comment-template" class="template">
+  <div class="comment">
+    [% if (data.view.hasProfilePicture()) { %]
+      <a href="[%= data.comment.user.profile_url %]" target="_blank" class="avatar">
+        <img src="[%= data.comment.user.profile_image %]" alt="[%= data.comment.user.display_name %]" />
+      </a>
+    [% } %]
+
+    <h2 class="title collapse_toggle [%= data.comment.title ? '' : 'no_content' %]">
+      <span class="collapse_toggle collapse_toggle_button"><span class="ss-icon">&#xF501;</span></span>
+
+      [% if (data.comment.title) { %]
+        [%= data.comment.title %]
+      [% } else { %]
+        <span class="collapsed_indicator">comment collapsed</span>
+      [% } %]
+
+      <span class="reply_count"></span>
+    </h2>
+
+    <div class="cbody">
+      [%= data.comment.body %]
+    </div>
+
+    [% if (data.comment.signature && data.settings.showSignatures) { %]
+      <div class="sig">
+        [%= data.comment.signature %]
+      </div>
+    [% } %]
+
+    <div class="meta">
+      [% if (data.comment.user.profile_url) { %]
+        by <a href="[%= data.comment.user.profile_url %]" class="poster" target="_blank">[%= data.comment.user.display_name %]</a>
+      [% } else { %]
+        by [%= data.comment.user.display_name %]
+      [% } %]
+
+      [% if (data.comment.user.badge) { %]
+        <span class="badge comment-badge-[%= data.comment.user.badge %]"></span>
+      [% } %]
+
+      [% if (data.comment.id) { %]
+        on <a href="#[%= data.comment.id %]" class="date">[%= data.comment.created_on %]</a>
+      [% } %]
+      <span class="user_actions">
+      [% if (data.comment.parent_id) { %]
+        <a href="#" class="up_link" title="scroll to parent comment">up</a>
+      [% }%]
+
+      [% if (data.comment.id) { %]
+
+        [% if (data.comment.is_editable) { %]
+          <a href="#" class="edit_link" title="edit this comment">
+            edit <span class="countdown_timer"></span>
+          </a>
+        [% } %]
+
+        [% if (!data.context.comments_closed) { %]
+          <a href="#" class="reply_link" title="reply to this comment">reply</a>
+        [% } %]
+
+        [% if (data.context.able_to_comment) { %]
+          <span class="cactions [% if (data.context.able_to_moderate) { %] mod [% } %]">
+            [% var rec_class = [] %]
+            [% if (data.comment.is_recommended) { rec_class.push('recommended') } %]
+            [% if (data.comment.is_recommended_by_user) { rec_class.push('user_recommended') } %]
+            [% rec_class = rec_class.join(' ') %]
+
+            [% if (!data.comment.is_flagged_by_user && data.comment.user_id != data.context.user_id) { %]
+              <a href="#" class="rec_link [%= rec_class %]">
+                [%= data.comment.is_recommended_by_user ? "unrec" : "rec" %]
+                <span class="rec_count">
+                  [% if (data.comment.recommended_flags_count > 0) { %]
+                    ([%= data.comment.recommended_flags_count %])
+                  [% } %]
+                </span>
+              </a>
+            [% } else if (data.comment.recommended_flags_count > 0) { %]
+              <span class="rec_readonly [%= rec_class %]">
+                <span class="rec_count">
+                  [%= data.comment.recommended_flags_count %]
+                </span>
+                recs
+              </span>
+            [% } %]
+
+            [% if (!data.comment.is_recommended_by_user) { %]
+              <a href="#" class="flag_link [% if (data.comment.is_flagged_by_user) { %] user_flagged [% } %]">
+                [%= data.comment.is_flagged_by_user ? 'unflag' : 'flag' %]
+              </a>
+            [% } %]
+
+            [% if (data.context.able_to_moderate) { %]
+              <span class="mod_actions">
+                [% if (data.comment.bad_flags_count > 0) { %]
+                  <a href="#" class="inspect_flags_link">
+                    <span class="full_text">inspect</span> flags ([%= data.comment.bad_flags_count %])
+                  </a>
+                [% } %]
+
+                <a href="#" class="actions_toggle">actions</a>
+                <span class="actions_links">
+                  <a href="#" class="block_user_link">spam <span class="full_text">ban</span></a>
+                  <a href="#" class="delete_link">delete</a>
+                  <a href="#" class="hide_link">[%= data.comment.hidden ? 'unhide' : 'hide' %]</a>
+                  <a href="#" class="inspect_user_link"><span class="full_text">inspect</span> user</a>
+                </span>
+              </span>
+            [% } %]
+          </span>
+        [% } %]
+      [% } %]
+      </span>
+    </div>
+
+    [% if (data.comment.is_editable) { %]
+      <div class="countdown_timer_bar"></div>
+    [% } %]
+  </div>
+</script>
+
+<script type="script/template" id="comments-closed-notice-template" class="template">
+  <h4 class="comments-closed">Comments are closed for this post.</h4>
+</script>
+
+<script type="script/template" id="comment-edit-form-template" class="template">
+  <form action="#" method="post" class="edit_form">
+    <h5 class="subject formsubtitle">Subject</h5>
+    <input type="text" name="title" value="[%- data.comment.title %]" class="text-input" />
+
+    <h5 class="message formsubtitle">Message</h5>
+    <textarea name="body" rows="6" cols="64">[%= data.comment.rawBody || data.comment.body %]</textarea>
+
+    <p class="center submit">
+      <input type="button" value="save" class="p-button post_edit_button" />
+      <input type="button" value="cancel" class="p-button cancel_edit_button" />
+    </p>
+  </form>
+</script>
+
+<script type="script/template" id="comment-flag-dialog-template" class="template">
+  <div id="comment_flag_modal" class="m-modal m-modal-comment-flag modal comments-modal flag_modal">
+    <div class="m-modal__wrap vox-module s-modal comments-modal flag_modal">
+      <header class="s-modal-head">
+        <h2 class="s-modal-title">Flag Comment</h2>
+        <a href="#" class="m-modal__close-modal"  data-chorus-modal-action="cancel" id="modal-close"></a>
+      </header>
+
+      <div class="s-modal-body m-modal__body">
+        <form action="#" method="post">
+          <input name="id" type="hidden" value="[%= data.comment.id %]">
+
+          <p class="s-fieldset">
+            <label>Reason:</label>
+            <select name="flagging[flag_id]" id="flagging_flag_id"><option value="5">Abuse</option>
+<option value="7">Harassment</option>
+<option value="13">Homophobia</option>
+<option value="4">Inappropriate</option>
+<option value="9">Racism</option>
+<option value="11">Sexism</option>
+<option value="1">Spam</option>
+<option value="2">Troll</option></select>
+          </p>
+
+          <p class="s-fieldset">
+            <label>Notes:</label>
+            <textarea cols="50" name="flagging[comment]" rows="5"></textarea>
+          </p>
+
+          <p class="col short-note">
+            Your flag will not be visible to anyone but moderators. Please select the reason you are flagging this content: abuse, harassment, homophobia, inappropriate, racism, sexism, spam, or troll. Then write us a short note explaining why you flagged it that way.
+          </p>
+
+          <input class="submit primary p-button" name="commit" type="submit" value="Submit">
+        </form>
+      </div>
+    </div>
+  </div>
+</script>
+
+<script type="script/template" id="comments-footer-template" class="template">
+  <ul class="comments-footnav">
+    <li><a href="#comments">&uarr; Top of comments</a></li>
+    <li><a href="#top">&uarr; Top of page</a></li>
+    <li><a href="/">&uarr; Cageside Seats</a></li>
+      <li><a href="/archives/full">&uarr; Articles</a></li>
+  </ul>
+</script>
+
+<script type="script/template" id="comment-formatting-guide-template" class="template">
+  <table>
+    <tr>
+      <th>for this effect</th>
+      <th>type this</th>
+    </tr>
+    <tr>
+      <td>
+        <strong>Bold phrase</strong>
+      </td>
+      <td>
+        *Bold phrase*
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <span style="font-style: italic;">Italic phrase</span>
+      </td>
+      <td>
+        _Italic phrase_
+      </td>
+    </tr>
+      <tr>
+        <td>
+          <del>Striked phrase</del>
+        </td>
+        <td>
+          -Striked phrase-
+        </td>
+      </tr>
+      <tr>
+      <td>
+        <ul>
+          <li>Bulleted list</li>
+          <li>Bulleted list</li>
+        </ul>
+      </td>
+      <td>
+          * Bulleted list<br />
+
+          * Bulleted list
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <ol>
+          <li>Numbered list</li>
+          <li>Numbered list</li>
+
+        </ol>
+      </td>
+      <td>
+          # Numbered list<br />
+          # Numbered list
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <blockquote>Blockquoted paragraph</blockquote>
+      </td>
+      <td>
+          bq. Blockquoted paragraph
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;&nbsp;&nbsp;&nbsp;Indented paragraph
+      </td>
+      <td>
+          p(. Indented paragraph
+      </td>
+    </tr>
+    <tr>
+      <td><a href="http://www.google.com">Google</a></td>
+      <td>"Google":http://www.google.com</td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn0.vox-cdn.com/images/globals/pic-icon.v2b54954266e79673a89c4c2770affeb1a6d4de7f.png" alt="Pic icon.v2b54954266e79673a89c4c2770affeb1a6d4de7f" /></td>
+      <td>!http://website.com/images/filename.png!</td>
+    </tr>
+  </table>
+</script>
+
+<script type="script/template" id="comments-header-template" class="template">
+  <h2>
+      There are <em class="count">55</em> Comments.
+
+    [% if (!data.context.comments_closed && data.context.able_to_comment) { %]
+      <a href="#main_comment_form" class="add_comment_link">Add yours.</a>
+    [% } else if (!data.context.comments_closed) { %]
+      <a href="#comment_tease" class="add_comment_link">Add yours.</a>
+    [% } %]
+
+    [% if (!data.settings.startOnScroll) { %]
+      <a href="#" class="show_comments_link">Load Now.</a>
+    [% } %]
+
+    <img alt="Loading" class="show_comments_spinner" src="https://cdn0.vox-cdn.com/images/spinner.v7626b0abab2c871cd1a57acd274f90b1f4ed3a16.gif" />
+  </h2>
+
+  <a href="#" class="tips_link">Show speed reading tips and settings</a>
+
+  <div class="tips">
+    <div><em>Shortcuts to mastering the comment thread. Use wisely.</em></div>
+
+    <div class="sr-group">
+      <div class="sr-set">
+        <em>C</em> - Next Comment<br>
+        <em>X</em> - Mark as Read<br>
+      </div>
+      <div class="sr-set">
+        <em>R</em> - Reply<br>
+        <em>Z</em> - Mark Read & Next
+      </div>
+      <div class="sr-set">
+        <em>Shift</em> + <em>C</em> - Previous<br>
+        <em>Shift</em> + <em>A</em> - Mark All Read
+      </div>
+    </div>
+
+    <h4>Comment Settings</h4>
+    <label>
+      Live comment alert:
+      <a href="#" class="auto_update_alert_toggle">Hide it!</a>
+    </label>
+  </div>
+
+  [% if (data.context.able_to_comment && !data.context.comments_closed && Chorus.Environment.touch()) { %]
+    <div class="touch_tools">
+      <a href="#" class="touch_tools_toggle">Toggle speed reading controls</a>
+    </div>
+  [% } %]
+</script>
+
+<script type="script/template" id="comment-inspect-flags-dialog-template" class="template">
+  <div id="inspect_flags_modal" class="m-modal m-modal-comments-flag modal comments-modal flagings-modal">
+    <div class="vox-module m-modal__wrap s-modal comments-modal flag_modal">
+      <header class="s-modal-head">
+        <h2 class="s-modal-title">Flags For ...</h2>
+        <a href="#" class="m-modal__close-modal"  data-chorus-modal-action="cancel" id="modal-close"></a>
+      </header>
+
+      <div class="m-modal__body s-modal-body">
+        <h2 class="comment-title">[%= data.comment.title %]</h2>
+
+        <table class="sbn-data-table">
+          <tr>
+            <th>Type</th>
+            <th>Date/Time</th>
+            <th>Member</th>
+            <th>Reason</th>
+          </tr>
+
+          [% _.each(data.flaggings, function(flagging, i) { %]
+            <tr class="[%= (i % 2) ? 'ui-state-odd' : 'ui-state-even' %]">
+              <td class="type">[%= flagging.flag_name %]</td>
+              <td class="date">[%= flagging.created_on %]</td>
+              <td class="user">
+                <a href="[%= flagging.user.profile_url %]">
+                  [%= flagging.user.display_name %]
+                </a>
+              </td>
+              <td class="reason">[%= flagging.comment %]</td>
+            </tr>
+          [% }) %]
+        </table>
+      </div>
+    </div>
+  </div>
+</script>
+
+<script type="script/template" id="comment-main-form-template" class="template">
+  <form action="#" method="post" class="post_form">
+    <div class="preview-controls">
+      <input type="button" value="post" class="p-button post_comment_button" />
+      <input type="button" value="cancel" class="p-button cancel_comment_button" />
+    </div>
+
+    <h3 class="clearfix formtitle">Post a New Comment</h3>
+
+    <h5 class="subject formsubtitle">Subject</h5>
+    <input maxlength="255" type="text" name="title" class="text-input" />
+
+    <h5 class="message formsubtitle">Message</h5>
+    <textarea name="body" rows="6" cols="64"></textarea>
+
+    <p class="center submit">
+      <input type="button" value="preview" class="p-button preview_comment_button" />
+      <input type="button" value="post" class="p-button post_comment_button" />
+      <input type="button" value="cancel" class="p-button cancel_comment_button" />
+    </p>
+  </form>
+</script>
+
+<script type="script/template" id="comment-reply-form-template" class="template">
+  <form action="#" method="post" class="reply_form">
+    <div class="preview-controls">
+      <input type="button" value="post" class="p-button post_comment_button" />
+      <input type="button" value="cancel" class="p-button cancel_comment_button" />
+    </div>
+
+    <input type="hidden" name="parent_id" value="[%= data.comment.id %]" />
+
+    <h5 class="subject formsubtitle">Subject</h5>
+    <input autofocus maxlength="255" type="text" name="title" class="text-input" />
+
+    <h5 class="message formsubtitle">Message</h5>
+    <textarea name="body" rows="6" cols="64"></textarea>
+
+    <p class="center submit">
+      <input type="button" value="preview" class="p-button preview_comment_button" />
+      <input type="button" value="post" class="p-button post_comment_button" />
+      <input type="button" value="cancel" class="p-button cancel_comment_button" />
+    </p>
+  </form>
+</script>
+
+<script type="text/template" id="comment-touch-tools-template" class="template">
+  <a href="#" class="refresh"><span class="ss-icon">&#x21BB;</span></a>
+  <a href="#" class="next">Next unread</a>
+  <a href="#" class="mark">Unmark all</a>
+  <a href="#" class="close"><span class="ss-icon">&#x2421;</span></a>
+</script>
+
+
+<script type="text/javascript">
+  jQuery(function($) {
+  	if (Chorus.Comments) {
+  		Chorus.Comments.initialize(11708191, {"autoUpdateEnabled":false,"flaggedThreshold":1,"recommendedThreshold":10,"showAvatars":true,"showImages":true,"removeImages":false,"removeEmoji":false,"showSignatures":true,"markItUp":{"markupSet":[{"name":"Bold","key":"B","openWith":"\u003cstrong\u003e","closeWith":"\u003c/strong\u003e"},{"name":"Italic","key":"I","openWith":"\u003cem\u003e","closeWith":"\u003c/em\u003e"},{"name":"Strike through","key":"S","openWith":"\u003cstrike\u003e","closeWith":"\u003c/strike\u003e"},{"name":"Quote","openWith":"\u003cblockquote\u003e","closeWith":"\u003c/blockquote\u003e","multiline":false},{"separator":"---------------"},{"name":"Bulleted list","openWith":"* ","multiline":true},{"name":"Numeric list","openWith":"# ","multiline":true},{"separator":"---------------"},{"name":"Picture","replaceWith":"\u003cimg src=\"[![Source:!:http://]!]\" alt=\"\" /\u003e"},{"name":"Link","openWith":"\u003ca href=\"[![Link:!:http://]!]\"\u003e","closeWith":"\u003c/a\u003e","placeHolder":"Your text to link here"},{"name":"Spoilers","key":"F","openWith":"\u003cspan class=\"spoiler\"\u003e","closeWith":"\u003c/span\u003e","placeHolder":"Spoiler text here"}],"resizeHandle":false}});
+  	}
+  });
+</script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+        </div></div>
+        <div class="l-rail">
+            <div class="m-ad m-ad__medrec">
+  
+<div id='div-gpt-ad-btf_medium_rectangle' class="dfp_ad" data-cb-dfp-id="unit=btf_medium_rectangle" data-cb-ad-id="Btf medium rectangle">
+  <script type='text/javascript'>pbjs.que.push(function() {ChorusAds.showAd("btf_medium_rectangle");});</script>
+</div>
+
+</div>
+
+
+  <div class="m-rock m-latest-news">
+  <h2>Trending Discussions</h2>
+  <div class="m-rock__body">
+    <ul class="m-rock__list">
+        <li><a data-analytics-link="latest-news" href="http://www.cagesideseats.com/2017/2/21/14668078/daily-open-thread-feb-21-2017">The Daily</a></li>
+        <li><a data-analytics-link="latest-news" href="http://www.cagesideseats.com/2017/2/22/14668146/daily-open-thread-feb-22-2017">The Daily</a></li>
+        <li><a data-analytics-link="latest-news" href="http://www.cagesideseats.com/2017/2/20/14577458/daily-open-thread-feb-20-2017">The Daily</a></li>
+        <li><a data-analytics-link="latest-news" href="http://www.cagesideseats.com/2017/2/23/14668166/daily-open-thread-feb-23-2017">The Daily</a></li>
+        <li><a data-analytics-link="latest-news" href="http://www.cagesideseats.com/2017/2/17/14577392/daily-open-thread-feb-17-2017">The Daily</a></li>
+        <li><a data-analytics-link="latest-news" href="http://www.cagesideseats.com/2017/2/18/14656364/the-nightly-friday-february-17-2017">The Nightly: Friday, February 17, 2017</a></li>
+        <li><a data-analytics-link="latest-news" href="http://www.cagesideseats.com/wwe/2017/2/20/14662026/wwe-raw-results-live-blog-feb-20-2017-braun-strowman-vs-big-show">Raw results, live blog: Strowman vs. Show</a></li>
+        <li><a data-analytics-link="latest-news" href="http://www.cagesideseats.com/2017/2/20/14680982/the-nightly-monday-february-20">The Nightly, Monday, February 20</a></li>
+        <li><a data-analytics-link="latest-news" href="http://www.cagesideseats.com/wwe/2017/2/21/14671704/wwe-smackdown-live-results-feb-21-2017-battle-royal-bray-wyatt-wrestlemania-33">SmackDown Live results: BATTLE ROYAL</a></li>
+        <li><a data-analytics-link="latest-news" href="http://www.cagesideseats.com/2017/2/22/14695292/the-nightly-tuesday-february-21">The Nightly, Tuesday, February 21</a></li>
+    </ul>
+  </div>
+  
+</div>
+
+
+        </div>
+    </div>
+</div>
+
+<div id="ym_975983385502227579" class="ym"></div><script type="text/javascript">(function(e,t){if(t._ym===void 0){t._ym="";Chorus.AddScript("https://static.yieldmo.com/ym.m3.js");}else t._ym instanceof String||void 0===t._ym.chkPls||t._ym.chkPls()})(document,window);</script>
+
+          <div class="m-ad m-ad__leaderboard m-ad__btf_leaderboard">
+  
+<div id='div-gpt-ad-btf_leaderboard' class="dfp_ad" data-cb-dfp-id="unit=btf_leaderboard" data-cb-ad-id="Btf leaderboard">
+  <script type='text/javascript'>pbjs.que.push(function() {ChorusAds.showAd("btf_leaderboard");});</script>
+</div>
+
+  <div class="m-ad__tablet-only">
+    
+<div id='div-gpt-ad-tablet_btf_leaderboard' class="dfp_ad" data-cb-dfp-id="unit=tablet_btf_leaderboard" data-cb-ad-id="Tablet btf leaderboard">
+  <script type='text/javascript'>pbjs.que.push(function() {ChorusAds.showAd("tablet_btf_leaderboard");});</script>
+</div>
+
+  </div>
+</div>
+
+          <div class="m-ad m-ad__mobile-footer">
+  
+<div id='div-gpt-ad-mobile_footer' class="dfp_ad" data-cb-dfp-id="unit=mobile_footer" data-cb-ad-id="Mobile footer">
+  <script type='text/javascript'>pbjs.que.push(function() {ChorusAds.showAd("mobile_footer");});</script>
+</div>
+
+</div>
+
+          <footer class="m-footer">
+  <div class="m-footer__top">
+    <div class="m-footer__top__nav">
+        <a class="m-footer__logo-big" rel="nofollow" href="http://www.cagesideseats.com/"><img alt="" data-original="https://cdn3.vox-cdn.com/uploads/blog/sbnu_logo_minimal/244/large_cagesideseats.com.minimal.png" class=" vox-lazy-load" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+<noscript><img src="https://cdn3.vox-cdn.com/uploads/blog/sbnu_logo_minimal/244/large_cagesideseats.com.minimal.png" alt=""/></noscript>
+</a>
+      <div class="m-footer__nav-links">
+        <h2><a rel="nofollow" href="http://www.cagesideseats.com/">Cageside Seats</a></h2>
+        <ul class="m-footer__site-links">
+            <li><a rel="nofollow" href="/fanposts">FanPosts</a></li>
+              <li><a rel="nofollow" href="/fanshots">FanShots</a></li>
+            <li><a rel="nofollow" href="/masthead">Masthead</a></li>
+          <li><a rel="nofollow" href="/community-guidelines">Guidelines</a></li>
+            <li><a rel="nofollow" href="https://www.facebook.com/cagesideseatsdotcom">Facebook</a></li>
+            <li><a rel="nofollow" href="https://www.twitter.com/cagesideseats">Twitter</a></li>
+          <li><a rel="nofollow" href="http://www.youtube.com/sbnation">YouTube</a></li>
+          <li><a rel="nofollow" href="/rss/current">Subscribe</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="m-footer__top__sbn-nav">
+      <div class="m-footer__search">
+        <form action="/search" method="get" class="sbn-footer-search">
+          <input type="text" name="q" id="basic_search_query_footer" value="" class="m-footer__search__input" placeholder="Search" />
+        </form>
+        <a href="http://www.sbnation.com/blogs" class="m-footer__search__browse-blogs" rel='nofollow'>Browse Blogs</a>
+      </div>
+      <div class="m-footer__sbn-meta">
+        <a href="http://www.sbnation.com" rel='nofollow' class="m-footer__sbn-logo">
+          <img alt="SB Nation" data-original="https://cdn0.vox-cdn.com/images/sbn/footer/sbn_logo_white.v31dbd5354155ac1d197c6028bc8df9da158097b2.png" class=" vox-lazy-load" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+<noscript><img src="https://cdn0.vox-cdn.com/images/sbn/footer/sbn_logo_white.v31dbd5354155ac1d197c6028bc8df9da158097b2.png" alt=""/></noscript>
+
+        </a>
+        <ul class="m-footer__sbn-links">
+          <li><a rel='nofollow' href="http://www.voxmedia.com/brands/sbnation">About SBN</a></li>
+          <li><a rel='nofollow' href="http://blog.sbnation.com">Company Blog</a></li>
+          <li><a rel='nofollow' href="http://www.sbnation.com/pages/contact?community_id=244#sports_tips">Have a News Tip?</a></li>
+          <li><a rel='nofollow' href="http://www.sbnation.com/pages/contact?community_id=244">Contact Us</a></li>
+          <li><a rel='nofollow' href="http://www.sbnation.com/pages/openings?community_id=244">Blog Openings</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="m-footer__bottom">
+    <div class="m-footer__bottom__legal">
+      <a rel='nofollow' href="http://www.sbnation.com/guide/disclosure" class="m-footer__principles">Guiding Principles</a>
+      <a rel='nofollow' href="http://www.voxmedia.com/terms-of-use" class="m-footer__terms">Terms of Use</a>
+      <a rel='nofollow' href="http://www.voxmedia.com/privacy-policy" class="m-footer__privacy">Privacy Policy</a>
+      <a rel='nofollow' href="http://www.voxmedia.com/communications-preferences" class="m-footer__communications">Communications Preferences</a>
+      <em class="m-footer__copyright">© 2017 Vox Media, Inc. All Rights Reserved</em>
+      <em class="m-footer__copyright">
+        Sports data © <img alt="STATS" data-original="https://cdn0.vox-cdn.com/images/sbn/footer/stats.veaffd53f1919b7f0a7b403fb3fc73ffbc0fc641f.png" class=" vox-lazy-load" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+<noscript><img src="https://cdn0.vox-cdn.com/images/sbn/footer/stats.veaffd53f1919b7f0a7b403fb3fc73ffbc0fc641f.png" alt=""/></noscript>
+ 2017
+      </em>
+      <span id="status_io" class="m-footer__bottom__status">
+  All Systems Operational
+  <a href="http://status.voxmedia.com" target="_blank">Check out our status page for more details.</a>
+</span>
+
+    </div>
+    <div class="m-footer__bottom__vox-nav">
+      <a href="http://www.voxmedia.com" class="m-footer__vox-nav__logo">
+        <img alt="Vox" data-original="https://cdn0.vox-cdn.com/images/sbn/footer/vox_logo_white.v00c1a853720d5447355341dbb11d120851c86e6a.png" class=" vox-lazy-load" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+<noscript><img src="https://cdn0.vox-cdn.com/images/sbn/footer/vox_logo_white.v00c1a853720d5447355341dbb11d120851c86e6a.png" alt=""/></noscript>
+
+      </a>
+      <a rel='nofollow' href="http://www.voxmedia.com/vox-advertising" class="m-footer__vox-nav__advertise">Advertise With Us</a>
+      <a rel='nofollow' href="http://jobs.voxmedia.com" class="m-footer__vox-nav__jobs">Jobs @ Vox Media</a>
+    </div>
+  </div>
+  <a href="" rel='nofollow' class="m-footer__back-to-top">Back to Top ↑</a>
+</footer>
+
+        </div>
+      </div>
+    </div>
+    <div class="m-modal" id="modal-holder"></div>
+    <section id="auth" class="c-auth" data-cid="apps/auth-1487957084_9773_6915" data-cdata='{"action":"login"}'>
+  <div class="p-loader"></div>
+</section>
+
+<div id="chorus-brand" style="display:none;">
+  <img src="https://cdn3.vox-cdn.com/uploads/blog/sbnu_logo/244/large_cagesideseats.com.full.184785.233317.png" alt="" class="minimal-logo-cagesideseats">
+
+</div>
+
+
+      <script src="https://cdn0.vox-cdn.com/javascripts/sbn_tail.vf9411079656ea2a4.js"></script>
+
+
+      <!-- Phonograph -->
+  <script src="https://phonograph2.voxmedia.com/pickup.js" async="async" defer="defer"></script>
+  <script>
+//<![CDATA[
+var phonographEvents = phonographEvents || []; phonographEvents.push(['pageload', {'network': window.Chorus.Context.network_slug, 'ga_account_id': window.Chorus.Context.ga_account_id, 'ga_track_prefix': window.Chorus.Context.ga_track_prefix, 'title': document.title, 'logged_in': window.Chorus.Context.logged_in, 'user_id': window.Chorus.Context.user_id}]);
+//]]>
+</script>
+  <!-- End Phonograph -->
+
+    
+
+    <div class="l-community-footer-wrap">
+      <!-- Site Meter -->
+<script type="text/javascript" src="">
+</script>
+<noscript>
+<a href="http://s25.sitemeter.com/stats.asp?site=s25cagesideseats" target="_top">
+<img src="http://s25.sitemeter.com/meter.asp?site=s25cagesideseats" alt="Site Meter" border="0"></a>
+</noscript>
+<!-- Copyright (c)2009 Site Meter -->
+
+
+    </div>
+    <script type="text/javascript" src="https://s.skimresources.com/js/66960X1516590.skimlinks.js" async></script>
+
+    <script type="script/template" id="chorus-modal-wrapper-template" class="template">
+  <div class="m-chorus-modal__wrapper m-chorus-modal__root"></div>
+</script>
+
+<script type="script/template" id="chorus-modal-window-template" class="template">
+  <div class="m-chorus-modal__window">
+    [% if (data.title != "" && false) { %]
+      <div class="m-chorus-modal__head">
+        <div class="m-chorus-modal__title">[%= data.title %]</div>
+        <div class="m-chorus-modal__close-button" data-chorus-modal-action="[% if (data.cancel_confirm === true) { %]cancel_confirm[% } else { %]cancel[% } %]">&#215;</div>
+      </div>
+    [% } %]
+    <div class="m-chorus-modal__body m-chorus-modal__window-root"></div>
+  </div>
+</script>
+
+
+    
+  </body>
+</html>

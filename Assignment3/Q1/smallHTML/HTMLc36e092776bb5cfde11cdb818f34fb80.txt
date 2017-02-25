@@ -1,0 +1,3896 @@
+<!doctype html><html lang="en" class="js no-touch" itemscope><head><title>Fire Pro Wrestling Returns FAQ/Move List for PlayStation 2 by Bill Wood - GameFAQs</title><meta http-equiv="content-type" content="text/html;charset=iso-8859-1" /><meta name="description" content="For Fire Pro Wrestling Returns on the PlayStation 2, FAQ/Move List by Bill Wood." /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1.0"><link href="https://fonts.googleapis.com/css?family=Roboto:900|Roboto+Condensed" rel="stylesheet" type="text/css"><link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"><link href="/css/v13.20170223201142.css" rel="stylesheet" type="text/css"><link rel="canonical" href="https://www.gamefaqs.com/ps2/927675-fire-pro-wrestling-returns/faqs/39062" /><meta name="dwPageParams" content="{&quot;siteid&quot;:19,&quot;ptid&quot;:6468,&quot;onid&quot;:37,&quot;pid&quot;:&quot;927675&quot;,&quot;familyid&quot;:&quot;16237&quot;,&quot;prodtypid&quot;:8,&quot;genre_id&quot;:23222,&quot;category_id&quot;:&quot;93&quot;,&quot;oid&quot;:&quot;6468-37-19-927675-39062&quot;,&quot;cid&quot;:39062,&quot;conttypid&quot;:9,&quot;useract&quot;:178,&quot;edid&quot;:107,&quot;pguid&quot;:&quot;854ab236eccad785ca337a6f1f76e921&quot;,&quot;url&quot;:&quot;http:\/\/www.gamefaqs.com\/ps2\/927675-fire-pro-wrestling-returns\/faqs\/39062%0D&quot;,&quot;ts&quot;:1487957278}" />
+<meta name="omPageParams" content="{&quot;rsids&quot;:&quot;cbsigamefaqssite,cbsicbsiall&quot;,&quot;rsids_dev&quot;:&quot;cbsigamefaqssite-dev,cnetcbsiall-dev&quot;,&quot;brand&quot;:&quot;Gamefaqs&quot;,&quot;sid&quot;:&quot;gamefaqs&quot;,&quot;is_dev&quot;:false,&quot;game_title&quot;:&quot;fire-pro-wrestling-returns|fire-prowrestling&quot;,&quot;page_type_id&quot;:6468,&quot;platform&quot;:null,&quot;esrb&quot;:&quot;T&quot;,&quot;genre&quot;:&quot;Sports|Individual|Combat|Wrestling&quot;,&quot;franchise&quot;:&quot;fire-prowrestling&quot;,&quot;page_type&quot;:&quot;game_faq_text&quot;,&quot;hierarchy&quot;:&quot;Games|Game|FAQs|FAQ|Text&quot;,&quot;channel&quot;:&quot;Games&quot;,&quot;game_id&quot;:&quot;927675&quot;,&quot;product_id&quot;:&quot;927675&quot;,&quot;user_status&quot;:&quot;false&quot;,&quot;content_id&quot;:39062,&quot;content_title&quot;:&quot;Fire Pro Wrestling Returns (PlayStation 2) - FAQ\/Move List by Bill Wood&quot;,&quot;content_type&quot;:&quot;faq&quot;,&quot;content_source&quot;:&quot;User&quot;,&quot;search_term&quot;:null,&quot;event_ids&quot;:null,&quot;marketing_cloud_id&quot;:&quot;10D31225525FF5790A490D4D@AdobeOrg&quot;}" />
+<meta id="ad-settings" itemprop="ad-settings" content="{&quot;script&quot;:&quot;\/\/www.googletagservices.com\/tag\/js\/gpt.js&quot;,&quot;target_params&quot;:{&quot;game&quot;:&quot;fire-pro-wrestling-returns&quot;,&quot;ptype&quot;:&quot;game_faq_text&quot;,&quot;franchise&quot;:&quot;fire-prowrestling&quot;,&quot;genre&quot;:&quot;Sports,Individual,Combat,Wrestling&quot;,&quot;rating&quot;:&quot;esrb-t,pegi-16,cero-b&quot;,&quot;publisher&quot;:&quot;Agetec&quot;,&quot;score&quot;:&quot;84&quot;,&quot;user&quot;:&quot;anon&quot;,&quot;session&quot;:&quot;l&quot;,&quot;rdate&quot;:&quot;bp52&quot;,&quot;cid&quot;:&quot;faq-39062&quot;,&quot;firstpg&quot;:1},&quot;unit_name&quot;:&quot;\/8264\/aw-gamefaqs&quot;,&quot;deferred&quot;:true,&quot;service&quot;:&quot;dart&quot;,&quot;client&quot;:&quot;xfp&quot;,&quot;load_in_head&quot;:&quot;gpt&quot;,&quot;single_request&quot;:true,&quot;disable_initial_load&quot;:true,&quot;enable_callback&quot;:true,&quot;enable_collapse_empty_divs&quot;:false,&quot;slot_order&quot;:[&quot;leader_top&quot;,&quot;leader_plus_top&quot;,&quot;mpu_top&quot;,&quot;mpu_plus_top&quot;,&quot;skin_top&quot;,&quot;omnibar_top&quot;,&quot;interstitial&quot;,&quot;native-top&quot;,&quot;incontent-ad&quot;,&quot;mpu_bottom&quot;,&quot;leader_bottom&quot;],&quot;mapped_units&quot;:{&quot;skin_top&quot;:{&quot;size&quot;:[[1600,1000]],&quot;target&quot;:{&quot;pos&quot;:&quot;top&quot;}},&quot;omnibar_top&quot;:{&quot;size&quot;:[[980,45]],&quot;target&quot;:{&quot;pos&quot;:&quot;top&quot;}},&quot;leader_plus_top&quot;:{&quot;size&quot;:[[728,90],[970,66],[970,150],[970,250],[960,150]],&quot;target&quot;:{&quot;pos&quot;:&quot;top&quot;}},&quot;leader_top&quot;:{&quot;size&quot;:[[728,90],[970,66]],&quot;target&quot;:{&quot;pos&quot;:&quot;top&quot;}},&quot;leader_bottom&quot;:{&quot;size&quot;:[[728,90],[970,66]],&quot;target&quot;:{&quot;pos&quot;:&quot;bottom&quot;}},&quot;mpu_plus_top&quot;:{&quot;size&quot;:[[300,250],[300,600],[300,100]],&quot;target&quot;:{&quot;pos&quot;:&quot;top&quot;}},&quot;mpu_top&quot;:{&quot;size&quot;:[[300,250]],&quot;target&quot;:{&quot;pos&quot;:&quot;top&quot;}},&quot;mpu_bottom&quot;:{&quot;size&quot;:[[300,250]],&quot;target&quot;:{&quot;pos&quot;:&quot;bottom&quot;}},&quot;native-top&quot;:{&quot;size&quot;:[[11,11]],&quot;target&quot;:{&quot;pos&quot;:&quot;top&quot;}},&quot;incontent-ad&quot;:{&quot;size&quot;:[[321,31],[11,11]],&quot;target&quot;:{&quot;pos&quot;:&quot;top&quot;}},&quot;interstitial&quot;:{&quot;outOfPage&quot;:true}}}" />
+<meta id="view-guid-meta" name="view-guid-meta" itemprop="view-guid" content="854ab236-ecca-4d78-5ca3-37a6f1f76e92">
+<meta id="bsm-pub-zone-meta" name="bsm-pub-zone-meta" itemprop="bsm-pub-zone" content="gamefaqs.com/nucleus">
+<meta id="bsm-sizes-meta" name="bsm-sizes-meta" itemprop="bsm-sizes" content="728x90 300x250">
+
+<script type="text/javascript" src="/js/jquery.js"></script><script type="text/javascript" src="/js/jquery-outside.min.js"></script><script type="text/javascript" src="/js/jquery-ui.min.js"></script><script type="text/javascript" src="/js/jquery.cookie.min.js"></script><script type="text/javascript" src="/js/gamefaqs.20170223201142.js"></script><script type="text/javascript">
+		window._taboola=window._taboola || [];
+		_taboola.push({other:'auto'});
+		!function(e,f,u){e.async=1;e.src=u;
+		f.parentNode.insertBefore(e, f);
+		}(document.createElement('script'),
+		document.getElementsByTagName('script')[0],
+		'//cdn.taboola.com/libtrc/cbsinteractive-gamefaqs/loader.js');
+		</script><script type="text/javascript">var _gaq = _gaq || [];  _gaq.push(['nT._setAccount', 'UA-27653683-1']);  _gaq.push(['nT._setAllowLinker', true]); _gaq.push(['nT._setSampleRate', '1']); _gaq.push(['nT._trackPageview']); _gaq.push(['_setAccount', 'UA-22577913-2']); _gaq.push(['_setSampleRate', '50']); _gaq.push(['_setCustomVar',1,'PageType','6468',3]); _gaq.push(['_setCustomVar',2,'LoggedIn','No',2]); _gaq.push(['_setCustomVar',3,'UserLevel','0',3]); _gaq.push(['_setCustomVar',4,'FAQType','txt',3]);  _gaq.push(['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = '//www' + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();</script></head><body class=" wf-active"><div class="wrapper g_file p_927675 s_ps2"><div class="masthead">
+
+	<div class="masthead_strip">
+		<div class="container row">
+			<nav class="masthead_systems">
+				<a href="/3ds">3DS</a>
+				<a href="/ds">DS</a>
+				<a href="/iphone">iOS</a>
+				<a href="/pc">PC</a>
+				<a href="/ps3">PS3</a>
+				<a href="/ps4">PS4</a>
+				<a href="/psp">PSP</a>
+				<a href="/switch">Switch</a>
+				<a href="/vita">Vita</a>
+				<a href="/wii-u">Wii U</a>
+				<a href="/xbox360">Xbox 360</a>
+				<a href="/xboxone">Xbox One</a>
+				<span class="masthead_platform_drop"><a class="mast_nav_last" href="/games/systems">More&nbsp;Systems <i class="fa fa-caret-down"></i></a>
+					<ul class="masthead_platform_subnav">
+						<li class="masthead_platform_subnav_item"><a href="/android">Android</a></li>
+							<li class="masthead_platform_subnav_item"><a href="/ouya">Ouya</a></li>
+						<li class="masthead_platform_subnav_item"><a href="/arcade">Arcade</a></li>
+							<li class="masthead_platform_subnav_item"><a href="/ps">PlayStation</a></li>
+						<li class="masthead_platform_subnav_item"><a href="/dreamcast">Dreamcast</a></li>
+							<li class="masthead_platform_subnav_item"><a href="/ps2">PlayStation 2</a></li>
+						<li class="masthead_platform_subnav_item"><a href="/gba">Game Boy Advance</a></li>
+							<li class="masthead_platform_subnav_item"><a href="/saturn">Saturn</a></li>
+						<li class="masthead_platform_subnav_item"><a href="/gamecube">GameCube</a></li>
+							<li class="masthead_platform_subnav_item"><a href="/snes">Super Nintendo</a></li>
+						<li class="masthead_platform_subnav_item"><a href="/genesis">Genesis</a></li>
+							<li class="masthead_platform_subnav_item"><a href="/wii">Wii</a></li>
+						<li class="masthead_platform_subnav_item"><a href="/nes">NES</a></li>
+							<li class="masthead_platform_subnav_item"><a href="/xbox">Xbox</a></li>
+						<li class="masthead_platform_subnav_item"><a href="/n64">Nintendo 64</a></li>
+							<li class="masthead_platform_subnav_item"><a href="/games/systems">And 96 More...</a></li>
+					</ul>
+				</span>
+			</nav>
+
+				<div class="masthead_user platforms">
+									<span class="masthead_platform_drop"><a class="mast_nav_last" onclick="if(navigator.userAgent.match(/(Android)/)) return false;" href="/games/systems">Top&nbsp;Platforms <i class="fa fa-caret-down"></i></a>
+					<ul class="masthead_platform_subnav">
+						<li class="masthead_platform_subnav_item"><a href="/3ds">3DS</a></li>
+							<li class="masthead_platform_subnav_item"><a href="/ps4">PlayStation 4</a></li>
+						<li class="masthead_platform_subnav_item"><a href="/android">Android</a></li>
+							<li class="masthead_platform_subnav_item"><a href="/vita">PlayStation Vita</a></li>
+						<li class="masthead_platform_subnav_item"><a href="/ds">DS</a></li>
+							<li class="masthead_platform_subnav_item"><a href="/psp">PSP</a></li>
+						<li class="masthead_platform_subnav_item"><a href="/gba">Game Boy Advance</a></li>
+							<li class="masthead_platform_subnav_item"><a href="/wii">Wii</a></li>
+						<li class="masthead_platform_subnav_item"><a href="/iphone">iOS</a></li>
+							<li class="masthead_platform_subnav_item"><a href="/wii-u">Wii U</a></li>
+						<li class="masthead_platform_subnav_item"><a href="/pc">PC</a></li>
+							<li class="masthead_platform_subnav_item"><a href="/xbox360">Xbox 360</a></li>
+						<li class="masthead_platform_subnav_item"><a href="/ps2">PlayStation 2</a></li>
+							<li class="masthead_platform_subnav_item"><a href="/xboxone">Xbox One</a></li>
+						<li class="masthead_platform_subnav_item"><a href="/ps3">PlayStation 3</a></li>
+							<li class="masthead_platform_subnav_item"><a href="/games/systems">More...</a></li>
+					</ul>
+				</span>				</div>
+
+			<div class="masthead_user">
+				<div class="masthead_user" data-step="9" data-intro="Now that you've seen what we have to offer, you can register an account for free to have complete access to all of our great community features. If you already have an account, you can log in here as well.">
+	<a href="/user/login" onclick="return show_login();"><i class="fa fa-key nouser"></i>Log In</a>
+	<a href="/user/register" onclick="return show_signup('header');" class="nouser">Sign Up</a>
+</div>
+<div id="login_dialog">
+<div class="pod">
+	<div class="head"><h2 class="title">Log In to GameFAQs</h2></div>
+	<div class="body">
+
+<form class="login" id="login" method="post" action="/user/login" onsubmit="return submit_login();"><input type="hidden" name="path" value="/ps2/927675-fire-pro-wrestling-returns/faqs/39062%0D" /><input class="hidden" type="hidden" name="key" value="12d91d52">
+	<table class="contrib">
+
+	<tr>
+	<td>
+	<input class="text login_email" id="login_email" type="text" name="EMAILADDR" maxlength="90" placeholder="Username/Email" />
+	</td>
+	</tr>
+	
+	<tr>
+	<td>
+	<input class="text login_password" id="login_password" type="password" name="PASSWORD" maxlength="64" placeholder="Password"/>
+	</td>
+	</tr>
+	
+	<tr><td>
+	
+	<input class="btn btn_primary btn_wide login_submit" id="login_submit" type="submit" value="login" />
+	
+	</td></tr>
+	<tr><td>
+	
+	<a href="/user/recover">Forgot your username or password?</a><br /><br />
+	<a href="/user/register" onclick="$('#login_dialog').dialog('close'); return show_signup('login_box');">Don't have an account? Sign up for free!</a>
+	
+	</td></tr>
+	</table>
+	
+</form>
+</div>
+</div>
+</div>
+
+
+
+			</div>
+
+		</div>
+	</div>
+
+	<div class="masthead_main container row">
+		<div class="masthead_logo_search span6">
+
+			<div class="masthead_logo" data-step="1" data-intro="Welcome to GameFAQs, your one-stop site for gaming guides, cheats, and more. If you're ever lost on the site, you can click this logo to get back to the home page at any time.">
+				<a href="/">GameFAQs</a>
+			</div>
+
+			<div class="masthead_search">
+				<form class="search" method="get" action="/search" data-step="2" data-intro="You can use this box to search our extensive database of games. There are quick links to all of the content we have for the game directly from the search results.">
+					<fieldset>
+					<button type="submit"><i class="fa fa-search"></i></button>
+					<input type="text" id="searchtextbox" name="game" value="" class="search" placeholder="Game Title Search" />
+					</fieldset>
+				</form>
+			</div>
+
+		</div>
+
+		<div class="masthead_nav span6">
+			<nav>
+			<a href="/answers" data-step="3" data-intro="If you have a specific question for a game, you can ask it here and see if our users can answer it for you.">Answers</a>
+			<a href="/boards" data-step="4" data-intro="We have a unique message board for every version of every game in our extensive database, combining into the largest gaming message board on the Net.">Boards</a>
+			<a href="/community" data-step="5" data-intro="GameFAQs wouldn't be what it is without our active community of users contributing content and conversations. See what your friends are up to, or browse through various categories of users like our top contributors here.">Community</a>
+			<a href="/contribute" data-step="6" data-intro="If you'd like to contribute your own guides, reviews, or cheats for a game, this is the place to go. We accept many other types of content as well from trivia to game credits. You can find a full list and all of the guidelines for submitting content here.">Contribute</a>
+			<a href="/games" data-step="7" data-intro="Explore our comprehensive library of games. Find out what's popular on the site or see how we rank games based on difficulty, length, and more.">Games</a>
+			<a href="/new" data-step="8" data-intro="If you're wondering what games are coming out soon, or what content we've posted recently, this is the place to look.">What&rsquo;s New</a>
+			</nav>
+		</div>
+
+	</div>
+
+</div><div id="mantle_skin"><div id="content" class="container"><div class="post_content row" itemscope itemtype="http://schema.org/Article"><div class="span12"><header class="page-header"><nav class="crumbs"><ol class="crumbs"><li class="crumb top-crumb"><a href="/ps2">PlayStation 2</a></li><li class="crumb"><a itemprop="genre" href="/ps2/category/43-sports">Sports</a></li><li class="crumb"><a itemprop="genre" href="/ps2/category/92-sports-individual">Individual</a></li><li class="crumb"><a itemprop="genre" href="/ps2/category/312-sports-individual-combat">Combat</a></li><li class="crumb"><a itemprop="genre" href="/ps2/category/93-sports-individual-combat-wrestling">Wrestling</a></li></ol></nav><h1 class="page-title" itemprop="name"><a itemprop="url" href="/ps2/927675-fire-pro-wrestling-returns">Fire Pro Wrestling Returns</a></h1></header><nav id="js_content_nav" class="content_nav_wrap"><div class="content_nav_imp_wrap"><div class="cnav_imp cnav_faqs cnav_item_active"><a href="/ps2/927675-fire-pro-wrestling-returns/faqs">FAQs</a></div><div class="cnav_imp cnav_item"><a href="/ps2/927675-fire-pro-wrestling-returns/answers">Answers</a></div><div class="cnav_imp cnav_item"><a href="/boards/927675-fire-pro-wrestling-returns">Board</a></div><div id="js_content_nav_toggle" class="content_nav_label">More</div></div><ol class="content_nav content_nav_split"><li class="cnav_item cnav_has_drop"><a href="/ps2/927675-fire-pro-wrestling-returns">Home</a><ol class="content_subnav"><li class="csubnav_item"><a href="/ps2/927675-fire-pro-wrestling-returns">Summary</a></li><li class="csubnav_item"><a href="/ps2/927675-fire-pro-wrestling-returns/data">Release Data</a></li><li class="csubnav_item"><a href="/ps2/927675-fire-pro-wrestling-returns/playing">Also Playing</a></li><li class="csubnav_item"><a href="/ps2/927675-fire-pro-wrestling-returns/stats">Collection Stats</a></li></ol></li><li class="cnav_imp cnav_item_active"><a href="/ps2/927675-fire-pro-wrestling-returns/faqs">FAQs</a></li><li class="cnav_item"><a href="/ps2/927675-fire-pro-wrestling-returns/saves">Saves</a></li><li class="cnav_item cnav_has_drop"><a href="/ps2/927675-fire-pro-wrestling-returns/reviews">Reviews</a><ol class="content_subnav"><li class="csubnav_item"><a href="/ps2/927675-fire-pro-wrestling-returns/reviews">Reader Reviews</a></li><li class="csubnav_item"><a href="/ps2/927675-fire-pro-wrestling-returns/critic">Critic Reviews</a></li></ol></li><li class="cnav_item"><a href="/ps2/927675-fire-pro-wrestling-returns/images">Images</a></li><li class="cnav_imp cnav_item"><a href="/ps2/927675-fire-pro-wrestling-returns/answers">Answers</a></li><li class="cnav_imp cnav_item"><a href="/boards/927675-fire-pro-wrestling-returns">Board</a></li></ol></nav>
+<script type="text/javascript">
+$('#js_content_nav_toggle').click(function(){
+	$('.content_nav_wrap').toggleClass('content_nav_open');
+});
+</script>
+<div class="faq_menu_wrap ffaq menu_notoc">
+	<p class="toggle"><i class="fa fa-remove"></i></p>
+	<p>FAQ/Move List by <a href="/community/billwood661"><b>Bill Wood</b></a></p>
+			<p><b>More for Fire Pro Wrestling Ret... (PS2):</b></p>
+		<ul class="faq_menu">
+						<li class="head"><a href="/ps2/927675-fire-pro-wrestling-returns/faqs">FAQs and Walkthroughs (38)</a></li>
+												<li><a href="/ps2/927675-fire-pro-wrestling-returns/faqs/39698">Condensed Specialty List by PuroGeek</a></li>						<li><a href="/ps2/927675-fire-pro-wrestling-returns/faqs/39283">Belt Edit FAQ by motosada</a></li>						<li><a href="/ps2/927675-fire-pro-wrestling-returns/faqs/40365">Theme Music Guide by Cactusjack1999</a></li>						<li><a href="/ps2/927675-fire-pro-wrestling-returns/faqs/39079">Beginner&#039;s Guide by Bill Wood</a></li>						<li><a href="/ps2/927675-fire-pro-wrestling-returns/faqs">See all FAQs</a></li>
+									<li class="head"><a href="/ps2/927675-fire-pro-wrestling-returns/answers">Answers (8)</a></li>
+															<li><a href="/ps2/927675-fire-pro-wrestling-returns/answers/94874-how-do-i-pick-up-a-weapon">How do I pick up a weapon?</a></li>
+																<li><a href="/ps2/927675-fire-pro-wrestling-returns/answers/107674-how-to-change-custom-characters-clothes">How to change custom character's clothes?</a></li>
+																<li><a href="/ps2/927675-fire-pro-wrestling-returns/answers/15298-can-you-copy-a-wrestlers-cpu-logic">Can you copy a wrestler's CPU logic?</a></li>
+																																						<li><a href="/ps2/927675-fire-pro-wrestling-returns/answers"><b>Ask your own question!</b></a></li>
+			<li class="head"><a href="/ps2/927675-fire-pro-wrestling-returns/reviews">Reviews (19)</a></li>			<li class="head"><a href="/boards/927675-fire-pro-wrestling-returns">Message Board</a></li>
+		</ul>
+	</div>
+
+<div class="faqsearch_dialog">
+	<div class="pod">
+		<div class="body">
+			<p><input type="text" id="faqsearch" name="faqsearch" placeholder="Search This Guide"/> <button onclick="search_text();">Search</button><br/><a class="toggle_results" onclick="toggle_results()">hide results</a></p>
+			<ul class="faq_results"></ul>
+		</div>
+	</div>
+</div>
+
+<div class="faq_bookmark">
+	<p></p>
+</div>
+
+
+<div class="pod">
+	<div class="body header faq ffaq_head" id="header">
+		<div class="faq_wrap">
+		<div class="lefttext not_fixed">
+			<p><a href="/"><img class="gflogo" src="/images/default/g_v13.png" alt="GameFAQs" /></a><span class="no_mob"> &raquo; <a href="/ps2/927675-fire-pro-wrestling-returns/faqs">FAQs</a></span></p>
+		</div>
+		<div class="centertext">
+			<div id="recvote" class="faq">
+	<div id="rec_one"><div class="rec_text_no_mob">Would you recommend this</div><div class="rec_text_mob">Recommend this</div> FAQ? <a class="btn btn_primary btn_mini rec_yes" onclick="set_rec_val(1);rec_submit(39062, 1, 1);">Yes</a> <a class="btn btn_primary btn_mini rec_no" onclick="set_rec_val(2);rec_submit(39062, 1, 2);">No</a><input type="hidden" name="recval" id="recval"/></div>
+	<div id="rec_two"><div id="reccomment"><input type="text" name="comment" id="comment" maxlength=140 size=35 placeholder="How can the author improve this FAQ?" /> <a class="btn btn_primary btn_mini" onclick="rec_submit(39062, 1, 3);">Comment</a> <a class="btn btn_primary btn_mini" onclick="hide_rec()">No Thanks</a></div></div>
+</div>
+
+<script type="text/javascript">
+if($('#recvote').hasClass('voted'))
+{
+	$('.voted').hide();
+	$('#header').css('height','32px');}
+</script>
+<script src="/js/simplejax.js"></script>
+<script language="JavaScript" type="text/javascript">
+
+function set_rec_val(val)
+{
+	$('#recval').val(val);
+	$('#rec_one').hide();
+	$('#rec_two').show();
+	return;
+}
+
+function hide_rec()
+{
+	$('#recvote').html('Thank you for your vote!');
+	var timer = setInterval(function(){
+		$('#recvote').addClass('voted');
+		if($('#recvote.voted'))
+		{
+			$('#recvote').fadeOut('slow');
+			$('.faq_wrap #recvote').fadeOut('fast',function(){
+				$('.faq_wrap .lefttext').addClass('rec_voted').fadeIn('fast');
+				$('.faq_wrap .centertext, #header.ffaq_head').addClass('rec_voted');
+				$('#header').css('height','32px');
+				$('#header.ffaq_head:not(.fixed)').fadeOut('fast');
+			});		}
+	}, 2000);
+}
+
+function rec_submit(item_id, item_type_id, button)
+{
+	var recval = $('#recval').val();
+	if($('#comment'))
+		var reccommentval = escape($('#comment').val());
+	else
+		var reccommentval = '';
+
+	ajax("/ajax/rec", "item="+item_id+"&type="+item_type_id+"&btn="+button+"&val="+recval+"&comment="+reccommentval+"&key=12d91d52", got_rec_vote);
+}
+
+function got_rec_vote(data)
+{
+	var recvote = document.getElementById('recvote');
+	if(data.indexOf("Comment") > -1)
+		return;
+	else
+		hide_rec();
+}
+</script>
+
+		</div>
+		<div class="righttext not_fixed">
+			<i class="fa fa-bookmark togglebookmark" onclick="set_bookmark();"></i><i class="fa fa-search togglesearch" onclick="return show_faqsearch_dialog(1,0);"></i><i class="fa fa-reorder toggle"></i>
+		</div>
+	</div>
+</div>
+
+<div class="pod top_link">
+	<div class="body">
+		<a onclick="page_top();"><i class="fa fa-upload"></i> Back to Top</a>
+	</div>
+</div>
+
+<div class="pod">
+	<div class="body ffaq">
+		<h2 class="title" itemprop="headline">FAQ/Move List by <a class="contrib1" href="/community/billwood661">Bill Wood</a></h2>
+		<p><b>Version:</b> 1.8(u) |  <b>Updated:</b> 01/02/08 | <a class="togglesearch" onclick="return show_faqsearch_dialog(1,0);">Search Guide</a> | <a onclick="set_bookmark();">Bookmark Guide</a></p>
+	</div>
+</div>
+
+
+<div class="ffaq">
+	<pre class="faqtext" id="faqtext"><span id="faqspan-1">=============================================================
+==FIRE PRO WRESTLING RETURNS: GENERAL FAQ AND GUIDE v1.8(u)==
+=============================================================
+for Sony PlayStation 2 (U.S.)
+Version 1.8(u)
+by Bill Wood (billwood661@ca.rr.com)
+Last modified: 1/2/08
+
+Based on the Fire ProWrestling D Complete English Guide 
+written by Frank James Chan
+
+North American conventions by Bill Wood &amp; Monitor
+
+Fire Pro Wrestling Returns (c) 2005 Spike (c) 2007 Agetec
+
+NOTE: This guide views and prints best with a monospace typeface.
+ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZAAAAAAAAAAAAAAAAAAAAAA
+
+ ++ NOTE: This document was originally authored for the Japanese version
+ ++ of the game, therefore you may see some inconsistencies when it comes
+ ++ to dealing with conventions as they pertain to the North American
+ ++ version. I've made every effort to keep things consistent, but please
+ ++ keep this in mind when reading.
+
+=====================
+==TABLE OF CONTENTS==
+=====================
+
+SECTION 01: VERSION HISTORY
+
+SECTION 02: INTRODUCTION
+
+SECTION 03: THE HISTORY OF THE FIRE PROWRESTLING SERIES
+
+SECTION 04: BASIC CONTROLS AND CONVENTIONS
+        04.a...Menu Controls
+        04.b...Game Controls
+        04.c...Gameplay Conventions
+        04.c.1.....Striking
+        04.c.2.....Grappling
+        04.c.3.....Running Attacks
+        04.c.3.a.....Running Moves
+        04.c.3.b.....Run Counters
+        04.c.3.c.....Corner Run
+        04.c.4.....High-Flying Moves
+        04.c.4.a.....Running Dive to Opponent Outside
+        04.c.4.b.....Slingshot to Opponent Outside
+        04.c.4.c.....Slingshot from Apron to Opponent Inside
+        04.c.4.d.....Top Turnbuckle Moves
+        04.c.4.e.....Run-Up Rebound Moves
+        04.c.5.....Opponent Down Moves
+        04.c.5.a.....At Head, Opponent Facing Up
+        04.c.5.b.....At Feet, Opponent Facing Up
+        04.c.5.c.....At Head, Opponent Facing Down
+        04.c.5.d.....At Feet, Opponent Facing Down
+        04.c.5.e.....Running at a Downed Opponent
+        04.c.6.....Multi-Teaming
+        04.c.7.....Mount System (Shootfighting)
+        04.c.7.a.....Guard Position
+        04.c.7.b.....Mount (Facelock/Sprawl) Position
+        04.c.7.c.....Back Mount Position
+        04.c.8.....Performance (Taunt/Pose/Crowd Appeal)
+        04.c.9.....Other Techniques (Various Conventions)
+        04.c.9.a.....Exiting/Entering the Ring
+        04.c.9.b.....Using Weapons
+        04.c.9.c.....Staying Down on the Mat
+        04.c.9.d.....Kicking Out of Pins and Escaping Holds
+        04.c.10....Moves New to Fire Pro Returns
+        04.c.10.a.....Corner-to-Center Attack
+        04.c.10.b.....Steel Cage Commands
+        04.c.10.c.....Over the Top Rope Toss
+        04.c.10.d.....Reentering the Ring (Slide)
+        04.c.10.e.....Ukemi
+
+SECTION 05: MODE SELECT SCREEN
+        05.a...Game Modes
+        05.b...Edit
+        05.c...Options
+        05.d...Save/Load
+
+SECTION 06: GAME MODES
+        06.a...Match Setup
+        06.a.1.....Exhibition
+        06.a.2.....Tournament
+        06.a.3.....League
+        06.a.4.....Team Battle
+        06.a.5.....Battle Royal
+        06.a.6.....Title Match
+        06.a.7.....Match Maker *UNDER CONSTRUCTION*
+        06.b...Match Type
+        06.b.1.....Normal Match
+        06.b.2.....Cage Deathmatch
+        06.b.3.....Barbed Wire Deathmatch
+        06.b.4.....Landmine Deathmatch
+        06.b.5.....SWA Rules Match
+        06.b.6.....S-1 Rules Match
+        06.b.7.....Gruesome Fighting
+
+SECTION 07:: EDIT MODE
+        07.a...Wrestler Edit
+        07.a.1.....Promotion Edit
+        07.a.2.....Faction Edit
+        07.a.3.....Wrestler Edit
+        07.a.3.a......Creating a New Wrestler
+        07.a.3.b......Editing Your Newly Created Wrestler
+        07.a.3.b.1.......Name Edit
+        07.a.3.b.2.......Skill Edit
+        07.a.3.b.3.......Appearance Edit
+        07.a.3.b.4.......Moveset Edit
+        07.a.3.b.5.......Parameter Edit
+        07.a.3.b.6.......CPU Logic Edit
+        07.a.3.b.7.......Finisher Name
+        07.a.3.b.8.......Profile
+        07.b...Referee Edit
+        07.c...Ring Edit
+        07.d...Logo Edit
+        07.e...Belt Edit
+        07.f...Team Edit
+
+SECTION 08: OPTIONS
+
+SECTION 09: SAVE/LOAD
+
+SECTION 10: MISCELLANEOUS INFORMATION
+        10.a...Random Select
+        10.b...Clean Pause Screen
+
+SECTION 11: CREDITS
+
+===============================
+==SECTION 01: VERSION HISTORY==
+===============================
+
+1.8 - FINALLY!!! This guide has been updated to be compatible with
+(u)   Agetec's North American release. Minor corrections as well.
+
+1.8 - Behavioral logic setting descriptions reversed, in keeping with
+      Spike's new format. Other minor corrections.
+
+1.7 - Correction on &quot;Opponent Standing Dazed in Corner&quot; CPU Logic, thanks
+      to Jason Stoddard.
+
+1.6 - Minor corrections and additions..
+
+1.5 - Minor corrections and additions.
+
+1.4 - The most important guide update to date, by far. Thanks to Lord
+      Vermin, the Wrestler Edit section is MUCH more accurate and
+      informative. Anywhere you see an +LV+ in that section, it means the
+      preceding words are his, not mine.
+
+      Also fixed an option in the One Night Tournament settings, and
+      reworded the &quot;Escaping a Pin&quot; section due to revelations on the
+      FPR boards.
+
+1.3 - Minor corrections and additions. Lots of typos corrected, plus a
+      correction to the Match Configuration option settings.
+
+1.2 - Lots of general cleanup, plus:
+      * Added &quot;Ukemi&quot; to the &quot;New Moves&quot; section (thanks Muka!).
+      * &quot;Junior&quot; and &quot;Heavy&quot; order switched in Skill Edit.
+      * &quot;Random&quot; option removed from ring selection.
+      * R1 function explained in greater detail.
+      * Minor update to arena descriptions
+
+1.1 - Lots of general cleanup, plus:
+      * &quot;Submission&quot; &quot;CRITICAL!&quot; skill changed from Cost 20: to Cost: 25.
+      * Special skill descriptions corrected.
+
+1.0 - Initial release of the guide. Expect a lot of additions, revisions
+      and corrections in the near future. If you see (???) or *UNDER
+      CONSTRUCTION* anywhere in this guide, it means it's either a work
+      in progress, or hasn't been fully translated yet.
+
+      &quot;Ukemi&quot; section of CPU Logic and &quot;Match Maker Mode&quot; still to do.
+
+============================
+==SECTION 02: INTRODUCTION==
+============================
+Welcome to the Fire Pro Wrestling Returns General FAQ and Translation
+Guide v1.8(u)! Fire Pro Wrestling Returns (Fire Pro R, FPR) is a 2-D
+professional wrestling game made exclusively for the Sony PlayStation 2 by
+Spike Co. Ltd. In FPR, you can choose from hundreds of wrestlers from
+different promotions across the world, creating the possibility of endless
+dream matches. Combine this with an extremely challenging and rewarding
+gameplay system and a mega-deep Edit Mode, and you have what is quite
+possibly the best wrestling simulation in existence.
+
+The wrestlers in FPR are fictional in the sense that they are based on
+very real professional wrestlers (mostly Japanese), but their names are
+changed to avoid legal issues in the game's native country. Fortunately
+the game has a rename option that allows players to give these likenesses
+their real world names. This &quot;pseudo-realistic&quot; approach to wrestler
+creation gives Spike the ability to up the roster to a mind-blowing total
+of 327, nearly five times the amount of any American wrestling game!
+
+But that's not all. With FPR, Spike has increased the available number of
+wrestler edits (known as &quot;CAWs&quot; to most American gamers) to a whopping
+500! Altogether, that's 827 wrestlers in a single game, each with their
+own appearance, skills, movesets, offensive/defensive stats and CPU logic!
+
+Indeed, with FPR, Spike has decided to pull out all the stops and give the
+fans what they want; an expansive wrestling game experience with a nearly
+limitless number of possibilities. Finally, long desired options such as
+face/head layering, traditional steel cage matches and ring editing are
+available in a Fire Pro game... and that's only the tip of the iceberg!
+
+I need to mention here that this guide would never have been done (by
+myself anyway) were it not for the Mysterious Kagura and Frank James Chan
+(a.k.a. Icemaster), whose earlier Fire Pro guides are the basis for what
+you're reading now. Frank's guides have introduced scores of players to
+this influential wrestling game series, hopefully this guide will serve a
+similar purpose. Thanks also to MDK for his transcription of button
+mappings from FPD to FPZ, it made the task of authoring of this guide a
+whole lot easier. Monitor also deserves a ton of credit for helping to
+make this guide consistent with the North American release.
+
+I would also like to make mention of the terrific community of players
+spawned by their appreciation of Fire Pro Wrestling. Most of them are
+extremely helpful and only too willing to help out newcomers, and were it
+not for them, a guide such as the one you're reading certainly would not
+exist. In that sense, this guide isn't authored by one person, but dozens
+of people who are always looking for new players to share their Fire Pro
+experiences, be it managing an e-fed, having a five-star match with a
+friend, or simply LOLing at the mention of Pineapple Jojo.
+
+===========================================================
+==SECTION 03: THE HISTORY OF THE FIRE PROWRESTLING SERIES==
+===========================================================
+Before we delve into the guide proper, let's take a glance at what has
+made the Fire Pro series such a sensation with gamers across the globe:
+
+Since 1989, HUMAN Entertainment and Spike Co. Ltd. have produced the
+unique and highly entertaining Fire ProWrestling series of videogames for
+the Japanese market. In Japan, pro wrestling (or puroresu) is taken more
+seriously both as a sport and a form of competition than it is in most
+other regions of the world (with Mexico being the lone possible
+exception). Pro wrestling even receives coverage in the sporting columns
+of major Japanese newpapers.
+
+Fire ProWrestling games are a reflection of this spirit, focusing on solid
+simulation and technique as opposed to flashy graphics and mundane match
+options. For this reason, Fire Pro has developed a loyal following in its
+native homeland, as well as an ever-growing legion of fans in North
+America, Europe and abroad.
+
+Over the last fifteen years, over a dozen Fire ProWrestling titles have
+appeared on several import consoles, including the PC Engine, Super
+Famicom, Saturn, PlayStation, Wonderswan and GameBoy Advance. Two handheld
+versions have even been distributed in the U.S. through BAM Entertainment.
+And as you'll see here, even though the series has steadily built a solid
+fan base, Fire Pro's own real-life version of Victory Road wasn't always
+a smooth one...
+
+Fire ProWrestling made its debut in 1989 on a Japanese console known as PC
+Engine. The long standing tradition of using the likenesses of real-life
+wrestlers began with this very first game, which featured timeless
+classics as Victory Musashi (Antonio Inoki) and Star Bison (Stan Hansen).
+And although the sparse roster of 16 wrestlers may seem anemic by current
+standards, the game was an apparent success, or at least popular enough to
+inspire two PC Engine sequels in Japan before moving over to the ultra
+popular Super Famicom system.
+
+The following excerpt is from The Mysterious Kagura's &quot;Pro-Wrestling
+Video Game History:&quot;
+
+   &quot;I believe the purpose of the Fire Pro series was to attract the
+   'hardcore' pro wrestling fan. Given the idea that pro wrestlers
+   from different promotions would be able to face each other in
+   interpromotional 'dream matches' that normally would never even
+   happen due to the political nature of professional wrestling.
+   HUMAN greatly accomplished that purpose by using the likenesses
+   of those wrestlers and giving them pseudonyms, but at the same
+   time, gave them their real-life moves and attributes.&quot;
+
+It was during this time that HUMAN boosted the popularity of Fire Pro by
+providing gamers with several solid titles. And as import gaming became
+increasingly popular during the early 90's (mainly due to the success of
+Street Fighter II and other fighting games), it was not uncommon to find
+Super Famicom versions of Fire ProWrestling floating around on import
+gaming store shelves.
+
+Even to this date, Fire Pro has arguably attained its biggest success on
+Nintendo's 16-bit console. When it was all said and done, the Super
+Famicom hosted no fewer than eight &quot;Super Fire Pro&quot; titles, including the
+classic Super Fire ProWrestling X Premium, which remains a favorite of the
+emulation community to this day.
+
+Many Fire Pro fans outside of Japan were introduced to the series in 1996
+with Fire Pro S: Six Men Scramble (6MS) for the Sega Saturn. As this game
+featured at what was at the time an unrivaled amount of depth when it came
+to wrestler creation (in many ways it still does), American gaming mags -
+and even a few American wrestlers, such as Rob Van Dam - touted 6MS as a
+brilliant alternative for fans of wrestling games who didn't mind having
+to clear a language barrier to enjoy an excellent game.
+
+The other remarkable feature of 6MS was its unparalleled roster. While the
+rosters of previous Fire Pro games had steadily increased from the
+original 16 over the years, the roster in 6MS topped out at 160, which was
+absolutely unheard of back then. Even to this date, no wrestling game
+outside of those developed by the creators of Fire Pro can offer such a
+large collection of wrestlers gathered under one banner.
+
+But a great roster is not enough to create a truly memorable wrestling
+game, and fortunately HUMAN decided to complement the stellar roster in
+6MS with the best gameplay in a Fire Pro game to date. With adjustments
+and improvements in terms of animation and timing, the grappling system
+took a vital step forward, and although it still wasn't the easiest system
+to learn, many had decided it was definitely the best.
+
+Helping to break the language barrier of import gaming was the exploding
+internet gaming community, many of whom devoted selfless hours to making
+sure that the uninitiated would be able to see what made these games so
+special. Were it not for the efforts of classic Fire Pro personae such as
+The Mysterious Kagura, and later the Icemaster (Frank Chan), many of us
+would still be scratching our heads, wondering what the big deal is.
+
+In June of 1999, nearly three years later the release of 6MS, HUMAN
+released Fire ProWrestling G (FPG) for the Sony PlayStation in Japan.
+Sony's system offered exposure to an even wider audience due to the
+console's overwhelming lead in the console race, yet most longtime Fire
+Pro fans were anything but impressed by the latest offering. In fact, the
+concessions made to tailor the game for the PlayStation (4 Men Scramble?)
+had many believing that Fire ProWrestling had seen its brightest days.
+
+When HUMAN went out of business a short time after, Fire Pro fans were
+even more convinced that 6MS would go down in history as the series'
+greatest title. Yet like a phoenix rising from the ashes, Fire
+ProWrestling would make a triumphant return to consoles in 2001 in the
+form of Spike's Fire ProWrestling D (FPD) for the Sega Dreamcast. Touting
+enhanced visuals, vastly expanded content and more match options than even
+the most hardcore fan could possibly imagine, Spike did the impossible by
+taking the Fire Pro series out of HUMAN's hands and to an entirely
+different level.
+
+The increase in both quality and quantity in Spike's Fire Pro D cannot be
+understated. Simply put, they knocked one out of the ballpark with their
+first swing. In fact, FPD was such an improvement over its predecessors in
+nearly every aspect (sound being the lone possible exception) that it
+basically rendered all earlier versions of the game obsolete, no easy feat
+considering the nostalgia among Fire Pro fans when it came to the beloved
+Six Men Scramble.
+
+It was at this time that the series arguably gained it biggest fanbase
+outside of Japan, as scores of disenchanted Dreamcast owners began looking
+for new software for their beloved yet slumping system. Increasingly, the
+name &quot;Fire Pro&quot; was being used as the benchmark for just how good a
+wrestling game could be, and a result, more and more wrestling gamers
+dissatisfied with the current crop of WWF/E titles began making the switch
+over to this influential Japanese game.
+
+Released for the PlayStation 2 in 2003, Fire ProWrestling Z was intended
+to be Fire Pro's swan song, a final farewell for the diehard fans who
+rigorously supported the series over the years. However, while the game
+sported numerous improvements, it also seemed lacking in areas when
+compared to FPD, especially in the audiovisual department. And when it
+became apparent that the fans expected much more from the final Fire Pro
+title (which is still a great game, if a little too similar to its
+predecessor), Spike decided to go back to the drawing board and produce
+another effort, one that would live up to the fans' lofty expectations.
+
+Which brings us to the present, and Fire Pro Wrestling Returns. Has Spike
+succeeded in giving the fans what they want? Well, judging from the
+majority of reactions from longtime players, that answer is a resounding
+&quot;yes&quot;. Consider this: how many video game franchises have managed to
+escape extinction not once, but twice? Fire ProWrestling has, which is a
+testament to both the enduring quality of the series, and the faithful
+fans who support it.
+
+Here's my list of recommended Fire Pro titles:
+
+   * Super Fire ProWrestling X Premium (Super Famicom)
+   * Super Fire ProWrestling: Queen's Special (Super Famicom)
+   * Fire ProWrestling S: 6 Men Scramble (Saturn)
+   * Fire ProWrestling G (PlayStation)
+   * Fire ProWrestling D (Dreamcast)
+   * Fire ProWrestling Z (PlayStation 2)
+   * Fire ProWrestling (GameBoy Advance)
+   * Fire ProWrestling 2 (GameBoy Advance)
+
+==============================================
+==SECTION 04: BASIC CONTROLS AND CONVENTIONS==
+==============================================
+
+-------
+--KEY--
+-------
+
+O.......Circle button
+X.......X button
+[]......Square button
+/\......Triangle button
+L1......L1 button
+R1......R1 button
+L2......L2 button
+R2......R2 button
+Up......D-Pad UP
+Down....D-Pad DOWN
+Left....D-Pad LEFT
+Right...D-Pad RIGHT
++.......simultaneously
+/.......or
+N/A.....does not apply
+???.....&quot;work in progress&quot; section of the guide
+
+-----------------
+--MENU CONTROLS--
+-----------------
+
+X Button........Choose/Confirm
+
+/\ Button.......Cancel/Go Back
+
+[] Button.......Enter Submenu Screen (where available)
+
+O Button........Open Folders (where available)
+
+R2 Button.......Fast Scrolling: Hold the R2 trigger to scroll faster on
+                screens with long categories, such as movelists and head
+                options.
+
+L Analog Stick..Access Groups (from Wrestler Select Screen)
+                Normally, when choosing wrestlers from the select screen,
+                you are presented with an entire organization roster to
+                choose from. By toggling the L Analog stick Up and Down,
+                you are able to divide the organization into its various
+                groups, which can make the wrestler selection process
+                more convenient.
+
+R Analog Stick..Shortcut Dial: Opens Submenus just like the [] button, but
+                can be quicker and more convenient. This can be disabled
+                from the Options menu.
+
+               ++ NOTE: If you are having trouble with the menus is FPR,
+               ++ it may be worth your time to familiarize yourself with
+               ++ the Shortcut Dial, which can make menu navigation a
+               ++ whole lot easier.
+
+-----------------
+--GAME CONTROLS--
+-----------------
+
+[] Button.......Weak Attack
+                Used for weak strikes and grapples. The exact move varies
+                depending on the situation and assigned move.
+
+X Button........Medium Attack
+                Used for medium strikes and grapples. The exact move
+                varies depending on the situation and assigned move.
+
+O Button........Strong Attack
+                Used for strong strikes and grapples. The exact move
+                varies depending on the situation and assigned move.
+
+/\ Button.......Run/Pick Up Weapon
+                * Allows your wrestler to voluntarily run (as opposed to
+                being Irish whipped).
+
+                * When outside of the ring, stand close to the ring apron
+                and press /\ + direction toward the ring to grab a weapon
+                from underneath the ring.
+
+                * If/when a weapon is dropped on the ground, it may be
+                picked up by standing &quot;above&quot; it and pressing /\ + Down.
+
+               ++ NOTE: In the Landmine Deathmatch, you can grab the
+               ++ light tubes off of the corner boards by pressing /\ +
+               ++ direction toward the corner. The light tube can then be
+               ++ used to poke the opponent in the gut, smash the stomach,
+               ++ or shatter over the head depending on the button used.
+
+D-Pad ..........Walk (the analog stick is not used for wrestler movement)
+
+L Analog Stick..Performance (Taunt, Crowd Appeal)
+                Every wrestler has up to four different Performances
+                (taunts/poses/crowd appeals). Each one is triggered by one
+                of the Analog Stick's four directions: Left, Right, Up,
+                and Down. Some wrestlers may have the same taunt assigned
+                to more than one direction.
+
+L1 Button.......Breathe/Tag/Dodge/Ukemi
+                * Hold Breathe to catch your breath and avoid fatigue
+                during a match. Knowing when and where to use this is an
+                important part of the match strategy.
+
+                * In Tag Team Matches, press L1 + D-Pad toward a partner
+                standing on the apron to tag out.
+
+                * Press L1 (with the appropriate timing) to dodge an
+                Irish whipped opponent.
+
+                * Press L1 during a grapple or while lying prone on the
+                ground for the &quot;Ukemi&quot; option (see the &quot;New Moves&quot; section
+                of the guide for more details).
+
+R1 Button.......&quot;3D&quot; Walk/Drag Opponent/Front Facelock (from grapple)
+                Holding the R1 button while moving about the ring will
+                modify movement so that the wrestler moves in a first
+                person perspective rather than relative to the screen.
+                (i.e. holding R1 and pressing Up will walk forward from
+                your wrestler's point-of-view). This can be useful for
+                tactics such as circling an opponent.
+
+                Note that in tag matches, while holding R1, you will
+                remain locked onto whichever opponent you are currently
+                focused on. In other words, R1 can be used to bypass the
+                Fire Pro auto-focus feature and focus on a single opponent.
+
+                You can also drag a downed opponent around the ring by
+                holding a direction + R1. And for the first time in a Fire
+                Pro game, you can drag the opponent in directions other
+                than left and right! Simply pressing R1 without a
+                direction will make your wrestler automatically drag the
+                opponent in the opposite direction he is facing.
+
+Start...........Pause the game. From here you will see two options:
+
+                   1. Continue
+                   2. Quit (to Main Menu)
+
+------------------------
+--GAMEPLAY CONVENTIONS--
+------------------------
+
+ ++ NOTE: If this is your first experience with the Fire ProWrestling
+ ++ series, I would seriously suggest that you take a peek at the FPR
+ ++ Beginner's Guide, a companion piece to this guide which was
+ ++ specifically written to help newcomers get accustomed to the game.
+
+The exact move your wrestler will execute depends on the wrestler's own
+move set and fighting style. However, the method used in order to perform
+those moves are universal. For example, the [] button always represents
+the weakest attacks in your wrestler's arsenal, be it a scoop slam or a
+single leg takedown.
+
+As a general rule, you should gradually progress from your weakest moves
+to your strongest moves over the course of the match. Attempting strong
+moves at the opening of the match will usually result in a reversal or
+counter, but depending on the circumstances, they may actually work. When
+sticking to this basic &quot;weak-to-strong&quot; rule of thumb, you'll notice that
+the flow of a typical Fire Pro match simulates that of a properly worked
+professional wrestling match.
+
+The command conventions listed here are broken down into nine individual
+groups, with sub-groups within each group:
+
+   * Striking
+   * Grappling
+   * Running Attacks
+   * High-Flying Moves
+   * Opponent Down Moves
+   * Multi-Teaming (Double/Triple Team Attack)
+   * MMA System (Shootfighting)
+   * Performance (Taunt/Pose/Crowd Appeal)
+   * Other (Various Conventions)
+
+----------
+-STRIKING-
+----------
+Striking moves are done by simply pressing any of the attack buttons. Over
+time, players should become familiar with the distance at which you must
+stand from the opponent in order to connect with striking moves. Also
+note that different strikes must be initiated from different distances.
+
+When standing (opponent also standing):
+
+    []...............................Weak Strike
+    X..............................Medium Strike
+    O + D-Pad (any direction)...Strong Strike #1
+    O...........................Strong Strike #2
+    [] + X......................Strong Strike #3
+
+-----------
+-GRAPPLING-
+-----------
+If you're a fan of wrestling games, you'll already know that grappling is
+the meat and potatoes of any respectable game, and no amount of bells and
+whistles can save a game with a bad grappling system. Your success or
+failure in a Fire Pro match will certainly depend on mastering the game's
+excellent grappling system. And since it's not exactly friendly to
+novices, it's important that you read this section closely to how to
+understand how grappling works in a Fire Pro game.
+
+To initiate a grapple, simply come within proximity of your opponent. When
+you are close enough, you will see the startup animation for the grapple
+automatically engage. This is your key to prepare for your command input.
+At the moment when the two wrestlers make contact (arms locked), you will
+hear a small &quot;smack&quot; sound effect. At this point, be the first to enter a
+grapple command to win the grapple (which move is actually performed will
+depend on which controller command was input by the successful player).
+
+Don't forget that even when you DO win the grapple, the move can still be
+countered/reversed depending on the circumstances!
+
+ ++ NOTE: Repeatedly pressing a button rapidly (button mashing) will NOT
+ ++ win a grapple, in fact it can cause you to lose it! For beginners
+ ++ this may seem hard at first, but once you are familiar with it, the
+ ++ timing becomes a completely natural reaction.
+
+ ++ NOTE: Counters/reversals depend on many factors. In most cases, if an
+ ++ opponent is not worn down enough to take a big move, the move may be
+ ++ countered or reversed automatically. If the two players enter their
+ ++ commands simultaneously, they will enter a Test of Strength, one of
+ ++ the few instances where button mashing has any effect in this game.
+
+There are four major grapple setups in Fire Pro Returns:
+
+   * Front Grapple (grappling an opponent who is facing you)
+   * Back Grapple (grappling an opponent who is facing away from you)
+   * Corner Grapple (grappling an opponent who is in the corner)
+   * Apron Grapple (grappling an opponent who is on the apron)
+
+Listed below are the basic grappling conventions for Fire Pro Returns:
+
+FRONT GRAPPLE
+Grappling an opponent facing you. From this position there are 13 grapples
+of varying strengths available to your wrestler, plus the ever-popular
+Irish whip and Front Facelock options:
+
+   []...................Weak Front Grapple Move #1
+   [] + Up..............Weak Front Grapple Move #2
+   [] + Left/Right......Weak Front Grapple Move #3
+   [] + Down............Weak Front Grapple Move #4
+   X..................Medium Front Grapple Move #1
+   X + Up.............Medium Front Grapple Move #2
+   X + Left/Right.....Medium Front Grapple Move #3
+   X + Down...........Medium Front Grapple Move #4
+   O..................Strong Front Grapple Move #1
+   O + Up.............Strong Front Grapple Move #2
+   O + Left/Right.....Strong Front Grapple Move #3
+   O + Down...........Strong Front Grapple Move #4
+   [] + X.............Strong Front Grapple Move #5
+
+   /\...................................Irish Whip
+   This is generally used to throw opponent toward the ropes. However,
+   there are variations depending on your own position:
+
+      * Your back is facing a corner:
+      This will cause you to throw the opponent into the turnbuckle, which
+      usually ends with them dazed in the corner. See &quot;Corner Grapple&quot; for
+      more info on this position.
+
+      * Your back is up against ropes:
+      You will throw your opponent out of the ring. See &quot;High-Flying
+      Moves&quot; for more info on this position.
+
+      * Outside the ring with your back up against the apron:
+      You will throw your opponent back into the ring.
+
+   R1 Button.........................Front Facelock
+   Used to grab the opponent by the head and move him/her around the ring,
+   which is useful when moving the opponent to the center of the ring or
+   away from his or her partner's corner. There is a variation to this:
+
+      * Your back is up against ropes:
+      This will cause you to throw the opponent out to the apron (but not
+      down to the floor). From here you can set up an Apron Grapple move
+      (see &quot;Apron Grapple&quot; for more info).
+
+   Also, in tag matches, you can tag out while holding an opponent in the
+   Front Facelock, which can be useful for setting up double team
+   maneuvers.
+
+BACK GRAPPLE
+Grappling an opponent from behind. This is usually only possible if the
+opponent is standing dazed, is busy fighting others in a multiplayer
+situation (i.e. Battle Royal), or has the &quot;Back Switch&quot; move in their
+front grapple set.
+
+  [].......................Weak Back Grapple Move
+  X......................Medium Back Grapple Move
+  O...................Strong Back Grapple Move #1
+  O + Up/Down.........Strong Back Grapple Move #2
+  O + Left/Right......Strong Back Grapple Move #3
+  [] + X..............Strong Back Grapple Move #4
+
+  /\...................................Irish Whip
+  See &quot;Front Grapple /\&quot; above.
+
+  R1 Button...................Double Team Setup #1
+  Used to hold the opponent's arms back, allowing a partner to attack
+  (strike only).
+
+  R1 Button + Up..............Double Team Setup #2
+  Used to hoist opponent on your shoulders to set up double team moves,
+  such as the Road Warriors' Doomsday Device.
+
+When an opponent grapples you from behind, you can attempt to counter by
+pressing [] or X. The timing for countering is the same as grappling
+offensively, as described at the top of this section.
+
+CORNER GRAPPLE
+When an opponent is dazed in the corner (see &quot;Front Grapple /\&quot; for
+whipping to corner) you can walk in and grapple them. Note that only the
+east and west ringposts may be used for corner setups. You may climb the
+north and south ringposts for high-flying moves, but you cannot whip your
+opponent into them.
+
+   O + Up...................Corner Grapple Move #1
+   O + Left/Right...........Corner Grapple Move #2
+   O + Down.................Corner Grapple Move #3
+
+   R1 Button...........................Tree of Woe
+   Sets the opponent up in the &quot;Tree of Woe&quot; (hooked upside-down on the
+   ringpost). You can strike the opponent from this position.
+
+Note that certain moves that &quot;throw&quot; opponents from the top turnbuckle
+(i.e. Superplex) require a SECOND grapple input, which is to be performed
+as your wrestler is grappling the opponent on the top rope.
+
+APRON GRAPPLE
+When an opponent is standing on the apron, walk into them to grapple just
+as you would for normal front grapple moves. (See R1 Button under the
+&quot;Front Grapple&quot; section above for an easy way to get opponents out to the
+apron in order to set up these moves.)
+
+   []/X/O................Inside Apron Grapple Move
+
+When an opponent tries to perform an apron grapple, you can attempt to
+counter the move:
+
+   []/X/O...............Outside Apron Grapple Move
+
+-----------------
+-RUNNING ATTACKS-
+-----------------
+Make your wrestler start running by pressing /\. Make your wrestler stop
+running by pressing the D-Pad in the opposite direction he/she is running.
+
+*Running Moves*
+While running toward the opponent:
+
+   [].............................Running Attack #1
+   X..............................Running Attack #2
+   O..............................Running Attack #3
+
+*Run Counters*
+When an opponent is running (either voluntarily or after being Irish
+whipped), you have three run counter moves to defend yourself with. Keep
+in mind that your wrestler is vulnerable to run counters when you run
+voluntarily.
+
+   []................................Run Counter #1
+   X.................................Run Counter #2
+   O.................................Run Counter #3
+
+   L1 Button..................................Dodge
+   Used to dodge a running opponent. Depending on your fighting style,
+   this may be a leap frog or drop to the mat.
+
+*Corner Run*
+When an opponent is dazed in the corner (see &quot;Front Grapple /\&quot; on
+throwing to corner) you can run toward them for a move.
+
+   O...............................Corner Run Attack
+
+-------------------
+-HIGH-FLYING MOVES-
+-------------------
+High-flying moves are death-defying aerial maneuvers that can really wow
+the audience. These moves are not necessarily available to all wrestlers;
+in fact some cannot climb the turnbuckle at all! Generally speaking, large
+heavyweights generally use very few high-flying moves, while luchadors and
+juniors use quite a few.
+
+For top rope attacks such as Missile Kicks, you can attempt them whether
+the opponent is dazed or not, although it would generally be wise to
+attempt such moves only when they are dazed as the opponent has to be
+pretty much stationary for the move to connect.
+
+*Running Dive to Opponent Outside*
+When in the ring and an opponent is standing outside, run toward the ropes
+in the direction opposite the opponent, then hold the O button as you hit
+the opposite ropes. Continue holding O as your wrestler heads back toward
+the opponent and he will catapult himself outside the ring (provided he
+has such a move in his moveset).
+
+*Slingshot to Opponent Outside*
+When in the ring and an opponent is standing outside, stand up against the
+ropes closest to the opponent and press O + D-Pad in the direction toward
+the opponent to launch your wrestler over the top rope (provided he has
+such a move in his moveset).
+
+*Slingshot from Apron to Opponent Inside*
+When standing on the apron and an opponent is in the ring, press O + D-Pad
+in the direction toward the opponent to propel your wrestler back into the
+ring with a flying attack (provided he has such a move in his moveset).
+
+*Top Turnbuckle Moves*
+Climb the post by standing near it and pressing [] or X + D-Pad in the
+direction toward it. Note that, unlike Irish whipping to the corner, high
+flying moves that involve climbing the post (i.e. moonsaults) can be
+performed from any of the four turnbuckles. You can also climb corners
+from the outside by pressing [] + D-Pad in the direction toward the corner
+when standing near it on the apron.
+
+Also, when standing on the apron, you can swing around a corner post to
+move to the apron on another side of the ring by pressing X + D-Pad in the
+direction toward the corner.
+
+   []...................................Post Move #1
+   X....................................Post Move #2
+   O....................................Post Move #3
+   [] + X...............................Post Move #4
+
+Which moves are aimed at standing opponents and which are aimed at downed
+opponents depends on each wrestler's moveset.
+
+*Run-Up Rebound Moves*
+Run toward a corner and hold [] or X to perform an acrobatic move off the
+ringpost. Very few wrestlers have these types of moves in their
+repertoire, but they are exciting to watch. As &quot;off the middle of the
+rope&quot; type moves such as Chris Jericho's Lionsault aren't available in
+FPR, these attacks are about the next best thing.
+
+   [].......................Run-Up Rebound Attack (Standing Opponent)
+   X........................Run-Up Rebound Attack (Downed Opponent)
+
+-----------------------
+-OPPONENT DOWNED MOVES-
+-----------------------
+When an opponent is down, you can perform grounded strikes and submissions
+by standing over them and inputting the proper command. For pro wrestlers,
+at least one of these moves should result in a pin attempt. Shootfighters
+(mixed martial artists) should not have a pin at all.
+
+*At Head, Opponent Facing Up*
+
+   X...........................Opponent Down Move #1
+   O...........................Opponent Down Move #2
+
+   [].........Lift opponent to feet by the hair/head
+   If the opponent is sufficiently worn, this is a great way to set them
+   up standing dazed in order to perform strong strikes, back grapples,
+   and high-flying moves from the top rope.
+
+   R1 Button...........................Drag Opponent
+   Use the R1 button + D-Pad to drag a downed opponent around the ring.
+   Often used to pull opponents away from the ropes to avoid a rope break
+   if Rope Check is On (see Match Configuration).
+
+*At Feet, Opponent Facing Up*
+
+   X...........................Opponent Down Move #3
+   O...........................Opponent Down Move #4
+   [].......Roll Opponent Over to Face Down Position
+   R1 Button...........................Drag Opponent
+
+*At Head, Opponent Facing Down*
+
+   X...........................Opponent Down Move #5
+   O...........................Opponent Down Move #6
+   [].........Roll Opponent Over to Face Up Position
+   R1 Button...........................Drag Opponent
+
+*At Feet, Opponent Facing Down*
+
+   X...........................Opponent Down Move #7
+   O...........................Opponent Down Move #8
+
+   []............Lift opponent to feet by the tights
+   If the opponent is worn down enough, this is a great way to set them
+   up standing dazed in order to perform strong strikes, back grapples,
+   or high-flying moves from the top rope.
+
+   R1 Button...........................Drag Opponent
+
+*Running at a Downed Opponent*
+Run toward a downed opponent and hold O to execute a running strike.
+
+---------------
+-MULTI-TEAMING-
+---------------
+Double and triple team moves occur when more than one wrestler grapples an
+opponent. Such a situation may occur in Battle Royals or even tag matches
+when wrestlers are in the ring helping their partner. Situations for
+multi-teaming include:
+
+   Front Double Team (2 grapple an opponent from the front)
+   Front Triple Team (3 grapple an opponent from the front)
+   Back Double Team (2 grapple an opponent from behind)
+   Back Triple Team (3 grapple an opponent from behind)
+   Corner Double Team (2 corner grapple an opponent)
+   Corner Triple Team (3 corner grapple an opponent)
+
+----------------------------
+-MMA SYSTEM (SHOOTFIGHTING)-
+----------------------------
+Shootfighting (mixed martial arts, MMA) became a huge phenomenon in Japan
+several years ago, when MMA events would regularly outdraw pro wrestling
+events. Currently, more and more people in North America are discovering
+this fantastic and exciting new sport. In Fire Pro Returns, shoot-style
+takedowns are available to all mixed martial artists as well as several
+shoot-style workers. The method varies between fighters, although it is
+usually assigned as one of the grapples, strikes and/or one of the
+downed moves.
+
+Note that ALL characters - be they shootfighters or pro wrestlers - have
+moves available to them from the various shoot positions, so that they may
+defend themselves from these positions if necessary.
+
+*Guard Position*
+The timing for the mount grapple is just after the attacker leans his
+torso back and is leaning forward to initiate his attack.
+
+   [].........................Guard Position Move #1
+   X..........................Guard Position Move #2
+   O..........................Guard Position Move #3
+
+If you are on the receiving end of a mount, you can counter by pressing
+any of the three buttons ([]/X/ O) at the signal. This will execute your
+Mount Position Counter Move.
+
+*Mount (Facelock/Sprawl) Position*
+When you counter a shooter's attempt to tackle you for a mount, you will
+have him in a front facelock. In MMA, this counter position is commonly
+known as a &quot;sprawl&quot;. The timing for the mount/facelock grapple is when the
+fighter that is countering slams his opponent to the mat.
+
+   [].......................Mount (Facelock) Move #1
+   X........................Mount (Facelock) Move #2
+   O........................Mount (Facelock) Move #3
+
+If you are on the receiving end of a front facelock, you can counter by
+pressing any of the three buttons ([]/X/O) at the signal. This will
+execute your Mount/Facelock Counter Move.
+
+*Back Mount Position*
+In the back mount position, wait for the mounting fighter to raise both
+fists, that is the ready position which is your signal to press a button.
+
+   []....................Back Mount Position Move #1
+   X.....................Back Mount Position Move #2
+   O.....................Back Mount Position Move #3
+
+If you are on the receiving end of a Back Mount, you can counter by
+pressing any of the three buttons ([]/X/O) at the signal. This will
+execute your Back Mount Counter Move.
+
+ ++ NOTE: MMA is definitely one of the tougher aspects to master in FPR.
+ ++ Therefore it is recommended that you learn the basics of Fire Pro's
+ ++ main grappling system before moving on to shootfighting. If you feel
+ ++ you are ready for the shootfighting challenge, please refer to my
+ ++ Quinton &quot;Rampage&quot; Jackson Fire Pro Returns character guide, which
+ ++ describes the game's MMA system in much greater detail.
+
+---------------------------------------
+-PERFORMANCE (TAUNT/POSE/CROWD APPEAL)-
+---------------------------------------
+Performing can be useful depending on your wrestler's fighting style.
+Every wrestler has four available performances, which are performed by
+pressing any of the four directions on the Analog Stick:
+
+   Analog Stick Left..................Performance #1
+   Analog Stick Right.................Performance #2
+   Analog Stick Up....................Performance #3
+   Analog Stick Down..................Performance #4
+
+----------------------------------------
+-OTHER TECHNIQUES (VARIOUS CONVENTIONS)-
+----------------------------------------
+
+EXITING AND ENTERING THE RING
+To exit the ring, to go out to the floor or entrance ramp, simply stand up
+against the ropes and press [] + D-Pad in the direction toward the ropes.
+Do the same up against the ring apron to go back inside. Rather than
+exiting directly down to the floor, you can also exit out to the apron
+first by using X instead of []. Doing so again will jump down to the
+floor. Similarly, you can use X to climb up to the apron before going
+directly inside. You can also press [] + X to slide into the ring.
+
+USING WEAPONS
+To acquire a weapon, go outside to the floor, stand up against the ring
+apron, and press /\ + D-Pad toward the ring to grab a weapon from
+underneath the ring. You can even choose your custom wrestler's weapon
+preference if so desired.
+
+Weapons can be dropped voluntarily by pressing /\ again. They are also
+dropped automatically when grappling, when an opponent lands a successful
+strike, or when coming into contact with just about anything (running into
+a ringpost, colliding with a running opponent, etc.).
+
+Note that some functions (such as grappling) are disabled while wielding a
+weapon. You CAN use Breathe when holding a weapon without dropping it.
+
+To pick up a dropped weapon, press /\ + Down when standing just slightly
+&quot;above&quot; the upper rim of it. Since the button input is shared with the
+&quot;Run&quot; command, this takes some practice, but becomes natural over time.
+
+Warning: If DQ count is On, watch for the ref count when bringing a weapon
+into the ring. You can attack with it as much as you like, but if you do
+not drop the weapon by the count of five, you're disqualified!
+
+STAYING DOWN ON THE MAT
+If you would like to stay down on the mat (for instance, to convince a
+human opponent you're injured), hold the X button while you are down. If
+you are in the process of getting up to your feet, holding [] will keep
+you in a crouched position for a limited amount of time, which is useful
+for dodging strikes when an opponent is expecting you to get up.
+
+When holding X while lying on the mat, you can also hold the D-Pad Up or
+Down, and if the wrestler has recovered enough, he will roll in a north or
+south direction. You can use this to roll out to the floor or to dodge a
+top rope move, since the recovery time for rolling is slightly quicker
+than that of standing up. Just hold X + Up and you will roll to safety
+while your opponent hits the floor in an unpleasant way!
+
+VOLUNTARILY RELEASING A PIN/SUBMISSION/ILLEGAL HOLD
+If you would like to release a pin or hold to continue punishing your
+opponent, or are performing an illegal act on an opponent and would like
+to avoid disqualification (if the DQ Count is on), press the X button.
+Your wrestler will cease whatever activity he's engaged in and allow the
+opponent to regain their footing.
+
+KICKING OUT OF PINS AND ESCAPING HOLDS
+To kick out of a pin attempt, tap the X button rapidly. You can simply
+hold the X button down with mashing, but it may reduce your chances of
+kicking out of the pin, and repeated presses help to recuperate spirit
+energy. To escape a submission hold, simply roll the D-Pad around rapidly.
+
+-----------------------------------------
+-NEW MOVES EXCLUSIVE TO FIRE PRO RETURNS-
+-----------------------------------------
+
+CORNER-TO-CENTER ATTACK
+The Corner-to-Center Attack is performed by going to the east or west
+turnbuckle and pressing O + Away when your opponent is downed near the
+center of the ring. If your wrestler doesn't have a Corner-to-Center
+Attack in his or her arsenal, this does nothing.
+
+   O + Away (in corner, opp. down)........Corner-to-Center Attack
+
+STEEL CAGE COMMANDS
+With the all-new steel cage comes all-new playing conventions. You can
+scale the cage to escape, and even pull off high-flying moves from the top
+(provided your wrestler has such an attack in his or her arsenal).
+
+   []/X (on ground)....................................Ascend cage
+   D-Pad......................................Move (while on cage)
+   O (on ground, opp. climbing).........................Shake cage
+   O (while climbing, opp. climbing)...............Attack opponent
+   []/X (near turnbuckle).............................Climb corner
+   O (climb corner, top of cage)..........Dive off the top of cage
+
+   From Grapple:
+   /\ + Away (back to ropes).........Ram opponent's head into cage
+
+OVER THE TOP ROPE TOSS
+You can now toss an opponent over the top rope. You can perform this move
+from anywhere inside the ring; if the wrestlers aren't close to the ropes,
+the wrestler performing the toss will drag his opponent by the hair to the
+ring edge, then do the toss. If the opponent is not sufficiently worn
+down, he will simply roll under the bottom rope and back into the ring.
+
+   From Grapple:
+   R1 + /\............................Toss opponent over top rope
+
+REENTERING THE RING (SLIDE)
+In previous Fire Pro games, you could reenter the ring one of two ways;
+by climbing up on the apron then walking through the ropes, or by rolling
+under the ropes into the ring. Now you can also perform a stylish slide
+into the ring!
+
+   [] + X + D-Pad toward ring......................Slide into ring
+      (outside of ring, near apron)
+
+UKEMI
+In real-life terms, &quot;ukemi&quot; means defending against an attack. In Fire Pro
+terms, pressing L1 at the right moment disables your wrestler's ability to
+use ukemi; in other words, it basically renders him or her defenseless.
+
+Holding L1 during a grapple or while lying prone on the ground disables
+all auto-counter/reversal functions, meaning that the opponent can attempt
+whichever move they want without fear of retaliation.
+
+   L1 (while grappling or downed)............................Ukemi
+
+==================================
+==SECTION 05: MODE SELECT SCREEN==
+==================================
+The game's main menu.
+
+   +--------------------- +
+   |      MAIN MENU       |
+   |----------------------|
+   | 1. GAME MODES        | &lt;- Set up a match and play!
+   |----------------------|
+   | 2. EDIT              | &lt;- Edit wrestlers, referees, rings and more!
+   |----------------------|
+   | 3. OPTIONS           | &lt;- Configure settings to your liking
+   |----------------------|
+   | 4. SAVE/LOAD         | &lt;- Use memory card functions
+   +----------------------+
+
+==========================
+==SECTION 06: GAME MODES==
+==========================
+Select &quot;Game Modes&quot; and press X to configure a professional wrestling or
+MMA (shootfighting) match. First we will review the initial match setups,
+then look at specific match options below.
+
+   +----------------------------+
+   |     INITIAL MATCH SETUP    |
+   |----------------------------|
+   | 1. Exhibition              |
+   | 2. Tournament              |
+   | 3. League                  |
+   | 4. Team Battle (5 vs. 5)   |
+   | 5. Battle Royal            |
+   | 6. Title Match             |
+   | 7. Match Maker             |
+   +----------------------------+
+
+--------------
+--EXHIBITION--
+--------------
+Your standard exhibition mode.
+
+   1. Normal Match 
+   2. Cage Deathmatch 
+   3. Barbed Wire Deathmatch
+   4. Landmine Deathmatch 
+   5. SWA Rules Match 
+   6. S-1 Rules Match 
+   7. Gruesome Fighting (MMA)
+
+--------------
+--TOURNAMENT--
+--------------
+Set up an elimination-style wrestling tournament. Participants are paired
+against one another, with the winner advancing to the next round. If
+you're a fan of classic Japanese wrestling, this is where you can create
+your very own Super J-Cup tournament!
+
+1ST SCREEN
+   Setup New Tournament
+   Continue (resume a previously saved tournament)
+
+MATCH TYPE</span><span id="faqspan-2">
+   1. Normal Match 
+   2. Cage Deathmatch 
+   3. Barbed Wire Deathmatch
+   4. Landmine Deathmatch 
+   5. SWA Rules Match 
+   6. S-1 Rules Match 
+   7. Gruesome Fighting (MMA)
+
+NAME ENTRY
+Enter a name for your tournament. When you are done, press Start, then
+choose the first option to enter Match Configuration.
+
+MATCH CONFIGURATION
+Which options are greyed out depends on the match type chosen. Please
+refer to the specific match types later in this guide to view specific
+match options.
+
+   Settings...........Choose from 1-4 preset match setups
+   Match Type.........Singles, Tag, 6 Man Tag, 8 Man Tag, Mix (handicap)
+   (other match options listed below, may be unavailable depending on
+   match type chosen)
+
+SINGLE ELIMINATION TOURNAMENT BRACKETS
+Use D-Pad Up/Down to choose from one of the 32 available tournament slots,
+then press X to choose who will control the wrestler in this slot (CP, 1P,
+2P, etc). You will then be prompted to choose a wrestler for that slot.
+Repeat this until you have setup your desired tournament brackets.
+
+Pressing [] during this screen will give your four options:
+
+   1. Random Select (fills ALL available slots)
+   2. Delete Entry
+   3. Switch Entry Order
+   4. Entry Finished (start tournament)
+
+To replace a wrestler in one of the slots, select the wrestler and press
+Right. You'll see his name highlighted in blue above his image, you are
+now free to choose another wrestler by pressing X.
+
+To change control of a wrestler, select the wrestler and press Right
+twice. You'll the control icon highlighted, from there you can press O
+to change wrestler control (1P, CP, etc.).
+
+When finished, press [], then choose &quot;Done&quot;. You must choose a minimum of
+three participants.
+
+STARTING THE TOURNAMENT
+After your tournament has been set up, you will be taken to the prelim
+match-up screen. Pressing [] on this screen will reveal three options:
+
+   1. Auto-run Tournament (CPU automatically proceeds to next match;
+         pressing any button after choosing auto-run disables this)
+   2. Quick Save
+   3. Done
+
+If you do not perform a Quick Save before exiting a tournament, you will
+lose all unsaved progress.
+
+----------
+--LEAGUE--
+----------
+Set up a round robin-style wrestling tournament for up to 64 wrestlers!
+Each participant will face all of the other participants, the one with the
+most points in the end will emerge victorious.
+
+1ST SCREEN
+   Setup New League
+   Continue (resume a previously saved tournament)
+
+MATCH TYPE
+   1. Normal Match 
+   2. Cage Deathmatch 
+   3. Barbed Wire Deathmatch
+   4. Landmine Deathmatch 
+   5. SWA Rules Match 
+   6. S-1 Rules Match 
+   7. Gruesome Fighting (MMA)
+
+NAME ENTRY
+Enter a name for your league. When you are done naming your league, press
+Start, then choose the first option to enter Match Configuration.
+
+MATCH CONFIGURATION
+Which options are greyed out depends on the match type chosen. Please
+refer to the specific match types later in this guide to view specific
+match options.
+
+   Settings...........Choose from 1-4 preset match setups
+   Match Type.........Singles, Tag, 6 Man Tag, 8 Man Tag, Mix (handicap)
+   Rules..............3 Count, 2 Count, Only Fall (Pin), Only Give Up
+   Time (Minutes).....5, 10, 15, 20, 30, 45, 60, None
+   Matches............1 Fall, 3 Falls
+   Point Type.........2 Point win, 5 Point win
+   (other match options listed below, may be unavailable depending on
+      match type chosen)
+
+LEAGUE BRACKETS
+You start with one available bracket. Press X to choose who will control
+the wrestler in this slot (CP, 1P, 2P, etc). You will then be prompted to
+choose a wrestler for that slot. Repeat this until you have setup your
+desired league brackets.
+
+Pressing [] during this screen will give your four options:
+
+   1. Random Select (fills ALL available slots)
+   2. Delete Entry
+   3. Switch Entry Order
+   4. Entry Finished (start tournament)
+
+To replace a wrestler in one of the slots, select the wrestler and press
+Right. You'll see his name highlighted in blue above his image, you are
+now free to choose another wrestler by pressing X.
+
+To change control of a wrestler, select the wrestler and press Right
+twice. You'll the control icon highlighted, from there you can press O to
+change wrestler control (1P, CP, etc.).
+
+When finished, press [], then choose &quot;Done&quot;.
+
+STARTING THE LEAGUE
+After your league has been set up, you will be taken to the preliminary
+match-up screen. Pressing [] on this screen will reveal four options:
+
+   1. Current Ranking
+   2. Go to Match
+   3. Quick Save
+   4. Exit Tournament
+
+If you do not perform a Quick Save before exiting league play, you will
+lose all unsaved progress.
+
+---------------
+--TEAM BATTLE--
+---------------
+Teams of five face each other in a series of singles matches.
+
+1ST SCREEN
+   1. Match (Start an Elimination Match)
+   2. Team Edit (Create a custom team of 5)
+
+MATCH SETUP
+There are three available Team Battle match setups:
+
+   1. Marathon (winner stays to fight next opponent)
+   2. Team War (entry order can be chosen)
+   3. Team War (random entry order)
+
+   Configuration Screen
+   --------------------
+   Settings...........Choose from 1-4 preset match setups
+   Blue Corner........Select wrestler control (1P, CP, etc.)
+   Red Corner.........Select wrestler control (1P, CP, etc.)
+   Rules..............3 Count, 2 Count, Only Fall (Pin), Only Give Up
+   Time (Minutes).....5, 10, 15, 20, 30, 45, 60, None
+   Matches............1 Fall only
+   Ring...............See &quot;Normal Mode&quot;
+   Venue..............See &quot;Normal Mode&quot;
+   COM Level..........1 (easiest) - 10 (hardest)
+   Speed..............100% - 800%
+   COM Skip...........OFF, ON
+   Referee............Choose a referee
+   Rope...............OFF, ON
+   Elimination........N/A
+   Lumber.............OFF, ON
+   Tornado............N/A
+   Cut Play...........N/A
+   DQ Count...........OFF, ON
+   Outside............OFF, ON
+   BGM................Choose a Background Music track, or RANDOM
+   Critical...........Off, Low, Medium, High
+   Done...............Confirm selections and proceed to match
+
+You may press the Start button at any time on the Configuration Screen to
+proceed directly to the match.
+
+*Team Selection*
+Choose from one of the preset teams or a team made using Team Edit (chosen
+at the first screen of this mode).
+
+TEAM EDIT
+Select an existing team to edit, or create your own custom team in one of
+the available slots. There are 64 team slots, the last 19 are empty.
+
+*Name Entry*
+Enter a name for your team. To use English alphabet characters, press []
+at the naming screen, then choose the 4th option down.
+
+*Participant Select*
+Use D-Pad up/down to highlight one of the slots. Press X to choose a
+wrestler for that slot.
+
+----------------
+--BATTLE ROYAL--
+----------------
+Every man for himself with up to eight participants in the ring at one
+time! When all but one of the participants are eliminated, the last one
+remaining is declared the winner.
+
+1ST SCREEN
+
+   Normal...........All start in the ring together, eliminated
+                       participants must leave.
+   One Fall.........First pinfall wins the match.
+   Endless..........Eliminated participants stay to continue fighting.
+   Over the Rope....Elimination via getting thrown over the rope.
+   Timed Entrance...Participants come out separately; similar to the
+                       format of the WWE Royal Rumble, except the total
+                       number of participants is still limited to 8.
+
+ ++ NOTE: &quot;Over the Rope&quot; contestants can be eliminated by simply being
+ ++ thrown or knocked out of the ring, not strictly over the top rope. To
+ ++ have an &quot;over-the-top-rope&quot; style Battle Royal, choose a &quot;Normal&quot;
+ ++ match, then turn &quot;Over the Top Rope&quot; On in the Match Configuration
+ ++ settings (see &quot;Normal&quot; match settings).
+
+NORMAL/ONE FALL/ENDLESS/OVER THE ROPE
+
+*Configuration Screen*
+See &quot;Normal Mode&quot;. Options not applicable to the mode will be greyed out.
+
+*Wrestler Select*
+Use the D-Pad to highlight one of the 8 slots, then press X to select a
+wrestler for that slot. After you've chosen your wrestler, you may then
+choose who will control it (1P/CP/None). If you chose None, the slot will
+become empty. You may also highlight the wrestler's name and press X to
+select a new wrestler for that slot.
+
+Pressing [] in the Wrestler Select Field will give you these three options:
+
+   1. Random Select (fills ALL available slots)
+   2. Start Match (must have at least three participants)
+   3. Return to Match Configuration Screen
+
+Once you are finished assigning all desired slots, you may press Start to
+immediately begin the match.
+
+TIMED ENTRANCE
+
+*Configuration Screen*
+See &quot;Normal Mode&quot;. Options not applicable to the mode will be greyed out.
+
+*Wrestler Select*
+Use the D-Pad to highlight one of the 8 slots, then press X to select a
+wrestler for that slot. After you've chosen your wrestler, you may then
+choose who will control it (1P/CP/None). If you chose None, the slot will
+become empty. You may also highlight the wrestler's name and press X to
+select a new wrestler for that slot.
+
+Pressing [] in the Wrestler Select Field will give you these three options:
+
+   1. Random Select (fills ALL available slots)
+   2. Start Match (must have at least three participants)
+   3. Return to Match Configuration Screen
+
+Once you are finished assigning all desired slots, you may press Start to
+go to the Order Select Screen.
+
+*Order Select*
+Choose the time and order when each participant will enter the match. The
+first two will always be 0 min (start of the match). You can increase and
+decrease the entry time by highlighting the number to the right of the
+wrestler's name and pressing X (increase) or O (decrease).
+
+Once you are finished assigning all desired times and entry orders, you
+may press Start to immediately begin the match.
+
+---------------
+--TITLE MATCH--
+---------------
+Hold a contest to decide the wearer of your custom made belts. You can
+enter Belt Edit Mode directly from Title Match by pressing the D-Pad
+Right on the selected title, or by pressing [], then selecting the 3rd
+option. See the &quot;Belt Edit&quot; section for more details on editing and
+creating custom title belts.
+
+ ++ WARNING: Editing a belt/title will erase ALL title history!
+
+After creating a title slot, you will be prompted as to the conditions
+which the title must be won/defended:
+
+   # of Wrestlers..........Single
+                           Tag
+                           6-Man Tag
+                           8-Man Tag
+   Weight Class............Heavy
+                           Junior
+   Match Type..............Normal Match
+                           Cage Deathmatch
+                           Barbed Deathmatch
+                           Landmine Deathmatch
+                           SWA Rules Match
+                           S-1 Rules Match
+                           Gruesome Fighting 
+
+Highlighting an already created title slot and pressing [] will reveal
+these options:
+
+   1. Switch Title Order - Switch title into any of the 8 slots.
+   2. Go to Title Match
+   3. Belt Edit - Edit the look of the belt (see warning!).
+   4. Delete Title History - Erase all title history.
+   5. Delete Title
+
+After winning a title, the winner will be prompted to enter his or her
+name for posterity. Note that when you choose to defend that title in the
+future, you will be prompted to choose only one &quot;corner&quot;, who will be the
+challenger for that title.
+
+---------------
+--MATCH MAKER-- *!!!UNDER CONSTRUCTION!!!*
+---------------
+Match Maker puts you in the role of a pro wrestling booker, allowing you
+to create a complete match card (or series of cards), from opener to
+headliner. You are then awarded points for your performance, which are
+determined by the how well the audience reacts to the show.
+
+When entering Match Maker, you are presented with three options:
+
+   1. Season Play - Manage a complete year's worth of wrestling events.
+   2. Competition Play - Manage a single wrestling event.
+   3. Ranking - Shows the highest rankings in Season and Competition.
+
+SEASON PLAY
+*!!!UNDER CONSTRUCTION!!!*
+
+COMPETITION PLAY
+After choosing Competition Play, you will first be prompted to name your
+wrestling card. You are then prompted to choose a promotion you would like
+to book an event for. After selecting your promotion, you are able to book
+the card itself, from opening match to headliner (7 matches total). If
+you're familiar with real-life events/feuds this promotion has used in the
+past (such as the Kuishinbo Kamen vs. Ebessan feud in the Osaka Pro
+promotion), you may want to recreate some of these scenarios here.
+
+That's it for the various match setups. Now let's take a look at the
+individual match types and options:
+
+   +---------------------------------------------------------+
+   |                  SPECIFIC MATCH TYPES                   |
+   |---------------------------------------------------------|
+   | 1. Normal Match                                         |
+   | 2. Cage Deathmatch                                      |
+   | 3. Barbed Wire Deathmatch                               |
+   | 4. Landmine Deathmatch                                  |
+   | 5. SWA Rules Match                                      |
+   | 6. S-1 Rules Match                                      |
+   | 7. Gruesome Fighting                                    |
+   +---------------------------------------------------------+
+
+----------------
+--NORMAL MATCH--
+----------------
+Choose this for a standard professional wrestling match. You can choose a
+wide variety of match stipulations from the Configuration Screen:
+
+   Configuration Screen
+   --------------------
+   Settings...........Choose from 1-4 preset match setups
+   Blue Corner........Choose number of players (1-8), wrestler control
+                         (human or CPU), control of seconds/managers:
+                      [ Wrestler |     CP       | confirm ]
+                      [  Second  | 1P, 2P, etc. | choice  ]
+   Red Corner.........Choose number of players (1-8), wrestler control
+                         (human or CPU), control of seconds/managers:
+                      [ Wrestler |     CP       | confirm ]
+                      [  Second  | 1P, 2P, etc. | choice  ]
+   Rule...............3 Count, 2 Count, Only Fall (Pin), Only Give Up
+   Over-Rope..........OFF, ON (ON: Wrestlers can be eliminated by being
+                         tossed over the top rope)
+   Time (Minutes).....5, 10, 15, 20, 30, 45, 60, None
+   Matches............1 Fall, 3 Falls
+   Ring...............SWA
+                      View Japan (New Japan Pro Wrestling)
+                      Olive Japan (All Japan Pro Wrestling)
+                      Super NOVA (Pro Wrestling NOAH)
+                      NEO1-MIX (Zero-ONE MIX)
+                      Riki Pro (Rikimaru Puroresu)
+                      Blizzard Pro (Michinoku Puroresu)
+                      Azteca-Pit (Toryumon/Dragon Gate)
+                      Zip Japan (Big Japan)
+                      Kansai (Osaka Puroresu)
+                      S-DOJO (K-DOJO)
+                      BBT Pro (DDT)
+                      AWG (American)
+                      Mexico (lucha; Corona mat)
+                      High Class (Pancrase)
+                      BLADE (PRIDE)
+                      S-1 (K-1)
+                      Women
+                      New IW (FMW)
+                      EWF (ECW)
+                      GONGS (RINGS)
+                      UWH (UWFi)
+                      Battle Max (Battlarts)
+                      *ring edits you've created will appear here*
+    Venue.............Spike Dome (Tokyo Dome)
+                      M.A. Dome (Nippon Budokan)
+                      Big Dome (Korakuen Hall)
+                      Town Hall (Local Gym)
+                      No. 1 Ring (Shinkiba No. 1 Ring) 
+                      West Dome (World Memorial Hall)
+                      Dojo
+                      USA Dome
+                      RANDOM
+   COM Level..........1 (easiest) - 10 (hardest)
+   Speed..............100%, 125%, 150%, 175%, 200%, 400%, 800%
+   COM Skip...........OFF, ON (ON: CP vs CP matches are highlighted
+                         instead of shown in full)
+   Referee............Panther (Tiger Hattori - New Japan) 
+                      Septiego (Kyouhei Wada - All Japan) 
+                      Dai (Ted Tanabe - Michinoku) 
+                      Mr. Fair (Yuuji Shimada - PRIDE) 
+                      Rei (Daichi Murayama - ZERO-ONE MAX) 
+                      Saga (Bakery Yagi - Dragon Gate) 
+                      Imada (Mr. Soranaka - UWF) 
+                      Taki (Joe Higuchi - All Japan) 
+                      Joe (Ri Nikkan - Big Japan) 
+                      Cindy (Asano Grace Megumi - DDT) 
+                      *referee edits you've created will appear here*
+   Rope...............OFF, ON (ON: Pins and submission holds are broken if
+                         you are touching the ropes)
+   Elimination........OFF, ON (ON: In multi-player situations, match
+                         continues until all wrestlers from one side are
+                         eliminated)
+   Lumber.............OFF, ON (ON: As soon as a wrestler is thrown out of
+                         the ring or manually exits, he will automatically
+                         reenter. Note that this is not an American-style
+                         lumberjack match.)
+   Tornado............OFF, ON (ON: In tag matches, all participants are
+                         allowed in the ring at once)
+   Cut Play...........OFF, ON (ON: In tag matches, allows partner
+                         interference when a wrestler is in danger)
+   DQ Count...........OFF, ON (ON: referee will count up to 5 for any
+                         illegal act that he sees, and disqualify the
+                         wrestler if the act is not discontinued)
+   Outside............OFF, ON (ON: referee counts to 20 when a wrestler
+                         is outside of the ring, if he/she does not enter
+                         the ring before the count, that wrestler forfeits
+                         the match)
+   BGM................Choose a background music track, or RANDOM
+   Critical...........Off, Low, Medium, High
+                         (Chooses how often &quot;CRITICAL!&quot;s, will occur)
+   Done...............Confirm selections and proceed to match
+
+You may press the Start button at any time on the Configuration Screen to
+proceed directly to the match.
+
+-------------------
+--CAGE DEATHMATCH--
+-------------------
+The long awaited American-style steel cage match finally makes it way into
+the Fire Pro series! See the &quot;Moves&quot; section for special cage commands.
+
+   Configuration Screen
+   --------------------
+   Settings...........Choose from 1-4 preset match setups
+   Blue Corner........Choose participant(s) (1P, CP, etc.)
+   Red Corner.........Choose participant(s) (1P, CP, etc.)
+   Rule...............3 Count, 2 Count, Only Fall (Pin), Only Give Up,
+                         Escape
+   Time (Minutes).....5, 10, 15, 20, 30, 45, 60, None
+   Matches............1 only
+   Ring...............See &quot;Normal Mode&quot;
+   Venue..............Yurakuen Hall (Korakuen Hall)
+   Weapons............0-8 (choose the number of weapons in the ring)
+   COM Level..........1 (easiest) - 10 (hardest)
+   Speed..............100%, 125%, 150%, 175%, 200%, 400%, 800%
+   COM Skip...........N/A (not applicable)
+   Referee............Choose a referee
+   Rope...............OFF, ON
+   Elimination........N/A
+   Lumber.............N/A 
+   Tornado............ON 
+   Cut Play...........N/A 
+   DQ Count...........OFF
+   Outside............N/A 
+   BGM................Choose a background music track, or RANDOM
+   Critical...........None
+   Done...............Confirm selections and proceed to match
+
+You may press the Start button at any time on the Configuration Screen
+to proceed directly to the match.
+
+ ++ NOTE: It has been well documented that there are serious issues when
+ ++ it comes to CPU A.I. in FPR's Cage Deathmatch Mode. Because of this,
+ ++ it is recommended that this mode be restricted to player vs, player
+ ++ battles or that the match rules be set so that &quot;Escape&quot; is not a win
+ ++ option in vs. CPU battles.
+
+--------------------------
+--BARBED WIRE DEATHMATCH--
+--------------------------
+A hardcore-style match popularized by the 90's era Japanese &quot;garbage&quot;
+promotions. The ring ropes are electrified barbed wire, whip 'em into the
+ropes and watch 'em sizzle! And to top it all off, you can set explosives
+to detonated in the ring within a certain time limit! This match is not
+for the faint of heart!
+
+   Configuration Screen
+   --------------------
+   Settings...........Choose from 1-4 preset match setups
+   Blue Corner........Choose participant(s) (1P, CP, etc.)
+   Red Corner.........Choose participant(s) (1P, CP, etc.)
+   Rule...............3 Count, 2 Count, Only Fall (Pin), Only Give Up
+   Time (Minutes).....5, 10, 15, 20, 30, 45, 60, None
+   Explosion Time.....1 min, 5 min, 15 min, 30 min, 45 min, 60 min, Off
+   Matches............1 only
+   Ring...............See &quot;Normal Mode&quot;
+   Venue..............Yurakuen Hall (Korakuen Hall)
+   Weapons............0-8
+   COM Level..........1 (easiest) - 10 (hardest)
+   Speed..............100%, 125%, 150%, 175%, 200%, 400%, 800%
+   COM Skip...........N/A
+   Referee............Choose a referee
+   Rope...............N/A
+   Elimination........N/A
+   Lumber.............N/A
+   Tornado............ON
+   Cut Play...........N/A
+   DQ Count...........OFF
+   Outside............N/A
+   BGM................Choose a background music track, or RANDOM
+   Critical...........Off, Low, Medium, High
+   Done...............Confirm selections and proceed to match
+
+You may press the Start button at any time on the Configuration Screen to
+proceed directly to the match.
+
+-----------------------
+--LANDMINE DEATHMATCH--
+-----------------------
+Another hardcore-style match popularized by the 90's era Japanese garbage
+promotions. The outside of the ring is lined with barbedwire, and the
+ringposts are fitted with either flourescent tubes or boards wrapped with
+barbedwire. You can also toss the opponent over the top rope and into the
+explosives outside the ring, but only when they are sufficiently worn
+down. Again, this match is not for the faint of heart!
+
+   Configuration Screen
+   --------------------
+   Settings...........Choose from 1-4 preset match setups
+   Blue Corner........Choose participant(s) (1P, CP, etc.)
+   Red Corner.........Choose participant(s) (1P, CP, etc.)
+   Rule...............3 Count, 2 Count, Only Fall (Pin), Only Give Up
+   Time (Minutes).....5, 10, 15, 20, 30, 45, 60, None
+   Matches............1 only
+   Ring...............See &quot;Normal Mode&quot;
+   Venue..............Yurakuen Hall (Korakuen Hall)
+   Corner.............Barbed Wire, Fluorescent Light Tubes
+   Weapons............0-8
+   COM Level..........1 (easiest) - 10 (hardest)
+   Speed..............100%, 125%, 150%, 175%, 200%, 400%, 800%
+   COM Skip...........N/A
+   Referee............Choose a referee
+   Rope...............OFF, ON
+   Elimination........N/A
+   Lumber.............ON
+   Tornado............ON
+   Cut Play...........N/A
+   DQ Count...........OFF
+   Outside............N/A
+   BGM................Choose a background music track, or RANDOM
+   Critical...........Off, Low, Medium, High
+   Done...............Confirm selections and proceed to match
+
+-------------------
+--SWA RULES MATCH--
+-------------------
+Also known as &quot;BattlArts&quot; rules, named after the now-defunct promotion.
+There are no DQs here, so anything goes!
+
+   Configuration Screen
+   --------------------
+   Settings...........Choose from 1-4 preset match setups
+   Blue Corner........Choose participant(s) (1P, CP, etc.)
+   Red Corner.........Choose participant(s) (1P, CP, etc.)
+   Rule...............3 Count, 2 Count, Only Fall (Pin), Only Give Up
+   Time...............5 min, 10 min, 15 min, 30 min, 45 min, 60 min
+   Rounds.............1, 2, 3, 5, 10, 12, 15
+   TKO................1, 2, 3, 4, 5
+   Matches............1 Only
+   Ring...............See &quot;Normal Mode&quot;
+   Venue..............See &quot;Normal Mode&quot;
+   COM Level..........1 (easiest) - 10 (hardest)
+   Speed..............100%, 125%, 150%, 175%, 200%, 400%, 800%
+   COM Skip...........N/A
+   Referee............Choose a referee
+   Rope...............OFF, ON
+   Elimination........N/A
+   Lumber.............OFF, ON
+   Tornado Battle.....N/A
+   Cut Play...........N/A
+   DQ Count...........OFF
+   Outside Count......OFF, ON
+   BGM Selection......Choose a background music track, or RANDOM
+   Critical...........Off, Low, Medium, High
+   Done...............Confirm selections and proceed to match
+
+You may press the Start button at any time on the Configuration Screen to
+proceed directly to the match.
+
+------------------
+--S-1 RULES MATCH--
+-------------------
+S-1 (or K-1, as it's known in the real world) rules means NO grappling,
+only striking. You may initiate a grapple, but unless the grapple leads to
+a striking attack, the contestants will merely clinch one another. As you
+might expect, matches can end very quickly with these rules!
+
+   Configuration Screen
+   --------------------
+   Settings...........Choose from 1-4 preset match setups
+   Blue Corner........Choose participant (1P, CP, etc.)
+   Red Corner.........Choose participant (1P, CP, etc.)
+   Match End..........N/A (only KO/TKO)
+   Time...............3 min, 5 min, 10 min, 15 min, 20 min, 30 min
+   Rounds.............1, 2, 3, 5, 10, 12, 15
+   TKO................1, 2, 3, 4, 5
+   Matches............1 Fall Only
+   Ring...............See &quot;Normal Mode&quot;
+   Venue..............See &quot;Normal Mode&quot;
+   COM Level..........1 (easiest) - 10 (hardest)
+   Speed..............100%, 125%, 150%, 175%, 200%, 400%, 800%
+   COM Skip...........N/A
+   Referee............Choose a referee
+   Rope...............N/A
+   Elimination........N/A
+   Lumber.............N/A
+   Tornado............N/A
+   Cut Play...........N/A
+   DQ Count...........ON
+   Outside............N/A
+   BGM................Choose a background music track, or RANDOM
+   Critical...........Off, Low, Medium, High
+   Done...............Confirm selections and proceed to match
+
+You may press the Start button at any time on the Configuration Screen to
+proceed directly to the match.
+
+---------------------
+--GRUESOME FIGHTING--
+---------------------
+MMA (shootfighting) rules inside a UFC-style cage! Participants cannot be
+pinned, and KO's happen more frequently. (HINT: This is a BAD place to
+bring a pure pro wrestler!)
+
+   Configuration Screen
+   --------------------
+   Settings...........Choose from 1-4 preset match setups
+   Blue Corner........Choose participant (1P, CP, etc.)
+   Red Corner.........Choose participant (1P, CP, etc.)
+   Rule...............Only Give Up
+   Time...............3 min, 5 min, 10 min, 15 min, 20 min, 30 min
+   Rounds.............1, 2, 3, 5, 10, 12, 15
+   TKO................1, 2, 3, 4, 5
+   Matches............1 Fall Only
+   Ring...............Dodecagon Ring (UFC-style cage)
+   Venue..............Bayside Colosseum (fictional)
+   COM Level..........1 (easiest) - 10 (hardest)
+   Speed..............100%, 125%, 150%, 175%, 200%, 400%, 800%
+   COM Skip...........N/A
+   Referee............Choose a referee
+   Rope...............N/A
+   Lumber.............N/A
+   Tornado............N/A
+   Cut Play...........N/A
+   DQ Count...........N/A
+   Outside............N/A
+   BGM................Choose a background music track, or RANDOM
+   Critical...........Off, Low, Medium, High
+   Done...............Confirm selections and proceed to match
+
+You may press the Start button at any time on the Configuration Screen to
+proceed directly to the match.
+
+=========================
+==SECTION 07: EDIT MODE==
+=========================
+The heart and soul of the Fire Pro series. this mode allows players to
+keep the game up-to-date in many areas of pro wrestling, providing
+infinite replay value.
+
+And in case you're curious, yes, Fire Pro is where it all started when it
+comes to wrestler creation. And after observing the options below, I think
+you'll agree it still can't be beat.
+
+From the main menu, select &quot;Edit&quot; to see the following options:
+
+   +------------------------------+
+   |          EDIT MENU           | 
+   |------------------------------|
+   | 1. Wrestler                  |
+   | 2. Referee                   |
+   | 3. Edit Ring                 |
+   | 4. Edit Logo                 |
+   | 5. Edit Belt                 |
+   | 6. Edit Team (for 5 vs. 5)   |
+   +------------------------------+
+
+At the bottom of the Edit screen, you will see a list of numbers running
+horizontally across the screen. These are:
+
+[# of promotions currently used / # of promotion slots left]
+        [# of factions currently used / # of faction slots left]
+                [# of wrestlers currently used / # of wrestler slots left]
+
+-----------------
+--WRESTLER EDIT--
+-----------------
+In Wrestler Edit, you have a variety of options. Not only can you create
+your own custom wrestler, but create new organizations and groups within
+the game. You can also send wrestlers to different organizations, reorder
+them within the roster, and even retire them if necessary.
+
+ORGANIZATION EDIT
+When you first enter Wrestler Edit, you'll see an option at the top of the
+screen (return to top), followed by a list of organizations (the first one
+will say VIEW JAPAN (a.k.a. New Japan). The last entry is &quot;Retired&quot;, this
+is where you will put the in-game wrestlers that you no longer want to show
+up in the match menus (ex. an in-game wrestler that you've made an updated
+version of).
+
+Highlight any promotion and press [] to bring up the following options:
+
+   1. Top (return to top of menu)
+   2. Open/close all (see note below)
+   3. Create new:
+         Organization
+         Group
+   4. Switch (reorder organization; i.e. put NOAH before AJPW)
+   5. Edit Name
+   6. Change Logo
+   7. Delete
+
+ ++ A NOTE ABOUT FOLDERS: The folder system is new to Fire Pro menu
+ ++ navigation. It works very much like a Windows or Mac window; simply
+ ++ highlight any folder with a red triangle beside it and press O to
+ ++ spill open its contents, or press X to select folder content.
+
+GROUP EDIT
+Groups (a.k.a. stables, factions) exist within organizations, allowing a
+group of wrestlers to create a team, much as they do in real-life.
+
+After you have entered Edit Mode and while browsing organizations, you can
+access each organization's individual groups by highlighting that
+organization and pressing O. This will spill open the organization window,
+showing you all of the groups within that organization.
+
+From there, scroll down and select a group, then press [] to bring up
+the following menu:
+
+   1. Top (return to top of menu)
+   2. Open/close all
+   3. Create new:
+         Organization
+         Group
+   4. Switch (reorder group within organization)
+   5. Edit Name
+   6. Change Attribute:
+         Baby
+         Neutral
+         Heel
+   7. Delete
+
+WRESTLER EDIT
+
+ +====+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++====+
+ +====+++++++ VERY IMPORTANT NOTE ABOUT WRESTLER CREATION!!! +++++++=====+
+ +====+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++====+
+ +                                                                       +
+ +  Once you have selected a organization AND a group, ONLY THEN you     +
+ +  are ready to create a custom wrestler! Note that all wrestlers       +
+ +  MUST exist within either a new or preexisting group. If you create   +
+ +  an entirely new organization (i.e. WWE), you MUST first create       +
+ +  group within that organization (i.e. RAW, SmackDown!), THEN create   +
+ +  your wrestler within their appropriate group. Please understand      +
+ +  this before attempting to create your own wrestler!!!                +
+ +                                                                       +
+ +====++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++=====+
+ +====++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++=====+
+
+To begin creating a wrestler, highlight a group and press X to enter the
+group window. If default wrestlers are in this group, you will also
+be able to select and edit them from here (name and one appearance only).
+If this is a newly created group, you will only see one option in the
+window, &quot;Create New&quot;, which will allow you to create a new wrestler for
+this faction.
+
+ ++ NOTE: You CANNOT create a new wrestler by selecting an organization,
+ ++ you MUST select a group within that organization. If you're trying to
+ ++ create a new wrestler and are getting a &quot;buzzing&quot; sound instead, make
+ ++ sure that you have selected an actual group, not just an organization.
+
+To create a new wrestler within a group with preexisting wrestlers,
+simply highlight any wrestler within that group, then press [] to bring
+up the following screen:
+
+   1. Top (return to top of menu)
+   2. NEW:
+         Model Wrestler (start from an existing model)
+         Default Wrestler (start from scratch)
+   3. Switch (reorder selected wrestler within group)
+   4. Transfer (change selected wrestler's group/organization)
+   5. Edit Name
+   6. Delete
+
+If you're creating a wrestler within an empty group, pressing X will
+bring you directly to the &quot;Create New Wrestler&quot; option. Obviously, not all
+of the options above are available if there is no existing wrestler to
+edit within the group.
+
+CREATING A NEW WRESTLER
+When you first create your wrestler, you will be presented with two
+options:
+
+   1. Model Wrestler (start from an existing model)
+   2. Default Wrestler (start from scratch)
+
+&quot;Model Wrestler&quot; allows you to choose one of the default or previously
+created wrestlers as a base for a new wrestler. This may be useful for
+making alternate versions of a wrestler under a different gimmick or
+style, or tag team members with similar attire.
+
+The Model Wrestler's name, appearance, statistical information under Skill
+Edit, moves, and CPU Logic will all be loaded. However, anything in Skill
+Edit that uses points (Special Skill, Body Part endurance, etc.) as well
+as the Parameter Edit (Attribute Points) will not be loaded, so you will
+have to manually fill those in.
+
+&quot;Default Wrestler&quot; will allow you to select the name for your wrestler,
+you can then alter his other features later.
+
+Here is an overview of the naming display:
+
+[Short Name][Long Name][Flip: On/Off][Separator Type][Nickname]
+
+Flip: Used to determine whether the Short Name or Long Name will come
+first, which is convenient for wrestlers whose first name contains more
+characters than their last.
+
+Separator: This determines what character will come in between the two
+names. There aren't enough spaces for many names when naming in English,
+so this is very useful. For example, if a wrestler's name is very long
+(i.e. Undertaker), you can enter it separately, then choose the last
+separator (none) to merge Short Name and Long Name together.
+
+Use L1 and R1 to advance through the various fields. Initially the
+&quot;nickname&quot; option is off-screen, until you toggle to it by pressing R1.
+
+Once you have assigned a name to your wrestler, press Start to complete
+the naming process. Here you will be presented with three options:
+
+   Exit (confirm changes)
+   Exit (cancel changes)
+   Cancel (return to window)
+
+EDITING YOUR NEWLY CREATED WRESTLER
+After you've completed the naming process, your new wrestler will appear
+in his or her appropriate faction. From there, select the wrestler and
+press X to bring up the following options:
+
+   +-----------------------------+
+   |     WRESTLER EDIT MENU      | 
+   |-----------------------------|
+   | Name Edit                   |
+   | Skill Edit                  |
+   | Appearance Edit             |
+   | Moveset Edit                |
+   | Parameter Edit              |
+   | CPU Logic Edit              |
+   | Finisher Name               |
+   | Profile                     |
+   +-----------------------------+
+
+NAME EDIT
+Name your wrestler.
+
+SKILL EDIT
+Adjust your wrester's specific traits; his homeland, his date of birth,
+his special skills, etc.
+
+Class...............Heavy
+                    Junior
+Height..............Unknown, 150-220cm
+Weight..............Unknown, 40-250kg
+Gender..............Male
+                    Female
+                    Male (?) (gender bender)
+                    Female (?) (gender bender)
+Year of Birth.......Unknown, 1900-1999
+Month of Birth......01-12
+Day of Birth........01-31
+Country.............01 - Parts Unknown      21 - Switzerland
+                    02 - Japan              22 - North Korea
+                    03 - America            23 - South Korea
+                    04 - Canada             24 - China
+                    05 - Germany            25 - Mongolia
+                    06 - Mexico             26 - Thailand
+                    07 - England            27 - Australia
+                    08 - France             28 - New Zealand
+                    09 - Brazil             29 - Bulgaria
+                    10 - Russia             30 - Botswana
+                    11 - Puerto Rico        31 - South Africa
+                    12 - India              32 - Tonga
+                    13 - Sudan              33 - Ukraine
+                    14 - Jordan             34 - Croatia
+                    15 - Cuba               35 - Lithuania
+                    16 - Finland            36 - Belarus
+                    17 - Greece             37 - Tobago
+                    18 - Holland            38 - Iran
+                    19 - Italy              39 - Hero Star
+                    20 - Spain              40 - Snake Island
+Wrestler Rank.......E (lowest) - S (highest)
+Charisma............E (lowest) - S (highest)
+Fight Style.........01 - Orthodox - typical professional wrestler
+                    02 - Technician - good at technical skills;
+                            small package, etc.
+                    03 - Wrestling - amateur wrestler
+                    04 - Ground - good at ground attacks, shooting, etc.
+                    05 - Power - powerful; power bombs, side busters, etc.
+                    06 - American - WWE main event style; combination of
+                            Power, Heel, etc
+                    07 - Junior - modern junior heavyweight
+                    08 - Luchador - traditional lucha libre-style wrestler
+                    09 - Heel - rough style; rulebreaker
+                    10 - Mysterious - unorthodox technical style (Muta)
+                    11 - Shooter - shoot-style wrestler, MMA
+                    12 - Fighter - kickboxer, karate
+                    13 - Grappler - judo, ju-jitsu, no-holds-barred style
+                    14 - Panther - mix of martial arts and lucha libre
+                            (Tiger Mask)
+                    15 - Giant - giant wrestler, immovable (Andre, Baba)
+                    16 - Vicious - strong style (Inoki aggressive style)
+
+Return Skill........01 - Orthodox
+(Defense)           02 - Technician
+                    03 - Power
+                    04 - American
+                    05 - Junior
+                    06 - Luchador
+                    07 - Heel
+                    08 - Mysterious
+                    09 - All-Round (combination of Junior/Technician)
+                    10 - Shooter
+                    11 - Fighter
+                    12 - Grappler
+                    13 - Giant
+                    14 - Vicious
+
+&quot;CRITICAL!&quot; Ability:
+
+   1) Finisher................Cost: 0 Points
+      (Only the move designated as Finisher can &quot;Critical!&quot;)
+
+   2) Striking................Cost: 20 Points
+      (Powerful strikes can &quot;Critical!&quot;)
+
+   3) Suplex (throw)..........Cost: 20 Points
+      (Back drops, front suplexes, etc. can &quot;Critical!&quot;)
+
+   4) Submission (joint)......Cost: 25 Points
+      (Submissions, stretch holds can &quot;Critical!&quot;)
+
+   5) Power...................Cost: 30 Points
+      (Power Bombs, etc. can &quot;Critical!&quot;)
+
+   6) Technical...............Cost: 30 Points
+      (Huracanrana, Dragon Screw, etc. can &quot;Critical!&quot;)
+
+ ++ NOTE: Just because a wrestler is equipped with a certain &quot;Critical!&quot;
+ ++ ability, that doesn't mean that EVERY one of those moves in his/her
+ ++ repertoire can cause a &quot;Critical!&quot;. For example, a wrestler with the
+ ++ &quot;Striking&quot; ability can only &quot;Critical!&quot; his or her opponents with
+ ++ striking moves that have the inherent potential to do so, not any
+ ++ punch or kick.
+
+Special Skill:
+
+   1 - None............................Cost:  0 Points
+
+   2 - Stardom.........................Cost: 15 Points
+   Description: Involved with crowd support and repeats popular moves.
+   Requirement: Use a performance (taunt) when Stamina is at zero.
+   Effect: The power of the following attack increases by 25%
+
+   3 - Q. Return.......................Cost: 15 Points
+   Description: Player may stand right up even after a major attack.
+   Requirement: Remaining Stamina is at 5% to 20%, Spiritual Strength is
+      above 60%.
+   Effect: After an opponent's attack, you will stay on the ground 1/8 of
+      the time you normally would.
+
+   4 - Over Turn.......................Cost: 15 Points
+   Description: Repeated reversals result in greater damage each time.
+   Requirement: Remaining Stamina is below 10% and Spiritual Strength is
+      above 30%.
+   Effect: The rate of &quot;Critical!&quot;s is doubled.
+
+   5 - Start Dash......................Cost: 15 Points
+   Description: Able to end the match earlier than normal.
+   Requirement: Remaining Stamina is above 70%.
+   Effect: All attack parameters are increased by one point.
+
+   6 - Guts............................Cost: 15 Points
+   Description: Will not give up easily.
+   Requirement: Stamina and Spiritual Strength are at 0%.
+   Effect: Wrestler will give up to a submission hold at just 1/20th
+      of the normal rate.
+
+   7 - Strikeback......................Cost: 15 Points
+   Description: Rejuvenates Stamina when opponent shows signs of fatigue.
+   Requirement: Remaining Stamina is below 5%.
+   Effect: Two points are added to all attack parameters.
+
+   8 - Finish..........................Cost: 15 Points
+   Description: Extremely effective finisher.
+   Requirement: Use your Finisher the first or second time in a match.
+   Effect: The offensive power of your Finisher is increased by 150%.
+
+   9 - Blood...........................Cost: 15 Points
+   Description: Bleeding increases spirit.
+   Requirement: You are shedding blood.
+   Effect: The offensive power of all moves are increased by 10%.
+
+   10 - Hardcore.......................Cost: 15 Points
+   Description: Weapon specialist.
+   Effect: +3 to attack and defense parameters with weapons.
+
+   11 - Focus..........................Cost: 15 Points
+   Description: Attack resistance.
+   Effect: Strike, submission, and technical critical rates are halved.
+
+   12 - Adapt..........................Cost: 15 Points
+   Description: Roll with big attacks.
+   Effect: Suplex and power &quot;Critical!&quot; rates down by 75%.
+
+   13 - Hardbody.......................Cost: 15 Points
+   Description: Healthy/tough body.
+   Effect: Harder to get a pin unless with 'big' moves.
+
+The following skills involve combinations of the above skills:
+
+   14 - Superstar......................Cost: 25 Points
+   Effect: &quot;Stardom&quot; + &quot;One Hit Finisher&quot;.
+
+   15 - Warrior........................Cost: 25 Points
+   Description: Fast kill and quick stand.
+   Effect: &quot;Q. Return&quot; + &quot;Start Dash&quot;.
+
+   16 - Second Wind....................Cost: 25 Points
+   Effect: &quot;Over Turn&quot; + &quot;Q. Return&quot;.
+
+   17 - Rage...........................Cost: 25 Points
+   Effect: &quot;Strikeback&quot; + &quot;Q. Return&quot;.
+
+   18 - Banish.........................Cost: 25 Points
+   Description: Concentration in battle.
+   Effect: &quot;Over Turn&quot; + &quot;Focus&quot;.
+
+   19 - Spirit.........................Cost: 35 Points
+   Effect: &quot;Stardom&quot; + &quot;Over Turn&quot; + &quot;Strikeback&quot;.
+
+   20 - Monster........................Cost: 35 Points
+   Effect: &quot;Stardom&quot; + &quot;Finish&quot; + &quot;Adaptability&quot;.
+
+   21 - Do or Die......................Cost: 35 Points
+   Effect: &quot;Over Turn&quot; + &quot;Guts&quot; + &quot;Strikeback&quot;.
+
+   22 - Reborn.........................Cost: 35 Points
+   Effect: &quot;Guts&quot; + &quot;Focus&quot; + &quot;Hardbody&quot;.
+
+Recovery
+Recovery Power is the wrestler's overall physical stamina, or &quot;life bar&quot;.
+It is a very important setting, obviously, though you can't really tell by
+the name. The higher this setting, the higher the wrestler's maximum
+stamina and the faster his stamina recharges when the wrestler isn't being
+attacked. By this reasoning, getting cut open early on can be very
+devastating to a wrestler who has higher normal Recovery power than he has
+bleeding Recovery power. His maximum stamina would take a rather large
+hit. +LV+
+
+    1 - Slow..........................Cost:  0 Points
+    2 - Medium........................Cost:  6 Points
+    3 - Fast..........................Cost: 12 Points
+
+Recovery (When Bleeding):
+
+    1 - Slow..........................Cost:  0 Points
+    2 - Medium........................Cost:  3 Points
+    3 - Fast..........................Cost:  6 Points
+
+Breathing
+Lower breathing makes a wrestler get tired faster. Each wrestler has an
+energy level, the maximum and regeneration rate of which is controlled by
+this statistic. Each attack you throw consumes some of your energy. Your
+movement speed will gradually drop as your energy level does. Breathing
+recharges this energy level; to my knowledge this is the only one of the
+three gauges you can manually recharge. +LV+
+
+    1 - Below.........................Cost:  0 Points
+    2 - Normal........................Cost:  6 Points
+    3 - Good (Above)..................Cost: 12 Points
+
+Breathing (When Bleeding):
+
+    1 - Below.........................Cost:  0 Points
+    2 - Normal........................Cost:  3 Points
+    3 - Good (Above)..................Cost:  6 Points
+
+Spirit (Willpower, Awareness)
+Spiritual Strength represents mental endurance - the higher it is, the
+longer it takes to &quot;break&quot; the wrestler and make him mentally give up the
+match, which results in either a pin or submission. This ability also
+helps offset the physical damage you take (Recovery) and the amount of
+fatigue you incur (Breathing) during the match. Spirit is also a factor in
+determining if your character hits a reversal.
+
+Stretch holds are the best way to damage Spirit. Heelish moves, such as
+the eye gouge and groin attacks, also tend to do large amounts of Spirit
+damage. +LV+
+
+    1 - Poor..........................Cost:  0 Points
+    2 - Medium........................Cost:  6 Points
+    3 - Strong........................Cost: 12 Points
+
+Spirit (When Bleeding):
+
+    1 - Poor..........................Cost:  0 Points
+    2 - Medium........................Cost:  3 Points
+    3 - Strong........................Cost:  6 Points
+
+Neck Endurance:
+    1 - Low...........................Cost:  0 Points
+    2 - Normal........................Cost:  2 Points
+    3 - High..........................Cost:  5 Points
+
+Arm Endurance:
+    1 - Low...........................Cost:  0 Points
+    2 - Normal........................Cost:  2 Points
+    3 - High..........................Cost:  5 Points
+
+Back Endurance:
+    1 - Low...........................Cost:  0 Points
+    2 - Normal........................Cost:  2 Points
+    3 - High..........................Cost:  5 Points
+
+Leg Endurance:
+    1 - Low...........................Cost:  0 Points
+    2 - Normal........................Cost:  2 Points
+    3 - High..........................Cost:  5 Points
+
+Movement Speed:
+    1 - Slow..........................Cost:  0 Points
+    2 - Medium Slow...................Cost:  2 Points
+    3 - Medium........................Cost:  6 Points
+    4 - Medium Fast...................Cost: 12 Points
+    5 - Fast..........................Cost: 20 Points
+
+Up and Down Speed (climbing the ringpost):
+    1 - Slow..........................Cost:  0 Points
+    2 - Medium Slow...................Cost:  1 Points
+    3 - Medium........................Cost:  2 Points
+    4 - Medium Fast...................Cost:  3 Points
+    5 - Fast..........................Cost:  4 Points
+
+Ascent Style (ability to climb top turnbuckle):
+    1 - Disable.......................Cost:  0 Points
+        (All climbing ability disabled)
+    2 - Enable........................Cost:  2 Points
+        (Normal climbing ability enabled)
+    3 - Run...........................Cost:  4 Points
+        (Normal climbing ability enabled, plus the ability to jump up
+           by running toward the corner and holding the O button)
+
+Favorite Weapon...None
+                  Chair
+                  Table
+                  Kendo Stick
+                  Hammer (sledgehammer)
+                  Bat
+                  Barbed Wire Bat
+                  Light Tube
+
+Theme Music (press O to preview):
+
+     00 - Musashi-Hymn                  32 - Resolution
+     01 - Power Storm                   33 - Phoenix
+     02 - Victory Explosion             34 - Russian Cyclone
+     03 - Kabukimono                    35 - Brothers
+     04 - Miracle God                   36 - Wanderer
+     05 - King's Road                   37 - Texas Ways
+     06 - T                             38 - Shura no Michi
+     07 - Emerald Wind                  39 - Golden Pride
+     08 - Gou-Wan                       40 - Wrestling Wars
+     09 - Texas Bull                    41 - Wild Jungles
+     10 - Brave Heart                   42 - Tetujin
+     11 - Heart Beat                    43 - Super Star
+     12 - The Hero of Touhoku           44 - Dark Winners
+     13 - Rough Way                     45 - Stormy Way
+     14 - Speedy Submission             46 - Emperor
+     15 - Challenger                    47 - The Boss
+     16 - Funeral                       48 - Kick &amp; Submit
+     17 - Cool Violent                  49 - Fly Away
+     18 - Hell's Messenger              50 - Free Wings
+     19 - Stylish Daddy                 51 - American Spirits
+     20 - Tiger's Roar                  52 - Tenchi Souzou
+     21 - Monster March                 53 - Burning Spirits
+     22 - Mysterious Dance              54 - Sajin
+     23 - Green Fairy                   55 - Torimono</span><span id="faqspan-3">
+     24 - Against                       56 - Toughness
+     25 - Kill                          57 - Lone Journey
+     26 - Driving                       58 - Spark of Passion
+     27 - Shinsekai Yori                59 - Carmen
+     28 - Genius                        60 - The Battle
+     29 - Black Break                   61 - Terror
+     30 - Silver Knight
+     31 - Tornado
+
+Voice 1/Voice 2 Kind: (Voice Category; Press O to preview)
+     01 - Male 1
+     02 - Male 2
+     03 - Male 3
+     04 - Male 4
+     05 - Male 5
+     06 - Male 6
+     07 - Male 7
+     08 - Male 8
+     09 - Female 1
+     10 - Female 2
+     11 - Female 3
+
+Voice 1/Voice 2 Selection: (Voice Sample; Press O to preview)
+     01-05: Male
+     06-08: Male
+     09-11: Female
+    
+APPEARANCE EDIT
+&quot;Layering&quot; was first introduced in Fire Pro Z, and has been expanded upon
+in Fire Pro R with the all-new face/head layering option. Whereas previous
+versions of Fire Pro only allowed you to choose from a variety of premade
+heads (you could still recolor them), Fire Pro R allows you to layer masks
+and hairstyles to create just about anyone you can possibly imagine!
+
+From the Appearance Menu, you are presented with the following options,
+which will be described in detail below:
+
+   Overall.......Choose from &quot;custom&quot; or 59 presets
+   Stance........Choose your wrestler's stance
+   Size..........Choose your wrestler's height and girth.
+   Head..........Choose and adjust head/mask/hair design
+   Chest.........Choose and adjust torso design
+   Waist.........Choose and adjust abdomen design
+   Upper Arm.....Choose and adjust upper arm design
+   Lower Arm.....Choose and adjust lower arm design
+   Thigh.........Choose and adjust thigh design
+   Calf..........Choose and adjust calf design
+   Feet..........Choose and adjust feet design
+
+OVERALL
+This allows you to choose from 59 &quot;pre-built&quot; wrestlers, good for using as
+a starting point (i.e. you want a wrestler with long pants, wrist bands
+and no shirt, load up preset #6 and go from there).
+
+Here's a list of the preset wrestlers:
+
+   01-15 - Different Styles            36 - Zandig
+           (Pro Wrestling, Amateur,    37 - Wifebeater
+           MMA, Sumo, etc. to use      38 - Kendo Nagasaki
+           as a base)                  39 - Koki Kitahara
+   16 - Manami Toyota                  40 - Hisakatsu Ohya
+   17 - Fumiko Hamada                  41 - Ricky Fuji
+   18 - Dynamite Kansai                42 - Perro
+   19 - Hiroyuki &quot;Red Shoes&quot; Unno      43 - Ted Dibiase
+   20 - Umanosuke Ueda                 44 - Pentagon
+   21 - Norio Honaga                   45 - Gerard Gordeau
+   22 - Heat                           46 - Heath Herring
+   23 - Ryusuke Taguchi                47 - Francisco Filho
+   24 - Dick Murdoch                   48 - Mika Nishio
+   25 - Mike Rotundo                   49 - HIKARU
+   26 - Giant Kimala                   50 - Rico Constantino
+   27 - MAZADA                         51 - Kagetora
+   28 - Haruka Eigen                   52 - Rasse
+   29 - Mighty Inoue                   53 - Muscle Sakai
+   30 - Mitsuo Momota                  54 - Yusuke Inokuma
+   31 - Satoru Asako                   55 - Futoshi Miwa
+   32 - Tengu Kaiser                   56 - Yoshihiko
+   33 - Hayate                         57 - Gronda
+   34 - Stalker Ichikawa               58 - Akebono
+   35 - Great Kojika                   59 - Taichi Ishikari
+
+STANCE
+Choose your wrestler's stance.
+
+   01 - Strong
+   02 - Technical
+   03 - Aamateur
+   04 - Power
+   05 - Lucha
+   06 - Shooting
+   07 - Mysterious
+   08 - Koppo
+   09 - Kobudo (Old Budo)
+   10 - Boxing
+   11 - Mix Style
+
+SIZE
+Choose your wrestler's overall girth. New to the Fire Pro series is the
+ability to individually scale body parts.
+
+   Base......Male Small
+             Male Medium
+             Male Large
+             Male Giant
+             Female
+   Head......85%-120%
+   Torso.....85%-120%
+   Arm.......85%-120%
+   Hands.....85%-130%
+   Leg.......85%-120%
+
+HEAD/FACE
+Choose your wrestler's face, hair, facial hair and mask if applicable.
+Many of the faces belong to the in-game wrestlers, while the remaining
+ones are extras made for use in Edit Mode. With creative use of the all
+new face layering option combined with the right body parts and colors,
+you can create nearly any wrestler on the face of the planet!
+
+   Base......Choose from 558 edit heads
+   Layer 1...Choose from 138 hairstyles, masks and patterns
+   Layer 2...Choose from 138 hairstyles, masks and patterns
+
+CHEST
+Choose the outfit for your wrestler's chest. You can use additional layers
+to create elaborate patterns and designs. Press O to toggle other
+selected layers on/off within the preview window.
+
+   Base......Small
+             Medium
+             Large
+             Demi
+             Female
+             Builder
+             Bear
+   Layer 1...Choose from 23 torso garments and patterns
+   Layer 2...Choose from 23 torso garments and patterns
+   Layer 3...Choose from 23 torso garments and patterns
+
+WAIST
+This option selects the outfit not only for the upper tights area, but
+lower shirt and belt options as well. In other words, &quot;waist&quot; covers the
+entire area from the upper abdomen to the crotch. Press O to toggle other
+selected layers on/off within the preview window.
+
+   Base......Small
+             Medium
+             Large
+             Demi
+             Female
+             Builder
+             Bear
+   Layer 1...Choose from 37 waist garments and patterns
+   Layer 2...Choose from 37 waist garments and patterns
+   Layer 3...Choose from 37 waist garments and patterns
+
+UPPER ARM
+Choose upper arm options such as arm bands, tattoos and ripped sleeves.
+Press O to toggle other selected layers on/off within the preview window.
+
+   Base......Small
+             Medium
+             Large
+             Demi
+             Female
+             Builder
+             Bear
+   Layer 1...Choose from 17 upper arm garments and patterns
+   Layer 2...Choose from 17 upper arm garments and patterns
+
+LOWER ARM
+Choose lower arm options here. Again, you can use layering to combine
+outfit options, such as elbow pads with wristbands. Press O to toggle
+other selected layers on/off within the preview window.
+
+   Base......Small
+             Medium
+             Large
+             Demi
+             Female
+             Builder
+             Bear
+   Layer 1...Choose from 17 upper arm garments and patterns
+   Layer 2...Choose from 17 upper arm garments and patterns
+
+HAND
+
+   Bare hands
+   MMA open palm glove
+   Finger taping
+   Boxing gloves
+   MMA closed palm glove
+   Women's gloves
+   Bear gloves
+   Meatball gloves
+   Paws
+
+THIGH
+Here you can create elaborate patterns for your wrestler's tights. Press
+O to toggle other selected layers on/off within the preview window.
+
+   Base......Small
+             Medium
+             Large
+             Demi
+             Female
+             Builder
+             Bear
+   Layer 1...Choose from 25 thigh garments and patterns
+   Layer 2...Choose from 25 thigh garments and patterns
+   Layer 3...Choose from 25 thigh garments and patterns
+
+CALF
+Press O to toggle other selected layers on/off within the preview window.
+
+   Base......Male
+             Female
+             Builder
+             Bear
+   Layer 1...Choose from 26 knee/calf garments and patterns
+   Layer 2...Choose from 26 knee/calf garments and patterns
+   Layer 3...Choose from 26 knee/calf garments and patterns
+
+FEET
+Choose from 13 foot and shoe options
+
+COLOR SELECTION MODE
+While highlighting any individual layer, press O to enter Color Selection
+Mode. The color boxes shown here represent the colors and shades of the
+wrestler's skintone, costume pieces, etc. Once you enter the color
+section, use L1/R1 or the D-Pad to navigate between color sets.
+
+While highlighting any individual color, press X to adjust the RGB values
+for that particular color. Pressing O while editing an individual color
+will reset that color to white (31/31/31).
+
+Press [] within Color Selection Mode to see the following options:
+
+   1) Gradation Sample: Choose from several preset gradations.
+   2) Gradation: Auto-adjust gradation balance to smooth the
+         transition between colors..
+   3) Color Sample: Choose from several individual color samples.
+   4) Color Group: Choose from an existing color set for that edit.
+ 
+When you are finished with the entire color section, press the /\ button
+and select &quot;OK&quot; to return to the Appearance Menu.
+
+MOVESET EDIT
+Assign moves to a wrestler's arsenal. The list to the left is the list of
+moves, the display to the right is for previewing those moves. Press O
+to see your wrestler perform any selected move.
+
+*Moving and Zooming Preview*
+You can move your wrestler preview at this screen using the L Analog
+Stick. You can also zoom out with L1 and zoom in with R1.
+
+*Move Properties*
+The icons at the bottom of the screen are for editing move properties
+Press X while highlighting any move to change its properties:
+
+[Command | Voice | Special (blue &quot;S&quot;)/Finisher (red &quot;C&quot;) | Name of Move]
+
+   Command: Controller input used to perform the move. This is the only
+   option that cannot be changed.
+
+   Voice: Assign Voice 1 or 2 to accompany the move.
+
+   Specials and Finisher: The blue &quot;S&quot; represents a Special Move (you can
+   have up to four of these), while the red &quot;C&quot; represents a Finisher
+   (you can only have one of these). If you are unable to designate a move
+   as a Special Move or Finisher, it means you have those properties
+   assigned to another move. You must first unassign them from the other
+   move to assign them to the new move.
+
+*Expanded Options*
+Press [] to reveal the following options:
+
+   1. Top (return to top of menu)
+   2. Open/close all
+   3. Remove all assigned Specials/Finishers
+   4. Switch between expanded movelist text display/move preview display
+   5. Revert to previously selected move
+
+*Move Selection*
+Caps represent the various folders/move categories, while lower case
+represents the attack options within those categories.
+
+   STANDING
+     Standing [].............................Weak Strike
+     Standing X............................Medium Strike
+     Standing O + D-Pad.................Strong Strike #1
+     Standing O.........................Strong Strike #2
+     Standing [] + X....................Strong Strike #3
+   RUNNING
+     Running []........................Running Attack #1
+     Running X.........................Running Attack #2
+     Running O.........................Running Attack #3
+     Counter []...........................Run Counter #1
+     Counter X....................... ....Run Counter #2
+     Counter O....................... ....Run Counter #3
+   RUNNING TO CORNER
+     Running to Corner O
+   IRISH WHIPPED TOWARD OPPONENT IN CORNER
+     Irish Whipped Toward Opponent in Corner
+   CORNER-TO-CENTER ATTACK
+     Corner-to-Center Attack
+   RUNNING TO OUTSIDE THE RING
+     Run to Outside O
+   ROPE SLINGSHOT OUTSIDE THE RING
+     Inside Apron O
+   ROPE SLINGSHOT FROM APRON TO INSIDE OF RING
+     Outside Apron O
+   POST
+     Post []..............................Post Attack #1
+     Post X...............................Post Attack #2
+     Post O...............................Post Attack #3
+     Post [] + X..........................Post Attack #4
+   DIVE FROM TOP OF CAGE
+     Cage Dive
+   FRONT GRAPPLE
+     Grappling []........................Weak Grapple #1
+     Grappling [] + Up...................Weak Grapple #2
+     Grappling [] + Left/Right...........Weak Grapple #3
+     Grappling [] + Down.................Weak Grapple #4
+     Grappling X.......................Medium Grapple #1
+     Grappling X + Up..................Medium Grapple #2
+     Grappling X + Left/Right..........Medium Grapple #3
+     Grappling X + Down................Medium Grapple #4
+     Grappling O.......................Strong Grapple #1
+     Grappling O + Up..................Strong Grapple #2
+     Grappling O + Left/Right..........Strong Grapple #3
+     Grappling O + Down................Strong Grapple #4
+     Grappling [] + X..................Strong Grapple #5
+   BACK GRAPPLE
+     Back []...........................Weak Back Grapple
+     Back X..........................Medium Back Grapple
+     Back O.......................Strong Back Grapple #1
+     Back O + Up/Down.............Strong Back Grapple #2
+     Back O + Left/Right..........Strong Back Grapple #3
+     Back [] + X..................Strong Back Grapple #4
+   BACK COUNTER
+     Back Defensive []...........Back Grapple Counter #1
+     Back Defensive X............Back Grapple Counter #2
+   OPPONENT DOWN - FACE UP, NEAR HEAD
+     Opponent Down, Face Up, Head X.......Down Attack #1
+     Opponent Down, Face Up, Head O.......Down Attack #2
+   OPPONENT DOWN - FACE UP, NEAR LEGS
+     Opponent Down, Face Up, Legs X.......Down Attack #3
+     Opponent Down, Face Up, Legs O.......Down Attack #4
+   OPPONENT DOWN - FACE DOWN, NEAR HEAD
+     Opponent Down, Face Down, Head X.....Down Attack #5
+     Opponent Down, Face Down, Head O.....Down Attack #6
+   OPPONENT DOWN - FACE DOWN, NEAR LEGS
+     Opponent Down, Face Down, Legs X.....Down Attack #7
+     Opponent Down, Face Down, Legs O.....Down Attack #8
+   RUNNING AT DOWNED OPPONENT
+     Opponent Down, Running O
+   CORNER GRAPPLE
+     Corner Grapple O + Up.............Corner Grapple #1
+     Corner Grapple O + Left/Right.....Corner Grapple #2
+     Corner Grapple O + Down...........Corner Grapple #3
+   DOUBLE TEAM - FRONT GRAPPLE
+   TRIPLE TEAM - FRONT GRAPPLE
+   DOUBLE TEAM - BACK GRAPPLE
+   TRIPLE TEAM - FRONT GRAPPLE
+   DOUBLE TEAM - CORNER GRAPPLE
+   TRIPLE TEAM - FRONT GRAPPLE
+   GUARD POSITION (MMA)
+     Guard Position []..................Guard Attack #1
+     Guard Position X...................Guard Attack #2
+     Guard Position O...................Guard Attack #3
+   GUARD POSITION COUNTER (MMA)
+     Guard Position Counter
+   MOUNT (FACELOCK) POSITION (MMA)
+     Mount []................Mount (Facelock) Attack #1
+     Mount X.................Mount (Facelock) Attack #2
+     Mount O.................Mount (Facelock) Attack #3
+   MOUNT (FACELOCK) COUNTER (MMA)
+     Front Facelock Counter
+   BACK MOUNT POSITION (MMA)
+     Back Mount [].................Back Mount Attack #1
+     Back Mount X..................Back Mount Attack #2
+     Back Mount O..................Back Mount Attack #3
+   BACK MOUNT POSITION COUNTER (MMA)
+     Back Mount Counter
+   RUN UP TURNBUCKLE REBOUND ATTACK
+     Running Dive []
+     Running Dive X
+   INSIDE APRON GRAPPLE
+     Inside Apron
+   OUTSIDE APRON GRAPPLE
+     Outside Apron
+   FRONT AVALANCHE SETUP COUNTER
+     Corner Counter [F]
+   BACK AVALANCHE SETUP COUNTER
+     Corner Counter [B]
+   ENTRANCE RAMP PERFORMANCE
+     Entry Performance
+   TAUNT/PERFORMANCE
+     Performance L Analog Stick-Left
+     Performance L Analog Stick-Right
+     Performance L Analog Stick-Up
+     Performance L Analog Stick-Down
+
+PARAMETER EDIT (OFFENSIVE/DEFENSIVE ATTRIBUTES)
+Numerical settings for offensive and defensive abilities in the different
+areas. Use L1 and R1 to switch between the two categories. Press the D-Pad
+Left and Right to add and subtract points in the highlighted category.
+Pressing O highlights an entire column (offense/defense) so that you may
+add points to that column simultaneously (i.e. press Right to increase all
+offensive stats by one point). When you are finished, press /\ to exit. 
+
+     ATTACK         DEFENSE
+     ------         -------
+     Punch          Punch
+     Kick           Kick
+     Throw          Throw
+     Joint          Joint
+     Stretch        Stretch
+     Power          Flying
+     Agility        Body
+     Arm            Lariat
+     Technical      Technical
+     Rough          Rough
+     MMA Overall    MMA Overall
+     Entertain      Entertain
+
+PUNCH..........Offensive/defensive parameters for attacks involving
+                  hand strikes (punches, slaps).
+
+KICK...........Offensive/defensive parameters for attacks involving
+                  leg strikes (knee strikes, kicks).
+
+THROW..........Offensive/defensive parameters for attacks involving
+                  suplexes and throws.
+
+JOINT..........Offensive/defensive parameters for attacks focusing
+                  on the joints.
+
+STRETCH........Offensive/defensive parameters for attacks involving
+                  pulling submissions.
+
+POWER..........Offensive parameter for power-based attacks.
+
+AGILITY........Offensive parameter for attacks using agilityr.
+
+ARM/LARIAT.....Offensive/defensive parameters for attacks using power
+                  of the arm (lariat/clothesline attacks).
+
+FLYING.........Defensive parameter against aerial (high-flying) attacks
+                  (moonsaults, planchas).
+
+BODY...........Defensive parameter against attacks where opponent's
+                  full body weight is used.
+
+TECHNICAL......Offensive/defensive parameters for attacks involving
+                  technical maneuvers (small package, etc.)
+
+ROUGH..........Offensive/defensive parameters for attacks involving
+                  &quot;roughhouse&quot; tactics (headbutts, weapons)
+
+MMA OVERALL....Offensive/defensive parameters for MMA attacks
+
+ENTERTAIN......Offensive/defensive parameters for &quot;entertainment&quot; type
+                  attacks (exotic dances, etc.)
+
+ ++ NOTE: When creating pro wrestlers, it's important to keep their
+ ++ overall status in mind. For example, main eventers' point totals
+ ++ should be much higher than mid or undercarders, and their overall
+ ++ point totals should reflect their in-ring success in worked matches
+ ++ rather than their actual in-ring ability. In the case of some
+ ++ promotions, a wrestler's status may reflect his or her actual in-ring
+ ++ ability, but this is the exception, not the rule.
+
+ ++ Most pre-made lower/mid-carders are assigned a total of around 110 to
+ ++ 150 points, and it's recommended that you stay consistent with that
+ ++ range when making these types of wrestlers. On the average, junior
+ ++ wrestlers' point totals should be lower than their heavyweight
+ ++ counterparts, as to reflect their perceived lack of success in a head
+ ++ to-head confrontation. Shoot fighters' points should also be logically
+ ++ assigned.
+
+CPU LOGIC
+CPU Logic determines a wrestler's tendencies by percentages when
+controlled by the computer. This is a popular feature used to create
+accurate edits for simulating dream matches and e-feds, and a defining
+aspect of the Fire Pro series. Not only can you create a wrestler with
+his or her own appearance and moveset, but their own basic match
+psychology as well.
+
+For serious Fire Pro enthusiasts, a great deal of time can be spent
+tweaking the options below. And although full comprehension of CPU Logic
+adjustment is by no means a prequisite to enjoying the game, it is
+recommended for those who want the full Fire Pro experience.
+
+Note that individual moves can actually be changed (but not previewed) in
+the &quot;Name of Move&quot; column.
+
+*Standing*                  Name of Move   Small Dmg   Large Dmg
+                            ------------   ---------   ---------
+Initiate Grapple                              &lt;%&gt;         &lt;%&gt;
+Stand Back (Stall)                            &lt;%&gt;         &lt;%&gt;
+Circle Opponent                               &lt;%&gt;         &lt;%&gt;
+Strike [] (Weak)            ---(move)---      &lt;%&gt;         &lt;%&gt;
+Strike X (Medium)           ---(move)---      &lt;%&gt;         &lt;%&gt;
+Strike O + D-Pad (Heavy)    ---(move)---      &lt;%&gt;         &lt;%&gt;
+Strike O (Heavy)            ---(move)---      &lt;%&gt;         &lt;%&gt;
+Strike [] + X (Heavy)       ---(move)---      &lt;%&gt;         &lt;%&gt;
+ 
+*Front Grapple*             Name of Move   Sml Dmg   Med Dmg   Lrg Dmg
+                            ------------   -------   -------   -------
+Grapple []                  ---(move)---     &lt;%&gt;       &lt;%&gt;       &lt;%&gt;
+Grapple [] + Up             ---(move)---     &lt;%&gt;       &lt;%&gt;       &lt;%&gt;
+Grapple [] + Left/Right     ---(move)---     &lt;%&gt;       &lt;%&gt;       &lt;%&gt;
+Grapple [] + Down           ---(move)---     &lt;%&gt;       &lt;%&gt;       &lt;%&gt;
+Grapple X                   ---(move)---     &lt;%&gt;       &lt;%&gt;       &lt;%&gt;
+Grapple X + Up              ---(move)---     &lt;%&gt;       &lt;%&gt;       &lt;%&gt;
+Grapple X + Left/Right      ---(move)---     &lt;%&gt;       &lt;%&gt;       &lt;%&gt;
+Grapple X + Down            ---(move)---     &lt;%&gt;       &lt;%&gt;       &lt;%&gt;
+Grapple O                   ---(move)---     &lt;%&gt;       &lt;%&gt;       &lt;%&gt;
+Grapple O + Up              ---(move)---     &lt;%&gt;       &lt;%&gt;       &lt;%&gt;
+Grapple O + Left/Right      ---(move)---     &lt;%&gt;       &lt;%&gt;       &lt;%&gt;
+Grapple O + Down            ---(move)---     &lt;%&gt;       &lt;%&gt;       &lt;%&gt;
+Grapple [] + X              ---(move)---     &lt;%&gt;       &lt;%&gt;       &lt;%&gt;
+Grapple /\                   Irish Whip      &lt;%&gt;       &lt;%&gt;       &lt;%&gt;
+Grapple R1                  Front Facelock   &lt;%&gt;       &lt;%&gt;       &lt;%&gt;
+ 
+*Back Grapple*              Name of Move   Small Dmg   Large Dmg
+                            ------------   ---------   ---------
+Grapple []                  ---(move)---      &lt;%&gt;         &lt;%&gt;
+Grapple X                   ---(move)---      &lt;%&gt;         &lt;%&gt;
+Grapple O                   ---(move)---      &lt;%&gt;         &lt;%&gt;
+Grapple O + Up/Down         ---(move)---      &lt;%&gt;         &lt;%&gt;
+Grapple O + Left/Right      ---(move)---      &lt;%&gt;         &lt;%&gt;
+Grapple [] + X              ---(move)---      &lt;%&gt;         &lt;%&gt;
+Grapple /\                   Irish Whip       &lt;%&gt;         &lt;%&gt;
+ 
+*Opp. is Irish Whipped*     Name of Move   Small Dmg   Large Dmg
+                            ------------   ---------   ---------
+Running []                  ---(move)---      &lt;%&gt;         &lt;%&gt;
+Running X                   ---(move)---      &lt;%&gt;         &lt;%&gt;
+Running O                   ---(move)---      &lt;%&gt;         &lt;%&gt;
+Irish Whip Counter []       ---(move)---      &lt;%&gt;         &lt;%&gt;
+Irish Whip Counter X        ---(move)---      &lt;%&gt;         &lt;%&gt;
+Irish Whip Counter O        ---(move)---      &lt;%&gt;         &lt;%&gt;
+L1                        Irish Whip evade    &lt;%&gt;         &lt;%&gt;
+
+*Opp. Dazed in Corner*      Name of Move   Small Dmg   Large Dmg
+                            ------------   ---------   ---------
+Run to Corner O             ---(move)---      &lt;%&gt;         &lt;%&gt;
+Grappling O + Up            ---(move)---      &lt;%&gt;         &lt;%&gt;
+Grappling O + Left/Right    ---(move)---      &lt;%&gt;         &lt;%&gt;
+Grappling O + Down          ---(move)---      &lt;%&gt;         &lt;%&gt;
+ 
+*Opp. Down Near Corner*     Name of Move   Large Dmg   Near Death
+                            ------------   ---------   ----------
+Do not ascend                                 &lt;%&gt;         &lt;%&gt;
+Post []                     ---(move)---      &lt;%&gt;         &lt;%&gt;
+Post X                      ---(move)---      &lt;%&gt;         &lt;%&gt;
+Post O                      ---(move)---      &lt;%&gt;         &lt;%&gt;
+Post [] + X                 ---(move)---      &lt;%&gt;         &lt;%&gt;
+Run Up Rebound Off Post X   ---(move)---      &lt;%&gt;         &lt;%&gt;
+ 
+*Opp. Down Near Center      Name of Move   Large Dmg   Near Death
+   of Ring*                 ------------   ---------   ----------
+Normal Attack                                 &lt;%&gt;         &lt;%&gt;
+Running Attack While Down   ---(move)---      &lt;%&gt;         &lt;%&gt;
+Corner Diagonal Attack      ---(move)---      &lt;%&gt;         &lt;%&gt;
+ 
+*Opp. Down - Face Up*       Name of Move   Sml Dmg   Lrg Dmg   Near Death
+                            ------------   -------   -------   ----------
+Pick Opponent Up                             &lt;%&gt;       &lt;%&gt;        &lt;%&gt;
+Roll Opponent Over                           &lt;%&gt;       &lt;%&gt;        &lt;%&gt;
+Standing at Head X          ---(move)---     &lt;%&gt;       &lt;%&gt;        &lt;%&gt;
+Standing at Feet X          ---(move)---     &lt;%&gt;       &lt;%&gt;        &lt;%&gt;
+Standing at Head O          ---(move)---     &lt;%&gt;       &lt;%&gt;        &lt;%&gt;
+Standing at Feet O          ---(move)---     &lt;%&gt;       &lt;%&gt;        &lt;%&gt;
+ 
+*Opp. Down - Face Down*     Name of Move   Sml Dmg   Lrg Dmg   Near Death
+                            ------------   -------   -------   ----------
+Pick Opponent Up                             &lt;%&gt;       &lt;%&gt;        &lt;%&gt;
+Roll Opponent Over                           &lt;%&gt;       &lt;%&gt;        &lt;%&gt;
+Standing at Head X          ---(move)---     &lt;%&gt;       &lt;%&gt;        &lt;%&gt;
+Standing at Feet/Back X     ---(move)---     &lt;%&gt;       &lt;%&gt;        &lt;%&gt;
+Standing at Head O          ---(move)---     &lt;%&gt;       &lt;%&gt;        &lt;%&gt;
+Standing at Feet/Back O     ---(move)---     &lt;%&gt;       &lt;%&gt;        &lt;%&gt;
+
+*Opp. Standing Dazed        Name of Move   Large Dmg   Near Death
+    near Corner*            ------------   ---------   ----------
+Normal Attack                                 &lt;%&gt;         &lt;%&gt;
+Post []                     ---(move)---      &lt;%&gt;         &lt;%&gt;
+Post X                      ---(move)---      &lt;%&gt;         &lt;%&gt;
+Post O                      ---(move)---      &lt;%&gt;         &lt;%&gt;
+Post [] + X                 ---(move)---      &lt;%&gt;         &lt;%&gt;
+Run Up Rebound Off Post []  ---(move)---      &lt;%&gt;         &lt;%&gt;
+Slingshot into Ring         ---(move)---      &lt;%&gt;         &lt;%&gt;
+   from Apron O
+ 
+*Opp. Standing Dazed        Name of Move   Large Dmg   Near Death
+    near Center of Ring*    ------------   ---------   ----------
+Normal Attack                                 &lt;%&gt;         &lt;%&gt;
+Running []                  ---(move)---      &lt;%&gt;         &lt;%&gt;
+Running X                   ---(move)---      &lt;%&gt;         &lt;%&gt;
+Running O                   ---(move)---      &lt;%&gt;         &lt;%&gt;
+ 
+*Opp. Standing Dazed        Name of Move   Sml Dmg   Lrg Dmg   Near Death
+   (Strike)*                ------------   -------   -------   ----------
+Normal Attack                                &lt;%&gt;       &lt;%&gt;        &lt;%&gt;
+Rear Attack                                  &lt;%&gt;       &lt;%&gt;        &lt;%&gt;
+O + D-Pad                   ---(move)---     &lt;%&gt;       &lt;%&gt;        &lt;%&gt;
+O                           ---(move)---     &lt;%&gt;       &lt;%&gt;        &lt;%&gt;
+[] + X                      ---(move)---     &lt;%&gt;       &lt;%&gt;        &lt;%&gt;
+ 
+*Back Grapple Counter*       Name of Move     %
+                            ------------     ---
+Back Grapple Counter []     ---(move)---     &lt;%&gt;
+Back Grapple Counter X      ---(move)---     &lt;%&gt;
+
+
+*Opp. Outside of Ring*      Name of Move      %
+                            ------------     ---
+Return to center (Rest)                      &lt;%&gt;
+Follow Outside                               &lt;%&gt;
+Slingshot to Outside        ---(move)---     &lt;%&gt;
+Running Dive to Outside     ---(move)---     &lt;%&gt;
+Post []                     ---(move)---     &lt;%&gt;
+Post X                      ---(move)---     &lt;%&gt;
+Post O                      ---(move)---     &lt;%&gt;
+Post [] + X                 ---(move)---     &lt;%&gt;
+ 
+*Mount Position*            Name of Move   Small Dmg   Large Dmg
+                            ------------   ---------   ---------
+Mount []                    ---(move)---      &lt;%&gt;         &lt;%&gt;
+Mount X                     ---(move)---      &lt;%&gt;         &lt;%&gt;
+Mount O                     ---(move)---      &lt;%&gt;         &lt;%&gt;
+ 
+*Front Facelock Position*   Name of Move   Small Dmg   Large Dmg
+                            ------------   ---------   ---------
+Front Facelock []           ---(move)---      &lt;%&gt;         &lt;%&gt;
+Front Facelock X            ---(move)---      &lt;%&gt;         &lt;%&gt;
+Front Facelock O            ---(move)---      &lt;%&gt;         &lt;%&gt;
+ 
+*Back Mount Position*       Name of Move   Small Dmg   Large Dmg
+                            ------------   ---------   ---------
+Back Mount []               ---(move)---      &lt;%&gt;         &lt;%&gt;
+Back Mount X                ---(move)---      &lt;%&gt;         &lt;%&gt;
+Back Mount O                ---(move)---      &lt;%&gt;         &lt;%&gt;
+ 
+                                     Opponent Opponent Opponent On Top of
+*Taunt/Crowd Appeal*  Name of Move   Standing   Down   Outside  Turnbuckle
+                      ------------   -------- -------- -------- ----------
+Do not taunt                           &lt;%&gt;       &lt;%&gt;     &lt;%&gt;       &lt;%&gt;
+L Analog Left         --(appeal)--     &lt;%&gt;       &lt;%&gt;     &lt;%&gt;       &lt;%&gt;
+L Analog Right        --(appeal)--     &lt;%&gt;       &lt;%&gt;     &lt;%&gt;       &lt;%&gt;
+L Analog Up           --(appeal)--     &lt;%&gt;       &lt;%&gt;     &lt;%&gt;       &lt;%&gt;
+L Analog Down         --(appeal)--     &lt;%&gt;       &lt;%&gt;     &lt;%&gt;       &lt;%&gt;
+
+*Ukemi*                     Name of Move   Sml Dmg   Med Dmg   Lrg Dmg
+                            ------------   -------   -------   -------
+Do Not Continue                              &lt;%&gt;       &lt;%&gt;       &lt;%&gt;
+Continue                                     &lt;%&gt;       &lt;%&gt;       &lt;%&gt;
+
+*Priority Attacks*
+Priority is an all-new option to Fire Pro CPU Logic, and it basically
+denotes a set of moves a wrestler may attempt in sequence in order to
+finish a match. Note that you cannot preview these moves from here, so
+unless you know what they are by name, this may be confusing.
+ 
+*Priority 1*                Name of Move   Sml Dmg   Lrg Dmg
+                            ------------   -------   -------
+Do Not Continue             ---(move)---     &lt;%&gt;       &lt;%&gt;
+Continue                    ---(move)---     &lt;%&gt;       &lt;%&gt;
+	 	 
+*Priority 2*                Name of Move   Sml Dmg   Lrg Dmg
+                            ------------   -------   -------
+Do Not Continue             ---(move)---     &lt;%&gt;       &lt;%&gt;
+Continue                    ---(move)---     &lt;%&gt;       &lt;%&gt;
+
+*Priority 3*                Name of Move   Sml Dmg   Lrg Dmg
+                            ------------   -------   -------
+Do Not Continue             ---(move)---     &lt;%&gt;       &lt;%&gt;
+Continue                    ---(move)---     &lt;%&gt;       &lt;%&gt;
+
+=Personality Traits=
+
+ ++ NOTE: For some inexplicable reason, Spike decided to invert the
+ ++ values for Personality Traits in FPR, so what was previously &quot;Low&quot;
+ ++ is now &quot;High&quot;, and vice versa. Add to this Agetec's own &quot;Yes&quot; or
+ ++ &quot;No&quot; translation and you have one confusing scenario. For the sake
+ ++ of reference, just remember that &quot;Yes&quot; = &quot;Low&quot; and &quot;No&quot; = &quot;High&quot;.
+ 
+*Personal Traits (Entertainment)*
+A high percentage here represents the character's willingness and effort
+to put on an entertaining match for the fans, which sometimes means being
+on the receiving end of a beating. Low percentages result in wrestlers who
+act more like shootfighters, going for the win and nothing else.
+
+Wrestlers need a high entertainment percentage if they are supposed to be
+doing top rope moves and suicide dives. They tend to be very aggressive in
+their attacks, but as a result don't stop to rest as often. Lower
+percentages make the wrestler stick to mat wrestling and generally
+wrestle a &quot;smarter&quot; match. They don't take a lot of risks and don't attack
+as aggressively, but they do tend to last longer since they rest more.
+
+A character that is being made as a professional wrestler should NEVER
+have a low percentage here. The vast majority of all Spike-made wrestlers
+have between 0/100 and 30/70 on this percentage - this is the range all
+professional wrestler edits should fall in. In general, the lower you go
+below 30/70, the less enjoyable the character is to watch. +LV+
+
+*Discretion*
+This percentage controls how long a match lasts and how much of a priority
+the character places on winning. The lower this percentage is, the more
+your wrestler is concerned with inflicting damage on the opponent. The
+higher it is, the more he attempts to win. The majority of the Spike
+created pro wrestlers have 35/65 in this category, which is a good median
+between wanting to win and dealing damage to your opponent.
+
+Professional wrestlers CAN have low percentages here - many Spike-created
+heelish or wild wrestlers who care very little for the win/loss result of
+their match have a low percentage, around 80/20. Mr. Pogo and Mitsuhiro
+Matsunaga, both infamous for their disregard for their opponent's safety
+and of match results, have 0/100. +LV+
+ 
+*Flexibility*
+This percentage determines how much the character will stray from his own
+&quot;game plan&quot;, or the logic settings you give him for his moves, in order to
+have a good match with his opponent. A character with 0/100 will change
+whatever is necessary in order to put on a good match, whereas a character
+with 100/0 will never go off the logic settings you have put in for him.
+
+Pro wrestlers are all over the board with this setting, but the majority
+are set high, between 0/100 and 20/80. Low flexibility is one of the
+defining characteristics of shootfighters and will make your edit act more
+shootish in general. A low setting here will typically result in inferior
+matches. +LV+
+ 
+*Cooperation*
+Used for tag matches. When this percentage is set higher, the wrestler is
+more likely to do double team moves and work with his or her partner.
+
+=Other Tendencies=
+
+*Outside Return Count*
+How long the wrestler will stay outside the ring before going back in.
+ 
+*Touchwork*
+How long before the wrestler will tag a partner in during a tag match
+(based on the amount of damage taken).
+ 
+*Weapons*
+How likely the wrestler will get and use weapons.
+ 
+*Second/Manager*
+Likelihood of a second (or manager) interfering during a match.
+
+FINISHER NAME
+Assign a name to your finisher. Note that choosing a new finisher in a
+wrestler's moveset will automatically delete whatever you may have entered
+here previously.
+
+PROFILE
+A small line of info about the wrestler. Use L1/R1 to toggle between the
+two available lines of type.
+
+----------------
+--REFEREE EDIT--
+----------------
+
+*Name Entry*
+Assign a name to your referee.
+
+*Skill Edit*
+
+   Down Time...........Slow, Medium Slow, Medium, Medium Fast, Fast
+   Fall Count..........Slow, Medium Slow, Medium, Medium Fast, Fast
+   DQ Count............Slow, Medium Slow, Medium, Medium Fast, Fast
+   Ringout Count.......Slow, Medium Slow, Medium, Medium Fast, Fast
+   Move Speed..........Slow, Medium Slow, Medium, Medium Fast, Fast
+   Run-in Check........Slow, Medium Slow, Medium, Medium Fast, Fast
+   Involvement.........Slow, Medium Slow, Medium, Medium Fast, Fast
+   Voice...............Male 1-4
+                       Male 1-3
+                       Female 1-3
+
+*Appearance Edit*
+See &quot;Appearance Edit&quot; under &quot;Wrestler Edit.&quot;
+
+-------------
+--RING EDIT--
+-------------
+For the first time ever in a Fire Pro game, you can create and customize
+your very own wrestling ring! Select turnbuckle type, rope color, mat
+logo and more!
+
+*Moving/Zooming Preview*
+Move the L Analog Stick Up/Down to tilt the ring preview, and Left/Right
+to rotate. L1 zooms out, and R1 zooms in.
+
+*Ring Edit Options*
+
+1. Name Edit..........Enter the ring name
+2. Turnbuckle.........Cylinder
+                      Triangle 1
+                      Triangle 2
+3. Turnbuckle color...Turnbuckle 1/2/3/4
+4. Post color.........Post 1/2/3/4
+5. Rope color.........Top rope/middle rope/bottom rope
+6. Mat type...........Type A (standard)
+                      Type B (two-tone, classic New Japan)
+                      Type C (two-tone, classic All Japan)
+7. Apron color........Left apron
+                      Right apron
+8. Logo...............Choose from any preexisting or custom logo design
+
+-------------
+--LOGO EDIT--
+-------------
+Create a logo to go with your custom organization or ring. You have a
+&quot;paint box&quot; type tool at your disposal, so if you have an artistic flair,
+let your imagination run wild! Logos may be exchanged between memory cards
+from the Save/Load menu. Specific commands as they pertain to Logo Edit
+Mode are described in the instruction manual.
+
+-------------
+--BELT EDIT--
+-------------
+Create unique championship belts and decide your champions. You may create
+a total of 8 different title belts.
+
+*Name Entry*
+To begin creating a belt, highlight any open slot and press X. This will
+bring up the naming screen.
+
+*Belt Creation*
+After you have assigned a name to your belt, you will be able to alter its
+design:
+
+   Faceplate.............Choose from 10 different faceplates
+   Faceplate color.......Color 1
+                         Color 2
+                         Color 3
+   Faceplate highlight...None
+                         Very Subtle
+                         Somewhat Subtle
+                         Subtle
+                         Medium
+                         Bright
+                         Somewhat Bright
+                         Very Bright
+   Ornament..............Choose from 10 different side ornaments
+   Ornament color........Color 1
+                         Color 2
+   Ornament highlight....None
+                         Very Subtle
+                         Somewhat Subtle
+                         Subtle
+                         Medium
+                         Bright
+                         Somewhat Bright
+                         Very Bright
+   Belt..................Choose from 10 different belt designs
+   Belt color............Color 1
+                         Color 2
+   Belt highlight........None
+                         Very Subtle
+                         Somewhat Subtle
+                         Subtle
+                         Medium
+                         Bright
+                         Somewhat Bright
+                         Very Bright
+-------------
+--TEAM EDIT--
+-------------
+Select an existing team to edit, or create your own custom team in one of
+the available slots. There are 64 team slots, the last 19 are empty.
+
+*Name Entry*
+Enter a name for your team.
+
+*Participant Select*
+Use D-Pad up/down to highlight one of the slots. Press X to choose a
+wrestler for that slot.
+
+=======================
+==SECTION 08: OPTIONS==
+=======================
+
+   SOUND...................Stereo/Mono
+   Choose between stereo and monaural sound output.
+
+   BGM Menu................Off-100%
+   Adjust the background music that plays during the various menu screens.
+
+   Theme Entrance BGM......Off-100%
+   Adjust the background music that plays during the wrestlers' entrances.
+
+   BGM Volume..............Off-100%
+   Adjust the background music that plays during the match.
+
+   Entrance Movie..........Off/On
+   Turn entrance sequences off or on.
+
+   Vibration...............Off/On
+   Turn controller vibration off or on.
+
+   Shortcut................Off/On
+   Turn the R Analog Stick shortcut dial function off or on.
+
+   Check Save Options......On/Off
+   Turn the save prompt off or on.
+
+   Demo Battle Settings....Off, 1-1 through 4-4
+   ----------Vs------------
+   This option allows you to choose the wrestlers who will be seen when
+   intro/title screen is left running. Choose from 1-4 combatants on each
+   side by entering them on the &quot;Vs&quot; line.
+
+   Credits.................Watch the game credits.
+
+=====================
+SECTION 09: SAVE/LOAD
+=====================
+Manage the Fire Pro R data on your PS2 memory card. Fire Pro R uses a
+total of 917kb on your PS2 memory card.
+
+SAVE: Save your game settings to your memory card
+LOAD: Load your game settings from your memory card
+WRESTLER DATA COPY: Transfer wrestler edits from one card to another
+LOGO DATA COPY: Transfer logo edits from one card to another
+
+=========================================
+==SECTION 10: MISCELLANEOUS INFORMATION==
+=========================================
+
+RANDOM SELECT
+There are two ways of having the CPU select a wrestler for you. At the
+Wrestler Select screen:
+
+   1. Press Start.
+   2. Press [], then choose the first option.
+
+Unlike the Random Select feature in many fighting games, this feature only
+highlights the wrestler without actually selecting them, so you are free
+to choose someone else, or use Random Select again.
+
+CLEAN PAUSE SCREEN
+During a match, pause the game then press [] + /\ to remove all text from
+the display.
+
+=======================
+==SECTION 11: CREDITS==
+=======================
+As stated earlier, this document simply would not exist were it not for
+the contributions of numerous individuals within the Fire Pro community.
+In particular, the Icemaster (Frank Chan) deserves much of the credit for
+the impetus behind this guide. Many of the words herein are his, not mine.
+Thank you, whereever you may be!
+
+I need to give special thanks to Jason Blackhart and Dave Fairbairn, both
+of whom are blazing new trails when it comes to the understanding of the
+inner workings of the Fire Pro Wrestling. Thanks to these two, my
+knowledge (and since it is shared in this guide, your knowledge) about
+this fantastic series continues to grow by leaps and bounds.
+
+Also, special thanks to Muka, who was not only the source behind much of
+the early pre-release info concerning FPR, but a continual provider of
+knowledge regarding game conventions and options.
+
+Finally, a huge amount of thanks to Lord Vermin, who graciously took the
+time to contact me and give me permission to use his valuable information
+for this guide. Those detailed logic descriptions are his words, not mine,
+as I felt his explanations were flawless. The community as a whole owes
+you a lot for what you've given us over the years!
+
+Much credit, thanks and respect also go out to:
+
+Kilroy                       The Mysterious Kagura
+Jim Freeman                  Dan the Crippler
+higher power                 Monitor
+Orochi Geese                 MrMDK
+bobhoffnee                   cullen2k1
+Steviec2k3                   Metapod_3:16
+Carlzilla                    Joe Peace
+Jason Stoddard               thomazinger
+Spunk                        measuringstick
+Tigermuppetcut               Michael &quot;Maikeru&quot; Leal
+David Scruggs                Chris &quot;Rah&quot; Lee
+Melfina                      tromataker
+Cyd007                       Thane Stamatelos
+Edward Crouser               Eddie Lukin
+Don Polermo                  xiaNaix
+The Senator                  Tickkid
+ayakoholic                   chrispus
+Nadareshiki-Shiranui         MaDHat
+LandoRigs                    misterbiceps
+Arabomb                      LordAlucard5
+M.J. Wright                  Byght
+liquidalex                   rocknroll1
+Travazz                      CAW Evoluiton
+Jizames
+
+E-mail me with a correction/addition and you will be credited.
+
+Fire Pro Wrestling Returns General FAQ and Translation Guide v1.8(u)
+Based on the original Fire Pro D Guide written by Frank James Chan
+(c)2007 Bill Wood. All Rights Reserved.</span></pre>
+</div>
+
+		<p class="ffaq_page">FAQ Display Options: <a href="/ps2/927675-fire-pro-wrestling-returns/faqs/39062?print=1">Printable Version</a></p>
+
+<script type="text/javascript" src="/js/simplejax.js"></script>
+<script type="text/javascript">
+
+$('.toggle').bind('click touch', function()
+{
+	$('div.faq_menu_wrap:not(.faqsearch)').slideToggle(300);
+});
+
+$('.togglesearch').bind('click touch', function()
+{
+	show_faqsearch_dialog(1,0);
+});
+
+$('div.ffaq:not(.faq_menu_wrap)').bind('click touch', function()
+{
+	if($('div.faq_menu_wrap').css('display')=='block')
+		$('div.faq_menu_wrap').slideToggle(300);
+});
+
+$().ready(function()
+{
+	window.onscroll = function()
+	{
+		if(window.pageYOffset>=220)
+		{
+			$('div.ffaq_head').addClass('fixed').css('display','block');
+			$('div.top_link').addClass('fixed').css('display','block');
+			$('.not_fixed').css('visibility','visible');
+					}
+		else
+		{
+			$('div.ffaq_head').removeClass('fixed');
+			$('div.top_link').removeClass('fixed').css('display','none');
+			$('div.ffaq_head.rec_voted').css('display','none');
+			$('.not_fixed').css('visibility','hidden');
+					}
+	};
+
+	
+	
+	if($('ul.faq_results li').length<1)
+		$('a.toggle_results').hide();
+
+	$.each($('.ffaq img.imgnofloat'),function(){
+		var image = $(this);
+		if(image.attr('width')>400)
+		{
+			image.addClass('bigresize');
+		}
+	});
+
+	
+		});
+
+$('img.imgresize').bind('click touch', function()
+{
+	if($(this).css('max-width')=='none')
+		$(this).css({'width':'100%','max-width':'100%'});
+	else
+		$(this).css({'width':'auto','max-width':'none'});
+});
+
+$('input[name="faqsearch"]').keypress(function(e)
+{
+	if(e.which==13)
+		search_text();
+});
+
+function search_text()
+{
+	var term = $('input[name="faqsearch"]').val();
+
+	if($('.faqsearch').is(':hidden'))
+	{
+		$('.faqsearch').show();
+		return;
+	}
+
+	ajax("/ajax/faq_search", "id="+39062+"&term="+term+"&key=12d91d52", got_search_results);
+}
+
+function got_search_results(data)
+{
+	$('input[name="faqsearch"]').blur();
+	$('ul.faq_results').empty().scrollTop();
+	var term = $('input[name="faqsearch"]').val();
+	var len = $('input[name="faqsearch"]').val().length;
+	var d = $.parseJSON(data);
+	window.currentpage = 0;
+	window.pagehead = false;
+	if(d[0]!="error")
+	{
+		$.each($.parseJSON(data),function(j,i){
+			var val = i.value;
+			val = val.split('-');
+			var page = val[0];
+			if(window.currentpage!=page)
+			{
+				window.currentpage = page;
+				window.pagehead = false;
+			}
+			var link = '';
+
+						{
+				link = "<a onclick=\"search_highlight(39062,"+val[0]+",2,"+val[1]+","+len+");\">";
+			}
+			
+			$('ul.faq_results').append('<li data-value="'+i.value+'">'+link+'...'+i.label+'...</a></li>');
+		});
+
+		if(d.length==50)
+		{
+			$('ul.faq_results').append('<li class="head">Too many results to display, please narrow your search.</li>');
+		}
+
+				if($('ul.faq_results li').length>7)
+			$('ul.faq_results').css({'height':'100%','overflow-y':'scroll'});
+		else
+			$('ul.faq_results').css({'height':'auto','overflow-y':'hidden'});
+			}
+	else
+	{
+		$('ul.faq_results').append('<li class="head">No results.</li>');
+	}
+
+	if($('a.toggle_results').is(':hidden'))
+		$('a.toggle_results').show();
+
+	return;
+}
+
+function search_highlight(file_id,page,format,pos,len)
+{
+	window.textpage = page+1;	ajax("/ajax/faq_search_highlight", "id="+file_id+"&page="+page+"&for="+format+"&pos="+pos+"&len="+len+"&key=12d91d52", got_highlight);
+	return;
+}
+
+function got_highlight(data)
+{
+			$('a[name="search_jump"]').remove();
+		$("span.faq_highlight").contents().unwrap();
+		$('span#faqspan-'+window.textpage).html(data);
+				var offset = $('a[name="search_jump"]').offset().top - 100;
+	if(offset<100)
+		$(document).scrollTop(0);
+	else
+		$(document).scrollTop(offset);
+	return;
+}
+
+function toggle_results()
+{
+	$('ul.faq_results').toggle();
+	if($('ul.faq_results').is(':visible'))
+		$('a.toggle_results').text('hide results');
+	else
+		$('a.toggle_results').text('show results');
+}
+
+function set_bookmark()
+{
+	var pos = $(document).scrollTop();
+	var page = 0;
+	ajax("/ajax/faq_bookmark", "id="+39062+"&pid="+927675+"&pos="+pos+"&page="+page+"&key=12d91d52", got_bookmark);
+}
+
+function got_bookmark(data)
+{
+	$('.faq_bookmark p').html(data);
+	$('.faq_bookmark').fadeIn().delay(5000).fadeOut();
+	return;
+}
+
+function remove_bookmark()
+{
+	ajax("/ajax/faq_bookmark_remove", "id="+39062+"&pid="+927675+"&key=12d91d52", removed_bookmark);
+}
+
+function removed_bookmark(data)
+{
+	$('.faq_bookmark p').html(data);
+	$('.faq_bookmark').show().delay(3000).fadeOut();
+	return;
+}
+
+function bookmark_jump_dismiss()
+{
+	$('.faq_bookmark_jump').fadeOut();
+	window.jumpdismiss = 1;
+	return;
+}
+
+
+function page_top()
+{
+	$(window).scrollTop(0);
+}
+</script>
+
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "VideoGame",
+	"gamePlatform":[""],
+	"name":"Fire Pro Wrestling Returns",
+	"author":"S-Neo / Agetec",
+	"applicationCategory":["Sports > Individual > Combat","Wrestling"],
+	"genre":["Sports > Individual > Combat","Wrestling"],
+	"url":"https://www.gamefaqs.com/ps2/927675-fire-pro-wrestling-returns",
+	"aggregateRating":{
+		"@type":"AggregateRating",
+		"ratingValue":"78",
+		"ratingCount":"12",
+		"bestRating":"100",
+		"worstRating":"0"
+	}
+}
+</script>
+<meta itemprop="publisher" content="GameFAQs"/>
+<meta itemprop="image" content="https://gamefaqs.akamaized.net/box/5/0/7/67507_thumb.jpg"/>
+<meta itemprop="datePublished" content="2008-01-02"/>
+<meta itemprop="author" content="Bill Wood"/>
+</div></div></div></div><footer id="footer" class="footer"><div class="footer_site container row"><a href="/" class="footer_logo_gf">GameFAQs.com</a><a href="http://www.facebook.com/GFAQs"><i class="fa fa-facebook-square"></i>facebook.com/GFAQs</a><a href="http://www.twitter.com/GameFAQs"><i class="fa fa-twitter"></i>twitter.com/GameFAQs</a><span class="footer_break"></span><a href="/help">Help / Contact Us</a><span class="footer_color_drop" id="color_change"><a href="/features/change_color">Change Colors <i class="fa fa-caret-up"></i></a><ul class="footer_color_subnav"><li class="footer_color_subnav_item"><a href="/user/change_color?site_color=blue">Blue (Default)</a></li><li class="footer_color_subnav_item"><a href="/user/change_color?site_color=dark-blue">Blue on Black</a></li><li class="footer_color_subnav_item"><a href="/user/change_color?site_color=red">Red</a></li><li class="footer_color_subnav_item"><a href="/user/change_color?site_color=dark-red">Red on Black</a></li><li class="footer_color_subnav_item"><a href="/user/change_color?site_color=green">Green</a></li><li class="footer_color_subnav_item"><a href="/user/change_color?site_color=dark-green">Green on Black</a></li><li class="footer_color_subnav_item"><a href="/user/change_color?site_color=orange">Orange</a></li><li class="footer_color_subnav_item"><a href="/user/change_color?site_color=dark-orange">Orange on Black</a></li><li class="footer_color_subnav_item"><a href="/user/change_color?site_color=purple">Purple</a></li><li class="footer_color_subnav_item"><a href="/user/change_color?site_color=dark-purple">Purple on Black</a></li><li class="footer_color_subnav_item"><a href="/user/change_color?site_color=cloudy">Cloudy Blue</a></li><li class="footer_color_subnav_item"><a href="/user/change_color?site_color=grayscale">Grayscale</a></li><li class="footer_color_subnav_item"><a href="/user/change_color?site_color=sepia">Sepia</a></li><li class="footer_color_subnav_item"><a href="/user/change_color?site_color=cottoncandy">Cotton Candy</a></li></ul></span></div><div class="footer_network"><div class="container row"><p><a href="http://www.gamespot.com/?utm_source=gamefaqs&utm_medium=partner&utm_content=footer&utm_campaign=footer" class="footer_logo_gs" >gamespot.com</a><a href="http://www.giantbomb.com/" class="footer_logo_gb">giantbomb.com</a><a href="http://www.metacritic.com/" class="footer_logo_mc">metacritic.com</a><a href="http://www.gamerankings.com/" class="footer_logo_gr">gamerankings.com</a></p><p>&copy; 2017 CBS Interactive Inc. All rights reserved.<span class="footer_break"></span><a href="http://sitemap.gamefaqs.com/">Sitemap</a><a href="http://www.cbsinteractive.com/advertise">Advertise</a><a href="https://cbs.avature.net/cbsinteractivecareers/SearchJobs/?3_56_3=%22260%22">Careers</a><a href="http://legalterms.cbsinteractive.com/privacy">Privacy Policy</a><a href="http://legalterms.cbsinteractive.com/adchoice">Ad Choice</a><a href="http://legalterms.cbsinteractive.com/terms-of-use">Terms of Use</a></p></div></div></footer></div><div id="site_dialog" class="site_dialog"></div>
+<script type="text/javascript" src="//dw.cbsi.com/js/ds.js"></script>
+<script type="text/javascript" src="/js/omniture.min.js"></script>
+<script type="text/javascript">
+var bm_website_code = '5C173E2E05774B88';
+var vguid = $('meta[id=view-guid-meta]').attr("content").substr(0, 24) + Math.random().toString(16).substr(2,12);
+$('meta[id=view-guid-meta]').attr("content", vguid);
+if(typeof gsadtrack!='undefined')
+{
+	$('#content').append('<img src="https://pubads.g.doubleclick.net/gampad/ad?iu=/8264/aw-cbsi/tracking&sz=1x1&t=lineid%3D468171609%26vguid%3D' + vguid + '&c=' + Date.now() + '">');
+}
+if(typeof DW!='undefined' && typeof omniture!='undefined')
+{
+	var jparms = JSON.parse($('meta[name=dwPageParams]').attr("content"));
+	var joparms = JSON.parse($('meta[name=omPageParams]').attr("content"));
+	jparms['viewguid'] = $('meta[id=view-guid-meta]').attr("content");
+	joparms['view_guid'] = $('meta[id=view-guid-meta]').attr("content");
+	joparms['anon_id'] = $.cookie('XCLGFbrowser');
+	if(!joparms['anon_id'])
+	{
+		$.getScript("//dw.cbsi.com/anonc.js").done(function( script, textStatus ) { if(typeof dw_anonc != 'undefined') {var anon_id = dw_anonc().id; $.cookie('XCLGFbrowser', anon_id, { expires: 3650, path: '/' }); joparms['anon_id'] = anon_id; } DW.pageParams = jparms; DW.clear(); omniture.trackPage(joparms); });
+	}
+	else
+	{
+		DW.pageParams = jparms; DW.clear();	omniture.trackPage(joparms);
+	}
+}
+</script>
+
+
+<script type="text/javascript">window._taboola=window._taboola || []; _taboola.push({flush: true});</script>
+<!--Page built in 0.041 seconds on box #211-->
+</body></html>

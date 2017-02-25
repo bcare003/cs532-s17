@@ -1,0 +1,997 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" class="">
+<head>
+    <script>
+        window._t = {start: (new Date).getTime()};
+    </script>
+
+        <base href="//lolmegapics.xyz"/>
+
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="google" value="notranslate"/>
+    <meta http-equiv="Content-Language" content="en"/>
+            <meta name="twitter:card" content="summary_large_image"/>
+            <meta property="og:url" content="http://lolmegapics.xyz/10-disney-movie-songs-performed-by-famous-pop-stars"/>
+            <meta property="og:title" content="10 Disney Movie Songs Performed By Famous Pop Stars
+"/>
+            <meta name="twitter:title" content="10 Disney Movie Songs Performed By Famous Pop Stars
+"/>
+            <meta property="og:description" content="10 Disney Movie Songs Performed By Famous Pop Stars
+"/>
+            <meta name="twitter:description" content="10 Disney Movie Songs Performed By Famous Pop Stars
+"/>
+            <meta property="og:locale" content="en_US"/>
+            <meta property="og:site_name" content=""/>
+            <meta property="og:type" content="video"/>
+            <meta property="og:image" content="http://lolmegapics.xyz/img/9edbad43388e6c0fb6e7e61d507023c8"/>
+            <meta name="twitter:image" content="http://lolmegapics.xyz/img/9edbad43388e6c0fb6e7e61d507023c8"/>
+            <meta property="og:image:width" content="1280"/>
+            <meta property="og:image:height" content="672"/>
+
+    <title>10 Disney Movie Songs Performed By Famous Pop Stars
+</title>
+    <link type="text/css" rel="stylesheet" href="//o.mlv-cdn.com/s/d56a6b617a930777e20a0a22f94339a4/mint__gallery_image_ads_8_inspire.css" />
+    
+
+        <link href='//fonts.googleapis.com/css?family=Covered+By+Your+Grace|Fjalla+One' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans" rel="stylesheet">
+
+        <link rel="icon" type="image/x-icon" href="/images/favicons/template_favicons/inspire/mint.ico"/>
+
+
+<script id="bounce_tracking" type="text/javascript">
+    function supports_localstorage() {
+        try {
+            return 'localStorage' in window && window['localStorage'] !== null;
+        } catch (e) {
+            return false;
+        }
+    }
+
+    function setup_bounce_tracking(ad_doc) {
+        ad_doc = ad_doc || document;
+        if (!ad_doc.querySelectorAll){
+            setTimeout(function(){setup_bounce_tracking(ad_doc)}, 20);
+        }
+        var bounce_ad_slots = ad_doc.querySelectorAll('a[slot_id]');
+        if (bounce_ad_slots.length) {
+            for (var i = 0; i < bounce_ad_slots.length; i++) {
+                bounce_ad_slots[i].addEventListener("click", function(e) {
+                    if (supports_localstorage()) {
+                        localStorage.setItem('back_info_time', "" + Math.round((new Date()).getTime() / 1000));
+                        localStorage.setItem('back_info_pid', "" + this.getAttribute('prid'));
+                        localStorage.setItem('back_info_prh', "" + this.getAttribute('prh'));
+                        localStorage.setItem('back_info_slot', "" + this.getAttribute('slot_id'));
+                        if (window.likes_tracking) {
+                            localStorage.setItem('back_info_cid', "" + window.likes_tracking.pv_params.click_id);
+                            localStorage.setItem('back_info_p', "" + window.likes_tracking.pv_params.page_type);
+                            localStorage.setItem('back_info_h', "" + window.likes_tracking.pv_params.location);
+                        }
+                    }
+                });
+            }
+        }
+    }
+
+</script>
+<script type="text/javascript">
+var likes_tracking_create = function() {
+    var obj = {};
+    if (window.top.likes_tracking && window.top.likes_tracking.pv_click_source) {
+        obj.pv_click_source = window.top.likes_tracking.pv_click_source;
+    }
+    obj.pv_params = {"visitor_id": "2746533403500623329", "invalid_channel": 8, "ncvid": null, "page_num": 1, "cdi": 0, "domain_type": "custom", "gallery_id": 24539090, "ml_pid": 656033, "click_id": null, "page_type": "last_page", "cvid": "2746533403500623329", "location": "mot"};
+    obj.current_track_id = 67747;
+    obj.track_network_ads = 0;
+    obj.track_house_ads = 1;
+    obj.track_redis_imps = 1;
+    obj.skip_house_ad = 1;
+
+
+    obj.pvid = null;
+    obj.load_dt = new Date();
+    obj.load_ts = obj.load_dt.getTime();
+    obj.event_log = [];
+    obj.imp_event_index = -1;
+    obj.sent_index = 0;
+    obj.network_ads_by_position = new Array();
+    obj.pending_timeouts = [];
+    obj.tracking_in_progress = false;
+    obj.tracking_hbs = [];
+    obj.tracking_hbs.push(800);
+    obj.imp_events_timeout = 100;
+    obj.bad_ad_detect_ms = 4000;
+    obj.bad_ad_detect_throttle = 100;
+    obj.detect_bad_ads = (Math.random()*100 <= obj.bad_ad_detect_throttle);
+    obj.report_pubm_throttle = 0;
+    obj.report_pubm_ads = function() {return (Math.random()*100 <= obj.report_pubm_throttle);}
+    obj.report_appnexus_throttle = 0;
+    obj.report_appnexus_ads = function() {return (Math.random()*100 <= obj.report_appnexus_throttle);}
+    obj.record_event_log_throttle = 0;
+    obj.should_record_event_log = function() {return (Math.random()*100 <= obj.record_event_log_throttle);}
+
+
+
+    obj.is_final_network_ad = function(event) {
+        var final = false;
+        return final;
+    };
+
+    obj.get_potential_bad_ads = function(pagehide_event) {
+        var potentials = [];
+        var i, event;
+        for (i = 0; i < obj.event_log.length; i++) {
+            event = obj.event_log[i];
+            if (event.type == "begin_pubmatic_render" && pagehide_event.latency_ms - event.latency_ms < obj.bad_ad_detect_ms) {
+                potentials.push(event);
+            }
+        }
+        return potentials;
+    };
+
+    obj.report_bad_ads = function() {
+        if (!obj.detect_bad_ads) {
+            return;
+        }
+        var i, j, event, ad;
+        var report = [];
+        var reported_events = [];
+        for (i = 0; i < window.likes_tracking.event_log.length; i++) {
+            event = window.likes_tracking.event_log[i];
+            if (event.type == 'pagehide' && event.potential_bad_ads.length > 0 && !event.reported) {
+                for (j = 0; j < event.potential_bad_ads.length; j++) {
+                    ad = event.potential_bad_ads[j];
+                    report.push({'url': ad.ad.PubMatic_Bid.landing_page,
+                                'tag': ad.ad.PubMatic_Bid.creative_tag,
+                                'cpm': ad.ad.PubMatic_Bid.ecpm,
+                                'pos': ad.position,
+                                'loc': '',
+                                'suspect': 1});
+                }
+                reported_events.push(event);
+            }
+        }
+        if (report.length > 0) {
+            $.ajax({
+                url: '//' + window.location.host + '/api/record_pubmatic_ads',
+                type: 'POST',
+                   dataType: 'json',
+                   data: {'report': JSON.stringify(report)},
+                   context: {'reported_events': reported_events},
+                   success: function() {
+                       var events = this.reported_events;
+                       for (var j = 0; j < events.length; j++) {
+                           events[j].reported = 1;
+                       }
+                   },
+            });
+        }
+    };
+
+    obj.track_event = function(event) {
+        event.latency_ms = (new Date).getTime() - obj.load_ts;
+        obj.event_log.push(event);
+        if (obj.is_final_network_ad(event)) {
+            var orig_imp_event_index = obj.imp_event_index;
+            obj.imp_event_index = obj.event_log.length - 1;
+            if (orig_imp_event_index <= obj.sent_index && window.$) {
+                obj.pending_timeouts.push(window.setTimeout(obj.send_events, obj.imp_events_timeout));
+            }
+        }
+    };
+
+    obj.track_house_ad = function(ad_slot) {
+        var h_event = {'network': 'mylikes',
+                       'slot_name': ad_slot.slot_name,
+                       'promo_id': ad_slot.promo_id,
+                       'promo_hash': ad_slot.promo_hash,
+                       'type': 'ad_slot_rendered'};
+        if (ad_slot.csrc) {
+            h_event.csrc = ad_slot.csrc;
+        }
+        if (ad_slot.ui_type) {
+            h_event.ui_type = ad_slot.ui_type;
+        }
+        obj.track_event(h_event);
+    };
+
+    obj.get_new_track_id = function() {
+        var random = Math.floor(Math.random()*90000) + 10000;
+        return +((obj.pv_params.click_id + '') + (random + ''))
+    };
+
+    obj.register_share_click_source = function(source) {
+        obj.share_click_source = source;
+    }
+
+    obj.register_pv_click_source = function(source) {
+        obj.pv_click_source = source;
+    }
+
+    obj.update_ads_data = function(send_params, event_log) {
+        var house_ads = '';
+        var network_ads = '';
+        var redis_ads = '';
+        obj.network_ads_by_position = new Array();
+        var i = 0;
+        js_bundle = window.pass_to_js || window.PageData;
+        var ui_type = null;
+        for (; i < event_log.length; i++) {
+            if (event_log[i]['network'] == 'mylikes' && event_log[i]['type'] == 'ad_slot_rendered') {
+                delimiter = '';
+                var event = event_log[i];
+                if (event.rotate_list && event.rotate_list.length){
+                    event = event.rotate_list[event.active_promo];
+                }
+                var process_redis_imp = false;
+                var process_house_ad = true;
+                if (event['tracking_infos']) {
+                    tracking_infos = event['tracking_infos'];
+                    house_ads += ',{';
+                    if (tracking_infos[0] && tracking_infos[0]['base_slot_name']){
+                        if (js_bundle && js_bundle.ad_page_slots && js_bundle.ad_page_slots.indexOf(tracking_infos[0]['base_slot_name']) == -1) {
+                            process_redis_imp = obj.track_redis_imps;
+                            process_house_ad = !obj.skip_house_ad;
+                        } else if (!js_bundle || !js_bundle.ad_page_slots){
+			    process_redis_imp = obj.track_redis_imps;
+                            process_house_ad = !obj.skip_house_ad;
+			}
+                        if (process_house_ad) {
+                            house_ads += '"base_slot_name":"' + tracking_infos[0]['base_slot_name'] + '"';
+                        }
+                        delimiter = ',';
+                    }
+                    if (process_house_ad) {
+                        house_ads += delimiter + '"pairs":' + '[';
+                    }
+                    if (process_redis_imp) {
+                        redis_ads += '::' + event['slot_id'];
+                    }
+                    var pair_iterator = (event.refresh_count) ? event.promo_list : event.tracking_infos;
+                    for (var j = 0; j < pair_iterator.length; j++) {
+                        if (process_house_ad) {
+                            if (j != 0) {
+                                house_ads += ',';
+                            }
+                            house_ads += '[';
+                        }
+                        if (pair_iterator[j]['promo_id']){
+                            if (process_house_ad) {
+                                house_ads += '"' + pair_iterator[j]['promo_id'] + '"';
+                            }
+                            if (process_redis_imp) {
+                                redis_ads += ',' + pair_iterator[j]['promo_id'];
+                            }
+                        }
+                        if (pair_iterator[j]['promo_hash']){
+                            if (process_house_ad) {
+                                house_ads += ',"' + pair_iterator[j]['promo_hash'] + '"';
+                            }
+                            if (process_redis_imp) {
+                                redis_ads += ':' + pair_iterator[j]['promo_hash'];
+                            }
+                        }
+                        if (process_house_ad) {
+                            house_ads += ']';
+                        }
+                    }
+                    if (process_house_ad) {
+                        house_ads += ']';
+                    }
+                    house_ads += '}';
+                } else {
+                    if (js_bundle && js_bundle.ad_page_slots && js_bundle.ad_page_slots.indexOf(event['slot_name']) == -1) {
+                        process_redis_imp = obj.track_redis_imps;
+                        process_house_ad = !obj.skip_house_ad;
+                    }
+                    if (process_house_ad) {
+                        house_ads += ',{';
+                        }
+                    if (event['position'] && process_house_ad){
+                        house_ads += '"position":"' + event['position'] + '"';
+                        delimiter = ',';
+                    }
+                    if (process_redis_imp) {
+                        redis_ads += '::' + event['slot_id'];
+                    }
+                    if (event['promo_id']){
+                        if (process_house_ad) {
+                            house_ads += delimiter + '"promo_id":"' + event['promo_id'] + '"';
+                        }
+                        delimiter = ',';
+                        if (process_redis_imp) {
+                            redis_ads += ',' + event['promo_id'];
+                        }
+                    }
+                    if (event['slot_name'] && process_house_ad){
+                        house_ads += delimiter + '"slot_name":"' + event['slot_name'] + '"';
+                        if (event['slot_name'].indexOf('ad_page_') == 0) {
+                            if (event.csrc) {
+                                house_ads += ',"csrc":"' + event.csrc + '"';
+                            }
+                        }
+                        delimiter = ',';
+                    }
+                    if (event['promo_hash']){
+                        if (process_house_ad) {
+                            house_ads += delimiter + '"promo_hash":"' + event['promo_hash'] + '"';
+                        }
+                        delimiter = ',';
+                        if (process_redis_imp) {
+                            redis_ads += ':' + event['promo_hash'];
+                        }
+                    }
+                    if (event['slot_id'] && process_house_ad){
+                        house_ads += delimiter + '"slot_id":"' + event['slot_id'] + '"';
+                    }
+                    if (process_house_ad) {
+                        house_ads += '}';
+                    }
+                    if (event['ui_type']) {
+                        ui_type = event['ui_type'];
+                    }
+                }
+            } else if (obj.track_network_ads) {
+                if (!event_log[i]['type']
+                    || (event_log[i]['type'] != 'attempted_passback' && event_log[i]['type'] != 'ad_slot_rendered' && event_log[i]['type'] != 'pubmatic_api_response' && event_log[i]['type'] != 'amazon_response' && event_log[i]['type'] != 'appnexus_api_response')
+                    || !event_log[i]['network']
+                    || !event_log[i]['position']) {
+                    continue;
+                }
+                var position = event_log[i]['position'];
+                var network = event_log[i]['network'];
+                js_bundle = window.pass_to_js || window.PageData;
+                if (js_bundle && js_bundle.net_names && network in js_bundle.net_names && js_bundle.experiment_config.shorten_net_names) {
+                    network = js_bundle.net_names[network];
+                }
+                var cpm = event_log[i]['cpm'];
+                var state = '';
+                if (position in obj.network_ads_by_position) {
+                    state = obj.network_ads_by_position[position];
+                }
+                state += ',{';
+                state += '"' + network + '":';
+                if (cpm != null){
+                    cpm = Math.round(cpm*1000)/1000;
+                    state += '[';
+                    state += event_log[i]['latency_ms'];
+                    state += ',' + cpm;
+                    state += ']';
+                } else {
+                    state += event_log[i]['latency_ms'];
+                }
+                state += '}';
+                obj.network_ads_by_position[position] = state;
+            }
+        }
+
+        for (var position in obj.network_ads_by_position) {
+            if (obj.network_ads_by_position.hasOwnProperty(position)) {
+                state = obj.network_ads_by_position[position];
+                network_ads += ',"' + position + '":[' + state.substr(1) + ']';
+            }
+        }
+
+        obj.sent_index += i;
+        if (house_ads.length > 0){
+            house_ads = house_ads.substr(1);
+        }
+        if (network_ads.length > 0){
+            network_ads = network_ads.substr(1);
+        }
+        send_params['house_ads'] = '[' + house_ads + ']';
+        send_params['network_ads'] ='[{' + network_ads + '}]';
+        if (redis_ads.length > 0) {
+            send_params['redis_ads'] = redis_ads.substr(2);
+        }
+        if (ui_type) {
+            send_params['auit'] = ui_type;
+        }
+    };
+
+    obj.record_event_log = function() {
+        if (!window.top.likes_tracking.event_log){
+            return;
+        }
+        var event_log = escape(JSON.stringify(window.top.likes_tracking.event_log));
+        var data = {
+            'event_log':event_log,
+            'page_url': window.top.location.href,
+        };
+        if (window.top.likes_ad_server.rtb_errors && window.top.likes_ad_server.rtb_errors.length){
+            data['errors'] = escape(JSON.stringify(window.top.likes_ad_server.rtb_errors));
+            window.top.likes_ad_server.rtb_errors = [];
+        }
+        $.ajax({
+            url: '/api/record_event_log',
+               type: 'POST',
+               data: data,
+        });
+    }
+
+    obj.send_events = function(cancel_pending) {
+        if (obj.tracking_in_progress || obj.pvid < 0) {
+            return;
+        }
+
+        if (cancel_pending) {
+            obj.cancel_pending();
+        }
+
+        var send_params = {};
+        for (var k in obj.pv_params) {
+            if (obj.pv_params.hasOwnProperty(k) && obj.pv_params[k]) {
+               send_params[k] = obj.pv_params[k];
+            }
+        }
+
+        try {
+            if ((obj.should_record_event_log() && obj.pvid) || (window.top.likes_ad_server && window.top.likes_ad_server.rtb_errors && window.top.likes_ad_server.rtb_errors.length)){
+                obj.record_event_log();
+            }
+        } catch (e) {}
+
+        /*
+        // We only need to send data if we have pending events in the event log
+        // or if we have not yet recorded a pageview (pvid == null)
+        */
+        if (obj.sent_index < obj.event_log.length) {
+            obj.update_ads_data(send_params, obj.event_log.slice(obj.sent_index));
+        } else {
+            if (obj.pvid) {
+                return;
+            }
+        }
+
+        if (!obj.pvid || obj.pvid < 0) {
+            send_params['track_id'] = obj.current_track_id;
+        } else {
+            send_params['pvid'] = obj.pvid;
+        }
+        var method = obj.pvid ? 'update_pv' : 'track_pv';
+        if (method == 'update_pv') {
+            if (!obj.track_network_ads && obj.track_house_ads ) {
+                if (send_params.house_ads == "[]" && !send_params.redis_ads) {
+                    return;
+                } else {
+                    send_params.network_ads = "[{}]";
+                }
+            } else if (obj.track_network_ads && !obj.track_house_ads) {
+                if (send_params.network_ads == "[{}]") {
+                    return;
+                } else {
+                    send_params.house_ads = "[]";
+                }
+            } else if (!obj.track_network_ads && !obj.track_house_ads) {
+                return;
+            }
+            if (obj.share_click_source) {
+                send_params['scs'] = obj.share_click_source;
+            }
+        } else {
+            if (obj.pv_click_source) {
+                send_params['pvcs'] = obj.pv_click_source;
+            }
+        }
+        $.ajax({
+            url: '//' + window.location.host + '/api/' + method,
+            type: 'POST',
+            dataType: 'json',
+            beforeSend: function() {
+               obj.tracking_in_progress = true;
+            },
+            data: send_params,
+            success: function(result) {
+               if (result && !obj.pvid && result.pvid) {
+                    obj.pvid = result.pvid;
+                    obj.ncvid = result.ncvid;
+               }
+            },
+            complete: function() {
+                obj.tracking_in_progress = false;
+                if (!obj.pvid) obj.pvid = -1;
+                if (obj.sent_index < obj.imp_event_index) {
+                    obj.send_events();
+                }
+            }
+        });
+    };
+
+    obj.cancel_pending = function() {
+        if (obj.pending_timeouts) {
+            while ((t = obj.pending_timeouts.pop()) != null) {
+                window.clearTimeout(t);
+            }
+        }
+    };
+
+
+
+
+
+
+    obj.start_tracking = function(track_id, page_type, page_num, gallery_id) {
+        try{
+        if (window.top.likes_ad_passbacks){
+            window.top.likes_ad_passbacks.clear_valid_passbacks();
+        }
+        if (track_id) {
+            obj.current_track_id = track_id;
+        }
+        if (page_type) {
+            obj.pv_params.page_type = page_type;
+        }
+        if (page_num) {
+            obj.pv_params.page_num = page_num;
+        }
+        if (gallery_id) {
+            obj.pv_params.gallery_id = gallery_id;
+        }
+
+        for (var i = 0; i < obj.tracking_hbs.length; i++) {
+            obj.pending_timeouts.push(window.setTimeout(obj.send_events, obj.tracking_hbs[i]));
+        }
+        } catch(e) {  }
+    };
+
+    if (window.top.likes_tracking) {
+        window.top.likes_tracking.cancel_pending();
+    }
+
+    window.likes_tracking = obj;
+    window.top.likes_tracking = window.likes_tracking;
+};
+
+likes_tracking_create();
+
+window.onbeforeunload = function() {
+    if (window.top.likes_tracking) {
+        window.top.likes_tracking.send_events(true);
+    }
+    return;
+};
+
+</script>
+<script type="text/javascript">
+window.addEventListener("pagehide", function(e) {
+    if (window.likes_tracking) {
+        var event = {'type': 'pagehide'};
+        window.likes_tracking.track_event(event);
+        event.potential_bad_ads = window.likes_tracking.get_potential_bad_ads(event);
+    }
+}, false);
+window.addEventListener("pageshow", function(e) {
+    if (window.likes_tracking) {
+        window.likes_tracking.report_bad_ads();
+    }
+}, false);
+</script>
+<script type="text/javascript">
+try {
+(function() {
+    var obj = {};
+    obj.p_list = [];
+    obj.completed = {};
+    obj.loops = {};
+    obj.load_ts = (new Date).getTime();
+    obj.valid_passbacks = {};
+
+    obj.clear_valid_passbacks = function(){
+        obj.valid_passbacks = {};
+    }
+
+    obj.create_iframe = function (width, height, defer_size_ms) {
+        var ifrm = document.createElement('iframe');
+        ifrm.setAttribute('margin', '0 auto');
+        ifrm.setAttribute('padding', '0');
+        ifrm.setAttribute('frameBorder', '0');
+        if (!defer_size_ms) {
+            ifrm.setAttribute('width', width + '');
+            ifrm.setAttribute('height', height + '');
+        } else {
+            ifrm.setAttribute('width', '0');
+            ifrm.setAttribute('height', '0');
+        }
+        ifrm.setAttribute('scrolling','no');
+        try {
+            if (width == 1 && height == 1) {
+                ifrm.style.float = "left";
+            }
+            ifrm.style.margin = "0px auto";
+            ifrm.style.padding = "0px";
+            ifrm.style.border = '0px none';
+            if (!defer_size_ms) {
+                ifrm.style.width = width + "px";
+                ifrm.style.height = height + "px";
+            }
+            ifrm.style.overflow = 'hidden';
+        } catch (e) {
+        }
+        return ifrm;
+    };
+    obj.hide_all_in_div = function(ad_div_id) {
+        var ad_div = document.getElementById(ad_div_id);
+        if (ad_div) {
+            for (var i = 0; i < ad_div.childNodes.length; i++) {
+                if (ad_div.childNodes[i].style) {
+                    ad_div.childNodes[i].style.display = 'none';
+                }
+            }
+            if (document.getElementById("bottom_mobile_ad") && document.getElementById("bottom_mobile_ad").classList)
+                document.getElementById("bottom_mobile_ad").classList.remove("dummy_ad_wrapper");
+        }
+        return ad_div;
+    };
+    obj.render_ad = function(ad_div_id, width, height, ad_script, ad_src, defer_size_ms, network, position) {
+        if (network && position){
+            obj.valid_passbacks[network + "." + position] = 1;
+        }
+        var ad_div = window.likes_ad_passbacks.hide_all_in_div(ad_div_id);
+        if(network === 'dummy' && position != 'top') {
+            //if we have extra galleries, replace dummy ad with gallery
+            var extra_galleries = (window.pass_to_js && window.pass_to_js.extra_galleries) || (window.PageData && window.PageData.extra_galleries);
+            if (extra_galleries && window.jinja) {
+                var replacement = extra_galleries.pop();
+                replacement.item_dark = true;
+                $(ad_div).append(jinja.flat_grid_item_jinja(replacement));
+            }
+            //return so we dont add dummy iframe anymore
+            return false;
+        }
+        if (ad_div) {
+            var dummy_ad;
+            if (ad_src.indexOf("dummy_mob_bottomtall") > -1) {
+                width = 0;
+                height = 0;
+                dummy_ad = 1;
+            }
+
+            var ifrm = window.likes_ad_passbacks.create_iframe(width, height, defer_size_ms);
+            ad_div.appendChild(ifrm);
+            if (!defer_size_ms) {
+                ad_div.width = width;
+                ad_div.height = height;
+            } else {
+                ifrm.onload = function() {
+                    window._defered_size_timeout = setTimeout(function() {
+                        ifrm.width = width;
+                        ifrm.height = height;
+                    }, defer_size_ms);
+                };
+            }
+            if (dummy_ad && ad_div_id == "bottom_mobile_ad") {
+                ad_div.classList.add("dummy_ad_wrapper");
+            }
+            if (ad_src) {
+                ifrm.src = ad_src;
+            } else {
+                ifrm.src = 'javascript:document.write(unescape("' + escape(ad_script) + '"));document.close();';
+            }
+            window.likes_ad_server.position_rendered[position] = true;
+            return true;
+        }
+        return false;
+    };
+
+    obj.render_passback = function(network, position, div_id) {
+        var position_to_use;
+
+        if (network == 'amz' && position == 'bottomtall') {
+            position_to_use = 'above_next';
+        } else {
+            position_to_use = position;
+        }
+        if (window.top.likes_tracking) {
+            window.top.likes_tracking.track_event({'type': 'attempted_passback', 'network': network, 'position': position_to_use});
+        }
+        if (network == "criteo" && position_to_use == "top"){
+            window.likes_ad_passbacks.criteo_top_reload = true;
+        }
+        window.likes_ad_server.position_rendered[position_to_use] = false;
+
+        var key = network + '_' + position_to_use;
+        if (key in window.likes_ad_passbacks.completed) {
+            likes_ad_passbacks.loops[key] = 1;
+            return false;
+        }
+        for (var i = 0; i < window.likes_ad_passbacks.p_list.length; i++) {
+            var p = window.likes_ad_passbacks.p_list[i];
+            if ((p.network == network) && (p.position == position_to_use)) {
+                if (p.to_network == "mylikes") {
+                    window.likes_ad_server.render_any_ad_when_available(position_to_use);
+                    return true;
+                }
+                if (window.likes_ad_passbacks.render_ad(div_id || p.div_id, p.width, p.height, p.passback_slot_script, p.passback_iframe_src, p.defer_size_ms,p.to_network, p.position)) {
+                    window.likes_ad_passbacks.completed[key] = 1;
+                    return true;
+                }
+            }
+        }
+        if (window.likes_ad_server && (network == "openx_lowval" || network == "criteo") && position == "right") {
+            if (!window.likes_ad_server.render_better_ad("right", 0, "ad_slot_right") && !window.likes_ad_server.networks.amazon.ready) {
+                window.likes_ad_server.add_rtb_ready_listener("right", function(){
+                    window.likes_ad_server.clear_rtb_ready_listener("right");
+                    window.likes_ad_server.render_better_ad("right", 0, "ad_slot_right");
+                });
+            }
+        } else {
+            window.likes_ad_server.render_any_ad_when_available(position_to_use);
+        }
+    };
+
+    window.likes_ad_passbacks = obj;
+    window.top.likes_ad_passbacks = obj;
+})();
+} catch (e) {
+    window.likes_ad_passbacks = {
+        'render_passback': function(a, b) {}
+    };
+}
+</script>
+
+
+</head>
+<!--[if lte IE 9 ]> <body class="ie8  "> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <body class="not_ie    "> <!--<![endif]-->
+<div id="header_outer" class="gallery_page_header small_header">
+    <div class="header_row_1">
+        <div id="logo_outer">
+            <a id="logo" href="http://lolmegapics.xyz">lolmegapics</a>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+(function() {
+    var tag_ids = ["next_arrow", "start_button", "prev_arrow", "top_next_button", "next_arrow_middle", "bottom_next_button", "jump_image"];
+    function fix_href() {
+        for (var i = 0; i < tag_ids.length; i++) {
+            var el = document.getElementById(tag_ids[i]);
+            if (el) {
+		var href = el.href || el.getAttribute('href');
+		if (el.href) el.href = href.replace(/([&?])z=[^&#]*/g, '$1').replace(/[&?]$/, '');
+		else if (href) el.setAttribute('href', href.replace(/([&?])z=[^&#]*/g, '$1').replace(/[&?]$/, ''));
+	    }
+        }
+    }
+    function md_handler(e) {
+        e = e || event;
+        if (e && e.clientX && e.clientX > 0) {
+            fix_href(); //and the others
+        }
+    }
+    window.md_handler = md_handler;
+
+        window.gallery_handler = function (ev) {};
+})();
+</script>
+<!-- html -->
+    <!-- body -->
+        <!-- thepage -->
+                <div id="page_contents" class="likes ">
+                    <div class='main_image_inner'>
+                            <div class='wide_ad_wrapper top'>
+                            </div>
+
+                        <div class='left_side'>
+                            <div id="image_73584653" class="main_image_content">
+<h1 id="gallery_title_wrapper" class="gallery_title ">
+            <a id="top_next_button" href='http://lolmegapics.xyz/10-disney-movie-songs-performed-by-famous-pop-stars?utm_content=buffera93be&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer&amp;upsell=1&amp;z=top' onmousedown="md_handler(event)" class="nextbutton button green_button long_button " >
+Next
+                    <span>&#9654;</span>
+            </a>
+
+    <div class="title">10 Disney Movie Songs Performed By Famous Pop Stars
+</div>
+    <div class="clear" style="min-height: 10px;"></div>
+</h1>
+
+        <div class="gallery_item_wrapper   item_1 " >
+        <div class="after_title">
+                <div class='share_bar desktop wide'>
+<!-- NOTE: on dev the gallery share url breaks the fb buttons because its sharing the link to our private client -->
+<div class='social_media_container  custom_domain_template  desktop'>
+
+    <a class='custom_share_button custom_fb_button fb_share_track' data-fbtrackid='gallery' href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flolmegapics.xyz%2F10-disney-movie-songs-performed-by-famous-pop-stars"
+onclick="window.open($(this).attr('href'), 'fb_popup', 'width=600,height=310'); return false;"
+gallery_share_url="http%3A%2F%2Flolmegapics.xyz%2F10-disney-movie-songs-performed-by-famous-pop-stars"
+ target="_blank">
+           <span class='button_body invert'>
+               <span class='icon fb_icon'></span>
+               <span class='text'>Share on Facebook</span>
+               <div class='clear'></div>
+           </span>
+
+        </a>
+
+    <div class="clear"></div>
+</div>
+                    <div class="clear"></div>
+                </div>
+                <div class="clear"></div>
+
+                <p>
+                        Disney movies are known for their lovable characters, awesome animations and catchy soundtracks. Some of the most popular artists from every genre of music have been selected to record songs for Disney movies, but the most memorable tunes definitely come from our favorite pop stars. Here are a few of our favorite Disney songs by pop stars.<br /><br />-----------------------------------------------------------------------------------------<br />Our Social Media:<br />Facebook: https://www.facebook.com/TheTalko<br />Twitter: https://twitter.com/thetalko<br />Instagram: https://instagram.com/the_talko<br /><br />-----------------------------------------------------------------------------------------<br />For more videos and articles visit:<br />http://www.thetalko.com/<br />Category<br />Entertainment<br />License<br />Standard YouTube License and more song  u may like10 People Who Shockingly Look Like Disney Princesses The Evolution Of Disney's Most Romantic Couples15 Surprising Things You Didn't Know About Disney Princesses and more
+                </p>
+        </div>
+        <div class='image_and_arrows'>
+            <div class='image_wrapper'>
+<div class="video_wrapper  visible " id="video_wrapper_1" data-videoid="rTgjXSmK3k4" data-site="yt">
+         <div id="browser_image" style="height: 337.5px; width: 600px;"></div>
+ </div>
+                <div class='clear'></div>
+                    <a class='attribution_url' href="https://youtu.be/rTgjXSmK3k4" target="_blank" image_id="73584653">
+                        <span>via</span>
+                        https://youtu.be/
+                    </a>
+            </div>
+        </div>
+
+        </div>
+
+
+    <div class='gallery_source'>
+        Source:
+        <a href="https://youtu.be/rTgjXSmK3k4">youtu.be</a>
+    </div>
+
+
+    <a id="bottom_next_button" href='http://lolmegapics.xyz/10-disney-movie-songs-performed-by-famous-pop-stars?utm_content=buffera93be&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer&amp;upsell=1&amp;z=bot' onmousedown="md_handler(event)" class="nextbutton button green_button long_button "  >
+        Next
+            <span style="vertical-align: middle;">&#9654;</span>
+    </a>
+
+
+
+    <div class='share_bar desktop wide'>
+<!-- NOTE: on dev the gallery share url breaks the fb buttons because its sharing the link to our private client -->
+<div class='social_media_container  custom_domain_template  desktop'>
+
+    <a class='custom_share_button custom_fb_button fb_share_track' data-fbtrackid='gallery' href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flolmegapics.xyz%2F10-disney-movie-songs-performed-by-famous-pop-stars"
+onclick="window.open($(this).attr('href'), 'fb_popup', 'width=600,height=310'); return false;"
+gallery_share_url="http%3A%2F%2Flolmegapics.xyz%2F10-disney-movie-songs-performed-by-famous-pop-stars"
+ target="_blank">
+           <span class='button_body invert'>
+               <span class='icon fb_icon'></span>
+               <span class='text'>Share on Facebook</span>
+               <div class='clear'></div>
+           </span>
+
+        </a>
+
+    <div class="clear"></div>
+</div>
+        <div class="clear"></div>
+    </div>
+
+<div class="clear"></div>
+
+                            </div>
+                        </div>
+
+                        <div id="gallery_image_right_sidebar" class='right_side gallery_grid'>
+
+<div id='ad_slot_righttop_rect' class='ad_slot_right top'>
+</div>
+
+
+
+
+
+
+                        </div>
+
+
+                        <div class='clear'></div>
+                    </div>
+                </div>
+
+
+            <div class='gallery_footer_container'>
+                <div class='inner'>
+<div id='gallery_footer'>
+    <div class='links'>
+        <a href='http://lolmegapics.xyz/terms'>Terms of Use</a>
+        &nbsp;|&nbsp;
+        <a href='http://lolmegapics.xyz/privacy'>Privacy Policy</a>
+            &nbsp;|&nbsp;
+            <a href='http://lolmegapics.xyz/contact'>Contact</a>
+    </div>
+        <div class="footer_subscribe">
+            <form class="email_form">
+                <h2>Subscribe to us!</h2>
+                <div class="email_input_wrapper">
+                    <input type="email" class="email_input footer_email" placeholder="Signup for the email newsletter"/>
+                    <button type="submit" class="subscribe_btn">Subscribe</button>
+                </div>
+            </form>
+        </div>
+    <div id='copyright_notice'>Copyright &copy; 2017 lolmegapics, All rights reserved.</div>
+    <div class="clear"></div>
+</div>
+                </div>
+            </div>
+
+            <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+
+                <script src="//o.mlv-cdn.com/s/e7bf7ad80d15fc70c687148a7c70cfbc/mint__gallery_image_ads_8_inspire.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+</script>
+
+
+    <script type="text/javascript">
+        window.likes_tracking.start_tracking();
+    </script>
+
+
+
+
+
+    <script>
+        window.global_ich_data = window.global_ich_data || {};
+        global_ich_data.base_domain = "lolmegapics.xyz";
+    </script>
+
+
+
+
+<script>
+    $(document).ready(function(){
+        var $video = $('.video_wrapper');
+
+        function make_instagram_callback($this){
+            var callback = function(data) {
+                var html = data.html;
+                if (html){
+                    //we already included the script in the head
+                    html = html.substr(0, html.search("<"+"script"));
+                    $this.find(".embed_instagram_container").html(html);
+                    $this.find("#browser_image").hide();
+                }
+                instgrm.Embeds.process();
+            }
+            return callback;
+        }
+        function make_twitter_callback($this){
+            var callback = function(data){
+                var html = data.html;
+                if (html){
+                    //we already included the script in the head
+                    html = html.substr(0, html.search("<"+"script"));
+                    $this.find(".embed_twitter_container").html(html);
+                    $this.find("#browser_image").hide();
+                }
+                twttr.widgets.load();
+            }
+            return callback;
+        }
+
+        setTimeout(function() {
+            $video.each(function() {
+                $this = $(this);
+                var video_site = $this.data("site");
+                if (video_site == "yt" || video_site == "vm") {
+                    var width = $this.width();
+                    $this.data('width', width);
+                    $this.data('height', Math.round(width * 9 / 16) + 30);
+                    Video.play(this, $this.data('site'), $this.data('videoid'), false /* autoplay */);
+                } else if (video_site == "facebook_video") {
+                    $this.find("#browser_image").hide();
+                } else if (video_site == "instagram") {
+                    var url = "https://api.instagram.com/oembed?url=" + $this.data("videoid");
+                    var this_callback = make_instagram_callback($this);
+                    $.ajax({dataType: "jsonp", method: "GET", url: url, success: this_callback});
+                } else if (video_site == "twitter") {
+                    var this_callback = make_twitter_callback($this);
+                    var url = "https://publish.twitter.com/oembed?url=" + $this.data("videoid");
+                    $.ajax({dataType: "jsonp", method: "GET", url: url, success: this_callback});
+                }
+            });
+        }, 100);
+    });
+</script>
+    </body>
+    <script type="text/javascript">
+        var pass_to_js = {"feed": {"palette": "mint", "custom_profile": true, "format": "inspire"}, "css_url": "//o.mlv-cdn.com/s/d56a6b617a930777e20a0a22f94339a4/mint__gallery_image_ads_8_inspire.css", "subdomain": "sampillar", "domain_url": "lolmegapics.xyz", "js_url": "//o.mlv-cdn.com/s/e7bf7ad80d15fc70c687148a7c70cfbc/mint__gallery_image_ads_8_inspire.js", "final_next_url": "http://lolmegapics.xyz/10-disney-movie-songs-performed-by-famous-pop-stars?utm_content=buffera93be&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&upsell=1", "MOBILE": false, "spanning_next_button": 1, "gallery_template": "likes", "net_names": {"c_pubmatic": "c_pb", "appnexus_api_premium": "apnap", "c_facebook": "c_fb", "c_cpxi": "c_ci", "c_dummy": "c_d", "c_appnexus": "c_apn", "c_valueclick": "c_vc", "c_pm1": "c_p1", "c_pm2": "c_p2", "c_pm3": "c_p3", "dfp": "dp", "aolm": "am", "rubicon": "r", "c_mylikes": "c_ml", "c_gemini": "c_gm", "openx": "ox", "ox_resp": "or", "c_amazon": "c_az", "adcom": "ac", "amazon": "az", "amz": "amz", "facebook": "fb", "c_openx": "c_ox", "c_appnexus_api_premium": "c_apnap", "c_rubicon": "c_r", "appnexus": "apn", "pubm_api_1": "pb1", "pubm_api_2": "pb2", "pubm_api_3": "pb3", "pubm_api_4": "pb4", "valueclick": "vc", "pulsepoint": "pp", "gemini": "gm", "google": "g", "c_openx_lowval": "c_oxlv", "appnexus_api": "apna", "c_criteo": "c_c", "c_aolm": "c_am", "c_appnexus_api_highval": "c_apnah", "c_appnexus_api": "c_apna", "c_pubm_api_4": "c_pb4", "criteo": "c", "pubmatic_highval": "pbmh", "pm1": "p1", "pm2": "p2", "pm3": "p3", "c_amz": "c_amz", "ox_api": "oa", "c_pubmatic_highval": "c_pbmh", "c_pulsepoint": "c_pp", "dummy": "d", "c_adcom": "c_ac", "openx_lowval": "oxlv", "mylikes": "ml", "c_dfp": "c_dp", "appnexus_api_highval": "apnah", "c_pubm_api_1": "c_pb1", "c_pubm_api_2": "c_pb2", "c_pubm_api_3": "c_pb3", "cpxi": "ci", "c_google": "c_g", "pubmatic": "pb"}, "is_android": false, "page_path": "sampillar", "ad_page_slots": ["video_end_desktop", "ad_page_mobile_ios", "multi_grid_last_page", "multi_stacked_last_page", "ad_page_onepager_mobile", "ad_page_desktop_bookly", "ad_page_desktop_listly", "ad_page_mobile_listly", "ad_page_mobile_bookly", "ad_page_mobile_android", "next_video_desktop", "ad_page_desktop", "ad_page_mobile", "ad_page_onepager_mobile"], "internal_only": false, "per_page": 1, "banners": null, "galleries_info": [{"gallery_id": 24539090, "original_gallery_id": 24539090, "gallery_size": 1, "num_fb_shares": null, "title": "10 Disney Movie Songs Performed By Famous Pop Stars\n"}], "next_direct_ad": null, "experiment_config": {"full_width_ads": 1, "close_pubm_doc": 1, "use_page_link_for_fb_share": 0, "ad_page_top_share": 0, "fban_rtb_cpm": 0.084, "report_pubm_throttle": 1, "start_page_og": 0, "disable_upsell_url_updation": 1, "less_bottom_ad_margin": 1, "redis_ads_slots": ["top_backfill", "bottom_backfill", "multi_backfill", "multi_related", "multi_small_grid", "multi_grid_last_page", "multi_stacked_last_page"], "ad_page_title": 0, "big_start_page_height": 0, "related_grid": 1, "mobile_all_pages_share_msg": 0, "page_caption_on_fb_share": 1, "js_error_event": 0, "report_pubm_api_error": 0, "bottom_desk_rtb": 0, "report_pubm_blacklist": 1, "retain_ads": 1, "hide_upsell_signup": 0, "verify_advertisers": ["jayesh_uatester", "mlaol"], "video_ads_2_light": 0, "multi_no_header": 1, "fban_rtb": 0, "big_share_button_inline": 0, "mobile_larger_title": 0, "backfill_ads_mobile": 1, "side_big_share_buttons": 0, "ads_head_min": 0, "bookly_large_next_button": 1, "remove_sticky_fb": 0, "disable_page_url_updation": 0, "enable_ugc_video": 1, "listly_large_next_button": 1, "no_up_next": 1, "mobile_grey_caption": 1, "big_share_button": 0, "log_gallery_click_predictions": 1, "stop_multi_backfill_shuffle": 1, "detect_bad_ads": 1, "big_next_ad_page": 0, "render_js_rtb_ads_for_mylikes": 1, "report_appnexus_throttle": 1, "report_double_renders": 1, "stop_double_ads": 0, "insert_in_place": 1, "mobile_last_page_share_msg": 0, "backfill_iframe": 0, "bad_ad_detect_ms": 4000, "shorten_net_names": 1, "choose_cover_image": 1, "ad_page_4_grid": 0, "bookly_color_next_button": "", "track_big_share_button": 1, "appnexus_delay": 1, "mobile_adpage_more_button_space": 0, "big_next_gallery": 0, "ad_page_4_stacked_blue": 0, "pubmatic_api_loc": 1, "track_pubm": 1, "video_ads_3_light": 0, "ad_page_4_grid_blue": 0, "ad_page_stacked_full": 0, "use_crc_front_page_desktop": 0, "show_social_page": 1, "report_ad_blacklist": 1, "hide_like_button": 1, "mobile_bigger_caption": 1, "use_crc_front_page": 1, "listly_large_share_button": 1, "disable_ad_page_url_updation": 1, "spanning_next_button": 1, "audience_gender": 1, "ox_api_discrepancy_ratio": 1.0, "big_next_ad_page_settings": {"top": "5px 15px", "bot": "5px 52px"}, "start_page_spinny": 1, "bookly_large_share_button": 1, "hide_mob_video_top_ad": 1, "multi_grid_last_page": 0, "next_button_color_class": "", "multi_list": 0, "use_new_video_page": 1, "ignore_late_passbacks": 0, "show_next_arrow_ad_page": 0, "video_end_desktop": 1, "multi_stacked_last_page": 0, "bad_ad_detect_throttle": 100, "bottom_backfill_ads_mobile": 0, "disable_final_ad_tracking": 1, "listly_color_next_button": "", "track_report_error": 0, "bottom_mobile_backfill_scrollable": 0, "related_small_mixed": 0, "related_right_dark": 1, "hide_earnings_all_time": 1, "video_ads_2_dark": 1, "adpage_large_next": 1, "bounce_clicks_max_t": 120, "js_rtb_report_error": 0, "big_start_page": 0, "use_page_image_for_fb_share": 1, "video_ads_delay": 5000, "ad_page_4_stacked": 0, "verify_slot_ids": [1, 2], "share_button_below_image": 0}};
+    </script>
+</html>

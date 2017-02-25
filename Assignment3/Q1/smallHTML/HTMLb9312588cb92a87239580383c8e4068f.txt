@@ -1,0 +1,1401 @@
+ 
+     
+    
+<!DOCTYPE HTML>
+ <html xmlns="http://www.w3.org/1999/xhtml"> 
+     
+<head>
+<meta charset="utf-8"> 
+<title>Heath Slater and The Ascension robbed at SmackDown Live house show | GiveMeSport : Related Articles | OOYUZ </title>
+            <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link href="static/Themes/css/forall.css" rel="stylesheet">
+  <link href="static/Themes/css/newpublisherpage.css" rel="stylesheet">
+<!-- <link href="static/Themes/css/forall.css" rel="stylesheet"> -->
+
+     <link rel="shortcut icon ooyuz" href="static/Themes/image/favicon.ico" > 
+
+    <link href='http://fonts.googleapis.com/css?family=Muli' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+   <link href='http://fonts.googleapis.com/css?family=Coda|Quattrocento+Sans' rel='stylesheet' type='text/css'>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    
+
+  <script src="static/Themes/js/modernizr.js"></script>
+
+      <script src="static/Themes/js/d3.min.js"></script>
+    <style>
+    
+    .adsf{
+    display:block;
+    float:left;
+    max-width:430px;
+
+    }
+    </style>
+
+    <script>
+$(document).ready(function() {
+    $(".searchtopbutton").click(function () {
+        $(".topbar").slideToggle('slow');
+    
+        if( $(this).text() =='Close'){
+   
+           $(this).text('Search');
+         } else {
+           $(this).text('Close');        
+        }
+    });
+    
+    $(":button").click(function() {
+         
+          var buttvalue = $(this).val();
+      
+          $("#myform").attr("action", buttvalue);
+          });
+})
+
+</script>
+
+      <script>
+function validateForm() {
+
+    var x = document.forms["myform"]["term"].value;
+    if (x == null || x == ""|| x.length<3) {
+  
+        $('.emm').css("display" ,"block" );
+        return false;
+       
+    }
+}
+     </script>
+ 
+
+</head>
+<body>
+ 
+    <div id="wrapper">
+        
+<div class="searchtop">
+            
+    <div class="logo"><a href="http://www.ooyuz.com">OOYUZ</a><span style="font-size:9px;">beta</span></div>        
+               
+     <div class="tagline">News Search & Analytics</div>  
+
+   <!-- <div class="searchbutt"><button class="searchtopbutton">Close</button> </div> -->       
+
+   <div class="searchbutt"> US Edition</div>      
+
+
+          </div>   
+ <div class="topbar">
+<form id="myform" name="myform" action="" method="get" style="text-align:center;" onsubmit="return validateForm();">
+<input type="text" class= "textar" name="term" size="50" style="margin:auto;" value="" column="80">
+<div class="emm" > Minimum 3 characters required!!</div>
+     
+
+             <button type="submit" value="/newsanalysis">Search</button> 
+                        
+     </form></div>
+        
+  
+
+    <div class="container">
+
+
+
+ <div class="content">
+
+   <div class="articlewrap">
+ <div class="titleurl"><h1>Heath Slater and The Ascension robbed at SmackDown Live house show | GiveMeSport</h1></div>
+<div class="datesite">Tue Feb 14 13:01:04 EST 2017 | GiveMeSport   </div>
+ 
+
+   <div class="urlimg"> 
+   
+<img src="http://www.ooyuz.com/images/2017/1/14/1487121027456.jpg" />
+
+   </div>
+
+
+   <div class="advert" >
+
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ooyuz responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4158679375855775"
+     data-ad-slot="4422284115"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+ <span style="color:#aaa;font-size:12px;">Advertisement</span>
+        
+       </div>
+
+    <div class="urlcontent">
+    
+ 
+
+The stars of SmackDown Live were competing at a house show in Oakland, California on Monday night, but three wrestlers didn’t enjoy a good end to the show. Heath Slater was travelling with Konnor and Viktor of The Ascension, and they have revealed on Twitter that they were victims of theft while they were in the building. As you’ll be able to see in the image provided by Slater below, thieves smashed the windows of their rental car, before getting away with Viktor’s backpack, and Konnor’s book b..
+    </br>
+  
+       <div class="advert12">
+
+   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ooyuzresponsive urlpage vertical -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4158679375855775"
+     data-ad-slot="4235860510"
+     data-ad-format="horizontal"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<p><span style="color:#aaa;font-size:12px;">Advertisement</span></p>
+            </div>
+
+<div class="readarticle"><a target="_blank" href='http://www.givemesport.com/986211-heath-slater-and-the-ascension-robbed-at-smackdown-live-house-show' rel="nofollow"> Read Article </a>  </div>
+</br>
+ <div class="urltags">
+
+ 
+
+<a href="http://www.ooyuz.com/newsarticles?term=konnor" target="_blank" >  konnor </a>
+
+
+
+
+<a href="http://www.ooyuz.com/newsarticles?term=yen" target="_blank" >  yen </a>
+
+
+
+
+<a href="http://www.ooyuz.com/newsarticles?term=slater" target="_blank" >  slater </a>
+
+
+
+
+<a href="http://www.ooyuz.com/newsarticles?term=givemesport" target="_blank" >  givemesport </a>
+
+
+
+
+<a href="http://www.ooyuz.com/newsarticles?term=wasteland" target="_blank" >  wasteland </a>
+
+
+
+
+<a href="http://www.ooyuz.com/newsarticles?term=viktor" target="_blank" >  viktor </a>
+
+
+
+
+<a href="http://www.ooyuz.com/newsarticles?term=xbox" target="_blank" >  xbox </a>
+
+
+
+
+
+</div>
+      
+      </div>
+        
+        
+<!--  
+<div class="popularitywrap">
+      <div class="sharing">Popularity on Social media</div>
+
+<div class="urlsocialcount">
+<div class="urlallsocial">
+<div class="simagecount">
+<img src="static/Themes/image/facebook.png">
+</div>
+<div class="facebookcc innersocialcount">NA</div>
+</div>
+<div class="urlallsocial">
+<div class="simagecount">
+<img src="static/Themes/image/twitter.png">
+</div>
+<div class="twittercc innersocialcount">NA</div>
+</div>
+<div class="urlallsocial">
+<div class="simagecount">
+<img src="static/Themes/image/linkedin.png">
+</div>
+<div class="linkedincc innersocialcount">NA</div>
+</div>
+<div class="f"></div>
+</div>
+          </div>  -->
+   
+          
+        
+        </div>      
+<div class="sidebarurl">
+
+
+    <div class="keywordrelated">Related Keywords</div>
+<div class="relatedkeyword">
+
+ 
+
+<a href="/newsanalysis?term=article" target="_blank" >  article </a>
+
+
+
+<a href="/newsanalysis?term=wednesday" target="_blank" >  wednesday </a>
+
+
+
+<a href="/newsanalysis?term=snl" target="_blank" >  snl </a>
+
+
+
+<a href="/newsanalysis?term=xbox" target="_blank" >  xbox </a>
+
+
+
+<a href="/newsanalysis?term=apple" target="_blank" >  apple </a>
+
+
+
+<a href="/newsanalysis?term=elimination chamber" target="_blank" >  elimination chamber </a>
+
+
+
+<a href="/newsanalysis?term=feb." target="_blank" >  feb. </a>
+
+
+
+<a href="/newsanalysis?term=april" target="_blank" >  april </a>
+
+
+
+<a href="/newsanalysis?term=sunday" target="_blank" >  sunday </a>
+
+
+
+<a href="/newsanalysis?term=bray wyatt" target="_blank" >  bray wyatt </a>
+
+
+
+<a href="/newsanalysis?term=royal rumble" target="_blank" >  royal rumble </a>
+
+
+
+<a href="/newsanalysis?term=wrestlemania" target="_blank" >  wrestlemania </a>
+
+
+
+<a href="/newsanalysis?term=saturday night" target="_blank" >  saturday night </a>
+
+
+
+<a href="/newsanalysis?term=nba" target="_blank" >  nba </a>
+
+
+
+<a href="/newsanalysis?term=nbc" target="_blank" >  nbc </a>
+
+
+
+<a href="/newsanalysis?term=kelly" target="_blank" >  kelly </a>
+
+
+
+<a href="/newsanalysis?term=john cena" target="_blank" >  john cena </a>
+
+
+
+<a href="/newsanalysis?term=donald trump" target="_blank" >  donald trump </a>
+
+
+
+<a href="/newsanalysis?term=microsoft" target="_blank" >  microsoft </a>
+
+
+
+<a href="/newsanalysis?term=kgi" target="_blank" >  kgi </a>
+
+
+
+<a href="/newsanalysis?term=aidy bryant" target="_blank" >  aidy bryant </a>
+
+
+
+<a href="/newsanalysis?term=california" target="_blank" >  california </a>
+
+
+
+<a href="/newsanalysis?term=randy orton" target="_blank" >  randy orton </a>
+
+
+
+<a href="/newsanalysis?term=givemesport" target="_blank" >  givemesport </a>
+
+
+
+<a href="/newsanalysis?term=windows" target="_blank" >  windows </a>
+
+
+
+<a href="/newsanalysis?term=february" target="_blank" >  february </a>
+
+
+
+<a href="/newsanalysis?term=tuesday" target="_blank" >  tuesday </a>
+
+
+
+<a href="/newsanalysis?term=wwe championship" target="_blank" >  wwe championship </a>
+
+
+
+<a href="/newsanalysis?term=aj" target="_blank" >  aj </a>
+
+
+
+<a href="/newsanalysis?term=july" target="_blank" >  july </a>
+
+
+
+<a href="/newsanalysis?term=luke harper" target="_blank" >  luke harper </a>
+
+
+
+<a href="/newsanalysis?term=gms" target="_blank" >  gms </a>
+
+
+
+<a href="/newsanalysis?term=gold" target="_blank" >  gold </a>
+
+
+
+<a href="/newsanalysis?term=melissa mccarthy" target="_blank" >  melissa mccarthy </a>
+
+
+
+<a href="/newsanalysis?term=fast company" target="_blank" >  fast company </a>
+
+
+
+ 
+</div> 
+  <div class="advett1" style="max-width:100%;text-align:center;">
+
+     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ooyuz responsive horizonal -->
+<ins class="adsbygoogle"
+     style="display:block;"
+     data-ad-client="ca-pub-4158679375855775"
+     data-ad-slot="2319722110"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>  
+       <span style="color:#aaa;font-size:12px;">Advertisement</span>  
+</div>
+        </div>
+   
+		<div class="fullcoverage">
+       
+		</div>
+
+  <div class="urlarticlecluster">
+
+
+ 
+    
+        <div class="urlarticleparent" id="14900497" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/14/1487121027456.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14900497">Heath Slater and The Ascension robbed at SmackDown Live house show | GiveMeSport</a>  <div class="sourcename">-GiveMeSport </div>
+				</div>
+				<div class="urlarticlechild">
+The stars of SmackDown Live were competing at a house show in Oakland, California on Monday night, but three wrestlers didn’t enjoy a good end to the show. Heath Slater was travell..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14900497"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14902913" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/15/1487139300503.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14902913">Baron Corbin destroys Dean Ambrose on Smackdown Live | GiveMeSport</a>  <div class="sourcename">-GiveMeSport </div>
+				</div>
+				<div class="urlarticlechild">
+Following his vicious attack on the Lunatic Fringe Dean Ambrose in the Elimination Chamber, Baron Corbin refused to relent on Smackdown. Corbin snapped following his elimination on..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14902913"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14917417" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/16/1487257973220.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14917417">Cities: Skylines building to Xbox One, Windows 10 release</a>  <div class="sourcename">-Euro Gamer </div>
+				</div>
+				<div class="urlarticlechild">
+Critically-acclaimed city sim Cities: Skylines will launch for Xbox One and Windows 10 this spring. This controller-optimised has been tweaked by the talented tools of Tantalus Med..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14917417"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14856023" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/10/1486715710813.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14856023">‘Saturday Night Live': Kristen Stewart Drops F-Bomb; Comments On Donald Trump Twitter Feud</a>  <div class="sourcename">-Mstarz </div>
+				</div>
+				<div class="urlarticlechild">
+(Photo : Tommaso Boddi/Getty Images) Actress Kristen Stewart of 'Come Swim' attends The IMDb Studio featuring the Filmmaker Discovery Lounge, presented by Amazon Video Direct: Day ..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14856023"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14875372" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/12/1486930438358.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14875372">Current SmackDown Live star tried out for role in The Wyatt Family | GiveMeSport</a>  <div class="sourcename">-GiveMeSport </div>
+				</div>
+				<div class="urlarticlechild">
+For WWE fans, it’s difficult to imagine a Wyatt Family different to the one we’re used to now. The original incarnation saw Bray Wyatt ditch the Husky Harris gimmick and reinvent h..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14875372"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14896451" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/14/1487100628368.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14896451">WWE officially announce Bray Wyatt’s first title defence for SmackDown Live | GiveMeSport</a>  <div class="sourcename">-GiveMeSport </div>
+				</div>
+				<div class="urlarticlechild">
+While fans are coming to terms with the fact that Bray Wyatt is finally our WWE Champion, it doesn’t seem like he’s going to be getting much time to celebrate his big win. Some bel..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14896451"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14922870" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/16/1487283268422.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14922870">Video: John Cena with touching message to Bray Wyatt during SmackDown Live | GiveMeSport</a>  <div class="sourcename">-GiveMeSport </div>
+				</div>
+				<div class="urlarticlechild">
+It takes more than just winning the title to become a true WWE champion, just ask Rey Mysterio. Bray Wyatt won his first ever WWE title at Elimination Chamber last weekend, and sec..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14922870"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14924715" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/16/1487293110754.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14924715">John Cena was adamant that Bray Wyatt pinned him on SmackDown Live | GiveMeSport</a>  <div class="sourcename">-GiveMeSport </div>
+				</div>
+				<div class="urlarticlechild">
+Bray Wyatt has had an incredible week so far. On Sunday night, he captured his first WWE Championship by surviving the Elimination Chamber and eliminated AJ Styles to achieve the f..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14924715"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14895790" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/14/1487098454039.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14895790">Panasonic’s new image sensor technology will improve night vision in cars</a>  <div class="sourcename">-The Verge </div>
+				</div>
+				<div class="urlarticlechild">
+Panasonic has developed new image sensor technology that should improve night vision in vehicles. The company says it has developed a way to electronically control the near infrare..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14895790"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14914281" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/16/1487222572565.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14914281">Attorney General Indicts 11 People in Motorcycle Theft Ring</a>  <div class="sourcename">-NY1 </div>
+				</div>
+				<div class="urlarticlechild">
+A trafficking ring hit the skids, after the state Attorney General indicted 11 people Wednesday. Eric Schneiderman's office says they stole more than 30 upscale motorcycles like Du..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14914281"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14883222" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/13/1487009340146.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14883222">Arsenal stars take on the Female Nutmeg World Champion | GiveMeSport</a>  <div class="sourcename">-GiveMeSport </div>
+				</div>
+				<div class="urlarticlechild">
+We’ve reached the point in the year that Arsenal’s entire season usually slips through their fingers. However, in a week where the Arsenal stars will be playing in both the Champio..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14883222"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14923727" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/16/1487289253584.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14923727">Thief steals truck, runs over owner's son amid dam evacuation chaos</a>  <div class="sourcename">-CBS News </div>
+				</div>
+				<div class="urlarticlechild">
+CHICO, Calif. -- A 33-year-old man was hospitalized with severe head injuries suffered when someone stole his father’s pickup truck during the chaotic evacuation near the nation’s ..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14923727"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14922416" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/16/1487281846973.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14922416">Xbox Live Free Games: Play 'NBA 2K17,' 'Rocket League' During Promo This Weekend</a>  <div class="sourcename">-International Business Times </div>
+				</div>
+				<div class="urlarticlechild">
+Microsoft’s latest Multiplayer All Access event features titles that most gamers are likely familiar with. The publisher announced Thursday that NBA 2K17 and Rocket League will be ..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14922416"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14917231" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/16/1487257024832.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14917231">Police look for thieves who stole car with toddler inside</a>  <div class="sourcename">-Chron </div>
+				</div>
+				<div class="urlarticlechild">
+ST. PETERSBURG, Fla. (AP) — Authorities say it took about 45 seconds for thieves to pull up to a St. Petersburg home and steal a Lexus SUV with a 1-year-old child inside. Cameron M..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14917231"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14864827" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/10/1486779101726.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14864827">Claws Out! Savannah Guthrie Pens Book Amid ‘Today’ Chaos</a>  <div class="sourcename">-Radar Online </div>
+				</div>
+				<div class="urlarticlechild">
+Savannah Guthrie is already preparing for life after TODAY, RadarOnline.com can exclusively reveal! The anchor, 45, revealed that her children’s book, Princess Wear Pants, is avail..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14864827"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14902912" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/15/1487139298282.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14902912">Mick Foley agrees with two big criticisms of Monday Night RAW | GiveMeSport</a>  <div class="sourcename">-GiveMeSport </div>
+				</div>
+				<div class="urlarticlechild">
+Ever since the WWE Draft last year, Smackdown has had new life breathed into it as it has began broadcasting live. While it's switch to live programming has given it's ratings a bi..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14902912"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14905017" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/15/1487169787488.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14905017">'Grand Theft Auto 5' Online Update: Rockstar Games Releases New Maps, Double XP, Sales For 'GTA 5' On Xbox One..</a>  <div class="sourcename">-ENSTARZ </div>
+				</div>
+				<div class="urlarticlechild">
+Rockstar Games celebrated Valentine's Week through delivering special updates for "Grand Theft Auto 5" Online for Xbox One and PlayStation 4. The players of the action-adventure vi..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14905017"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14889103" >
+
+
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14889103">NBA commissioner Silver comments on Oakley, MSG situation - NBA.com</a>  <div class="sourcename">-NBA.com </div>
+				</div>
+				<div class="urlarticlechild">
+NEW YORK --&nbsp;NBA Commissioner Adam Silver issued the following statement today regarding the situation involving Charles Oakley and Madison Square Garden: “It is beyond dishear..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14889103"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14860635" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/10/1486752146679.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14860635">Rumor: Apple may add wireless charging to iPhone 8, but top-end model could cost $1,000</a>  <div class="sourcename">-ExtremeTech </div>
+				</div>
+				<div class="urlarticlechild">
+There are rumors swirling around the iPhone 8 suggesting Apple could be planning to offer a major technology leap forward with its 10th Anniversary iPhone, but the highest-end devi..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14860635"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14909411" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/15/1487192516479.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14909411">Godfather of X-Games: Evel Knievel items hit the auction block</a>  <div class="sourcename">-Auto Week </div>
+				</div>
+				<div class="urlarticlechild">
+Evel Knievel defined the term “larger than life.” The godfather of everything X-Games, Knievel had the swagger of a superstar athlete and a spirit of showmanship that would make th..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14909411"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14912994" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/15/1487211427514.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14912994">In new book, Vermont woman shares how the arts can help abuse victims - CSMonitor.com</a>  <div class="sourcename">-The CS Monitor </div>
+				</div>
+				<div class="urlarticlechild">
+Chelsea, Vt.—In 1995, Tracy Penfield began volunteering at SafeLine, a domestic and --- violence crisis hotline&nbsp;based in Chelsea, Vt. A decade earlier, Penfield had left a ..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14912994"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14885491" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/13/1487020679413.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14885491">Forget Our Image At the Grammys; What If We Show Up For the Image Awards?</a>  <div class="sourcename">-MadameNoire </div>
+				</div>
+				<div class="urlarticlechild">
+Beyoncé won an award for Best Urban Contemporary Album at this year’s Grammy ceremony and this is what she had to say (as transcribed by Time Magazine): “Thank you to the Grammy vo..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14885491"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14864725" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/10/1486778752834.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14864725">Apple Loop: iPhone 8 Launch Date, Windows 10 Beats MacBook Pro, New Leak Threatens Expensive iPhone</a>  <div class="sourcename">-Forbes </div>
+				</div>
+				<div class="urlarticlechild">
+Taking a look back at another week of news from Cupertino, this week’s Apple Loop includes thoughts on the iPhone 8 release date and its expensive price, going 4G LTE with the MacB..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14864725"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14858170" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/10/1486738601306.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14858170">Saturday Night Live: Donald Trump Presidency Makes Show Vital | Time.com</a>  <div class="sourcename">-TIME </div>
+				</div>
+				<div class="urlarticlechild">
+In just a few short weeks, Saturday Night Live has become perhaps the single most vital show on TV. After a rocky start to its 42nd season, every new episode feels like an urgent m..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14858170"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14859012" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/10/1486747218156.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14859012">The New iPhone 8 Might Cost $1,000, Include Eye-Scanning Technology: New Details From Latest Reports</a>  <div class="sourcename">-Us Weekly </div>
+				</div>
+				<div class="urlarticlechild">
+The future is now. The 10th anniversary iPhone 8 might cost upwards of $1,000 and include eye-scanning technology, according to reports released on Friday, February 10. According t..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14859012"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14860027" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/10/1486750299867.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14860027">‘Saturday Night Live’ Launches First-Ever Snapchat Show</a>  <div class="sourcename">-The Wrap </div>
+				</div>
+				<div class="urlarticlechild">
+“Saturday Night Live” has launched its first-ever Snapchat show, “SNL Stories: Boycott.” Written by the NBC sketch comedy staple’s&nbsp;co-head writers Chris Kelly and Sarah Schnei..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14860027"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14899466" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/14/1487117138758.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14899466">7-year-old collects over 7,000 kid-food items for community pantry - ABC News</a>  <div class="sourcename">-ABC News </div>
+				</div>
+				<div class="urlarticlechild">
+Kaden Newton's great, big idea came after he donated items to a community food bank and realized the pantry didn't have any of his favorite foods. This went on for several years: K..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14899466"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14883863" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/13/1487011489390.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14883863">Life in the Fast Ring: A survival guide for the Windows 10 Insider Program</a>  <div class="sourcename">-ZDNet </div>
+				</div>
+				<div class="urlarticlechild">
+Perhaps the most significant change in the Windows 10 era is the emergence of a development process that actively encourages early adopters to get involved well before the official..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14883863"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14881444" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/13/1486997453272.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14881444">Apple’s future depends on a $1,000 iPhone 8+ smartphone</a>  <div class="sourcename">-ComputerWorld </div>
+				</div>
+				<div class="urlarticlechild">
+Appleholic, (noun), æp·əl-hɑl·ɪk: An imaginative person who thinks about what Apple is doing, why and where it is going. Delivering popular Apple-related news, advice and entertain..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14881444"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14896507" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/14/1487102578212.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14896507">House gets serious about driverless cars</a>  <div class="sourcename">-The Hill </div>
+				</div>
+				<div class="urlarticlechild">
+Congress is weighing legislative steps that could help speed up the development and deployment of self-driving cars. Automakers pleaded with lawmakers at a House Energy and Commerc..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14896507"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14909669" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/15/1487194028573.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14909669">Museums Share Their Creepiest Possessions In Twitter Challenge</a>  <div class="sourcename">-The Huffington Post </div>
+				</div>
+				<div class="urlarticlechild">
+”Museum 101” was named after a place called “Room 101” that’s featured in George Orwell’s book 1984, according to website Culture Themes, which put on the event. That space stores ..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14909669"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14899353" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/14/1487116673868.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14899353">Xbox Live Games With Gold February 2017 Update: Grab The First Set Of Free Games While It’s Still Out : Trendi..</a>  <div class="sourcename">-ENSTARZ </div>
+				</div>
+				<div class="urlarticlechild">
+The first half of the month is almost over. And for the loyal subscribers of Microsoft's Xbox Live Games With Gold program, it means that this is everyone's last chance to grab the..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14899353"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14859362" >
+
+
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14859362">‘Saturday Night Live’ Launches Its First Snapchat Show, ‘Boycott’ | Deadline</a>  <div class="sourcename">-Deadline </div>
+				</div>
+				<div class="urlarticlechild">
+Written by SNL co-head writers Chris Kelly and Sarah Schneider, and SNL cast member Aidy Bryant, and directed by Paul Briganti, the video short features Bryant, and fellow cast mem..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14859362"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14875308" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/12/1486930245717.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14875308">‘Saturday Night Live’ ratings huge for Alec Baldwin – Ed Sheeran show</a>  <div class="sourcename">-CarterMatt.com </div>
+				</div>
+				<div class="urlarticlechild">
+How do you guarantee that “Saturday Night Live” gets great ratings? It’s simple: By promising beforehand that Alec Baldwin will be on the show. Last week’s new episode, which featu..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14875308"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14909803" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/15/1487194645120.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14909803">Pioneer’s Rayz Plus Lightning earbuds let you juice up your iPhone while listening</a>  <div class="sourcename">-Digital Trends </div>
+				</div>
+				<div class="urlarticlechild">
+When Apple released the iPhone 7 without a headphone jack, it was the end of an era. Like it or not, it’s doubtful the company will re-introduce the headphone jack in the future. H..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14909803"> More </a> </div>
+
+	    </div>
+	       
+</div>
+
+
+
+ </div> <!--content -->
+
+
+<script type="text/javascript">
+function CommaSeperatedCount(x) {
+    return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+}
+  
+ $(document).ready(function () {
+
+
+    var loadurl = "http://www.givemesport.com/986211-heath-slater-and-the-ascension-robbed-at-smackdown-live-house-show" ;
+
+
+  $.getJSON('http://cdn.api.twitter.com/1/urls/count.json?url=' + loadurl  + '&callback=?', function (twitdata) {
+    }).done(function(twitdata){
+        if(typeof(twitdata.count) != "undefined")
+        {
+          twitcount = CommaSeperatedCount(twitdata.count);
+          //$('#total-shares').attr('data-facebookShares', fbdata.shares)
+ 
+          $(".twittercc").html(twitcount);
+           // this.find(".twittercc").html(twitcount);
+         }else{
+//                     this.find(".twittercc").html("0");
+          $(".twittercc").html("0");
+         }
+
+    });
+
+         $.getJSON( 'http://www.linkedin.com/countserv/count/share?url=' + loadurl + '&callback=?', function( linkdindata ) {
+      }).done(function(linkdindata){
+ if(typeof(linkdindata.count) != "undefined")
+        {
+          linkedincount = CommaSeperatedCount(linkdindata.count);
+          //$('#total-shares').attr('data-facebookShares', fbdata.shares)
+ 
+           $(".linkedincc").html(linkedincount);
+         }else{
+           $(".linkedincc").html("0");
+
+         }
+    });
+
+
+  $.getJSON('http://graph.facebook.com/?id=' + loadurl, function (fbdata) {
+    }).done(function(fbdata){
+         if(typeof(fbdata.shares) != "undefined")
+        {
+          fbcount = CommaSeperatedCount(fbdata.shares);
+          //$('#total-shares').attr('data-facebookShares', fbdata.shares)
+           $(".facebookcc").html(fbcount);
+         }else{
+
+  $(".facebookcc").html("0");
+         }
+
+    });
+
+ 
+});
+
+</script>
+
+ </div>
+    
+
+
+<footer>
+<div class="foot">  
+ <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css" />
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+<script type="text/javascript">
+           $(document).ready(function() {
+    $(function() {
+        $(".textar").autocomplete({
+            source: function(request, response) {
+                $.ajax({
+                    url: "suggester",
+                    type: "POST",
+                    data: { term: request.term },
+
+                    dataType: "json",
+
+                    success: function(data) {
+                        response(data);
+                    }
+               });              
+            }   
+        });
+    });
+});
+
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-55076069-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+     Ooyuz :
+<a href="privacy-policy">Privacy Policy </a> 
+<a href="terms-and-conditions">Terms & Conditions</a>
+<a href="static/Themes/jsps/about-ooyuz.html">About</a>
+<a href="static/Themes/jsps/contact2.html">Contact</a>
+
+
+
+
+</div>
+<!--
+<div class="foot">
+    Learn More :
+<a href="http://tech.ooyuz.com/articles-by-publisher/">Publisher Analysis</a> 
+<a href="http://tech.ooyuz.com/timeline-analysis-for-an-article/">Timeline Analysis</a>
+<a href="http://tech.ooyuz.com/social-media-analysis-of-news-articles/">Social Media Analysis</a>
+<a href="http://tech.ooyuz.com/effective-news-reading-with-ooyuz-clustering-algorithm/">Cluster Analysis</a>
+
+</div>
+   --> 
+<div class="foot">
+    Copyright @ ooyuz.com 
+
+</div>
+
+</footer>
+       
+       <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css" />
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+
+<script type="text/javascript">
+           $(document).ready(function() {
+    $(function() {
+        $(".textar").autocomplete({
+            source: function(request, response) {
+                $.ajax({
+                    url: "suggester",
+                    type: "POST",
+                    data: { term: request.term },
+
+                    dataType: "json",
+
+                    success: function(data) {
+                        response(data);
+                    }
+               });              
+            }   
+        });
+    });
+});
+
+</script> 
+       </div>
+</body>
+</html>
