@@ -1,0 +1,254 @@
+
+     * [1]Professors
+     * [2]Schools
+     * [3]Rate
+     * [4]Blog
+     * [5]My Profs
+
+     [6]log In
+
+
+     *
+     *
+     *
+     *
+     *
+
+   ____________________
+   Professors
+
+   [7]View All Professors
+   Schools
+
+   [8]View All Schools
+   Sorry No Results Found
+   ____________________
+   Follow us
+     * facebook
+     * twitter
+     * tumblr
+     * pinterest
+     * instagram
+
+   Professors
+
+   [9]View All Professors
+   Schools
+
+   [10]View All Schools
+   Sorry No Results Found
+     *
+     *
+     *
+     *
+     *
+
+   [11]Log In Log In / Sign Up
+   Find a Professor
+   Find a Professor
+   SEARCH BY [12]Name [13]School
+   I'm looking for a professor at
+   ____________________
+
+   named
+   ____________________
+
+   This field is required.
+   Search cancel
+   I'm looking for professors at
+   ____________________
+
+   This field is required.
+   in the
+   [select]
+   department.
+   Search cancel
+   Find a School
+   Find a School
+   Find your school
+   SEARCH BY [14]Name [15]Location
+   ____________________
+
+   This field is required.
+   Looking for a professor by school/department? [16]Click here.
+   Search
+   CANCEL
+   Looking for a professor by school/department? [17]Click here.
+   I'm looking for a school in
+   [select state__]
+   This field is required.
+   Looking for a professor by school/department? [18]Click here.
+   Search CANCEL
+   Rate a
+   Rate a
+   [19]Professor [20]School
+   I want to rate
+   ____________________ This field is required.
+
+   Search
+   cancel
+   I want to rate
+   ____________________ This field is required.
+
+   Search
+   cancel
+   Rate My Professors Blog
+   ×
+   [All Categories]
+
+   LOAD MORE
+   ×
+   Saved Professors
+     __________________________________________________________________
+
+   [21]Load More
+     * [22]Profs
+     * [23]School
+     * [24]Rate
+     * [25]Blog
+     * Click here to see all your saved professors.
+       Saved
+
+   Page Not Found
+
+   The professor or school you were looking for could not be found. You
+   can try searching instead.
+     * [26]about
+     * [27]blog
+     * [28]Help
+     * [29]Contact Us
+     * [30]Ad Choices
+     * [31]Terms & Conditions Last Modified (2/9/2016)
+     * [32]Privacy Policy/Your CA Privacy Rights Last Modified (2/9/2016)
+     * [33]Copyright Compliance Policy
+     * ©2017 RateMyProfessors.com LLC. All Rights Reserved. Powered by
+       [34]mtvU. mtvU is a trademark of Viacom International Inc.
+
+   Note Submitted
+
+   Thank you for submitting your note.
+   [35]Close ×
+
+   We see that you’re using AdBlock.
+
+   Ads can be annoying, but they allow us to provide you this resource for
+   free. If you use an ad blocker, we're not getting that revenue that
+   helps keep RateMyProfessors.com up and running.
+
+   Please whitelist us. Thanks!
+   ×
+
+   Choosing the right professor isn't easy!
+
+   Help guide your fellow classmates by giving them the inside scoop!
+   They'll do the same for you. Hope you had a good semester.
+   We're all counting on you.
+   Remind Me Later
+   [36]Rate Now ×
+
+   Your Note Has Been Deleted
+   [37]Close
+   Delete Note?
+   Are you sure you want to delete this note? Once deleted, we can't bring
+   it back.
+   [38]Yes [39]No
+   ×
+
+     * [40]about /
+     * [41]blog /
+     * [42]Help /
+     * [43]Contact Us /
+     * [44]Ad Choices /
+     * [45]Terms & Conditions Last Modified (9/30/2016) /
+     * [46]Privacy Policy/Your ca privacy rights Last Modified (9/30/2016)
+       /
+     * [47]Copyright Compliance Policy
+
+   ©2017 RateMyProfessors.com LLC. All Rights Reserved. Powered by
+   [48]mtvU. mtvU is a trademark of Viacom International Inc.
+
+   ◀ ×
+   []
+
+Wild 'N Out Returns
+
+   Wednesday Jan 7 @ 11pm only on MTV2!
+   0 get more info about the premiere
+
+   [mobileAppPromo.png]
+
+References
+
+   Visible links
+   1. http://www.ratemyprofessors.com/mobile/professor_search
+   2. http://www.ratemyprofessors.com/mobile/school_search
+   3. http://www.ratemyprofessors.com/mobile/rate_search
+   4. http://www.ratemyprofessors.com/mobile/blog
+   5. http://www.ratemyprofessors.com/mobile/myprofs
+   6. http://www.ratemyprofessors.com/member
+   7. http://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&query={{requestparam}}
+   8. http://www.ratemyprofessors.com/search.jsp?queryBy=schoolName&query={{requestparam}}
+   9. http://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&query={{requestparam}}
+  10. http://www.ratemyprofessors.com/search.jsp?queryBy=schoolName&query={{requestparam}}
+  11. http://www.ratemyprofessors.com/member
+  12. javascript:void(0)
+  13. javascript:void(0)
+  14. javascript:void(0)
+  15. javascript:void(0)
+  16. http://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&queryoption=HEADER&query=*&facetSearch=true
+  17. http://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&queryoption=HEADER&query=*&facetSearch=true
+  18. http://www.ratemyprofessors.com/mobile/professor_search
+  19. javascript:void(0)
+  20. javascript:void(0)
+  21. http://www.ratemyprofessors.com/invalid.jsp
+  22. http://www.ratemyprofessors.com/invalid.jsp
+  23. http://www.ratemyprofessors.com/invalid.jsp
+  24. http://www.ratemyprofessors.com/invalid.jsp
+  25. http://www.ratemyprofessors.com/invalid.jsp
+  26. http://www.ratemyprofessors.com/About.jsp
+  27. http://www.ratemyprofessors.com/invalid.jsp
+  28. http://www.ratemyprofessors.com/help.jsp
+  29. http://www.ratemyprofessors.com/utility/contact
+  30. http://srp.viacom.com/sitefaq.html
+  31. http://www.ratemyprofessors.com/TermsOfUse_us.jsp#use
+  32. http://www.ratemyprofessors.com/TermsOfUse_us.jsp#privacy
+  33. http://www.ratemyprofessors.com/TermsOfUse_us.jsp#copyright
+  34. http://mtvu.com/
+  35. javascript:void(0)
+  36. http://www.ratemyprofessors.com/rateprof
+  37. javascript:void(0)
+  38. javascript:void(0)
+  39. javascript:void(0)
+  40. http://www.ratemyprofessors.com/About.jsp
+  41. http://www.ratemyprofessors.com/invalid.jsp
+  42. http://www.ratemyprofessors.com/help.jsp
+  43. http://www.ratemyprofessors.com/utility/contact
+  44. http://srp.viacom.com/sitefaq.html
+  45. http://www.ratemyprofessors.com/TermsOfUse_us.jsp#use
+  46. http://www.ratemyprofessors.com/TermsOfUse_us.jsp#privacy
+  47. http://www.ratemyprofessors.com/TermsOfUse_us.jsp#copyright
+  48. http://mtvu.com/
+
+   Hidden links:
+  50. https://www.facebook.com/RateMyProfessor
+  51. https://twitter.com/ratemyprofessor
+  52. http://ratemyprofessors.tumblr.com/
+  53. http://www.pinterest.com/ratemyprofessor/
+  54. http://instagram.com/ratemyprofessors
+  55. http://www.ratemyprofessors.com/invalid.jsp
+  56. http://www.ratemyprofessors.com/
+  57. http://www.ratemyprofessors.com/invalid.jsp
+  58. http://www.ratemyprofessors.com/
+  59. https://www.facebook.com/RateMyProfessor
+  60. https://twitter.com/ratemyprofessor
+  61. http://ratemyprofessors.tumblr.com/
+  62. http://www.pinterest.com/ratemyprofessor/
+  63. http://instagram.com/ratemyprofessors
+  64. https://www.facebook.com/RateMyProfessor
+  65. https://twitter.com/ratemyprofessor
+  66. http://ratemyprofessors.tumblr.com/
+  67. http://www.pinterest.com/ratemyprofessor/
+  68. http://instagram.com/ratemyprofessors
+  69. http://www.ratemyprofessors.com/invalid.jsp
+  70. http://www.ratemyprofessors.com/invalid.jsp
+  71. https://appsto.re/us/9UHLu.i

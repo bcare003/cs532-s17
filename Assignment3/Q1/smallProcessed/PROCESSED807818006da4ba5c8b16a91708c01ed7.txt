@@ -1,0 +1,134 @@
+   #[1]New iPhone Leak Suggests Surprising Technology - RSS
+
+
+
+   Tech #​{{::display_hashtag}}
+   Tech #​{{::display_hashtag}} {{article.article.pretty_date}}
+   {{article.metrics.page_views}} views
+   Edit Post
+   {{circ_link.title}}
+
+New iPhone Leak Suggests Surprising Technology
+
+   {{article.article.images.featured.description}}
+   {{article.article.images.featured.caption}}
+   [2]Most Read
+   {{contrib_block.display_advoice_brand}}
+   {{contrib_block.display_voice_type}}
+
+   {{contrib_block.display_author.name}}Voice Ewan Spence ,
+
+   {{contrib_block.display_author.type}} Contributor
+   {{contrib_block.display_author.type}}
+
+   Contributor
+
+   Opinions expressed by Forbes Contributors are their own.
+     * Full Bio
+     * Recent Posts
+     * Popular Posts
+
+   Full profile →'">
+
+   The author is a Forbes contributor. The opinions expressed are those of
+   the writer.
+   Loading ...
+   Loading ...
+   This story appears in the {{article.article.magazine.pretty_date}}
+   issue of {{article.article.magazine.pubName}}. Subscribe
+
+   Apple is working with Japan Display on flexible screens that would be
+   suitable for the iPhone ([3]reports the Wall Street Journal).
+   Consisting of a flexible LCD panel protected by plastic, the screen
+   technology can bend and flex and would make a signification
+   contribution to a smartphone designed with these features in mind.
+
+   Curved screens may be new to the iPhone, but they are not new to the
+   smartphone ecosystem. Numerous manufacturers have worked with curving
+   the display, most notably Samsung. Apple's chief rival has built up a
+   strong reputation and visual identity by curving the sides of the
+   Galaxy Note and Galaxy Edge designs. If Apple is looking for an
+   advantage, Japan Display's flexible LCD screen technology fits the
+   bill.
+   Apple's iPhone 7 and iPhone 7 Plus (image: Apple PR)
+
+   Apple's iPhone 7 and iPhone 7 Plus (image: Apple PR)
+
+   Japan Display's technology is notable for a number of reasons. The
+   first is that it uses LCD. Apple's iPhone is a rarity in high-end
+   smartphone circles for continuing to use LCD screens, and it has pushed
+   the visual technology in LCD screens further than most manufacturers -
+   the screens on the iPhone 7 and iPhone 7 Plus are testament to that.
+
+   Secondly, it is not going to go into mass production until 2018 at the
+   earliest. That means the iPhone 8 will not benefit from the technology
+   - but given the rumors indicate the iPhone 8 will be Apple's first
+   smartphone to use OLED technology that's not a surprise. Given that
+   curved screen is going to be behind glass, it's clear that Apple is
+   doing some long-term planning either for new form factors on the
+   high-end handsets and a return to the LCD technology it has perfected,
+   or a potential follow-up to the lower-priced iPhone SE in 2018 with a
+   plastic-based LCD assembly.
+
+   Perhaps most importantly, it means that Apple would not be reliant on
+   working with Samsung Displays for a key component of its smartphone and
+   potentially second in line to any new research and technology. If you
+   don't want to go full-on Sun Tzu avoid giving resources and position to
+   your enemy, it would allow Tim Cook and his negotiation team to have
+   two suppliers for a single component and the resulting financial
+   benefits of competition in the supply chain.
+   Apple's iPhone on display (image: Getty.com)
+
+   Apple's iPhone on display (image: Getty.com)
+
+   A bendable or foldable iPhone may not be Apple's endgame here. If this
+   technology is used inside upcoming iPhones then the flex and movement
+   offered by the panel would see reduced forces caused by impact damage.
+   Measured over tens of millions of iPhone devices sold, that could
+   reduce the cost of warranty repairs and the incidences of
+   out-of-warranty repairs required by customers. It could offer new
+   design choices for the Apple Watch to allow a more form-fitting screen
+   to be used in the wearable. Or it could be for a mythical VR headset to
+   allow for better wraparound screen in a user's field of vision.
+
+   We may not know exactly what Tim Cook has planned for this technology,
+   but there are a number of ways that it will be of benefit to Apple.
+
+   [4]Now read about the mysterious iPhone X...
+
+   Follow me on [5]Facebook. Find more of my work at [6]ewanspence.co.uk,
+   on [7]Twitter, and [8]Linked In. You should [9]subscribe
+   to my weekly newsletter of 'Trivial Posts'.
+   Start Gallery
+   Page {{article.article.page + 1}} / {{article.article.pages.length}}
+   Continue
+   {{article.article.calledOutCommentCount||''}}
+   Comment on this story
+     * Print
+     * Report Corrections
+     * [10]Reprints & Permissions
+
+Trending on Forbes {{channel_name}}
+
+   false
+
+References
+
+   Visible links
+   1. http://www.forbes.com/sites/ewanspence/feed/
+   2. https://www.forbes.com/most-popular/
+   3. http://www.wsj.com/articles/japan-display-joins-flexible-screen-battle-with-bendier-lcd-1485333870
+   4. http://www.forbes.com/sites/ewanspence/2017/01/19/apple-iphone-x-leak-rumor/
+   5. https://www.facebook.com/Ewan-Spence-231430670576264/
+   6. http://www.ewanspence.co.uk/blog
+   7. http://www.twitter.com/ewan
+   8. http://uk.linkedin.com/in/ewanspence/
+   9. http://www.ewanspence.co.uk/blog/about-trivial-posts/
+  10. http://forbesreprints.magreprints.com/
+
+   Hidden links:
+  12. http://www.forbes.com/
+  13. http://www.forbes.com/women-at-forbes
+  14. https://www.forbes.com/forbes-on-trump/
+  15. http://www.forbes.com/editors-picks/
+  16. https://www.forbes.com/forbes-on-trump/

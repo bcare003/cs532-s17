@@ -1,0 +1,38 @@
+                  MadSci Server Error: File Not Found (404)
+
+   The file you requested (/posts/archives/1998-02/887302435.Zo.r.html%0D)
+   cannot be located.
+
+   Please notify [1]webadmin@madsci.org, or the site linking to ours, of
+   the error.
+
+   If you followed an outside link to get here, try the [2]MadSci Search
+   Engine. We archive recent files to a new location after one week. The
+   search engine should help you locate the information you seek.
+
+   Bon Appetit..
+
+   - Cathode Man Ray
+     __________________________________________________________________
+
+   [3]Home Page | [4]Info Desk | [5]Ask A ? | [6]MadSci Archives | [7]MAD
+                           Labs | [8]MAD Library |
+     __________________________________________________________________
+
+
+    [9]MadSci Network © 1995-2006. All rights reserved.
+    [10]webadmin@madsci.org
+    The last modification was the best modification.
+
+References
+
+   1. maito:www@www.madsci.org
+   2. http://www.madsci.org/MS_search.html
+   3. http://www.madsci.org/
+   4. http://www.madsci.org/info.html
+   5. http://www.madsci.org/submit.html
+   6. http://www.madsci.org/circumnav/
+   7. http://www.madsci.org/labs/MAD_labs.html
+   8. http://www.madsci.org/libs/libs.html
+   9. http://www.madsci.org/
+  10. mailto:www@madsci.org

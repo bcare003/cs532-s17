@@ -1,0 +1,188 @@
+   #[1]publisher [2]Medium [3]alternate
+
+   [4]Several People Are Typing — The Official Slack Blog
+   [5]Sign in / Sign up
+     * [6]Home
+     * [7]Company
+     * [8]Product
+     * [9]Stories
+     * [10]Slack.com
+     *
+
+   [11]Go to the profile of Slack
+   [12]Slack (BUTTON) BlockedUnblock (BUTTON) FollowFollowing
+   Making your working life simpler, more pleasant, and more productive •
+   https://slack.com
+   Feb 23
+     __________________________________________________________________
+
+Historian Abby Smith Rumsey on how digital memory shapes the future
+
+As electronic records replace physical ones, how do we make sure we don’t
+overwrite our history?
+
+   [1*2b31RGvPeLZoQ_AIztZgow.jpeg]
+
+   Historian and archivist Abby Smith Rumsey has long been fascinated by
+   the way information technology shapes our collective memory and
+   perceptions of history. Trained as a Russian scholar, she’s worked in
+   Soviet-era archives and spent a decade at the Library of Congress.
+
+   In her new book, When We Are No More: How Digital Memory is Shaping Our
+   Future, Rumsey explains that the Internet is not a stable archive like
+   a library. Rather, it is a bulletin board, constantly being rewritten
+   without a record. This can have far-reaching implications when so much
+   progress humans make relies on what we remember and have recorded from
+   previous eras. What happens to human progress as our methods of
+   record-keeping become ever more vulnerable?
+
+   In an interview with Slack, Rumsey explains why sorting and organizing
+   data, not simply storing it, should guide our digital practices, and
+   how digital record-keeping is essential to the health and progress of
+   humanity.
+
+   Slack: You note that in the past, when humans wanted to preserve
+   culture for future generations, we invented tools, such as the printing
+   press, or storage, such as libraries. Why hasn’t our ability to
+   preserve digital data caught up with our ability to produce it?
+   [1*nGHzzkyCTNo9SE2pPiIFfA.jpeg]
+   Abby Smith Rumsey
+
+   Rumsey: We generate almost unimaginable volumes of digital data,
+   between the exabytes of data streaming down from deep space probes,
+   weather satellites (and who knows how much from spy satellites), to the
+   mapping of the human genome. Science is data-intensive. But so are
+   preteens with smartphones who send tens of thousands of messages and
+   photos — some they create, others they resend. A gigabyte here, and
+   zettabyte there, pretty soon you’re talking real scale.
+
+   But volume is only a problem if you want to keep more data than you
+   have storage for. The default mode of good memory is not “everything.”
+   It is “everything we will need and want to know in the future.” We
+   haven’t saved every single TV news broadcast, every radio program,
+   every photograph ever taken, every office memo or scrap of paper with a
+   grocery list on it. Not being able to throw away ephemera is diagnosed
+   as an illness!
+
+   The problem today is that digital is new. We’re just beginning to
+   understand what may have long-term value and what won’t. That’s
+   natural, if regrettable. Eighty percent of all silent films are lost
+   because people thought they were just ephemeral commercial products
+   with no intrinsic cultural or informational value.
+
+     We need more storage, yes, but more important is developing better
+     ways to organize and search what we have and letting redundant
+     texts, emails, photos go.
+
+   Slack: You laud the partnership in which Twitter donates its archive to
+   the Library of Congress for preservation. What other types of
+   partnerships for maintaining digital data do you envision for the
+   future?
+
+   Rumsey: It is sobering to think about how dependent the average
+   Internet user is on “free” platforms for mail, messaging,
+   instagramming, snapchatting, tweeting, photo sharing, uploading videos,
+   downloading shared work files. These platforms are all privately owned.
+   That means the companies have ultimate control over the long-term fate
+   of all those data — our personal data, in many cases.
+
+   Future access to our own history depends on actions taken today to
+   preserve and maintain information. That requires organizations that are
+   accountable to the public and that last for centuries. Think archives,
+   not MySpace, wherever that is today. The commercial satellites our
+   government relies on for GPS, the creative content companies who
+   license — not sell — music to us, the sites that publish e-only
+   content — all should partner with an archive to ensure long-term access
+   to valuable cultural, scientific, and government data after the
+   companies go out of business or discard data that no longer turns a
+   profit for them.
+
+   Slack: If we lose the ability to access memories made in the digital
+   era, how might this impact human progress in the future?
+
+   Rumsey: Memory is the way the brain accumulates knowledge of the world
+   and of ourselves. All creatures, from amoeba to zebra, rely on the
+   working model of the world stored in their memory banks. Wipe those
+   memories out, induce amnesia in us, and we won’t remember who we are,
+   where we are, what just happened.
+
+   Humans have created a uniquely powerful supplement to natural
+   memory — the ability to record knowledge on durable physical objects
+   and use in the future, be it a clay tablet or a printed page. Wipe out
+   the digital data that encodes the locations of toxic waste, the
+   contents of IRS records, or the service records of veterans, we would
+   find navigating the present so fraught with distress and danger that
+   investment in the future would be a luxury we couldn’t afford, the
+   notion of progress a cruel joke.
+     __________________________________________________________________
+
+   [1*mGgKBOVJbrC7I2XgLO7lGA.png]
+   Brittany Shoot is constantly trying to emulate her educator
+   grandparents and librarian in-laws. Ask her about books, blouses, and
+   handwritten correspondence.
+     * [13]History
+     * [14]Archive
+     * [15]Collective Intelligence
+     * [16]The Stories
+
+   (BUTTON) (BUTTON) 14
+   (BUTTON) (BUTTON) 1
+   (BUTTON) (BUTTON)
+
+     (BUTTON) BlockedUnblock (BUTTON) FollowFollowing
+   [17]Go to the profile of Slack
+
+[18]Slack
+
+   Making your working life simpler, more pleasant, and more productive •
+   [19]https://slack.com
+
+     (BUTTON) Follow
+   [20]Several People Are Typing — The Official Slack Blog
+
+[21]Several People Are Typing — The Official Slack Blog
+
+   Updates from Slack
+     * Share
+     * (BUTTON) (BUTTON) 14
+     * (BUTTON)
+     * (BUTTON)
+
+   [22]Several People Are Typing — The Official Slack Blog
+   Never miss a story from Several People Are Typing — The Official Slack
+   Blog, when you sign up for Medium. [23]Learn more
+   Never miss a story from Several People Are Typing — The Official Slack
+   Blog
+   (BUTTON) Get updatesGet updates
+
+References
+
+   Visible links
+   1. https://plus.google.com/103654360130207659246
+   2. https://slackhq.com/osd.xml
+   3. android-app://com.medium.reader/https/medium.com/p/d7d4b07feb1e
+   4. https://slackhq.com/?source=logo-lo_a03649df41f---676872f53db6
+   5. https://medium.com/m/signin?redirect=https://slackhq.com/historian-abby-smith-rumsey-on-how-digital-memory-shapes-the-future-d7d4b07feb1e
+   6. https://slackhq.com/
+   7. https://slackhq.com/tagged/the-company
+   8. https://slackhq.com/tagged/the-product
+   9. https://slackhq.com/tagged/the-stories
+  10. http://www.slack.com/
+  11. https://slackhq.com/@slackhq?source=post_header_lockup
+  12. https://slackhq.com/@slackhq?source=post_header_lockup
+  13. https://slackhq.com/tagged/history?source=post
+  14. https://slackhq.com/tagged/archive?source=post
+  15. https://slackhq.com/tagged/collective-intelligence?source=post
+  16. https://slackhq.com/tagged/the-stories?source=post
+  17. https://slackhq.com/@slackhq?source=footer_card
+  18. https://slackhq.com/@slackhq
+  19. https://slack.com/
+  20. https://slackhq.com/?source=footer_card
+  21. https://slackhq.com/?source=footer_card
+  22. https://slackhq.com/
+  23. https://medium.com/@Medium/personalize-your-medium-experience-with-users-publications-tags-26a41ab1ee0c#.hx4zuv3mg
+
+   Hidden links:
+  25. https://twitter.com/slackhq
+  26. https://facebook.com/slackhq
+  27. https://slackhq.com/search
