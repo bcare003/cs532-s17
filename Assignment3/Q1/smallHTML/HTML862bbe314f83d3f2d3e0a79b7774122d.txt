@@ -1,0 +1,1905 @@
+<!DOCTYPE html><script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="https://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=0bb0301f5c6fe836d77fa4cf6a4effb6"></script><!DOCTYPE html>
+<html class="no-js" lang="ja">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Coffeeholic - Comparision: Drip Coffee vs Pump Espresso -...</title>
+    <meta name="author" content="Coffeeholic">
+    
+    <meta name="description" content="Comparision: Drip Coffee vs Pump Espresso - http://www.coffeeholic.link/drip-coffee-vs-pump-espresso/" />
+    
+
+    <style>figure{margin:0}.tmblr-iframe{position:absolute}.tmblr-iframe.hide{display:none}</style><link rel="shortcut icon" href="https://68.media.tumblr.com/avatar_324590211ad1_128.png">
+    <link rel="apple-touch-icon" href="https://68.media.tumblr.com/avatar_324590211ad1_128.png">
+    <link rel="alternate" type="application/rss+xml" href="https://coffeeholic-blog.tumblr.com/rss">
+
+    <!-- Main Style Settings -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <script src="https://secure.static.tumblr.com/e6lc7yi/hRfmidqdw/modernizr.js"></script>
+
+    <!-- Iconfont by http://icomoon.io/app/ and http://www.webhostinghub.com/glyphs/ and http://www.entypo.com/ -->
+    <link rel="stylesheet" href="https://secure.static.tumblr.com/wdg4six/SLGn2kwl9/bakedpixel-icons.css">
+    <link rel="stylesheet" href="https://secure.static.tumblr.com/wdg4six/Y0wn2gegv/rightbox.css">
+
+    <!-- Custom Options -->
+    <!-- Custom Images -->
+    <meta name="image:Logo" content=""/>
+
+    <!-- Custom Colors -->
+	<meta name="color:Background" content="#ffffff"/>
+	<meta name="color:Blog Title" content="#333333"/>
+	<meta name="color:Menu Icon" content="#aaaaaa"/>
+	<meta name="color:Menu Icon Hover" content="#333333"/>
+	<meta name="color:Menu Background" content="#333333"/>
+	<meta name="color:Menu Text" content="#ffffff"/>
+	<meta name="color:Menu Hover Background" content="#5a5a5a"/>
+	<meta name="color:Menu Hover Text" content="#ffffff"/>
+	<meta name="color:Social Icon" content="#b5b5b5"/>
+	<meta name="color:Social Icon Hover" content="#333333"/>
+	<meta name="color:Post Titles" content="#333333"/>
+	<meta name="color:Borders" content="#f1f1f1"/>
+	<meta name="color:Text" content="#333333"/>
+	<meta name="color:Link" content="#999999"/>
+	<meta name="color:Link Hover" content="#333333"/>
+
+    <meta name="text:Google Analytics ID" content="">
+    <meta name="text:Disqus Shortname" content=""/>
+
+    <meta name="text:Menu Top Margin" content="0"/>
+    <meta name="text:URL Twitter" content=""/>
+    <meta name="text:URL Facebook" content=""/>
+    <meta name="text:URL Website" content=""/>
+    <meta name="text:URL Google" content=""/>
+    <meta name="text:URL Email" content=""/>
+    <meta name="text:URL Instagram" content=""/>
+    <meta name="text:URL Flickr" content=""/>
+    <meta name="text:URL Pinterest" content=""/>
+    <meta name="text:URL Youtube" content=""/>
+    <meta name="text:URL Vimeo" content=""/>
+    <meta name="text:URL Dribbble" content=""/>
+    <meta name="text:URL Behance" content=""/>
+    
+    <!-- Custom Font -->
+    <meta name="font:BlogTitleFont" content="Helvetica Neue"/>
+    <meta name="font:BodyFont" content="Helvetica Neue"/>
+
+    <!-- Custom Choices -->
+    <meta name="if:Show Search" content="1"/>
+    <meta name="if:Show Archive Link" content="1"/>
+    <meta name="if:Show Twitter Share Icon" content="1">
+    <meta name="if:Show Facebook Share Icon" content="1">
+    <meta name="if:Show GooglePlus Share Icon" content="0">
+    <meta name="if:Show Pinterest Share Icon" content="0">
+    <meta name="if:Show Meta On Home" content="1">
+    <meta name="if:Show Group Author" content="0">
+
+    <meta name="if:White Icons" content="0"/>
+    <meta name="if:Photos Link To Permalink" content="1">
+
+    <meta name="select:Pagination" content="pagination_infinite-scroll" title="Infinite Scroll">
+    <meta name="select:Pagination" content="pagination_standard" title="Standard">
+    
+    <meta name="select:Menu Type" content="menutype_dropdown" title="Dropdown">
+    <meta name="select:Menu Type" content="menutype_horizontal" title="Horizontal">
+    <meta name="select:Menu Type" content="menutype_vertical" title="Vertical">
+    
+	<!-- Custom CSS -->
+
+	<style type="text/css">
+	/* Reset CSS */
+	html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,hr,a,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strong,sub,sup,tt,var,b,u,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video {
+        margin: 0;
+        padding: 0;
+    }
+    article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
+        display: block;
+    }
+    h1,h2,h3,h4,h5,h6 {
+        font-size: 100%;
+    }
+    table {
+        border-collapse: collapse;
+        border-spacing: 0;
+    }
+    strong,b,mark {
+        font-weight: 700;
+        font-style: inherit;
+    }
+    em,i,cite,q,address,dfn,var {
+        font-style: italic;
+        font-weight: inherit;
+    }
+    abbr[title],dfn[title] {
+        cursor: help;
+        border-bottom: 1px dotted;
+    }
+    ins {
+        border-bottom: 1px solid;
+    }
+    a,u,ins {
+        text-decoration: none;
+    }
+    del,s {
+        text-decoration: line-through;
+    }
+    pre,code,samp,kbd {
+        font-family: monospace;
+    }
+    small {
+        font-size: 0.75em;
+    }
+    img {
+        border: 0;
+        font-style: italic;
+    }
+    input,select,option,optgroup,textarea {
+        font: inherit;
+    }
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    article,aside,details,figcaption,figure,footer,header,hgroup,nav,section {
+        display: block;
+    }
+    audio[controls],canvas,video {
+        display: inline-block;
+        *display: inline;
+        *zoom: 1;
+    }
+    .clearfix:after {
+        content: ".";
+        display: block;
+        clear: both;
+        visibility: hidden;
+        line-height: 0;
+        height: 0;
+    }
+ 
+    html[xmlns] .clearfix {
+        display: block;
+    }
+
+    * html .clearfix {
+        height: 0;
+    }
+    
+    /* Basic Style */     
+    html {
+        font-size: 100%;
+        overflow-y: scroll;
+        -webkit-overflow-scrolling: touch;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+    }
+    body {
+        margin: 0;
+        text-rendering: optimizeLegibility;
+    }
+    img {
+        border: 0;
+        -ms-interpolation-mode: bicubic;
+        display: block;
+        max-width: 100%;
+        height: auto;
+    }
+    object,
+    embed {
+        max-width: 100%;
+    }
+    * {
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+    .photoset-cell {
+        outline: 0;
+    }
+    html {
+        overflow-x: hidden;
+    }
+    body {
+        margin: 0 auto;
+        background: #ffffff;
+        font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+        font-size: 13px;
+        line-height: 21px;
+        font-weight: 400;
+        color: #333333;
+    }
+    @media only screen and (max-width: 768px) {
+        body {
+            width: 100%;
+        }
+    }
+    h1,h2,h3,h4,h5 {
+        font-weight: 400;
+        color: #333333;
+        line-height: 1;
+    }
+    h1 {
+        font-size: 35px;
+    }
+    h2 {
+        font-size: 24px;
+        line-height: 28px;
+    }
+    h3 {
+        font-size: 16px;
+        font-weight: 700;
+        margin: 26px 0 22px;
+    }
+    h4 {
+        font-size: 14px;
+        font-weight: 700;
+        margin: 22px 0 22px;
+    }
+    a {
+        text-decoration: none;
+        -webkit-transition: color 0.14s ease-in-out;
+        -moz-transition: color 0.14s ease-in-out;
+        -o-transition: color 0.14s ease-in-out;
+        transition: color 0.14s ease-in-out;
+    }
+    a {
+        color: #999999;
+    }
+    a:hover {
+        color: #333333;
+    }
+    p {
+        margin-top: 18px;
+    }
+    .centered-wrap {
+        display: table;
+        width: 100%;
+        height: 100%;
+    }
+    .centered-wrap .centered-content {
+        display: table-cell;
+        vertical-align: middle;
+    }
+    #header-wrap {
+        width: 100%;
+        max-width: 1000px;
+        margin: 0 auto;
+        padding: 0 22px;
+        position: relative;
+        z-index: 9;
+    }
+    @media only screen and (min-width: 768px) {
+        #header-wrap {
+            padding: 0 32px;
+        }
+    }
+    header {
+        padding: 20px 0;
+        border-bottom: solid 1px #f1f1f1;
+    }
+    .menutype_vertical_header header {
+       padding-bottom: 22px;
+    }
+    @media only screen and (min-width: 768px) {
+        header {
+            padding: 76px 0;
+        }
+        .menutype_vertical_header header {
+            padding: 76px 0 36px;
+        }
+    }
+    h1.blogtitle {
+        font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+        display: inline-block;
+        font-size: 18px;
+        float: left;
+        line-height: 1.2;
+        letter-spacing: -1px;
+        margin-left: 0;
+        font-weight: bold;
+    }
+    .menutype_horizontal_header header h1.blogtitle {
+        float: none;
+        margin-bottom: 6px;
+    }
+    @media only screen and (min-width: 768px) {
+        h1.blogtitle {
+            font-size: 18px;
+        }
+        .menutype_horizontal_header header h1.blogtitle {
+            float: left!important;
+            margin-bottom: 0;
+        }
+    }
+    h1.blogtitle a {
+        color: #333333;
+    }
+    h1.blogtitle a:hover {
+        opacity: 0.6;
+    }
+    .menutype_dropdown,
+    .menutype_horizontal,
+    .menutype_vertical {
+        margin-top: 0px;
+    }
+    .menutype_dropdown {
+        position: absolute;
+        top: -7px;
+        right: -2px;
+        width: 54px;
+        height: 66px;
+        text-align: center;
+        z-index: 999999;
+    }
+    .menutype_horizontal .menu-toggle,
+    .menutype_vertical .menu-toggle {
+        display: none;
+    }
+    @media only screen and (min-width: 768px) {
+        .menutype_dropdown {
+            top: 49px;
+            right: 15px;
+            cursor: pointer!important;
+            padding: 0 0 32px;
+        }
+    }
+    .menutype_dropdown .menu-toggle {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 68px;
+        padding: 22px 0;
+        cursor: pointer;
+        font-size: 32px;
+        -webkit-transition: all 0.14s ease-in-out;
+        -moz-transition: all 0.14s ease-in-out;
+        -o-transition: all 0.14s ease-in-out;
+        transition: all 0.14s ease-in-out;
+    }
+    @media only screen and (min-width: 1024px) {
+        .menutype_dropdown .menu-toggle {
+            pointer-events: none;
+        }
+    }
+    .menutype_dropdown .menu-toggle:hover,
+    .menutype_dropdown .menu-toggle.on {
+        color: #ffffff;
+    }
+    .menutype_dropdown nav {
+        position: absolute;
+        top: 78px;
+        width: 308px;
+        right: 7px;
+        text-align: left;
+        padding: 4px;
+        display: none;
+    }
+    @media only screen and (min-width: 1024px) {
+        .menutype_dropdown nav {
+            display: block;
+            visibility: hidden;
+            opacity: 0;
+            -webkit-transition: all 0.14s ease-in-out 0.1s;
+            -moz-transition: all 0.14s ease-in-out 0.1s;
+            -o-transition: all 0.14s ease-in-out 0.1s;
+            transition: all 0.14s ease-in-out 0.1s;
+        }
+    }
+    .menutype_dropdown nav.on {
+        display: block;
+    }
+    @media only screen and (min-width: 1024px) {
+        .menutype_dropdown nav.on {
+            visibility: visible;
+            opacity: 1;
+            margin-top: -12px;
+            -webkit-transition: all 0.14s ease-in-out;
+            -moz-transition: all 0.14s ease-in-out;
+            -o-transition: all 0.14s ease-in-out;
+            transition: all 0.14s ease-in-out;
+        }
+    }
+    .menutype_dropdown nav.on {
+        display: block;
+            visibility: visible;
+            opacity: 1;
+            margin-top: -12px;
+            -webkit-transition: all 0.14s ease-in-out;
+            -moz-transition: all 0.14s ease-in-out;
+            -o-transition: all 0.14s ease-in-out;
+            transition: all 0.14s ease-in-out;
+    }
+    .menutype_dropdown nav:after {
+        bottom: 100%;
+        border: solid transparent;
+        content: " ";
+        height: 0;
+        width: 0;
+        position: absolute;
+        pointer-events: none;
+    }
+    .menutype_dropdown nav:after {
+        border-color: rgba(44, 62, 80, 0);
+        border-bottom-color: #333333;
+        border-width: 9px;
+        right: 23px;
+        margin-left: -9px;
+        margin-bottom: -1px;
+    }
+    .menutype_dropdown nav ul {
+        position: relative;
+        width: 100%;
+        list-style: none;
+    }
+    .menutype_vertical nav {
+        float: right;
+    }
+    .menutype_horizontal nav {
+        clear: both;
+    }
+    @media only screen and (min-width: 768px) {
+        .menutype_horizontal nav {
+            float: right;
+            clear: none;
+        }
+    }
+    .menutype_vertical nav {
+        text-align: right;
+    }
+    .menutype_dropdown nav ul li {
+        display: block;
+    }
+    .menutype_horizontal nav ul li {
+        display: inline-block;
+        margin-right: 32px;
+        margin-bottom: 10px;
+    }
+    .menutype_horizontal nav ul li:last-child {
+        display: inline-block;
+        margin-right: 0;
+    }
+    @media only screen and (min-width: 768px) {
+        .menutype_horizontal nav ul li:last-child {
+            display: inline-block;
+        }
+    }
+    .menutype_vertical nav ul li {
+        list-style-type: none;
+        margin-bottom: 4px;
+    }
+    .menutype_vertical nav ul li:last-child {
+        list-style-type: none;
+        margin-bottom: 0;
+    }
+    .menutype_dropdown nav ul li a {
+        display: block;
+        padding: 13px 15px;
+        font-size: 12px;
+        color: #ffffff;
+        -webkit-transition: all 0.14s ease-in-out;
+        -moz-transition: all 0.14s ease-in-out;
+        -o-transition: all 0.14s ease-in-out;
+        transition: all 0.14s ease-in-out;
+    }
+    .menutype_dropdown nav ul li a:hover {
+        color: #ffffff;
+    }
+    .menutype_dropdown nav form {
+        clear: both;
+    }
+    .menutype_dropdown nav input {
+        display: block;
+        width: 100%;
+        padding: 13px 15px;
+        font-size: 12px;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 400;
+        border: 0;
+        background: #26292b;
+        color: #ffffff;
+        -webkit-transition: background 0.14s ease-in-out;
+        -moz-transition: background 0.14s ease-in-out;
+        -o-transition: background 0.14s ease-in-out;
+        transition: background 0.14s ease-in-out;
+    }
+    .menutype_dropdown nav input:focus {
+        outline: 0;
+        background: #d15447;
+        color: #ffffff;
+    }
+    .menutype_dropdown ::-webkit-input-placeholder {
+        color: #ffffff;
+        opacity: 0.6;
+    }
+    .menutype_dropdown :-moz-placeholder {
+        color: #ffffff;
+        opacity: 0.6;
+    }
+    .menutype_dropdown ::-moz-placeholder {
+        color: #ffffff;
+        opacity: 0.6;
+    }
+    .menutype_dropdown :-ms-input-placeholder {
+        color: #ffffff;
+        opacity: 0.6;
+    }
+    .menutype_dropdown #sb-search {
+        display: none;
+    }
+    .menutype_horizontal #dropdown-search {
+        margin: 0;
+        padding: 0;
+    }
+    .menutype_vertical #dropdown-search {
+        margin: 6px 0 0;
+        padding: 0;
+    }
+    .menutype_horizontal nav input,
+    .menutype_vertical nav input {
+        display: block;
+        width: 100%;
+        padding: 2px 0;
+        border: 0;
+        border-bottom: solid 1px #f1f1f1;
+        -webkit-transition: background 0.14s ease-in-out;
+        -moz-transition: background 0.14s ease-in-out;
+        -o-transition: background 0.14s ease-in-out;
+        transition: background 0.14s ease-in-out;
+    }
+    .menutype_horizontal nav input:focus,
+    .menutype_vertical nav input:focus {
+        outline: 0;
+    }
+    .menutype_horizontal ::-webkit-input-placeholder {
+        opacity: 0.7;
+    }
+    .menutype_vertical ::-webkit-input-placeholder {
+        text-align: right;
+        opacity: 0.7;
+    }
+    .menutype_horizontal :-moz-placeholder,
+    .menutype_vertical :-moz-placeholder {
+        opacity: 0.7;
+    }
+    .menutype_horizontal ::-moz-placeholder,
+    .menutype_vertical ::-moz-placeholder {
+        opacity: 0.7;
+    }
+    .menutype_horizontal :-ms-input-placeholder,
+    .menutype_vertical :-ms-input-placeholder {
+        opacity: 0.7;
+    }
+    .menutype_horizontal #sb-search,
+    .menutype_vertical #sb-search{
+        display: none;
+    }
+    #footer-wrap {
+        width: 100%;
+        max-width: 1000px;
+        margin: 0 auto;
+        background: #ffffff;
+        padding: 0 22px;
+        position: relative;
+        z-index: 99999;
+    }
+    @media only screen and (min-width: 768px) {
+        #footer-wrap {
+            padding: 0 32px;
+        }
+    }
+    footer {
+        position: relative;
+        float: left;
+        clear: both;
+        width: 100%;
+        padding: 6px 0 0;
+        text-align: center;
+    }
+    @media only screen and (min-width: 768px) {
+        footer {
+            padding: 6px 0 0;
+        }
+    }
+    @media only screen and (min-width: 1024px) {
+        footer {
+            text-align: left;
+        }
+    }
+    footer .footer-wrap {
+        float: left;
+        clear: both;
+        width: 100%;
+        padding: 20px 0 30px;
+        margin-top: 40px;
+        border-top: solid 1px #f1f1f1;
+    }
+    @media only screen and (min-width: 768px) {
+        footer .footer-wrap {
+            padding: 40px 0;
+        }
+    }
+    footer .footer-border {
+        position: relative;
+        clear: both;
+        width: 100%;
+        font-size: 13px;
+        margin-top: 20px;
+    }
+    @media only screen and (min-width: 1024px) {
+        footer .footer-border {
+            float: left;
+            width: auto;
+            clear: none;
+            margin-top: 0;
+        }
+    }
+    footer .footer-border span {
+        display: inline-block;
+        font-size: 22px;
+        font-weight: 700;
+    }
+    @media only screen and (min-width: 768px) {
+        footer .footer-border span {
+            margin-right: 10px;
+        }
+    }
+    @media only screen and (min-width: 1024px) {
+        footer .type_pagination {
+            float: right;
+            height: 40px;
+        }
+        footer .type_pagination_load {
+            float: none;
+        }
+    }
+    footer .type_pagination .pagination {
+        width: 100%;
+    }
+    footer .type_pagination .pagination a {
+        display: inline-block;
+        cursor: pointer;
+        padding: 21px 16px;
+        margin: 0 3px 6px;
+        text-align: center;
+        color: #ffffff;
+        font-size: 12px;
+        line-height: 12px;
+        letter-spacing: 2px;
+        -webkit-transition: all 0.2s ease-in-out;
+        -moz-transition: all 0.2s ease-in-out;
+        -o-transition: all 0.2s ease-in-out;
+        transition: all 0.2s ease-in-out;
+    }
+    @media only screen and (min-width: 768px) {
+        footer .type_pagination .pagination a {
+            margin: 0 0 6px;
+        }
+    }
+    footer .type_pagination .pagination .icon-arrow-left:before,
+    footer .type_pagination .pagination .icon-arrow-right:before {
+        font-size: 17px;
+    }
+    footer .type_pagination .pagination a:hover {
+        color: #ffffff;
+    }
+    footer .type_pagination .pagination a.prev {
+        float: left;
+    }
+    footer .type_pagination .pagination a.next {
+        float: right;
+    }
+    footer .type_pagination .pagination .pager-prev li,
+    footer .type_pagination .pagination .pager-next li {
+        display: inline-block;
+        vertical-align: middle;
+    }
+    footer .type_pagination .pagination .pager-prev li:first-child {
+        margin-right: 12px;
+    }
+    footer .type_pagination .pagination .pager-prev li:last-child {
+        margin-right: 8px;
+    }
+    footer .type_pagination .pagination .pager-next li:first-child {
+        margin-left: 8px;
+    }
+    footer .type_pagination .pagination .pager-next li:last-child {
+        margin-left: 8px;
+    }
+    footer .type_pagination .load-more,
+    footer .type_pagination .scroll-top {
+        display: inline-block;
+        cursor: pointer;
+        padding: 20px 23px;
+        margin: 0;
+        text-align: center;
+        color: #ffffff;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 16px;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        -webkit-transition: all 0.2s ease-in-out;
+        -moz-transition: all 0.2s ease-in-out;
+        -o-transition: all 0.2s ease-in-out;
+        transition: all 0.2s ease-in-out;
+    }
+    footer .type_pagination .load-more:hover,
+    footer .type_pagination .scroll-top:hover {
+        color: #ffffff;
+    }
+    footer .type_pagination .load-more span,
+    footer .type_pagination .scroll-top span {
+        display: inline-block;
+    }
+    footer .type_pagination .load-more .load-more-loading,
+    footer .type_pagination .scroll-top .load-more-loading,
+    footer .type_pagination .load-more .load-more-end,
+    footer .type_pagination .scroll-top .load-more-end {
+        display: none;
+    }
+    @media only screen and (min-width: 768px) {
+        footer .type_pagination .load-more,
+        footer .type_pagination .scroll-top {
+            margin-top: 0;
+        }
+    }
+    footer .type_pagination .load-more {
+        width: 100%;
+    }
+    footer .type_pagination .scroll-top {
+        padding: 16px 16px;
+        font-size: 22px;
+        width: 54px;
+        height: 53px;
+        text-align: center;
+        opacity: 0;
+        margin: 0 auto;
+    }
+    @media only screen and (min-width: 768px) {
+        footer .type_pagination .scroll-top {
+            position: fixed;
+            bottom: 5px;
+            right: 5px;
+        }
+    }
+    footer .type_pagination #infscr-loading {
+        display: inline-block;
+    }
+    footer .type_pagination #infscr-loading img {
+        
+    }
+    footer .type_pagination.pagination_standard .load-more {
+        display: none;
+    }
+    footer .type_pagination.pagination_load-more .pagination {
+        display: none;
+    }
+    footer .type_pagination.pagination_infinite-scroll .pagination {
+        display: none;
+    }
+    footer .type_pagination.pagination_infinite-scroll .load-more {
+        
+    }
+    footer .type_pagination.off .load-more {
+        opacity: 0;
+        visibility: hidden;
+        -webkit-transition: all 0.14s ease-in-out 2s;
+        -moz-transition: all 0.14s ease-in-out 2s;
+        -o-transition: all 0.14s ease-in-out 2s;
+        transition: all 0.14s ease-in-out 2s;
+    }
+    footer .type_pagination.hidden .load-more {
+        display: none;
+    }
+    footer .post-nav {
+        margin-top: 10px;
+    }
+    footer .post-nav a {
+        display: inline-block;
+        margin: 0;
+        width: 54px;
+        height: 53px;
+        text-align: center;
+        color: #ffffff;
+        padding-top: 16px;
+        font-size: 28px;
+    }
+    footer .post-nav a:hover {
+        color: #ffffff;
+    }
+    @media only screen and (min-width: 1024px) {
+        footer .post-nav .prev {
+            position: fixed;
+            top: 45%;
+            right: 26px;
+            margin: 0;
+        }
+        footer .post-nav .next {
+            position: fixed;
+            top: 45%;
+            left: 26px;
+            margin: 0;
+        }
+    }
+    footer .credit {
+        font-size: 11px;
+        margin-top: 4px;
+    }
+    .social-menu {
+        position: relative;
+        width: 100%;
+        list-style: none;
+        margin: 12px 0 0 0;
+    }
+    .social-menu.circle li a {
+        -webkit-border-radius: 100%;
+        -moz-border-radius: 100%;
+        -o-border-radius: 100%;
+        border-radius: 100%;
+    }
+    .social-menu li {
+        margin: 10px 2px 0;
+        display: inline-block;
+        text-align: center;
+    }
+    .social-menu li a {
+        display: block;
+        height: 30px;
+        padding-top: 6px;
+        margin-right: 16px;
+        font-size: 14px;
+        color: #ccc;
+        -webkit-border-radius: 100%;
+        -moz-border-radius: 100%;
+        -o-border-radius: 100%;
+        border-radius: 100%;
+        -webkit-transition: all 0.14s ease-in-out;
+        -moz-transition: all 0.14s ease-in-out;
+        -o-transition: all 0.14s ease-in-out;
+        transition: all 0.14s ease-in-out;
+    }
+    .social-menu li a:hover {
+        color: #ffffff;
+    }
+    .social-menu li a .social-gmail {
+        margin-left: -3px;
+        font-size: 12px;
+    }
+    .social-menu li a .social-vimeo {
+        margin-left: -3px;
+    }
+    .social-menu li a .social-tweets,
+    .social-menu li a .social-facebook {
+        margin-left: -1px;
+    }
+    .social-menu li a .social-tweets,
+    .social-menu li a .social-vimeo {
+        font-size: 12px;
+    }
+    section {
+        width: 100%;
+        max-width: 998px;
+        margin: 0 auto;
+        position: relative;
+        clear: both;
+        padding: 0;
+    }
+    @media only screen and (min-width: 768px) {
+        section {
+            padding: 0;
+        }
+    }
+    .posts-holder {
+        position: relative;
+        margin: 0 auto;
+    }
+    .posts-holder .grid-sizer {
+        width: 100%;
+    }
+    .posts-grid article,
+    .posts-grid .grid-sizer {
+        width: 100%;
+    }
+    .posts-grid article.type_photo img,
+    .posts-grid .pickup.type_photo img {
+        width: 100%;
+    }
+    @media only screen and (min-width: 768px) {
+        .posts-grid article,
+        .posts-grid .grid-sizer {
+            width: 49.9%;
+        }
+        .posts-grid article.pickup,
+        .posts-grid .grid-sizer.pickup {
+            width: 100%;
+        }
+        .posts-grid article.pickup.type_photo img,
+        .posts-grid .grid-sizer.pickup.type_photo img {
+            width: 100%;
+        }
+    }
+    @media only screen and (min-width: 1024px) {
+        .posts-grid article,
+        .posts-grid .grid-sizer {
+            width: 33.33%;
+        }
+        .posts-grid article.pickup,
+        .posts-grid .grid-sizer.pickup {
+            width: 66.56%;
+        }
+    }
+    article {
+        position: relative;
+        float: left;
+        width: 100%;
+        margin: 0;
+        padding: 6px 3px 0;
+    }
+    article .article-content {
+        position: relative;
+        padding: 30px 20px 24px;
+        word-break: break-word;
+    }
+    @media only screen and (min-width: 768px) {
+        article .article-content {
+            padding: 30px 30px 24px;
+        }
+    }
+    article .article-content .icons {
+        clear: both;
+        margin: 18px 0 0 0;
+        list-style-type: none;
+        height: 28px;
+        line-height: 20px;
+    }
+    article .article-content .icons li {
+        float: left;
+        margin-right: 6px;
+        margin-bottom: 6px;
+        border: solid 1px #f1f1f1;
+        -webkit-border-radius: 2px;
+        -moz-border-radius: 2px;
+        -o-border-radius: 2px;
+        -ms-border-radius: 2px;
+        border-radius: 2px;
+    }
+    article .article-content .icons li:last-child {
+        margin-right: 0;
+    }
+    article .article-content .icons li > a,
+    article .article-content .icons li .like_button,
+    article .article-content .icons li .reblog-icon {
+        float: left;
+        width: 28px;
+        height: 28px;
+        padding-top: 6px;
+        text-align: center;
+        font-size: 16px;
+        color: #000000;
+        -webkit-transition: opacity 0.14s ease-in-out;
+        -moz-transition: opacity 0.14s ease-in-out;
+        -o-transition: opacity 0.14s ease-in-out;
+        transition: opacity 0.14s ease-in-out;
+        opacity: 0.3;
+        cursor: pointer;
+    }
+    article .article-content .icons li .icon-infinity {
+        
+    }
+    article .article-content .icons li > a:hover,
+    article .article-content .icons li .like_button:hover,
+    article .article-content .icons li .reblog-icon:hover {
+        opacity: 1;
+    }
+    article .article-content .icons li .like_button {
+        padding: 6px 0 6px 0px;
+    }
+    article .article-content .icons li .reblog-icon {
+        padding: 6px 0 0 7px;
+    }
+    article .article-content .icons.white li > a,
+    article .article-content .icons.white li .like_button,
+    article .article-content .icons.white li .reblog-icon {
+        color: #ffffff;
+    }
+    article.type_text embed,
+    article.type_text iframe,
+    article.type_text object,
+    article.type_text video {
+        max-width: 100%;
+    }
+    article.type_video .video-container {
+        height: 0;
+        padding-top: 25px;
+        padding-bottom: 67.5%;
+        position: relative;
+        overflow: hidden;
+    }
+    article.type_video .video-container embed,
+    article.type_video .video-container iframe,
+    article.type_video .video-container object,
+    article.type_video .video-container video {
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100% !important;
+        position: absolute;
+    }
+    article.type_video.widescreen .video-container {
+        padding-bottom: 56.25%;
+    }
+    article.type_video.vimeo .video-container {
+        padding-top: 0;
+    }
+    article.type_quote .quote {
+        line-height: 1.3;
+        font-style: italic;
+        color: #26292b;
+    }
+    article.type_quote .quote.short {
+        font-size: 28px;
+        letter-spacing: -1px;
+    }
+    article.type_quote .quote.medium {
+        font-size: 22px;
+    }
+    article.type_quote .quote.long {
+        font-size: 17px;
+    }
+    article.type_quote .quote-author {
+        margin-top: 20px;
+    }
+    article.type_link .the-link {
+        display: block;
+        padding: 80px 30px;
+        color: #ffffff;
+        -webkit-transition: all 0.14s ease-in-out;
+        -moz-transition: all 0.14s ease-in-out;
+        -o-transition: all 0.14s ease-in-out;
+        transition: all 0.14s ease-in-out;
+        text-align: center;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 25px;
+    }
+    article.type_link .the-link span {
+        font-size: 14px;
+        display: block;
+        opacity: 0.6;
+        font-weight: 400;
+        margin-top: 6px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    article.type_link .the-link:hover {
+        color: #ffffff;
+    }
+    article.type_chat h2 {
+        margin-bottom: 22px;
+    }
+    article.type_chat .line {
+        border-top: 1px solid #f1f1f1;
+        padding: 12px 0;
+    }
+    article.type_answer .answer-wrap {
+        clear: both;
+        min-height: 44px;
+    }
+    article.type_answer hr {
+        clear: both;
+        width: 100%;
+        height: 2px;
+        border: 0;
+        margin: 24px 0;
+        background: #ecf0f1;
+    }
+    article.type_answer .answer-person {
+        float: left;
+        margin-top: 10px;
+    }
+    article.type_answer .answer-image {
+        float: left;
+        margin-right: 12px;
+        width: 44px;
+    }
+    article.type_answer .answer-image.circle img {
+        -webkit-border-radius: 100%;
+        -moz-border-radius: 100%;
+        -o-border-radius: 100%;
+        border-radius: 100%;
+    }
+    article.type_answer .answer-person {
+        font-weight: 400;
+    }
+    article.type_answer .answer-text {
+        clear: both;
+        padding-top: 14px;
+    }
+    article.type_answer .answer-text p:first-child {
+        margin-top: 0;
+    }
+    article.type_audio embed {
+        height: default;
+    }
+    article.type_audio iframe {
+        max-width: 100%;
+    }
+    article.type_audio .tumblr_audio_player,
+    article.type_audio .soundcloud_audio_player {
+        max-width: 100%;
+    }
+    .tumblr_audio_player {
+        width: 100%!important;
+    }
+    @media only screen and (min-width: 768px) {
+        article.type_audio .tumblr_audio_player,
+        article.type_audio .soundcloud_audio_player {
+            width: 100%;
+        }
+    }
+    article a {
+        font-weight: 400;
+    }
+    article h1 {
+        font-size: 16px;
+        font-weight: 700;
+    }
+    article h2 a {
+        font-weight: 400;
+    }
+    article h2 a:hover {
+    }
+    article .caption {
+        margin-top: 20px;
+    }
+    article .read_more {
+        font-size: 11px;
+    }
+    article ol,
+    article ul {
+        margin: 10px 0 0 20px;
+    }
+    article blockquote {
+        padding: 5px 0 5px 12px;
+        margin-top: 18px;
+        border-left: 2px solid #ecf0f1;
+    }
+    article blockquote p {
+        margin-top: 0 !important;
+    }
+    article blockquote img {
+        width: auto;
+    }
+    article .tagged {
+        font-size: 11px;
+    }
+    article .group-author {
+        margin-top: 40px;
+        padding-bottom: 24px;
+        border-bottom: solid 1px #f1f1f1;
+        clear: both;
+        width: 100%;
+    }
+    article .group-author a {
+        font-size: 12px;
+    }
+    article .group-author a img {
+        display: inline;
+        width: auto;
+        margin: 0 12px -11px 0 !important;
+    }
+    article .group-author a img.circle {
+        border-radius: 100%;
+    }
+    article .group-author-image {
+        width: 34px;
+        float: left;
+        margin-top: -6px;
+        margin-right: 16px;
+    }
+    article .post-meta_a {
+        margin-top: 18px;
+        margin-left: 0;
+    }
+    article .post-meta_a li {
+        display: inline-block;
+        margin-right: 6px;
+        list-style-type: none;
+    }
+    article .post-meta_b,
+    article .post-meta_b_home {
+        margin-top: 18px;
+        font-size: 11px;
+        margin-left: 0;
+    }
+    article .post-meta_b li {
+        display: inline-block;
+        margin-right: 14px;
+        list-style-type: none;
+    }
+    article .post-meta_b li:first-child {
+        margin-right: 20px;
+    }
+    article .post-meta_b_home li {
+        display: inline-block;
+        margin-right: 9px;
+        list-style-type: none;
+    }
+    article .post-meta_b_home li:last-child {
+        margin-right: 0;
+    }
+    article .dsq-comment-count {
+        display: block;
+        clear: both;
+        margin-top: 6px;
+        font-size: 11px;
+    }
+    article .disqus {
+        clear: both;
+        width: 100%;
+        margin-top: 40px;
+    }
+    article .disqus img {
+        width: auto;
+    }
+    article .post-notes {
+        clear: both;
+        width: 100%;
+        margin-top: 40px;
+    }
+    article .post-notes ol {
+        list-style: none;
+        margin: 0;
+        clear: both;
+    }
+    article .post-notes li {
+        display: block;
+        padding: 7px 0;
+        font-size: 11px;
+        line-height: 15px;
+    }
+    article .post-notes img {
+        float: left;
+        margin-right: 10px;
+        width: auto;
+    }
+    article .post-notes.circle img {
+        border-radius: 100%;
+    }
+    article .post-notes blockquote {
+        margin: 10px 0 10px 30px;
+    }
+    article.nostretch .article-content img {
+        width: 100%;
+        max-width:;
+        margin: 0 auto;
+    }
+    .permalink header {
+        display: block;
+    }
+    @media only screen and (min-width: 768px) {
+        .permalink section {
+            padding: 0;
+        }
+        .permalink .posts-holder {
+            text-align: center;
+        }
+        .permalink article {
+            max-width: 660px;
+            padding: 6px 3px 0;
+        }
+        .permalink article {
+            display: inline-block;
+            float: none;
+            width: auto;
+            margin: 0 auto;
+            min-width: 660px;
+            max-width: 860px;
+            font-size: 13px;
+            line-height: 25px;
+            text-align: left;
+        }
+        .permalink article.type_photo {
+            max-width: 1000px;
+        }
+        .permalink article.type_video {
+            width: 100%;
+        }
+        .permalink article h2 {
+            font-size: 32px;
+            line-height: 38px;
+            margin-top: 22px;
+            margin-bottom: 32px;
+        }
+        .permalink article .article-content {
+            padding: 30px 30px 70px;
+        }
+        .permalink article .article-content .icons {
+            margin-top: 30px;
+        }
+        .permalink article .article-content .icons .permalink {
+            margin-top: -1px;
+        }
+        .permalink article .article-content .post-meta_b {
+            font-weight: 700;
+        }
+        .permalink article.type_quote .quote.short {
+            font-size: 38px;
+        }
+        .permalink article.type_quote .quote.medium {
+            font-size: 28px;
+        }
+        .permalink article.type_quote .quote.long {
+            font-size: 22px;
+        }
+        .permalink article.type_quote,
+        .permalink article.type_chat {
+            margin-top: 22px;
+        }
+        .permalink article.type_quote .quote-author {
+            margin-top: 34px;
+        }
+        .permalink article.type_answer .answer-wrap {
+            min-height: 64px;
+        }
+        .permalink article.type_answer .answer-person {
+            margin-top: 18px;
+        }
+        .permalink article.type_answer .answer-image {
+            width: 64px;
+            margin-right: 20px;
+        }
+        .permalink article.type_audio .tumblr_audio_player,
+        .permalink article.type_audio .soundcloud_audio_player {
+            width: 100%;
+        }
+        .permalink article .caption {
+            margin-top: 40px;
+        }
+    }
+	
+	/* Color Style */
+	body {
+		background: #ffffff;
+		color: #333333;
+	}
+
+	.timeago a,
+	.group-author a {
+		color: #333333;
+	}
+
+	.blogtitle h1 {
+		color: #333333;
+	}
+
+	.menutype_dropdown .menu-toggle {
+	    color: #aaaaaa;
+	}
+	.menutype_dropdown .menu-toggle .menu-toggle-hamburger {
+		border-color: #aaaaaa;
+	}
+	.menutype_dropdown .menu-toggle .menu-toggle-hamburger:before,
+	.menutype_dropdown .menu-toggle .menu-toggle-hamburger:after {
+		background: #aaaaaa;
+	}
+	.menutype_dropdown .menu-toggle:hover,
+	.menutype_dropdown .menu-toggle.on {
+		color: #aaaaaa;
+	}
+	.menutype_dropdown .menu-toggle:hover .icon-menu,
+	.menutype_dropdown.on .menu-toggle .icon-menu {
+		color: #333333!important;
+	}
+	.menutype_dropdown nav {
+		background: #333333;
+	}
+	.menutype_dropdown nav:after {
+		border-bottom-color: #333333;
+	}
+	.menutype_dropdown nav ul li a {
+		color: #ffffff;
+	}
+	.menutype_dropdown nav ul li a:hover {
+		background: #5a5a5a;
+		color: #ffffff;
+	}
+	.menutype_dropdown nav input {
+		background: #333333;
+		color: #ffffff;
+	}
+	.menutype_dropdown nav input:focus {
+		background: #5a5a5a;
+		color: #ffffff;
+	}
+	::-webkit-input-placeholder {
+		color: ;
+	}
+	:-moz-placeholder {
+		color: ;
+	}
+	::-moz-placeholder {
+		color: ;
+	}
+	:-ms-input-placeholder {
+		color: ;
+	}
+	footer .type_pagination.pagination_load-more .load-more,
+	footer .type_pagination .scroll-top,
+	footer .type_pagination .pagination a,
+	footer .post-nav a {
+		color: #aaaaaa;
+	}
+	footer .type_pagination .load-more:hover,
+	footer .type_pagination .scroll-top:hover,
+	footer .type_pagination .pagination a:hover,
+	footer .post-nav a:hover {
+		color: #aaaaaa;
+	}
+	@media only screen and (min-width: 768px) {
+	    footer .type_pagination .load-more:hover,
+	    footer .type_pagination .scroll-top:hover,
+	    footer .type_pagination .pagination a:hover,
+	    footer .post-nav a:hover {
+            color: #333333;
+	    }
+	}
+	.social-menu li a {
+		color: #b5b5b5;
+	}
+	.social-menu li a:hover {
+		color: #333333;
+	}
+	h1, h2, h3, h4, h5, article.type_quote .quote {
+		color: #333333;
+	}
+	a {
+		color: #999999;
+	}
+	a:hover {
+		color: #333333;
+	}
+	article h2 a {
+		color: #333333;
+	}
+	article h2 a:hover {
+		opacity: 0.5;
+	}
+	article .article-content .icons li,
+	article blockquote,
+	article.type_chat .line{
+		border-color: #f1f1f1;
+	}
+	article.type_answer hr {
+		background: #f1f1f1;
+	}
+	article.type_link .the-link {
+		background: #999999;
+		color: #ffffff;
+	}
+	article.type_link .the-link:hover {
+		background: #333333;
+	}
+	::-moz-selection { 
+	    background: #999999;
+	    color: #ffffff;
+	    text-shadow: none;
+	}
+	::selection { 
+	    background: #999999;
+	    color: #ffffff; 
+	    text-shadow: none;
+	}
+    </style>
+
+    <style type="text/css">
+
+	    
+
+    </style>
+
+        
+<link rel="alternate" href="android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=coffeeholic-blog%26postID=157312720154" /><link rel="alternate" href="ios-app://305343404/tumblr/x-callback-url/blog?blogName=coffeeholic-blog&postID=157312720154" /><link rel="alternate" type="application/json+oembed" href="https://www.tumblr.com/oembed/1.0?url=https://coffeeholic-blog.tumblr.com/post/157312720154/comparision-drip-coffee-vs-pump-espresso" title="Comparision: Drip Coffee vs Pump Espresso - http://www.coffeeholic.link/drip-coffee-vs-pump-espresso/"/><script src="https://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=f2815f1c37d6fa2c12c9a96c1878b9bc"></script><link rel="stylesheet" type="text/css" href="https://assets.tumblr.com/fonts/gibson/stylesheet.css?v=3"><!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. --><!-- Read more: http://ogp.me/ --><meta property="fb:app_id" content="48119224995" /><meta property="og:site_name" content="Coffeeholic" /><meta property="og:title" content="" /><meta property="og:url" content="https://coffeeholic-blog.tumblr.com/post/157312720154/comparision-drip-coffee-vs-pump-espresso" /><meta property="og:description" content="Comparision: Drip Coffee vs Pump Espresso - http://www.coffeeholic.link/drip-coffee-vs-pump-espresso/" /><meta property="og:determiner" content="a" /><meta property="og:type" content="tumblr-feed:photo" /><meta property="og:image" content="https://68.media.tumblr.com/c8926ddc7712a811bdb90a048dd5642d/tumblr_olgw6tVFYT1w68gxuo1_1280.jpg" /><meta property="og:image:height" content="500" /><meta property="og:image:width" content="750" /><meta property="al:ios:url" content="tumblr://x-callback-url/blog?blogName=coffeeholic-blog&amp;postID=157312720154" /><meta property="al:ios:app_name" content="Tumblr" /><meta property="al:ios:app_store_id" content="305343404" /><meta property="al:android:url" content="tumblr://x-callback-url/blog?blogName=coffeeholic-blog&amp;postID=157312720154" /><meta property="al:android:app_name" content="Tumblr" /><meta property="al:android:package" content="com.tumblr" /><!-- END TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- TWITTER TAGS --><meta charset="utf-8"><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="coffeeholic-blog" /><meta name="twitter:description" content="Comparision: Drip Coffee vs Pump Espresso - http://www.coffeeholic.link/drip-coffee-vs-pump-espresso/" /><meta name="twitter:image" content="https://68.media.tumblr.com/c8926ddc7712a811bdb90a048dd5642d/tumblr_olgw6tVFYT1w68gxuo1_500.jpg" /><meta name="twitter:url" content="https://coffeeholic-blog.tumblr.com/post/157312720154/comparision-drip-coffee-vs-pump-espresso" /><meta name="twitter:site" content="tumblr" /><meta name="twitter:app:name:iphone" content="Tumblr" /><meta name="twitter:app:name:ipad" content="Tumblr" /><meta name="twitter:app:name:googleplay" content="Tumblr" /><meta name="twitter:app:id:iphone" content="305343404" /><meta name="twitter:app:id:ipad" content="305343404" /><meta name="twitter:app:id:googleplay" content="com.tumblr" /><meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=coffeeholic-blog&amp;postID=157312720154&amp;referrer=twitter-cards" /><meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=coffeeholic-blog&amp;postID=157312720154&amp;referrer=twitter-cards" /><meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=coffeeholic-blog&amp;postID=157312720154&amp;referrer=twitter-cards" /><!-- GOOGLE CAROUSEL --><script type="application/ld+json">
+	{"@type":"SocialMediaPosting","url":"https:\/\/coffeeholic-blog.tumblr.com\/post\/157312720154\/comparision-drip-coffee-vs-pump-espresso","mainEntityOfPage":true,"datePublished":"2016-08-24T08:08:08-04:00","author":"coffeeholic-blog","image":"https:\/\/68.media.tumblr.com\/c8926ddc7712a811bdb90a048dd5642d\/tumblr_olgw6tVFYT1w68gxuo1_1280.jpg","articleBody":"Comparision: Drip Coffee vs Pump Espresso - http:\/\/www.coffeeholic.link\/drip-coffee-vs-pump-espresso\/","@context":"http:\/\/schema.org"}</script><link rel="canonical" href="https://coffeeholic-blog.tumblr.com/post/157312720154/comparision-drip-coffee-vs-pump-espresso" /></head>
+
+
+<body
+
+ class="permalink"
+>
+
+<div id="header-wrap" class="menutype_dropdown_header">
+<header class="clearfix">
+<h1 class="blogtitle"><a href="/" title="Coffeeholic">
+		
+        Coffeeholic
+	</a></h1>
+	
+	
+<div class="menutype_dropdown">
+
+	<div class="menu-toggle">
+		<span class="icon-menu"></span>
+	</div>
+
+	<nav class="the-menu">
+
+		<ul class="main-menu">
+			
+			
+			<li><a href="/archive" title="Archive">Archive</a></li>
+			
+			
+			
+			
+			<li id="dropdown-search">
+		    <form action="/search" method="get">
+		    	<input type="text" name="q" value="" placeholder="Search"/>
+		    </form>
+		    </li>
+		    
+			
+			<li id="sb-search" class="sb-search">
+		    <form action="/search" method="get">
+		        <input class="sb-search-input" type="text" name="q" value="" placeholder="Search" id="search"/>
+			    <input class="sb-search-submit" type="submit" value="Search"/>
+			    <span class="sb-icon-search"></span>
+		    </form>
+		    </li>
+		    
+		</ul>
+	</nav>
+
+</div>
+
+	
+</header>
+</div>
+
+
+<section class="the-posts">
+
+	<div class="posts-holder
+	">
+
+
+		
+
+
+		
+
+		<article id="157312720154" class="type_photo " rel="https://www.tumblr.com/reblog/157312720154/e8CXvUDP">
+
+			<div class="article-content">
+
+
+
+			 
+			
+
+
+
+			 
+			
+
+			<!-- Photo Post -->
+
+			
+
+			
+			<a href="http://www.coffeeholic.link/drip-coffee-vs-pump-espresso/"><img src="https://68.media.tumblr.com/c8926ddc7712a811bdb90a048dd5642d/tumblr_olgw6tVFYT1w68gxuo1_1280.jpg" alt="Comparision: Drip Coffee vs Pump Espresso - http://www.coffeeholic.link/drip-coffee-vs-pump-espresso/" /></a>
+			
+
+			
+			<div class="caption">
+				<p>Comparision: Drip Coffee vs Pump Espresso - <a href="http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.coffeeholic.link%2Fdrip-coffee-vs-pump-espresso%2F&amp;t=ZWE5ZWM0ODgwYWUwMTU5NDI2NWQ2OThmMGJkNDY3OTM5Mjk5ZDk1YyxlOENYdlVEUA%3D%3D&amp;b=t%3ACl3tRmm-wVvOM408BYKGQA&amp;p=https%3A%2F%2Fcoffeeholic-blog.tumblr.com%2Fpost%2F157312720154%2Fcomparision-drip-coffee-vs-pump-espresso&amp;m=1">http://www.coffeeholic.link/drip-coffee-vs-pump-espresso/</a></p>
+			</div> 	 	 	   
+			
+
+			
+
+
+
+
+			
+
+
+
+			 
+			
+
+
+
+
+			
+
+
+
+
+			
+
+
+
+
+			
+
+
+
+
+			
+
+
+
+
+			
+
+
+
+
+			
+
+
+
+
+			
+			
+			
+			
+			<ul class="post-meta_a">
+				
+			</ul> 
+			
+			
+			
+			
+
+
+			<ul class="post-meta_b">
+				<li class="timeago">6 months ago</li>
+				
+			</ul> 	 	 	   
+
+			
+			
+			
+		
+			
+			
+			
+
+			<ul class="icons">
+				
+				
+				
+				
+				
+				
+				<li class="twitter">
+					<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fcoffeeholic-blog.tumblr.com%2Fpost%2F157312720154%2Fcomparision-drip-coffee-vs-pump-espresso" class="icon-twitter" target="_blank" title="Share on twitter"></a>
+				</li>
+				
+				
+				<li class="facebook">
+					<a href="http://www.facebook.com/sharer.php?u=https://coffeeholic-blog.tumblr.com/post/157312720154/comparision-drip-coffee-vs-pump-espresso" class="icon-facebook" target="_blank" title="Share on facebook"></a>
+				</li>
+				
+				
+				
+				<li><div class="like_button" data-post-id="157312720154" data-blog-name="coffeeholic-blog" id="like_button_157312720154"><iframe id="like_iframe_157312720154" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=9c1e0782724156703eb4f7ba79dbe203#name=coffeeholic-blog&amp;post_id=157312720154&amp;color=black&amp;rk=e8CXvUDP" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_157312720154"></iframe></div></li>
+				<li class="reblog">
+					<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/157312720154/e8CXvUDP" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>
+				</li> 	 	 	   
+				
+			</ul> 
+
+			
+
+			
+
+			
+
+			
+			
+			<div class="clearfix"></div>
+
+			
+
+
+
+
+			</div> 	 	 	   
+
+		</article>
+
+		
+
+	</div>
+
+</section> 	 	 	   
+
+
+<div id="footer-wrap">
+<footer>
+
+    
+
+		
+		<div class="post-nav">
+		    <a href="https://coffeeholic-blog.tumblr.com/post/157312668894" class="next" title="Next post">&larr;</a>
+			
+		</div>
+		
+	
+
+	<div class="footer-wrap">
+	
+	
+
+		<div class="footer-border">
+			<span>&copy; Coffeeholic</span>
+			<p>All about Coffee</p>
+
+			<div class="credit">
+				<a href="https://www.tumblr.com/theme/38586" title="GET THIS THEME!" target="_blank">Wallstocker theme</a> | Published by <a href="https://www.tumblr.com" title="tumblr" target="_blank">tumblr</a>
+			</div>
+			
+			<ul class="social-menu">
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</ul>
+
+		</div>
+
+	</div>
+
+</footer> 	 	 	   
+</div>
+
+
+
+<!-- Javascript Assets -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+
+<!-- ***** Back to Top Button on Fade in ***** -->
+<script type="text/javascript">
+$(function() {
+	var topBtn = $('.scroll-top');
+	topBtn.hide();
+	$(window).scroll(function () {
+		if ($(this).scrollTop() > 200) {
+			topBtn.fadeIn("slow");
+		} else {
+			topBtn.fadeOut("slow");
+		}
+	});
+    topBtn.click(function () {
+		$('body,html').animate({
+			scrollTop: 0
+		}, 500);
+		return false;
+    });
+});
+</script>
+
+<script type="text/javascript">
+$(window).load(function() {
+    $('.scroll-top').css('opacity', 1);
+});
+</script>
+
+<!--- Search Bar --->
+<script src="https://secure.static.tumblr.com/wofln30/r4Jmqygge/classie.js"></script>
+<script src="https://secure.static.tumblr.com/wofln30/Mkhmqygis/uisearch.js"></script>
+<script>
+          new UISearch( document.getElementById( 'sb-search' ) );
+</script>
+
+<script src="https://secure.static.tumblr.com/wdg4six/ywan2fib1/wallstocker-basic.js"></script>
+<script src="https://secure.static.tumblr.com/wdg4six/mTgn2fi5r/wallstocker-grid.js"></script>
+
+
+
+
+<iframe scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0; z-index:9999;" id="ga_target"></iframe><script type="text/javascript">
+    (function(){
+        var analytics_frame = document.getElementById('ga_target');
+        var analytics_iframe_loaded;
+        var user_logged_in;
+        var blog_is_nsfw = 'No';
+        var addthis_enabled = false;
+
+        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+        var eventer = window[eventMethod];
+        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+        eventer(messageEvent,function(e) {
+            var message = (e.data && e.data.split) ? e.data.split(';') : '';
+            switch (message[0]) {
+                case 'analytics_iframe_loaded':
+                    analytics_iframe_loaded = true;
+                    postCSMessage();
+                    postGAMessage();
+                    postATMessage();
+                    postRapidMessage();
+                    break;
+                case 'user_logged_in':
+                    user_logged_in = message[1];
+                    postGAMessage();
+                    postATMessage();
+                    break;
+            }
+        }, false);
+
+        analytics_frame.src = "https://assets.tumblr.com/analytics.html?6cdac04a086dad80b43e7b790d50506f#" +
+                              "https://coffeeholic-blog.tumblr.com";
+        function postGAMessage() {
+            if (analytics_iframe_loaded && user_logged_in) {
+                var is_ajax = false;
+                analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/post/157312720154/comparision-drip-coffee-vs-pump-espresso?route=%2Fpost%2F%3Aid%2F%3Asummary'].join(';'), analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postCSMessage() {
+            COMSCORE = true;
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }
+        function postATMessage() {
+            if (addthis_enabled && analytics_iframe_loaded) {
+                analytics_frame.contentWindow.postMessage('enable_addthis', analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postRapidMessage() {
+                            if (analytics_iframe_loaded) {
+                    var is_ajax = '';
+                    var route = '/post/:id/:summary';
+                    var tumblelog_id = '336128945';
+                    var yahoo_space_id = '1197719230';
+                    var rapid_client_only = '1';
+                    var apv = '1';
+                    var rapid_ex = '';
+
+                    analytics_frame.contentWindow.postMessage(
+                        [
+                            'tick_rapid', is_ajax, route, user_logged_in, tumblelog_id,
+                            yahoo_space_id, rapid_client_only, apv, rapid_ex
+                        ].join(';'),
+                        analytics_frame.src.split('/analytics.html')[0]
+                    );
+                }
+                    }
+    })();
+</script><script type="text/javascript">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1487957370&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvY29mZmVlaG9saWMtYmxvZy50dW1ibHIuY29tXC9wb3N0XC8xNTczMTI3MjAxNTRcL2NvbXBhcmlzaW9uLWRyaXAtY29mZmVlLXZzLXB1bXAtZXNwcmVzc28iLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvcG9zdFwvOmlkXC86c3VtbWFyeSJ9&U=CKKPPDEJLF&K=7139bc8e684c1246a82a558ea53f95826a107464f9969b003a9a9cb281b0f7f6&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1487957370&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvY29mZmVlaG9saWMtYmxvZy50dW1ibHIuY29tXC9wb3N0XC8xNTczMTI3MjAxNTRcL2NvbXBhcmlzaW9uLWRyaXAtY29mZmVlLXZzLXB1bXAtZXNwcmVzc28iLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvcG9zdFwvOmlkXC86c3VtbWFyeSIsIm5vc2NyaXB0IjoxfQ==&U=CKKPPDEJLF&K=68201ac5a854686b19aa854644541520811c1b18093790b527aa897788a0af15&R="></noscript><script >
+        (function (w,d) {
+            'use strict';
+            var l = function(el, type, listener, useCapture) {
+                el.addEventListener ?
+                el.addEventListener(type, listener, !!useCapture) :
+                el.attachEvent && el.attachEvent('on' + type, listener, !!useCapture);
+            };
+            var a = function () {
+                                if (d.getElementById('tumblr-cdx')) {
+                    return;
+                }
+                var s = d.createElement('script');
+                var el = d.getElementsByTagName('script')[0];
+                s.async = true;
+                s.src = 'https://assets.tumblr.com/assets/scripts/vendor/cedexis/cedexis.radar.js?_v=436757e3e307f277d851f6d15b7a1a18';
+                s.type = 'text/javascript';
+                s.id = 'tumblr-cdx';
+                d.body.appendChild(s);
+            };
+            l(w,'load',a);
+        }(window, document));
+</script><script type="text/javascript">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1487957370&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2NvZmZlZWhvbGljLWJsb2cudHVtYmxyLmNvbVwvcG9zdFwvMTU3MzEyNzIwMTU0XC9jb21wYXJpc2lvbi1kcmlwLWNvZmZlZS12cy1wdW1wLWVzcHJlc3NvIiwicmVxdHlwZSI6MCwicm91dGUiOiJcL3Bvc3RcLzppZFwvOnN1bW1hcnkiLCJwb3N0cyI6W3sicG9zdGlkIjoiMTU3MzEyNzIwMTU0IiwiYmxvZ2lkIjoiMzM2MTI4OTQ1Iiwic291cmNlIjozM31dfQ==&U=OMCMFBGOCF&K=f7b1c5327b6f28ee5afd8e511982c8901b6cce62e91c8baee6d1d333278c0f81&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1487957370&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2NvZmZlZWhvbGljLWJsb2cudHVtYmxyLmNvbVwvcG9zdFwvMTU3MzEyNzIwMTU0XC9jb21wYXJpc2lvbi1kcmlwLWNvZmZlZS12cy1wdW1wLWVzcHJlc3NvIiwicmVxdHlwZSI6MCwicm91dGUiOiJcL3Bvc3RcLzppZFwvOnN1bW1hcnkiLCJwb3N0cyI6W3sicG9zdGlkIjoiMTU3MzEyNzIwMTU0IiwiYmxvZ2lkIjoiMzM2MTI4OTQ1Iiwic291cmNlIjozM31dLCJub3NjcmlwdCI6MX0=&U=OMCMFBGOCF&K=437ee7d0b86e7a2bcde1e68ae2ca1c7f6b0ba8d1d6d23b90f21b4da55a04fd93&R="></noscript><noscript id="bootloader" data-bootstrap="{&quot;Components&quot;:{&quot;PostActivity&quot;:[],&quot;TumblelogIframe&quot;:{&quot;unified&quot;:false,&quot;variant&quot;:null,&quot;isCompact&quot;:false,&quot;tumblelogBundleSrc&quot;:&quot;https:\/\/assets.tumblr.com\/client\/prod\/standalone\/tumblelog\/index.build.js?_v=ad09274216a60cd1301afa0a2961e7c8&quot;,&quot;tumblelogName&quot;:&quot;coffeeholic-blog&quot;,&quot;isLoggedIn&quot;:false,&quot;isFriend&quot;:false,&quot;formKey&quot;:&quot;&quot;,&quot;canSubscribe&quot;:false,&quot;isSubscribed&quot;:false,&quot;tumblelogTitle&quot;:&quot;Coffeeholic&quot;,&quot;tumblelogAvatar&quot;:&quot;https:\/\/68.media.tumblr.com\/avatar_324590211ad1_40.png&quot;,&quot;tumblelogHost&quot;:&quot;https:\/\/coffeeholic-blog.tumblr.com&quot;,&quot;isOptica&quot;:false,&quot;isCustomTheme&quot;:false,&quot;themeHeaderImage&quot;:&quot;https:\/\/secure.static.tumblr.com\/8f35773ed436e13380988d637c9319f8\/wpnvqkn\/Feyolggkq\/tumblr_static_tumblr_static_bsw31s65p4gs0wg8wk44gkwg0_focused_v3.jpg&quot;,&quot;themeBackgroundColor&quot;:&quot;#FAFAFA&quot;,&quot;themeTitleColor&quot;:&quot;#444444&quot;,&quot;themeAccentColor&quot;:&quot;#529ECC&quot;,&quot;brag&quot;:true,&quot;adsEnabled&quot;:false,&quot;canShowAd&quot;:true,&quot;isPremium&quot;:null,&quot;showLrecAds&quot;:false,&quot;showStickyLrecBackfill&quot;:false,&quot;showGeminiAds&quot;:false,&quot;geminiSectionCodeDesktop&quot;:&quot;a10bca9c-0c5d-4a02-ab13-14ab8513d81d&quot;,&quot;geminiSectionCodeMobile&quot;:&quot;ced63809-b609-4aca-96a0-abc099acba6b&quot;,&quot;currentPageType&quot;:&quot;single_post&quot;,&quot;currentPage&quot;:&quot;1&quot;,&quot;searchQuery&quot;:&quot;&quot;,&quot;tag&quot;:&quot;&quot;,&quot;query&quot;:&quot;&quot;,&quot;chrono&quot;:false,&quot;postId&quot;:&quot;157312720154&quot;,&quot;src&quot;:&quot;https:\/\/coffeeholic-blog.tumblr.com\/post\/157312720154\/comparision-drip-coffee-vs-pump-espresso&quot;,&quot;postUrl&quot;:&quot;&quot;,&quot;isBlocked&quot;:null,&quot;isAdmin&quot;:false,&quot;lookupButtonUrl&quot;:&quot;&quot;,&quot;showSpamButton&quot;:false,&quot;showRootPostButton&quot;:false,&quot;rootPostUrl&quot;:&quot;&quot;,&quot;showRadarPostButton&quot;:false,&quot;radarKeys&quot;:&quot;&quot;,&quot;isUniblocked&quot;:false,&quot;isNsfw&quot;:false,&quot;isAdult&quot;:false,&quot;isSpam&quot;:false,&quot;isPrimaryBlog&quot;:false,&quot;canEdit&quot;:false,&quot;canReblogSelf&quot;:false,&quot;showLikeButton&quot;:false,&quot;showReblogButton&quot;:false,&quot;reblogUrl&quot;:&quot;&quot;,&quot;showFanMailButton&quot;:false,&quot;showMessagingButton&quot;:false,&quot;loginCheckIframeSrc&quot;:&quot;https:\/\/assets.tumblr.com\/assets\/html\/iframe\/login_check.html?_v=dee566962ea1a740a8caa73d7e28af5b&quot;,&quot;appInstallUrl&quot;:&quot;https:\/\/go.onelink.me\/893408789?pid=tumblr_blog_network\u0026c=tumblr_blog_network\u0026af_sub3=blog_name&quot;,&quot;appOpenReferrer&quot;:&quot;mobile_banner&quot;,&quot;isShowSearch&quot;:true}},&quot;Flags&quot;:{&quot;doods&quot;:&quot;eyJmaWx0ZXJfbnNmdyI6dHJ1ZSwia2V5Y29tbWFuZF9hdXRvX3BhZ2luYXRlIjp0cnVlLCJsb2dnZWRfb3V0X3NlYXJjaCI6dHJ1ZSwiYXJjaGl2ZS1wbHVzIjp0cnVlLCJzZWN1cmVfZm9ybV9rZXkiOnRydWUsInNlY3VyZV9mb3JtX2tleV9mdWxseV9vbiI6dHJ1ZSwidHVtYmxlbG9nX3BvcG92ZXIiOnRydWUsImNhbm9uaWNhbF91cmxfd3JpdGVzIjp0cnVlLCJlbmFibGVfY2FwdHVyZV9qcyI6dHJ1ZSwicHJpbWFfcG9zdF9mb3JtcyI6dHJ1ZSwibG9ja2VkX3JlYmxvZ191aSI6dHJ1ZSwidGFibGV0X2Jhbm5lcl9hY3RpdmUiOnRydWUsIm1vYmlsZV9iYW5uZXJfYWN0aXZlIjp0cnVlLCJsb2dfc2VhcmNoX2JveCI6dHJ1ZSwidXNlcl9tZW50aW9ucyI6dHJ1ZSwiaHRtbDVfYXVkaW9fcGxheWVyIjp0cnVlLCJwb3BvdmVyX3JlY29tbWVuZGF0aW9ucyI6dHJ1ZSwiaW5kYXNoX3JlY29tbWVuZGF0aW9ucyI6dHJ1ZSwicG9wdGljYV90dW1ibGVsb2dfcG9wb3ZlcnMiOnRydWUsInR1bWJscl90diI6dHJ1ZSwiZGVwcmVjYXRlX2ZlYXR1cmVkX3RhZ3MiOnRydWUsInJlYmxvZ191aV9yZWZyZXNoIjp0cnVlLCJ0YWJfc3dpdGNoZXIiOnRydWUsImZhc3RfY29tcG9zZSI6dHJ1ZSwiZGFzaGJvYXJkX3JlZnJlc2giOnRydWUsIm1vYmlsZV93ZWJfcGhvdG9zZXRzIjp0cnVlLCJtb2JpbGVfd2ViX2dhdGUiOnRydWUsIm1vYmlsZV93ZWJfcGFnZV90aXRsZXMiOnRydWUsIm1vYmlsZV93ZWJfYWJ1c2VfZm9ybSI6dHJ1ZSwiZG9udF9jYXN0X2pzX2ZvbGxvd3MiOnRydWUsImFkc19uZXdfdmVuZG9yX2J1dHRvbnMiOnRydWUsImJsb2NrX2ZlYXR1cmUiOnRydWUsInJlYWN0aXZhdGlvbl9mbG93Ijp0cnVlLCJndWxwanNfYWRtaW4iOnRydWUsImVuYWJsZV9qc19lcGhlbWVyYWxfbG9nIjp0cnVlLCJsb2dfbGFkeSI6dHJ1ZSwiY3Nsb2dnZXJfanMiOnRydWUsImRpc2NvdmVyeV9odWJfYWNjZXNzIjp0cnVlLCJoZWFkZXJfYWNjb3VudF9tZW51Ijp0cnVlLCJlbmFibGVfc2hhcmVfZW1iZWRfY29kZSI6dHJ1ZSwicmVkZGl0X3NoYXJpbmciOnRydWUsInBvc3RfaXRfZm9yd2FyZCI6dHJ1ZSwicGVlcHJfc2VhcmNoX2FuZF9maWx0ZXIiOnRydWUsImludGVybnNfcGFnZSI6dHJ1ZSwiZm9sbG93ZWRfc2VhcmNoZXNfYmlnX3dlYiI6dHJ1ZSwiZGFybGFfYWRfZmVlZGJhY2siOnRydWUsImxpdmVwaG90b3Nfd2ViIjp0cnVlLCJscmVjX29uX2Jsb2dfcGFnZXNfcGVlcHIiOnRydWUsImhpZGVfZGVmYXVsdF9oZWFkZXJzX2Jsb2dfY2FyZHMiOnRydWUsImRpc2FibGVfeWFob29fYl9jb29raWUiOnRydWUsImxpdmVwaG90b3MiOnRydWUsInN0aWNreV9hZHMiOnRydWV9&quot;},&quot;Context&quot;:{&quot;name&quot;:&quot;default&quot;,&quot;time&quot;:1487957370000,&quot;userinfo&quot;:{&quot;primary&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;channels&quot;:[]},&quot;hosts&quot;:{&quot;assets_host&quot;:&quot;https:\/\/assets.tumblr.com&quot;,&quot;secure_assets_host&quot;:&quot;https:\/\/assets.tumblr.com&quot;,&quot;www_host&quot;:&quot;https:\/\/www.tumblr.com&quot;,&quot;secure_www_host&quot;:&quot;https:\/\/www.tumblr.com&quot;,&quot;embed_host&quot;:&quot;https:\/\/embed.tumblr.com&quot;,&quot;safe_host&quot;:&quot;https:\/\/safe.txmblr.com&quot;,&quot;platform_host&quot;:&quot;https:\/\/platform.tumblr.com&quot;},&quot;language&quot;:&quot;en_US&quot;,&quot;language_simple&quot;:&quot;en&quot;,&quot;assets&quot;:&quot;https:\/\/assets.tumblr.com\/client\/prod\/&quot;},&quot;Translations&quot;:{&quot;%1$sReport %2$s&#039;s post?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;:&quot;%1$sReport %2$s&#039;s reblog?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;,&quot;%1$sReport %2$s&#039;s reply?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;:&quot;%1$sReport %2$s&#039;s reblog?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;}}"></noscript><script src="https://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=ad09274216a60cd1301afa0a2961e7c8"></script></body>
+</html>

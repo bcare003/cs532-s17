@@ -1,0 +1,883 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7" lang="en"><![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie10 lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie10 lt-ie9" lang="en"><![endif]-->
+<!--[if (IE 9)&!(IEMobile)]><html class="no-js lt-ie10" lang="en"><![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+	<meta http-equiv="Imagetoolbar" content="no" />
+	<link rel="shortcut icon" href="http://assets.parentherald.com/static/common/_v1.0.0/images/ph.ico" type="image/x-icon" />
+	<link rel="alternate" type="application/rss+xml" title="Parent Herald RSS Feeds" href="http://www.parentherald.com/rss/archives/archives.xml" />
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+	    <title>&#039;Dragon Ball Super&#039; Spoilers: Apathetic Goku and Gohan&#039;s End Addressed; Fan Theories Speculate on Protagonists&#039; Character Development : News : Parent Herald</title>
+    <meta name="title" content="&#039;Dragon Ball Super&#039; Spoilers: Apathetic Goku and Gohan&#039;s End Addressed; Fan Theories Speculate on Protagonists&#039; Character Development" />
+    <meta name="keywords" content="dragon ball super, dragon ball super spoilers, dragon ball" />
+    <meta name="description" content="Dragon Ball Super spoilers suggest some interesting points for Goku and Gohan." />
+            <meta name="author" content="ParentHerald" />
+                <meta name="copyright" content="2016 ParentHerald" />
+                <meta name="subject" content="parentherald.com" />
+        <meta name="robots" content="index, follow" />
+    <meta name="news_keywords" content="dragon, ball, super, spoilers, apatheric, goku, and, gohans, end, addressed, fan, theories, speculate, on, protagonists, character, development" />
+    <meta name="Googlebot-News" content="index, follow" />
+
+
+	<link rel="amphtml" href="http://www.parentherald.com/amp/articles/56472/20160724/dragon-ball-super-spoilers-apatheric-goku-and-gohans-end-addressed-fan-theories-speculate-on-protagonists-character-development.htm" />
+	<link rel="canonical" href="http://www.parentherald.com/articles/56472/20160724/dragon-ball-super-spoilers-apatheric-goku-and-gohans-end-addressed-fan-theories-speculate-on-protagonists-character-development.htm" />
+			<meta property="og:type" content="article"/>
+		<meta property="og:url" content="http://www.parentherald.com/articles/56472/20160724/dragon-ball-super-spoilers-apatheric-goku-and-gohans-end-addressed-fan-theories-speculate-on-protagonists-character-development.htm"/>
+		<meta property="og:site_name" content="Parent Herald"/>
+		<meta property="og:image" content="http://images.parentherald.com/data/images/full/38196/dragon-ball-z-resurrection-f-new-york-premiere.jpg"/>
+		<meta property="og:title" content="&#039;Dragon Ball Super&#039; Spoilers: Apathetic Goku and Gohan&#039;s End Addressed; Fan Theories Speculate on Protagonists&#039; Character Development"/>
+		<meta property="og:description" content="Dragon Ball Super spoilers suggest some interesting points for Goku and Gohan."/>
+		<meta property="article:published_time" content="2016-07-24"/>
+		<!--	<meta property="fb:app_id" content="--><!--" />-->
+	<meta property="fb:app_id" content="1772118563039309" />
+			<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:site" content="@ParentHerald">
+		<meta name="twitter:creator" content="@ParentHerald">
+		<meta name="twitter:domain" content="parentherald.com">
+		<meta name="twitter:url" content="http://www.parentherald.com/articles/56472/20160724/dragon-ball-super-spoilers-apatheric-goku-and-gohans-end-addressed-fan-theories-speculate-on-protagonists-character-development.htm">
+		<meta name="twitter:title" content="&#039;Dragon Ball Super&#039; Spoilers: Apathetic Goku and Gohan&#039;s End Addressed; Fan Theories Speculate on Protagonists&#039; Character Development">
+		<meta name="twitter:description" content="Dragon Ball Super spoilers suggest some interesting points for Goku and Gohan.">
+		<meta name="twitter:image"
+		      content="http://images.parentherald.com/data/images/full/38196/dragon-ball-z-resurrection-f-new-york-premiere.jpg">
+
+			<meta name="syndication-source" content="http://www.parentherald.com/articles/56472/20160724/dragon-ball-super-spoilers-apatheric-goku-and-gohans-end-addressed-fan-theories-speculate-on-protagonists-character-development.htm" />
+
+<!-- css -->
+<link rel="stylesheet" type="text/css" media="screen" href="http://assets.parentherald.com/static/common/_v1.0.0/main.css?589195c">
+<link rel="stylesheet" type="text/css" media="screen" href="http://assets.parentherald.com/static/common/_v0.0.0/css/adunit.desktop.css?14363ca">
+<link href="https://file.myfontastic.com/izpqsZpnpALCvZXL529ZGR/icons.css" rel="stylesheet">
+
+<!-- javascript -->
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazyload/1.9.1/jquery.lazyload.min.js"></script>
+<script type="text/javascript" src="http://assets.parentherald.com/static/js/common/random.js"></script>
+
+
+<!--[if (lt IE 9)]>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+	<![endif]-->
+
+
+<script type='text/javascript'>
+var adoptsDeviceType = 'computer';
+var adoptsShouldShowSpecialAds = true;
+if (window.localStorage){ 
+var adoptsNotFirstVisit = localStorage.getItem('_adopts_not_first_visit'); 
+if (!adoptsNotFirstVisit && adoptsDeviceType!= 'computer'){
+adoptsShouldShowSpecialAds = false;
+localStorage.setItem('_adopts_not_first_visit', 1)
+}
+}
+</script>
+<script type="text/javascript">
+_current_device_type='computer';
+_current_country='US';
+var _current_ad_cats_gpt="";
+var _current_ad_sects_gpt="'news'";
+var _current_ad_keywords_gpt="'dragon','ball','super','spoilers','apatheric','goku','and','gohans','end','addressed','fan','theories','speculate','on','protagonists','character','development'";
+;if (document.cookie.indexOf('pm_a_b_test_indicator') >= 0) {
+					var ca = document.cookie.split(';');
+					for(var i = 0; i <ca.length; i++) {
+			        var c = ca[i];
+			        while (c.charAt(0)==' ') {
+			            c = c.substring(1);
+			        }
+			        if (c.indexOf('pm_a_b_test_indicator') == 0) {
+			            window.pm_a_b_test_indicator = Number(c.substring('pm_a_b_test_indicator'.length+1,c.length));
+			            break;
+			        }
+			    }
+				} else {
+				  window.pm_a_b_test_indicator=Math.random();
+				  expiry = new Date();
+				  expiry.setTime(expiry.getTime()+(7*86400*1000)); // 7 days
+				  document.cookie = 'pm_a_b_test_indicator=' + window.pm_a_b_test_indicator + '; expires=' + expiry.toGMTString();
+				};
+</script>
+
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script><script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/27637309/parentherald/articles',[[728,90],[970,90],[970,125],[970,250]],'article_center_top_computer').addService(googletag.pubads()).setTargeting("poz2",["center_top"]);
+googletag.defineSlot('/27637309/parentherald/articles',[300,250],'article_right_top_computer').addService(googletag.pubads()).setTargeting("poz2",["right_top"]);
+googletag.defineSlot('/27637309/parentherald/articles',[[300,600],[300,250]],'article_right_middle1_computer').addService(googletag.pubads()).setTargeting("poz2",["right_middle1"]);
+googletag.defineSlot('/27637309/parentherald/articles',[[728,90],[970,90],[970,125],[970,250]],'article_center_bottom_computer').addService(googletag.pubads()).setTargeting("poz2",["center_bottom"]);
+googletag.defineSlot('/27637309/parentherald/articles',[300,250],'article_center_middle1_computer').addService(googletag.pubads()).setTargeting("poz2",["center_middle1"]);
+googletag.defineSlot('/27637309/parentherald/articles',[[728,90],[468,60]],'article_center_middle2_computer').addService(googletag.pubads()).setTargeting("poz2",["center_middle2"]);
+googletag.defineSlot('/27637309/parentherald/articles',[300,250],'article_right_middle2_computer').addService(googletag.pubads()).setTargeting("poz2",["right_middle2"]);
+googletag.defineSlot('/27637309/parentherald/articles',[300,250],'article_center_middle5_computer').addService(googletag.pubads()).setTargeting("poz2",["center_middle5"]);
+googletag.defineSlot('/27637309/parentherald/articles',[300,250],'article_center_middle6_computer').addService(googletag.pubads()).setTargeting("poz2",["center_middle6"]);
+googletag.defineSlot('/27637309/parentherald/articles',[300,250],'article_right_middle3_computer').addService(googletag.pubads()).setTargeting("poz2",["right_middle3"]);
+eval('googletag.pubads().setTargeting("sect",['+_current_ad_sects_gpt+']);');
+eval('googletag.pubads().setTargeting("cats",['+_current_ad_cats_gpt+']);');
+eval('googletag.pubads().setTargeting("keys",['+_current_ad_keywords_gpt+']);');
+googletag.pubads().setTargeting('vsb',[document.visibilityState || 'undefined']);
+googletag.pubads().setTargeting('ar',[(typeof get_item_from_client_storage === 'function') ? get_item_from_client_storage('__is_auto_refresh__') || '0' : '0']);
+if (typeof set_item_to_client_storage === 'function'){set_item_to_client_storage('__is_auto_refresh__', '0');}
+
+if(adoptsShouldShowSpecialAds){googletag.defineOutOfPageSlot('/27637309/parentherald/articles','article_footer_page_computer_oop1').addService(googletag.pubads()).setTargeting('type','page');}
+googletag.pubads().enableAsyncRendering();
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();});
+</script><!-- //OpenX header start 20161110-->
+<script type="text/javascript" src="//universal-d.openx.net/w/1.0/jstag?nc=27637309-parentHerald"></script>
+<!-- //OpenX header end 20161110-->
+<!-- //Sonobi header start -->
+<script type="text/javascript"  src="http://mtrx.go.sonobi.com/morpheus.33universal.2505.js"></script>
+<!-- //Sonobi header end -->
+
+<!-- article_header_html5_computer start-->
+<!-- gumgumadrecover -->
+<script>ggv2id='71523cd6';</script><script src="https://g2.gumgum.com/javascripts/ggv2.js"></script>
+
+<script data-cfasync="false" type="text/javascript">(function(w, d) { var s = d.createElement('script'); s.src = '//delivery.adrecover.com/16332/adRecover.js'; s.type = 'text/javascript'; s.async = true; (d.getElementsByTagName('head')[0] || d.getElementsByTagName('body')[0]).appendChild(s); })(window, document);</script>
+<!-- gumgumadrecover -->
+<!-- article_header_html5_computer end -->
+
+<!-- article_header_html6_computer start-->
+<!-- getadmiral -->
+<script>(function(a,b,c,d,e){e=a.createElement(b);a=a.getElementsByTagName(b)[0];e.async=1;e.src=c;a.parentNode.insertBefore(e,a)})(document,'script','//brassrule.com/9689ecd5de3f143853ff0de6edc2112ac9afd966efc83c76e9768afce5c46ebf69b93fb946069d6f6ac1c74d8084d2beb8aae19c1da1d732cf1e89d3f8a8');</script>
+<!-- getadmiral -->
+<!-- article_header_html6_computer end -->
+
+<!-- article_header_html7_computer start-->
+<!-- kiosk inread -->
+<!-- Begin Kiosked - parentherald.com --> <script type='text/javascript' async='async' src='//scripts.kiosked.com/loader/kiosked-loader.js?pub=11164&site=11927'></script><!-- End Kiosked - parentherald.com -->
+
+<!-- kiosk inread -->
+<!-- article_header_html7_computer end -->
+<!-- AdSupply --><script data-cfasync='false' type='text/javascript'>
+/*643*/ 
+(function(s, o, l, v, e, d) {
+    if (s[o] == null && s[l + e]) {
+        s[o] = "loading";
+        s[l + e](d, l = function() {
+            s[o] = "complete";
+            s[v + e](d, l, !1)
+        }, !1)
+    }
+})(document, "readyState", "add", "remove", "EventListener", "DOMContentLoaded");
+(function() {
+    var s = document.createElement("script");
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = "//cdn.engine.4dsply.com/Scripts/infinity.js.aspx?guid=1efde416-eaed-494e-b731-33ec17b4bca3";
+    s.id = "infinity";
+    s.setAttribute("data-guid", "1efde416-eaed-494e-b731-33ec17b4bca3");
+    s.setAttribute("data-version", "async");
+    s.setAttribute("data-abr", "false");
+    var e = document.getElementsByTagName("script")[0];
+    e.parentNode.insertBefore(s, e)
+})();
+(function() {
+    var calc = function() {
+        if (typeof g367CB268B1094004A3689751E7AC568F == "undefined" || !g367CB268B1094004A3689751E7AC568F.Core) {
+            var domain = "gloomwrite.com";
+            var file = "ac.aspc";
+            var siteGuid = "1efde416-eaed-494e-b731-33ec17b4bca3".replace(/-/g, "");
+            (function() {
+                var s = document.createElement("script");
+                s.type = "text/javascript";
+                s.async = true;
+                s.src = "//" + domain + "/" + siteGuid;
+                s.id = "infinity";
+                s.setAttribute("data-guid", "1efde416-eaed-494e-b731-33ec17b4bca3");
+                s.setAttribute("data-version", "async");
+                s.setAttribute("data-abr", "true");
+                var e = document.getElementsByTagName("script")[0];
+                e.parentNode.insertBefore(s, e)
+            })()
+        }
+    };
+    var addEvent = function(element, event, fn) {
+        if (element.addEventListener) element.addEventListener(event, fn, false);
+        else if (element.attachEvent) element.attachEvent("on" + event, fn)
+    };
+    addEvent(window, "load", calc)
+})();
+</script><!-- AdSupply -->
+<!--block voicefive; very important-->
+<style>
+	#csContainer{
+		display: none !important;
+	}
+	.adunit_leaderboard {
+		text-align: center;
+	}
+	video, embed, object, .videocontent {
+		max-width:100% !important; display: block; margin: auto;
+	}
+	.ph-menu ul li { padding-right:3.45em;}
+	@media only screen and (max-width: 1366px) and (min-width: 1281px){
+		.ph-menu ul li { padding-right:2.85em;}
+	}
+	@media only screen and (max-width: 1280px) and (min-width: 1025px){
+		.ph-menu ul li { padding-right:1.46em;}
+	}
+	@media (max-width: 1024px){
+		.ph-menu ul li { padding-right:1.19em;}
+	}
+</style><!--disable voicefive-->
+
+<style>.mobile-toggle{display:none;}</style>
+</head>
+<body >
+	<div id="fb-root"></div>
+<script>(function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s); js.id = id;
+//		js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6&appId=//";
+		js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=1772118563039309";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+
+<header class="ph-header">
+	<div class="container">
+		<div class="hd-sns">
+			<ul class="sns">
+				<li><a href="http://www.facebook.com/ParentHerald" target="_blank"><i class="icon-facebook"></i></a></li>
+				<li><a href="https://twitter.com/ParentHerald" target="_blank"><i class="icon-twitter"></i></a></li>
+				<li><a href="/rss/"><i class="icon-rss"></i></a></li>
+			</ul>
+		</div>
+		<div class="logo">
+			<a title="Parent Herald" href="/"><img src="http://assets.parentherald.com/static/common/_v1.0.0/images/logo.png" /></a>
+		</div>
+		<ul class="search">
+			<li>
+				<form action="/search/" method="GET" name="search" id="srcform">
+					<input type="search" class="input srcframe" id="srcinput" name="q" placeholder="Search" style="display:none;" />
+					<a href="javascript:;" class="topsearchbutton" id="topsearchbutton"><i class="icon-search-2"></i></a>
+				</form>
+			</li>
+			<script>
+				$("#topsearchbutton").click(function(){
+					$("#srcinput").toggle();
+					if ($("#srcinput").is(":visible")) {
+						$("#srcinput").focus();
+					}
+				})
+				$('#srcinput').keypress(function(e) {
+					if(e.keyCode == 27) {
+						return $("#srcinput").val('').hide();
+					}
+					if (e.keyCode == 13) {
+						$("#srcform").submit();
+					}
+				})
+			</script>
+		</ul>
+	</div>
+</header>
+
+<nav class="ph-menu">
+	<ul>
+		<li class="selected"><a href="/pregnancy/">PREGNANCY</a></li>
+		<li><a href="/infant/">BABY</a></li>
+		<li><a href="/toddler/">TODDLER</a></li>
+		<li><a href="/big-kid/">BIG KID</a></li>
+		<li><a href="/teen/">TEEN</a></li>
+		<li><a href="/education-trends/">EDUCATION</a></li>
+		<li><a href="/special-needs-kids/">SPED KIDS</a></li>
+		<li><a href="/health/">WELLNESS</a></li>
+		<li><a href="/community/">FAMILY LIFE</a></li>
+		<li><a href="/celebrity-moms/">CELEBRITY MOMS</a></li>
+	</ul>
+</nav>
+
+<!-- article_center_top_computer start-->
+<div id='adunit_article_center_top_computer' class='adunit_leaderboard'>
+<div id='article_center_top_computer'>
+ <script type='text/javascript'>
+  googletag.cmd.push(function() { googletag.display('article_center_top_computer'); });
+ </script>
+</div>
+</div>
+<!-- article_center_top_computer end -->
+	<section class="ph-contents">
+		<div style="width: 160px; position:absolute;left:-35px;">
+			 		</div>
+		<!-- right side -->
+				<div class="att-container">
+<article class="ph-article">
+	<div class="ph-article-header">
+		<div class="category">
+			<span class="article-breadCrumb">
+			 <ul>
+				 <li class="article-breadCrumb"> <a itemprop="item" href="/daddies">Daddy</a></li>
+			 </ul>
+			</span>
+		</div>
+		<h1>&#039;Dragon Ball Super&#039; Spoilers: Apathetic Goku and Gohan&#039;s End Addressed; Fan Theories Speculate on Protagonists&#039; Character Development</h1>
+		<div class="at-date">
+			<span class="t1">
+							By <a href="/reporters/edelweiss-snow"><em>Edelweiss Snow</em></a>,
+						Parent Herald</span><span>  July 24, 12:10 am</span>
+		</div>
+				<div class="at-tag">
+			<span class="t1"><i class="icon-tag"></i> TAG</span>
+			<span class="t2"> <a href='/tags/dragon-ball-super'>dragon ball super</a>, <a href='/tags/dragon-ball-super-spoilers'>dragon ball super spoilers</a>, <a href='/tags/dragon-ball'>dragon ball</a></span>
+		</div><!-- /at-tag -->
+							<div class="addthis_sharing_toolbox"></div>
+		
+	</div><!-- /ph-article-headline-wrap -->
+	<div class="att-body1">
+				<div class="at_body">
+			<div class="article">
+				<p>There are so much to be left explored in "Dragon Ball Super," and spoilers and fan theories are definitely helping avid viewers see what could be ahead for the show's main protagonists. Apart from the Future Trunks arc, some fans have noted Goku's alleged character regression and Gohan's character redemption.</p>
+<!-- article_center_middle1_computer start-->
+<div id='adunit_article_center_middle1_computer' class='adunit_rectangle'>
+<div id='article_center_middle1_computer'>
+ <script type='text/javascript'>
+  googletag.cmd.push(function() { googletag.display('article_center_middle1_computer'); });
+ </script>
+</div>
+</div>
+<!-- article_center_middle1_computer end -->
+
+<p>In a <a href="https://www.reddit.com/r/dbz/comments/4tbp99/gokus_character_regression_dragon_ball_super/" rel="nofollow" target="_blank">Reddit </a>forum, user SirTristanity mentioned that the Goku in "Dragon Ball Super" lacks the empathetic attitude the character has in other series. He then continued to argue that Goku could be easily replaced by Vegeta as the main protagonist for Super.</p>
+<p>"While Goku has always had a carefree attitude, this purely apathetic nature that he has developed was never obvious to viewers during the events of Dragon Ball Z," the user noted. "He has always given us the impression that even above his desire to fight strong opponents and pushing his limits, he places even higher value in the lives of his friends and innocent bystanders."</p>
+<p>"Fast forward to the most recent episode 52. Vegeta is recalling Trunks' description of what happened in the future and how Bulma was slaughtered by Black," the "Dragon Ball Super" fan added. "Black's attack on his family enrages Vegeta, prompting him to train intensely in the gravity room. Directly after this scene, Goku notes that 'Vegeta sure is pissed off.' At this point in time, I couldn't help but thinking to myself 'well...why aren't YOU pissed off?' Did he forget that Bulma is his oldest friend? That's Trunks is completely devastated by the destruction of his world? It's like all that concern for innocent lives and the well being of his friends completely disappeared with the beginning of Super."</p>
+<p>In a separate <a href="https://www.reddit.com/r/dbz/comments/4te6yp/ultimate_gohan_pontification_super_5254/" rel="nofollow" target="_blank">Reddit </a>thread, on the other hand, another fan made valid points for Gohan's character. Speculations have surfaced about the end of the Saiyan, and this "Dragon Ball Super" fan made interesting claims on why his character could still be great.</p>
+<p>"I have been ranting a lot about Gohan since last week when everyone decided that ep 52 would be the Death of Gohan as a character relevant to Super's plot," user Terez27 noted. "My strong feelings on this subject caught me kind of off-guard. I like Gohan, but he is far from my favorite character in DB, or even my favorite Saiyan. But all this pontificating about the End of Gohan strikes me as some Senbei sharkface level overreaction."</p>
+<p>"I think it's Piccolo's line that's really damning - if the guy who was training him is telling us and Trunks not to expect anything of him, what makes us think that's not the case?" User mozillavulpix replied. "Ep 52 was just so blatant in telling people to get over the <a href="http://amzn.to/2gCbZAj" rel="nofollow" target="_blank" >idea</a> of Gohan fighting. You could say it was almost a little too blatant, but I can't imagine Toei purposely making an episode just for a red herring. They've never done that before."</p>
+<p>What do you think of these "Dragon Ball Super" spoilers and observations? Do you agree? Sound off below!</p>
+<!-- article_center_middle2_computer start-->
+<div id='adunit_article_center_middle2_computer' class='adunit_rectangle'>
+<div id='article_center_middle2_computer'>
+ <script type='text/javascript'>
+  googletag.cmd.push(function() { googletag.display('article_center_middle2_computer'); });
+ </script>
+</div>
+</div>
+<!-- article_center_middle2_computer end -->
+
+<p>Stay tuned for more "Dragon Ball Super" spoilers here!</p>
+<p><iframe class="videocontent" src="https://www.youtube.com/embed/GwNUgYrpPpQ" width="640" height="360" frameborder="0"></iframe></p></p>			</div>
+		</div>
+<!--		<div class="ad-sample2"><a href=""><img src="assets/images/temps/img-bn2.jpg"></a></div>-->
+				<div class="at-sns">
+			<div class="addthis_responsive_sharing"></div>
+		</div>
+		
+		<div class="at-copy">&copy; 2016 ParentHerald.com All rights reserved. Do not reproduce without permission.</div>
+		
+		
+<!-- article_center_middle4_computer start-->
+<div id='adunit_article_center_middle4_computer' class='adunit_rectangle'>
+<div id="rcjsload_50b044"></div>
+<script type="text/javascript">
+(function() {
+var rcel = document.createElement("script");
+rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+rcel.type = 'text/javascript';
+rcel.src = "http://trends.revcontent.com/serve.js.php?w=15712&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth);
+rcel.async = true;
+var rcds = document.getElementById("rcjsload_50b044"); rcds.appendChild(rcel);
+})();
+</script>
+</div>
+<!-- article_center_middle4_computer end -->
+		
+<!-- article_center_middle3_computer start-->
+<div id='adunit_article_center_middle3_computer' class='adunit_rectangle'>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&storeId=parentherald-20&adInstanceId=e61700d3-f545-4664-a197-4d365a97a199"></script>
+
+</div>
+<!-- article_center_middle3_computer end -->
+		<div id="amazon_related_products" style="display: none"></div>
+		
+
+		    <div class="att-related">
+            <div class="sec-title2">
+                    <h4>Related Articles</h4>
+            </div>
+
+                                                            <div class="row">
+                                        <div class="list">
+                            <a href="/articles/55791/20160720/dragon-ball-super-episode-53-air-date-rumors-news-update-son-gokus-fate-on-a-thread-loses-power-life-episode-reveal-blacks-true-identity-a-despicable-one.htm"><img src="http://images.parentherald.com/data/thumbs/full/53014/210/130/50/40/cosplay-enthusiasts-gather-for-animangaki-2013.jpg" width="210">
+                                    <h4 class="art-title5">'Dragon Ball Super' Episode 53 Air Date, News & Update: Son Goku's Fate On A Thread, Loses Power & Life; Episode 'Reveal Black's True Identity' A Despicable One?</h4></a>
+                    </div>
+                                                                        <div class="list">
+                            <a href="/articles/55739/20160719/dragon-ball-super-episode-53-air-date-major-spoilers-dbs.htm"><img src="http://images.parentherald.com/data/thumbs/full/52923/210/130/50/40/dragon-ball-son-goku-7.jpg" width="210">
+                                    <h4 class="art-title5">‘Dragon Ball Super’ Episode 53 Air Date and Spoilers: July 24 Air Date Cancelled; Trailer Shows True Identity of Black Goku?</h4></a>
+                    </div>
+                                                                        <div class="list">
+                            <a href="/articles/55344/20160718/dragon-ball-super-spoilers-end-near-series-put-hold-future.htm"><img src="http://images.parentherald.com/data/thumbs/full/51910/210/130/50/40/dragon-ball.jpg" width="210">
+                                    <h4 class="art-title5">'Dragon Ball Super' Spoilers: The End is Near? Series Put On Hold After Future Trunks Arc Finishes</h4></a>
+                    </div>
+                                                </div>
+                                                                                <div class="row">
+                                        <div class="list">
+                            <a href="/articles/54770/20160714/dragon-ball-xenoverse-2-news-and-updates-pre-order-collectors-edition-and-deluxe-edition-now-available-are-you-willing-to-spend-much.htm"><img src="http://images.parentherald.com/data/thumbs/full/52068/210/130/50/40/dragon-ball-6.jpg" width="210">
+                                    <h4 class="art-title5">'Dragon Ball Xenoverse 2' News and Updates: Pre-order, Collector's Edition, and Deluxe Edition Now Available; Are You Willing to Spend Much?</h4></a>
+                    </div>
+                                                                        <div class="list">
+                            <a href="/articles/54632/20160713/dragon-ball-xenoverse-2-release-date-news-super-gt-character.htm"><img src="http://images.parentherald.com/data/thumbs/full/51910/210/130/50/40/dragon-ball.jpg" width="210">
+                                    <h4 class="art-title5">'Dragon Ball Xenoverse 2' Release Date & News: No 'Super' Or 'GT' Characters Except Future Trunks And Black Goku? Special Edition Revealed!</h4></a>
+                    </div>
+                                                                        <div class="list">
+                            <a href="/articles/98570/20170221/anti-trump-protest-museums-remove-immigrant-artworks-view.htm"><img src="http://images.parentherald.com/data/thumbs/full/93697/210/130/50/40/academe-shows-immigrants-contribution-to-american-culture.jpg" width="210">
+                                    <h4 class="art-title5">Anti-Trump Protest: US Museums Remove Immigrant Artworks Amid Travel Ban</h4></a>
+                    </div>
+                                                </div>
+                                    </div><!-- /at-related -->
+
+		<style>
+			.ad-sample-c #adunit_article_center_middle5_computer, .ad-sample-c #adunit_article_center_middle6_computer {
+				width: 50% !important; clear:none; padding-left: 0 !important;
+			}
+		</style>
+		<div class="ad-sample-c">
+			
+<!-- article_center_middle5_computer start-->
+<div id='adunit_article_center_middle5_computer' class='adunit_rectangle'>
+<div id='article_center_middle5_computer'>
+ <script type='text/javascript'>
+  googletag.cmd.push(function() { googletag.display('article_center_middle5_computer'); });
+ </script>
+</div>
+</div>
+<!-- article_center_middle5_computer end -->
+			
+<!-- article_center_middle6_computer start-->
+<div id='adunit_article_center_middle6_computer' class='adunit_rectangle'>
+<div id='article_center_middle6_computer'>
+ <script type='text/javascript'>
+  googletag.cmd.push(function() { googletag.display('article_center_middle6_computer'); });
+ </script>
+</div>
+</div>
+<!-- article_center_middle6_computer end -->
+		</div>
+
+		
+		
+
+					<div class="at-comt">
+				<div class="fb-comments" data-href="http://www.parentherald.com/articles/56472/20160724/dragon-ball-super-spoilers-apatheric-goku-and-gohans-end-addressed-fan-theories-speculate-on-protagonists-character-development.htm" data-width="100%" data-numposts="5"></div>
+			</div>
+		
+	</div> <!-- /ph-body-sub -->
+	<div style= "width: 200px; float: left;">
+		 	</div>
+	<div class="ph-side">
+
+		<!-- right side -->
+		
+<!-- article_right_top_computer start-->
+<div id='adunit_article_right_top_computer' class='adunit_rectangle'>
+<div id='article_right_top_computer'>
+ <script type='text/javascript'>
+  googletag.cmd.push(function() { googletag.display('article_right_top_computer'); });
+ </script>
+</div>
+</div>
+<!-- article_right_top_computer end -->
+		<div class="s-nwletter">
+	<div class="sec-title2">
+		<h4>Sign up for our Newsletter</h4>
+	</div>
+	<div class="grid-col1">
+		<input id="email_side" type="email" class="input" placeholder="Email Address">
+		<input id="nlsubmit_side" type="button" class="btn" value="SUBMIT">
+		<p id="repword_side" class="coment" style="display:none;">
+	</div>
+</div><!-- /s-nwletter -->
+<script type="text/javascript">
+	$(document).ready(function(){
+		var repword=$('#repword_side');
+		$('#nlsubmit_side').click(function(){
+			$.ajax(
+				{
+					url:'/home/news/newsletter/mailchimp_insert.php',
+					type:'post',
+					data:{'nl':'3','email':$("#email_side").val()},
+					success:function(res){
+						repword.css('display','block');
+						repword.html("<span class='arr'></span>"+res);
+					}
+				}
+			);
+		});
+		$('#email_side').keypress(function(e) {
+			if (e.keyCode == 13) {
+				$('#nlsubmit_side').click();
+			}
+		})
+	});
+</script>
+
+
+		
+<div class="att-box">
+	<div class="sec-title2">
+		<h4>Most Popular</h4>
+	</div>
+			<div class="list">
+			<a href="/articles/98652/20170223/pro-life-16-year-old-girl-rips-teen-vogue-suggestion.htm"><img alt="Most Popular" src="http://images.parentherald.com/data/thumbs/full/93804/81/79/50/40/response-to-teen-vogue-from-a-pro-life-teen.png"></a>
+			<h3 class="art-title5">
+				<a href="/articles/98652/20170223/pro-life-16-year-old-girl-rips-teen-vogue-suggestion.htm">Pro-Life 16-Year-Old Girl Rips Teen Vogue Suggestion On What To Give A Friend Post-Abortion [WATCH]</a>
+			</h3>
+		</div>
+			<div class="list">
+			<a href="/articles/98527/20170219/spying-doll-germany-bans-friend-cayla-security-reasons.htm"><img alt="Most Popular" src="http://images.parentherald.com/data/thumbs/full/93645/81/79/50/40/german-watchdog-pulls-out-my-friend-cayla-doll-from-shelves.jpg"></a>
+			<h3 class="art-title5">
+				<a href="/articles/98527/20170219/spying-doll-germany-bans-friend-cayla-security-reasons.htm">Spying Doll: Germany Bans My Friend Cayla For Security Reasons</a>
+			</h3>
+		</div>
+			<div class="list">
+			<a href="/articles/98570/20170221/anti-trump-protest-museums-remove-immigrant-artworks-view.htm"><img alt="Most Popular" src="http://images.parentherald.com/data/thumbs/full/93697/81/79/50/40/academe-shows-immigrants-contribution-to-american-culture.jpg"></a>
+			<h3 class="art-title5">
+				<a href="/articles/98570/20170221/anti-trump-protest-museums-remove-immigrant-artworks-view.htm">Anti-Trump Protest: US Museums Remove Immigrant Artworks Amid Travel Ban</a>
+			</h3>
+		</div>
+			<div class="list">
+			<a href="/articles/98574/20170221/legislation-kids-senator-files-bill-pushing-school-start-hour-later.htm"><img alt="Most Popular" src="http://images.parentherald.com/data/thumbs/full/93701/81/79/50/40/start-school-later-gets-needed-support.jpg"></a>
+			<h3 class="art-title5">
+				<a href="/articles/98574/20170221/legislation-kids-senator-files-bill-pushing-school-start-hour-later.htm">Legislation For Kids: Senator Files Bill Pushing School To Start An Hour Later</a>
+			</h3>
+		</div>
+			<div class="list">
+			<a href="/articles/98497/20170217/pregnancy-tests-false-positive-results-possible.htm"><img alt="Most Popular" src="http://images.parentherald.com/data/thumbs/full/93603/81/79/50/40/false-positive-pregnancy-results.jpg"></a>
+			<h3 class="art-title5">
+				<a href="/articles/98497/20170217/pregnancy-tests-false-positive-results-possible.htm">Pregnancy Tests: Are False-Positive Results Possible At All?</a>
+			</h3>
+		</div>
+	</div><!-- /s-con -->
+
+		
+<!-- article_right_middle1_computer start-->
+<div id='adunit_article_right_middle1_computer' class='adunit_rectangle'>
+<div id='article_right_middle1_computer'>
+ <script type='text/javascript'>
+  googletag.cmd.push(function() { googletag.display('article_right_middle1_computer'); });
+ </script>
+</div>
+</div>
+<!-- article_right_middle1_computer end -->
+
+		
+<div class="att-box">
+	<div class="sec-title2">
+		<h4>Opinion</h4>
+	</div>
+			<div class="list">
+			<a href="/articles/98514/20170218/love-drawing.htm"><img alt="Most Popular" src="http://images.parentherald.com/data/thumbs/full/93615/81/79/50/40/kid-artist-stuff.jpg"></a>
+			<h3 class="art-title5">
+				<a href="/articles/98514/20170218/love-drawing.htm">For The Love Of Drawing</a>
+			</h3>
+		</div>
+			<div class="list">
+			<a href="/articles/98317/20170211/listening-vs-setting-boundaries.htm"><img alt="Most Popular" src="http://images.parentherald.com/data/thumbs/full/93438/81/79/50/40/put-an-end-to-back-talk-parents.jpg"></a>
+			<h3 class="art-title5">
+				<a href="/articles/98317/20170211/listening-vs-setting-boundaries.htm">Parenting Dilemma: Listening Vs. Setting Boundaries</a>
+			</h3>
+		</div>
+			<div class="list">
+			<a href="/articles/97605/20170120/closer-look-selfie-pros-cons-kids.htm"><img alt="Most Popular" src="http://images.parentherald.com/data/thumbs/full/92602/81/79/50/40/a-preschoolers-creative-selfie.jpg"></a>
+			<h3 class="art-title5">
+				<a href="/articles/97605/20170120/closer-look-selfie-pros-cons-kids.htm">A Closer Look At Selfie: Its Pros And Cons For Kids</a>
+			</h3>
+		</div>
+			<div class="list">
+			<a href="/articles/97937/20170131/concept-beauty-evolves-eyes-child.htm"><img alt="Most Popular" src="http://images.parentherald.com/data/thumbs/full/93064/81/79/50/40/beauty-in-american-society.jpg"></a>
+			<h3 class="art-title5">
+				<a href="/articles/97937/20170131/concept-beauty-evolves-eyes-child.htm">Concept Of Beauty: How It Evolves In The Eyes Of A Child</a>
+			</h3>
+		</div>
+	</div><!-- /s-con -->
+
+		
+<!-- article_right_middle2_computer start-->
+<div id='adunit_article_right_middle2_computer' class='adunit_rectangle'>
+<div id='article_right_middle2_computer'>
+ <script type='text/javascript'>
+  googletag.cmd.push(function() { googletag.display('article_right_middle2_computer'); });
+ </script>
+</div>
+</div>
+<!-- article_right_middle2_computer end -->
+
+		
+<div class="att-box">
+	<div class="sec-title2">
+		<h4>Our Picks</h4>
+	</div>
+			<div class="list">
+			<a href="/articles/98662/20170223/ivanka-trump-takes-5-year-old-daughter-arabella-special-field.htm"><img alt="Most Popular" src="http://images.parentherald.com/data/thumbs/full/93786/81/79/50/40/ivanka-trump-listens-to-arguments-at-supreme-court.png"></a>
+			<h3 class="art-title5">
+				<a href="/articles/98662/20170223/ivanka-trump-takes-5-year-old-daughter-arabella-special-field.htm">Ivanka Trump Takes 5-Year-Old Daughter Arabella For A Special Field Trip To The Supreme Court</a>
+			</h3>
+		</div>
+			<div class="list">
+			<a href="/articles/98659/20170223/virginia-tebow-bill-gets-rejected-3rd-year-governor-vetoes-proposal.htm"><img alt="Most Popular" src="http://images.parentherald.com/data/thumbs/full/93797/81/79/50/40/lawmaker-wants-homeschooled-students-to-be-able-to-participate-in-school-activities.png"></a>
+			<h3 class="art-title5">
+				<a href="/articles/98659/20170223/virginia-tebow-bill-gets-rejected-3rd-year-governor-vetoes-proposal.htm">Virginia Tebow Bill Gets Rejected For A 3rd Year, Governor Vetoes Proposal Allowing Home-Schooled Students In Public School Football</a>
+			</h3>
+		</div>
+			<div class="list">
+			<a href="/articles/98603/20170222/gop-lawmaker-takes-steps-abolish-department-education-files-bill-proposing.htm"><img alt="Most Popular" src="http://images.parentherald.com/data/thumbs/full/93738/81/79/50/40/department-of-education-abolishment.jpg"></a>
+			<h3 class="art-title5">
+				<a href="/articles/98603/20170222/gop-lawmaker-takes-steps-abolish-department-education-files-bill-proposing.htm">GOP Lawmaker Takes Steps To Abolish Department Of Education, Files Bill Proposing Agency's Dissolution</a>
+			</h3>
+		</div>
+			<div class="list">
+			<a href="/articles/98641/20170223/beyonce-adele-glorifying-pregnancy-motherhood-journo-chastises-celebrity-moms.htm"><img alt="Most Popular" src="http://images.parentherald.com/data/thumbs/full/93790/81/79/50/40/beyonce-pregnant-with-twins-grammys-performance-2017-video.png"></a>
+			<h3 class="art-title5">
+				<a href="/articles/98641/20170223/beyonce-adele-glorifying-pregnancy-motherhood-journo-chastises-celebrity-moms.htm">Are Beyonce, Adele Glorifying Pregnancy Or Motherhood? Journo Chastises Celebrity Moms</a>
+			</h3>
+		</div>
+			<div class="list">
+			<a href="/articles/98598/20170222/soft-parenting-wont-work-todays-harsh-world-parents-prepare-kids.htm"><img alt="Most Popular" src="http://images.parentherald.com/data/thumbs/full/93742/81/79/50/40/soft-parenting-not-helping.jpg"></a>
+			<h3 class="art-title5">
+				<a href="/articles/98598/20170222/soft-parenting-wont-work-todays-harsh-world-parents-prepare-kids.htm">Soft Parenting Won't Work In Today's Harsh World, Parents Should Prepare Kids For Real Life</a>
+			</h3>
+		</div>
+			<div class="list">
+			<a href="/articles/98606/20170222/mom-abortion-chooses-carry-terminal-unborn-daughter-term-donate-organs.htm"><img alt="Most Popular" src="http://images.parentherald.com/data/thumbs/full/93750/81/79/50/40/keri-young-says-no-to-abortion.jpg"></a>
+			<h3 class="art-title5">
+				<a href="/articles/98606/20170222/mom-abortion-chooses-carry-terminal-unborn-daughter-term-donate-organs.htm">Mom Says No To Abortion, Chooses To Carry Dying Unborn Daughter To Term To Donate Her Organs</a>
+			</h3>
+		</div>
+	</div><!-- /s-con -->
+
+		
+<!-- article_right_middle3_computer start-->
+<div id='adunit_article_right_middle3_computer' class='adunit_rectangle'>
+<div id='article_right_middle3_computer'>
+ <script type='text/javascript'>
+  googletag.cmd.push(function() { googletag.display('article_right_middle3_computer'); });
+ </script>
+</div>
+</div>
+<!-- article_right_middle3_computer end -->
+	</div><!-- /at-side -->
+
+</article>		</div>
+	</section>
+<div class="ad-sample2">
+	
+<!-- article_center_bottom_computer start-->
+<div id='adunit_article_center_bottom_computer' class='adunit_leaderboard'>
+<div id='article_center_bottom_computer'>
+ <script type='text/javascript'>
+  googletag.cmd.push(function() { googletag.display('article_center_bottom_computer'); });
+ </script>
+</div>
+</div>
+<!-- article_center_bottom_computer end -->
+</div>
+<div class="ph-footer">
+
+	<div class="container">
+		<div class="grid-col1">
+			<div class="logo">
+				<img src="http://assets.parentherald.com/static/common/_v1.0.0/images/f_logo.png" title="Parent Herald">
+			</div>
+		</div>
+		<div class="grid-col2">
+			<ul>
+				<li class="t1"><a href="/news/">NEWS</a> <a href="/pregnancy/">PREGNANCY</a> <a href="/infant/">BABY</a> <a href="/toddler/">TODDLER</a> <a href="/big-kid/">BIG KID</a> <a href="/teen/">TEEN</a> <a href="/education-trends/">EDUCATION</a><a href="/special-needs-kids/">SPED KIDS</a><a href="/health/">WELLNESS</a><a href="/community/">FAMILY LIFE</a></li>
+				<li class="t2"><a href="/about-us/">ABOUT US</a> <a href="/contact-us/">CONTACT US</a>  <a href="/termsofservice/">TERMS OF SERVICE</a>  <a href="/privacypolicy/">PRIVACY POLICY</a><a href="http://www.facebook.com/ParentHerald" target="_blank"><i class="icon-facebook"></i></a><a href="https://twitter.com/ParentHerald" target="_blank"><i class="icon-twitter"></i></a><a href="/rss/"><i class="icon-rss"></i></a></li>
+			</ul>
+			<p class="copy">Copyright &copy; 2017 PARENT HERALD All rights reserved. Reproduction in whole or in part without permission is prohibited.</p>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+	$('img.lazy').lazyload({ effect : "fadeIn", failure_limit : 40 });
+</script>
+
+<!-- article_footer_page_computer_oop1 start-->
+<!-- Interstital -->
+<div id='article_footer_page_computer_oop1'>
+ <script type='text/javascript'>
+  googletag.cmd.push(function() { googletag.display('article_footer_page_computer_oop1'); });
+ </script>
+</div>
+<!-- Interstital -->
+<!-- article_footer_page_computer_oop1 end -->
+
+<!-- start getclicky code -->
+<div style="display:none;">
+			<img alt="Real Time Analytics" src="//static.getclicky.com/media/links/badge.gif" border="0" />
+			<script type="text/javascript">
+			  var clicky_custom = {
+				href: "/articles/56472/20160724/dragon-ball-super-spoilers-apatheric-goku-and-gohans-end-addressed-fan-theories-speculate-on-protagonists-character-development.htm",
+				title: "&#038;#039;Dragon Ball Super&#038;#039; Spoilers: Apathetic Goku and Gohan&#038;#039;s End Addressed; Fan Theories Speculate on Protagonists&#038;#039; Character Development"
+			  };
+			  clicky_custom.outbound_disable = 1;
+			  clicky_custom.video_disable = 1;
+			</script>
+			<script src="//static.getclicky.com/js" type="text/javascript"></script>
+			<script type="text/javascript">try{ clicky.init(101003022); }catch(e){}</script>
+			<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101003022ns.gif" /></p></noscript>
+		</div><!-- end getclicky code -->
+
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+		var sc_project=8113812;
+		var sc_invisible=1;
+		var sc_security="7131aafe";
+		</script>
+		<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script>
+		<noscript><div class="statcounter"><img class="statcounter"
+		src="http://c.statcounter.com/8113812/0/7131aafe/1/" alt="counter"></div></noscript><!-- End of StatCounter Code for Default Guide -->
+
+<!-- Start of Quantcast Code -->
+<script type="text/javascript">
+		var _qevents = _qevents || [];
+
+		(function() {
+		var elem = document.createElement('script');
+		elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+		elem.async = true;
+		elem.type = "text/javascript";
+		var scpt = document.getElementsByTagName('script')[0];
+		scpt.parentNode.insertBefore(elem, scpt);
+		})();
+
+		_qevents.push({
+		qacct:"p-KFccGXRRxn7wW"
+		});
+		</script>
+
+		<noscript>
+		<div style="display:none;">
+		<img src="//pixel.quantserve.com/pixel/p-KFccGXRRxn7wW.gif" border="0" height="1" width="1" alt="Quantcast"/>
+		</div>
+		</noscript><!-- End of Quantcast Code -->
+
+<!-- Start of comScore Code -->
+<script>
+	  var _comscore = _comscore || [];
+	  _comscore.push({ c1: "2", c2: "14401431" });
+	  (function() {
+		var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+		s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+		el.parentNode.insertBefore(s, el);
+	  })();
+	</script>
+	<noscript>
+	  <img src="http://b.scorecardresearch.com/p?c1=2&c2=14401431&cv=2.0&cj=1" />
+	</noscript><!-- End of comScore Code -->
+
+<script type="text/javascript"> __st_tracking_url = 'http://stat.parentherald.com'; __st_article_id = '56472';</script>
+	<script type="text/javascript" src="http://assets.parentherald.com/common/js/stat/counter.js"></script>
+	
+	
+<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setCustomVar',2,'pagetype','articles',3]);
+			_gaq.push(['_setCustomVar',1,'Reporter','Pinky',3]);
+			_gaq.push(['_setCustomVar',4,'Article Type','News',3]);
+			_gaq.push(['_setCustomVar',3,'art-category','News',3]);
+      ;if (window.pm_a_b_test_var_value !== undefined) {
+        _gaq.push(['_setCustomVar',5,'a_b_test',window.pm_a_b_test_var_value,2]);
+      }; _gaq.push(['_setAccount', 'UA-31965807-1']);
+	  _gaq.push(['_setDomainName', 'parentherald.com']);
+_gaq.push(['_trackPageview']);
+	 _gaq.push(['_setAccount', 'UA-31965807-2']);
+		  _gaq.push(['_setDomainName', 'parentherald.com']);
+_gaq.push(['_trackPageview']);
+
+		
+if (Math.random() < 0.01) { // 1% traffic will be sampled for heatmap
+    _gaq.push(['_setAccount', 'UA-31965807-1']);
+    var timesRun = 0;
+      var status_cat = '_incomp';
+      function unknownViewable() {
+        status_cat = '_unknown_' + document.visibilityState;
+      }
+      if (/*@cc_on!@*/false) { // check for Internet Explorer
+        if ('onfocusin' in document && 'onfocusout' in document) { unknownViewable(); }
+      } else {
+        if ('onfocus' in window && 'onblur' in window) { unknownViewable(); }
+      }
+      var interval = setInterval(function(){
+          timesRun += 1;
+          if(timesRun === 60){
+              clearInterval(interval);
+          }
+          var event_name_base = 'pixel_from_top_v8';
+          function onBlur() {
+              status_cat = '_inactive';
+          };
+          function onFocus(){
+              status_cat = '_active';
+          };
+          if (/*@cc_on!@*/false) { // check for Internet Explorer
+            document.onfocusin = onFocus;
+            document.onfocusout = onBlur;
+          } else {
+            window.onfocus = onFocus;
+            window.onblur = onBlur;
+          }
+          $(document).mouseover(function(event) {
+            status_cat = '_active';
+          });
+          $(document).on('touchstart', function() {
+            status_cat = '_active';
+          });
+          var time_label = 'pft-'+(parseInt((timesRun-1)/10)*10+1)+'-'+(parseInt((timesRun-1)/10)*10+11)+'s';
+          var scrollY = window.scrollY;
+          var top_value = ''+(parseInt(scrollY/100)*100)+'-'+(parseInt(scrollY/100)*100+100)+'px';
+          var event_name = event_name_base + status_cat;
+          _gaq.push(['_trackEvent', event_name, time_label, top_value, 1, true]);
+      }, 1000); 
+    }
+    (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-83552773-1', 'auto', {'allowLinker': true});
+  ga('require', 'linker');
+  ga('linker:autoLink', ['parentherald.com'] );
+  ga('set', 'dimension1', 'Pinky');
+  ga('set', 'dimension2', 'parentherald.com');
+  ga('set', 'dimension3', 'News');
+  ga('send', 'pageview');
+
+</script>
+<!-- Start of addthis Code -->
+<script async type="text/javascript">var addthis_config = addthis_config||{}; addthis_config.data_track_clickback = false;</script>
+	<script async type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56a7ba52d56bff3b"></script><!-- End of addthis Code -->
+
+<script>setTimeout(function(){if(typeof set_item_to_client_storage === 'function' ){set_item_to_client_storage('__is_auto_refresh__', '1');}window.location.reload();},600000);</script><!--<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>-->
+<script type="text/javascript"></script>
+	<!-- Yavli Start -->
+		<!-- Yavli End -->
+
+
+
+</body>
+</html>

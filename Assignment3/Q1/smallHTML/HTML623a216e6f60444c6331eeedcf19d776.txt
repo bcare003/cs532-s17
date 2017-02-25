@@ -1,0 +1,306 @@
+<!DOCTYPE html><!-- Last Published: Thu Aug 11 2016 20:50:39 GMT+0000 (UTC) --><html data-wf-domain="blog.hazeltechnologies.com" data-wf-page="56c39fd84d4f81a506301460" data-wf-site="5592e29b654c69dc323aa806"><head><meta charset="utf-8"><title>This Week In Food Tech News</title><meta content="From an unlikely haven for food startups, to the emerging concern with &quot;food safety&quot;, we have this week in food-technology news ready to go." name="description"><meta content="This Week In Food Tech News" property="og:title"><meta content="This article: This week in Food Tech News.  January 13th, 2016 Article in  Hazelblog, the official food waste awareness and food-tech blog of Hazel Technologies LLC. " property="og:description"><meta content="https://daks2k3a4ib2z.cloudfront.net/5592e29b654c69dc323aa806/559466af427d91d6115cd4a6_hazelblog_small.png" property="og:image"><meta content="summary" name="twitter:card"><meta content="width=device-width, initial-scale=1" name="viewport"><meta content="&lt;meta name=&quot;google-site-verification&quot; content=&quot;EdkzjJa4XJErwVfHe2Rf3v9rCRRt8RbYLNfqYkYeRLI&quot; /&gt;" name="google-site-verification"><link href="https://daks2k3a4ib2z.cloudfront.net/5592e29b654c69dc323aa806/css/hazeltechblog.1299b81aa.min.css" rel="stylesheet" type="text/css"><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script><script type="text/javascript">WebFont.load({
+  google: {
+    families: ["Lato:100,100italic,300,300italic,400,400italic,700,700italic,900,900italic","Roboto:300,regular,500","Roboto Condensed:300,regular,700","Roboto Slab:300,regular"]
+  }
+});</script><script src="https://daks2k3a4ib2z.cloudfront.net/0globals/modernizr-2.7.1.js" type="text/javascript"></script><link href="https://daks2k3a4ib2z.cloudfront.net/5592e29b654c69dc323aa806/559468e3427d91d6115cd4c9_hazelblog_staff.png" rel="shortcut icon" type="image/x-icon"><link href="https://daks2k3a4ib2z.cloudfront.net/5592e29b654c69dc323aa806/5594690775e6d6d811968b12_hazelblog_staff.png" rel="apple-touch-icon"><script type="text/javascript">var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-65315361-1'], ['_trackPageview']);
+(function() {
+  var ga = document.createElement('script');
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();</script><style>
+
+.loader{display:block;}    
+
+.sticky {
+    position: fixed;
+    width: 100%;
+    left: 0;
+    top: 0;
+    z-index: 100;
+    border-top: 0;
+}
+    
+</style>
+
+ <script src="//load.sumome.com/" data-sumo-site-id="99b81076dbfa105d682617a3e03aab16810a7d75932f257f426ebbf619cf395b" async="async"></script>
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-65315361-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<meta name="p:domain_verify" content="b87e503d816332921dd90c037ea9ee96"/>
+<meta name="majestic-site-verification" content="MJ12_064af6b9-9d46-40b9-bfe6-2922e13d9572">
+<meta name="google-site-verification" content="EdkzjJa4XJErwVfHe2Rf3v9rCRRt8RbYLNfqYkYeRLI" /></head>
+<body>
+  <div class="navbar w-nav" data-animation="default" data-collapse="none" data-contain="1" data-doc-height="1" data-duration="400">
+    <div class="w-container">
+      <a class="brand w-nav-brand" href="/">
+        <img src="https://daks2k3a4ib2z.cloudfront.net/5592e29b654c69dc323aa806/5633e69af32a7d1c165b0d71_hazelblog_logo.png">
+      </a>
+      <nav class="w-nav-menu" role="navigation">
+        <a class="nl w-nav-link" href="/resources" rel="nofollow">Articles</a>
+        <a class="nl w-nav-link" href="/about" rel="nofollow">About</a>
+        <a class="nl w-nav-link" href="http://www.hazeltechnologies.com" rel="nofollow" target="_blank">Parent Site</a>
+        <a class="nl w-nav-link" href="mailto:contact@hazelblog.org?subject=General%20Inquiry" target="_blank">Contact</a>
+      </nav>
+      <div class="w-nav-button">
+        <div class="w-icon-nav-menu"></div>
+      </div>
+    </div>
+  </div>
+  <div class="_41 art1 header-image"></div>
+  <div class="content-section">
+    <div class="w-container">
+      <div class="w-row">
+        <div class="article-body-column w-col w-col-7">
+          <a class="hollow-button" href="/">&nbsp;&nbsp;all STORIES</a>
+          <div class="shareholder">
+            <div class="w-embed"><!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_jumbo_share"></div></div>
+          </div>
+          <h1 class="article-heading left">This Week in Food Tech News: January 13th, 2016&nbsp;</h1>
+          <div class="in-article-tag-holder">
+            <a class="tag w-button" href="http://www.hazelblog.org/resources#1">Food Technology</a>
+            <a class="tag w-button" href="http://www.hazelblog.org/resources#4">HazelBlog Food News</a>
+          </div>
+          <p class="subtitle">From an unlikely haven for food startups, to the emerging concern with "food safety", we have this week in food-technology news ready to go.</p>
+          <div class="author_info_bar">
+            <div class="w-row">
+              <div class="profile_image w-col w-col-1">
+                <img class="main_bar_image" src="https://daks2k3a4ib2z.cloudfront.net/5592e29b654c69dc323aa806/560e953c01b66e250aca7b9d_headshot.jpg">
+              </div>
+              <div class="profile_info w-col w-col-11">
+                <div>Pat Flynn, Co-Founder, <a class="founder_link" target="_blank" href="http://www.hazeltechnologies.com">Hazel Technologies</a><br>January 13, 2016 4:34 pm CST</div>
+              </div>
+            </div>
+          </div>
+          <div class="draw_in_holder w-clearfix">
+            <div class="top_left_draw_in_text">
+              <p class="draw_in_paragraph"><strong data-new-link="true">1. Food Safety may be the next big challenge being addressed by top entrepreneurs.</strong><br>Amina Elahi of the Chicago Tribune reports that following debacles like the <a target="_blank" href="http://knowledge.wharton.upenn.edu/article/how-chipotle-can-keep-its-food-safety-crisis-from-boiling-over/">Chipotle food contamination</a> crisis, consumers are pushing for information on the origins of the food they eat now more than ever before. <br><a target="_blank" href="http://www.chicagotribune.com/bluesky/originals/ct-big-ideas-food-safety-bsi-0116-story.html">&nbsp;"Organic, Local, Sustainable, but can startups make sure food is safe?"<br></a></p>
+              <p class="draw_in_paragraph">2. <strong data-new-link="true">Organic Corn one of dominant food trends in 2015, analysts say:</strong><br>Food and beverage analysts at NPD Group reported earlier this week that corn, organic maize to be specific, saw significant uptick in demand in 2015. This trend is indicative of <a target="_blank" href="http://www.alternet.org/food/8-food-trends-watch-2016">a greater movement toward healthy eating</a> by the general public, which is expected to continue in 2016. <br><a target="_blank" href="http://www.marketplace.org/2016/01/01/life/food-trends-watch-2016">Full Report on 2016 Food Trends</a></p>
+            </div>
+            <div class="top_right_draw_in_image_holer">
+              <img alt="Food contamination at fast-food giant Chipotle will only intensify consumer demand for information" class="draw_in_image" src="https://daks2k3a4ib2z.cloudfront.net/5592e29b654c69dc323aa806/5696d0955e3ae9ab1d3facb8_4.jpg">
+              <p class="image-text">Food contamination at fast-food giant Chipotle will only intensify consumer demand for more information on the safety, health, and origin of their food.</p>
+              <img alt="Organic corn based products are gaining popularity among U.S. consumers in 2016" class="draw_in_image" src="https://daks2k3a4ib2z.cloudfront.net/5592e29b654c69dc323aa806/5696d0a5039d77221a889d13_5.jpg">
+              <p class="image-text">Organic corn based products are gaining popularity among U.S. consumers in 2016</p>
+            </div>
+          </div>
+          <p class="spaced_paragraphs"><strong data-new-link="true">3. Madison, Wisconsin an emerging hub for early stage food startups?</strong><br>It could be so. Startups like&nbsp;<a target="_blank" href="http://www.envoynow.co/">EnvoyNow</a> and <a target="_blank" href="http://mrdelivery.com">Mr. Delivery</a>&nbsp;have all either launched in Madison or selected the city as an early expansion location. <br><br>Among these startups, food delivery is one of the most popular niches. Why? Over <a target="_blank" href="http://host.madison.com/ct/business/technology/madison-a-go-to-for-early-stage-food-delivery-startups/article_cdd688b9-c434-549f-b3e3-0e38b538ae2a.html">80% of food deliveries in the U.S. are still made offline</a>.<br><br><a target="_blank" href="http://host.madison.com/ct/business/technology/madison-a-go-to-for-early-stage-food-delivery-startups/article_cdd688b9-c434-549f-b3e3-0e38b538ae2a.html">Early Stage Food Startups are choosing Madison, Wisconsin</a></p>
+          <div class="vid w-embed w-video" style="padding-top: 56.17021276595745%;"><iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FWY97qjaFX4o%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWY97qjaFX4o&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FWY97qjaFX4o%2Fhqdefault.jpg&amp;key=c4e54deccf4d4ec997a64902e9a30300&amp;type=text%2Fhtml&amp;schema=youtube" scrolling="no" frameborder="0" allowfullscreen=""></iframe></div>
+          <p class="image-text">Produce-focused startup appeared on NBC's Shark Tank in a recent episode, and secured $100,000 in funding in addition to a heavy dose of press coverage</p>
+          <p class="spaced_paragraphs"><strong data-new-link="true">4. Produce Waste Prevention Startup Secures investment on popular TV Show Shark Tank&nbsp;</strong><br>Produce waste preventing startup Hungry Harvest successfully secured funding on NBC's hit TV show Shark Tank in a recent episode. <br><br><a href="http://www.hungryharvest.net/" target="_blank">Hungry Harvest</a>, founded by Evan Lutz, sells produce deemed cosmetically undesirable for grocery stores at a 20-30% discount. <br><br>According to NPR, <a href="http://www.npr.org/sections/thesalt/2016/01/08/462429929/ugly-fruit-is-ripe-for-a-close-up-as-shark-tank-takes-on-food-waste">Hungry Harvest has saved over 300,000 pounds of produce from waste</a> since the company's creation in 2014. <br><br><a target="_blank" href="http://www.npr.org/sections/thesalt/2016/01/08/462429929/ugly-fruit-is-ripe-for-a-close-up-as-shark-tank-takes-on-food-waste">Full Profile on Produce Waste Prevention Startup Hungry Harvest</a></p>
+          <div class="next-buttons-holder w-clearfix">
+            <a class="hollow-button next-article-right" href="/article-37-what-major-store-is-partnering-with-techstars-and-mit-for-a-food-tech-incubator-in-2016">PREVIOUS ARTICLE: What major store is partnering with Techstars and MIT for a food tech incubator in 2016?</a>
+            <a class="hollow-button next-article-left" href="/article-40-how-your-coffee-demand-is-destroying-the-environment">NEXT ARTICLE: HOW YOUR COFFEE DEMAND IS DESTROYING THE ENVIRONMENT</a>
+          </div>
+        </div>
+        <div class="author-column w-col w-col-5">
+          <div class="ad-z-index">
+            <div class="w-embed w-script"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 3-7-16 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6865522236315533"
+     data-ad-slot="3380525601"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+          </div>
+          <div class="w-form" rel="nofollow">
+            <form class="_4-21-bottom-sub" data-name="4-21-bottom-sub" data-redirect="/thankyou" id="wf-form-4-21-bottom-sub" name="wf-form-4-21-bottom-sub">
+              <label for="email">Subscribe for one food technology, food waste, and food security update per week, straight to your mailbox, just enter your email address and click &nbsp;'Sign me up'</label>
+              <input class="w-input" data-name="Email" id="email" maxlength="256" name="email" placeholder="Enter your email address" required="required" type="email">
+              <input class="footer-sign-me-up w-button" data-wait="Please wait..." type="submit" value="Sign me up">
+            </form>
+            <div class="w-form-done">
+              <p>Thank you! Your submission has been received!</p>
+            </div>
+            <div class="w-form-fail">
+              <p>Oops! Something went wrong while submitting the form</p>
+            </div>
+          </div>
+          <div class="add_topspace">
+            <h3 class="_2embelow">Popular Articles</h3>
+          </div>
+          <ul class="contrast">
+            <li class="add_1em pop-link"><a class="related_link" href="/article-46-7-organizations-fighting-food-waste-in-2016-you-should-know-about"><span class="popularity-status">180▲ </span>&nbsp;7 Organizations Fighting Food Waste in 2016 you should know about &gt;</a></li>
+            <li class="add_1em pop-link"><a class="related_link" href="/june_2016/article-68-fresh-produce-supply-chain-is-now-more-global-than-ever-before"><span><span><span class="popularity-status">172▲</span>&nbsp;The Fresh Produce Supply Chain is more global now than ever before</span></span>&nbsp;&gt;</a></li>
+            <li class="add_1em pop-link"><a class="related_link" href="/article-32-23-food-tech-startups-that-could-change-the-world-in-2016"><span class="popularity-status">138▲ </span>&nbsp;23 New Food Technology Startups in 2016 &gt;</a></li>
+            <li class="add_1em pop-link"><a class="related_link" href="/june_2016/article-70-these-entrepreneurs-fight-food-waste-one-smart-phone-at-a-time"><span><span><span class="popularity-status">93▲</span>&nbsp;These entrepreneurs fight food waste, one smartphone at a time</span></span>&nbsp;&gt;</a></li>
+            <li class="add_1em pop-link"><a class="related_link" href="/article-47-5-shocking-facts-about-produce-waste-that-sound-impossible"><span class="popularity-status">82▲ </span>&nbsp;5 Shocking facts about produce waste that sound impossible &gt;</a>&nbsp;</li>
+            <li class="add_1em pop-link"><a class="related_link" href="/5-trending-food-startups-in-october"><span class="popularity-status">81▲ </span>&nbsp;5 Trending Food Startups aiming to prevent food waste across the globe &gt;</a>&nbsp;</li>
+            <li class="add_1em pop-link"><a class="related_link" href="http://blog.hazeltechnologies.com/article-27-what-is-crowdfarming"><span class="popularity-status">42▲ </span>&nbsp;What is crowdfarming? &gt;</a></li>
+            <li class="add_1em pop-link"><a class="related_link" href="/article-49-10-promising-green-technology-startups-that-could-be-stars-in-2016-2017"><span class="popularity-status">41▲ </span>&nbsp;10 Promising Green Technology Startups that could be stars in 2016-2017 &gt;</a></li>
+            <li class="add_1em pop-link"><a class="related_link" href="http://blog.hazeltechnologies.com/article-42-usda-finds-most-likely-foods-to-be-wasted-at-retail-level-number-one-may-surprise-you"><span><span class="popularity-status">33▲ </span></span>&nbsp;USDA Finds the most likely foods to be wasted at the retail level (#1 may surprise you) &gt;</a></li>
+            <li class="add_1em pop-link"><a class="related_link" href="/june_2016/article-71-how-the-new-food-loss-and-waste-standard-will-reduce-global-food-waste"><span><span class="popularity-status">27▲ </span></span>&nbsp;How the new food loss and waste standard will reduce global food waste &gt;</a></li>
+            <li class="add_1em pop-link"><a class="related_link" href="/june_2016/article-72-three-unique-food-waste-fighters"><span class="popularity-status">27▲ </span>&nbsp;Three unique food waste fighters &gt;</a></li>
+            <li class="add_1em pop-link"><a class="related_link" href="http://blog.hazeltechnologies.com/article-53-2-stories-that-will-instantly-impact-produce-waste-prevention-in-summer-2016-and-beyond"><span class="popularity-status">25▲ </span>&nbsp;2 Stories that will instantly impact produce waste prevention in Summer 2016 and beyond &gt;</a></li>
+            <li class="add_1em pop-link"><a class="related_link" href="/article-50-how-the-united-states-indirectly-wastes-enough-water-for-1-billion-people-each-year"><span><span><span class="popularity-status">24▲</span> How the United States </span></span>indirectly wastes enough water for 1 billion people each year &nbsp;&gt;</a></li>
+            <li class="add_1em pop-link"><a class="related_link" href="http://blog.hazeltechnologies.com/article-43-insider-interview-mark-carlson-managing-partner-verdex-capital"><span><span class="popularity-status">22▲ </span></span>&nbsp;Ag Insider Interview: Mark Carlson, Managing Partner at Verdex Capital &gt;</a></li>
+            <li class="add_1em pop-link"><a class="related_link" href="/may_16/article-63-5-surprising-trends-in-food-packaging-and-processing-food-industry-professionals-should-know"><span><span><span class="popularity-status">17▲</span>&nbsp;5 Surprising Trends in food packaging and processing food industry professionals should know</span></span>&nbsp; &gt;</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="content-section">
+    <div class="w-container">
+      <h2 class="alternative-h2 suggestions">Popular Stories</h2>
+      <a class="article w-clearfix w-inline-block" href="/article-32-23-food-tech-startups-that-could-change-the-world-in-2016" id="8" target="_blank">
+        <div class="image-wrapper">
+          <img alt="HazelBlog Article Banner: 23 Food Tech Startups that could change the world in 2016" class="thumbnail" src="https://daks2k3a4ib2z.cloudfront.net/5592e29b654c69dc323aa806/5654cd53a5b596e67fce7a71_1.png">
+        </div>
+        <section class="article-text-wrapper">
+          <h2 class="thumbnail-title">23 Food Tech Startups that could change the world in 2016</h2>
+          <p>From restaurant logistics to domestic agriculture, these innovators in the food technology space are expanding and will be on the rise in 2016.&nbsp;</p>
+          <div class="w-embed"><p> </p></div>
+          <div class="article-info-wrapper">
+            <div class="article-info-text">November 25, 2015 at 3:14 PM</div>
+          </div>
+          <div class="article-info-wrapper">
+            <img alt="Author: Pat Flynn " class="profile_photo" src="https://daks2k3a4ib2z.cloudfront.net/5592e29b654c69dc323aa806/560e953c01b66e250aca7b9d_headshot.jpg">
+            <div class="article-info-text">Pat Flynn</div>
+          </div>
+        </section>
+      </a>
+      <a class="article w-clearfix w-inline-block" href="/article-30-food-waste-and-human-waste-power-this-residence-in-spain" id="8" target="_blank">
+        <div class="image-wrapper">
+          <img alt="HazelBlog Article Banner: Foodwaste and Human Waste Power this residence in Spain" class="thumbnail" src="https://daks2k3a4ib2z.cloudfront.net/5592e29b654c69dc323aa806/564ca7745dd789d86d5d5e89_1.png">
+        </div>
+        <section class="article-text-wrapper">
+          <h2 class="thumbnail-title">Foodwaste and Human Waste Power this&nbsp;residence in Spain</h2>
+          <p>Is this how houses will be powered in the future?</p>
+          <div class="w-embed"><p> </p></div>
+          <div class="article-info-wrapper">
+            <div class="article-info-text">November 18, 2015 at 10:50 PM</div>
+          </div>
+          <div class="article-info-wrapper">
+            <img alt="Author: Pat Flynn " class="profile_photo" src="https://daks2k3a4ib2z.cloudfront.net/5592e29b654c69dc323aa806/560e953c01b66e250aca7b9d_headshot.jpg">
+            <div class="article-info-text">Pat Flynn</div>
+          </div>
+        </section>
+      </a>
+      <a class="article w-clearfix w-inline-block" href="/article-29-the-7-foodtech-startups-with-market-share-in-the-food-delivery-space-in-2016" id="8" target="_blank">
+        <div class="image-wrapper">
+          <img alt="HazelBlog Article Banner: The 7 Foodtech startups that will  have market share in food delivery 2016" class="thumbnail" src="https://daks2k3a4ib2z.cloudfront.net/5592e29b654c69dc323aa806/564b7c15c8f771ca58d2367a_banner.jpg">
+        </div>
+        <section class="article-text-wrapper">
+          <h2 class="thumbnail-title">The 7 Foodtech startups that will have market share in the food delivery space in 2016</h2>
+          <p>If you really look into it, which one of these startups is best positioned to dominate?</p>
+          <div class="w-embed"><p> </p></div>
+          <div class="article-info-wrapper">
+            <div class="article-info-text">November 17, 2015 at 1:50 PM</div>
+          </div>
+          <div class="article-info-wrapper">
+            <img alt="Author: Pat Flynn Article: The 7 Foodtech startups that will have market share in food delivery 2016" class="profile_photo" src="https://daks2k3a4ib2z.cloudfront.net/5592e29b654c69dc323aa806/560e953c01b66e250aca7b9d_headshot.jpg">
+            <div class="article-info-text">Pat Flynn</div>
+          </div>
+        </section>
+      </a>
+    </div>
+  </div>
+  <div class="footer">
+    <div class="footer_skeleton w-row">
+      <div class="w-col w-col-2">
+        <div class="translator_widget w-embed w-script"><div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script></div>
+      </div>
+      <div class="w-col w-col-2">
+        <ul>
+          <li class="footer_topic">
+            <a class="footer_link" href="/about">About HazelBlog</a>
+          </li>
+          <li class="footer_topic">
+            <a class="footer_link" href="#" rel="nofollow">Contact</a>
+          </li>
+          <li class="footer_topic">
+            <a class="footer_link" href="http://www.hazeltechnologies.com" rel="nofollow" target="_blank">Careers</a>
+          </li>
+        </ul>
+      </div>
+      <div class="w-col w-col-2">
+        <ul>
+          <li class="footer_topic">
+            <a class="footer_link" href="http://www.hazeltechnologies.com">Hazel Technologies LLC</a>
+          </li>
+          <li class="footer_topic">
+            <a class="footer_link" href="http://www.hazeltechnologies.com/#about">About Hazel Technologies</a>
+          </li>
+        </ul>
+      </div>
+      <div class="w-col w-col-2">
+        <ul>
+          <li class="footer_topic">
+            <a class="footer_link" href="/archives" rel="nofollow">Article Archives</a>
+          </li>
+          <li class="footer_topic">
+            <a class="footer_link" href="#" rel="nofollow">YouTube Channel</a>
+          </li>
+          <li class="footer_topic">
+            <a class="footer_link" href="#">Upcoming Events</a>
+          </li>
+        </ul>
+      </div>
+      <div class="w-col w-col-2">
+        <ul>
+          <li class="footer_topic">
+            <a class="footer_link" href="/privacy-policy" rel="nofollow" target="_blank">Terms of Service</a>
+          </li>
+          <li class="footer_topic">
+            <a class="disable footer_link" href="#" rel="nofollow" target="_blank">Disable Pop-Ups</a>
+          </li>
+          <li class="footer_topic">
+            <a class="footer_link" href="/404" rel="nofollow" target="_blank">404</a>
+          </li>
+        </ul>
+      </div>
+      <div class="w-col w-col-2">
+        <div class="media_footer_holder">
+          <div class="w-row">
+            <div class="w-col w-col-4">
+              <a class="square w-inline-block" href="https://www.facebook.com/hazeltech" target="_blank">
+                <img alt="Facebook Link to Hazel Technologies LLC" src="https://daks2k3a4ib2z.cloudfront.net/5592e29b654c69dc323aa806/52f2d533ba5496e141000386_facebook-icon.svg">
+              </a>
+            </div>
+            <div class="w-col w-col-4">
+              <a class="square w-inline-block" href="https://twitter.com/hazeltechusa">
+                <img alt="Twitter Link to HazelBlog: Food waste awareness and food-tech startup blog" src="https://daks2k3a4ib2z.cloudfront.net/5592e29b654c69dc323aa806/52f2d48b593f6edf410003c1_twitter-icon.svg">
+              </a>
+            </div>
+            <div class="w-col w-col-4">
+              <a class="square w-inline-block" href="/">
+                <img alt="HazelBlog: The official produce waste awareness and food-tech startup blog of Hazel Technologies LLC" src="https://daks2k3a4ib2z.cloudfront.net/5592e29b654c69dc323aa806/52f3149a593f6edf410006e0_home-icon.svg">
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="bottom_subscribe_container w-container"></div>
+    <div class="bottom_container w-container">
+      <a class="anchor_image link-base w-inline-block" href="/">
+        <img alt="HazelBlog: The official produce waste awareness and food-tech startup blog of Hazel Technologies LLC" class="anchor_image" src="https://daks2k3a4ib2z.cloudfront.net/5592e29b654c69dc323aa806/559466af427d91d6115cd4a6_hazelblog_small.png">
+      </a>
+    </div>
+  </div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js" type="text/javascript"></script>
+<script src="https://daks2k3a4ib2z.cloudfront.net/5592e29b654c69dc323aa806/js/hazeltechblog.eaacc9743.js" type="text/javascript"></script>
+<!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]--><!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5645132ae047002d" async="async"></script>
+
+
+</body></html>

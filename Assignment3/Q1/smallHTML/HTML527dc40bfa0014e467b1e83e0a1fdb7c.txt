@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta name='ID' content='W:1@3065'/>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="Description" content="Education Week introduces a way to recognize forward-thinking education leaders and share their ideas."/>
+<meta name="Pub_first" content="2017-02-22"/>
+<meta name="Pub_year" content="2017"/>
+<meta itemprop="inLanguage" content="en-US"/>
+<meta name="genre" content="News"/>
+<meta itemprop="isFamilyFriendly" content="True"/>
+<meta itemprop="copyrightHolder" content="Editorial Projects in Education"/>
+<meta itemprop="copyrightYear" content="2016"/>
+<meta itemprop="publishingPrinciples" content="http://www.edweek.org/info/about/history.html?intc=intst"/>
+ 
+<meta name="story-image" content="https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-Jim-Rollins-lede-960.jpg"/>
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="pingback" href="https://leaders.edweek.org/xmlrpc.php">
+<link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,300italic|Droid+Serif:400,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<title>Jim Rollins - Recognized for Managing Growth &amp; Demographic Change</title>
+ 
+<meta name="description" content="With his “teach them all” ethos, Superintendent Jim Rollins is on the leading edge of helping immigrant students and their families find a foothold in Arkansas’ Springdale Public Schools and the broader community. He is recognized as a 2017 Leader To Learn From."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="https://leaders.edweek.org/profile/jim-rollins-superintendent-managing-growth-demographic-change/"/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="Superintendent Builds Bridges to New Immigrant Communities"/>
+<meta property="og:description" content="With his “teach them all” ethos, Superintendent Jim Rollins is on the leading edge of helping immigrant students and their families find a foothold in Arkansas’ Springdale Public Schools and the broader community. He is recognized as a 2017 Leader To Learn From."/>
+<meta property="og:url" content="https://leaders.edweek.org/profile/jim-rollins-superintendent-managing-growth-demographic-change/"/>
+<meta property="og:site_name" content="Education Week Leaders To Learn From"/>
+<meta property="og:image" content="https://leaders.edweek.org/wp-content/uploads/2017/02/22-LTLF-Jim-Rollins-lede-social.jpg"/>
+ 
+<link rel='dns-prefetch' href='//s.w.org'/>
+<link rel="alternate" type="application/rss+xml" title="Education Week Leaders To Learn From &raquo; Feed" href="https://leaders.edweek.org/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Education Week Leaders To Learn From &raquo; Comments Feed" href="https://leaders.edweek.org/comments/feed/"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/leaders.edweek.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
+<link rel='stylesheet' id='easy-modal-site-css' href='https://leaders.edweek.org/wp-content/plugins/easy-modal/assets/styles/easy-modal-site.css?ver=0.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='normalize-css' href='https://leaders.edweek.org/wp-content/themes/edweek-leaders/static/css/normalize.css?ver=0.1.8' type='text/css' media='normalize'/>
+<link rel='stylesheet' id='bootstrap-css-css' href='https://leaders.edweek.org/wp-content/themes/edweek-leaders/static/css/bootstrap.css?ver=0.1.8' type='text/css' media='all'/>
+<link rel='stylesheet' id='slick-css-css' href='https://leaders.edweek.org/wp-content/themes/edweek-leaders/static/css/slick.css?ver=0.1.8' type='text/css' media='all'/>
+<link rel='stylesheet' id='print-css-css' href='https://leaders.edweek.org/wp-content/themes/edweek-leaders/static/css/print.css?ver=0.1.8' type='text/css' media='print'/>
+<link rel='stylesheet' id='screen-css-css' href='https://leaders.edweek.org/wp-content/themes/edweek-leaders/static/css/screen.css?ver=0.1.8' type='text/css' media='screen, projection'/>
+<script type='text/javascript' src='https://leaders.edweek.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://leaders.edweek.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://leaders.edweek.org/wp-json/'/>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://leaders.edweek.org/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://leaders.edweek.org/wp-includes/wlwmanifest.xml"/>
+<meta name="generator" content="WordPress 4.7"/>
+<link rel='shortlink' href='https://leaders.edweek.org/?p=3065'/>
+<link rel="alternate" type="application/json+oembed" href="https://leaders.edweek.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fleaders.edweek.org%2Fprofile%2Fjim-rollins-superintendent-managing-growth-demographic-change%2F"/>
+<link rel="alternate" type="text/xml+oembed" href="https://leaders.edweek.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fleaders.edweek.org%2Fprofile%2Fjim-rollins-superintendent-managing-growth-demographic-change%2F&#038;format=xml"/>
+<script type='text/javascript'>
+		var dfp_ad_slots = [];
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+
+		(function() {
+		var gads = document.createElement('script');
+		gads.async = true;
+		gads.type = 'text/javascript';
+		var useSSL = 'https:' == document.location.protocol;
+		gads.src = (useSSL ? 'https:' : 'http:') +
+		'//www.googletagservices.com/tag/js/gpt.js';
+		var node = document.getElementsByTagName('script')[0];
+		node.parentNode.insertBefore(gads, node);
+		})();
+		</script>
+<script type="text/javascript">
+		googletag.cmd.push(function() {
+			var mappingHeaderPrimary = googletag.sizeMapping().addSize([970,1],[[970,250]]).addSize([0,0],[[320,150]]).build();
+var mappingProfileSecondary = googletag.sizeMapping().addSize([970,1],[[300,600]]).addSize([0,0],[]).build();
+var mappingAdhesionMobile = googletag.sizeMapping().addSize([970,1],[]).addSize([0,0],[[320,50]]).build();
+var mappingInStreamTop = googletag.sizeMapping().addSize([970,1],[[1,1]]).addSize([0,0],[[1,1]]).build();
+var mappingInStreamBottom = googletag.sizeMapping().addSize([970,1],[[300,250]]).addSize([0,0],[[300,250]]).build();
+var mappingSponsoredPageview = googletag.sizeMapping().addSize([970,1],[[1,1]]).addSize([0,0],[[1,1]]).build();
+dfp_ad_slots[0] = googletag.defineSlot('/787/ew/LTLF',[970,250],'div-gpt-ad-Header_Primary').defineSizeMapping(mappingHeaderPrimary).addService(googletag.pubads());
+dfp_ad_slots[0].setTargeting('slot', 'Header_Primary');
+dfp_ad_slots[1] = googletag.defineSlot('/787/ew/LTLF',[300,600],'div-gpt-ad-Profile_Secondary').defineSizeMapping(mappingProfileSecondary).addService(googletag.pubads());
+dfp_ad_slots[1].setTargeting('slot', 'Profile_Secondary');
+dfp_ad_slots[2] = googletag.defineSlot('/787/ew/LTLF',[320,50],'div-gpt-ad-Adhesion_Mobile').defineSizeMapping(mappingAdhesionMobile).addService(googletag.pubads());
+dfp_ad_slots[2].setTargeting('slot', 'Adhesion_Mobile');
+dfp_ad_slots[3] = googletag.defineSlot('/787/ew/LTLF',[300,250],'div-gpt-ad-In_Stream_Bottom').defineSizeMapping(mappingInStreamBottom).addService(googletag.pubads());
+dfp_ad_slots[3].setTargeting('slot', 'In_Stream_Bottom');
+dfp_ad_slots[4] = googletag.defineSlot('/787/ew/LTLF',[1,1],'div-gpt-ad-In_Stream_Top').defineSizeMapping(mappingInStreamTop).addService(googletag.pubads());
+dfp_ad_slots[4].setTargeting('slot', 'In_Stream_Top');
+dfp_ad_slots[5] = googletag.defineSlot('/787/ew/LTLF',[1,1],'div-gpt-ad-Sponsored_Pageview').defineSizeMapping(mappingSponsoredPageview).addService(googletag.pubads());
+dfp_ad_slots[5].setTargeting('slot', 'Sponsored_Pageview');
+			// Defer Adhesion_Mobile unit
+			var displayAdhesionMobile = true;
+			googletag.pubads().addEventListener('slotVisibilityChanged', function(event) {
+			if ( event.slot.getSlotElementId() == 'div-gpt-ad-Header_Primary') {
+					if ( displayAdhesionMobile && ( 0 == event.inViewPercentage ) ) {
+						displayAdhesionMobile = false;
+						googletag.display('div-gpt-ad-Adhesion_Mobile');
+					}
+				}
+			});
+
+			// Close button for Adhesion_Mobile unit
+			googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+				if ( event.isEmpty ) {
+					return;
+				}
+				var map = event.slot.getTargetingMap();
+				if ( map && typeof map.slot !== 'undefined' && map.slot.length ) {
+					if ('Adhesion_Mobile' === map.slot[0] ) {
+						jQuery('.adhesion-mobile .close-ad-container').show();
+						jQuery('.adhesion-mobile .close-ad').click(function() {
+							jQuery( this ).parents('.adhesion-mobile').remove();
+						});
+					}
+				}
+			});
+
+			googletag.pubads().enableAsyncRendering();
+			googletag.pubads().collapseEmptyDivs();
+			googletag.enableServices();
+		});
+
+		</script>
+<script>
+			var sponsorshipManagerPlugin = sponsorshipManagerPlugin || {};
+			sponsorshipManagerPlugin.insertPixel = function( pixelUrl, param ) {
+				// make a new, unique cachebuster paramater for the pixel URL
+				var regex = new RegExp( '\\?.*' + param + '=([\\d]+)' );
+				pixelUrl = pixelUrl.replace( regex, function(match, oldC) {
+					var newC = Date.now().toString() + Math.floor( Math.random() * 1000 ).toString();
+					return match.replace( oldC, newC );
+				} );
+				var sponsorshipPixel = document.createElement( 'img' );
+				sponsorshipPixel.src = pixelUrl;
+				sponsorshipPixel.className = 'sponsorship-manager-tracking-pixel';
+				sponsorshipPixel.style.position = 'absolute';
+				// append to body to fire tracking pixel
+				if ( document.body ) {
+					document.body.appendChild( sponsorshipPixel );
+				}
+			};
+		</script>
+<!--googleoff: all-->
+ 
+ 
+<script>(function( _EW ) {
+
+ _EW.dataLayer = {"genericFormName":"","genericFormTrack":false,"genericStepName":"","site":{"channel":"leaders","server":"leaders.edweek.org","preview":false,"account":"epeglobal","access":0},"user":{"level":"","cte":0,"account":"epeglobal","login":false,"slu":false,"isinternal":false,"ip":"128.82.4.182"},"events":{},"props":{"prop32":"Free","prop36":"FULL","prop46":false,"prop53":""},"evars":{"evar55":"0","evar58":''},"purchase":{}};}( window._EW = window._EW || {} ));</script><script src="//assets.adobedtm.com/81113b479641cf793a9526f76b11c87e14866258/satelliteLib-0942e5b84f8e9ccd5ce1f7ade5400e39725e49d1.js"></script>
+ 
+ 
+<!--googleon: all-->
+</head>
+<body class="profile-template-default single single-profile postid-3065">
+<!--googleoff: all-->
+<div id="page" class="hfeed site">
+<div class='page-wrap'>
+<header id="masthead" class="site-header" role="banner">
+<div class="container">
+<div class="row">
+<div id='div-gpt-ad-Header_Primary' class='dfp-ad dfp-Header_Primary'>
+<div class='ad-wrapper'>
+<script type='text/javascript'>
+		if ( typeof googletag != 'undefined' ) {
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-Header_Primary'); });
+		}
+	</script>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-3 col-xs-3 pull-left">
+<a href="https://leaders.edweek.org/" title="Education Week Leaders To Learn From | Education Week introduces a way to recognize forward-thinking education leaders and share their ideas."><div class="logo"></div></a>
+</div>
+<div class="col-md-9 col-sm-9 col-xs-3 pull-right">
+<nav id="site-navigation" class="main-navigation desktop" role="navigation">
+<ul id="menu-header" class="list-inline pull-right"><li id="menu-item-858" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-858"><a href="https://leaders.edweek.org/about/?intc=ltlfnavtop">About</a></li>
+<li id="menu-item-2883" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2883"><a href="https://leaders.edweek.org/leaders/2017/?intc=ltlfnavtop">The Leaders</a>
+<ul class="sub-menu">
+<li id="menu-item-3132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3132"><a href="http://leaders.edweek.org/leaders/2017/?intc=ltlfnavtop">Leaders of 2017</a></li>
+<li id="menu-item-2497" class="menu-item menu-item-type-taxonomy menu-item-object-profile-category menu-item-2497"><a href="https://leaders.edweek.org/leaders/2016/?intc=ltlfnavtop">Leaders of 2016</a></li>
+<li id="menu-item-1694" class="menu-item menu-item-type-taxonomy menu-item-object-profile-category menu-item-1694"><a href="https://leaders.edweek.org/leaders/2015/?intc=ltlfnavtop">Leaders of 2015</a></li>
+<li id="menu-item-1488" class="menu-item menu-item-type-taxonomy menu-item-object-profile-category menu-item-1488"><a href="https://leaders.edweek.org/leaders/2014/?intc=ltlfnavtop">Leaders of 2014</a></li>
+<li id="menu-item-1487" class="menu-item menu-item-type-taxonomy menu-item-object-profile-category menu-item-1487"><a href="https://leaders.edweek.org/leaders/2013/?intc=ltlfnavtop">Leaders of 2013</a></li>
+</ul>
+</li>
+<li id="menu-item-1072" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1072"><a href="https://leaders.edweek.org/event-details/?intc=ltlfnavtop">Events</a>
+<ul class="sub-menu">
+<li id="menu-item-2787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2787"><a href="https://leaders.edweek.org/event-details/?intc=ltlfnavtop">Event Details</a></li>
+<li id="menu-item-2772" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2772"><a href="https://leaders.edweek.org/leaders-live-event-agenda-2017/?intc=ltlfnavtop">2017 Live Event Agenda</a></li>
+<li id="menu-item-2918" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2918"><a href="https://leaders.edweek.org/why-you-should-go/?intc=ltlfnavtop">Why You Should Go</a></li>
+<li id="menu-item-2712" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2712"><a href="https://leaders.edweek.org/2016-leaders-learn-year-review/?intc=ltlfnavtop">2016: A Year in Review</a></li>
+<li id="menu-item-2713" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2713"><a href="https://leaders.edweek.org/look-inside-2016-keynote-growth-mindset-revisited/?intc=ltlfnavtop">Carol Dweck&#8217;s Keynote</a></li>
+<li id="menu-item-2685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2685"><a href="https://leaders.edweek.org/leaders-live-stream-2016/?intc=ltlfnavtop">2016 Event: Archive Video</a></li>
+<li id="menu-item-2303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2303"><a href="https://leaders.edweek.org/virtual-events/?intc=ltlfnavtop">Virtual Events</a></li>
+</ul>
+</li>
+<li id="menu-item-423" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-423"><a href="https://leaders.edweek.org/videos-meet-the-2017-leaders/?intc=ltlfnavtop">Videos</a>
+<ul class="sub-menu">
+<li id="menu-item-3153" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3153"><a href="https://leaders.edweek.org/videos-meet-the-2017-leaders/?intc=ltlfnavtop">Meet the 2017 Leaders</a></li>
+<li id="menu-item-2524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2524"><a href="https://leaders.edweek.org/videos-meet-the-2016-leaders/?intc=ltlfnavtop">Meet the 2016 Leaders</a></li>
+<li id="menu-item-1738" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1738"><a href="https://leaders.edweek.org/videos-meet-the-2015-leaders/?intc=ltlfnavtop">Meet the 2015 Leaders</a></li>
+<li id="menu-item-856" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-856"><a title="Meet the 2014 Leaders" href="https://leaders.edweek.org/meet-2014-leaders-videos/?intc=ltlfnavtop">Meet the 2014 Leaders</a></li>
+<li id="menu-item-419" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-419"><a title="Meet the 2013 Leaders" href="https://leaders.edweek.org/meet-the-leaders-2013/?intc=ltlfnavtop">Meet the 2013 Leaders</a></li>
+</ul>
+</li>
+<li id="menu-item-471" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-471"><a title="Be a Sponsor" href="https://leaders.edweek.org/sponsors-information/?intc=ltlfnavtop">Sponsor</a></li>
+<li id="menu-item-2094" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2094"><a href="https://leaders.edweek.org/select-your-registration-type/?intc=ltlfnavtop">Register To Attend</a></li>
+</ul> </nav> 
+<div class="nav-button">
+<span class="btn-menu-mobile mobile">Menu</span>
+<i class="fa fa-bars fa-2x mobile" aria-hidden="true"></i>
+</div>
+</div>
+</div>
+</div>
+</header>  
+<div id="mobile-menu">
+<div class="menu-close-btn">
+<i class="fa fa-remove fa-2x"></i>
+</div>
+<div class="mobile-menu-search">
+<form action="/">
+<input type="text" name="s" class="mobile-menu-seach-input" placeholder="Search">
+<button><span class="fa fa-search"></span></button>
+</form>
+</div>
+<a class="mobile-home" href="http://leaders.edweek.org/select-your-registration-type">REGISTER</a>
+<nav id="site-navigation" class="main-navigation mobile" role="navigation">
+<ul id="menu-header-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-858"><a href="https://leaders.edweek.org/about/?intc=ltlfnavtop">About</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2883"><a href="https://leaders.edweek.org/leaders/2017/?intc=ltlfnavtop">The Leaders</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3132"><a href="http://leaders.edweek.org/leaders/2017/?intc=ltlfnavtop">Leaders of 2017</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-profile-category menu-item-2497"><a href="https://leaders.edweek.org/leaders/2016/?intc=ltlfnavtop">Leaders of 2016</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-profile-category menu-item-1694"><a href="https://leaders.edweek.org/leaders/2015/?intc=ltlfnavtop">Leaders of 2015</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-profile-category menu-item-1488"><a href="https://leaders.edweek.org/leaders/2014/?intc=ltlfnavtop">Leaders of 2014</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-profile-category menu-item-1487"><a href="https://leaders.edweek.org/leaders/2013/?intc=ltlfnavtop">Leaders of 2013</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1072"><a href="https://leaders.edweek.org/event-details/?intc=ltlfnavtop">Events</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2787"><a href="https://leaders.edweek.org/event-details/?intc=ltlfnavtop">Event Details</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2772"><a href="https://leaders.edweek.org/leaders-live-event-agenda-2017/?intc=ltlfnavtop">2017 Live Event Agenda</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2918"><a href="https://leaders.edweek.org/why-you-should-go/?intc=ltlfnavtop">Why You Should Go</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2712"><a href="https://leaders.edweek.org/2016-leaders-learn-year-review/?intc=ltlfnavtop">2016: A Year in Review</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2713"><a href="https://leaders.edweek.org/look-inside-2016-keynote-growth-mindset-revisited/?intc=ltlfnavtop">Carol Dweck&#8217;s Keynote</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2685"><a href="https://leaders.edweek.org/leaders-live-stream-2016/?intc=ltlfnavtop">2016 Event: Archive Video</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2303"><a href="https://leaders.edweek.org/virtual-events/?intc=ltlfnavtop">Virtual Events</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-423"><a href="https://leaders.edweek.org/videos-meet-the-2017-leaders/?intc=ltlfnavtop">Videos</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3153"><a href="https://leaders.edweek.org/videos-meet-the-2017-leaders/?intc=ltlfnavtop">Meet the 2017 Leaders</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2524"><a href="https://leaders.edweek.org/videos-meet-the-2016-leaders/?intc=ltlfnavtop">Meet the 2016 Leaders</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1738"><a href="https://leaders.edweek.org/videos-meet-the-2015-leaders/?intc=ltlfnavtop">Meet the 2015 Leaders</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-856"><a title="Meet the 2014 Leaders" href="https://leaders.edweek.org/meet-2014-leaders-videos/?intc=ltlfnavtop">Meet the 2014 Leaders</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-419"><a title="Meet the 2013 Leaders" href="https://leaders.edweek.org/meet-the-leaders-2013/?intc=ltlfnavtop">Meet the 2013 Leaders</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-471"><a title="Be a Sponsor" href="https://leaders.edweek.org/sponsors-information/?intc=ltlfnavtop">Sponsor</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2094"><a href="https://leaders.edweek.org/select-your-registration-type/?intc=ltlfnavtop">Register To Attend</a></li>
+</ul> </nav> 
+<div class="mobile-menu-share">
+<div class="social-inline">
+<ul class="list-inline">
+<a href="https://www.facebook.com/edweek"><li class="facebook-nohover"></li></a>
+<a href="https://twitter.com/educationweek"><li class="twitter-nohover"></li></a>
+<a href="https://plus.google.com/+EducationWeek/posts"><li class="google-nohover"></li></a>
+<a href="https://www.linkedin.com/company/editorial-projects-in-education"><li class="linkedin-nohover"></li></a>
+</ul>
+</div>
+</div>
+</div>
+<!--googleon: all-->
+<div id="content" class="site-content">
+<div class="wrapper">
+<div class="leader-detail-wrapper">
+<div class="container">
+<div class="leader-center-header p-top">
+<div class="button"><a href="https://leaders.edweek.org/leaders/2017/">2017 Leaders To Learn From</a></div> <h1>Jim Rollins</h1>
+<h5>Recognized for Leadership in Managing Growth &amp; Demographic Change</h5> </div>
+<div class="desktop">
+<div class="back-btn">
+<a href="https://leaders.edweek.org/leaders/2017/"><i class="arrow-left"></i>Back to 2017 Leaders</a>
+</div>
+<div class="leaders-dropdown">
+<div class="dropdown">
+<button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-expanded="true">Choose Another Leader<i class="arrow-dropdown"></i>
+</button>
+<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+<li role="presentation"><a role="menuitem" tabindex="-1" href="https://leaders.edweek.org/profile/chris-coffelt-superintendent-developing-teachers/?intc=ltlfdrop">Chris Coffelt<span>Developing Teachers </span></a></li>
+<li role="presentation"><a role="menuitem" tabindex="-1" href="https://leaders.edweek.org/profile/patricia-deklotz-superintendent-innovation/?intc=ltlfdrop">Patricia Deklotz<span>Innovation </span></a></li>
+<li role="presentation"><a role="menuitem" tabindex="-1" href="https://leaders.edweek.org/profile/dolores-gonzalez-chief-program-officer-preparing-all-students-for-college/?intc=ltlfdrop">Dolores Gonzalez<span>Preparing All Students for College </span></a></li>
+<li role="presentation"><a role="menuitem" tabindex="-1" href="https://leaders.edweek.org/profile/sharon-griffin-chief-of-schools-school-turnaround/?intc=ltlfdrop">Sharon Griffin<span>School Turnaround </span></a></li>
+<li role="presentation"><a role="menuitem" tabindex="-1" href="https://leaders.edweek.org/profile/walt-griffin-superintendent-jeanette-lukens-director-project-elevate-gifted-education/?intc=ltlfdrop">Walt Griffin and Jeanette Lukens<span>Gifted Education </span></a></li>
+<li role="presentation"><a role="menuitem" tabindex="-1" href="https://leaders.edweek.org/profile/john-d-marshall-chief-equity-officer-equity-for-students/?intc=ltlfdrop">John D. Marshall<span>Equity for Students </span></a></li>
+<li role="presentation"><a role="menuitem" tabindex="-1" href="https://leaders.edweek.org/profile/clyde-mcbride-director-career-and-technical-education/?intc=ltlfdrop">Clyde McBride<span>Career &amp; Technical Education </span></a></li>
+<li role="presentation"><a role="menuitem" tabindex="-1" href="https://leaders.edweek.org/profile/trise-moore-director-family-engagement/?intc=ltlfdrop">Trise Moore<span>Family Engagement </span></a></li>
+<li role="presentation"><a role="menuitem" tabindex="-1" href="https://leaders.edweek.org/profile/cesar-morales-superintendent-literacy/?intc=ltlfdrop">César Morales<span>Literacy </span></a></li>
+<li role="presentation"><a role="menuitem" tabindex="-1" href="https://leaders.edweek.org/profile/w-burke-royster-superintendent-keeping-students-on-track/?intc=ltlfdrop">W. Burke Royster<span>Keeping Students on Track </span></a></li>
+<li role="presentation"><a role="menuitem" tabindex="-1" href="https://leaders.edweek.org/profile/bilal-tawwab-superintendent-crisis-management/?intc=ltlfdrop">Bilal Tawwab<span>Crisis Management </span></a></li>
+<li role="presentation"><a role="menuitem" tabindex="-1" href="https://leaders.edweek.org/profile/joseph-williams-executive-director-educational-technology/?intc=ltlfdrop">Joseph Williams<span>Educational Technology </span></a></li>
+</ul>
+</div>
+</div>  
+</div>
+<div class="leader-video-wrapper p-top">
+<div class="video" id="ytplayer"></div>
+<script>
+						// Load the IFrame Player API code asynchronously.
+						var tag = document.createElement('script');
+						tag.src = "https://www.youtube.com/player_api";
+						var firstScriptTag = document.getElementsByTagName('script')[0];
+						firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+						// Replace the 'ytplayer' element with an <iframe> and
+						// YouTube player after the API code downloads.
+						var player;
+						function onYouTubePlayerAPIReady() {
+							player = new YT.Player('ytplayer', {
+								height: '540',
+								width: '960',
+								videoId: 'Q47m_bfb5xM',
+								playerVars :{
+									showinfo: 0,
+									autohide: 1,
+									controls: 1,
+									rel: 0,
+									wmode: "transparent",
+								},
+							});
+						}
+					</script>
+</div>
+<article class="article-body-wrapper">
+<div class="article-header">
+<h2>Superintendent Builds Bridges to New Immigrant Communities</h2>
+<p class="byline">By Evie Blad <span class="date">February 22, 2017</span></p>
+</div>
+<div class="article-content">
+<div class="article-left-col">
+<div class="focus-legend">
+<ul>
+<li>Expertise: <span>Managing Growth &amp; Demographic Change</span></li>
+<li>Position: <span>Superintendent</span></li>
+<li>District: <span>Springdale Public Schools, Springdale, Ark.</span></li>
+</ul>
+</div>
+<div class="scroller_anchor"></div>
+<div class="scroller">
+<div class="share-module">
+<div class="share-module-wrapper">
+<div class="top-share">
+<a id="share-twitter" href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fleaders.edweek.org%2Fprofile%2Fjim-rollins-superintendent-managing-growth-demographic-change%2F&#038;text=Jim+Rollins+recognized+for+leadership+in+Managing+Growth+%26amp%3B+Demographic+Change&#038;tw_p=tweetbutton&#038;url=https%3A%2F%2Fleaders.edweek.org%2Fprofile%2Fjim-rollins-superintendent-managing-growth-demographic-change%2F&#038;via=educationweek"><div class="twitter-grey"></div></a>
+<a id="share-facebook" href="https://www.facebook.com/share.php?u=https%3A%2F%2Fleaders.edweek.org%2Fprofile%2Fjim-rollins-superintendent-managing-growth-demographic-change%2F"><div class="facebook-grey"></div></a>
+<a id="share-google" href="https://plus.google.com/share?url=https%3A%2F%2Fleaders.edweek.org%2Fprofile%2Fjim-rollins-superintendent-managing-growth-demographic-change%2F"><div class="google-grey"></div></a>
+</div>
+<div class="bottom-share">
+<a id="share-linkedin" href="https://www.linkedin.com/shareArticle?mini=true&#038;ro=false&#038;title=Jim+Rollins+recognized+for+leadership+in+Managing+Growth+%26amp%3B+Demographic+Change&#038;url=https%3A%2F%2Fleaders.edweek.org%2Fprofile%2Fjim-rollins-superintendent-managing-growth-demographic-change%2F"><div class="linkedin-grey"></div></a>
+<a id="share-mail" href="/cdn-cgi/l/email-protection#4a7528252e33770023276f787a182526262324396f787a382f29252d2423302f2e6f787a2c25386f787a262f2b2e2f383922233a6f787a23246f787a072b242b2d23242d6f787a0d38253d3e226f787a6f787c2b273a6f79086f787a0e2f27252d382b3a2223296f787a09222b242d2f6f787a28336f787a0f2e3f292b3e2325246f787a1d2f2f21646f7a0b6f7a0b1d233e226f787a2223396f787a6f0f786f727a6f73093e2f2b29226f787a3e222f276f787a2b26266f0f786f727a6f730e6f787a2f3e2225396f78096f787a193f3a2f3823243e2f242e2f243e6f787a0023276f787a182526262324396f787a23396f787a25246f787a3e222f6f787a262f2b2e23242d6f787a2f2e2d2f6f787a252c6f787a222f263a23242d6f787a232727232d382b243e6f787a393e3f2e2f243e396f787a2b242e6f787a3e222f23386f787a2c2b272326232f396f787a2c23242e6f787a2b6f787a2c25253e2225262e6f787a23246f787a0b38212b24392b396f0f786f727a6f73736f787a193a3823242d2e2b262f6f787a1a3f282623296f787a192922252526396f787a2b242e6f787a3e222f6f787a2838252b2e2f386f787a292527273f24233e33646f787a022f6f787a23396f787a382f29252d2423302f2e6f787a2b396f787a2b6f787a787a7b7d6f787a062f2b2e2f386f787a1e256f787a062f2b38246f787a0c382527646f7a0b6f7a0b223e3e3a396f790b6f780c6f780c262f2b2e2f3839642f2e3d2f2f216425382d6f780c3a38252c23262f6f780c202327673825262623243967393f3a2f3823243e2f242e2f243e67272b242b2d23242d672d38253d3e22672e2f27252d382b3a2223296729222b242d2f6f780c"><div class="mail-grey"></div></a>
+<a id="share-print" href="https://leaders.edweek.org/profile/jim-rollins-superintendent-managing-growth-demographic-change/print"><div class="print-grey"></div></a>
+</div>
+</div>
+</div>
+</div>
+</div>  
+<div class="article-middle-col">
+<div class="body-text">
+<p>During Jim Rollins’ tenure as superintendent, the <a href="http://springdaleschools.org/">Springdale, Ark., district</a> has undergone an incredible season of growth and demographic change.</p>
+<p>Schools and subdivisions have sprouted up where farms and pastures used to line Springdale’s outskirts, signs of the rapid growth of the northwest Arkansas region and driven by jobs at Tyson Foods, the poultry giant, and companies that support the headquarters of Walmart Stores in nearby Bentonville.</p>
+<p>And Springdale’s student body, which swelled from about 5,000 students when Rollins arrived in 1980 to 21,500 students in the 2016-17 school year, is also markedly more diverse. Once largely filled with white students, schools now educate thousands of Hispanic immigrants, many of them recent arrivals to the United States.</p>
+<p>Springdale has also become home to one of the largest populations of Marshallese people outside the Marshall Islands, a Micronesian country that was the site of U.S. nuclear tests during the Cold War. Under a compact with the United States, Marshallese citizens can move freely between the two countries, which means some of Springdale’s Marshallese students are more highly mobile than their peers.</p>
+<div class="lesson-leader"><h4>Lessons from the Leader</h4><ul class="lesson-leader-list"><li><b>Learning Is the Purpose</b>: Educators must constantly be willing to reorganize and adapt in order to better connect each student to learning.</li><li><b>Empower Teachers</b>: Assuring teachers a voice and welcoming their professional contributions engages ownership of, and advocacy for, the constant pursuit of educational excellence for all students.</li><li><b>Compete for Every Student</b>: Schools that innovate, personalize, and customize learning for each student will foster deep support and loyalty from parents.</li></ul></div>
+<p>After decades of growth and rapid school construction, the Springdale district has developed a reputation among state and national education leaders as a model for steering schools through change while meeting the needs of emerging student populations.</p>
+<p>And Rollins, who punctuates nearly every public address with his “teach them all” motto, has deftly helmed the ship. He began his career in Springdale as the district’s director of secondary curriculum and instruction and later became superintendent—a job he’s had for more than three decades.</p>
+<p>A tall man with a thick Southern accent who lives on a cattle farm, Rollins, 69, does not fit the image some might have of an innovative and inclusive educational leader. But teachers, civic leaders, and superintendents throughout the state say his can-do attitude and efforts to recruit and train talented teachers and school leaders have inspired other school systems, even those facing less dramatic change.</p>
+<p>“He doesn’t accept failure from himself or anyone else,” says Tom Kimbrell, a former Arkansas commissioner of education and current superintendent of the Bryant, Ark., district. “If the wall is 12 feet of concrete, and you know you can’t knock it down with your shoulder, you either get the tools to do it, or you find a way around it. I think he accepted the fact that those changes were coming, and he could either find ways to lead as a change agent or he was going to accept that he couldn’t be successful—and that just wasn’t in his DNA.”</p>
+<p>Rollins didn’t always plan to be an educator. After graduating with a bachelor’s degree in biology and chemistry from Lyon College in Batesville, Ark., he did cancer-research work at the University of Oklahoma with the aim of becoming a doctor. Scrambling to find a job after his lab’s grant funding lapsed, Rollins called the superintendent of North Little Rock schools and secured a job as a science teacher.</p>
+<p>“So I made that transition from the biology lab to the classroom and I actually fell in love with teaching,” he says. “I never went back.”</p>
+<figure id="attachment_3074" style="width: 960px" class="wp-caption aligncenter"><img class="size-full wp-image-3074" src="https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-Jim-Rollins-secondary-960.jpg" alt="" width="960" height="650" srcset="https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-Jim-Rollins-secondary-960.jpg 960w, https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-Jim-Rollins-secondary-960-300x203.jpg 300w, https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-Jim-Rollins-secondary-960-768x520.jpg 768w, https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-Jim-Rollins-secondary-960-235x159.jpg 235w, https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-Jim-Rollins-secondary-960-440x298.jpg 440w, https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-Jim-Rollins-secondary-960-260x176.jpg 260w" sizes="(max-width: 960px) 100vw, 960px"/><figcaption class="wp-caption-text">Photo: Shane Bevel for Education Week</figcaption></figure>
+<p>Prior to settling into work in Springdale, Rollins taught at the junior high and high school levels before he became a principal in North Little Rock. As he advanced in his career, he earned a master’s and a doctorate from the University of Arkansas at Fayetteville.</p>
+<p><strong>‘Teach Them All’</strong></p>
+<p>Rollins’ unusually long tenure at the helm has been a time of great change for Springdale.</p>
+<p>The district has built 22 schools since he arrived. At one point, leaders planned at least one new school building a year as the region was deemed one of the fastest-growing metropolitan areas in the country.</p>
+<p>Under Rollins, the district’s leadership team has landed grants to finance innovative projects. That includes a 2014 federal Race to the Top grant of $26 million that the district is using to launch a high school that focuses on personalized learning, its 31st school.</p>
+<p>Amid that growth, the district had to conquer some major challenges to embrace its changing student population. More than 55 percent of Springdale’s student body are children who are not proficient in English and 71 percent qualify for free and reduced-price lunches. As leaders saw the transformation on the horizon, they avoided making excuses and sought ways to engage new students and address their needs, Rollins says.</p>
+<p>“For the first 10 years, it was just tremendous,” he says. “There were years when we would have hundreds of immigrant children and their families come into the district. So you begin to think about initiatives that will help you connect with families. You need the entire family engaged in the education of any child.”</p>
+<p>Some newly arrived immigrant families are reluctant to trust institutions like public schools, and linguistic and cultural barriers can be big hurdles for engagement. And Springdale, at least early on, didn’t have an established immigrant community—or even bilingual staff members—who could help broker those connections.</p>
+<p>To help, the district hired Al “Papa Rap” Lopez in 2001, a bilingual radio host known in the immigrant community. He is now a family-school liaison who appears at public events and builds connections with newly arrived families who might be reluctant to trust school officials.</p>
+<p>Teachers who most closely work with English-learner students developed a family-literacy program that brings parents into schools to learn English alongside their children, strengthening their own literacy while also building connections with teachers and engaging in their children’s education.</p>
+<p>At Har-Ber High School, older immigrant students with less experience with formal education work in a new arrival center, where they get up-to-speed on academic English and life skills. Administrators, including Rollins, also met with community and ministry leaders to ensure that families felt welcome and understood at school.</p>
+<figure id="attachment_3073" style="width: 960px" class="wp-caption aligncenter"><img class="size-full wp-image-3073" src="https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-Jim-Rollins-lede-960.jpg" alt="" width="960" height="650" srcset="https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-Jim-Rollins-lede-960.jpg 960w, https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-Jim-Rollins-lede-960-300x203.jpg 300w, https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-Jim-Rollins-lede-960-768x520.jpg 768w, https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-Jim-Rollins-lede-960-235x159.jpg 235w, https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-Jim-Rollins-lede-960-440x298.jpg 440w, https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-Jim-Rollins-lede-960-260x176.jpg 260w" sizes="(max-width: 960px) 100vw, 960px"/><figcaption class="wp-caption-text">Photo: Shane Bevel for Education Week</figcaption></figure>
+<p>Rollins has been a champion for the district’s new arrivals from the outset, local leaders say, and a source of reassurance to its established families who expressed concerns about how the rapid growth and shifting student body would affect their children’s education.</p>
+<p>“I think he’s really helped diffuse a lot of the potential fear of change that communities experience when they are fast growing and see tremendous change in demographics,” says Springdale Mayor Doug Sprouse, who is also a former school board member. “I think the school district has led the way. The school district is really the first contact for many of the families who came in.”</p>
+<p>During the height of the district’s growth, Springdale school board meetings were one part celebration and two parts intense planning. They usually ended with a sermon-like speech, delivered by Rollins in his syrupy Southern accent. “Teach them all,” he’d say, reminding staff and board members that schools are responsible for engaging and educating all children, regardless of their background. To deliver on that, though, Rollins and his team knew they needed to get all of the district’s teachers prepared to teach English to native Spanish- and Marshallese-speakers.</p>
+<p>That mantra became the name and the central mission of a partnership that has since been forged between the district and the University of Arkansas. Through Project Teach Them All, which ran from 2007-12, 90 Springdale teachers gained TESOL certification—meaning they were prepared to teach English as a second language—through night classes and participation in a professional learning group.</p>
+<p>Today, about 40 percent of Springdale’s teachers are TESOL-certified, according to Rollins.</p>
+<blockquote><p>There were years when we would have hundreds of immigrant children and their families come into the district. [Y]ou begin to think about initiatives that will help you connect with families.</p></blockquote>
+<p>Diana Gonzales Worthen, who led the project at the University of Arkansas, says the understanding of language acquisition and cross-cultural teaching can make all teachers more effective, but it’s not a commitment every district leader would make.</p>
+<p>“Dr. Rollins is not afraid of trying something and seeing it through to see if it’s going to work,” says Gonzales Worthen, who is also the co-founder of One Community, a multicultural community organization in Northwest Arkansas. The university partnership has grown and birthed a regional program that attracts teachers from more rural districts with English-learner populations.</p>
+<p>In addition to language training, Springdale has also worked to train teachers on their students’ cultural backgrounds, Gonzales Worthen says.</p>
+<p>“The way it could have gone could have been, ‘You’re new to this district, and this is how we do things,’ ” she says. Instead, Springdale has become a warm, tolerant community that celebrates differences.</p>
+<p>But the district still has work to do, Rollins says. He’s still trying to recruit the district’s own Hispanic and Marshallese graduates to become teachers. Those efforts include a program that allows teacher’s aides to complete degrees through a partnership with the University of Arkansas. District leaders also go out-of-state to recruit teacher talent. Rollins has been mum about retirement plans. He much prefers to talk about the work ahead of him or tell stories of students who came to the district as immigrants who spoke no English and left as valedictorians bound for competitive universities.</p>
+<p>“It doesn’t make a bit of difference to us whether a child comes from across the street or across the ocean,” Rollins says. “When they get to our schoolhouse door, they’re one thing. They’re our children.”</p>
+<p>&nbsp;</p>
+</div>  
+<div class="article-middle-bottom">
+<div class="mobile-dropdown mobile">
+<div class="back-btn">
+<a href="https://leaders.edweek.org/leaders/2017/"><i class="arrow-left"></i>Back to 2017 Leaders</a>
+</div>
+<div class="leaders-dropdown">
+<div class="dropdown">
+<button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-expanded="true">Choose Another Leader<i class="arrow-dropdown"></i>
+</button>
+<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+<li role="presentation"><a role="menuitem" tabindex="-1" href="https://leaders.edweek.org/profile/chris-coffelt-superintendent-developing-teachers/?intc=ltlfdrop">Chris Coffelt<span>Developing Teachers </span></a></li>
+<li role="presentation"><a role="menuitem" tabindex="-1" href="https://leaders.edweek.org/profile/patricia-deklotz-superintendent-innovation/?intc=ltlfdrop">Patricia Deklotz<span>Innovation </span></a></li>
+<li role="presentation"><a role="menuitem" tabindex="-1" href="https://leaders.edweek.org/profile/dolores-gonzalez-chief-program-officer-preparing-all-students-for-college/?intc=ltlfdrop">Dolores Gonzalez<span>Preparing All Students for College </span></a></li>
+<li role="presentation"><a role="menuitem" tabindex="-1" href="https://leaders.edweek.org/profile/sharon-griffin-chief-of-schools-school-turnaround/?intc=ltlfdrop">Sharon Griffin<span>School Turnaround </span></a></li>
+<li role="presentation"><a role="menuitem" tabindex="-1" href="https://leaders.edweek.org/profile/walt-griffin-superintendent-jeanette-lukens-director-project-elevate-gifted-education/?intc=ltlfdrop">Walt Griffin and Jeanette Lukens<span>Gifted Education </span></a></li>
+<li role="presentation"><a role="menuitem" tabindex="-1" href="https://leaders.edweek.org/profile/john-d-marshall-chief-equity-officer-equity-for-students/?intc=ltlfdrop">John D. Marshall<span>Equity for Students </span></a></li>
+<li role="presentation"><a role="menuitem" tabindex="-1" href="https://leaders.edweek.org/profile/clyde-mcbride-director-career-and-technical-education/?intc=ltlfdrop">Clyde McBride<span>Career &amp; Technical Education </span></a></li>
+<li role="presentation"><a role="menuitem" tabindex="-1" href="https://leaders.edweek.org/profile/trise-moore-director-family-engagement/?intc=ltlfdrop">Trise Moore<span>Family Engagement </span></a></li>
+<li role="presentation"><a role="menuitem" tabindex="-1" href="https://leaders.edweek.org/profile/cesar-morales-superintendent-literacy/?intc=ltlfdrop">César Morales<span>Literacy </span></a></li>
+<li role="presentation"><a role="menuitem" tabindex="-1" href="https://leaders.edweek.org/profile/w-burke-royster-superintendent-keeping-students-on-track/?intc=ltlfdrop">W. Burke Royster<span>Keeping Students on Track </span></a></li>
+<li role="presentation"><a role="menuitem" tabindex="-1" href="https://leaders.edweek.org/profile/bilal-tawwab-superintendent-crisis-management/?intc=ltlfdrop">Bilal Tawwab<span>Crisis Management </span></a></li>
+<li role="presentation"><a role="menuitem" tabindex="-1" href="https://leaders.edweek.org/profile/joseph-williams-executive-director-educational-technology/?intc=ltlfdrop">Joseph Williams<span>Educational Technology </span></a></li>
+</ul>
+</div>
+</div>  
+</div>
+<div class="article-bottom-header">
+<a class="meet-all" href="https://leaders.edweek.org/leaders/2017/"><span>More Leaders of 2017</span><i class="arrow-right-small"></i></a>
+</div>
+<div class="leader-blocks-wrapper">
+<div class="leader-block">
+<a href="https://leaders.edweek.org/profile/w-burke-royster-superintendent-keeping-students-on-track/?intc=ltlfmorepics">
+<img width="135" height="135" src="https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-W-Burke-Royster-lede-960-135x135.jpg" class="img-responsive wp-post-image" alt="" srcset="https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-W-Burke-Royster-lede-960-135x135.jpg 135w, https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-W-Burke-Royster-lede-960-150x150.jpg 150w, https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-W-Burke-Royster-lede-960-320x320.jpg 320w, https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-W-Burke-Royster-lede-960-192x192.jpg 192w, https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-W-Burke-Royster-lede-960-240x240.jpg 240w, https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-W-Burke-Royster-lede-960-110x110.jpg 110w" sizes="(max-width: 135px) 100vw, 135px"/> <div class="leader-block-name">
+<h4>W. Burke Royster</h4>
+<p>Keeping Students on Track</p>
+</div>
+</a>
+</div>
+<div class="leader-block">
+<a href="https://leaders.edweek.org/profile/bilal-tawwab-superintendent-crisis-management/?intc=ltlfmorepics">
+<img width="135" height="135" src="https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-Bilal-Tawwab-lede-960-135x135.jpg" class="img-responsive wp-post-image" alt="" srcset="https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-Bilal-Tawwab-lede-960-135x135.jpg 135w, https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-Bilal-Tawwab-lede-960-150x150.jpg 150w, https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-Bilal-Tawwab-lede-960-320x320.jpg 320w, https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-Bilal-Tawwab-lede-960-192x192.jpg 192w, https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-Bilal-Tawwab-lede-960-240x240.jpg 240w, https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-Bilal-Tawwab-lede-960-110x110.jpg 110w" sizes="(max-width: 135px) 100vw, 135px"/> <div class="leader-block-name">
+<h4>Bilal Tawwab</h4>
+<p>Crisis Management</p>
+</div>
+</a>
+</div>
+<div class="leader-block">
+<a href="https://leaders.edweek.org/profile/joseph-williams-executive-director-educational-technology/?intc=ltlfmorepics">
+<img width="135" height="135" src="https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-Joseph-Williams-lede-960-135x135.jpg" class="img-responsive wp-post-image" alt="" srcset="https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-Joseph-Williams-lede-960-135x135.jpg 135w, https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-Joseph-Williams-lede-960-150x150.jpg 150w, https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-Joseph-Williams-lede-960-320x320.jpg 320w, https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-Joseph-Williams-lede-960-192x192.jpg 192w, https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-Joseph-Williams-lede-960-240x240.jpg 240w, https://leaders.edweek.org/wp-content/uploads/2017/02/LTLF-Joseph-Williams-lede-960-110x110.jpg 110w" sizes="(max-width: 135px) 100vw, 135px"/> <div class="leader-block-name">
+<h4>Joseph Williams</h4>
+<p>Educational Technology</p>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>  
+<div class="article-right-col">
+<div class="block">
+<div id='div-gpt-ad-Profile_Secondary' class='dfp-ad dfp-Profile_Secondary'>
+<div class='ad-wrapper'>
+<script type='text/javascript'>
+		if ( typeof googletag != 'undefined' ) {
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-Profile_Secondary'); });
+		}
+	</script>
+</div>
+</div>
+</div>
+</div>  
+</div>
+<div id="sharebar-trigger"></div>
+</article>
+</div>  
+</div>
+</div>
+<div class="support">
+<p>Produced with support from The Wallace Foundation, at <a href="http://www.wallacefoundation.org">www.wallacefoundation.org</a></p>
+</div>
+</div> 
+</div> 
+<footer id="colophon" class="site-footer" role="contentinfo">
+<div class="site-info">
+<div class="container">
+<div class="footer-logo">
+<div class="edweek-logo"></div>
+</div>
+<div class="footer-blurb">
+<p>Leaders To Learn From is a project of <strong><a href="http://www.edweek.org"><em>Education Week</em></a></strong>, the nation's foremost source for K-12 news and analysis.</p>
+</div>
+<div class="footer-nav">
+<nav>
+<ul id="menu-footer-menu" class="list-inline"><li id="menu-item-1492" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1492"><a href="https://leaders.edweek.org/about/?intc=ltlfnavfoot">About</a></li>
+<li id="menu-item-1493" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1493"><a href="https://leaders.edweek.org/sponsors-information/?intc=ltlfnavfoot">Sponsor</a></li>
+</ul> </nav>
+</div>
+<div class="social-inline">
+<ul class="list-inline">
+<a href="https://www.facebook.com/edweek"><li class="facebook-white"></li></a>
+<a href="https://twitter.com/educationweek"><li class="twitter-white"></li></a>
+<a href="https://plus.google.com/+EducationWeek/posts"><li class="google-white"></li></a>
+<a href="https://www.linkedin.com/company/editorial-projects-in-education"><li class="linkedin-white"></li></a>
+</ul>
+</div>
+</div>
+</div> 
+</footer> 
+</div> 
+<div class="adhesion-mobile">
+<div class="close-ad-container">
+<div class="close-ad"><span class="icon">&times;</span></div>
+</div>
+<div id='div-gpt-ad-Adhesion_Mobile' class='dfp-ad dfp-Adhesion_Mobile'>
+<div class='ad-wrapper'>
+</div>
+</div>
+</div>
+<div id="meteredMessageContainer" style="display:none;">[MESSAGE]</div>
+<div id="eModal-1" class="emodal theme-1 responsive normal" data-emodal="{&quot;id&quot;:&quot;1&quot;,&quot;theme_id&quot;:&quot;1&quot;,&quot;meta&quot;:{&quot;id&quot;:&quot;1&quot;,&quot;modal_id&quot;:&quot;1&quot;,&quot;display&quot;:{&quot;overlay_disabled&quot;:0,&quot;size&quot;:&quot;normal&quot;,&quot;custom_width&quot;:0,&quot;custom_width_unit&quot;:&quot;rem&quot;,&quot;custom_height&quot;:0,&quot;custom_height_unit&quot;:&quot;rem&quot;,&quot;custom_height_auto&quot;:1,&quot;location&quot;:&quot;center top&quot;,&quot;position&quot;:{&quot;top&quot;:100,&quot;left&quot;:0,&quot;bottom&quot;:0,&quot;right&quot;:0,&quot;fixed&quot;:0},&quot;animation&quot;:{&quot;type&quot;:&quot;grow&quot;,&quot;speed&quot;:350,&quot;origin&quot;:&quot;bottom&quot;}},&quot;close&quot;:{&quot;overlay_click&quot;:1,&quot;esc_press&quot;:0,&quot;disabled&quot;:0}}}"><div class="emodal-title">2015 Agenda</div><div class="emodal-content"><hr/>
+<span style="color: #428bca; font-size: 18px; line-height: 20px;"><strong>7:15 a.m.–8:00 a.m.</strong></span><br/>
+<span style="color: #414042; font-size: 14px; line-height: 14px;"><strong>Networking Breakfast</strong></span><br/>
+<span style="color: #6d6e71; font-size: 14px; line-height: 20%;"><em>Join for breakfast with leaders who work in the fields of most interest to you. There’ll be tables for parent engagement, school climate, ed tech, and more!</em></span></p>
+<p><span style="color: #428bca; font-size: 18px; line-height: 20px;"><strong>8:00 a.m.–8:25 a.m.</strong></span><br/>
+<span style="color: #414042; font-size: 14px; line-height: 14px;"><strong>Welcome, Introductions, and Recognition Presentation</strong></span><br/>
+<span style="color: #6d6e71; font-size: 14px; line-height: 20%;"><em>Recognition of the work of 8 of the 15—2015 Leaders To Learn From selected by Education Week.</em></span></p>
+<p><span style="color: #428bca; font-size: 18px; line-height: 20px;"><strong>8:25 a.m.–8:40 a.m.</strong></span><br/>
+<span style="color: #414042; font-size: 14px; line-height: 14px;"><strong>Breakouts—Meet the Leaders</strong></span><br/>
+<span style="color: #6d6e71; font-size: 14px; line-height: 20%;"><em>First 8 Leaders will go to their subject matter tables located throughout the room to discuss with attendees their “Focus of Strength” and to answer any questions attendees have. (Attendees will be encouraged to find their table of interest based on the map of the room provided in the program).</em></span></p>
+<p><span style="color: #428bca; font-size: 18px; line-height: 20px;"><strong>8:40 a.m.–9:10 a.m.</strong></span><br/>
+<span style="color: #414042; font-size: 14px; line-height: 14px;"><strong>Recognition Presentation Concludes</strong></span><br/>
+<span style="color: #414042; font-size: 14px; line-height: 14px;"><strong>Recognition of the work of our final 7 Leaders To Learn From.</strong></span></p>
+<p><span style="color: #428bca; font-size: 18px; line-height: 20px;"><strong>9:10 a.m.–9:35 a.m</strong></span><br/>
+<span style="color: #414042; font-size: 14px; line-height: 14px;"><strong>Breakouts—Meet the Leaders</strong></span><br/>
+<span style="color: #6d6e71; font-size: 14px; line-height: 20%;"><em>Second group of Leaders will go to their subject matter tables located throughout the room to discuss with attendees their “Focus of Strength” and to answer any questions attendees have.</em></span></p>
+<p><span style="color: #428bca; font-size: 18px; line-height: 20px;"><strong>9:35 a.m.–10:05 a.m.</strong></span><br/>
+<span style="color: #414042; font-size: 14px; line-height: 14px;"><strong>District Leader Snapshots</strong></span><br/>
+<span style="color: #6d6e71; font-size: 14px; line-height: 20%;"><em>(A selection of 2015 Leaders will come to the stage with their reporters and discuss their “Focus of Strength.”)</em></span></p>
+<p><span style="color: #428bca; font-size: 18px; line-height: 20px;"><strong>10:05 a.m.–10:30 a.m.</strong></span><br/>
+<span style="color: #414042; font-size: 14px; line-height: 14px;"><strong>Midmorning Networking Break</strong></span></p>
+<p><span style="color: #428bca; font-size: 18px; line-height: 20px;"><strong>10:30 a.m.–11:30 a.m.</strong></span><br/>
+<span style="color: #414042; font-size: 14px; line-height: 14px;"><strong>“Three Keys for Maximizing Leadership Impact”</strong></span><br/>
+<span style="color: #6d6e71; font-size: 14px; line-height: 20%;"><em>Michael Fullan, education leadership author and expert, and former minister of education, Canada (2003–2013).</em></span></p>
+<p><span style="color: #428bca;"><strong>11:30 a.m.–12:00 a.m.</strong></span><br/>
+<span style="color: #414042; font-size: 14px; line-height: 14px;"><strong>District Leader Snapshots</strong></span><br/>
+<span style="color: #6d6e71; font-size: 14px; line-height: 20%;"><em>(A selection of 2015 Leaders will come to the stage with their reporters and discuss their “Focus of Strength”).</em></span></p>
+<p><span style="color: #428bca; font-size: 18px; line-height: 20px;"><strong>12:00 a.m.– 12:30 p.m.</strong></span><br/>
+<span style="color: #414042; font-size: 14px; line-height: 14px;"><strong>“Ask the ED”</strong></span><br/>
+<span style="color: #6d6e71; font-size: 14px; line-height: 20%;"><em>Join in a Department of Education Lightning Round featuring Assistant U.S. Secretary of Education Deborah S. Delisle other Department of Education leadership who will take your questions.</em></span></p>
+<ul>
+<span style="color: #6d6e71; font-size: 14px; line-height: 20%;"></p>
+<li>Moderated by Virginia B. Edwards, Editor-in-Chief, Education Week</li>
+<p></span>
+</ul>
+<p><span style="color: #428bca; font-size: 18px; line-height: 20px;"><strong>12:30 p.m.–1:30 p.m.</strong></span><br/>
+<span style="color: #414042; font-size: 14px; line-height: 14px;"><strong>Networking Luncheon</strong></span><br/>
+<span style="color: #6d6e71; font-size: 14px; line-height: 20%;"><em>Uninterrupted time to mingle with those you’ve met at your tables and at the various tables set up throughout the room during our break-outs.</em></span></p>
+<div class="btn btn-lg btn-default btn-register" style="margin: .5em 0; color=#ffffff">
+<a href="https://leaders.edweek.org/select-your-registration-type/">Click Here To Register</a>
+</div>
+</div><a class="emodal-close">&#215;</a></div><script type='text/javascript' src='https://leaders.edweek.org/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://leaders.edweek.org/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://leaders.edweek.org/wp-content/plugins/easy-modal/assets/scripts/jquery.transit.min.js?ver=0.9.11'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var emodal_themes = [];
+emodal_themes = {"1":{"id":"1","theme_id":"1","overlay":{"background":{"color":"#428bca","opacity":40}},"container":{"padding":30,"background":{"color":"#f5f5f2","opacity":100},"border":{"style":"none","color":"#F0532B","width":1,"radius":4},"boxshadow":{"inset":"no","horizontal":1,"vertical":1,"blur":3,"spread":0,"color":"#020202","opacity":23}},"close":{"text":"&#215;","location":"topright","position":{"top":0,"left":0,"bottom":0,"right":0},"padding":2,"background":{"color":"#588ebe","opacity":100},"font":{"color":"#ffffff","size":20,"family":"Times New Roman"},"border":{"style":"none","color":"#ffffff","width":1,"radius":12},"boxshadow":{"inset":"no","horizontal":0,"vertical":0,"blur":0,"spread":0,"color":"#020202","opacity":23},"textshadow":{"horizontal":0,"vertical":0,"blur":0,"color":"#000000","opacity":23}},"title":{"font":{"color":"#004264","size":30,"family":"Sans-Serif"},"text":{"align":"left"},"textshadow":{"horizontal":0,"vertical":0,"blur":0,"color":"#020202","opacity":23}},"content":{"font":{"color":"#4d4d4f","family":"Times New Roman"}}}};;
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://leaders.edweek.org/wp-content/plugins/easy-modal/assets/scripts/easy-modal-site.js?defer&#038;ver=2' defer='defer'></script>
+<script type='text/javascript' src='https://leaders.edweek.org/wp-content/themes/edweek-leaders/static/js/jQuery.headroom.js?ver=0.1.8'></script>
+<script type='text/javascript' src='https://leaders.edweek.org/wp-content/themes/edweek-leaders/static/js/headroom.js?ver=0.1.8'></script>
+<script type='text/javascript' src='https://leaders.edweek.org/wp-content/themes/edweek-leaders/static/js/global.js?ver=0.1.8'></script>
+<script type='text/javascript' src='https://leaders.edweek.org/wp-content/themes/edweek-leaders/static/js/bootstrap.js?ver=0.1.8'></script>
+<script type='text/javascript' src='https://leaders.edweek.org/wp-content/themes/edweek-leaders/static/js/slick.js?ver=0.1.8'></script>
+<script type='text/javascript' src='https://leaders.edweek.org/wp-includes/js/wp-embed.min.js?ver=4.7'></script>
+<div itemprop="publisher" itemtype="http://schema.org/Organization" itemscope>
+<meta itemprop="name" content="Editorial Projects in Education"/>
+<meta itemprop="url" content="http://www.edweek.org/"/>
+<div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+<meta itemprop="url" content="http://www.edweek.org/images/edweek_logo.jpg"/>
+</div>
+</div>
+<meta itemprop="about" content="teacherquality,Indiana,teachingprofession"/>
+<meta itemprop="contentLocation" content="Indiana"/>
+<meta itemprop="dateline" content="Indianapolis (AP)"/>
+<script>/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/\>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script></body>
+</html>
