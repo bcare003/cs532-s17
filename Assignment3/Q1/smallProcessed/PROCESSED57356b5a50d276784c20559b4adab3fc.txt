@@ -1,0 +1,7 @@
+   nike_Cart_handleJCartResponse({ "exceptions": [{ "property":
+   "catalogRefId", "errorcode": "noItemsToAddInStock", "message": "Sorry,
+   this item isn't available anymore because other shoppers added it to
+   their carts first. But if they don't check out in the next few minutes,
+   you've still got a chance. Please try again shortly. [Code:
+   010N-100000069]" }], "status": "failure", "order": { "id": "dummy",
+   "objType": "order", "itemQuantity": 0 } });

@@ -1,0 +1,55 @@
+   [1][chrome-portal-logo.jpg]
+   [header-cloud.jpg]
+   [2]MOVIES [3]TV [4]CREATE [5]NEWSLETTER SIGN-UP
+     * [6]NEWS
+     * [7]LEADERSHIP
+     * [8]GIVING BACK
+
+   [9][dwa-chrome-movies-boss.jpg]
+   [10][dwa-chrome-movies-trolls2.jpg]
+   [11][dwa-chrome-movies-kfp.jpg]
+   [12][dwa-chrome-movies-mad.jpg]
+   [13][dwa-chrome-movies-httyd.jpg]
+   [chrome-arrow-left-over.png]
+   [chrome-arrow-right-over.png]
+
+Epic 404 - Article Not Found
+
+   The article you were looking for was not found, but maybe try looking
+   again!
+
+   This is the 404.php template.
+
+   [footer-logo.jpg]
+   [14]Company Overview
+   [15]Careers
+   [16]Giving Back
+   [17]Our Culture
+   © 2017 DreamWorks Animation LLC. All rights reserved. [18]PRIVACY
+   POLICY     [19]TERMS OF USE [footer-hpe-logo.png] [footer-hpi-logo.png]
+
+   [exit-bg.jpg] [exit-bg-mobile.jpg]
+   GO BACK
+   CONTINUE
+
+References
+
+   1. http://www.dreamworksanimation.com/
+   2. javascript:void(0);
+   3. http://www.dreamworkstv.com/
+   4. http://create.dreamworks.com/
+   5. http://www.dreamworksanimation.com/subscribe/
+   6. http://www.dreamworksanimation.com/company/
+   7. http://www.dreamworksanimation.com/leadership/
+   8. http://www.dreamworksanimation.com/givingback/
+   9. http://www.dreamworks.com/thebossbaby/
+  10. http://www.dreamworks.com/trolls/
+  11. http://www.dreamworks.com/kungfupanda/
+  12. http://madagascar.dreamworks.com/
+  13. https://www.howtotrainyourdragon.com/
+  14. http://www.dreamworksanimation.com/company/
+  15. http://www.dreamworksanimation.com/careers/
+  16. http://www.dreamworksanimation.com/givingback/
+  17. http://www.dreamworksanimation.com/ourculture/
+  18. http://www.dreamworksanimation.com/privacypolicy.html
+  19. http://www.dreamworksanimation.com/termsofuse.html
