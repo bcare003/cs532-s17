@@ -1,0 +1,33 @@
+   #[1]SoundCloud search
+
+   [2]SoundCloud
+   [loader-dark-45940ae3.gif]
+
+   JavaScript is disabled
+
+   You need to enable JavaScript to use SoundCloud
+   [3]Show me how to enable it
+
+   Your current browser isn't compatible with SoundCloud.
+   Please download one of our supported browsers. [4]Need help?
+   [5]Chrome | [6]Firefox | [7]Safari | [8]Internet Explorer
+
+   Sorry! Something went wrong
+
+   Is your network connection unstable or browser outdated?
+   [9]I need help
+
+   [10]Popular searches
+
+References
+
+   1. https://soundcloud.com/sc-opensearch.xml
+   2. https://soundcloud.com/
+   3. http://www.enable-javascript.com/
+   4. http://help.soundcloud.com/customer/portal/articles/552882-the-site-won-t-load-for-me-all-i-see-is-the-soundcloud-logo-what-can-i-do-
+   5. http://google.com/chrome
+   6. http://firefox.com/
+   7. http://apple.com/safari
+   8. http://windows.microsoft.com/ie
+   9. http://help.soundcloud.com/
+  10. https://soundcloud.com/popular/searches

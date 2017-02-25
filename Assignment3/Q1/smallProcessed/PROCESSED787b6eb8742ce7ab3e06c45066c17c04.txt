@@ -1,0 +1,53 @@
+[1]Sucuri, INC
+
+     * [2]HOME
+     * [3]BLOG
+     * [4]CONTACT
+
+[5]Sucuri WebSite Firewall - Access Denied
+
+What is going on?
+
+   You are not allowed to access the requested page. If you are the site
+   owner, you can whitelist your IP using this procedure:
+   [6]https://kb.sucuri.net/cloudproxy/Whitelist+and+Blacklist/whitelistin
+   g-IP. If you are not the owner of the web site, you can contact us at
+   cloudproxy@sucuri.net. Also make sure to include the block details
+   (displayed below), so we can better troubleshoot the error.
+
+Block details
+
+     * Your IP: 128.82.4.182
+     * URL: list25.com/25-best-surfing-spots-in-the-world/%0D
+     * Your Browser: Lynx/2.8.8pre.4 libwww-FM/2.14 SSL-MM/1.4.1
+       GNUTLS/2.12.23
+     * Block ID: EXPVP5
+     * Block reason: Exploit attempt denied by virtual patching.
+     * Time: Fri Feb 24 14:48:36 2017
+     * Server ID: cp14003
+
+Sucuri Firewall
+
+   Your request was blocked by the Sucuri Firewall. It is a protection
+   that stands between this site and the rest of the world and stop
+   attacks, malware infections, DDoS, brute force attempts and mostly
+   anything that can harm it.
+
+   Not only that, but your sites get cached, speeding it up quite a bit.
+   Details here: [7]https://sucuri.net/website-firewall
+
+   Copyright © 2017, Sucuri, Inc. All rights reserved.
+   [8]Terms of Service | [9]Privacy Policy Questions?
+   cloudproxy@sucuri.net
+
+References
+
+   1. https://sucuri.net/website-firewall/
+   2. https://sucuri.net/website-firewall/
+   3. https://blog.sucuri.net/
+   4. https://sucuri.net/contact
+   5. https://sucuri.net/website-firewall/
+   6. https://kb.sucuri.net/cloudproxy/Whitelist+and+Blacklist/whitelisting-IP
+   7. https://sucuri.net/website-firewall/
+   8. http://sucuri.net/terms
+   9. http://sucuri.net/privacy-policy

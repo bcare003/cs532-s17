@@ -1,0 +1,8 @@
+   REFRESH(1 sec): [1]http://www.giantbomb.com/raditz/3005-554/
+   Redirecting to [2]http://www.giantbomb.com/raditz/3005-554/ /.
+
+
+References
+
+   1. http://www.giantbomb.com/raditz/3005-554/
+   2. http://www.giantbomb.com/raditz/3005-554//
