@@ -1,0 +1,1683 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# profile: http://ogp.me/ns/profile# product: http://ogp.me/ns/product#">
+  <title>&quot;Chihuahua Dog&quot; iPad Cases &amp; Skins by ritmoboxers | Redbubble</title>
+
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"8ae17125a0","applicationID":"31342375","transactionName":"cg0KRBAJWQ9RRUpYRUULF0RNEVoRX0RKSl9eFQ==","queueTime":1,"applicationTime":232,"agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+  <meta name="viewport" content="initial-scale=1.0, width=device-width,maximum-scale=1.0, user-scalable=no" />
+  <meta property="fb:app_id" content="237843743897"/>
+        <link rel="alternate" href="https://www.redbubble.com/people/ritmoboxers/works/13289124-chihuahua-dog?asc=t" hreflang="en" />
+      <link rel="alternate" href="https://www.redbubble.com/de/people/ritmoboxers/works/13289124-chihuahua-dog?asc=t" hreflang="de" />
+      <link rel="alternate" href="https://www.redbubble.com/fr/people/ritmoboxers/works/13289124-chihuahua-dog?asc=t" hreflang="fr" />
+      <link rel="alternate" href="https://www.redbubble.com/es/people/ritmoboxers/works/13289124-chihuahua-dog?asc=t" hreflang="es" />
+
+  <meta property="og:site_name" content="Redbubble" />
+        <meta property="og:image" content="https://ih1.redbubble.net/image.231026137.9124/mwo,x350,ipad_2_snap.png">
+      <meta name="twitter:site" content="@redbubble">
+        <meta name="twitter:card" content="summary_large_image">
+
+  <meta name="description" content="Buy &#39;Chihuahua Dog&#39; by ritmoboxers as a A-Line Dress, iPhone Case/Skin, Samsung Galaxy Case/Skin, Poster, Throw Pillow, Tote Bag, Studio Pouch, Mug, Travel Mug, Art Print, Canvas Print, Framed Print, Photographic Print, Metal Print, Greeti...">
+  <meta name="keywords" content="chihuahua, chihuahuas, dog, dogs, pet, pets, animal, animals, mugs, cases, pillows, postcards">
+  <meta property="og:title" content="&lsquo;Chihuahua Dog&rsquo; iPad Case/Skin by ritmoboxers">
+  <meta property="og:description" content="Close up of a chihuahua  dog&amp;#8217;s face • Also buy this artwork on phone cases, apparel, home decor, and more.">
+
+    <meta property="og:type" content="product">
+    <meta property="product:price:amount" content="45.0">
+    <meta property="product:price:currency" content="USD">
+
+    <meta property="sailthru.tags" content="works-page,product-category-covers,product-ipad-cases,artist-ritmoboxers,chihuahua,chihuahuas,dog,dogs,pet,pets,animal,animals,mugs,cases,pillows,postcards">
+    <meta name="sailthru.image.productfull" content="https://ih1.redbubble.net/image.231026137.9124/mwo,500x500,ipad_2_snap-pad,590x640,f8f8f8.jpg" />
+    <meta name="sailthru.image.designfull" content="https://ih1.redbubble.net/image.231026137.9124/flat,550x550,075,t-pad,590x640,ffffff.jpg" />
+
+  <meta property="og:url" content="https://www.redbubble.com/people/ritmoboxers/works/13289124-chihuahua-dog?asc=t&amp;p=ipad-case">
+  <meta name="twitter:site" content="@redbubble">
+  <meta name="twitter:creator" content="@ritmoboxer">
+
+
+
+  
+  <link rel="stylesheet" media="screen" href="https://d3spquiph2sexc.cloudfront.net/assets/icons-bdcb3a41b20ad72036ea3c8b6703f3ad3f3f56534497a0371ee3f3485af43e12.css" />
+  <link rel="stylesheet" media="screen" href="https://d3spquiph2sexc.cloudfront.net/assets/core-1a4a01bc01926a34fa9d0fa577620c2f93a4360e0f0ab21b9121f73a353ebaee.css" />
+
+  <!-- BEGIN TRACKJS -->
+  <script type="text/javascript">
+  window._trackJs = {
+    enabled: true,
+    token: '8c85d05606e34171808df6a5cc0f8c1d',
+    userId: '128.82.4.182',
+    sessionId: 'b4a5e78f8604508f1b38134487859115',
+    version: 'sj6_carousel_on_product_page-control'
+  };
+</script>
+
+  <script type="text/javascript">
+// COPYRIGHT (c) 2015 TrackJS LLC ALL RIGHTS RESERVED
+(function(h,q,k){"use awesome";if(h.trackJs)h.console&&h.console.warn&&h.console.warn("TrackJS global conflict");else{var l=function(a,b,c,d,e){this.util=a;this.onError=b;this.onFault=c;this.options=e;e.enabled&&this.initialize(d)};l.prototype={initialize:function(a){a.addEventListener&&(this.wrapAndCatch(a.Element.prototype,"addEventListener",1),this.wrapAndCatch(a.XMLHttpRequest.prototype,"addEventListener",1),this.wrapRemoveEventListener(a.Element.prototype),this.wrapRemoveEventListener(a.XMLHttpRequest.prototype));
+this.wrapAndCatch(a,"setTimeout",0);this.wrapAndCatch(a,"setInterval",0)},wrapAndCatch:function(a,b,c){var d=this,e=a[b];d.util.hasFunction(e,"apply")&&(a[b]=function(){try{var f=Array.prototype.slice.call(arguments),g=f[c],v,h;if(d.options.bindStack)try{throw Error();}catch(k){h=k.stack,v=d.util.isoNow()}if("addEventListener"===b&&(this._trackJsEvt||(this._trackJsEvt=new m),this._trackJsEvt.getWrapped(f[0],g,f[2])))return;g&&d.util.hasFunction(g,"apply")&&(f[c]=function(){try{return g.apply(this,
+arguments)}catch(a){throw d.onError("catch",a,{bindTime:v,bindStack:h}),d.util.wrapError(a);}},"addEventListener"===b&&this._trackJsEvt.add(f[0],g,f[2],f[c]));return e.apply(this,f)}catch(l){a[b]=e,d.onFault(l)}})},wrapRemoveEventListener:function(a){if(a&&a.removeEventListener&&this.util.hasFunction(a.removeEventListener,"call")){var b=a.removeEventListener;a.removeEventListener=function(a,d,e){if(this._trackJsEvt){var f=this._trackJsEvt.getWrapped(a,d,e);f&&this._trackJsEvt.remove(a,d,e);return b.call(this,
+a,f,e)}return b.call(this,a,d,e)}}}};var m=function(){this.events=[]};m.prototype={add:function(a,b,c,d){-1>=this.indexOf(a,b,c)&&this.events.push([a,b,!!c,d])},remove:function(a,b,c){a=this.indexOf(a,b,!!c);0<=a&&this.events.splice(a,1)},getWrapped:function(a,b,c){a=this.indexOf(a,b,!!c);return 0<=a?this.events[a][3]:k},indexOf:function(a,b,c){for(var d=0;d<this.events.length;d++)if(this.events[d][0]===a&&this.events[d][1]===b&&this.events[d][2]===!!c)return d;return-1}};var u=function(a,b){this.util=
+a;this.initCurrent(b)};u.prototype={current:{},initOnly:{application:"",enabled:!0,token:!0,callback:{enabled:!0},console:{enabled:!0},network:{enabled:!0},visitor:{enabled:!0},window:{enabled:!0}},defaults:{application:"",enabled:!0,onError:function(){return!0},serialize:function(a){return a===k?"undefined":null===a?"null":"number"===typeof a&&isNaN(a)?"NaN":""===a?"Empty String":0===a?"0":!1===a?"false":a&&a.toString?a.toString():"unknown"},sessionId:"",token:"",userId:"",version:"",callback:{enabled:!0,
+bindStack:!1},console:{enabled:!0,display:!0,error:!0,watch:["log","debug","info","warn","error"]},network:{enabled:!0,error:!0},visitor:{enabled:!0},window:{enabled:!0}},initCurrent:function(a){if(this.validate(a,this.defaults,"config",{}))return this.current=this.util.extend(this.current,this.defaults,a),!0;this.current=this.util.extend(this.current,this.defaults);return!1},setCurrent:function(a){return this.validate(a,this.defaults,"config",this.initOnly)?(this.current=this.util.extend(this.current,
+a),!0):!1},validate:function(a,b,c,d){var e=!0;c=c||"";d=d||{};for(var f in a)if(a.hasOwnProperty(f))if(b.hasOwnProperty(f)){var g=typeof b[f];g!==typeof a[f]?(console.warn(c+"."+f+": property must be type "+g+"."),e=!1):"[object Array]"!==Object.prototype.toString.call(a[f])||this.validateArray(a[f],b[f],c+"."+f)?"[object Object]"===Object.prototype.toString.call(a[f])?e=this.validate(a[f],b[f],c+"."+f,d[f]):d.hasOwnProperty(f)&&(console.warn(c+"."+f+": property cannot be set after load."),e=!1):
+e=!1}else console.warn(c+"."+f+": property not supported."),e=!1;return e},validateArray:function(a,b,c){var d=!0;c=c||"";for(var e=0;e<a.length;e++)this.util.contains(b,a[e])||(console.warn(c+"["+e+"]: invalid value: "+a[e]+"."),d=!1);return d}};var r=function(a,b,c,d,e,f,g){this.util=a;this.log=b;this.onError=c;this.onFault=d;this.serialize=e;g.enabled&&(f.console=this.wrapConsoleObject(f.console,g))};r.prototype={wrapConsoleObject:function(a,b){a=a||{};var c=a.log||function(){},d=this,e;for(e=
+0;e<b.watch.length;e++)(function(e){var g=a[e]||c;a[e]=function(){try{var a=Array.prototype.slice.call(arguments);d.log.add("c",{timestamp:d.util.isoNow(),severity:e,message:d.serialize(a)});if(b.error&&"error"===e)try{throw Error(d.serialize(a));}catch(c){d.onError("console",c)}b.display&&(d.util.hasFunction(g,"apply")?g.apply(this,a):g(a[0],a[1],a[2]))}catch(h){d.onFault(h)}}})(b.watch[e]);return a},report:function(){return this.log.all("c")}};var s=function(a,b,c,d,e){this.config=a;this.util=b;
+this.log=c;this.window=d;this.document=e;this.correlationId=this.token=null;this.initialize()};s.prototype={initialize:function(){this.token=this.getCustomerToken();this.correlationId=this.getCorrelationId()},getCustomerToken:function(){if(this.config.current.token)return this.config.current.token;var a=this.document.getElementsByTagName("script");return a[a.length-1].getAttribute("data-token")},getCorrelationId:function(){var a;try{a=this.document.cookie.replace(/(?:(?:^|.*;\s*)TrackJS\s*\=\s*([^;]*).*$)|^.*$/,
+"$1"),a||(a=this.util.uuid(),this.document.cookie="TrackJS="+a+"; expires=Fri, 31 Dec 9999 23:59:59 GMT; path=/")}catch(b){a=this.util.uuid()}return a},report:function(){return{application:this.config.current.application,correlationId:this.correlationId,sessionId:this.config.current.sessionId,token:this.token,userId:this.config.current.userId,version:this.config.current.version}}};var t=function(a){this.loadedOn=(new Date).getTime();this.window=a};t.prototype={discoverDependencies:function(){var a,
+b={};this.window.jQuery&&(this.window.jQuery.fn&&this.window.jQuery.fn.jquery)&&(b.jQuery=this.window.jQuery.fn.jquery);this.window.jQuery&&(this.window.jQuery.ui&&this.window.jQuery.ui.version)&&(b.jQueryUI=this.window.jQuery.ui.version);this.window.angular&&(this.window.angular.version&&this.window.angular.version.full)&&(b.angular=this.window.angular.version.full);for(a in this.window)if("_trackJs"!==a&&"_trackJS"!==a&&"_trackjs"!==a&&"webkitStorageInfo"!==a&&"webkitIndexedDB"!==a&&"top"!==a&&
+"parent"!==a&&"frameElement"!==a)try{if(this.window[a]){var c=this.window[a].version||this.window[a].Version||this.window[a].VERSION;"string"===typeof c&&(b[a]=c)}}catch(d){}return b},report:function(){return{age:(new Date).getTime()-this.loadedOn,dependencies:this.discoverDependencies(),userAgent:this.window.navigator.userAgent,viewportHeight:this.window.document.documentElement.clientHeight,viewportWidth:this.window.document.documentElement.clientWidth}}};var w=function(a){this.util=a;this.appender=
+[];this.maxLength=30};w.prototype={all:function(a){var b=[],c,d;for(d=0;d<this.appender.length;d++)(c=this.appender[d])&&c.category===a&&b.push(c.value);return b},clear:function(){this.appender.length=0},truncate:function(){this.appender.length>this.maxLength&&(this.appender=this.appender.slice(Math.max(this.appender.length-this.maxLength,0)))},add:function(a,b){var c=this.util.uuid();this.appender.push({key:c,category:a,value:b});this.truncate();return c},get:function(a,b){var c,d;for(d=0;d<this.appender.length;d++)if(c=
+this.appender[d],c.category===a&&c.key===b)return c.value;return!1}};var x=function(a,b,c,d,e,f){this.util=a;this.log=b;this.onError=c;this.onFault=d;this.window=e;this.options=f;f.enabled&&this.initialize(e)};x.prototype={initialize:function(a){a.XMLHttpRequest&&this.util.hasFunction(a.XMLHttpRequest.prototype.open,"apply")&&this.watchNetworkObject(a.XMLHttpRequest);a.XDomainRequest&&this.util.hasFunction(a.XDomainRequest.prototype.open,"apply")&&this.watchNetworkObject(a.XDomainRequest)},watchNetworkObject:function(a){var b=
+this,c=a.prototype.open,d=a.prototype.send;a.prototype.open=function(a,b){0>b.indexOf("localhost:0")&&(this._trackJs={method:a,url:b});return c.apply(this,arguments)};a.prototype.send=function(){try{if(!this._trackJs)return d.apply(this,arguments);this._trackJs.logId=b.log.add("n",{startedOn:b.util.isoNow(),method:this._trackJs.method,url:this._trackJs.url});b.listenForNetworkComplete(this)}catch(a){b.onFault(a)}return d.apply(this,arguments)};return a},listenForNetworkComplete:function(a){var b=
+this;b.window.ProgressEvent&&a.addEventListener&&a.addEventListener("readystatechange",function(){4===a.readyState&&b.finalizeNetworkEvent(a)},!0);a.addEventListener?a.addEventListener("load",function(){b.finalizeNetworkEvent(a);b.checkNetworkFault(a)},!0):setTimeout(function(){try{var c=a.onload;a.onload=function(){b.finalizeNetworkEvent(a);b.checkNetworkFault(a);"function"===typeof c&&b.util.hasFunction(c,"apply")&&c.apply(a,arguments)};var d=a.onerror;a.onerror=function(){b.finalizeNetworkEvent(a);
+b.checkNetworkFault(a);"function"===typeof oldOnError&&d.apply(a,arguments)}}catch(e){b.onFault(e)}},0)},finalizeNetworkEvent:function(a){if(a._trackJs){var b=this.log.get("n",a._trackJs.logId);b&&(b.completedOn=this.util.isoNow(),b.statusCode=1223==a.status?204:a.status,b.statusText=1223==a.status?"No Content":a.statusText)}},checkNetworkFault:function(a){if(this.options.error&&400<=a.status&&1223!=a.status){var b=a._trackJs||{};this.onError("ajax",a.status+" "+a.statusText+": "+b.method+" "+b.url)}},
+report:function(){return this.log.all("n")}};var n=function(a){this.util=a;this.disabled=!1;this.throttleStats={attemptCount:0,throttledCount:0,lastAttempt:(new Date).getTime()};h.JSON&&h.JSON.stringify||(this.disabled=!0)};n.prototype={errorEndpoint:function(a){var b="https://capture.trackjs.com/capture";this.util.testCrossdomainXhr()||-1!==h.location.protocol.indexOf("https")||(b="http://capture.trackjs.com/capture");return b+"?token="+a},usageEndpoint:function(a){return this.appendObjectAsQuery(a,
+"https://usage.trackjs.com/usage.gif")},trackerFaultEndpoint:function(a){return this.appendObjectAsQuery(a,"https://usage.trackjs.com/fault.gif")},appendObjectAsQuery:function(a,b){b+="?";for(var c in a)a.hasOwnProperty(c)&&(b+=encodeURIComponent(c)+"="+encodeURIComponent(a[c])+"&");return b},getCORSRequest:function(a,b){var c;this.util.testCrossdomainXhr()?(c=new h.XMLHttpRequest,c.open(a,b),c.setRequestHeader("Content-Type","text/plain")):"undefined"!==typeof h.XDomainRequest?(c=new h.XDomainRequest,
+c.open(a,b)):c=null;return c},sendTrackerFault:function(a){this.throttle(a)||((new Image).src=this.trackerFaultEndpoint(a))},sendUsage:function(a){(new Image).src=this.usageEndpoint(a)},sendError:function(a,b){var c=this;if(!this.disabled&&!this.throttle(a))try{var d=this.getCORSRequest("POST",this.errorEndpoint(b));d.onreadystatechange=function(){4===d.readyState&&200!==d.status&&(c.disabled=!0)};d._trackJs=k;d.send(h.JSON.stringify(a))}catch(e){throw this.disabled=!0,e;}},throttle:function(a){var b=
+(new Date).getTime();this.throttleStats.attemptCount++;if(this.throttleStats.lastAttempt+1E3>=b){if(this.throttleStats.lastAttempt=b,10<this.throttleStats.attemptCount)return this.throttleStats.throttledCount++,!0}else a.throttled=this.throttleStats.throttledCount,this.throttleStats.attemptCount=0,this.throttleStats.lastAttempt=b,this.throttleStats.throttledCount=0;return!1}};var y=function(a){this.window=a};y.prototype={bind:function(a,b){return function(){return a.apply(b,Array.prototype.slice.call(arguments))}},
+contains:function(a,b){var c;for(c=0;c<a.length;c++)if(a[c]===b)return!0;return!1},defer:function(a,b){setTimeout(function(){a.apply(b)})},extend:function(a){for(var b,c=Array.prototype.slice.call(arguments,1),d=0;d<c.length;d++)for(b in c[d])null===c[d][b]||c[d][b]===k?a[b]=c[d][b]:"[object Object]"===Object.prototype.toString.call(c[d][b])?(a[b]=a[b]||{},this.extend(a[b],c[d][b])):a[b]=c[d][b];return a},hasFunction:function(a,b){try{return!!a[b]}catch(c){return!1}},isBrowserIE:function(){var a=
+this.window.navigator.userAgent,b=a.match(/Trident\/([\d.]+)/);return b&&"7.0"===b[1]?11:(a=a.match(/MSIE ([\d.]+)/))?parseInt(a[1],10):!1},isBrowserSupported:function(){var a=this.isBrowserIE();return!a||8<=a},isoNow:function(){var a=new Date;return a.toISOString?a.toISOString():a.getUTCFullYear()+"-"+this.pad(a.getUTCMonth()+1)+"-"+this.pad(a.getUTCDate())+"T"+this.pad(a.getUTCHours())+":"+this.pad(a.getUTCMinutes())+":"+this.pad(a.getUTCSeconds())+"."+String((a.getUTCMilliseconds()/1E3).toFixed(3)).slice(2,
+5)+"Z"},pad:function(a){a=String(a);1===a.length&&(a="0"+a);return a},testCrossdomainXhr:function(){return"withCredentials"in new XMLHttpRequest},uuid:function(){return"xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx".replace(/[xy]/g,function(a){var b=16*Math.random()|0;return("x"==a?b:b&3|8).toString(16)})},wrapError:function(a){if(a.innerError)return a;var b=Error("TrackJS Caught: "+(a.message||a));b.description="TrackJS Caught: "+a.description;b.file=a.file;b.line=a.line||a.lineNumber;b.column=a.column||
+a.columnNumber;b.stack=a.stack;b.innerError=a;return b}};var z=function(a,b,c,d,e,f){this.util=a;this.log=b;this.onError=c;this.onFault=d;this.options=f;this.document=e;f.enabled&&this.initialize(e)};z.prototype={initialize:function(a){var b=this.util.bind(this.onDocumentClicked,this),c=this.util.bind(this.onInputChanged,this);a.addEventListener?(a.addEventListener("click",b,!0),a.addEventListener("blur",c,!0)):a.attachEvent&&(a.attachEvent("onclick",b),a.attachEvent("onfocusout",c))},onDocumentClicked:function(a){try{var b=
+this.getElementFromEvent(a);b&&b.tagName&&(this.isDescribedElement(b,"a")||this.isDescribedElement(b,"button")||this.isDescribedElement(b,"input",["button","submit"])?this.writeVisitorEvent(b,"click"):this.isDescribedElement(b,"input",["checkbox","radio"])&&this.writeVisitorEvent(b,"input",b.value,b.checked))}catch(c){this.onFault(c)}},onInputChanged:function(a){try{var b=this.getElementFromEvent(a);if(b&&b.tagName)if(this.isDescribedElement(b,"textarea"))this.writeVisitorEvent(b,"input",b.value);
+else if(this.isDescribedElement(b,"select")&&b.options&&b.options.length)this.onSelectInputChanged(b);else this.isDescribedElement(b,"input")&&!this.isDescribedElement(b,"input",["button","submit","hidden","checkbox","radio"])&&this.writeVisitorEvent(b,"input",b.value)}catch(c){this.onFault(c)}},onSelectInputChanged:function(a){if(a.multiple)for(var b=0;b<a.options.length;b++)a.options[b].selected&&this.writeVisitorEvent(a,"input",a.options[b].value);else 0<=a.selectedIndex&&a.options[a.selectedIndex]&&
+this.writeVisitorEvent(a,"input",a.options[a.selectedIndex].value)},writeVisitorEvent:function(a,b,c,d){"password"===this.getElementType(a)&&(c=k);this.log.add("v",{timestamp:this.util.isoNow(),action:b,element:{tag:a.tagName.toLowerCase(),attributes:this.getElementAttributes(a),value:this.getMetaValue(c,d)}})},getElementFromEvent:function(a){return a.target||q.elementFromPoint(a.clientX,a.clientY)},isDescribedElement:function(a,b,c){if(a.tagName.toLowerCase()!==b.toLowerCase())return!1;if(!c)return!0;
+a=this.getElementType(a);for(b=0;b<c.length;b++)if(c[b]===a)return!0;return!1},getElementType:function(a){return(a.getAttribute("type")||"").toLowerCase()},getElementAttributes:function(a){for(var b={},c=0;c<a.attributes.length;c++)"value"!==a.attributes[c].name.toLowerCase()&&(b[a.attributes[c].name]=a.attributes[c].value);return b},getMetaValue:function(a,b){return a===k?k:{length:a.length,pattern:this.matchInputPattern(a),checked:b}},matchInputPattern:function(a){return""===a?"empty":/^[a-z0-9!#$%&'*+=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?$/.test(a)?
+"email":/^(0?[1-9]|[12][0-9]|3[01])[\/\-](0?[1-9]|1[012])[\/\-]\d{4}$/.test(a)||/^(\d{4}[\/\-](0?[1-9]|1[012])[\/\-]0?[1-9]|[12][0-9]|3[01])$/.test(a)?"date":/^(?:(?:\+?1\s*(?:[.-]\s*)?)?(?:\(\s*([2-9]1[02-9]|[2-9][02-8]1|[2-9][02-8][02-9])\s*\)|([2-9]1[02-9]|[2-9][02-8]1|[2-9][02-8][02-9]))\s*(?:[.-]\s*)?)?([2-9]1[02-9]|[2-9][02-9]1|[2-9][02-9]{2})\s*(?:[.-]\s*)?([0-9]{4})(?:\s*(?:#|x\.?|ext\.?|extension)\s*(\d+))?$/.test(a)?"usphone":/^\s*$/.test(a)?"whitespace":/^\d*$/.test(a)?"numeric":/^[a-zA-Z]*$/.test(a)?
+"alpha":/^[a-zA-Z0-9]*$/.test(a)?"alphanumeric":"characters"},report:function(){return this.log.all("v")}};var A=function(a,b,c,d,e){this.onError=a;this.onFault=b;this.serialize=c;e.enabled&&this.watchWindowErrors(d)};A.prototype={watchWindowErrors:function(a){var b=this;a.onerror=function(a,d,e,f,g){try{g=g||{},g.message=g.message||b.serialize(a),g.file=g.file||b.serialize(d),g.line=g.line||parseInt(e,10)||null,g.column=g.column||parseInt(f,10)||null,b.onError("window",g)}catch(h){b.onFault(h)}}}};
+var B=function(a,b,c,d,e,f,g,h,k,l,m,n,q,u,r,s){try{if(this.window=r,this.document=s,this.util=new m(this.window),this.onError=this.util.bind(this.onError,this),this.onFault=this.util.bind(this.onFault,this),this.serialize=this.util.bind(this.serialize,this),this.transmitter=new l(this.util),this.config=new d(this.util,a),this.log=new h(this.util),this.api=new b(this.config,this.util,this.onError,this.serialize),this.environment=new g(this.window),this.customer=new f(this.config,this.util,this.log,
+this.window,this.document),this.customer.token&&(this.apiConsoleWatcher=new e(this.util,this.log,this.onError,this.onFault,this.serialize,this.api,this.config.defaults.console),this.config.current.enabled&&(this.windowConsoleWatcher=new e(this.util,this.log,this.onError,this.onFault,this.serialize,this.window,this.config.current.console),this.util.isBrowserSupported()))){this.callbackWatcher=new c(this.util,this.onError,this.onFault,this.window,this.config.current.callback);this.visitorWatcher=new n(this.util,
+this.log,this.onError,this.onFault,this.document,this.config.current.visitor);this.networkWatcher=new k(this.util,this.log,this.onError,this.onFault,this.window,this.config.current.network);this.windowWatcher=new q(this.onError,this.onFault,this.serialize,this.window,this.config.current.window);var p=this;setTimeout(function(){p.transmitter.sendUsage({token:p.customer.token,correlationId:p.customer.correlationId,application:p.config.current.application,x:p.util.uuid()})},1E3)}}catch(t){this.onFault(t)}};
+B.prototype={reveal:function(){if(this.customer.token)return this.api;this.window.console&&this.window.console.warn&&this.window.console.warn("TrackJS could not find a token");return k},onError:function(){var a=!1;return function(b,c,d){if(this.util.isBrowserSupported()&&this.config.current.enabled)try{c=c||{};d=d||{bindStack:null,bindTime:null,force:!1};var e=c.message||this.serialize(c,d.force);if(e&&e.indexOf){if(-1!==e.indexOf("TrackJS Caught"))return;if(a&&-1!==e.indexOf("Script error")){a=!1;
+return}}var f=this.util.extend({},{bindStack:d.bindStack,bindTime:d.bindTime,column:c.column||c.columnNumber,console:this.windowConsoleWatcher.report(),customer:this.customer.report(),entry:b,environment:this.environment.report(),file:c.file||c.fileName,line:c.line||c.lineNumber,message:e,network:this.networkWatcher.report(),url:(h.location||"").toString(),stack:c.stack,timestamp:this.util.isoNow(),visitor:this.visitorWatcher.report(),version:"2.1.14"});if(!d.force)try{if(!this.config.current.onError(f,
+c))return}catch(g){f.console.push({timestamp:this.util.isoNow(),severity:"error",message:g.message});var k=this;setTimeout(function(){k.onError("catch",g,{force:!0})},0)}this.log.clear();setTimeout(function(){a=!1});a=!0;this.transmitter.sendError(f,this.customer.token)}catch(l){console.log(l),this.onFault(l)}}}(),onFault:function(a){var b=this.transmitter||new n;a=a||{};a={token:this.customer.token,file:a.file||a.fileName,msg:a.message||"unknown",stack:(a.stack||"unknown").substr(0,500),url:this.window.location,
+v:"2.1.14",x:this.util.uuid()};b.sendTrackerFault(a)},serialize:function(a,b){if(this.config.current.serialize&&!b)try{return this.config.current.serialize(a)}catch(c){this.onError("catch",c,{force:!0})}return this.config.defaults.serialize(a)}};l=new B(h._trackJs||h._trackJS||h._trackjs||{},function(a,b,c,d){return{attempt:function(a,d){try{var g=Array.prototype.slice.call(arguments,2);return a.apply(d||this,g)}catch(h){throw c("catch",h),b.wrapError(h);}},configure:function(b){return a.setCurrent(b)},
+track:function(a){a=a||{};if(!a.stack)try{throw Error(d(a));}catch(b){a=b}c("direct",a)},watch:function(a,d){return function(){try{var g=Array.prototype.slice.call(arguments,0);return a.apply(d||this,g)}catch(h){throw c("catch",h),b.wrapError(h);}}},watchAll:function(a){var d=Array.prototype.slice.call(arguments,1),g;for(g in a)"function"===typeof a[g]&&(b.contains(d,g)||function(){var d=a[g];a[g]=function(){try{var a=Array.prototype.slice.call(arguments,0);return d.apply(this,a)}catch(e){throw c("catch",
+e),b.wrapError(e);}}}());return a},version:"2.1.14"}},l,u,r,s,t,w,x,n,y,z,A,m,h,q);h.trackJs=l.reveal()}})(window,document);
+</script>
+
+  <!-- END TRACKJS -->
+
+  <!--[if IE]>
+    <link rel="stylesheet" media="screen" href="https://d3spquiph2sexc.cloudfront.net/assets/ie-b3c351a82e60df4a02b5c43e91b43fc3ee500f1587300820ed904356f1d9103b.css" />
+  <![endif]-->
+
+  <script type="text/javascript">
+  WebFontConfig = {
+    custom: { families: ['rb_brandingregular', 'rb-font-icons'] }
+  };
+
+  (function() {
+    var wf   = document.createElement('script');
+    wf.src   = '//ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type  = 'text/javascript';
+    wf.async = 'true';
+
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })();
+</script>
+
+
+  <link rel="shortcut icon" href="https://d3spquiph2sexc.cloudfront.net/favicon.png" type="image/png" />
+  <link rel="search" type="application/opensearchdescription+xml" title="Redbubble Search" href="/searchwidget/redbubble.xml" />
+  <link rel="canonical" href="https://www.redbubble.com/people/ritmoboxers/works/13289124-chihuahua-dog?p=ipad-case" />
+
+    <link rel="stylesheet" media="screen" href="https://d3spquiph2sexc.cloudfront.net/assets/email_subscription-85c01fd52383eb2c559605ccc8cc53bf1769ce32a10b7c1f7dc3ff398fa446d3.css" />
+
+  <link rel="stylesheet" media="screen" href="https://d3spquiph2sexc.cloudfront.net/assets/work_page-422d68ad8badbe43b00b8a85eca1b47a0ea62ad964c2a63bf790a9621ed1ecfd.css" />
+
+
+  <link rel="stylesheet" media="screen" href="https://d3spquiph2sexc.cloudfront.net/assets/webpack/work_page-84567367e6d23bcfbed5786a8ba5948ebcd3af55519394d70d3c8c83b4ee7e33.css" /> <link rel="stylesheet" media="screen" href="https://d3spquiph2sexc.cloudfront.net/assets/webpack/cookie_banner-9dfa5a1a77db8c855754c9bb0f783faf5a683234ec58d37a2a50487db4dabb22.css" />
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="2s2hgFhff3CdgKWnteCyx8K5RDvGgeVypfLHOu8invqAQURnU7EFtWHkBBNz5reRwzpmSLeeA4X4HTF9LvdLoA==" />
+  <script type="text/javascript" data-ga-pageview-json="{}" data-ga-settings-json="{&quot;dimension10&quot;:&quot;en&quot;,&quot;dimension1&quot;:&quot;Visitor&quot;,&quot;dimension4&quot;:&quot;sj6_carousel_on_product_page&quot;,&quot;dimension5&quot;:&quot;control&quot;,&quot;dimension11&quot;:null,&quot;dimension8&quot;:&quot;false&quot;,&quot;dimension9&quot;:&quot;false&quot;}">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-322978-1', {
+    'cookieDomain':       '.redbubble.com',
+    'legacyCookieDomain': '.redbubble.com'
+  });
+  ga('set', JSON.parse(document.querySelector('[data-ga-settings-json]').getAttribute('data-ga-settings-json')));
+  ga('send', 'pageview', JSON.parse(document.querySelector('[data-ga-pageview-json]').getAttribute('data-ga-pageview-json')));
+
+
+  ga('require', 'ec');
+</script>
+
+  <script type="text/javascript" data-name="sift-science" data-user-id="">
+
+  var _user_id = document.querySelector('[data-name="sift-science"]').getAttribute('data-user-id') || '';
+  var session_cookie = document && document.cookie && document.cookie.match(/_rb_session=[^;]*;/);
+  var _session_id = session_cookie && session_cookie[0].replace('_rb_session=','').replace(';','');
+
+  var _sift = window._sift = window._sift || [];
+  _sift.push(['_setAccount', '7f112adb1a']);
+  _sift.push(['_setUserId', _user_id]);
+  _sift.push(['_setSessionId', _session_id]);
+  _sift.push(['_trackPageview']);
+
+ (function() {
+   function ls() {
+     var e = document.createElement('script');
+     e.src = 'https://cdn.siftscience.com/s.js';
+     document.body.appendChild(e);
+   }
+   if (window.attachEvent) {
+     window.attachEvent('onload', ls);
+   } else {
+     window.addEventListener('load', ls, false);
+   }
+ })();
+</script>
+
+</head>
+
+<body class="responsive-page lang-en" data-experiment="" itemscope itemtype='http://schema.org/ItemPage'>
+  <div class="viewport work-page">
+
+          <div class="RB_REACT_COMPONENT" data-component-name="CookieBanner" data-props="{&quot;display&quot;:false}" data-dom-id="RB_React_Component_CookieBanner_3"></div>
+      <div id="RB_React_Component_CookieBanner_3"></div>
+
+
+    <div class="side-nav-wrapper">
+  <ul>
+    <li><a href="/?ref=side-nav-home">Home</a></li>
+
+      <li><a href="https://www.redbubble.com/auth/login?next_action=%2Fpeople%2Fritmoboxers%2Fworks%2F13289124-chihuahua-dog%3Fasc%3Dt&amp;ref=side-nav-account">Sign In</a></li>
+      <li><a href="/about/selling?ref=side-nav-account">Sell Your Art</a></li>
+  </ul>
+
+  <ul>
+  </ul>
+
+  
+</div>
+
+
+    <div class="content-wrapper">
+      <div class="side-nav-overlay" data-fastclick="true"></div>
+
+      <header class="header-sitewide">
+        <div class="account-toolbar">
+  <div class="top-bar">
+      <div class="account-nav sign-in-text">
+
+        <a class="account-dropdown-trigger" href="https://www.redbubble.com/auth/login?next_action=%2Fpeople%2Fritmoboxers%2Fworks%2F13289124-chihuahua-dog%3Fasc%3Dt">
+          <span class="sign-in-text">Sign In</span>
+</a>
+      </div>
+
+        <div class="account-nav sell-your-art">
+          <a class="account-dropdown-trigger middle" href="/about/selling">
+            <span class="sell-your-art">Sell Your Art</span>
+</a>        </div>
+  </div>
+</div>
+
+        
+        <div class="nav-main" data-fastclick="true">
+  <div class="nav-wrapper">
+    <div class="logo-and-menu">
+      <div class="main-nav">
+        <a title="Redbubble.com" class="top-level" href="https://www.redbubble.com/">
+          <i class="rb-font-icon icon-menu"></i>
+          <span class="brand-mark">r</span>
+          <span class="brand-name">b</span>
+</a>      </div>
+    </div>
+
+    <div class="nav-icons">
+      <a id="nav-cart-link" rel="nofollow" href="https://www.redbubble.com/cart?ref=nav-cart-empty&amp;secure=true">
+  <i class="rb-font-icon icon-cart"></i>
+</a>
+      <div class="site-search-wrapper">
+        <form class="search-form" action="/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+          <i class="rb-font-icon icon-search"></i>
+          <input type="search" name="query" id="query" size="40" class="site-search-query" placeholder="Search products, artworks and themes" />
+          <input type="submit" name="commit" value="Search" id="site-search-submit" />
+</form>      </div>
+
+      <a rel="nofollow" class="site-search-toggle" href="#">
+        <i class="rb-font-icon icon-search"></i>
+</a>
+    </div>
+  </div>
+</div>
+
+
+
+        <div class="flash-messages">
+          
+        </div>
+        <div class="flash-messages">
+          
+        </div>
+
+        <div id="global-product-nav" class="skins">
+  <div class="top">
+    <div class="scrollable-wrapper">
+      <nav class="scrollable-menu">
+        <ul class="scrollable-menu" role="menubar">
+          <li id="global-nav-men" role="menuitem" class="scrollable-menu-item rb-dropdown rb-dropdown-item  global-navigation__disable" data-trigger-down-to="desktop">
+  <a class="rb-dropdown-header" tabindex="0" aria-haspopup="true" href="/shop/mens-tshirts?cat_context=m-tees&amp;ref=global-nav-top&amp;style=mens">
+    <span>Men&#39;s</span>
+</a>
+  <div class="global-navigation__takeover-heading">Men&#39;s<button class="global-navigation__close-takover rb-font-icon icon-close"></button></div>
+  <ul class="product-dropdown rb-dropdown-target">
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/mens-tshirts?cat_context=m-tees&amp;ref=global-nav-menu&amp;style=mens">
+            <div class="global-navigation__product-icon global-navigation__product-icon--mens-tshirts" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/mens-tshirts-9fd08d7d064e6eefade5d6c06894e13dbf3209edc9ac399e0d46097cd1d86df5.png&#39;);"></div>
+            <span class="global-navigation__product-text">T-Shirts</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/classic-tees?cat_context=m-tees&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--classic-tees" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/classic-tees-d923ccddaf07e73abec7c30898396345dbf1686ce27129b637844039c19151ab.png&#39;);"></div>
+            <span class="global-navigation__product-text">Classic T-Shirts</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/triblend-tees?cat_context=m-tees&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--triblend-tees" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/triblend-tees-cac78bd4972e41efbc7e5a170838f5c7616793b56acdaf21e74f70c9ebaf6a63.png&#39;);"></div>
+            <span class="global-navigation__product-text">Tri-blend T-Shirts</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/mens-graphic-t-shirts?cat_context=m-tees&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--mens-graphic-t-shirts" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/mens-graphic-t-shirts-9cb75e5a454182fbcc5b723bc89238831256d4cf23a88b399071fccbce2ff39b.png&#39;);"></div>
+            <span class="global-navigation__product-text">Graphic T-Shirts</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/mens-vneck-tshirts?cat_context=m-tees&amp;ref=global-nav-menu&amp;style=vneck">
+            <div class="global-navigation__product-icon global-navigation__product-icon--mens-vneck-tshirts" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/mens-vneck-tshirts-a58926399c1d61640683949a60959b8b86a349b70210070c562e328d96146ac6.png&#39;);"></div>
+            <span class="global-navigation__product-text">V-Neck</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/mens-longsleeve-tshirts?cat_context=m-tees&amp;ref=global-nav-menu&amp;style=longsleeve">
+            <div class="global-navigation__product-icon global-navigation__product-icon--mens-longsleeve-tshirts" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/mens-longsleeve-tshirts-7b534f8c3fa62ec49d8424d57fa4926e5bb7cccd38e365283e86c5f57437d842.png&#39;);"></div>
+            <span class="global-navigation__product-text">Long Sleeves</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/mens-baseball-sleeve-tshirts?cat_context=m-tees&amp;ref=global-nav-menu&amp;style=raglan">
+            <div class="global-navigation__product-icon global-navigation__product-icon--mens-baseball-sleeve-tshirts" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/mens-baseball-sleeve-tshirts-988d232a40496c78a3bb5c8045b974a30fb291ff01bb620d49437a7b3083ba42.png&#39;);"></div>
+            <span class="global-navigation__product-text">Baseball ¾ Sleeves</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/mens-tanks?cat_context=m-tees&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--mens-tanks" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/mens-tanks-d903b666b7d034d99ab037ec66f3f3239d80062ff61def81cc966af317882f31.png&#39;);"></div>
+            <span class="global-navigation__product-text">Tank Tops</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/mens-hoodies?cat_context=m-tees&amp;ref=global-nav-menu&amp;style=mhoodie">
+            <div class="global-navigation__product-icon global-navigation__product-icon--mens-hoodies" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/mens-hoodies-78c62631772a1c5bbd9eecbc48d9063521c0af2a47c789cbd0ab9b1f4b3415bd.png&#39;);"></div>
+            <span class="global-navigation__product-text">Hoodies</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/lightweight-hoodies?cat_context=m-tees&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--lightweight-hoodies" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/lightweight-hoodies-d5511e1bc14ad0d9f9bee396ade00e53d095e4d02e66c76758b452fe6f1f3cb4.png&#39;);"></div>
+            <span class="global-navigation__product-text">Lightweight Hoodies</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/mens-sweatshirts?cat_context=m-tees&amp;ref=global-nav-menu&amp;style=pullover">
+            <div class="global-navigation__product-icon global-navigation__product-icon--mens-sweatshirts" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/mens-sweatshirts-ec9ef5f0c51c3b7253b7d05d45ce0bbf105c01bc663150aed92f07737f82956b.png&#39;);"></div>
+            <span class="global-navigation__product-text">Sweatshirts</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/lightweight-raglan-sweatshirts?cat_context=m-tees&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--lightweight-raglan-sweatshirts" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/lightweight-raglan-sweatshirts-169bb0bd97a2a796a605dcb1179b053206bc2a558d40c8c58a18af5c02bc7143.png&#39;);"></div>
+            <span class="global-navigation__product-text">Lightweight Sweatshirts</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+  </ul>
+</li>
+
+
+          <li id="global-nav-women" role="menuitem" class="scrollable-menu-item rb-dropdown rb-dropdown-item  global-navigation__disable" data-trigger-down-to="desktop">
+  <a class="rb-dropdown-header" tabindex="-1" aria-haspopup="true" href="/shop/womens-tshirts?cat_context=w-tees&amp;ref=global-nav-top&amp;style=womens">
+    <span>Women&#39;s</span>
+</a>
+  <div class="global-navigation__takeover-heading">Women&#39;s<button class="global-navigation__close-takover rb-font-icon icon-close"></button></div>
+  <ul class="product-dropdown rb-dropdown-target">
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/womens-tshirts?cat_context=w-tees&amp;ref=global-nav-menu&amp;style=womens">
+            <div class="global-navigation__product-icon global-navigation__product-icon--womens-tshirts" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/womens-tshirts-99b127145f3e4d707e19c0b3b91afb0854f5ab461cf41d4d6d1051d7af28500c.png&#39;);"></div>
+            <span class="global-navigation__product-text">T-Shirts</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/chiffon-tops?cat_context=w-tees&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--chiffon-tops" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/chiffon-tops-80c763d5f061464a84c1f946ed153a361d3acbf3759c2b6818e641c968559255.png&#39;);"></div>
+            <span class="global-navigation__product-text">Chiffon Tops</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/contrast-tanks?cat_context=w-tees&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--contrast-tanks" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/contrast-tanks-2d8fa6727d259ef32588c4f2fb72f9a98a291dabf8d3bc7876834e72340f77a2.png&#39;);"></div>
+            <span class="global-navigation__product-text">Contrast Tanks</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/a-line-dresses?cat_context=w-tees&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--a-line-dresses" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/a-line-dresses-38f151bd725dfa4f874de522ab0c5d8b87fe369318ae5139528b2817cf79d52f.png&#39;);"></div>
+            <span class="global-navigation__product-text">A-Line Dresses</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/graphic-t-shirt-dresses?cat_context=w-tees&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--graphic-t-shirt-dresses" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/graphic-t-shirt-dresses-00ac0fc93e74d3bb99308220328e23a423df6c95f463750ed70a16b645192825.png&#39;);"></div>
+            <span class="global-navigation__product-text">Graphic T-Shirt Dresses</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/womens-fitted-scoops?cat_context=w-tees&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--womens-fitted-scoops" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/womens-fitted-scoops-ebf231186d9c37a36aad70a4ace541a7142081793e3d1129ac9f0639d0b2eae7.png&#39;);"></div>
+            <span class="global-navigation__product-text">Fitted Scoops</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/womens-fitted-v-necks?cat_context=w-tees&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--womens-fitted-v-necks" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/womens-fitted-v-necks-5baffb1d382ac20f2b27d7b02891db0b9b162e43138826de0d0b57e5eec79db8.png&#39;);"></div>
+            <span class="global-navigation__product-text">Fitted V-Necks</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/womens-relaxed-fits?cat_context=w-tees&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--womens-relaxed-fits" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/womens-relaxed-fits-17326a6cc99d6e6ab838a90414a0fb6755f84769fbfd45edc10d12927aea624f.png&#39;);"></div>
+            <span class="global-navigation__product-text">Relaxed Fit</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/womens-tanks?cat_context=w-tees&amp;ref=global-nav-menu&amp;style=racerback">
+            <div class="global-navigation__product-icon global-navigation__product-icon--womens-tanks" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/womens-tanks-defdd443d5f143c4c51b36b7294baa19c6930d5c10db047fcb248c8170358746.png&#39;);"></div>
+            <span class="global-navigation__product-text">Tank Tops</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/womens-hoodies?cat_context=w-tees&amp;ref=global-nav-menu&amp;style=whoodie">
+            <div class="global-navigation__product-icon global-navigation__product-icon--womens-hoodies" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/womens-hoodies-78c62631772a1c5bbd9eecbc48d9063521c0af2a47c789cbd0ab9b1f4b3415bd.png&#39;);"></div>
+            <span class="global-navigation__product-text">Hoodies</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/leggings?cat_context=w-tees&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--leggings" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/leggings-edf15be7a520e5878b503b37f9dce6aa6abe7307e7b667b7ec9c51925a222848.png&#39;);"></div>
+            <span class="global-navigation__product-text">Leggings</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/scarves?cat_context=w-tees&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--scarves" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/scarves-e1a3c01fc750072c04e63f7c7a2a96432fc2fa0ee176f904e15c30a1d216fc0c.png&#39;);"></div>
+            <span class="global-navigation__product-text">Scarves</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/pencil-skirts?cat_context=w-tees&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--pencil-skirts" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/pencil-skirts-014325205afedfc8b5f4b6327988581ec15bb0a68ba8b8891b30c361e3e873ea.png&#39;);"></div>
+            <span class="global-navigation__product-text">Mini Skirts</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+  </ul>
+</li>
+
+
+          <li id="global-nav-kids" role="menuitem" class="scrollable-menu-item rb-dropdown rb-dropdown-item  global-navigation__disable" data-trigger-down-to="desktop">
+  <a class="rb-dropdown-header" tabindex="-1" aria-haspopup="true" href="/shop/kids-tshirts?cat_context=kids-clothes&amp;ref=global-nav-top&amp;style=kids_tee">
+    <span>Kids</span>
+</a>
+  <div class="global-navigation__takeover-heading">Kids<button class="global-navigation__close-takover rb-font-icon icon-close"></button></div>
+  <ul class="product-dropdown rb-dropdown-target">
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/kids-tshirts?cat_context=kids-clothes&amp;ref=global-nav-menu&amp;style=kids_tee">
+            <div class="global-navigation__product-icon global-navigation__product-icon--kids-tshirts" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/kids-tshirts-1eeac10e73d1150db043230fdecdb91ad8f42792fc59ea977205239348bcfb48.png&#39;);"></div>
+            <span class="global-navigation__product-text">Kids T-Shirts</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/baby-tshirts?cat_context=kids-clothes&amp;ref=global-nav-menu&amp;style=baby_tee">
+            <div class="global-navigation__product-icon global-navigation__product-icon--baby-tshirts" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/baby-tshirts-dd078e0f6bcb3cf872ba423ebb9e637792e8ba082d0d76b4a4066c4789a27a4a.png&#39;);"></div>
+            <span class="global-navigation__product-text">Baby T-Shirts</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/baby-onepieces?cat_context=kids-clothes&amp;ref=global-nav-menu&amp;style=shortsleeve_one_piece">
+            <div class="global-navigation__product-icon global-navigation__product-icon--baby-onepieces" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/baby-onepieces-173f49191c8ce2efaa20a56b48a287dbe19a5d2f8e3ccf9a82a8b1119a1ea6d7.png&#39;);"></div>
+            <span class="global-navigation__product-text">Baby One-Pieces</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+  </ul>
+</li>
+
+
+          <li id="global-nav-cases" role="menuitem" class="scrollable-menu-item rb-dropdown rb-dropdown-item  global-navigation__disable" data-trigger-down-to="desktop">
+  <a class="rb-dropdown-header" tabindex="-1" aria-haspopup="true" href="/shop/iphone-cases?cat_context=u-device-cases&amp;ref=global-nav-top">
+    <span>Cases &amp; Skins</span>
+</a>
+  <div class="global-navigation__takeover-heading">Cases &amp; Skins<button class="global-navigation__close-takover rb-font-icon icon-close"></button></div>
+  <ul class="product-dropdown rb-dropdown-target">
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/iphone-cases?cat_context=u-device-cases&amp;ref=global-nav-menu&amp;type=iphone_7_snap">
+            <div class="global-navigation__product-icon global-navigation__product-icon--iphone-cases" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/iphone-cases-c6654f257cad49fac70134d8aa9b8b3382e26c8500186ef9574b74e3f8c38866.png&#39;);"></div>
+            <span class="global-navigation__product-text">iPhone Cases</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/iphone-wallets?cat_context=u-device-cases&amp;ref=global-nav-menu&amp;type=iphone_6s">
+            <div class="global-navigation__product-icon global-navigation__product-icon--iphone-wallets" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/iphone-wallets-f5177757fc149616cc61a8c7a29376830a4e6f6249869f20df372ab5c927e601.png&#39;);"></div>
+            <span class="global-navigation__product-text">iPhone Wallets</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/samsung-galaxy-cases?cat_context=u-device-cases&amp;ref=global-nav-menu&amp;type=samsung_galaxy_s7_snap">
+            <div class="global-navigation__product-icon global-navigation__product-icon--samsung-galaxy-cases" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/samsung-galaxy-cases-6d8b77a4626fee9e6eddd613ea53d685dffd0d058a55a5d93e824b57b4f1b4bc.png&#39;);"></div>
+            <span class="global-navigation__product-text">Samsung Galaxy</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/ipad-cases?cat_context=u-device-cases&amp;ref=global-nav-menu&amp;type=ipad_2_snap">
+            <div class="global-navigation__product-icon global-navigation__product-icon--ipad-cases" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/ipad-cases-f1fa42fe214cec6d370e1818da1c87a2b8d058accfce5c1b83c1c175a9262f1a.png&#39;);"></div>
+            <span class="global-navigation__product-text">iPad</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/laptop-skins?cat_context=u-device-cases&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--laptop-skins" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/laptop-skins-03a13d836d400db395a4046fc6b3f96aedaef68f3564bcf4134bd86fe0562c2b.png&#39;);"></div>
+            <span class="global-navigation__product-text">Laptop Skins</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/laptop-sleeves?cat_context=u-device-cases&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--laptop-sleeves" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/laptop-sleeves-0962eb81c8c61f005fb022a9de8d7e007758074b162ef2887307e81dc01b9192.png&#39;);"></div>
+            <span class="global-navigation__product-text">Laptop Sleeves</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+  </ul>
+</li>
+
+
+          <li class="scrollable-menu-item without-submenu  rb-dropdown-item" tabindex="-1">
+            <a class="rb-dropdown-header" tabindex="-1" href="/shop/stickers?ref=global-nav-top">
+            <span>Stickers</span>
+</a>          </li>
+
+          <li id="global-nav-wall-art" role="menuitem" class="scrollable-menu-item rb-dropdown rb-dropdown-item  global-navigation__disable" data-trigger-down-to="desktop">
+  <a class="rb-dropdown-header" tabindex="-1" aria-haspopup="true" href="/shop/posters?cat_context=u-prints&amp;ref=global-nav-top">
+    <span>Wall Art</span>
+</a>
+  <div class="global-navigation__takeover-heading">Wall Art<button class="global-navigation__close-takover rb-font-icon icon-close"></button></div>
+  <ul class="product-dropdown rb-dropdown-target">
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/posters?cat_context=u-prints&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--posters" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/posters-7b8af0eba290fa9b31e127b0281787f56df26bd87cf86438f89e5876464bdd2a.png&#39;);"></div>
+            <span class="global-navigation__product-text">Posters</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/canvas-prints?cat_context=u-prints&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--canvas-prints" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/canvas-prints-c31b8dfbc0a040d64a4f0f744393ad0f0c5a7c618dfa52528ae187aeaad6c23a.png&#39;);"></div>
+            <span class="global-navigation__product-text">Canvas Prints</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/photographic-prints?cat_context=u-prints&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--photographic-prints" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/photographic-prints-005979bcee9285d5148d60eca22d706dbea4d4cc662f038bd57c9d4eeb9c0679.png&#39;);"></div>
+            <span class="global-navigation__product-text">Photographic Prints</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/gallery-boards?cat_context=u-prints&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--gallery-boards" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/gallery-boards-12d79ad6eb7334474365344eda695799fd9f188aac86acc9be9aed999785970a.png&#39;);"></div>
+            <span class="global-navigation__product-text">Art Boards</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/art-prints?cat_context=u-prints&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--art-prints" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/art-prints-3e05a0c0398c9df2ca2ebfb6777d68b22a6742ac86e8c3686620ed2a15af76bb.png&#39;);"></div>
+            <span class="global-navigation__product-text">Art Prints</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/framed-prints?cat_context=u-prints&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--framed-prints" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/framed-prints-8faedd5cfbc9a5533415e768bdffe632343b06a181f280d4698d6250b1fb2581.png&#39;);"></div>
+            <span class="global-navigation__product-text">Framed Prints</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/metal-prints?cat_context=u-prints&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--metal-prints" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/metal-prints-7f596872cc199d72ea69651607e010c2b5e02e857a6a083911aee36e575338fa.png&#39;);"></div>
+            <span class="global-navigation__product-text">Metal Prints</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/tapestries?cat_context=u-prints&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--tapestries" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/tapestries-f5eaa4cfc80d00115fae114eb5d5d0022e400b351a7e9a351681a5aabf40366a.png&#39;);"></div>
+            <span class="global-navigation__product-text">Wall Tapestries</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+  </ul>
+</li>
+
+
+          <li id="global-nav-home-decor" role="menuitem" class="scrollable-menu-item rb-dropdown rb-dropdown-item  global-navigation__disable" data-trigger-down-to="desktop">
+  <a class="rb-dropdown-header" tabindex="-1" aria-haspopup="true" href="/shop/throw-pillows?cat_context=u-decor&amp;ref=global-nav-top">
+    <span>Home Decor</span>
+</a>
+  <div class="global-navigation__takeover-heading">Home Decor<button class="global-navigation__close-takover rb-font-icon icon-close"></button></div>
+  <ul class="product-dropdown rb-dropdown-target">
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/throw-pillows?cat_context=u-decor&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--throw-pillows" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/throw-pillows-b5c0123961f91662b816ba2159c16e7de1397a19e520e64bfb5a860b6e0cf779.png&#39;);"></div>
+            <span class="global-navigation__product-text">Throw Pillows</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/duvet-covers?cat_context=u-decor&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--duvet-covers" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/duvet-covers-51d80c54d8132fae9985bcbdb2259d6a67cc5302f835d73dd3637e5a7ba8dcea.png&#39;);"></div>
+            <span class="global-navigation__product-text">Duvet Covers</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/mugs?cat_context=u-decor&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--mugs" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/mugs-364ea092f9b32ca2165bd002c8a224cd12e6ca734b0147bf1c342ab0f6d6fe68.png&#39;);"></div>
+            <span class="global-navigation__product-text">Mugs</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/travel-mugs?cat_context=u-decor&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--travel-mugs" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/travel-mugs-a8db3ef1abf56d63e9f3ec606e28403e5940373c135fdbd14e0e65e8156ddf3a.png&#39;);"></div>
+            <span class="global-navigation__product-text">Travel Mugs</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/tapestries?cat_context=u-decor&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--tapestries" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/tapestries-f5eaa4cfc80d00115fae114eb5d5d0022e400b351a7e9a351681a5aabf40366a.png&#39;);"></div>
+            <span class="global-navigation__product-text">Wall Tapestries</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/clocks?cat_context=u-decor&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--clocks" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/clocks-58d1f4f568337d3679423d1f34799a06127a40bb257309683ce05a8d98ed5c7c.png&#39;);"></div>
+            <span class="global-navigation__product-text">Clocks</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/acrylic-blocks?cat_context=u-decor&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--acrylic-blocks" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/acrylic-blocks-9bf052f13f3dfa0e230e3876244f10bdf441c8d1de941a322626416a21149490.png&#39;);"></div>
+            <span class="global-navigation__product-text">Acrylic Blocks</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+  </ul>
+</li>
+
+
+          <li id="global-nav-stationery" role="menuitem" class="scrollable-menu-item rb-dropdown rb-dropdown-item  global-navigation__disable" data-trigger-down-to="desktop">
+  <a class="rb-dropdown-header" tabindex="-1" aria-haspopup="true" href="/shop/greeting-cards?cat_context=u-stationery&amp;ref=global-nav-top">
+    <span>Stationery</span>
+</a>
+  <div class="global-navigation__takeover-heading">Stationery<button class="global-navigation__close-takover rb-font-icon icon-close"></button></div>
+  <ul class="product-dropdown rb-dropdown-target">
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/greeting-cards?cat_context=u-stationery&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--greeting-cards" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/greeting-cards-9cc86b5fbd1d267c7fd1543394c49292c240135c3aa9544e4ca5618a1a6905dd.png&#39;);"></div>
+            <span class="global-navigation__product-text">Greeting Cards</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/postcards?card_size=postcard&amp;cat_context=u-stationery&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--postcards" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/postcards-e13fed407d6d98bccc0e0227d6417c848f98ac4c24ee61535653e4ac91dac8aa.png&#39;);"></div>
+            <span class="global-navigation__product-text">Postcards</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/calendars?cat_context=u-stationery&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--calendars" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/calendars-f7f3b73c4b9e6959859c41bdf78f8fbca6e4694c0dda2749e76a3144c4ca02b8.png&#39;);"></div>
+            <span class="global-navigation__product-text">Calendars</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/spiral-notebooks?cat_context=u-stationery&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--spiral-notebooks" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/spiral-notebooks-2766b539b3c11a83f7bed652c2edf2b84ea231d3e7989640e2f4f70ef2a4028f.png&#39;);"></div>
+            <span class="global-navigation__product-text">Spiral Notebooks</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/hardcover-journals?cat_context=u-stationery&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--hardcover-journals" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/hardcover-journals-b8c28ef7b88a9ae360ab3d7e6eae9091d0e36764d3a8ef6b2fea9223f85ed314.png&#39;);"></div>
+            <span class="global-navigation__product-text">Hardcover Journals</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+  </ul>
+</li>
+
+
+          <li id="global-nav-bags" role="menuitem" class="scrollable-menu-item rb-dropdown rb-dropdown-item  global-navigation__disable" data-trigger-down-to="desktop">
+  <a class="rb-dropdown-header" tabindex="-1" aria-haspopup="true" href="/shop/tote-bags?cat_context=u-bags&amp;ref=global-nav-top&amp;style=">
+    <span>Bags</span>
+</a>
+  <div class="global-navigation__takeover-heading">Bags<button class="global-navigation__close-takover rb-font-icon icon-close"></button></div>
+  <ul class="product-dropdown rb-dropdown-target">
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/tote-bags?cat_context=u-bags&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--tote-bags" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/tote-bags-07d6d54611a2a49f892a0183b8f88b6cfcdf0c7b30da51d43ddff06316dce51a.png&#39;);"></div>
+            <span class="global-navigation__product-text">Tote Bags</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/pouches?cat_context=u-bags&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--pouches" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/pouches-6759b8792cebaf27e415a4f5a9e3c1abe10601bdf52496ec0451b4ec7e94b6e2.png&#39;);"></div>
+            <span class="global-navigation__product-text">Studio Pouches</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/drawstring-bags?cat_context=u-bags&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--drawstring-bags" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/drawstring-bags-40b371a8d6009ed3f6ea6534b8de0f9234b238b705cdc831a0ac51bbc24cfe4a.png&#39;);"></div>
+            <span class="global-navigation__product-text">Drawstring Bags</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+      <li class="product-link global-navigation__disable">
+          <a class="global-navigation__product-link" tabindex="-1" href="/shop/laptop-sleeves?cat_context=u-bags&amp;ref=global-nav-menu">
+            <div class="global-navigation__product-icon global-navigation__product-icon--laptop-sleeves" style="background-image: url(&#39;https://d3spquiph2sexc.cloudfront.net/assets/product-icons/laptop-sleeves-0962eb81c8c61f005fb022a9de8d7e007758074b162ef2887307e81dc01b9192.png&#39;);"></div>
+            <span class="global-navigation__product-text">Laptop Sleeves</span>
+            <i class="global-navigation__right-arrow rb-font-icon icon-arrow-right"></i>
+          </a>
+      </li>
+  </ul>
+</li>
+
+
+            <li class="scrollable-menu-item  rb-dropdown-item" tabindex="-1">
+              <a class="rb-dropdown-header" tabindex="-1" href="/gift-certificates/new?ref=global-nav-top">
+              <span>Gift Certificates</span>
+</a>            </li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+
+    
+  </div>
+
+
+      </header>
+
+        
+<meta itemprop="isFamilyFriendly" content="true"/>
+
+
+  
+
+  
+
+      <div
+    id="product-wrap"
+    class="product-wrap  fedex-product-wrap  "
+    data-product-type="ipad-case"
+    data-bind="attr: { 'data-product-type': productModel.productCode, 'data-product-selected-options': productModel.selectedOptionsStyled},
+      css: { 'large-product-images': productModel.isLargeImage }">
+
+    <section class="work-product-wrap">
+
+      <section
+        class="fedex-product-display work-product work-hero work-hero__product "
+        itemscope
+        itemprop="mainContentOfPage"
+        data-rb-product-preview
+        data-bind="resizablePreview,
+          css: {
+            stacked: resizablePreviewModel.isStacked,
+            loading: resizablePreviewModel.previewContainer.isLoading,
+            'realistic-apparel': productModel.isRealisticApparel
+          }
+        ">
+        <div class="fedex-product-previews">
+          <div class="fedex-product-previews_primary work-hero_column work-hero_column__left">
+              <div data-bind="with: resizablePreviewModel.previewContainer">
+                <a href="https://ih1.redbubble.net/image.231026137.9124/mwo,500x,ipad_2_snap-pad,600x1000,ffffff.jpg" id="main-image-link" class="fedex-preview_image-wrapper work-hero_image-wrapper work-hero_image-wrapper__disabled" title=""  data-bind="
+                  fancyboxWidget,
+                    click: window.WorkPage.controller.clickDetailMainImageView,
+                  attr: { href: $root.productModel.zoomPreviewImageUrl },
+                  css: { 'work-hero_image-wrapper__disabled': imageDisabled },
+                  style: {
+                    visibility: imageWrapperVisibility
+                  }">
+                  <img alt="Chihuahua Dog by ritmoboxers" id="main-image" class="fedex-preview_image work-hero_image" itemprop="primaryImageOfPage" data-bind="css: { hidden: previewImage.isHidden }, style: { visibility: previewImage.visibility }" src="https://ih1.redbubble.net/image.231026137.9124/mwo,x350,ipad_2_snap.png" />
+
+                    <div id="discourage-theft" data-rb-image-protection>
+    <img src="https://d3spquiph2sexc.cloudfront.net/assets/clear-495a83e08fc8e5d7569efe6339a1228ee08292fa1f2bee8e0be6532990cb3852.gif" alt="Clear" />
+  </div>
+
+                </a>
+              </div>
+          </div>
+          <div class="hidden" data-bind="css: {hidden: !productModel.hasCloseupImages() }, if: productModel.hasCloseupImages">
+            <div class="fedex-product-previews_secondary detail-product-images">
+              <hr class="rb-closeup-image-divider" />
+                <a href="#zoom" class="zoom"><i class="rb-font-icon icon-zoom-in"></i></a>
+
+              <!-- ko foreach: productModel.workCloseupImages -->
+                <a data-bind="click: window.WorkPage.controller.clickDetailImageView, attr: { href: url, style: 'background-image: url(' + url + ')', title: title }, fancyboxWidget">
+                &nbsp;
+              </a>
+              <!-- /ko -->
+
+              <!-- ko if: productModel.displayYoutubeVideo -->
+                <a class="fancybox-video fancybox iframe"  data-bind="click: window.WorkPage.controller.clickDetailVideoView, attr: { href: productModel.youtubeVideo().video_url, style: 'background-image: url(' + productModel.youtubeVideo().thumb_image_url + ')'}, fancyboxVideoWidget">
+                <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+                  <polygon class="st0" points="2.6,0 2.6,64 61.4,32 "/>
+                </svg>
+              </a>
+              <!-- /ko -->
+            </div>
+          </div>
+        </div><!-- .product-preview -->
+
+        <div class="fedex-product-things work-hero_column work-hero_column__right">
+          <section class="fedex-product-information work-information">
+  <h2 class="fedex-product-title work-information_title">Chihuahua Dog</h2>
+    <h3 class="fedex-product-type work-information_product-type" data-rb-content="work-product-type">iPad Cases &amp; Skins</h3>
+
+  <input type="checkbox" id="work-actions_share-trigger-13289124" class="fedex-product-actions_share-trigger work-actions_share-trigger">
+<ul class="fedex-product-actions work-actions">
+  <li class="fedex-product-actions_item work-actions_item">
+
+      <a href="https://www.redbubble.com/auth/login?next_action=%2Fpeople%2Fritmoboxers%2Fworks%2F13289124-chihuahua-dog%3Fasc%3Dt" data-fastclick="true" class="fedex-product-actions_link work-actions_link work-actions_link__like" title="Favorite">
+        <i class="rb-font-icon icon-heart"></i>
+      </a>
+
+  </li>
+
+  <li class="fedex-product-actions_item work-actions_item work-actions_item__share">
+    <label
+      for="work-actions_share-trigger-13289124"
+      class="fedex-product-actions_link work-actions_link work-actions_link__share work-share_label"
+      data-fastclick="true"
+      title="Share">
+        <i class="rb-font-icon icon-export work-actions_share-icon"></i>
+        <i class="rb-font-icon icon-cancel-circled2 fedex-product-actions_cancel work-actions_cancel-icon"></i>
+    </label>
+    <div class="fedex-product_social-media work-actions_share">
+      <ul class="work-share">
+  <li class="work-share_item"><a title="Twitter" href="http://twitter.com/share?text=Chihuahua+Dog&amp;url=https%3A%2F%2Fwww.redbubble.com%2Fpeople%2Fritmoboxers%2Fworks%2F13289124-chihuahua-dog%3Fp%3Dipad-case&amp;via=redbubble" class="work-share_link twitter" target="_blank" data-share-link="twitter"><i class="rb-font-icon icon-twitter"></i></a></li>
+  <li class="work-share_item"><a title="Facebook" href="http://www.facebook.com/sharer.php?t=Chihuahua+Dog&amp;u=https%3A%2F%2Fwww.redbubble.com%2Fpeople%2Fritmoboxers%2Fworks%2F13289124-chihuahua-dog%3Fp%3Dipad-case" class="work-share_link facebook" target="_blank" data-share-link="facebook"><i class="rb-font-icon icon-facebook-1"></i></a></li>
+  <li class="work-share_item"><a title="Google+" href="https://plus.google.com/share?url=https%3A%2F%2Fwww.redbubble.com%2Fpeople%2Fritmoboxers%2Fworks%2F13289124-chihuahua-dog%3Fp%3Dipad-case" class="work-share_link googleplus" target="_blank" data-share-link="gplus"><i class="rb-font-icon icon-gplus"></i></a></li>
+
+    <li class="work-share_item"><a title="Pin It" href="http://pinterest.com/pin/create/button/?description=Chihuahua+Dog&amp;media=https%3A%2F%2Fih0.redbubble.net%2Fimage.231026137.9124%2Fflat%2C800x800%2C075%2Cf.jpg&amp;url=https%3A%2F%2Fwww.redbubble.com%2Fpeople%2Fritmoboxers%2Fworks%2F13289124-chihuahua-dog%3Fp%3Dipad-case" class="work-share_link pinterest" target="_blank" data-share-link="pinterest"><i class="rb-font-icon icon-pinterest"></i></a></li>
+</ul>
+
+    </div>
+  </li>
+
+</ul>
+
+</section>
+
+
+          <section class="fedex-product-configuration work-product-config">
+              <form id="work-product-config-form" data-cart-count-url="/cart/nav_link" data-rb-product-url="https://www.redbubble.com/people/ritmoboxers/works/13289124-chihuahua-dog.json?p=ipad-case" data-rb-product-configuration="IpadCase" data-rb-product-configuration-mode="add" action="/cart/add" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="GGNf3fiaPTYobdUI1wd+ePw816gT0zff+Fn/s7fVEKBC77o683RH89QJdLwRAXsu/b/122LM0Siltgn0dgDF+g==" />
+                <input type="hidden" name="work_id" value="13289124">
+<div id="product-configuration">
+  <div class="product-configuration-container">
+    <input type="hidden" name="p" value="ipad-case">
+
+    <div class="left single-column">
+      <div class="work-config-field-border field-container changes-product-configuration">
+        <div class="work-config-select-container">
+          <span class="label">
+            Styles:
+          </span>
+        
+          <select name="type" id="type" class='work-config-select'>
+              <option value="ipad_2_snap"
+                      selected
+                      
+              >iPad Retina/3/2 - Snap Case</option>
+              <option value="ipad_2_skin"
+                      
+                      
+              >iPad Retina/3/2 - Skin</option>
+              <option value="ipad_mini_skin"
+                      
+                      
+              >iPad mini 2/1 - Skin</option>
+          </select>
+        
+          <div class="rb-font-icon icon-down-container">
+            <i class="rb-font-icon icon-down-dir"></i>
+          </div>
+        </div>
+        
+      </div>
+      <div itemprop="itemOffered" itemscope itemtype="http://schema.org/Product">
+        <meta itemprop="description" content="iPad Cases &amp; Skins"/>
+        <meta itemprop="image" content="http://ih1.redbubble.net/image.231026137.9124/mwo,x350,ipad_2_snap.png" />
+        <meta itemprop="name" content="Chihuahua Dog | iPad Retina/3/2 - Snap Case" />
+        <meta itemprop="url" content="https://www.redbubble.com/people/ritmoboxers/works/13289124-chihuahua-dog?p&#x3D;ipad-case" />
+      
+        <div class="work-config-price field-container" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+          <meta itemprop="price" content="45.0"/>
+          <meta itemprop="priceCurrency" content="USD"/>
+      
+          <span class="work-config-price-price"><span class='price usd'><span class='u en'>$</span><span class='d'>45</span><span class='c'>.00</span></span></span>
+      
+      
+      
+      
+        </div>
+      </div>
+      <div class="work-config-field-border work-config-qtyadd field-container">
+        <div class="quantity-wrap">
+          <label for="quantity" class="work-config-qty-label">&times;</label>
+          <input
+            class="work-config-qty"
+            id="quantity"
+            name="quantity"
+            type="tel"
+            value="1">
+        </div>
+      
+        <div class="work-product-addtocart">
+          <button type="submit" class="rb-button red" data-rb-button="update">
+            Update
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</form>
+                    <div class="RB_REACT_COMPONENT" data-component-name="VolumeDiscountBanner" data-props="null" data-dom-id="RB_React_Component_VolumeDiscountBanner_0"></div>
+      <div id="RB_React_Component_VolumeDiscountBanner_0"></div>
+
+
+                    <div class="RB_REACT_COMPONENT" data-component-name="PreOrderBanner" data-props="null" data-dom-id="RB_React_Component_PreOrderBanner_1"></div>
+      <div id="RB_React_Component_PreOrderBanner_1"></div>
+
+
+                    <div class="RB_REACT_COMPONENT" data-component-name="ProductConfiguration" data-props="null" data-dom-id="RB_React_Component_ProductConfiguration_2"></div>
+      <div id="RB_React_Component_ProductConfiguration_2"></div>
+
+
+              
+
+          </section>
+        </div>
+      </section>
+    </section>
+  </div>
+
+
+      <section class="work-toolbar work-toolbar__product">
+  <div class="work-toolbar_container">
+    <div class="work-toolbar_artist-details">
+      <a class="work-toolbar_avatar" href="/people/ritmoboxers">
+        <img class="work-toolbar_avatar-image" alt="ritmoboxers" src="https://ih1.redbubble.net/avatar.21876.100x100.jpg" width="100" height="100" />
+</a>
+      <h3 class="work-toolbar_artist-name">
+        <a rel="author" class="username" href="https://www.redbubble.com/people/ritmoboxers?ref=artist_title_name">ritmoboxers</a>
+      </h3>
+      <h4 class="work-toolbar_artist-location">
+        Joined March 2008
+      </h4>
+      <span class="follow-wrap work-toolbar_follow">    <a class="rb-button follow-button" title="Start Following" href="https://www.redbubble.com/auth/login?next_action=%2Fpeople%2Fritmoboxers%2Fworks%2F13289124-chihuahua-dog%3Fasc%3Dt">
+      Follow
+</a>
+</span>
+    </div>
+
+    <ul class="work-toolbar_tabs">
+      <li class="work-toolbar_tab__placeholder"></li>
+
+        <li class="work-toolbar_tab"data-tab-active="true" data-tab-link="product-info" data-fastclick="true">
+          <span class="work-toolbar_tab-label">Product<br>Info</span>
+          <span class="work-toolbar_tab-value"><i class="rb-font-icon icon-info"></i></span>
+        </li>
+
+      <li class="work-toolbar_tab" data-tab-link="reviews" data-fastclick="true" data-bind="css: { loading: reviewsModel.initialLoad() }, visible: reviewsModel.initialLoad() || reviewsModel.hasReviews()">
+        <span class="work-toolbar_tab-label work-toolbar_tab-label__reviews">Product<br>Reviews <span data-bind="text: '(' + reviewsModel.skuSummary.total() + ')'"></span></span>
+        <span class="work-toolbar_tab-value reviews_summary">
+          <span class="review_score review_score__average" data-bind="text: reviewsModel.skuSummary.score()"></span>
+          <span class="review_score review_score__summary" data-bind="attr: { 'data-score': reviewsModel.skuSummary.score() }">
+            <i class="rb-font-icon icon-star"></i><i class="rb-font-icon icon-star"></i><i class="rb-font-icon icon-star"></i><i class="rb-font-icon icon-star"></i><i class="rb-font-icon icon-star"></i>
+          </span>
+        </span>
+      </li>
+
+        <li class="work-toolbar_tab" data-tab-link="products" data-fastclick="true">
+          <span class="work-toolbar_tab-label">Available<br>Products</span>
+          <span class="work-toolbar_tab-value">20</span>
+        </li>
+
+        <li class="work-toolbar_tab work-toolbar_tab__description" data-tab-link="description" data-fastclick="true">
+          <span class="work-toolbar_tab-label">Artist<br>Notes</span>
+          <span class="work-toolbar_tab-value"><i class="rb-font-icon icon-align-left"></i></span>
+        </li>
+
+    </ul>
+  </div>
+</section>
+
+
+  <div class="work-tabs">
+      <div class="information-row" id="product-information" data-tab-name="product-info" data-rb-product-info="ipad_case" data-tab-visible="true">
+        <div class="ipad-case-info">
+  <section class="sizing-information">
+    <h2 class="sizing-information_title">Specifications</h2>
+  
+    <div class="sizing-information_content">
+      <ul class="sizing-information_options sizing-information_options__cases">
+          <li class="sizing-information_size">
+            <div class="sizing-information_size-fact">
+              <h3 class="sizing-information_size-fact-header">Material</h3>
+              Slim fitting one-piece clip-on case
+            </div>
+            <table class="sizing-information_size-fact-table">
+              <tr>
+                  <th class="sizing-information_size-fact-table-header">Protective Lip</th>
+                  <th class="sizing-information_size-fact-table-header">Weight</th>
+                  <th class="sizing-information_size-fact-table-header">Thickness</th>
+              </tr>
+              <tr>
+                  <th>Yes</th>
+                  <th>35g</th>
+                  <th>3/8&quot;</th>
+              </tr>
+            </table>
+          </li>
+      </ul>
+    </div>
+  </section>
+  <section class="product-information">
+    <h2 class="product-information_title">Features</h2>
+  
+    <ul class="product-information_content">
+      <li class="product-information_detail">Slim fitting one-piece clip-on case</li>
+      <li class="product-information_detail">Allows full access to all device ports</li>
+      <li class="product-information_detail">Extremely durable, shatterproof casing</li>
+      <li class="product-information_detail">Long life, super-bright colors embedded directly into the case</li>
+    </ul>
+  </section>
+</div>
+
+      </div>
+
+      <div class="reviews" data-tab-name="reviews" data-tab-visible="false">
+        <div data-bind="with: reviewsModel">
+  <h2 class="reviews_title"><span data-bind="html: productName"></span> Reviews</h2>
+  <ul class="reviews_content" data-bind="template: { name: 'review-template', foreach: reviews }">
+  </ul>
+
+  <script type="text/html" id="review-template">
+    <li class="reviews_review">
+      <h3 class="review_title">
+        <span data-bind="html: title"></span>
+        <span class="review_score review_score__individual" data-bind="attr: { 'data-score': score }">
+          <i class="rb-font-icon icon-star"></i>
+          <i class="rb-font-icon icon-star"></i>
+          <i class="rb-font-icon icon-star"></i>
+          <i class="rb-font-icon icon-star"></i>
+          <i class="rb-font-icon icon-star"></i>
+        </span>
+      </h3>
+      <h4 class="review_sub-title">
+        <span class="review_name" data-bind="html: name"></span>
+        <span class="review_date"><span data-bind="text: formattedDate"></span>
+      </h4>
+
+      <p class="review_body" data-bind="html: body"></p>
+    </li>
+  </script>
+
+  <div class="reviews_load-more hidden" data-bind="css: { hidden: isLoading() || !hasMoreReviews() }">
+    <a href="#" class="rb-button" data-bind="click: loadMoreReviews">Read More Reviews</a>
+  </div>
+
+  <div class="reviews_loading" data-bind="visible: isLoading()"></div>
+</div>
+
+      </div>
+
+      <div class="available-products" data-tab-name="products" data-tab-visible="false">
+          <h2 class="available-products_category">Apparel</h2>
+
+  <section class="carousel" data-carousel data-total-carousel-entries="1">
+    <div class="carousel_items">
+      <ul class="carousel_items-list">
+          <li class="carousel_item">
+  <a title="A-Line Dress" class="carousel_item-link" data-type-code="a-line-dress" href="/people/ritmoboxers/works/13289124-chihuahua-dog?p=a-line-dress&amp;rel=carousel">
+      <img alt="A-Line Dress" width="220" height="200" src="https://ih1.redbubble.net/image.231026087.9124/aldr,x700,front-c,85,163,315,294-bg,ffffff.jpg" />
+</a>  <div class="carousel_product-name">A-Line Dress</div>
+</li>
+
+      </ul>
+    </div>
+
+    <a class="carousel_nav carousel_nav__previous no-touching" data-carousel-nav="previous" href="#">
+      <i class="rb-font-icon icon-left-open"></i>
+</a>    <a class="carousel_nav carousel_nav__next no-touching" data-carousel-nav="next" href="#">
+      <i class="rb-font-icon icon-right-open"></i>
+</a>  </section>
+  <h2 class="available-products_category">Cases &amp; Skins</h2>
+
+  <section class="carousel" data-carousel data-total-carousel-entries="5">
+    <div class="carousel_items">
+      <ul class="carousel_items-list">
+          <li class="carousel_item">
+  <a title="iPhone Case/Skin" class="carousel_item-link" data-type-code="iphone-case" href="/people/ritmoboxers/works/13289124-chihuahua-dog?p=iphone-case&amp;rel=carousel">
+      <img alt="iPhone Case/Skin" width="220" height="200" src="https://ih0.redbubble.net/image.231026088.9124/mwo,220x200,iphone_7_snap-pad,220x200,ffffff.2.png" />
+</a>  <div class="carousel_product-name">iPhone Case/Skin</div>
+</li>
+
+          <li class="carousel_item">
+  <a title="Samsung Galaxy Case/Skin" class="carousel_item-link" data-type-code="samsung-galaxy-case" href="/people/ritmoboxers/works/13289124-chihuahua-dog?p=samsung-galaxy-case&amp;rel=carousel">
+      <img alt="Samsung Galaxy Case/Skin" width="220" height="200" src="https://ih1.redbubble.net/image.231026088.9124/mwo,220x200,samsung_galaxy_s7_snap-pad,220x200,ffffff.png" />
+</a>  <div class="carousel_product-name">Samsung Galaxy Case/Skin</div>
+</li>
+
+          <li class="carousel_item">
+  <a title="iPad Case/Skin" class="carousel_item-link" data-type-code="ipad-case" href="/people/ritmoboxers/works/13289124-chihuahua-dog?p=ipad-case&amp;rel=carousel">
+      <img alt="iPad Case/Skin" width="220" height="200" src="https://ih0.redbubble.net/image.231026137.9124/mwo,220x200,ipad_2_snap-pad,220x200,ffffff.png" />
+</a>  <div class="carousel_product-name">iPad Case/Skin</div>
+</li>
+
+          <li class="carousel_item">
+  <a title="Laptop Skin" class="carousel_item-link" data-type-code="laptop-skin" href="/people/ritmoboxers/works/13289124-chihuahua-dog?p=laptop-skin&amp;rel=carousel">
+      <img alt="Laptop Skin" width="220" height="200" src="https://ih0.redbubble.net/image.231026110.9124/pd,220x200,macbook_air_13-bg,ffffff-pad,220x200,ffffff.jpg" />
+</a>  <div class="carousel_product-name">Laptop Skin</div>
+</li>
+
+          <li class="carousel_item">
+  <a title="Laptop Sleeve" class="carousel_item-link" data-type-code="laptop-sleeve" href="/people/ritmoboxers/works/13289124-chihuahua-dog?p=laptop-sleeve&amp;rel=carousel">
+      <img alt="Laptop Sleeve" width="220" height="200" src="https://ih0.redbubble.net/image.231026110.9124/ls,13inch,220x200-bg,f8f8f8-pad,220x200,ffffff.2.jpg" />
+</a>  <div class="carousel_product-name">Laptop Sleeve</div>
+</li>
+
+      </ul>
+    </div>
+
+    <a class="carousel_nav carousel_nav__previous no-touching" data-carousel-nav="previous" href="#">
+      <i class="rb-font-icon icon-left-open"></i>
+</a>    <a class="carousel_nav carousel_nav__next no-touching" data-carousel-nav="next" href="#">
+      <i class="rb-font-icon icon-right-open"></i>
+</a>  </section>
+  <h2 class="available-products_category">Wall Art</h2>
+
+  <section class="carousel" data-carousel data-total-carousel-entries="6">
+    <div class="carousel_items">
+      <ul class="carousel_items-list">
+          <li class="carousel_item">
+  <a title="Poster" class="carousel_item-link" data-type-code="poster" href="/people/ritmoboxers/works/13289124-chihuahua-dog?p=poster&amp;rel=carousel">
+      <img alt="Poster" width="220" height="200" src="https://ih0.redbubble.net/image.231026099.9124/poster,220x200,ffffff-pad,220x200,ffffff.jpg" />
+</a>  <div class="carousel_product-name">Poster</div>
+</li>
+
+          <li class="carousel_item">
+  <a title="Canvas Print" class="carousel_item-link" data-type-code="canvas-print" href="/people/ritmoboxers/works/13289124-chihuahua-dog?p=canvas-print&amp;rel=carousel">
+      <img alt="Canvas Print" width="220" height="200" src="https://ih1.redbubble.net/image.231026099.9124/mp,220x200,matte,ffffff,t-pad,220x200,ffffff.3.jpg" />
+</a>  <div class="carousel_product-name">Canvas Print</div>
+</li>
+
+          <li class="carousel_item">
+  <a title="Photographic Print" class="carousel_item-link" data-type-code="photographic-print" href="/people/ritmoboxers/works/13289124-chihuahua-dog?p=photographic-print&amp;rel=carousel">
+      <img alt="Photographic Print" width="220" height="200" src="https://ih0.redbubble.net/image.231026099.9124/pp,220x200-pad,220x200,ffffff.jpg" />
+</a>  <div class="carousel_product-name">Photographic Print</div>
+</li>
+
+          <li class="carousel_item">
+  <a title="Art Print" class="carousel_item-link" data-type-code="art-print" href="/people/ritmoboxers/works/13289124-chihuahua-dog?p=art-print&amp;rel=carousel">
+      <img alt="Art Print" width="220" height="200" src="https://ih1.redbubble.net/image.231026099.9124/ap,220x200,16x12,1,ffffff,t-pad,220x200,ffffff.jpg" />
+</a>  <div class="carousel_product-name">Art Print</div>
+</li>
+
+          <li class="carousel_item">
+  <a title="Framed Print" class="carousel_item-link" data-type-code="framed-print" href="/people/ritmoboxers/works/13289124-chihuahua-dog?p=framed-print&amp;rel=carousel">
+      <img alt="Framed Print" width="220" height="200" src="https://ih1.redbubble.net/image.231026099.9124/fp,220x200,black,off_white,box20,s,ffffff-pad,220x200,ffffff.jpg" />
+</a>  <div class="carousel_product-name">Framed Print</div>
+</li>
+
+          <li class="carousel_item">
+  <a title="Metal Print" class="carousel_item-link" data-type-code="metal-print" href="/people/ritmoboxers/works/13289124-chihuahua-dog?p=metal-print&amp;rel=carousel">
+      <img alt="Metal Print" width="220" height="200" src="https://ih1.redbubble.net/image.231026099.9124/mp,220x200,gloss,ffffff,t-pad,220x200,ffffff.3.jpg" />
+</a>  <div class="carousel_product-name">Metal Print</div>
+</li>
+
+      </ul>
+    </div>
+
+    <a class="carousel_nav carousel_nav__previous no-touching" data-carousel-nav="previous" href="#">
+      <i class="rb-font-icon icon-left-open"></i>
+</a>    <a class="carousel_nav carousel_nav__next no-touching" data-carousel-nav="next" href="#">
+      <i class="rb-font-icon icon-right-open"></i>
+</a>  </section>
+  <h2 class="available-products_category">Home Decor</h2>
+
+  <section class="carousel" data-carousel data-total-carousel-entries="3">
+    <div class="carousel_items">
+      <ul class="carousel_items-list">
+          <li class="carousel_item">
+  <a title="Throw Pillow" class="carousel_item-link" data-type-code="throw-pillow" href="/people/ritmoboxers/works/13289124-chihuahua-dog?p=throw-pillow&amp;rel=carousel">
+      <img alt="Throw Pillow" width="220" height="200" src="https://ih0.redbubble.net/image.231026103.9124/tp,220x200,ffffff,t-pad,220x200,ffffff.6.jpg" />
+</a>  <div class="carousel_product-name">Throw Pillow</div>
+</li>
+
+          <li class="carousel_item">
+  <a title="Mug" class="carousel_item-link" data-type-code="mug" href="/people/ritmoboxers/works/13289124-chihuahua-dog?p=mug&amp;rel=carousel&amp;style=standard">
+      <img alt="Mug" width="220" height="200" src="https://ih1.redbubble.net/image.231026102.9124/mug,standard,220x200,right-bg,ffffff-pad,220x200,ffffff.jpg" />
+</a>  <div class="carousel_product-name">Mug</div>
+</li>
+
+          <li class="carousel_item">
+  <a title="Travel Mug" class="carousel_item-link" data-type-code="travel-mug" href="/people/ritmoboxers/works/13289124-chihuahua-dog?p=travel-mug&amp;rel=carousel">
+      <img alt="Travel Mug" width="220" height="200" src="https://ih0.redbubble.net/image.231026118.9124/mug,travel,220x200,center-bg,ffffff-pad,220x200,ffffff.2.jpg" />
+</a>  <div class="carousel_product-name">Travel Mug</div>
+</li>
+
+      </ul>
+    </div>
+
+    <a class="carousel_nav carousel_nav__previous no-touching" data-carousel-nav="previous" href="#">
+      <i class="rb-font-icon icon-left-open"></i>
+</a>    <a class="carousel_nav carousel_nav__next no-touching" data-carousel-nav="next" href="#">
+      <i class="rb-font-icon icon-right-open"></i>
+</a>  </section>
+  <h2 class="available-products_category">Bags</h2>
+
+  <section class="carousel" data-carousel data-total-carousel-entries="3">
+    <div class="carousel_items">
+      <ul class="carousel_items-list">
+          <li class="carousel_item">
+  <a title="Tote Bag" class="carousel_item-link" data-type-code="tote-bag" href="/people/ritmoboxers/works/13289124-chihuahua-dog?p=tote-bag&amp;rel=carousel">
+      <img alt="Tote Bag" width="220" height="200" src="https://ih0.redbubble.net/image.231026103.9124/tb,220x200,flat-pad,220x200,ffffff.2.jpg" />
+</a>  <div class="carousel_product-name">Tote Bag</div>
+</li>
+
+          <li class="carousel_item">
+  <a title="Studio Pouch" class="carousel_item-link" data-type-code="pouch" href="/people/ritmoboxers/works/13289124-chihuahua-dog?p=pouch&amp;rel=carousel">
+      <img alt="Studio Pouch" width="220" height="200" src="https://ih1.redbubble.net/image.231026110.9124/pouch,small,220x200-bg,ffffff-pad,220x200,ffffff.jpg" />
+</a>  <div class="carousel_product-name">Studio Pouch</div>
+</li>
+
+          <li class="carousel_item">
+  <a title="Drawstring Bag" class="carousel_item-link" data-type-code="drawstring-bag" href="/people/ritmoboxers/works/13289124-chihuahua-dog?p=drawstring-bag&amp;rel=carousel">
+      <img alt="Drawstring Bag" width="220" height="200" src="https://ih0.redbubble.net/image.231026136.9124/drawstring_bag,220x200-bg,ffffff-pad,220x200,ffffff.jpg" />
+</a>  <div class="carousel_product-name">Drawstring Bag</div>
+</li>
+
+      </ul>
+    </div>
+
+    <a class="carousel_nav carousel_nav__previous no-touching" data-carousel-nav="previous" href="#">
+      <i class="rb-font-icon icon-left-open"></i>
+</a>    <a class="carousel_nav carousel_nav__next no-touching" data-carousel-nav="next" href="#">
+      <i class="rb-font-icon icon-right-open"></i>
+</a>  </section>
+  <h2 class="available-products_category">Stationery</h2>
+
+  <section class="carousel" data-carousel data-total-carousel-entries="2">
+    <div class="carousel_items">
+      <ul class="carousel_items-list">
+          <li class="carousel_item">
+  <a title="Greeting Card" class="carousel_item-link" data-type-code="greeting-card" href="/people/ritmoboxers/works/13289124-chihuahua-dog?p=greeting-card&amp;rel=carousel">
+      <img alt="Greeting Card" width="220" height="200" src="https://ih0.redbubble.net/image.231026099.9124/papergc,220x200,w,ffffff-pad,220x200,ffffff.2.jpg" />
+</a>  <div class="carousel_product-name">Greeting Card</div>
+</li>
+
+          <li class="carousel_item">
+  <a title="Spiral Notebook" class="carousel_item-link" data-type-code="spiral-notebook" href="/people/ritmoboxers/works/13289124-chihuahua-dog?p=spiral-notebook&amp;rel=carousel">
+      <img alt="Spiral Notebook" width="220" height="200" src="https://ih0.redbubble.net/image.231026139.9124/sn,220x200-bg,ffffff-pad,220x200,ffffff.jpg" />
+</a>  <div class="carousel_product-name">Spiral Notebook</div>
+</li>
+
+      </ul>
+    </div>
+
+    <a class="carousel_nav carousel_nav__previous no-touching" data-carousel-nav="previous" href="#">
+      <i class="rb-font-icon icon-left-open"></i>
+</a>    <a class="carousel_nav carousel_nav__next no-touching" data-carousel-nav="next" href="#">
+      <i class="rb-font-icon icon-right-open"></i>
+</a>  </section>
+
+      </div>
+
+      <div class="description" data-tab-name="description" data-tab-visible="false">
+        
+<div class="localised">
+    <h2 class="description_heading">Artist&#39;s Description</h2>
+    <div class="description_content" data-bind="fancyboxWidget" >
+      <p>Close up of a chihuahua  dog&#8217;s face</p>
+    </div>
+
+    <div class="description_tags">
+        <h2 class="description_tag-group">iPad Cases &amp; Skins Tags</h2>
+        <p class="description_tag-list" >
+          <a title="chihuahua iPad Cases &amp; Skins" class="tag-link" href="/shop/chihuahua+ipad-cases?ref=work_taglist">chihuahua</a> <a title="chihuahuas iPad Cases &amp; Skins" class="tag-link" href="/shop/chihuahuas+ipad-cases?ref=work_taglist">chihuahuas</a> <a title="dog iPad Cases &amp; Skins" class="tag-link" href="/shop/dog+ipad-cases?ref=work_taglist">dog</a> <a title="dogs iPad Cases &amp; Skins" class="tag-link" href="/shop/dogs+ipad-cases?ref=work_taglist">dogs</a> <a title="pet iPad Cases &amp; Skins" class="tag-link" href="/shop/pet+ipad-cases?ref=work_taglist">pet</a> <a title="pets iPad Cases &amp; Skins" class="tag-link" href="/shop/pets+ipad-cases?ref=work_taglist">pets</a> <a title="animal iPad Cases &amp; Skins" class="tag-link" href="/shop/animal+ipad-cases?ref=work_taglist">animal</a> <a title="animals iPad Cases &amp; Skins" class="tag-link" href="/shop/animals+ipad-cases?ref=work_taglist">animals</a> <a title="mugs iPad Cases &amp; Skins" class="tag-link" href="/shop/mugs+ipad-cases?ref=work_taglist">mugs</a> <a title="cases iPad Cases &amp; Skins" class="tag-link" href="/shop/cases+ipad-cases?ref=work_taglist">cases</a> <a title="pillows iPad Cases &amp; Skins" class="tag-link" href="/shop/pillows+ipad-cases?ref=work_taglist">pillows</a> <a title="postcards iPad Cases &amp; Skins" class="tag-link" href="/shop/postcards+ipad-cases?ref=work_taglist">postcards</a>
+        </p>
+        <h2 class="description_tag-group">All Products Tags</h2>
+        <p class="description_tag-list" >
+          <a title="chihuahua" class="tag-link" href="/shop/chihuahua?ref=work_taglist">chihuahua</a> <a title="chihuahuas" class="tag-link" href="/shop/chihuahuas?ref=work_taglist">chihuahuas</a> <a title="dog" class="tag-link" href="/shop/dog?ref=work_taglist">dog</a> <a title="dogs" class="tag-link" href="/shop/dogs?ref=work_taglist">dogs</a> <a title="pet" class="tag-link" href="/shop/pet?ref=work_taglist">pet</a> <a title="pets" class="tag-link" href="/shop/pets?ref=work_taglist">pets</a> <a title="animal" class="tag-link" href="/shop/animal?ref=work_taglist">animal</a> <a title="animals" class="tag-link" href="/shop/animals?ref=work_taglist">animals</a> <a title="mugs" class="tag-link" href="/shop/mugs?ref=work_taglist">mugs</a> <a title="cases" class="tag-link" href="/shop/cases?ref=work_taglist">cases</a> <a title="pillows" class="tag-link" href="/shop/pillows?ref=work_taglist">pillows</a> <a title="postcards" class="tag-link" href="/shop/postcards?ref=work_taglist">postcards</a>
+        </p>
+    </div>
+</div>
+
+
+
+      </div>
+
+  </div>
+
+    
+
+  <div class="information-row carousel-button-container" id="carousel-placeholder">
+    <div class="carousel_loading_container">
+      <div><p class="carousel_loading_text" id="load_carousel_link">Loading more work by ritmoboxers...</p></div>
+    </div>
+  </div>
+
+    
+
+
+
+
+      <section class="pre-footer-wrap">
+  <div class="pre-footer">
+      <div class="pre-footer-left">
+  <span class="report-work">
+    Report: <a rel="nofollow" href="https://www.redbubble.com/objections/add/13289124-chihuahua-dog?content_type=ImageWork">Inappropriate Content</a> or <a rel="nofollow" href="https://help.redbubble.com/hc/en/articles/201579195">Copyright Infringement</a>
+  </span>
+</div>
+
+
+
+    <div class="site-settings">
+      <span class="safe-filter-settings">
+        Mature Content:
+        <form action="/settings/safe_filter?return_to=%2Fpeople%2Fritmoboxers%2Fworks%2F13289124-chihuahua-dog%3Fasc%3Dt&amp;safe_filter=false" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="gGf6CCrhgmEOpPzPHOcaf4N4gRJlY3k2v9t6wTrZTBTa6x/vIQ/4pPLAXXva4R8pgvujYRR8n8HiNIyG+wyZTg==" />
+          <input type="submit" name="commit" value="Hidden" title="Toggle display of Mature Content" id="safe-filter" />
+</form>      </span>
+      <span class="locale-settings">
+        <a title="Change country, currency, language" rel="nofollow" class="rb-font-icon icon-globe dialog-link" href="https://www.redbubble.com/settings/show_locale">United States - USD$ - English</a>
+      </span>
+    </div>
+  </div>
+</section>
+
+
+<footer class="footer">
+  <section class="footer_container">
+
+
+      <section class="footer-subscribe">
+        <div id="footer-subscribe-form">
+          <h3 class="footer_header">Subscribe for special offers &amp; updates</h3>
+          <form action="/email_subscription/direct_subscription" method="post" class="footer-subscribe_form" id="subForm">
+            <p style="visibility:hidden;" class="footer-subscribe_placeholder-reminder">Enter your email address</p>
+            <div class="footer-subscribe_control-wrapper">
+              <span class="footer-subscribe_input-wrapper"> <input name="email_address" type="email" class="footer-subscribe_input" placeholder="Enter your email address" tabindex="-1" autocomplete="on"> </span>
+              <span class="footer-subscribe_button-wrapper"><button class="footer-subscribe_button">Subscribe</button></span>
+            </div>
+            <input type="hidden" value="552028" name="cm-fo-birkry"/>
+          </form>
+        </div>
+        <div id="footer-subscribe-thanks" style="display: none;">
+          <h3 class="footer_header">Thanks for signing up!</h3>
+        </div>
+      </section>
+
+    <section class="footer-links">
+      <a class="footer-links_link" href="/about">About Us</a>
+      <a class="footer-links_link" href="http://blog.redbubble.com">Blog</a>
+      <a rel="nofollow" class="footer-links_link" href="https://help.redbubble.com/hc/en/articles/203024315">Delivery</a>
+        <a class="footer-links_link" target="_blank" href="http://shareholders.redbubble.com/">Investor Centre</a>
+      <a class="footer-links_link" href="https://careers.redbubble.com">Jobs</a>
+      <a rel="nofollow" class="footer-links_link" href="https://help.redbubble.com/hc/en/articles/201250609">Returns</a>
+      <a class="footer-links_link" href="/contact">Contact Us</a>
+      <a rel="nofollow" class="footer-links_link" href="https://help.redbubble.com/hc/en/">Help</a>
+    </section>
+
+    <div class='footer_wrapper'>
+      <section class="footer-gts">
+        <div id="gts_badge_container"></div>
+      </section>
+
+      <section class="footer-social">
+        <ul class="footer-social_links">
+          <li class="footer-social_item"><a class="footer-social_link footer-social_link__instagram" href="https://www.instagram.com/redbubble">Instagram</a></li>
+          <li class="footer-social_item"><a class="footer-social_link footer-social_link__facebook" href="https://www.facebook.com/pages/Redbubble/107810395970444">Facebook</a></li>
+          <li class="footer-social_item"><a class="footer-social_link footer-social_link__twitter" href="https://twitter.com/redbubble">Twitter</a></li>
+          <li class="footer-social_item"><a class="footer-social_link footer-social_link__tumblr" href="http://redbubble.tumblr.com/">Tumblr</a></li>
+          <li class="footer-social_item"><a class="footer-social_link footer-social_link__pinterest" href="https://pinterest.com/redbubble/">Pinterest</a></li>
+        </ul>
+      </section>
+
+      <section class="footer-links footer-links--global">
+        <span class="footer-links_link--global footer-links_link--copyright">&copy; Redbubble. All Rights Reserved</span>
+        <a rel="nofollow" class="footer-links_link--global" href="/agreement">User Agreement</a>
+        <a rel="nofollow" class="footer-links_link--global" href="/privacy">Privacy Policy</a>
+        <a rel="nofollow" class="footer-links_link--global" href="https://help.redbubble.com/hc/en/articles/201579195">Copyright</a>
+        <a rel="nofollow" class="footer-links_link--global" href="/affiliates">Affiliates</a>
+        <a class="footer-links_link--global" href="/pages/play-nice">Play Nice Policy</a>
+          <a rel="nofollow" class="footer-links_link--global" href="https://www.redbubble.com/auth/login">Sign In</a>
+      </section>
+    </div>
+  </section>
+
+  <!-- required for http://support.google.com/webmasters/bin/answer.py?hl=en&answer=1708844 -->
+  <a href="https://plus.google.com/u/1/b/109746552787813200157/109746552787813200157" rel="publisher" style="display:none;">Find us on Google+</a>
+</footer>
+
+    </div>
+
+    <div class="screen-size">
+  <span class="desktop">desktop</span>
+  <span class="tablet-landscape">tablet-landscape</span>
+  <span class="content-width">content-width</span>
+  <span class="tablet-portrait">tablet-portrait</span>
+  <span class="workstream-4-across">workstream-4-across</span>
+  <span class="phone-landscape">phone-landscape</span>
+  <span class="phone-portrait">phone-portrait</span>
+</div>
+
+<div class="responding-to-size">
+  <span class="desktop">desktop</span>
+  <span class="tablet-landscape">tablet-landscape</span>
+  <span class="content-width">content-width</span>
+  <span class="tablet-portrait">tablet-portrait</span>
+  <span class="workstream-4-across">workstream-4-across</span>
+  <span class="phone-landscape">phone-landscape</span>
+  <span class="phone-portrait">phone-portrait</span>
+</div>
+
+  </div>
+
+    <div id="email-slide-up">
+    <a link="#" class="close" title="Close">
+      <i class="rb-font-icon icon-cancel-circled"></i>
+    </a>
+
+    <div class="content-wrapper">
+      <div class="message">
+        <p>
+          <span class="xl"><strong>10%</strong> off</span>
+        </p>
+        <p>
+          <span class="normal">for joining the Redbubble mailing list</span>
+        </p>
+      </div>
+
+      <form action="/email_subscription/direct_subscription" method="post" id="subForm">
+        <input type="hidden" value="552028" name="cm-fo-birkry"/>
+
+        <div class="input-wrapper">
+          <input type="email" name="email_address" class="signup-email" id="email_address" placeholder="Enter your email address" tabindex="-1" autocomplete="on">
+          <input type="submit" class="signup-submit" value="Join" />
+        </div>
+
+        <div class="email-thanks">
+          <h4>Thanks for signing up!</h4>
+        </div>
+
+        <p>
+          Receive exclusive deals and awesome artist news and content right to your inbox.
+          Free for your convenience.
+        </p>
+
+      </form>
+    </div>
+  </div>
+
+
+  <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=Intl.~locale.en"></script>
+  <script src="https://d3spquiph2sexc.cloudfront.net/assets/locale/en/app-51002c1661eac1de7a8acf6817b8ebc7b425029ec67c0c479f8440681196c1dc.js" crossorigin="anonymous"></script>
+  <script src="https://d3spquiph2sexc.cloudfront.net/assets/libs-e396abb1a7f56130563c0b988cb6fd5fed1b104583d9aa6b431609487163cc9e.js" crossorigin="anonymous"></script>
+  <script src="https://d3spquiph2sexc.cloudfront.net/assets/utils-661de32c48859d06363d464eec817b9bce1a65730eaa88b5a79ac09341eca8d7.js" crossorigin="anonymous"></script>
+  <script src="https://d3spquiph2sexc.cloudfront.net/assets/core-7ab5f852f9c6c5c478b6c56c6f14a5c600152093f982af1d37b4d601a2328aaf.js" crossorigin="anonymous"></script>
+  
+  
+
+  <script src="https://d3spquiph2sexc.cloudfront.net/assets/webpack/tracking-9901a0f36f234bada7f968db373f73eccfad7823127067f4238b6b68eb35ea88.js"></script>
+
+  <!-- Google Tag Manager -->
+<script>
+	dataLayer = [{"visitorType":"New Visitor","country":"US","currency":"USD","language":"en","experiment":"none","variant":"none","product_id":"13289124-US-ipad-case"}];
+</script>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-9R9D"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-9R9D');</script>
+<!-- End Google Tag Manager -->
+
+
+  <script type="text/javascript">
+  window.EXPERIMENT_VARIANT_PREFIX = 'variant';
+  window.EXPERIMENTS = JSON.parse('{"sj6_carousel_on_product_page":{"variant_name":"control","variant":false,"control":true}}');
+</script>
+
+
+          <script type="text/javascript">
+          window.InitialReduxActions = window.InitialReduxActions || [];
+          window.InitialReduxActions = window.InitialReduxActions.concat([{"name":"setLocale","args":["en"]},{"name":"initialiseDeliveryDates","args":[{"productTypeCodes":["ipad-cases"],"userCountryCode":"US","userCountry":"United States"}]}]);
+        </script>
+    <script>
+      $(function() {
+        setupFollowing();
+      });
+    </script>
+    <script src="https://d3spquiph2sexc.cloudfront.net/assets/email_subscription-62129493b7cf30adc8f91ec66b20f4d36ba80a8824bc077a47880a5e68a980e7.js"></script>
+
+    <script type="text/javascript">
+      $(function() {
+        var slide = new EmailSubscriptionSlide(false);
+        slide.initialise();
+
+        var emailSubscription = new EmailSubscription($("#email-slide-up"), "slide-up", function() {
+          slide.showThanksMessage();
+          slide.close(1000);
+        });
+        emailSubscription.initialise();
+      });
+    </script>
+  <script src="https://d3spquiph2sexc.cloudfront.net/assets/work_page-3544920d0b1c42c4e211f4017f16e1fab3cd8fa22baa07252d797908ea590d2a.js" crossorigin="anonymous"></script>
+
+  <script src="https://d3spquiph2sexc.cloudfront.net/assets/webpack/tracking-9901a0f36f234bada7f968db373f73eccfad7823127067f4238b6b68eb35ea88.js"></script>
+
+  <script>
+    $(function () {
+
+    });
+  </script>
+
+      <script src="https://d3spquiph2sexc.cloudfront.net/assets/product_configuration-fcb18029af1b267fbc8ac5b994dce5b7b6a5fbad8ed11f6d5f5bc143ce2f6d93.js" crossorigin="anonymous"></script>
+
+  <script data-product-data-json='{&quot;product_id&quot;:&quot;13289124-US-ipad-case&quot;,&quot;title&quot;:&quot;Cases &amp; Skins&quot;,&quot;canonical_name&quot;:&quot;iPad Cases &amp; Skins&quot;,&quot;work_page_image&quot;:{&quot;url&quot;:&quot;https://ih1.redbubble.net/image.231026137.9124/mwo,x350,ipad_2_snap.png&quot;,&quot;title&quot;:null},&quot;image_url&quot;:&quot;https://ih1.redbubble.net/image.231026137.9124/mwo,x350,ipad_2_snap.png&quot;,&quot;work_closeup_images&quot;:[],&quot;realistic_preview&quot;:false,&quot;large_image&quot;:false,&quot;product_zoom_image_url&quot;:&quot;https://ih1.redbubble.net/image.231026137.9124/mwo,500x,ipad_2_snap-pad,600x1000,ffffff.jpg&quot;,&quot;product_url&quot;:&quot;https://www.redbubble.com/people/ritmoboxers/works/13289124-chihuahua-dog.json?p=ipad-case&quot;,&quot;product_configuration&quot;:{&quot;work_id&quot;:13289124,&quot;price&quot;:{&quot;retail_inc_tax&quot;:&quot;&lt;span class=&#39;price usd&#39;&gt;&lt;span class=&#39;u en&#39;&gt;$&lt;/span&gt;&lt;span class=&#39;d&#39;&gt;45&lt;/span&gt;&lt;span class=&#39;c&#39;&gt;.00&lt;/span&gt;&lt;/span&gt;&quot;,&quot;currency&quot;:&quot;USD&quot;,&quot;amount&quot;:&quot;45.0&quot;,&quot;public_price&quot;:&quot;&lt;span class=&#39;price usd&#39;&gt;&lt;span class=&#39;u en&#39;&gt;$&lt;/span&gt;&lt;span class=&#39;d&#39;&gt;45&lt;/span&gt;&lt;span class=&#39;c&#39;&gt;.00&lt;/span&gt;&lt;/span&gt;&quot;},&quot;discount&quot;:{&quot;discounted&quot;:false,&quot;percent_off&quot;:&quot;0%&quot;},&quot;discount_amount&quot;:&quot;0%&quot;,&quot;suppress_messages&quot;:false,&quot;artist_of_work&quot;:false,&quot;quantity&quot;:1,&quot;product&quot;:{&quot;alt_text&quot;:&quot;Chihuahua Dog by ritmoboxers&quot;,&quot;meta_description&quot;:&quot;iPad Cases &amp; Skins&quot;,&quot;meta_image_url&quot;:&quot;http://ih1.redbubble.net/image.231026137.9124/mwo,x350,ipad_2_snap.png&quot;,&quot;meta_name&quot;:&quot;Chihuahua Dog | iPad Retina/3/2 - Snap Case&quot;,&quot;meta_url&quot;:&quot;https://www.redbubble.com/people/ritmoboxers/works/13289124-chihuahua-dog?p=ipad-case&quot;,&quot;type_code&quot;:&quot;ipad-case&quot;,&quot;work_page_image_url&quot;:&quot;https://ih1.redbubble.net/image.231026137.9124/mwo,x350,ipad_2_snap.png&quot;,&quot;work_page_alternate_image_url&quot;:&quot;https://ih1.redbubble.net/image.231026137.9124/mwo,x350,ipad_2_snap.png&quot;},&quot;reviews_sku&quot;:&quot;ipad-case-snap&quot;,&quot;reviews_name&quot;:&quot;iPad Retina/3/2 - Snap Case&quot;,&quot;warning_message&quot;:null,&quot;display_warning_message&quot;:false,&quot;display_vat&quot;:false,&quot;display_shipping&quot;:false,&quot;type_code&quot;:&quot;ipad-case&quot;,&quot;options&quot;:{&quot;styles&quot;:{&quot;option_name&quot;:&quot;type&quot;,&quot;option_label&quot;:&quot;Styles&quot;,&quot;options&quot;:[{&quot;value&quot;:&quot;ipad_2_snap&quot;,&quot;display_name&quot;:&quot;iPad Retina/3/2 - Snap Case&quot;,&quot;selected&quot;:true},{&quot;value&quot;:&quot;ipad_2_skin&quot;,&quot;display_name&quot;:&quot;iPad Retina/3/2 - Skin&quot;,&quot;selected&quot;:false},{&quot;value&quot;:&quot;ipad_mini_skin&quot;,&quot;display_name&quot;:&quot;iPad mini 2/1 - Skin&quot;,&quot;selected&quot;:false}]}}},&quot;product_info&quot;:{&quot;description_lines&quot;:[&quot;Slim fitting one-piece clip-on case&quot;,&quot;Allows full access to all device ports&quot;,&quot;Extremely durable, shatterproof casing&quot;,&quot;Long life, super-bright colors embedded directly into the case&quot;],&quot;product_specifications&quot;:[{&quot;title&quot;:&quot;Protective Lip&quot;,&quot;value&quot;:&quot;Yes&quot;},{&quot;title&quot;:&quot;Weight&quot;,&quot;value&quot;:&quot;35g&quot;},{&quot;title&quot;:&quot;Thickness&quot;,&quot;value&quot;:&quot;3/8\&quot;&quot;}],&quot;material&quot;:&quot;Slim fitting one-piece clip-on case&quot;},&quot;info_template&quot;:&quot;ipad_case_info&quot;,&quot;configuration_template&quot;:&quot;ipad_case_configuration&quot;,&quot;country&quot;:&quot;United States&quot;,&quot;country_code&quot;:&quot;US&quot;,&quot;type_code&quot;:&quot;ipad-case&quot;,&quot;apparel_template&quot;:false,&quot;delivery_dates_url&quot;:&quot;//delivery-dates.api.redbubble.com/delivery_dates?country_code=us&amp;product_codes=ipad-cases&amp;state=&quot;,&quot;delivery_dates_product_code&quot;:&quot;ipad-cases&quot;,&quot;enhanced_ecommerce_product_field_object&quot;:{&quot;id&quot;:&quot;13289124-ipad-case-ipad_2_snap&quot;,&quot;name&quot;:&quot;13289124 Chihuahua Dog&quot;,&quot;category&quot;:&quot;ipad-case&quot;,&quot;quantity&quot;:1},&quot;ga_product_code&quot;:&quot;ipad-case&quot;,&quot;volume_discount_message&quot;:null,&quot;pre_order_message&quot;:null}'>
+    $(function () {
+      WorkPage.bootstrapProduct({
+        productData: JSON.parse($('[data-product-data-json]').attr('data-product-data-json')),
+        reviewsData: {
+          reviewProduct: {"sku":"ipad-case-snap","name":"iPad Retina/3/2 - Snap Case"},
+          initialReviews: [],
+          bottomLines: [{"domain_key":"t-shirt-mens","product_score":"4.69","total_reviews":305},{"domain_key":"travel-mug","product_score":"4.67","total_reviews":24},{"domain_key":"t-shirt-mhoodiez","product_score":"4.13","total_reviews":23},{"domain_key":"photographic-print","product_score":"4.88","total_reviews":17},{"domain_key":"tote-bag","product_score":"4.77","total_reviews":35},{"domain_key":"throw-pillow","product_score":"4.67","total_reviews":43},{"domain_key":"sticker","product_score":"4.75","total_reviews":185},{"domain_key":"t-shirt-raglan","product_score":"4.0","total_reviews":18},{"domain_key":"t-shirt-vneck","product_score":"4.54","total_reviews":13},{"domain_key":"t-shirt-scoop","product_score":"4.0","total_reviews":4},{"domain_key":"t-shirt-womens","product_score":"4.45","total_reviews":73},{"domain_key":"poster","product_score":"4.89","total_reviews":37},{"domain_key":"t-shirt-longsleeve","product_score":"4.76","total_reviews":21},{"domain_key":"iphone-case-snap","product_score":"5.0","total_reviews":3},{"domain_key":"t-shirt-tank","product_score":"4.67","total_reviews":15},{"domain_key":"mug","product_score":"4.9","total_reviews":40},{"domain_key":"leggings","product_score":"4.23","total_reviews":13},{"domain_key":"duvet-cover","product_score":"4.92","total_reviews":13},{"domain_key":"kids-clothes-shortsleeve_one_piece","product_score":"5.0","total_reviews":3},{"domain_key":"calendar","product_score":"5.0","total_reviews":4},{"domain_key":"t-shirt-mhoodie","product_score":"4.67","total_reviews":57},{"domain_key":"iphone-case-tough","product_score":"4.8","total_reviews":5},{"domain_key":"kids-clothes-kids_tee","product_score":"5.0","total_reviews":12},{"domain_key":"t-shirt-worganic","product_score":"5.0","total_reviews":1},{"domain_key":"greeting-card-greeting-card","product_score":"4.68","total_reviews":22},{"domain_key":"samsung-galaxy-case-tough","product_score":"5.0","total_reviews":1},{"domain_key":"kids-clothes-longsleeve_one_piece","product_score":"5.0","total_reviews":1},{"domain_key":"art-print","product_score":"4.67","total_reviews":9},{"domain_key":"t-shirt-racerback","product_score":"4.86","total_reviews":14},{"domain_key":"iphone-case-skin","product_score":"5.0","total_reviews":2},{"domain_key":"canvas-print","product_score":"4.5","total_reviews":4},{"domain_key":"t-shirt-pullover","product_score":"4.84","total_reviews":19},{"domain_key":"samsung-galaxy-case-snap","product_score":"5.0","total_reviews":1},{"domain_key":"ipad-case-skin","product_score":"3.0","total_reviews":4},{"domain_key":"metal-print","product_score":"5.0","total_reviews":4},{"domain_key":"framed-print","product_score":"5.0","total_reviews":1},{"domain_key":"laptop-skin","product_score":"5.0","total_reviews":5},{"domain_key":"kids-clothes-baby_tee","product_score":"3.0","total_reviews":1},{"domain_key":"pouch","product_score":"4.8","total_reviews":15},{"domain_key":"iphone-case-iPhone 5c - Snap","product_score":"5.0","total_reviews":1},{"domain_key":"iphone-case-iPhone 6 - Tough","product_score":"4.67","total_reviews":3},{"domain_key":"iphone-case-iPhone 5s/5 - Snap","product_score":"5.0","total_reviews":3},{"domain_key":"iphone-case-iPhone 5c - Tough","product_score":"5.0","total_reviews":1},{"domain_key":"iphone-case-iPhone 5s/5 - Tough","product_score":"5.0","total_reviews":6},{"domain_key":"iphone-case-iPhone 6 Plus - Tough","product_score":"5.0","total_reviews":1},{"domain_key":"samsung-galaxy-case-Samsung Galaxy S3 - Tough","product_score":"5.0","total_reviews":1},{"domain_key":"iphone-case-iPhone 4s/4 - Tough","product_score":"5.0","total_reviews":3},{"domain_key":"iphone-case-iPhone 4s/4 - Snap","product_score":"5.0","total_reviews":2},{"domain_key":"samsung-galaxy-case-Samsung Galaxy S5 - Tough","product_score":"4.67","total_reviews":6},{"domain_key":"samsung-galaxy-case-Samsung Galaxy S4 - Snap","product_score":"5.0","total_reviews":1},{"domain_key":"samsung-galaxy-case-Samsung Galaxy S5 - Snap","product_score":"5.0","total_reviews":1},{"domain_key":"samsung-galaxy-case-Samsung Galaxy S3 - Snap","product_score":"5.0","total_reviews":1},{"domain_key":"iphone-case-iphone_4_tough","product_score":"4.75","total_reviews":4},{"domain_key":"iphone-case-iphone_6_snap","product_score":"4.5","total_reviews":6},{"domain_key":"iphone-case-iphone_6plus_snap","product_score":"5.0","total_reviews":1},{"domain_key":"iphone-case-iphone_5_tough","product_score":"4.91","total_reviews":22},{"domain_key":"iphone-case-iphone_5c_tough","product_score":"5.0","total_reviews":5},{"domain_key":"iphone-case-iphone_5_snap","product_score":"4.8","total_reviews":10},{"domain_key":"iphone-case-iphone_6_tough","product_score":"4.92","total_reviews":25},{"domain_key":"iphone-case-iphone_5_skin","product_score":"5.0","total_reviews":2},{"domain_key":"samsung-galaxy-case-samsung_galaxy_s4_snap","product_score":"5.0","total_reviews":1},{"domain_key":"iphone-case-iphone_5c_snap","product_score":"5.0","total_reviews":3},{"domain_key":"scarf","product_score":"4.88","total_reviews":8},{"domain_key":"iphone-case-iphone_4_snap","product_score":"5.0","total_reviews":1},{"domain_key":"iphone-case-iphone_6plus_tough","product_score":"5.0","total_reviews":5},{"domain_key":"iphone-case-iphone_4_skin","product_score":"3.33","total_reviews":3},{"domain_key":"samsung-galaxy-case-samsung_galaxy_s4_tough","product_score":"4.67","total_reviews":3},{"domain_key":"samsung-galaxy-case-samsung_galaxy_s5_tough","product_score":"5.0","total_reviews":3},{"domain_key":"pencil-skirt","product_score":"4.5","total_reviews":6},{"domain_key":"samsung-galaxy-case-samsung_galaxy_s5_skin","product_score":"2.0","total_reviews":1},{"domain_key":"drawstring-bag","product_score":"5.0","total_reviews":11},{"domain_key":"spiral-notebook","product_score":"4.78","total_reviews":18},{"domain_key":"hardcover-journal","product_score":"5.0","total_reviews":3},{"domain_key":"womens-fitted-scoop","product_score":"4.46","total_reviews":26},{"domain_key":"laptop-sleeve","product_score":"5.0","total_reviews":1},{"domain_key":"womens-fitted-v-neck","product_score":"3.87","total_reviews":15},{"domain_key":"womens-relaxed-fit","product_score":"4.62","total_reviews":37},{"domain_key":"iphone-case-iphone_6s_snap","product_score":"4.62","total_reviews":13},{"domain_key":"iphone-case-iphone_6splus_tough","product_score":"4.83","total_reviews":6},{"domain_key":"iphone-case-iphone_6s_tough","product_score":"4.86","total_reviews":21},{"domain_key":"iphone-case-iphone_6splus_snap","product_score":"5.0","total_reviews":2},{"domain_key":"mens-graphic-t-shirt","product_score":"4.58","total_reviews":12},{"domain_key":"greeting-card-postcard","product_score":"5.0","total_reviews":3},{"domain_key":"classic-tee","product_score":"4.88","total_reviews":32},{"domain_key":"triblend-tee","product_score":"5.0","total_reviews":12},{"domain_key":"chiffon-top","product_score":"4.67","total_reviews":3},{"domain_key":"iphone-wallet","product_score":"5.0","total_reviews":3},{"domain_key":"samsung-galaxy-case-samsung_galaxy_s7_tough","product_score":"4.5","total_reviews":2},{"domain_key":"samsung-galaxy-case-samsung_galaxy_s6_tough","product_score":"5.0","total_reviews":1},{"domain_key":"contrast-tank","product_score":"4.0","total_reviews":2},{"domain_key":"graphic-t-shirt-dress","product_score":"5.0","total_reviews":3},{"domain_key":"lightweight-hoodie","product_score":"5.0","total_reviews":5},{"domain_key":"tapestry","product_score":"5.0","total_reviews":1},{"domain_key":"iphone-case-iphone_7_tough","product_score":"5.0","total_reviews":1},{"domain_key":"iphone-case-iphone_7plus_snap","product_score":"5.0","total_reviews":1},{"domain_key":"iphone-case-iphone_7plus_tough","product_score":"5.0","total_reviews":3},{"domain_key":"clock","product_score":"5.0","total_reviews":1}]
+        }
+      });
+
+    });
+  </script>
+
+
+  <script type='text/javascript'>
+    var url = 'https://www.redbubble.com/people/ritmoboxers/works/13289124-chihuahua-dog/carousel';
+
+    var loadCarousel = function () {
+      RB.trackEvent('Work Page', 'on-demand-load', 'more-work');
+      $(window).off('scroll', loadCarouselIfVisible);
+      $('#load_carousel_link').off('click', loadCarousel);
+
+      $.get(url, function(data, status) {
+        $('#carousel-placeholder').replaceWith(data);
+      });
+    }
+
+    var loadCarouselIfVisible = function () {
+      if (isCarouselVisible($('#carousel-placeholder'))) {
+        loadCarousel();
+      }
+    }
+
+    if (isCarouselVisible($('#carousel-placeholder'))) {
+      loadCarousel();
+    } else {
+      $(window).on('scroll', loadCarouselIfVisible);
+      $('#load_carousel_link').on('click', loadCarousel);
+    }
+  </script>
+  <script type="text/javascript">
+    $(function() {
+      var nav = new MobileNav();
+      nav.initialise();
+
+      // ***************************************
+      // Site Search
+      // ***************************************
+      $('.site-search-toggle').click(function(event) {
+        event.preventDefault();
+
+        var navMain = $(this).closest('.nav-main');
+        navMain.toggleClass('search-visible');
+
+        if (navMain.hasClass('search-visible')) {
+          $('.site-search-query').focus();
+        }
+      });
+    });
+  </script>
+  <script type="text/javascript">
+    $(function() {
+      var topMenu = new ScrollableMenu($("#global-product-nav .top"), "horizontal");
+      topMenu.scrollToActiveItem();
+
+      var subMenu = new ScrollableMenu($("#global-product-nav .sub"), "horizontal");
+      subMenu.scrollToActiveItem();
+    });
+  </script>
+        <script src="https://d3spquiph2sexc.cloudfront.net/assets/email_subscription-62129493b7cf30adc8f91ec66b20f4d36ba80a8824bc077a47880a5e68a980e7.js"></script>
+
+        <script type="text/javascript">
+          $(function() {
+            var emailSubscription = new EmailSubscription($(".footer-subscribe"), "footer", function() {
+              self.$("#footer-subscribe-form").hide();
+              self.$("#footer-subscribe-thanks").fadeIn(300);
+            });
+            emailSubscription.initialise();
+
+            $('.footer-subscribe_input')
+            .focus(function () {
+              $('.footer-subscribe_placeholder-reminder').css('visibility', 'visible')
+            })
+            .blur(function () {
+              $('.footer-subscribe_placeholder-reminder').css('visibility', 'hidden')
+            });
+          });
+        </script>
+
+          <script type="text/javascript">
+          window.rbEnv = 'production';
+        </script>
+        <script src="https://d3spquiph2sexc.cloudfront.net/assets/webpack/commons-f387ea7f4017f8aa07bfd7a8799ce50c20f7d0be9953bf47bfa32fec019a08cd.js"></script> <script src="https://d3spquiph2sexc.cloudfront.net/assets/webpack/work_page-194a6367bbf0787638516202d5d1bde287fd5ac7b472b93be3899f415ea66672.js"></script> <script src="https://d3spquiph2sexc.cloudfront.net/assets/webpack/cookie_banner-f53f6c4de081b617517e3f4b58d020b9a9a7e50dc8946573317855bff34e9b11.js"></script> <script src="https://d3spquiph2sexc.cloudfront.net/assets/webpack/bootstrap-2d6eea1f075564d028127b43df848fc4cb673a5436f4fc6a60371d19338a2ecc.js"></script>
+
+
+  
+  
+
+  
+
+  
+
+  <!--[if IE]>
+  <script type="text/javascript" >
+    RB.unsupportedIE();
+  </script>
+  <![endif]-->
+
+
+
+</body>
+</html>
+

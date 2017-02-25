@@ -1,0 +1,1542 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head prefix="og: http://ogp.me/ns#">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />	<title>ドリコム、勉強会「Drecom Tech Espresso」を立ち上げへ　第1弾「100万ダウンロード突破!ダビマス開発の裏側大公開!」を2月28日に開催 | Social Game Info</title>
+	<meta name="description" content="ドリコム&amp;lt;3793&amp;gt;は、同社主催の勉強会「Drecom Tech Espresso」を立ち上げたことを発表した。「Drecom Tech Espresso」とは、ドリコムが不定期で主催・運..."/>
+	<meta name="keywords" content="セミナー,ドリコム,ゲーム,ソーシャル"/>
+			<meta property="og:type" content="website"/>
+		<meta property="og:site_name" content="Social Game Info"/>
+		<meta property="og:title" content="ドリコム、勉強会「Drecom Tech Espresso」を立ち上げへ　第1弾「100万ダウンロード突破!ダビマス開発の裏側大公開!」を2月28日に開催 | Social Game Info"/>
+		<meta property="og:description" content="ドリコム&amp;lt;3793&amp;gt;は、同社主催の勉強会「Drecom Tech Espresso」を立ち上げたことを発表した。「Drecom Tech Espresso」とは、ドリコムが不定期で主催・運..."/>
+				<meta property="og:image" content="https://i2.gamebiz.jp/images/original/90115543158a55308c7f990020.jpg" />
+		<meta property="og:url" content="http://gamebiz.jp/?p=178708"/>
+		<meta property="fb:app_id" content="518332841562642"/>
+					<link rel="canonical" href="http://gamebiz.jp/?p=178708"/>
+				<!--[if lt IE 9]>
+		<script type="text/javascript" src="//i.gamebiz.jp/js/html5shiv.js"></script>		<script type="text/javascript" src="//i.gamebiz.jp/js/html5shiv-printshiv.js"></script>		<script type="text/javascript" src="//i.gamebiz.jp/js/selectivizr.js"></script>		<script type="text/javascript" src="//i.gamebiz.jp/js/respond.min.js"></script>	<![endif]-->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	
+	<link rel="alternate"  type="application/rss+xml"  href="http://gamebiz.jp/?feed=rss">
+			<link href="/favicon.ico" type="image/x-icon" rel="icon" /><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />	
+	<link rel="stylesheet" type="text/css" href="//i.gamebiz.jp/css/bootstrap.min.css" />
+	<link rel="stylesheet" type="text/css" href="//i.gamebiz.jp/css/touchcarousel.css" />
+	<link rel="stylesheet" type="text/css" href="//i.gamebiz.jp/css/screen2.201503241320.css?jfhwxkg5" />
+	<link rel="stylesheet" type="text/css" href="//i.gamebiz.jp/css/article2.css?jfhwxkg3" />
+	<link rel="stylesheet" type="text/css" href="//i.gamebiz.jp/css/pager.css" />
+	<link rel="stylesheet" type="text/css" href="//i.gamebiz.jp/css/preregist_ranking.css" />
+	<link rel="stylesheet" type="text/css" href="//i.gamebiz.jp/css/point_reset.css" />
+	
+	<link rel="stylesheet" type="text/css" href="//i.gamebiz.jp/css/article_news.css" /><link rel="stylesheet" type="text/css" href="//i.gamebiz.jp/css/article_detail.css" />
+	<script type="text/javascript" src="//i.gamebiz.jp/js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="//i.gamebiz.jp/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="//i.gamebiz.jp/js/jquery.touchcarousel-1.2.min.js"></script>
+	<script type="text/javascript" src="//i.gamebiz.jp/js/jquery.carouFredSel-6.2.1.js"></script>
+	<script type="text/javascript" src="//i.gamebiz.jp/js/sidebar.js"></script>
+	<script type="text/javascript" src="//i.gamebiz.jp/js/heightLine.js"></script>
+	<script type="text/javascript" src="//i.gamebiz.jp/js/common.js?jfhwxkg"></script>
+	
+	<script type="text/javascript" src="//i.gamebiz.jp/js/sns.js"></script>	<script>!function (d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
+			if (!d.getElementById(id)) {
+				js = d.createElement(s);
+				js.id = id;
+				js.src = p + '://platform.twitter.com/widgets.js';
+				fjs.parentNode.insertBefore(js, fjs);
+			}
+		}(document, 'script', 'twitter-wjs');</script>
+			<script src='http://a.adimg.net/javascripts/AdLantisLoader.js' type='text/javascript' charset='utf-8'></script>
+		<script type='text/javascript'>var _merchantSettings = _merchantSettings || [];
+		_merchantSettings.push(['AT', '10l8vR']);
+		_merchantSettings.push(['AT', '']);
+		(function () {
+			var autolink = document.createElement('script');
+			autolink.type = 'text/javascript';
+			autolink.async = true;
+			autolink.src = 'https://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js';
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(autolink, s);
+		})();</script>
+
+			<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-25189508-1', 'auto');
+		ga('send', 'pageview');
+		</script>
+	
+		
+		
+			
+</head>
+<body >
+<div id="fb-root"></div>
+<script>(function (d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s);
+		js.id = id;
+		js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.2&appId=518332841562642";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+
+<div class="top_header_view clearfix">
+			<header
+		class="head-home clearfix">
+		<div class="head1 clearfix">
+			<h1>ドリコムに関するスマホアプリ＆ソーシャルゲームセミナー記事</h1>
+
+			<div class="logo clearfix">
+				<a href="/">
+					<img src="//i.gamebiz.jp/img/static/logo.png" alt="Social Game Info" border="0"
+					     class="logo"/>
+				</a>
+			</div>
+
+			<div class="search-area clearfix">
+				<div style="position: absolute;top: -25px;right: -28px;font-size: 10px">
+					<a href="http://www.google.co.jp"><img src="//i.gamebiz.jp/img/static/google.gif"></a>
+					Custom Search
+				</div>
+				<form class="form-inline" role="form" method="GET" action="/search" id="searchAll">
+					<div class="form-inner01">
+						<input type="search" class="form-control search-box display-inline" name="keyword">
+					</div>
+					<div class="form-inner02">
+						<button type="submit" class="btn search-btn header-btn">記事検索</button>
+					</div>
+					<div class="form-inner03">
+						<button type="submit" class="btn search-btn header-btn company-search-btn" pos="searchAll"
+						        onClick="return false;">企業検索
+						</button>
+					</div>
+				</form>
+			</div>
+		</div>
+											</header>
+	<!-- /.head -->
+			<div id="hero-area">
+	<div class="sns_header">
+		<a href="https://www.facebook.com/SocialGameInfo" target="_blank">
+			<img src="//i.gamebiz.jp/img/static/facebook_icn.png" alt="facebook">
+		</a>
+		<a href="https://twitter.com/socialgameinfo" target="_blank">
+			<img src="//i.gamebiz.jp/img/static/twitter_icn.png" alt="twitter">
+		</a>
+		<a href="/?feed=rss" target="_blank">
+			<img src="//i.gamebiz.jp/img/static/rss_icn.png" alt="rss">
+		</a>
+		<a href="http://b.hatena.ne.jp/add?mode=confirm&url=http://gamebiz.jp&title=SocialGameInfo"
+		   title="このエントリーをはてなブックマークに追加" target="_blank">
+			<img src="//i.gamebiz.jp/img/static/hatebu_icn.png" alt="hatena_bookmark">
+		</a>
+	</div>
+	<nav>
+				<ul class="nav nav-tabs clearfix">
+			<li class="pick active ">
+				<a class="topnav1" href="#pickup" data-toggle="tab">ピックアップ</a>
+			</li>
+			<li>
+				<a class="topnav2" href="#articles" data-toggle="tab">最新記事一覧</a>
+			</li>
+			<li>
+				<a href="/company">企業データベース</a>			</li>
+			<li>
+				<a href="/offer">業界求人情報</a>			</li>
+			<li>
+				<a href="/article/category/9">事前登録</a>			</li>
+		</ul>
+		<div class="menu_active" style="display:none;">1</div>
+	</nav>
+				<div class="tab-content clearfix">
+
+								<div class="showtab1 tab-pane active" id="pickup">
+						<article class='pickupContent'>
+		<a href="http://gamebiz.jp/article/tag/16%E5%B9%B410-12%E6%9C%88%E6%B1%BA%E7%AE%97">
+		<img
+	src="https://i2.gamebiz.jp/images/152x114/186361623358857f2b6a4f67.15842360-152x114.jpg" alt="【10-12月期決算特集】好調なスマホゲーム企業はどこか？"/>		</a>
+
+				<a href="http://gamebiz.jp/article/tag/16%E5%B9%B410-12%E6%9C%88%E6%B1%BA%E7%AE%97">【10-12月期決算特集】好調なスマホゲーム企業はどこか？</a>
+
+	</article>
+			<article class='pickupContent'>
+		<a href="http://gamebiz.jp/?p=179220">
+		<img
+	src="https://i2.gamebiz.jp/images/152x114/168036163158afcb0b544853.21882889-152x114.jpg" alt="Metapsセミナー　中国・台湾・韓国アプリ市場の最新事情が明らかに"/>		</a>
+
+				<a href="http://gamebiz.jp/?p=179220">Metapsセミナー　中国・台湾・韓国アプリ市場の最新事情が明らかに</a>
+
+	</article>
+			<article class='pickupContent'>
+		<a href="http://gamebiz.jp/?p=178094">
+		<img
+	src="https://i2.gamebiz.jp/images/152x114/7406907058a2846cbc6fe1.08555424-152x114.jpg" alt="Cygames、『シャドウバース』におけるローカライズの展望とは"/>		</a>
+
+				<a href="http://gamebiz.jp/?p=178094">Cygames、『シャドウバース』におけるローカライズの展望とは</a>
+
+	</article>
+			<article class='pickupContent'>
+		<a href="http://gamebiz.jp/?p=178516">
+		<img
+	src="https://i2.gamebiz.jp/images/152x114/135129952458a53455e1c104.86671502-152x114.jpg" alt="板垣氏連載Vol.11　闘会議2017に行ってきた"/>		</a>
+
+				<a href="http://gamebiz.jp/?p=178516">板垣氏連載Vol.11　闘会議2017に行ってきた</a>
+
+	</article>
+			<article class='pickupContent'>
+		<a href="http://gamebiz.jp/?p=176522">
+		<img
+	src="https://i2.gamebiz.jp/images/152x114/125056890858818081264ae5.13355663-152x114.jpeg" alt="XFLAG スタジオ、新卒向けエンジニアイベントを2/24に開催"/>		</a>
+
+				<a href="http://gamebiz.jp/?p=176522">XFLAG スタジオ、新卒向けエンジニアイベントを2/24に開催</a>
+
+	</article>
+			<article class='pickupContent last'>
+		<a href="http://gamebiz.jp/?p=177833">
+		<img
+	src="https://i2.gamebiz.jp/images/152x114/1360542052589bc6ee5cfcf8.97522362-152x114.jpg" alt="アプリの「重い」「落ちる」を解消する APMツールの真価とは"/>		</a>
+
+				<a href="http://gamebiz.jp/?p=177833">アプリの「重い」「落ちる」を解消する APMツールの真価とは</a>
+
+	</article>
+					</div>
+			<div class="showtab2 tab-pane" id="articles">
+				<div class="row">
+					<div class="col-md-12 LatestNewsIndex">
+						<ul>
+															<li
+									class="even gray">
+									<a href="/?p=179236">ディ・テクノ、『一騎当千～Straight Striker～』で「趙雲子龍」が手に入る[…]</a>								</li>
+																<li
+									class="odd gray">
+									<a href="/?p=179266">Moregeek Entertainment、『オービットレジェンド』でイベント「フレイ vs […]</a>								</li>
+																<li
+									class="even white">
+									<a href="/?p=179231">パオン・ディーピー、『エイリアンのたまご』のプレミアムガチャに新エイリ[…]</a>								</li>
+																<li
+									class="odd white">
+									<a href="/?p=179280">スクエニ、『サムライ ライジング』で新マルチイベント「神衣の守り手」を[…]</a>								</li>
+																<li
+									class="even gray">
+									<a href="/?p=179210">ズー、『りっく☆じあ～す』でサービス開始から1周年突破を記念したイベント[…]</a>								</li>
+																<li
+									class="odd gray">
+									<a href="/?p=179275">DMM GAMES、本格和製3Dストラテジー超大作『クラッシュ・オブ・パンツァー[…]</a>								</li>
+																<li
+									class="even white">
+									<a href="/?p=179257">マーベラス、『ハイスクールＤ×Ｄ』でガチャボスイベント「冥界の勇者と捕[…]</a>								</li>
+																<li
+									class="odd white">
+									<a href="/?p=179273">バンナム、『スーパーロボット大戦X-Ω』でイベント「落ちるは永遠のごとく[…]</a>								</li>
+																<li
+									class="even gray">
+									<a href="/?p=179232">マーベラス、子会社リンクシンクを吸収合併…事実上の休眠会社、グループ経[…]</a>								</li>
+																<li
+									class="odd gray">
+									<a href="/?p=179207">NHN PlayArt、『DAME×PRINCE』のキャラクターCDシリーズ第三弾リュゼ編を本[…]</a>								</li>
+																<li
+									class="even white">
+									<a href="/?p=179248">サイバード、「イケメン頂上決定戦」～イケメンシリーズ総選挙～に合わせリ[…]</a>								</li>
+																<li
+									class="odd white">
+									<a href="/?p=179219">ミストウォーカー、『テラバトル』でメインクエスト第38章「ライファーの涙[…]</a>								</li>
+																<li
+									class="even gray">
+									<a href="/?p=179218">マイネット、『妖怪百姫たん！』で成長譚「雪まつりを守れ」を復刻開催　「[…]</a>								</li>
+																<li
+									class="odd gray">
+									<a href="/?p=179256">HarvesT、『スクールスタードリーム～カミオシ！～』で配信開始1ヶ月を記念[…]</a>								</li>
+																					</ul>
+					</div>
+				</div>
+			</div>
+			<div class="tab-pane" id="corporate-database">企業データベース</div>
+			<div class="tab-pane" id="job-listing">業界求人情報</div>
+		</div>
+
+
+	</div>
+	<!-- /#hero-area -->
+	
+										<nav class="global clearfix topmargin">
+				<ul class="clearfix">
+											<li><a href="/article/category/1">決算</a></li>
+											<li><a href="/article/category/2">ランキング</a></li>
+											<li><a href="/article/category/3">インタビュー</a></li>
+											<li><a href="/article/category/5">新作</a></li>
+											<li><a href="/article/category/6">アプリ調査</a></li>
+											<li><a href="/article/category/7">セミナー</a></li>
+											<li><a href="/article/category/9">事前登録</a></li>
+											<li><a href="/article/category/10">イベント</a></li>
+											<li><a href="/article/category/11">人事</a></li>
+											<li><a href="/article/category/13">海外展開</a></li>
+											<li><a href="/article/category/14">資金調達</a></li>
+											<li><a href="/article/category/16">株式</a></li>
+											<li><a href="/article/category/24">連載</a></li>
+											<li><a href="/article/category/25">VR</a></li>
+									</ul>
+			</nav>
+				</div>
+<div class="container-non-responsive">
+
+		
+		<div class="content">
+						<script type="text/javascript" src="//i.gamebiz.jp/js/ie8.js"></script>
+<style>
+			</style>
+
+	
+<div class="main clearfix">
+<section>
+<div class="pankuzu">
+	<a href="/">TOP</a> &gt; <a href="/article">記事</a> &gt; ドリコム、勉強会「Drecom Tech Espresso」...	</div>
+
+<div class='article_view'>
+
+<header>
+	<!-- カテゴリタグ -->
+	<div class="CategoriyTag">
+					<a href="/article/category/7">
+				セミナー			</a>
+					
+					<a class="CategoryTag2" href="/article/tag/ドリコム">
+				ドリコム			</a>
+			</div>
+	<!--/カテゴリタグ-->
+
+	<h1>ドリコム、勉強会「Drecom Tech Espresso」を立ち上げへ　第1弾「100万ダウンロード突破!ダビマス開発の裏側大公開!」を2月28日に開催</h1>
+
+	<div class="articleDate">
+		<time
+			datetime="2017-02-17 09:19">2017年02月17日 09時19分更新</time>
+	</div>
+</header>
+
+
+	<div class="kijitop2">
+		<div class="ArticlesnsButton clearfix">
+	<div class="fb-like"
+	     data-href="http://gamebiz.jp/?p=178708"
+	     data-width="70" data-layout="box_count" data-show-faces="false" data-send="false">
+	</div>
+
+	<div class="tweet_button">
+	<a class="arrow_box" href="//twitter.com/search?q=http://gamebiz.jp/?p=178708" target="_blank">リスト</a>
+	<a href="https://twitter.com/share" class="twitter-share-button" data-lang="ja" data-count="vertical"
+	   data-url="http://gamebiz.jp/?p=178708">ツイート</a>
+	<script>!function (d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
+			if (!d.getElementById(id)) {
+				js = d.createElement(s);
+				js.id = id;
+				js.src = p + '://platform.twitter.com/widgets.js';
+				fjs.parentNode.insertBefore(js, fjs);
+			}
+		}(document, 'script', 'twitter-wjs');</script>
+	</div>
+
+	<a
+		href="http://b.hatena.ne.jp/entry/http://gamebiz.jp/?p=178708"
+		class="hatena-bookmark-button" data-hatena-bookmark-title="Social Game Info"
+		data-hatena-bookmark-layout="vertical-balloon" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img
+			src="http://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20"
+			height="20" style="border: none;"/></a>
+	<script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8"
+	        async="async"></script>
+
+	<!-- +1 ボタン を表示したい位置に次のタグを貼り付けてください。 -->
+	<div class="g-plusone" data-size="tall"
+	     data-href="http://gamebiz.jp/?p=178708"></div>
+
+	<!-- 最後の +1 ボタン タグの後に次のタグを貼り付けてください。 -->
+	<script type="text/javascript">
+		window.___gcfg = {lang: 'ja'};
+
+		(function () {
+			var po = document.createElement('script');
+			po.type = 'text/javascript';
+			po.async = true;
+			po.src = 'https://apis.google.com/js/plusone.js';
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+</div>
+		<!--企業DBここ-->
+					<ul class="companyDBThumbs">
+									<li>
+						<div class="cmp_tag">
+							<div class="cmp_data">
+								<a href="/company/13"><img
+										src="https://i2.gamebiz.jp/images/80x60/110203drecom-80x60.jpg"
+										class="img_tag" alt=""/></a>
+
+								<div class="cmp_txt">企業データ</div>
+							</div>
+						</div>
+					</li>
+							</ul>
+				<!--/企業DBここ-->
+	</div>
+
+<span class="clear"></span>
+
+			<!-- 注目キーワード -->
+		<div class="Chumokuwords">
+			<h4>注目ワード&nbsp;:&nbsp;</h4>
+				<ul class="pickwd">
+							<li>
+									<a
+						href="/article/tag/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A2%E3%83%B3%E3%82%B5%E3%83%BC">スマートアンサー</a>
+							</li>
+					<li>
+									<a
+						href="/article/tag/%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC+%E3%83%9E%E3%82%B8%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%BB%E3%82%AF%E3%83%AD%E3%83%8B%E3%82%AF%E3%83%AB">ディズニー マジシャン・クロニクル</a>
+							</li>
+					<li>
+									<a
+						href="/article/tag/circle+duo">circle duo</a>
+							</li>
+			</ul>
+		</div>
+		<!-- /注目キーワード -->
+	
+<article>
+
+	<div class="article_body_view clearfix clear">
+		<div style="text-align:center"><img src="https://i2.gamebiz.jp/images/original_logo/90115543158a55308c7f990020-1487229708.jpg" /></div>
+<br />
+ドリコム&lt;3793&gt;は、同社主催の勉強会「Drecom Tech Espresso」を立ち上げたことを発表した。<br />
+<br />
+「Drecom Tech Espresso」とは、ドリコムが不定期で主催・運営する「技術勉強会」。ドリコムでは「with entertainment～人々の期待を超える～」という考え方を大切にしており、日々技術者たちは、期待を超えるサービスを産み続けるために最先端技術を追い求め、切磋琢磨している。これまでにも社内で共有の場を持ったり、勉強会を行っていたが、今後は外部の方も参加できるような会に、またエンジニアやプログラマだけに限らず、デザイナやプランナなど職種ごとにテーマを設けて開催していきたいと考えているという。このイベントを通して、「ドリコム」という会社、「ドリコム」のものづくりを知るきっかけとなることを目指すとのこと。<br />
+&nbsp;<br />
+第1弾のイベントは、「Drecom Tech Espresso #1 100万ダウンロード突破!ダビマス開発の裏側大公開!」をドリコムカフェにて開催予定だ。申し込みページから参加申し込みが可能となっている。<br />
+<br />
+（以下、プレスリリースより）<br />
+&nbsp;<br />
+◆日程<br />
+2017年2月28日(火)19:30～22:00(予定)<br />
+&nbsp;<br />
+◆会場<br />
+株式会社ドリコム 本社<br />
+東京都目黒区下目黒1-8-1 アルコタワー17F<br />
+<a href="http://www.drecom.co.jp/company/accessmap/">http://www.drecom.co.jp/company/accessmap/</a><br />
+&nbsp;<br />
+◆登壇者<br />
+株式会社ドリコム サーバサイドエンジニア 神谷 健<br />
+金融系企業を経て2013年ドリコムに中途入社。ダビマスでPM/サーバサイドを担当。<br />
+&nbsp;<br />
+株式会社ドリコム クライアントサイドエンジニア 西村 拓也<br />
+2007年コンシューマゲーム開発会社に新卒入社後、専門学校のゲームプログラムの講師やソーシャルゲーム制作を経て 2014年ドリコムに入社、2015年よりダビマスのクライアントエンジニアリーダーを担当。<br />
+レースロジックや、画面遷移制御系を主に実装。<br />
+&nbsp;<br />
+◆登壇内容<br />
+第1回目は、100万ダウンロードを突破した、「ダビマス」こと「ダービースタリオン マスターズ」の開発に携わったサーバサイドエンジニアの神谷とクライアントサイドエンジニアの西村が、開発の裏話を語ります。<br />
+今回テーマとする「ダービースタリオン マスターズ」については、西村が弊社の技術ブログ※「Tech Inside Drecom」に「チュートリアルのデータ化」というタイトルで記事を公開していますが、サーバサイドからクライアントサイドまでを通して知見を公開するのは初めての試みとなります。<br />
+&nbsp;<br />
+【参考】チュートリアルのデータ化 - ＜Tech Inside Drecom＞<br />
+<a href="https://tech.drecom.co.jp/data-conversion-of-tutorial/">https://tech.drecom.co.jp/data-conversion-of-tutorial/</a><br />
+神谷：ダビマス開発の裏側 サーバサイド編<br />
+西村：ダビマスUIフレームワーク開発事例<br />
+&nbsp;<br />
+◆参加資格<br />
+IT業界でプログラマ、エンジニアとして働いている社会人、または志している学生<br />
+※人事・人材紹介会社の方はご遠慮ください。<br />
+&nbsp;<br />
+◆参加費<br />
+無料<br />
+&nbsp;<br />
+◆募集人数<br />
+20人（※増枠する可能性があります）<br />
+&nbsp;<br />
+◆募集期間<br />
+2017年2月1日(水)18:30～2017年2月28日(火)17:30<br />
+&nbsp;<br />
+◆申し込みページ<br />
+<a href="https://drecom.connpass.com/event/49585/">https://drecom.connpass.com/event/49585/</a><br />
+&nbsp;<br />
+◆主催<br />
+株式会社ドリコム	</div>
+	
+
+
+			<div class="gad">
+			
+	<script type="text/javascript"><!--
+		google_ad_client = "ca-pub-8823499446830969";
+		/* 300x250, 作成済み 11/08/20 */
+		google_ad_slot = "3472464138";
+		google_ad_width = 300;
+		google_ad_height = 250;
+		//-->
+	</script>
+	<script type="text/javascript"
+	        src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+	</script>
+		</div>
+		<div>
+					<div class="art_btm">
+				<div class="ml-10"><div class="ArticlesnsButton2 clearfix">
+	<div class="fb-like"
+	     data-href="http://gamebiz.jp/?p=178708"
+	     data-width="70" data-layout="box_count" data-show-faces="false" data-send="false"></div>
+
+	<div class="tweet_button">
+	<a class="arrow_box" href="//twitter.com/search?q=http://gamebiz.jp/?p=178708" target="_blank">リスト</a>
+	<a href="https://twitter.com/share" class="twitter-share-button" data-lang="ja" data-count="vertical"
+	   data-url="http://gamebiz.jp/?p=178708">ツイート</a>
+	<script>!function (d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
+			if (!d.getElementById(id)) {
+				js = d.createElement(s);
+				js.id = id;
+				js.src = p + '://platform.twitter.com/widgets.js';
+				fjs.parentNode.insertBefore(js, fjs);
+			}
+		}(document, 'script', 'twitter-wjs');</script>
+	</div>
+
+	<a
+		href="http://b.hatena.ne.jp/entry/http://gamebiz.jp/?p=178708"
+		class="hatena-bookmark-button" data-hatena-bookmark-title="Social Game Info"
+		data-hatena-bookmark-layout="vertical-balloon" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img
+			src="http://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20"
+			height="20" style="border: none;"/></a>
+	<script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8"
+	        async="async"></script>
+
+	<!-- +1 ボタン を表示したい位置に次のタグを貼り付けてください。 -->
+	<div class="g-plusone" data-size="tall"
+	     data-href="http://gamebiz.jp/?p=178708"></div>
+
+	<!-- 最後の +1 ボタン タグの後に次のタグを貼り付けてください。 -->
+	<script type="text/javascript">
+		window.___gcfg = {lang: 'ja'};
+
+		(function () {
+			var po = document.createElement('script');
+			po.type = 'text/javascript';
+			po.async = true;
+			po.src = 'https://apis.google.com/js/plusone.js';
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+</div>
+</div>
+			</div>
+				<div class="Links">
+																		<h5 class="a_link MoreRead"><a href="/company/13">
+								【株式会社ドリコム】の企業データはこちら
+							</a></h5>
+																			<h5 class="a_link MoreRead">
+					<a href="/article/category/7">
+						【セミナー】関連記事はこちら
+					</a>
+				</h5>
+					</div>
+	</div>
+</article>
+
+<div class="clear clearfix"></div>
+
+<!-- 関連記事 -->
+<section class='awasete_area'>
+				<h2 class="clear clearfix">
+						あわせて読みたい（
+			<a href='/article/tag/ドリコム'>ドリコム</a>			）
+		</h2>
+		<div class="awasete">
+										<div class='topnews art0'>				<div class="awaseta_kiji box_link">
+					<article>
+						<div class="awaseta_inner">
+							<div class="awaseta_img_box">
+								<img
+	src="https://i2.gamebiz.jp/images/80x60/130517drecomlogo-201305-80x60.jpg" alt="【ゲーム株概況(2/24)】新作位置情報ゲーム材料にモバファクが連日の急伸　ドリコムは最大9.8億円の資金調達でIPゲーム開発加速に期待も　" class="awaseta_img"/>							</div>
+							<header class="awaseta_txt">
+								<a href="/?p=179245">
+									【ゲーム株概況(2/24)】新作位置情報ゲーム材料にモバファクが連日の急伸　ドリコムは最大9.8億円の資金調達でIPゲーム開発加速に期待も　								</a>
+
+								<p class="awaseta_date">
+									<time
+										datetime="2017-02-24 17:02">2017年02月24日 17時02分</time>
+								</p>
+							</header>
+						</div>
+						<div class="clear clearfix"></div>
+						<div class='reset'>
+							<div class="sns">
+										<div class="tw-btn">
+		<a href="https://twitter.com/share" class="twitter-share-button" data-lang="ja" data-url="http://gamebiz.jp/?p=179245"
+		   data-text="【ゲーム株概況(2/24)】新作位置情報ゲーム材料にモバファクが連日の急伸　ドリコムは最大9.8億円の資金調達でIPゲーム開発加速に期待も　">Tweet</a>
+		<span class="social-balloon">
+		<a href="//twitter.com/search?q=http%3A%2F%2Fgamebiz.jp%2F%3Fp%3D179245" target="_blank">リスト</a>
+		</span>
+	</div>
+	<div class="hateb-area01"><a href="http://b.hatena.ne.jp/entry/http://gamebiz.jp/?p=179245"
+	                             class="hatena-bookmark-button border-none" data-hatena-bookmark-layout="simple-balloon"
+	                             title="このエントリーをはてなブックマークに追加"><img
+				src="http://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマー>クに追加" width="20"
+				height="20"/></a>
+	</div>
+	<div class="fb-like" data-href="http://gamebiz.jp/?p=179245" data-width="100" data-layout="button_count"
+	     data-show-faces="true" data-send="false"></div>
+
+							</div>
+						</div>
+					</article>
+				</div>
+																			<div class="awaseta_kiji box_link">
+					<article>
+						<div class="awaseta_inner">
+							<div class="awaseta_img_box">
+								<img
+	src="https://i2.gamebiz.jp/images/80x60/130517drecomlogo-201305-80x60.jpg" alt="ドリコム、公募増資と第三者割当増資で最大9.8億円を調達　IPソーシャルゲームの開発・運用のための借入金返済に充当、財務基盤を強化" class="awaseta_img"/>							</div>
+							<header class="awaseta_txt">
+								<a href="/?p=179075">
+									ドリコム、公募増資と第三者割当増資で最大9.8億円を調達　IPソーシャルゲームの開発・運用のための借入金返済に充当、財務基盤を強化								</a>
+
+								<p class="awaseta_date">
+									<time
+										datetime="2017-02-22 16:02">2017年02月22日 16時02分</time>
+								</p>
+							</header>
+						</div>
+						<div class="clear clearfix"></div>
+						<div class='reset'>
+							<div class="sns">
+										<div class="tw-btn">
+		<a href="https://twitter.com/share" class="twitter-share-button" data-lang="ja" data-url="http://gamebiz.jp/?p=179075"
+		   data-text="ドリコム、公募増資と第三者割当増資で最大9.8億円を調達　IPソーシャルゲームの開発・運用のための借入金返済に充当、財務基盤を強化">Tweet</a>
+		<span class="social-balloon">
+		<a href="//twitter.com/search?q=http%3A%2F%2Fgamebiz.jp%2F%3Fp%3D179075" target="_blank">リスト</a>
+		</span>
+	</div>
+	<div class="hateb-area01"><a href="http://b.hatena.ne.jp/entry/http://gamebiz.jp/?p=179075"
+	                             class="hatena-bookmark-button border-none" data-hatena-bookmark-layout="simple-balloon"
+	                             title="このエントリーをはてなブックマークに追加"><img
+				src="http://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマー>クに追加" width="20"
+				height="20"/></a>
+	</div>
+	<div class="fb-like" data-href="http://gamebiz.jp/?p=179075" data-width="100" data-layout="button_count"
+	     data-show-faces="true" data-send="false"></div>
+
+							</div>
+						</div>
+					</article>
+				</div>
+				</div>									</div>
+	</section>
+<!-- /関連記事 -->
+
+<div class="clear clearfix"></div>
+
+<!-- 前後の記事 -->
+<section class="PreviousAndNext clearfix">
+	<!-- 戻る -->
+			<article>
+			<div class="previousArrow">
+				<a href="/?p=178678"><img
+						src="//i.gamebiz.jp/img/static/articlearrow_previous.png" border="0" alt=""/></a>
+			</div>
+			<div class="PreviousArticle">
+				<img
+	src="https://i2.gamebiz.jp/images/80x60/130515fancommunicationslogo-201305-80x60.jpg" alt="ファンコミ、17年1月の月次売上高は前年比5.6％増…CPA型アドネットワーク事業が再び2ケタの伸びに　「nend」などCPC/ターゲティング型は低迷" class="img_border"/>				<h3 class='reset over'>
+					<a href="/?p=178678">
+						ファンコミ、17年1月の月次売上高は前年比5.6％増…CPA型アドネットワーク事業が再び2ケタの伸びに　「nend」などCPC/ターゲティング型は低迷					</a>
+				</h3>
+			</div>
+		</article>
+		<!-- /戻る -->
+	<!-- 次に進む -->
+			<article>
+			<div class="NextArticle ">
+				<img
+	src="https://i2.gamebiz.jp/images/80x60/201721590958a5159f3b9270020-80x60.jpg" alt="【おはようSGI】Aiming、モブキャスト決算説明会　『GOD EATER』リリース　『はねろ！コイキング』『SINoALICE』『モバイル リネージュ ヘイスト』発表" class="img_border"/>				<h3 class='reset over'>
+					<a href="/?p=178735">
+						【おはようSGI】Aiming、モブキャスト決算説明会　『GOD EATER』リリース　『はねろ！コイキング』『SINoALICE』『モバイル リネージュ ヘイスト』発表					</a>
+				</h3>
+			</div>
+			<div class="NextArrow">
+				<a href="/?p=178735">
+					<img src="//i.gamebiz.jp/img/static/articlearrow_next.png" alt="次へ"/>
+				</a>
+			</div>
+		</article>
+		<!-- /次に進む -->
+</section>
+<!-- 前後の記事 -->
+
+	<div id="adsense" class="mt20">
+	<div class="adsense-box">
+		<script type="text/javascript"><!--
+			google_ad_client = "ca-pub-8823499446830969";
+			/* 【新規PC】テキスト広告(1) */
+			google_ad_slot = "6224982697";
+			google_ad_width = 468;
+			google_ad_height = 60;
+			//-->
+		</script>
+		<script type="text/javascript"
+		        src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+		</script>
+	</div>
+</div>
+
+						<section class="NonChargedCompanyArea">
+	<h2>企業情報（株式会社ドリコム）</h2>
+	<table class="companyInfo">
+		<tr>
+			<th class="shima">会社名</th>
+			<td class="shima">株式会社ドリコム</td>
+		</tr>
+		<tr>
+			<th>URL</th>
+			<td><a href="http://www.drecom.co.jp/"
+			       target="_blank">http://www.drecom.co.jp/</a></td>
+		</tr>
+		<tr>
+			<th class="shima">設立</th>
+			<td class="shima">
+									2003年3月							</td>
+		</tr>
+		<tr>
+			<th>代表者</th>
+			<td>内藤裕紀</td>
+		</tr>
+			<tr>
+				<th class="shima">決算期</th>
+				<td class="shima">
+											3月
+									</td>
+			</tr>
+		<tr>
+			<th>直近業績</th>
+			<td>売上高65億3400万円、営業損益2億0600万円の赤字、経常損益2億1700万円の赤字、最終損益5億3700万円の赤字（2016年3月期）</td>
+		</tr>
+		<tr>
+			<th class="shima">上場区分</th>
+			<td class="shima">東証マザーズ</td>
+		</tr>
+			<tr>
+				<th>証券コード</th>
+				<td>
+											3793									</td>
+			</tr>
+	</table>
+	<!-- CompanyInfo end -->
+
+	
+						<!--  ad tags Size: 300x250 ZoneId:1078788-->
+<script type="text/javascript" src="http://js.dsp-socialgameinfo.com/t/078/788/a1078788.js"></script>			
+	
+
+	<div class="Links clear clearfix mb15">
+		<div class="Article_link clearfix">
+			<h5 class="MoreRead"><a
+					href="/company/13">
+					【株式会社ドリコム】の企業データはこちら
+				</a></h5><!-- 矢印をcssで調整 -->
+		</div>
+	</div>
+
+</section>
+
+			
+<div class="clear clearfix"></div>
+
+
+	<section class="facebook_comment">
+		<h2>コメント</h2>
+
+		<div class="comm_fb">
+			<div class="fb-comments"
+			     data-href="http://gamebiz.jp/?p=178708"
+			     data-width="656px"></div>
+		</div>
+	</section>
+
+</div>
+<!-- /.article_view -->
+
+</section>
+
+<div class="article_view">
+	<div style="display: inline-block;" class="clearfix">
+	<div class="FBBox clearfix">
+		<h4>Facebook</h4>
+
+		<div class="fb-like" data-href="https://www.facebook.com/SocialGameInfo" data-width="450" data-layout="button_count"
+		     data-show-faces="false" data-send="false"></div>
+		<p class="smartphone">スマートフォンゲーム最新情報をシェア中</p>
+	</div>
+	<div class="TwitterBox clearfix">
+		<h4>Twitter</h4>
+		<h5><a href="https://twitter.com/SocialGameInfo" class="twitter-follow-button" data-show-count="false"
+		       data-lang="ja" data-show-screen-name="false">フォロー</a>
+		</h5>
+
+		<p>毎日つぶやき！スマートフォンゲーム最前線！</p>
+	</div>
+	<div class="HatebBox clearfix">
+		<h4>はてブ</h4>
+		<h5><a href="http://b.hatena.ne.jp/entry/http://gamebiz.jp" class="hatena-bookmark-button" data-hatena-bookmark-layout="standard-noballoon" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="http://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script></h5>
+		<p>毎日配信！スマートフォンゲーム最前線！</p>
+	</div>
+	<div class="RSSBox clearfix">
+		<h4>RSS</h4>
+		<a href="/?feed=rss">
+			<button class="rssbtn">RSSを登録する</button>
+		</a>
+
+		<p>毎日更新中。スマートフォンゲーム最新情報</p>
+	</div>
+</div>
+	<div class="clear clearfix"></div>
+
+			<section class='new_articles'>
+			<h2 class='reset'>新着記事</h2>
+			<ul class="TodaysNews">
+			<li class="box_link">
+			<article>
+				<p class='reset'>
+					<img
+	src="https://i2.gamebiz.jp/images/80x60/2178422958afd732ae7d10027-80x60.jpg" alt="ディ・テクノ、『一騎当千～Straight Striker～』で「趙雲子龍」が手に入るイベント「真冬の大走査線 ～ハイスコアを獲得せよ！～」の後半戦を開催"/>				</p>
+
+				<div class="txt">
+					<h3><a href="/?p=179236">ディ・テクノ、『一騎当千～Straight Striker～』で「趙雲子龍」が手に入るイベント「真冬の大走査線 ～ハイスコアを獲得せよ！～」の後半戦を開催</a>
+					</h3>
+					<p class="time">
+						<time datetime="2017-02-24">2017年02月24日</time>
+					</p>
+				</div>
+			</article>
+		</li>
+			<li class="box_link">
+			<article>
+				<p class='reset'>
+					<img
+	src="https://i2.gamebiz.jp/images/80x60/161092736958aff960bf7f00027-80x60.png" alt="Moregeek Entertainment、『オービットレジェンド』でイベント「フレイ vs 帝国軍団 討伐戦」を開催　「帝国覚醒 STEP UP ガチャ」も登場"/>				</p>
+
+				<div class="txt">
+					<h3><a href="/?p=179266">Moregeek Entertainment、『オービットレジェンド』でイベント「フレイ vs 帝国軍団 討伐戦」を開催　「帝国覚醒 STEP UP ガチャ」も登場</a>
+					</h3>
+					<p class="time">
+						<time datetime="2017-02-24">2017年02月24日</time>
+					</p>
+				</div>
+			</article>
+		</li>
+			<li class="box_link">
+			<article>
+				<p class='reset'>
+					<img
+	src="https://i2.gamebiz.jp/images/80x60/28904789558afd36a894ee0020-80x60.jpg" alt="パオン・ディーピー、『エイリアンのたまご』のプレミアムガチャに新エイリアン「マンザン」と「サイグリズリー」を追加　期間限定クエストも開催"/>				</p>
+
+				<div class="txt">
+					<h3><a href="/?p=179231">パオン・ディーピー、『エイリアンのたまご』のプレミアムガチャに新エイリアン「マンザン」と「サイグリズリー」を追加　期間限定クエストも開催</a>
+					</h3>
+					<p class="time">
+						<time datetime="2017-02-24">2017年02月24日</time>
+					</p>
+				</div>
+			</article>
+		</li>
+			<li class="box_link">
+			<article>
+				<p class='reset'>
+					<img
+	src="https://i2.gamebiz.jp/images/80x60/19753170358b01c15270640027-80x60.png" alt="スクエニ、『サムライ ライジング』で新マルチイベント「神衣の守り手」を開催　2月26日には「ゴー☆ジャス動画」で本作初の生放送を実施"/>				</p>
+
+				<div class="txt">
+					<h3><a href="/?p=179280">スクエニ、『サムライ ライジング』で新マルチイベント「神衣の守り手」を開催　2月26日には「ゴー☆ジャス動画」で本作初の生放送を実施</a>
+					</h3>
+					<p class="time">
+						<time datetime="2017-02-24">2017年02月24日</time>
+					</p>
+				</div>
+			</article>
+		</li>
+	</ul>
+		</section>
+		<div class="MoreRead"><a href="/article">もっと見る</a></div>
+	
+</div>
+<!-- /.article_view -->
+
+</div><!-- /.main -->
+
+<div class="sidebar_sub">
+	<div class="sidebar clearfix">
+		<div class="sidebar_imgs">
+
+			
+			
+									
+						<div class="bannerimg">
+				<!--  ad tags Size: 300x250 ZoneId:1078788-->
+<script type="text/javascript" src="http://js.dsp-socialgameinfo.com/t/078/788/a1078788.js"></script>			</div>
+			
+			<div class="sidebar_link">
+			<div class="sidebar_arrow">
+				<a
+					href="/company/53"><img src="//i.gamebiz.jp/img/static/tmp/side_arrow.png" border="0" alt=""/></a>
+			</div>
+			<h5><a
+					href="/company/53">株式会社コロプラ					の企業データはこちら</a></h5>
+		</div>
+	
+				
+									<div class="SB_aslantisbanner1">
+							<script type="text/javascript"><!--
+		google_ad_client = "ca-pub-8823499446830969";
+		/* 300x250, 作成済み 11/08/20 */
+		google_ad_slot = "3472464138";
+		google_ad_width = 300;
+		google_ad_height = 250;
+		//-->
+	</script>
+	<script type="text/javascript"
+	        src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+	</script>
+					</div>
+				
+					</div>
+		<!-- /sidebar_imgs -->
+
+		
+					<section class="sidebar_recruit">
+				<h2>業界求人情報</h2>
+									<article class="sidebarRecruitContent">
+						<div class="companyImg">
+							<a href="/offer/9">
+																<img
+	src="https://i2.gamebiz.jp/images/80x60/2110597832536c7f256103b3.27079297-80x60.jpg"  class="sp_img"/>							</a>
+						</div>
+						<div class="companyText">
+							<h3 class='reset'>
+								<a class="title" href="/offer/9">
+									株式会社Cygames								</a>
+							</h3>
+
+							<p>
+								<a href="/offer/9">
+									<span> 3DCGアーティスト</span>
+																		<br>
+									歴史に残るコンテンツを。								</a>
+							</p>
+						</div>
+					</article>
+									<article class="sidebarRecruitContent">
+						<div class="companyImg">
+							<a href="/offer/83">
+																<img
+	src="https://i2.gamebiz.jp/images/80x60/1050569555874418bb6d646.73075025-80x60.jpg"  class="sp_img"/>							</a>
+						</div>
+						<div class="companyText">
+							<h3 class='reset'>
+								<a class="title" href="/offer/83">
+									株式会社Cygames								</a>
+							</h3>
+
+							<p>
+								<a href="/offer/83">
+									<span> ゲーム開発エンジニア（サーバーサイド）</span>
+																		<br>
+									「最高」を追求できる場所。								</a>
+							</p>
+						</div>
+					</article>
+									<article class="sidebarRecruitContent">
+						<div class="companyImg">
+							<a href="/offer/1">
+																<img
+	src="https://i2.gamebiz.jp/images/80x60/1592208807536c80dfd56c43.02529492-80x60.jpg"  class="sp_img"/>							</a>
+						</div>
+						<div class="companyText">
+							<h3 class='reset'>
+								<a class="title" href="/offer/1">
+									株式会社コロプラ								</a>
+							</h3>
+
+							<p>
+								<a href="/offer/1">
+									<span> Unityエンジニア</span>
+																			[東京都渋谷区恵比寿4-20-3 恵比寿ガーデンプレイスタワー11階 ]
+																		<br>
+									世界No.1への挑戦。Unityで新しいエンターテインメントを生み出すエンジニア大募集！								</a>
+							</p>
+						</div>
+					</article>
+									<article class="sidebarRecruitContent">
+						<div class="companyImg">
+							<a href="/offer/40">
+																<img
+	src="https://i2.gamebiz.jp/images/80x60/2065355478551a9e761ac610.21702469-80x60.jpg"  class="sp_img"/>							</a>
+						</div>
+						<div class="companyText">
+							<h3 class='reset'>
+								<a class="title" href="/offer/40">
+									株式会社ミクシィ								</a>
+							</h3>
+
+							<p>
+								<a href="/offer/40">
+									<span> 【XFLAG】デザイナー職</span>
+																		<br>
+									『モンスターストライク』を生み出したXFLAG スタジオにて、デザイナーを募集！								</a>
+							</p>
+						</div>
+					</article>
+									<article class="sidebarRecruitContent">
+						<div class="companyImg">
+							<a href="/offer/5">
+																<img
+	src="https://i2.gamebiz.jp/images/80x60/3385271605295fd5861aed0.35297528-80x60.jpg"  class="sp_img"/>							</a>
+						</div>
+						<div class="companyText">
+							<h3 class='reset'>
+								<a class="title" href="/offer/5">
+									株式会社コロプラ								</a>
+							</h3>
+
+							<p>
+								<a href="/offer/5">
+									<span> ゲームプランナー/ゲームデザイナー</span>
+																			[東京都渋谷区恵比寿4-20-3 恵比寿ガーデンプレイスタワー11階 ]
+																		<br>
+									面白さをとことん追求。世界No.1のゲーム作りに本気でチャレンジしたいプランナー、大募集！								</a>
+							</p>
+						</div>
+					</article>
+								<a href="/offer/" class="MoreReadR">もっと見る</a>			</section>
+		
+		<div class="banner-middle">
+			<!--  ad tags Size: 300x90 ZoneId:1105413-->
+			<script type="text/javascript" src="http://js.dsp-socialgameinfo.com/t/105/413/a1105413.js"></script>
+		</div>
+
+					<section class="sidebar_preregist_ranking">
+<h2 class="sidebar-title">新着アプリ先行予約ランキング</h2>
+	<article>
+		<div class="rank">1</div>
+		<div class="title"><a href="http://www.atsenko.com/detail/index/SKuuhqFq">放置少女</a></div>
+		<div style="clear:both;"></div>
+		<div class="image">
+			<a href="http://www.atsenko.com/detail/index/SKuuhqFq">
+				<img src="http://res.atsenko.com:8080/img/games/SKuuhqFq/ba0000p.jpg?v=8" />
+			</a>
+			<div class="company">Glee Games, Inc. </div>
+		</div>
+	</article>
+	<article>
+		<div class="rank">2</div>
+		<div class="title"><a href="http://www.atsenko.com/detail/index/4BuH3FDH">ロマンチック世代交代バトル「双星の陰陽師」</a></div>
+		<div style="clear:both;"></div>
+		<div class="image">
+			<a href="http://www.atsenko.com/detail/index/4BuH3FDH">
+				<img src="http://res.atsenko.com:8080/img/games/4BuH3FDH/ba0000p.jpg?v=9" />
+			</a>
+			<div class="company">株式会社バンダイナムコエンターテインメント</div>
+		</div>
+	</article>
+	<article>
+		<div class="rank">3</div>
+		<div class="title"><a href="http://www.atsenko.com/detail/index/wmSPs4N1">プリキュア つながるぱずるん</a></div>
+		<div style="clear:both;"></div>
+		<div class="image">
+			<a href="http://www.atsenko.com/detail/index/wmSPs4N1">
+				<img src="http://res.atsenko.com:8080/img/games/wmSPs4N1/ba0000p.jpg?v=10" />
+			</a>
+			<div class="company">バンダイナムコエンターテインメント</div>
+		</div>
+	</article>
+	<article>
+		<div class="rank">4</div>
+		<div class="title"><a href="http://www.atsenko.com/detail/index/vomFre09">黒騎士と白の魔王</a></div>
+		<div style="clear:both;"></div>
+		<div class="image">
+			<a href="http://www.atsenko.com/detail/index/vomFre09">
+				<img src="http://res.atsenko.com:8080/img/games/vomFre09/ba0000p.jpg?v=1" />
+			</a>
+			<div class="company">Grani， Inc．</div>
+		</div>
+	</article>
+	<article>
+		<div class="rank">5</div>
+		<div class="title"><a href="http://www.atsenko.com/detail/index/LXXW9QU3">アルスラーン戦記　戦士の資格</a></div>
+		<div style="clear:both;"></div>
+		<div class="image">
+			<a href="http://www.atsenko.com/detail/index/LXXW9QU3">
+				<img src="http://res.atsenko.com:8080/img/games/LXXW9QU3/ba0000p.jpg?v=1" />
+			</a>
+			<div class="company">さくらソフト</div>
+		</div>
+	</article>
+<div class="at-footer">
+	<div class="at-footer-link">
+		<a class="at-text-main" href="http://www.atsenko.com/" target="_blank">ランキングをもっと見る<span class="at-more-rank">&gt;</span></a>
+	</div>
+</div>
+</section>
+		
+
+					<section class="sidebar_rank">
+				<h2>記事ランキング</h2>
+				<table>
+					<tbody>
+																												<tr>
+							<td
+								class="rank topmargin">
+								1							</td>
+							<td
+								class="title1to3 topmargin">
+								<a href="/?p=179182">
+									DMM、恵比寿ガーデンプレイスから六本木グランドタワーに移転…事業拡大に伴う従業員の増加とオフィス機能集約のため								</a>
+							</td>
+						</tr>
+																							<tr>
+							<td
+								class="rank ">
+								2							</td>
+							<td
+								class="title1to3 ">
+								<a href="/?p=179226">
+									任天堂、カートレンタルサービスのマリカーと社長を提訴…不正競争行為と著作権侵害による差止と損害賠償を請求								</a>
+							</td>
+						</tr>
+																							<tr>
+							<td
+								class="rank ">
+								3							</td>
+							<td
+								class="title1to3 ">
+								<a href="/?p=179189">
+									【Metapsセミナー①】「台湾人スタッフが日本国内から運営する」　ワンダープラネット久手堅氏が語る『クラッシュフィーバー』の海外展開								</a>
+							</td>
+						</tr>
+																							<tr>
+							<td
+								class="rank2 ">
+								4							</td>
+							<td
+								class="titleOver4 ">
+								<a href="/?p=179129">
+									TYPE-MOON/FGO PROJECT、『Fate/Grand Order』で「亜種特異点Ⅰ 悪性隔絶魔境 新宿 新宿幻霊事件」が24日19時より開幕！								</a>
+							</td>
+						</tr>
+																							<tr>
+							<td
+								class="rank2 ">
+								5							</td>
+							<td
+								class="titleOver4 ">
+								<a href="/?p=179195">
+									TYPE-MOON/FGO PROJECT、『Fate/Grand Order』のWEBマンガ「もっとマンガで分かる！Fate/Grand Order」の第63話を更新								</a>
+							</td>
+						</tr>
+																							<tr>
+							<td
+								class="rank2 ">
+								6							</td>
+							<td
+								class="titleOver4 ">
+								<a href="/?p=179192">
+									【Google Playランキング(2/24)】劇場版連動スカウト開催の『SAO メモリー・デフラグ』がトップ30位圏内に　『星ドラ』が20位→15位								</a>
+							</td>
+						</tr>
+																							<tr>
+							<td
+								class="rank2 ">
+								7							</td>
+							<td
+								class="titleOver4 ">
+								<a href="/?p=179187">
+									【Metapsセミナー④】日本のゲームアプリはなぜ中国で失敗するのか？　任玩传媒CEOのGuangyu Zhang氏が分析　「『Fate GO』は成功事例」								</a>
+							</td>
+						</tr>
+																							<tr>
+							<td
+								class="rank2 ">
+								8							</td>
+							<td
+								class="titleOver4 ">
+								<a href="/?p=179141">
+									Cygames、『Shadowverse』で『グランブルーファンタジー』とのコラボキャンペーンを開催　グラブル仕様のエンブレムやスリーブが手に入る								</a>
+							</td>
+						</tr>
+																							<tr>
+							<td
+								class="rank2 ">
+								9							</td>
+							<td
+								class="titleOver4 ">
+								<a href="/?p=178617">
+									Cygames、『グランブルーファンタジー』と『Shadowverse』の相互コラボイベントを開催決定！								</a>
+							</td>
+						</tr>
+																							<tr>
+							<td
+								class="rank2 ">
+								10							</td>
+							<td
+								class="titleOver4 ">
+								<a href="/?p=179199">
+									 GameBank、新作RPG『強くてNEW GAME』の事前登録を開始　タップすればするだけ攻撃できる“お手軽バトル”RPG　配信開始は3月下旬の予定								</a>
+							</td>
+						</tr>
+																						</tbody>
+				</table>
+			</section>
+
+			<a href="/ranking/article" class="MoreReadR long">11位以下のランキングを見る</a>		
+		<a href="/advertisement" class="side"><img src="//i.gamebiz.jp/img/static/ad_bnr.png"
+		                                           alt="広告掲載について" class="side_bnr"></a>
+
+		<div class="banner-skyscraper">
+			<!--  ad tags Size: 300x600 ZoneId:1078797-->
+			<script type="text/javascript" src="http://js.dsp-socialgameinfo.com/t/078/797/a1078797.js"></script>
+		</div>
+
+	</div>
+	<!-- /.sidebar -->
+</div>
+
+			</div>		</div>
+		<!-- /.container-non-responsive -->
+		<div class='footer_view'>
+			<div class="search-area clearfix">
+				<form class="form-inline" role="form" method="GET" action="/search" id="searchAllBottom">
+					<div class="form-group">
+						<input type="search" class="form-control search-box" name="keyword">
+					</div>
+					<div class="form-group">
+						<button type="submit" class="btn search-btn header-btn">記事検索</button>
+					</div>
+					<div class="form-group">
+						<button type="submit" class="btn search-btn header-btn company-search-btn" pos="searchAllBottom"
+						        onClick="return false;">企業検索
+						</button>
+					</div>
+					<div style="margin: 35px 13px 0 0 ;text-align: right">
+						<a href="http://www.google.co.jp"><img src="//i.gamebiz.jp/img/static/google.gif"></a>
+						Custom Search
+					</div>
+				</form>
+			</div>
+							<section class="pickup-area">
+					<div class="container-non-responsive">
+						<h2>ピックアップ</h2>
+
+						<div id="carousel-image-and-text" class="touchcarousel">
+							<a class="prev" id="pick_prev" href="#"><span class="arrow-icon left"></span></a>
+							<ul id="pickup_car">
+																	<li class="touchcarousel-item">
+										<article>
+											<a class="item-block" href="http://gamebiz.jp/article/tag/16%E5%B9%B410-12%E6%9C%88%E6%B1%BA%E7%AE%97">
+												<img
+	src="https://i2.gamebiz.jp/images/152x114/186361623358857f2b6a4f67.15842360-152x114.jpg" alt="【10-12月期決算特集】好調なスマホゲーム企業はどこか？"/>											</a>
+
+											<p><a
+													href="http://gamebiz.jp/article/tag/16%E5%B9%B410-12%E6%9C%88%E6%B1%BA%E7%AE%97">【10-12月期決算特集】好調なスマホゲーム企業はどこか？</a>
+											</p>
+										</article>
+									</li>
+																	<li class="touchcarousel-item">
+										<article>
+											<a class="item-block" href="http://gamebiz.jp/?p=179220">
+												<img
+	src="https://i2.gamebiz.jp/images/152x114/168036163158afcb0b544853.21882889-152x114.jpg" alt="Metapsセミナー　中国・台湾・韓国アプリ市場の最新事情が明らかに"/>											</a>
+
+											<p><a
+													href="http://gamebiz.jp/?p=179220">Metapsセミナー　中国・台湾・韓国アプリ市場の最新事情が明らかに</a>
+											</p>
+										</article>
+									</li>
+																	<li class="touchcarousel-item">
+										<article>
+											<a class="item-block" href="http://gamebiz.jp/?p=178094">
+												<img
+	src="https://i2.gamebiz.jp/images/152x114/7406907058a2846cbc6fe1.08555424-152x114.jpg" alt="Cygames、『シャドウバース』におけるローカライズの展望とは"/>											</a>
+
+											<p><a
+													href="http://gamebiz.jp/?p=178094">Cygames、『シャドウバース』におけるローカライズの展望とは</a>
+											</p>
+										</article>
+									</li>
+																	<li class="touchcarousel-item">
+										<article>
+											<a class="item-block" href="http://gamebiz.jp/?p=178516">
+												<img
+	src="https://i2.gamebiz.jp/images/152x114/135129952458a53455e1c104.86671502-152x114.jpg" alt="板垣氏連載Vol.11　闘会議2017に行ってきた"/>											</a>
+
+											<p><a
+													href="http://gamebiz.jp/?p=178516">板垣氏連載Vol.11　闘会議2017に行ってきた</a>
+											</p>
+										</article>
+									</li>
+																	<li class="touchcarousel-item">
+										<article>
+											<a class="item-block" href="http://gamebiz.jp/?p=176522">
+												<img
+	src="https://i2.gamebiz.jp/images/152x114/125056890858818081264ae5.13355663-152x114.jpeg" alt="XFLAG スタジオ、新卒向けエンジニアイベントを2/24に開催"/>											</a>
+
+											<p><a
+													href="http://gamebiz.jp/?p=176522">XFLAG スタジオ、新卒向けエンジニアイベントを2/24に開催</a>
+											</p>
+										</article>
+									</li>
+																	<li class="touchcarousel-item">
+										<article>
+											<a class="item-block" href="http://gamebiz.jp/?p=177833">
+												<img
+	src="https://i2.gamebiz.jp/images/152x114/1360542052589bc6ee5cfcf8.97522362-152x114.jpg" alt="アプリの「重い」「落ちる」を解消する APMツールの真価とは"/>											</a>
+
+											<p><a
+													href="http://gamebiz.jp/?p=177833">アプリの「重い」「落ちる」を解消する APMツールの真価とは</a>
+											</p>
+										</article>
+									</li>
+																	<li class="touchcarousel-item">
+										<article>
+											<a class="item-block" href="http://gamebiz.jp/?p=177532">
+												<img
+	src="https://i2.gamebiz.jp/images/152x114/205561362358905b93293138.51117310-152x114.jpg" alt="『戦の海賊』運営移管の狙いを両社キーマンにインタビュー"/>											</a>
+
+											<p><a
+													href="http://gamebiz.jp/?p=177532">『戦の海賊』運営移管の狙いを両社キーマンにインタビュー</a>
+											</p>
+										</article>
+									</li>
+																	<li class="touchcarousel-item">
+										<article>
+											<a class="item-block" href="http://gamebiz.jp/?p=178264">
+												<img
+	src="https://i2.gamebiz.jp/images/152x114/173670473258ace3055eba00.34112669-152x114.jpg" alt=" 『ワクサガ』からみる「サキプレ」を用いたβテストからリリースまでの施策とは"/>											</a>
+
+											<p><a
+													href="http://gamebiz.jp/?p=178264"> 『ワクサガ』からみる「サキプレ」を用いたβテストからリリースまでの施策とは</a>
+											</p>
+										</article>
+									</li>
+																	<li class="touchcarousel-item">
+										<article>
+											<a class="item-block" href="http://gamebiz.jp/?p=177529">
+												<img
+	src="https://i2.gamebiz.jp/images/152x114/958620134589141b2629a60.89722403-152x114.png" alt="ミクシィ、XFLAG スタジオが積極採用中!!"/>											</a>
+
+											<p><a
+													href="http://gamebiz.jp/?p=177529">ミクシィ、XFLAG スタジオが積極採用中!!</a>
+											</p>
+										</article>
+									</li>
+																	<li class="touchcarousel-item">
+										<article>
+											<a class="item-block" href="http://gamebiz.jp/article/tag/%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB">
+												<img
+	src="https://i2.gamebiz.jp/images/152x114/81815091258ae4bc98cf664.73759170-152x114.jpg" alt="ワンフェス17冬は大盛況　『艦これ』『Fate GO』『刀剣』が圧倒的な人気"/>											</a>
+
+											<p><a
+													href="http://gamebiz.jp/article/tag/%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB">ワンフェス17冬は大盛況　『艦これ』『Fate GO』『刀剣』が圧倒的な人気</a>
+											</p>
+										</article>
+									</li>
+																	<li class="touchcarousel-item">
+										<article>
+											<a class="item-block" href="http://gamebiz.jp/?p=176294">
+												<img
+	src="https://i2.gamebiz.jp/images/152x114/1995989492587d80b827a0c6.96658127-152x114.png" alt="モンストデザインチームに訊く 制作管理ツール『セーブポイント』のメリットとは"/>											</a>
+
+											<p><a
+													href="http://gamebiz.jp/?p=176294">モンストデザインチームに訊く 制作管理ツール『セーブポイント』のメリットとは</a>
+											</p>
+										</article>
+									</li>
+																	<li class="touchcarousel-item">
+										<article>
+											<a class="item-block" href="http://gamebiz.jp/?p=177599">
+												<img
+	src="https://i2.gamebiz.jp/images/152x114/878002455589144103877e6.81784919-152x114.jpg" alt="【独占情報】ケイブが『ゴ魔乙』に次ぐ新作を発表…池田恒基氏に直撃インタビュー"/>											</a>
+
+											<p><a
+													href="http://gamebiz.jp/?p=177599">【独占情報】ケイブが『ゴ魔乙』に次ぐ新作を発表…池田恒基氏に直撃インタビュー</a>
+											</p>
+										</article>
+									</li>
+																	<li class="touchcarousel-item">
+										<article>
+											<a class="item-block" href="http://svrinfo.jp/">
+												<img
+	src="https://i2.gamebiz.jp/images/152x114/89136848557a04d073a23f3.39585877-152x114.jpg" alt="Social VR InfoはVRの最新情報をお届けしています！"/>											</a>
+
+											<p><a
+													href="http://svrinfo.jp/">Social VR InfoはVRの最新情報をお届けしています！</a>
+											</p>
+										</article>
+									</li>
+																	<li class="touchcarousel-item">
+										<article>
+											<a class="item-block" href="http://gamebiz.jp/?p=178570">
+												<img
+	src="https://i2.gamebiz.jp/images/152x114/197914921458aa94c9645bd2.69561034-152x114.png" alt="【連載】「なれる！プロデューサー」-プロジェクト成功のための第一歩とは-"/>											</a>
+
+											<p><a
+													href="http://gamebiz.jp/?p=178570">【連載】「なれる！プロデューサー」-プロジェクト成功のための第一歩とは-</a>
+											</p>
+										</article>
+									</li>
+																	<li class="touchcarousel-item">
+										<article>
+											<a class="item-block" href="http://gamebiz.jp/?p=176111">
+												<img
+	src="https://i2.gamebiz.jp/images/152x114/182610557358800fd3055172.86895572-152x114.jpg" alt="今年はチャレンジする一年に…コンゾン・ジャパンの戦略と求める人物像とは"/>											</a>
+
+											<p><a
+													href="http://gamebiz.jp/?p=176111">今年はチャレンジする一年に…コンゾン・ジャパンの戦略と求める人物像とは</a>
+											</p>
+										</article>
+									</li>
+																	<li class="touchcarousel-item">
+										<article>
+											<a class="item-block" href="http://gamebiz.jp/?p=177867">
+												<img
+	src="https://i2.gamebiz.jp/images/152x114/1956560565589d41368f6946.18699227-152x114.png" alt="「UXポリシーに基づいたパラメータ設計を」…長期運営のレベルデザインとは"/>											</a>
+
+											<p><a
+													href="http://gamebiz.jp/?p=177867">「UXポリシーに基づいたパラメータ設計を」…長期運営のレベルデザインとは</a>
+											</p>
+										</article>
+									</li>
+																	<li class="touchcarousel-item">
+										<article>
+											<a class="item-block" href="http://gamebiz.jp/?p=178572">
+												<img
+	src="https://i2.gamebiz.jp/images/152x114/156054232558a64eeb2dde29.67962807-152x114.jpg" alt="発足から3ヶ月…C&amp;Mゲームスの現場とこれからの展望に迫る"/>											</a>
+
+											<p><a
+													href="http://gamebiz.jp/?p=178572">発足から3ヶ月…C&amp;Mゲームスの現場とこれからの展望に迫る</a>
+											</p>
+										</article>
+									</li>
+																	<li class="touchcarousel-item">
+										<article>
+											<a class="item-block" href="http://gamebiz.jp/?p=177345">
+												<img
+	src="https://i2.gamebiz.jp/images/152x114/1359034841588acbf35de4b4.76653153-152x114.jpg" alt="XFLAG スタジオ、新卒総合職向けイベントを3/3に開催　座談会も実施予定"/>											</a>
+
+											<p><a
+													href="http://gamebiz.jp/?p=177345">XFLAG スタジオ、新卒総合職向けイベントを3/3に開催　座談会も実施予定</a>
+											</p>
+										</article>
+									</li>
+																	<li class="touchcarousel-item">
+										<article>
+											<a class="item-block" href="http://gamebiz.jp/?p=178561">
+												<img
+	src="https://i2.gamebiz.jp/images/152x114/121132350058a3c94aa99fb4.39221847-152x114.png" alt="【連載】-活人研- 第35回「幸せのカタチ、面白さのカタチ」"/>											</a>
+
+											<p><a
+													href="http://gamebiz.jp/?p=178561">【連載】-活人研- 第35回「幸せのカタチ、面白さのカタチ」</a>
+											</p>
+										</article>
+									</li>
+																	<li class="touchcarousel-item">
+										<article>
+											<a class="item-block" href="http://gamebiz.jp/?p=175728">
+												<img
+	src="https://i2.gamebiz.jp/images/152x114/1972071961587ec0bcefcab7.86754218-152x114.jpg" alt="リリースから1年半…『セーブポイント』の反響と今後の展望とは"/>											</a>
+
+											<p><a
+													href="http://gamebiz.jp/?p=175728">リリースから1年半…『セーブポイント』の反響と今後の展望とは</a>
+											</p>
+										</article>
+									</li>
+																							</ul>
+							<a class="next" id="pick_next" href="#"><span class="arrow-icon right"></span></a>
+
+							<div class="clearfix"></div>
+						</div>
+					</div>
+				</section>
+					</div>
+		<!-- /footer_view -->
+
+		<div id="footer-wrapper">
+			<footer class="container-non-responsive">
+				<div class="footer_view clearfix">
+					<div class="info-box clearfix">
+						<a href="/" class="logo"><img src="//i.gamebiz.jp/img/static/footer/logo.png"
+						                              alt="Social Game Info" border="0"/></a>
+
+						<h2>ソーシャルゲームインフォ株式会社</h2>
+
+						<p class="company-info">Social Game Info Inc.<br/>
+							〒153-0064　東京都目黒区下目黒2-19-6<br/>
+							F&amp;Tビル4F</p>
+						<ul>
+							<li><a href="http://www.atsenko.com">@先行予約</a></li>
+							<li><a href="/advertisement">広告掲載について</a></li>
+							<li><a href="/press_release_reception">プレスリリース・取材依頼受付</a></li>
+							<li class="last2"><a href="/privacy">プライバシーポリシー</a></li>
+							<li class="last"><a href="/corporate">運営会社について</a></li>
+						</ul>
+					</div>
+					<div class="social-box twitter-box">
+						<h4>twitter</h4>
+						<h5><a href="https://twitter.com/SocialGameInfo" class="twitter-follow-button" data-show-count="false"
+						       data-lang="ja" data-show-screen-name="false">フォロー</a></h5>
+
+						<p>毎日つぶやき！<br/>スマートフォンゲーム最前線！</p>
+					</div>
+					<div class="social-box hateb-box">
+						<h4>はてなブックマーク</h4>
+						<h5><a href="http://b.hatena.ne.jp/entry/http://gamebiz.jp" class="hatena-bookmark-button" data-hatena-bookmark-layout="standard-noballoon" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="http://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script></h5>
+						<p>毎日配信！スマートフォンゲーム<br/>最前線！</p>
+					</div>
+					<div class="social-box rss-box">
+						<h4>RSS</h4>
+						<a href="/?feed=rss" target="_blank">
+							<button class="btn btn-default rssbtn">RSSを登録する</button>
+						</a>
+
+						<p>毎日更新中。<br/>スマートフォンゲーム最新情報！</p>
+					</div>
+					<div class="like-box-area clearfix">
+						<iframe
+							src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FSocialGameInfo%3Ffref%3Dts&amp;width=656&amp;height=258&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=false&amp;appId=411104888998212"
+							scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:606px; height:200px;"
+							allowTransparency="true"></iframe>
+					</div>
+				</div>
+				<div class="footer_view other">
+					<div class="other">
+
+												<p>
+
+							
+						<div class="pankuzu">
+							<a href="/">TOP</a> &gt; <a href="/article">記事</a>
+							&gt; ドリコム、勉強会「Drecom Tech Espresso」...						</div>
+
+											<p class="f-summary">スマホアプリ・ソーシャルゲームに関する最新情報、人気アプリ解説などを毎日更新「Social Game Info」</p>
+						<p class="f-summary" style="margin: 10px 0 0;font-size: 70%;">本サイト「Social Game Info」の内容は、すべて無断転載を禁止します。ただし商用利用を除き、リンクについてはその限りではありません。<br>またサイト上に掲載されているゲームやサービスの著作権やその他知的財産権はそれぞれ運営・配信しているゲーム会社・運営会社に帰属します。</p>
+						<p class="f-summary" style="font-size: 70%;">Copyright &copy; Social Game Info Inc. All Rights Reserved.</p>
+					</div>
+				</div>
+			</footer>
+		</div>
+		
+					
+		<script type="text/javascript" src="https://apis.google.com/js/plusone.js">{
+				lang: 'ja'
+			}</script>
+
+					<script src='http://a.adimg.net/javascripts/AdLantisLoader.js' type='text/javascript' charset='utf-8'></script>
+		
+</body>
+</html>

@@ -1,0 +1,1095 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+  <head>
+    <link type="text/css" rel="stylesheet" href="/f/advagg_css/css__9XDaEMd5e9boFmHYVpT2whEpthsa_tnTK5CcLT-Xx6M__ubGDV8jW_ASRrPUQxnDEY_FIxM3necvppitBhxTiKrY__g6oiOrjHr0NOnmYc6Qaeo0fVjz1hqeOLYdNwoB_xOl4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/f/advagg_css/css__ycIk6RPG8Mw7tUt8kXhosXc2jWCuIPhBwDlqM0kz-BQ__KCTAs4s2fimJX9BgHzi2gwiAoZGuujWJLzl5FfihD0U__g6oiOrjHr0NOnmYc6Qaeo0fVjz1hqeOLYdNwoB_xOl4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/f/advagg_css/css__DXZPth-AW72VihxVn9Ytv-2VFdw5WyNINVsiGWe9fwg__hiekbWARjZV8M1dfcZWwofmu6K-DF-54Nj0dWKkSce8__g6oiOrjHr0NOnmYc6Qaeo0fVjz1hqeOLYdNwoB_xOl4.css" media="all" />
+
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="/f/advagg_css/css__1xMcgL_K94peGz4l1gyFgO8Eo2mKQZX0rTjAKLJ1_iY__dC3yyN3DGgchoXi86iNKIoTqELe94aZuiAyObkJkaWI__g6oiOrjHr0NOnmYc6Qaeo0fVjz1hqeOLYdNwoB_xOl4.css" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:500,300,400,700,900|Roboto+Condensed:400,700|Roboto+Slab:300,400" media="all" />
+    <!--[if IE]><![endif]-->
+<meta charset="utf-8" />
+<link rel="shortcut icon" href="/sites/all/themes/custom/wwe_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+<!-- Begin Monetate ExpressTag Sync v8.1. Place at start of document head. DO NOT ALTER. -->
+<script type="text/javascript">var monetateT = new Date().getTime();</script>
+<script type="text/javascript" src="//se.monetate.net/js/2/a-c9147a58/p/wweshop.com/entry.js"></script>
+<!-- End Monetate tag. -->
+<link href="http://espanol.wwe.com/shows/smackdown/2017-02-14%0D" rel="alternate" hreflang="es" />
+<link href="/shows/smackdown/2017-02-14%0D" rel="alternate" hreflang="en" />
+<link href="http://de.wwe.com/shows/smackdown/2017-02-14%0D" rel="alternate" hreflang="de" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="canonical" href="http://www.wwe.com/node/134494/2017-02-14" />
+<link rel="shortlink" href="/shows/smackdown/2017-02-14%0D" />
+<meta property="fb:app_id" content="295666513781415" />
+<meta property="og:site_name" content="www.wwe.com" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.wwe.com/node/134494/2017-02-14" />
+<meta property="og:title" content="SmackDown LIVE" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@wwe" />
+<meta name="twitter:url" content="/shows/smackdown/2017-02-14%0D" />
+<meta name="twitter:title" content="SmackDown LIVE" />
+<meta name="twitter:app:name:iphone" content="WWE" />
+<meta name="twitter:app:id:iphone" content="551798799" />
+<meta name="twitter:app:name:ipad" content="WWE" />
+<meta name="twitter:app:id:ipad" content="551798799" />
+<meta name="twitter:app:name:googleplay" content="WWE" />
+<meta name="twitter:app:id:googleplay" content="com.wwe.universe" />
+<meta name="apple-itunes-app" content="app-id=551798799, affiliate-data=KCBikRHks4I, app-argument=http://www.wwe.com" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/ico" />
+<link rel="apple-touch-icon-precomposed" href="/sites/all/themes/custom/wwe_theme/apple-touch-icon-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" href="/sites/all/themes/custom/wwe_theme/apple-touch-icon-precomposed-72x72.png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="/sites/all/themes/custom/wwe_theme/apple-touch-icon-precomposed-114x114.png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="/sites/all/themes/custom/wwe_theme/apple-touch-icon-precomposed-144x144.png" sizes="144x144" />
+    <title>SmackDown LIVE | www.wwe.com</title>
+      </head>
+<body class="html not-front not-logged-in page-node page-node- page-node-134494 page-node-2017-02-14 node-type-show wwe-show__details i18n-en published section-node">
+          <!-- Google Tag Manager -->
+    <script>
+    var ga_dev_acctlist = "qa-www,stage,cube,ion,proxy,codeandtheory,jenkins,tyr,kyte,cloud,compute,net,ec2,aws";
+    var ga_devid = "GTM-KMHBSF";
+    var ga_liveid = "GTM-N7776B";
+
+    var wweGTMID = ga_liveid;
+    var data = ga_dev_acctlist.split(',');
+    var i = 0;
+    var l = data.length;
+    for (; i < l; i++) {
+      if (location.hostname.indexOf(data[i]) > -1) {
+        wweGTMID = ga_devid;
+        break;
+      }
+    }
+    var wwe_ga_dataLayer = [];
+  </script>
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N7776B" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+  <!-- End Google Tag Manager -->
+      <p id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </p>
+    <div class="l-page" role="main">
+    <a id="main-content"></a>
+          <div class="l-page l-frame-wrap l-hybrid-col-frame hybrid-col-frame" id="page">
+
+    <div class="l-hybrid-col-frame_top hybrid-col-frame_top">
+    <div data-wname="panels_mini" data-pos="0" class="panel-pane pane-panels-mini pane-global-header">
+            <div class="l-one-col-frame one-col-frame l-global-header-frame global-header-frame">
+
+    <div class="l-one-col-frame_top one-col-frame_top">
+    <div data-wname="panels_mini" data-pos="0" class="panel-pane pane-panels-mini pane-header-navigation">
+            <div class="panel-display panel-1col " id="mini-panel-header_navigation">
+  <div class="panel-panel panel-col">
+    <div class="panel-panel-inner"><div data-wname="block" data-pos="0" class="panel-pane pane-block pane-system-main-menu">
+            <div class="main-menu__hamburger"><span>toggle menu</span></div><ul class="menu main-menu"><li class="first leaf menu__item--wwe-logo menu__item--wwe-logo"><a href="/" class="menu__link--wwe-logo menu__link--wwe-logo">Home</a></li>
+<li class="leaf"><a href="/shows">Shows</a></li>
+<li class="leaf"><a href="/superstars">Superstars</a></li>
+<li class="leaf"><a href="/events">Tickets &amp; Events</a></li>
+<li class="leaf"><a href="http://wweshop.com/Home?utm_source=WWE&amp;utm_medium=Dotcom&amp;utm_term=top&amp;utm_content=link&amp;utm_campaign=nav">Shop</a></li>
+<li class="last leaf"><a href="http://wwe.com/wwenetwork" class="js--network-url">WWE Network</a></li>
+</ul>    </div>
+<div data-wname="navigation_pane" data-pos="1" class="panel-pane pane-navigation-pane">
+            <div class="wwe-more-container wwe-more-container--toggle js-track">
+  <button class="wwe-more-container--button wwe-language-switcher-more wwe-gallery--view-toggle" data-tracking-label="gallery list">
+    grid view  </button>
+  <div class="wwe-more-container--inner">
+    <div class="wwe-more-container--inner__upper">
+      <div class=" wwe-more-container--inner__left">
+        <div class="wwe-more-container--inner__title ">
+          LANGUAGES        </div>
+        <ul class="wwe-language-switcher">
+
+                      <li  class="current">
+              <a href="/shows/smackdown/2017-02-14%0D" class="language-link active" xml:lang="en" hreflang="en">English</a>            </li>
+                      <li  class="">
+              <a href="//de.wwe.com/shows/smackdown/2017-02-14%0D" class="language-link" xml:lang="de" hreflang="de">German</a>            </li>
+                      <li  class="">
+              <a href="//espanol.wwe.com/shows/smackdown/2017-02-14%0D" class="language-link" xml:lang="es" hreflang="es">Spanish</a>            </li>
+                      <li  class="">
+              <a href="//arabic.wwe.com" class="language-link language-link--external" xml:lang="ar" hreflang="ar">Arabic</a>            </li>
+                  </ul>
+      </div>
+      <div class="wwe-more-container--inner__right">
+        <div class="wwe-more-container--inner__title ">
+          MORE ON WWE        </div>
+        <ul class="wwe-more-links">
+          <ul class="wwe-distributed-footer--menu-legal"><li class="menu-8422 first"><a href="http://corporate.wwe.com/" target="_blank" class="wwe-distributed-footer--menu-legal__corporate">Corporate</a></li>
+<li class="menu-45681"><a href="http://corporate.wwe.com/careers/careers-overview" target="_blank" class="wwe-distributed-footer--menu-legal__careers">Careers</a></li>
+<li class="menu-8423"><a href="https://community.wwe.com/" target="_blank" class="wwe-distributed-footer--menu-legal__community">Community</a></li>
+<li class="menu-33000"><a href="/main-help/contact-us" class="wwe-distributed-footer--menu-legal__contact">Contact</a></li>
+<li class="menu-34351"><a href="http://www.wwe.com/worldwide" title="Worldwide" id="Worldwide" name="Worldwide" class="wwe-distributed-footer--menu-legal__worldwide">Worldwide</a></li>
+<li class="menu-9416"><a href="http://www.wwe.com/inside/wwemusic" class="wwe-distributed-footer--menu-legal__wwe-music">WWE Music</a></li>
+<li class="menu-9417 last"><a href="http://www.wwe.com/inside/overtheropes/wwestudios" class="wwe-distributed-footer--menu-legal__wwe-studios">WWE Studios</a></li>
+</ul>        </ul>
+      </div>
+    </div>
+    <div class="wwe-more-container--inner__footer">
+      <div class="wwe-more-social">
+        <div class="wwe-more-container--inner__title ">FOLLOW US</div>
+          <ul class="wwe-distributed-footer--menu-social-links"><li class="menu-8413 first"><a href="https://www.facebook.com/wwe" title="" class="wwe-distributed-footer--menu-social-links__facebook">Facebook</a></li>
+<li class="menu-8960"><a href="https://twitter.com/wweuniverse" class="wwe-distributed-footer--menu-social-links__twitter">Twitter</a></li>
+<li class="menu-8962"><a href="https://instagram.com/wwe/" class="wwe-distributed-footer--menu-social-links__instagram">Instagram</a></li>
+<li class="menu-8415"><a href="https://plus.google.com/+WWE " target="_blank" class="wwe-distributed-footer--menu-social-links__google-plus">Google Plus</a></li>
+<li class="menu-8961"><a href="https://vine.co/WWE" class="wwe-distributed-footer--menu-social-links__vine">Vine</a></li>
+<li class="menu-18619"><a href="https://www.pinterest.com/WWE/" class="wwe-distributed-footer--menu-social-links__pinterest">Pinterest</a></li>
+<li class="menu-9490 last"><a href="https://www.youtube.com/wwe" target="_blank" class="wwe-distributed-footer--menu-social-links__youtube">YouTube</a></li>
+</ul>      </div>
+      <div class="wwe-distributed-footer--menu-footer--wrapper">
+        <ul class="wwe-distributed-footer--menu-footer"><li class="menu-8417 first"><a href="/main-help/generalfaq/privacy-policy" class="wwe-distributed-footer--menu-footer__privacy-policy">Privacy Policy</a></li>
+<li class="menu-8418"><a href="/main-help/generalfaq/copyright" class="wwe-distributed-footer--menu-footer__copyright">Copyright</a></li>
+<li class="menu-8419"><a href="/page/terms-and-conditions" class="wwe-distributed-footer--menu-footer__terms--conditions">Terms &amp; Conditions</a></li>
+<li class="menu-8420"><a href="/page/data-preferences" class="wwe-distributed-footer--menu-footer__cookie-preferences">Cookie Preferences</a></li>
+<li class="menu-16899"><a href="http://www.wwe.com/help" title="wwe.com/help" name="wwe.com/help" class="wwe-distributed-footer--menu-footer__faq">FAQ</a></li>
+<li class="menu-32327"><a href="http://wwe.com/redeem" class="wwe-distributed-footer--menu-footer__redeem-gift-card">Redeem Gift Card</a></li>
+<li class="menu-36991 last"><a href="/security-policy" class="wwe-distributed-footer--menu-footer__security">Security</a></li>
+</ul>      </div>
+    </div>
+  </div>
+</div>
+    </div>
+<div data-wname="cloudsearch_header_pane" data-pos="4" class="panel-pane pane-cloudsearch-header-pane">
+            
+<div class="wwe-nav-search">
+    <button class="wwe-nav-search--btn js-nav-search-toggle"></button>
+    <div class="wwe-nav-search--form-wrapper">
+      <form class="wwe-cloudsearch-header-form" action="/shows/smackdown/2017-02-14%0D" method="post" id="wwe-cloudsearch-header-form" accept-charset="UTF-8"><div><div class="container-inline">
+  <div id="edit-header" class="form-wrapper"><div class="form-item form-type-textfield form-item-search-keys">
+  <label class="element-invisible" for="edit-search-keys">Enter the terms you wish to search for. </label>
+ <input autocapitalize="off" type="text" id="edit-search-keys" name="search_keys" value="" size="15" maxlength="128" class="form-text form-autocomplete" /><input type="hidden" id="edit-search-keys-autocomplete" value="/ajax/cloudsearch-suggestions" disabled="disabled" class="autocomplete" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div></div></div>
+</div></form>    </div>
+</div>
+    </div>
+</div>
+  </div>
+</div>
+    </div>
+  </div><!-- end l-one-col-frame_top -->
+  
+    <div class="l-one-col-frame_middle-wrap one-col-frame_middle-wrap">
+    <div class="l-one-col-frame_middle one-col-frame_middle">
+      <div data-wname="breaking_news" data-pos="1" class="panel-pane pane-breaking-news">
+            <div id="breaking_news" class="jh-hide">
+
+</div>
+    </div>
+<div data-wname="wwe_highlights_videos" data-pos="2" class="panel-pane pane-wwe-highlights-videos">
+            
+<div class="wwe-highlights-videos--wrapper js-hide wwe-header--explorer" data-vr-zone="Highlight Videos">
+  <div class="wwe-hightlight-videos--inner">
+  <div class="wwe-hightlight-videos--title-wrapper">
+    <h2 class="wwe-hightlight-videos--title">
+      SmackDown LIVE highlights: Feb. 14, 2017    </h2>
+  </div>
+  <div class="wwe-highlight-videos--videos-wrapper">
+    <div class="js-carousel js-carousel--highlights wwe-hightlight-videos--carousel">
+              <div class="wwe-highlight-videos--video" data-vr-contentbox itemscope itemtype="https://schema.org/VideoObject">
+                      <a href="/videos/john-cena-vs-bray-wyatt-vs-aj-styles-wwe-championship-triple-threat-match-smackdown-live-feb" class="wwe-video-explorer-event js-video--btn js-track wwe-display-duration" data-duration="02:54" itemprop="duration" content="02:54" data-nid="40019408" data-playlist-id="40019395" data-tracking-label="John Cena vs. Bray Wyatt vs. AJ Styles - WWE Championship Triple Threat Match: SmackDown LIVE, Feb. 14, 2017|slot=1" data-vr-excerpttitle>
+              <picture  title="John Cena vs. Bray Wyatt vs. AJ Styles - WWE Championship Triple Threat Match: SmackDown LIVE, Feb. 14, 2017">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="/f/styles/wwe_16_9_xs/public/2017/02/20170214_sd_triplethreat--a10a8e9f94f0224ecebf32b852f5ec13.jpg 1.5x, /f/styles/wwe_16_9_xxs/public/2017/02/20170214_sd_triplethreat--a10a8e9f94f0224ecebf32b852f5ec13.jpg 1x, /f/styles/wwe_16_9_xs/public/2017/02/20170214_sd_triplethreat--a10a8e9f94f0224ecebf32b852f5ec13.jpg 2x" media="(min-width: 0px)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="lazyload" src="/f/styles/wwe_16_9_xs/public/2017/02/20170214_sd_triplethreat--a10a8e9f94f0224ecebf32b852f5ec13.jpg" alt=" " title="John Cena vs. Bray Wyatt vs. AJ Styles - WWE Championship Triple Threat Match: SmackDown LIVE, Feb. 14, 2017" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img  class="lazyload" data-srcset="/f/styles/wwe_16_9_xs/public/2017/02/20170214_sd_triplethreat--a10a8e9f94f0224ecebf32b852f5ec13.jpg 480w" alt=" " title="John Cena vs. Bray Wyatt vs. AJ Styles - WWE Championship Triple Threat Match: SmackDown LIVE, Feb. 14, 2017" />
+<!-- <![endif]-->
+</picture>            </a>
+            <span style="display: none;">
+            <meta itemprop="name" content="John Cena vs. Bray Wyatt vs. AJ Styles - WWE Championship Triple Threat Match: SmackDown LIVE, Feb. 14, 2017" />
+            <meta itemprop="contentUrl" content="//vod.wwe.com/vod/2017/,1080,720,540,432,360,288,/sd913_trip_threat_021417.m3u8" />
+            <meta itemprop="thumbnailUrl" content="http://www.wwe.com/f/2017/02/20170214_sd_triplethreat--a10a8e9f94f0224ecebf32b852f5ec13.jpg" />
+            <span itemprop="description"><p>Three of SmackDown LIVE's best square off for the WWE Championship in a main event free-for-all.</p></span>
+            <span itemprop="uploaddate">02/14/2017 - 22:45</span>
+            </span>
+                            </div>
+              <div class="wwe-highlight-videos--video" data-vr-contentbox itemscope itemtype="https://schema.org/VideoObject">
+                      <a href="/videos/randy-orton-vows-not-to-engage-wwe-champion-bray-wyatt-in-competition-at-wrestlemania" class="wwe-video-explorer-event js-video--btn js-track wwe-display-duration" data-duration="02:25" itemprop="duration" content="02:25" data-nid="40019404" data-playlist-id="40019395" data-tracking-label="Randy Orton vows not to engage WWE Champion Bray Wyatt in competition at WrestleMania: SmackDown LIVE, Feb. 14, 2017|slot=2" data-vr-excerpttitle>
+              <picture  title="Randy Orton vows not to engage WWE Champion Bray Wyatt in competition at WrestleMania: SmackDown LIVE, Feb. 14, 2017">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="/f/styles/wwe_16_9_xs/public/2017/02/20170214_sd_ortonbray--857302172e8376c815c9dadf631cc0f4.jpg 1.5x, /f/styles/wwe_16_9_xxs/public/2017/02/20170214_sd_ortonbray--857302172e8376c815c9dadf631cc0f4.jpg 1x, /f/styles/wwe_16_9_xs/public/2017/02/20170214_sd_ortonbray--857302172e8376c815c9dadf631cc0f4.jpg 2x" media="(min-width: 0px)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="lazyload" src="/f/styles/wwe_16_9_xs/public/2017/02/20170214_sd_ortonbray--857302172e8376c815c9dadf631cc0f4.jpg" alt=" " title="Randy Orton vows not to engage WWE Champion Bray Wyatt in competition at WrestleMania: SmackDown LIVE, Feb. 14, 2017" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img  class="lazyload" data-srcset="/f/styles/wwe_16_9_xs/public/2017/02/20170214_sd_ortonbray--857302172e8376c815c9dadf631cc0f4.jpg 480w" alt=" " title="Randy Orton vows not to engage WWE Champion Bray Wyatt in competition at WrestleMania: SmackDown LIVE, Feb. 14, 2017" />
+<!-- <![endif]-->
+</picture>            </a>
+            <span style="display: none;">
+            <meta itemprop="name" content="Randy Orton vows not to engage WWE Champion Bray Wyatt in competition at WrestleMania: SmackDown LIVE, Feb. 14, 2017" />
+            <meta itemprop="contentUrl" content="//vod.wwe.com/vod/2017/,1080,720,540,432,360,288,/sd913_ortonbraypromo.m3u8" />
+            <meta itemprop="thumbnailUrl" content="http://www.wwe.com/f/2017/02/20170214_sd_ortonbray--857302172e8376c815c9dadf631cc0f4.jpg" />
+            <span itemprop="description">The 2017 Royal Rumble winner promises not to compete against The New Face of Fear as long as Wyatt is the master and he is the servant.</span>
+            <span itemprop="uploaddate">02/14/2017 - 22:32</span>
+            </span>
+                            </div>
+              <div class="wwe-highlight-videos--video" data-vr-contentbox itemscope itemtype="https://schema.org/VideoObject">
+                      <a href="/videos/baron-corbin-attacks-dean-ambrose-smackdown-live-feb-14-2017" class="wwe-video-explorer-event js-video--btn js-track wwe-display-duration" data-duration="01:53" itemprop="duration" content="01:53" data-nid="40019396" data-playlist-id="40019395" data-tracking-label="Baron Corbin attacks Dean Ambrose: SmackDown LIVE, Feb. 14, 2017|slot=3" data-vr-excerpttitle>
+              <picture  title="Baron Corbin attacks Dean Ambrose: SmackDown LIVE, Feb. 14, 2017">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="/f/styles/wwe_16_9_xs/public/all/2017/02/SD_02142017sb_0796--ebea45ffbfa751715babe772de1a3f31.jpg 1.5x, /f/styles/wwe_16_9_xxs/public/all/2017/02/SD_02142017sb_0796--ebea45ffbfa751715babe772de1a3f31.jpg 1x, /f/styles/wwe_16_9_xs/public/all/2017/02/SD_02142017sb_0796--ebea45ffbfa751715babe772de1a3f31.jpg 2x" media="(min-width: 0px)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="lazyload" src="/f/styles/wwe_16_9_xs/public/all/2017/02/SD_02142017sb_0796--ebea45ffbfa751715babe772de1a3f31.jpg" alt=" " title="Baron Corbin attacks Dean Ambrose: SmackDown LIVE, Feb. 14, 2017" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img  class="lazyload" data-srcset="/f/styles/wwe_16_9_xs/public/all/2017/02/SD_02142017sb_0796--ebea45ffbfa751715babe772de1a3f31.jpg 480w" alt=" " title="Baron Corbin attacks Dean Ambrose: SmackDown LIVE, Feb. 14, 2017" />
+<!-- <![endif]-->
+</picture>            </a>
+            <span style="display: none;">
+            <meta itemprop="name" content="Baron Corbin attacks Dean Ambrose: SmackDown LIVE, Feb. 14, 2017" />
+            <meta itemprop="contentUrl" content="//vod.wwe.com/vod/2017/,1080,720,540,432,360,288,/sd913_ambroseellsworth.m3u8" />
+            <meta itemprop="thumbnailUrl" content="http://www.wwe.com/f/all/2017/02/SD_02142017sb_0796--ebea45ffbfa751715babe772de1a3f31.jpg" />
+            <span itemprop="description"><p>The Lone Wolf unleashes a surprise attack on The Lunatic Fringe as the reigning Intercontinental Champion prepares to battle James Ellsworth.</p></span>
+            <span itemprop="uploaddate">02/14/2017 - 21:00</span>
+            </span>
+                            </div>
+              <div class="wwe-highlight-videos--video" data-vr-contentbox itemscope itemtype="https://schema.org/VideoObject">
+                      <a href="/videos/becky-lynch-vs-mickie-james-smackdown-live-feb-14-2017" class="wwe-video-explorer-event js-video--btn js-track wwe-display-duration" data-duration="02:21" itemprop="duration" content="02:21" data-nid="40019402" data-playlist-id="40019395" data-tracking-label="Becky Lynch vs. Mickie James: SmackDown LIVE, Feb. 14, 2017|slot=4" data-vr-excerpttitle>
+              <picture  title="Becky Lynch vs. Mickie James: SmackDown LIVE, Feb. 14, 2017">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="/f/styles/wwe_16_9_xs/public/2017/02/20170214_sd_beckymickie--658223bb76443a32969dc191a678bb92.jpg 1.5x, /f/styles/wwe_16_9_xxs/public/2017/02/20170214_sd_beckymickie--658223bb76443a32969dc191a678bb92.jpg 1x, /f/styles/wwe_16_9_xs/public/2017/02/20170214_sd_beckymickie--658223bb76443a32969dc191a678bb92.jpg 2x" media="(min-width: 0px)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="lazyload" src="/f/styles/wwe_16_9_xs/public/2017/02/20170214_sd_beckymickie--658223bb76443a32969dc191a678bb92.jpg" alt=" " title="Becky Lynch vs. Mickie James: SmackDown LIVE, Feb. 14, 2017" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img  class="lazyload" data-srcset="/f/styles/wwe_16_9_xs/public/2017/02/20170214_sd_beckymickie--658223bb76443a32969dc191a678bb92.jpg 480w" alt=" " title="Becky Lynch vs. Mickie James: SmackDown LIVE, Feb. 14, 2017" />
+<!-- <![endif]-->
+</picture>            </a>
+            <span style="display: none;">
+            <meta itemprop="name" content="Becky Lynch vs. Mickie James: SmackDown LIVE, Feb. 14, 2017" />
+            <meta itemprop="contentUrl" content="//vod.wwe.com/vod/2017/,1080,720,540,432,360,288,/sd913_becky_mickie_021417.m3u8" />
+            <meta itemprop="thumbnailUrl" content="http://www.wwe.com/f/2017/02/20170214_sd_beckymickie--658223bb76443a32969dc191a678bb92.jpg" />
+            <span itemprop="description">The Irish Lass Kicker goes one-on-one with a six-time Women's Champion in an Elimination Chamber rematch.</span>
+            <span itemprop="uploaddate">02/14/2017 - 21:54</span>
+            </span>
+                            </div>
+              <div class="wwe-highlight-videos--video" data-vr-contentbox itemscope itemtype="https://schema.org/VideoObject">
+                      <a href="/videos/nikki-bella-and-natalya-engage-in-a-backstage-altercation-smackdown-live-feb-14-2017" class="wwe-video-explorer-event js-video--btn js-track wwe-display-duration" data-duration="01:35" itemprop="duration" content="01:35" data-nid="40019398" data-playlist-id="40019395" data-tracking-label="Nikki Bella and Natalya engage in a backstage altercation: SmackDown LIVE, Feb. 14, 2017|slot=5" data-vr-excerpttitle>
+              <picture  title="Nikki Bella and Natalya engage in a backstage altercation: SmackDown LIVE, Feb. 14, 2017">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="/f/styles/wwe_16_9_xs/public/2017/02/sd913_nikkinatalya_hd--36b88533bca21f0d4308195da4a8cc4b.jpg 1.5x, /f/styles/wwe_16_9_xxs/public/2017/02/sd913_nikkinatalya_hd--36b88533bca21f0d4308195da4a8cc4b.jpg 1x, /f/styles/wwe_16_9_xs/public/2017/02/sd913_nikkinatalya_hd--36b88533bca21f0d4308195da4a8cc4b.jpg 2x" media="(min-width: 0px)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="lazyload" src="/f/styles/wwe_16_9_xs/public/2017/02/sd913_nikkinatalya_hd--36b88533bca21f0d4308195da4a8cc4b.jpg" alt=" " title="Nikki Bella and Natalya engage in a backstage altercation: SmackDown LIVE, Feb. 14, 2017" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img  class="lazyload" data-srcset="/f/styles/wwe_16_9_xs/public/2017/02/sd913_nikkinatalya_hd--36b88533bca21f0d4308195da4a8cc4b.jpg 480w" alt=" " title="Nikki Bella and Natalya engage in a backstage altercation: SmackDown LIVE, Feb. 14, 2017" />
+<!-- <![endif]-->
+</picture>            </a>
+            <span style="display: none;">
+            <meta itemprop="name" content="Nikki Bella and Natalya engage in a backstage altercation: SmackDown LIVE, Feb. 14, 2017" />
+            <meta itemprop="contentUrl" content="//vod.wwe.com/vod/2017/,1080,720,540,432,360,288,/sd913_nikkinatalya.m3u8" />
+            <meta itemprop="thumbnailUrl" content="http://www.wwe.com/f/2017/02/sd913_nikkinatalya_hd--36b88533bca21f0d4308195da4a8cc4b.jpg" />
+            <span itemprop="description"><p>Order once again breaks down between Fearless Nikki and The Queen of Black Harts.</p></span>
+            <span itemprop="uploaddate">02/14/2017 - 21:00</span>
+            </span>
+                            </div>
+              <div class="wwe-highlight-videos--video" data-vr-contentbox itemscope itemtype="https://schema.org/VideoObject">
+                      <a href="/videos/alexa-bliss-interrupts-injured-smackdown-womens-champion-naomi-smackdown-live-feb-14-2017" class="wwe-video-explorer-event js-video--btn js-track wwe-display-duration" data-duration="03:59" itemprop="duration" content="03:59" data-nid="40019407" data-playlist-id="40019395" data-tracking-label="Alexa Bliss interrupts injured SmackDown Women&#039;s Champion Naomi: SmackDown LIVE, Feb. 14, 2017|slot=6" data-vr-excerpttitle>
+              <picture  title="Alexa Bliss interrupts injured SmackDown Women&#039;s Champion Naomi: SmackDown LIVE, Feb. 14, 2017">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="/f/styles/wwe_16_9_xs/public/2017/02/20170214_sd_alexanaomi--6f75921ffec388399f5a252e88497eb8.jpg 1.5x, /f/styles/wwe_16_9_xxs/public/2017/02/20170214_sd_alexanaomi--6f75921ffec388399f5a252e88497eb8.jpg 1x, /f/styles/wwe_16_9_xs/public/2017/02/20170214_sd_alexanaomi--6f75921ffec388399f5a252e88497eb8.jpg 2x" media="(min-width: 0px)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="lazyload" src="/f/styles/wwe_16_9_xs/public/2017/02/20170214_sd_alexanaomi--6f75921ffec388399f5a252e88497eb8.jpg" alt=" " title="Alexa Bliss interrupts injured SmackDown Women&#039;s Champion Naomi: SmackDown LIVE, Feb. 14, 2017" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img  class="lazyload" data-srcset="/f/styles/wwe_16_9_xs/public/2017/02/20170214_sd_alexanaomi--6f75921ffec388399f5a252e88497eb8.jpg 480w" alt=" " title="Alexa Bliss interrupts injured SmackDown Women&#039;s Champion Naomi: SmackDown LIVE, Feb. 14, 2017" />
+<!-- <![endif]-->
+</picture>            </a>
+            <span style="display: none;">
+            <meta itemprop="name" content="Alexa Bliss interrupts injured SmackDown Women's Champion Naomi: SmackDown LIVE, Feb. 14, 2017" />
+            <meta itemprop="contentUrl" content="//vod.wwe.com/vod/2017/,1080,720,540,432,360,288,/sd913_naomiblisspromo.m3u8" />
+            <meta itemprop="thumbnailUrl" content="http://www.wwe.com/f/2017/02/20170214_sd_alexanaomi--6f75921ffec388399f5a252e88497eb8.jpg" />
+            <span itemprop="description"><p>After capturing the SmackDown Women's Title at Elimination Chamber, Naomi must deal with a knee injury and the Wicked Witch of WWE.</p></span>
+            <span itemprop="uploaddate">02/14/2017 - 22:30</span>
+            </span>
+                            </div>
+              <div class="wwe-highlight-videos--video" data-vr-contentbox itemscope itemtype="https://schema.org/VideoObject">
+                      <a href="/videos/american-alpha-vs-the-ascension-smackdown-live-feb-14-2017" class="wwe-video-explorer-event js-video--btn js-track wwe-display-duration" data-duration="02:52" itemprop="duration" content="02:52" data-nid="40019397" data-playlist-id="40019395" data-tracking-label="American Alpha vs. The Ascension: SmackDown LIVE, Feb. 14, 2017|slot=7" data-vr-excerpttitle>
+              <picture  title="American Alpha vs. The Ascension: SmackDown LIVE, Feb. 14, 2017">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="/f/styles/wwe_16_9_xs/public/2017/02/20170214_sd_americanalphaascension--ec7a1fd887ec99af4aa681bbe32822be.jpg 1.5x, /f/styles/wwe_16_9_xxs/public/2017/02/20170214_sd_americanalphaascension--ec7a1fd887ec99af4aa681bbe32822be.jpg 1x, /f/styles/wwe_16_9_xs/public/2017/02/20170214_sd_americanalphaascension--ec7a1fd887ec99af4aa681bbe32822be.jpg 2x" media="(min-width: 0px)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="lazyload" src="/f/styles/wwe_16_9_xs/public/2017/02/20170214_sd_americanalphaascension--ec7a1fd887ec99af4aa681bbe32822be.jpg" alt=" " title="American Alpha vs. The Ascension: SmackDown LIVE, Feb. 14, 2017" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img  class="lazyload" data-srcset="/f/styles/wwe_16_9_xs/public/2017/02/20170214_sd_americanalphaascension--ec7a1fd887ec99af4aa681bbe32822be.jpg 480w" alt=" " title="American Alpha vs. The Ascension: SmackDown LIVE, Feb. 14, 2017" />
+<!-- <![endif]-->
+</picture>            </a>
+            <span style="display: none;">
+            <meta itemprop="name" content="American Alpha vs. The Ascension: SmackDown LIVE, Feb. 14, 2017" />
+            <meta itemprop="contentUrl" content="//vod.wwe.com/vod/2017/,1080,720,540,432,360,288,/sd913_alpha_ascen_021417.m3u8" />
+            <meta itemprop="thumbnailUrl" content="http://www.wwe.com/f/2017/02/20170214_sd_americanalphaascension--ec7a1fd887ec99af4aa681bbe32822be.jpg" />
+            <span itemprop="description"><p>SmackDown Tag Team Champions American Alpha take on a game Viktor &amp; Konnor in a tough tag team showdown.</p></span>
+            <span itemprop="uploaddate">02/14/2017 - 21:00</span>
+            </span>
+                            </div>
+              <div class="wwe-highlight-videos--video" data-vr-contentbox itemscope itemtype="https://schema.org/VideoObject">
+                      <a href="/videos/bray-wyatt-returns-from-elimination-chamber-as-the-wwe-champion-smackdown-live-feb-14-2017" class="wwe-video-explorer-event js-video--btn js-track wwe-display-duration" data-duration="02:25" itemprop="duration" content="02:25" data-nid="40019394" data-playlist-id="40019395" data-tracking-label="Bray Wyatt returns from Elimination Chamber as the WWE Champion: SmackDown LIVE, Feb. 14, 2017|slot=8" data-vr-excerpttitle>
+              <picture  title="Bray Wyatt returns from Elimination Chamber as the WWE Champion: SmackDown LIVE, Feb. 14, 2017">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="/f/styles/wwe_16_9_xs/public/2017/02/20170214_sd_braypromo--814122ab4519cfa74fc515768599c10e.jpg 1.5x, /f/styles/wwe_16_9_xxs/public/2017/02/20170214_sd_braypromo--814122ab4519cfa74fc515768599c10e.jpg 1x, /f/styles/wwe_16_9_xs/public/2017/02/20170214_sd_braypromo--814122ab4519cfa74fc515768599c10e.jpg 2x" media="(min-width: 0px)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="lazyload" src="/f/styles/wwe_16_9_xs/public/2017/02/20170214_sd_braypromo--814122ab4519cfa74fc515768599c10e.jpg" alt=" " title="Bray Wyatt returns from Elimination Chamber as the WWE Champion: SmackDown LIVE, Feb. 14, 2017" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img  class="lazyload" data-srcset="/f/styles/wwe_16_9_xs/public/2017/02/20170214_sd_braypromo--814122ab4519cfa74fc515768599c10e.jpg 480w" alt=" " title="Bray Wyatt returns from Elimination Chamber as the WWE Champion: SmackDown LIVE, Feb. 14, 2017" />
+<!-- <![endif]-->
+</picture>            </a>
+            <span style="display: none;">
+            <meta itemprop="name" content="Bray Wyatt returns from Elimination Chamber as the WWE Champion: SmackDown LIVE, Feb. 14, 2017" />
+            <meta itemprop="contentUrl" content="//vod.wwe.com/vod/2017/,1080,720,540,432,360,288,/sd913_braypromo.m3u8" />
+            <meta itemprop="thumbnailUrl" content="http://www.wwe.com/f/2017/02/20170214_sd_braypromo--814122ab4519cfa74fc515768599c10e.jpg" />
+            <span itemprop="description"><p>The New Face of Fear basks in the glory of the darkness with the WWE Title now a part of The Wyatt Family.</p></span>
+            <span itemprop="uploaddate">02/14/2017 - 20:30</span>
+            </span>
+                            </div>
+              <div class="wwe-highlight-videos--video" data-vr-contentbox itemscope itemtype="https://schema.org/VideoObject">
+                      <a href="/videos/dolph-ziggler-sends-a-warning-to-the-next-generation-smackdown-live-feb-14-2017" class="wwe-video-explorer-event js-video--btn js-track wwe-display-duration" data-duration="01:32" itemprop="duration" content="01:32" data-nid="40019400" data-playlist-id="40019395" data-tracking-label="Dolph Ziggler sends a warning to a whole generation: SmackDown LIVE, Feb. 14, 2017|slot=9" data-vr-excerpttitle>
+              <picture  title="Dolph Ziggler sends a warning to a whole generation: SmackDown LIVE, Feb. 14, 2017">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="/f/styles/wwe_16_9_xs/public/2017/02/20170214_sd_zigglerpromo--d7de3f2ff8a8470d8bb777a4d511fbad.jpg 1.5x, /f/styles/wwe_16_9_xxs/public/2017/02/20170214_sd_zigglerpromo--d7de3f2ff8a8470d8bb777a4d511fbad.jpg 1x, /f/styles/wwe_16_9_xs/public/2017/02/20170214_sd_zigglerpromo--d7de3f2ff8a8470d8bb777a4d511fbad.jpg 2x" media="(min-width: 0px)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="lazyload" src="/f/styles/wwe_16_9_xs/public/2017/02/20170214_sd_zigglerpromo--d7de3f2ff8a8470d8bb777a4d511fbad.jpg" alt=" " title="Dolph Ziggler sends a warning to a whole generation: SmackDown LIVE, Feb. 14, 2017" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img  class="lazyload" data-srcset="/f/styles/wwe_16_9_xs/public/2017/02/20170214_sd_zigglerpromo--d7de3f2ff8a8470d8bb777a4d511fbad.jpg 480w" alt=" " title="Dolph Ziggler sends a warning to a whole generation: SmackDown LIVE, Feb. 14, 2017" />
+<!-- <![endif]-->
+</picture>            </a>
+            <span style="display: none;">
+            <meta itemprop="name" content="Dolph Ziggler sends a warning to a whole generation: SmackDown LIVE, Feb. 14, 2017" />
+            <meta itemprop="contentUrl" content="//vod.wwe.com/vod/2017/,1080,720,540,432,360,288,/sd913_dolph_021417.m3u8" />
+            <meta itemprop="thumbnailUrl" content="http://www.wwe.com/f/2017/02/20170214_sd_zigglerpromo--d7de3f2ff8a8470d8bb777a4d511fbad.jpg" />
+            <span itemprop="description">After wreaking havoc on Apollo Crews and Kalisto at Elimination Chamber, The Showoff threatens to take out a whole generation of SmackDown LIVE Superstars.</span>
+            <span itemprop="uploaddate">02/14/2017 - 21:40</span>
+            </span>
+                            </div>
+          </div>
+  </div>
+  </div>
+</div>
+    </div>
+<div data-wname="gallery_overlay" data-pos="3" class="panel-pane pane-gallery-overlay">
+            <div id="wwe-gallery--overlay-container">
+  <div id="wwe-gallery--overlay" class="gallery-b">
+    <div class="wwe-gallery">
+
+      <div class="wwe-gallery--header">
+        <div class="wwe-gallery--header-main">
+          <a class="wwe-gallery--logo" href="/">WWE</a>
+          <div class="wwe-gallery--header-copy--inner">
+            <h2 class="wwe-gallery--title">&nbsp;</h2>
+            <h3 class="wwe-gallery--caption"></h3>
+          </div>
+          <div class="wwe-gallery--social social__vert social__white"></div>
+        </div>
+        <div class="wwe-gallery--btns">
+          <button class="wwe-gallery--view-toggle js-track" data-tracking-label="gallery list">grid view</button>
+          <button class="wwe-gallery--view-close js-track" data-tracking-label="close">close</button>
+        </div>
+      </div>
+
+
+      <div class="wwe-gallery--body">
+
+        <div class="wwe-gallery--content">
+
+          <div class="wwe-gallery--items">
+            <div class="wwe-loader"></div>
+          </div>
+
+          <div class="wwe-gallery--info">
+
+            <div class="wwe-gallery--location"></div>
+
+            <div class="wwe-gallery--info-container">
+
+              <div class="wwe-gallery--captions-show-button-container">
+                <button class="wwe-gallery--captions-show-button no-caption">
+                  <span class="wwe-gallery--captions-show-button-icon">&#43;</span>
+                  <span class="wwe-gallery--captions-show-button-copy">show caption</span>
+                </button>
+              </div>
+
+              <div class="wwe-gallery--paging">
+                <div class="wwe-gallery--paging-counter">
+                  <span class="wwe-gallery--curr">0</span>/<span class="wwe-gallery--total">0</span>
+                </div>
+              </div>
+
+              <div class="wwe-gallery--sponsored-track">
+                <div class="wwe-sponsored--track"></div>
+              </div>
+
+              <div class="wwe-gallery--social social__vert social__white"></div>
+
+            </div>
+
+
+            <div class="wwe-gallery--captions-container clearfix caption-hidden">
+              <div class="wwe-gallery--close-captions-button-container">
+                <button class="wwe-gallery--close-captions-button">
+                  <i class="icon-close"></i>
+                </button>
+              </div>
+
+              <div class="wwe-gallery--paging">
+                <div class="wwe-gallery--paging-counter">
+                  <span class="wwe-gallery--curr">0</span>/<span class="wwe-gallery--total">0</span>
+                </div>
+              </div>
+
+              <div class="wwe-gallery--sponsored-track">
+                <div class="wwe-sponsored--track"></div>
+              </div>
+
+              <div class="wwe-gallery--social social__vert social__white"></div>
+
+              <div class="wwe-gallery--captions"></div>
+
+            </div>
+
+          </div>
+
+        </div>
+
+
+        <div class="wwe-gallery--right-gutter">
+
+          <div id="wwe-ads-related" class="wwe-ads--related"></div>
+
+          <div class="wwe-related-media--wrapper wwe-gallery--related">
+            <div class="wwe-related-media">
+              <h3 class="wwe-related-media--title clearfix">
+                <span class="wwe-related-media--title-copy">related galleries</span>
+                <button class="js-track wwe-related-media--cta" data-tracking-label="viewAll|galleryType=main">
+                  <span class="wwe-related-media--cta-view-all">view all</span>
+                  <span class="wwe-related-media--cta-icon">&#43;</span>
+                </button>
+              </h3>
+              <div class="wwe-related-media--items clearfix"></div>
+            </div>
+          </div>
+
+        </div>
+
+
+
+
+
+
+        <div class="wwe-related-ad-lower">
+          <div id="wwe-ads-related-lower" class="wwe-ads--related"></div>
+        </div>
+
+        <div class="wwe-gallery--fullscreen">
+          <div class="wwe-gallery--fullscreen-overlay"></div>
+          <div class="wwe-gallery--fullscreen-content"></div>
+        </div>
+
+        <div class="wwe-gallery--related-galleries-popup">
+          <div class="clearfix">
+            <div class="wwe-gallery--related-galleries--title">related galleries</div>
+            <a href="#" class="js-track wwe-gallery--related-galleries--back-to-gallery-link">Back to Gallery</a>
+          </div>
+          <div class="wwe-gallery--related-galleries-arrow-container">
+            <a href="#" class="js-track related-arrow-prev">Previous</a>
+            <a href="#" class="js-track related-arrow-next">Next</a>
+          </div>
+            <div class="wwe-gallery--related-galleries-list clearfix"></div>
+          <button type="button"
+                  class="js-track wwe-gallery--related-galleries--back-button">Back to Gallery</button>
+
+        </div>
+
+      </div><!-- /.wwe-gallery--body -->
+
+    </div>
+  </div>
+</div>
+    </div>
+    </div><!-- end l-one-col-frame_middle -->
+  </div><!-- end l-one-col-frame_middle-wrap -->
+  
+    <div class="l-one-col-frame_bottom one-col-frame_bottom">
+    <div data-wname="ads_header_pane" data-pos="1" class="panel-pane pane-ads-header-pane">
+            <div id="wwe-ad-header-1516276551" class="wwe-ad-header"></div><div class="wwe-ad-interstitial" id="wwe-ad-interstitial-1672737163"></div>    </div>
+  </div><!-- end l-one-col-frame_bottom -->
+  
+</div> <!-- end one-col-frame -->
+    </div>
+<div data-wname="shows_archive_header" data-pos="1" class="panel-pane pane-shows-archive-header">
+            <div class="wwe-page-header--wrapper">
+  <div class="wwe-page-header wwe-page-header__archive">
+    <picture  class="wwe-page-header--bg">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="/f/styles/shows_header_xl/public/all/2016/07/20160725_04-SMACKDOWN--5520269eb2538f474e44dac1350e3b8d.jpg 1x" media="(min-width: 1220px)" />
+<source srcset="/f/styles/shows_header_xl/public/all/2016/07/20160725_04-SMACKDOWN--5520269eb2538f474e44dac1350e3b8d.jpg 1.5x, /f/styles/shows_header_l/public/all/2016/07/20160725_04-SMACKDOWN--5520269eb2538f474e44dac1350e3b8d.jpg 1x, /f/styles/shows_header_xl/public/all/2016/07/20160725_04-SMACKDOWN--5520269eb2538f474e44dac1350e3b8d.jpg 2x" media="(min-width: 1025px)" />
+<source srcset="/f/styles/shows_header_m_r/public/all/2016/07/20160725_04-SMACKDOWN--5520269eb2538f474e44dac1350e3b8d.jpg 1.5x, /f/styles/shows_header_m/public/all/2016/07/20160725_04-SMACKDOWN--5520269eb2538f474e44dac1350e3b8d.jpg 1x, /f/styles/shows_header_m_r/public/all/2016/07/20160725_04-SMACKDOWN--5520269eb2538f474e44dac1350e3b8d.jpg 2x" media="(min-width: 760px)" />
+<source srcset="/f/styles/shows_header_s_r/public/all/2016/07/20160725_04-SMACKDOWN--5520269eb2538f474e44dac1350e3b8d.jpg 1.5x, /f/styles/shows_header_s/public/all/2016/07/20160725_04-SMACKDOWN--5520269eb2538f474e44dac1350e3b8d.jpg 1x, /f/styles/shows_header_s_r/public/all/2016/07/20160725_04-SMACKDOWN--5520269eb2538f474e44dac1350e3b8d.jpg 2x" media="(min-width: 0px)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="wwe-page-header--bg" src="/f/styles/shows_header_xl/public/all/2016/07/20160725_04-SMACKDOWN--5520269eb2538f474e44dac1350e3b8d.jpg" alt=" " title="" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img  class="wwe-page-header--bg" srcset="/f/styles/shows_header_xl/public/all/2016/07/20160725_04-SMACKDOWN--5520269eb2538f474e44dac1350e3b8d.jpg 3200w" alt=" " title="" />
+<!-- <![endif]-->
+</picture>    <div class="wwe-page-header--inner">
+              <div class="wwe-header--logo-wrapper">
+          <picture  class="wwe-page-header--logo wwe-page-header--logo__w-text">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="/f/styles/wwe_show_logo_l/public/all/2016/08/Smackdown_app_Rendered_new--1f8fe7b3c013528697b34e766b8a050b.png 1x" media="(min-width: 1220px)" />
+<source data-srcset="/f/styles/wwe_show_logo_sm/public/all/2016/08/Smackdown_app_Rendered_new--1f8fe7b3c013528697b34e766b8a050b.png 207w, /f/styles/wwe_show_logo_med/public/all/2016/08/Smackdown_app_Rendered_new--1f8fe7b3c013528697b34e766b8a050b.png 410w, /f/styles/wwe_show_logo_l/public/all/2016/08/Smackdown_app_Rendered_new--1f8fe7b3c013528697b34e766b8a050b.png 620w, /f/styles/wwe_show_logo_xl/public/all/2016/08/Smackdown_app_Rendered_new--1f8fe7b3c013528697b34e766b8a050b.png 840w" media="(min-width: 1025px)" sizes="40vw" />
+<source data-srcset="/f/styles/wwe_show_logo_sm/public/all/2016/08/Smackdown_app_Rendered_new--1f8fe7b3c013528697b34e766b8a050b.png 207w, /f/styles/wwe_show_logo_med/public/all/2016/08/Smackdown_app_Rendered_new--1f8fe7b3c013528697b34e766b8a050b.png 410w, /f/styles/wwe_show_logo_l/public/all/2016/08/Smackdown_app_Rendered_new--1f8fe7b3c013528697b34e766b8a050b.png 620w, /f/styles/wwe_show_logo_xl/public/all/2016/08/Smackdown_app_Rendered_new--1f8fe7b3c013528697b34e766b8a050b.png 840w" media="(min-width: 760px)" sizes="60vw" />
+<source data-srcset="/f/styles/wwe_show_logo_sm/public/all/2016/08/Smackdown_app_Rendered_new--1f8fe7b3c013528697b34e766b8a050b.png 207w, /f/styles/wwe_show_logo_med/public/all/2016/08/Smackdown_app_Rendered_new--1f8fe7b3c013528697b34e766b8a050b.png 410w, /f/styles/wwe_show_logo_l/public/all/2016/08/Smackdown_app_Rendered_new--1f8fe7b3c013528697b34e766b8a050b.png 620w, /f/styles/wwe_show_logo_xl/public/all/2016/08/Smackdown_app_Rendered_new--1f8fe7b3c013528697b34e766b8a050b.png 840w" media="(min-width: 0px)" sizes="75vw" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="wwe-page-header--logo wwe-page-header--logo__w-text lazyload" src="/f/styles/wwe_show_logo_med/public/all/2016/08/Smackdown_app_Rendered_new--1f8fe7b3c013528697b34e766b8a050b.png" alt=" " title="" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img  class="wwe-page-header--logo wwe-page-header--logo__w-text lazyload" data-srcset="/f/styles/wwe_show_logo_med/public/all/2016/08/Smackdown_app_Rendered_new--1f8fe7b3c013528697b34e766b8a050b.png 410w" alt=" " title="" />
+<!-- <![endif]-->
+</picture>        </div>
+                    <h1 class="page-title-ir">WWE SmackDown LIVE</h1>
+                </div>
+  </div>
+</div>
+    </div>
+<div data-wname="show_contextual-results" data-pos="4" class="panel-pane pane-show-contextual-results">
+            <div  class="show-contextual show-contextual--smackdown-live show-contextual--results smackdown live show-contextual--simplified">
+  <div class="show-contextual__showtime-and-share">
+    <div class="show-contextual__speech-bubble results">
+      <div class="show-contextual__speech-bubble__inner">
+        <div class="show-contextual__logo">
+          <a class="js-track" href="/shows/smackdown/2017-02-21"data-slot="1" alt="SmackDown Live: Feb. 21, 2017" title="SmackDown Live: Feb. 21, 2017" data-tracking-label="series=SmackDown LIVE|slot=1">
+            <picture  class="episode-logo">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="/f/styles/wwe_show_logo_sm/public/all/2016/07/SmackDown_Live_2016_Flat_White--ec547fe69bd273d9f599ad6ade765a60.png 1x" media="(min-width: 0px)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="episode-logo" src="/f/styles/wwe_show_logo_sm/public/all/2016/07/SmackDown_Live_2016_Flat_White--ec547fe69bd273d9f599ad6ade765a60.png" alt=" " title="" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img  class="episode-logo" srcset="/f/styles/wwe_show_logo_sm/public/all/2016/07/SmackDown_Live_2016_Flat_White--ec547fe69bd273d9f599ad6ade765a60.png 207w" alt=" " title="" />
+<!-- <![endif]-->
+</picture>          </a>
+        </div>
+              </div>
+    </div>
+    
+<div class="social">
+
+  <div class="social-interface">
+    <ul class="social-btns">
+              <li>
+          <a href="https://www.facebook.com/dialog/share?app_id=295666513781415&href=http%3A%2F%2Fwww.wwe.com%2Fshows%2Fsmackdown%2F2017-02-21&redirect_uri=http%3A%2F%2Fwww.wwe.com%2Fshows%2Fsmackdown%2F2017-02-21" target="_blank" class="js-track js-fb-share icon icon--replace icon-facebook" data-tracking-label="SmackDown Live: Feb. 21, 2017|social|channel=facebook" data-fb-url="http://www.wwe.com/shows/smackdown/2017-02-21" data-fb-img="http://www.wwe.com/f/all/2016/08/Smackdown_app_Rendered_new--1f8fe7b3c013528697b34e766b8a050b.png" data-fb-title="SmackDown Live: Feb. 21, 2017"><span>facebook</span></a>
+        </li>
+                    <li>
+          <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.wwe.com%2Fshows%2Fsmackdown%2F2017-02-21&text=SmackDown+Live%3A+Feb.+21%2C+2017&via=wwe" class="js-track icon icon--replace icon-twitter" data-tracking-label="SmackDown Live: Feb. 21, 2017|social|channel=twitter">twitter</a>
+        </li>
+            <li>
+        <a href="#" class="icon-svg social-menu-toggle" data-tracking-label="social|toggle">
+          <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" class="icon-svg--share" viewBox="0 0 63.3 64">
+            <rect class="crs-bar" y="56.2" fill="#D7182A" width="63.3" height="7.8"/>
+            <rect class="uprgt-lft" y="30.5" fill="#7D7B80" width="7.4" height="26"/>
+            <rect class="uprgt-rgt" x="55.8" y="30.5" fill="#7D7B80" width="7.4" height="26"/>
+            <path class="arrow" fill="#7D7B80" d="M31.6,0L16,15.6h11.9v24.6c0,1.5,1.5,3.7,3.7,3.7s3.7-1.5,3.7-3.7V15.6h11.9L31.6,0z"/>
+          </svg>
+        </a>
+      </li>
+    </ul>
+    <ul class="social-menu">
+      <li class="social-menu--head">
+        <span>Share</span>
+        <button class="icon icon--replace icon-close js-track" data-tracking-label="social|mobile-close">close</button>
+      </li>
+              <li>
+          <a href="https://www.facebook.com/dialog/share?app_id=295666513781415&href=http%3A%2F%2Fwww.wwe.com%2Fshows%2Fsmackdown%2F2017-02-21&redirect_uri=http%3A%2F%2Fwww.wwe.com%2Fshows%2Fsmackdown%2F2017-02-21" class="js-fb-share icon icon-facebook js-track" data-fb-url="http://www.wwe.com/shows/smackdown/2017-02-21" data-fb-img="http://www.wwe.com/f/all/2016/08/Smackdown_app_Rendered_new--1f8fe7b3c013528697b34e766b8a050b.png" data-tracking-label="SmackDown Live: Feb. 21, 2017|social|channel=facebook">
+            <span class="social-menu__channel">facebook</span>
+          </a>
+        </li>
+                    <li>
+          <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.wwe.com%2Fshows%2Fsmackdown%2F2017-02-21&text=SmackDown+Live%3A+Feb.+21%2C+2017&via=wwe" target="_blank" class="icon icon-twitter js-track" data-tracking-label="SmackDown Live: Feb. 21, 2017|social|channel=twitter">
+            <span class="social-menu__channel">twitter</span>
+          </a>
+        </li>
+                    <li>
+          <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fwww.wwe.com%2Fshows%2Fsmackdown%2F2017-02-21&posttype=link&title=SmackDown+Live%3A+Feb.+21%2C+2017" target="_blank" class="icon icon-tumblr js-track" data-tracking-label="SmackDown Live: Feb. 21, 2017|social|channel=tumblr">
+            <span class="social-menu__channel">tumblr</span>
+          </a>
+        </li>
+                    <li>
+          <a href="//www.pinterest.com/pin/create/button/?description=SmackDown+Live%3A+Feb.+21%2C+2017&media=http%3A%2F%2Fwww.wwe.com%2Ff%2Fall%2F2016%2F08%2FSmackdown_app_Rendered_new--1f8fe7b3c013528697b34e766b8a050b.png&url=http%3A%2F%2Fwww.wwe.com%2Fshows%2Fsmackdown%2F2017-02-21" target="_blank" class="icon icon-pinterest js-track" data-tracking-label="SmackDown Live: Feb. 21, 2017|social|channel=pinterest">
+            <span class="social-menu__channel">pinterest</span>
+          </a>
+        </li>
+                    <li>
+          <a href="mailto:?subject=SmackDown%20Live%3A%20Feb.%2021%2C%202017&body=Check this out on WWE.com:%0A%0ASmackDown%20Live%3A%20Feb.%2021%2C%202017%0A%0Ahttp://www.wwe.com/shows/smackdown/2017-02-21" class="icon icon-email js-track" data-tracking-label="SmackDown Live: Feb. 21, 2017|social|channel=email">
+            <span class="social-menu__channel">email</span>
+          </a>
+        </li>
+          </ul>
+  </div>
+</div>
+
+    
+  </div>
+
+  <div class="show-contextual__item show-contextual__item--0" data-vr-zone="SC Mod - Results">
+    <div class="show-contextual__item__image" data-vr-contentbox="SC Mod - Hero">
+      <div class="show-contextual__item__image-content">
+                  <a class="js-track js-link--btn "  data-tracking-label="contentTitle=10-Man WWE Title No. 1 Contender's Battle Royal ends in controversy |contentType=link|state=results|slot=1" data-slot="1" data-ct="link" href="/shows/smackdown/2017-02-21" data-nid="40019642" alt="10-Man WWE Title No. 1 Contender's Battle Royal ends in controversy " title="10-Man WWE Title No. 1 Contender's Battle Royal ends in controversy ">
+            <picture  class="item-image" data-video-preview="">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="/f/styles/wwe_16_9_xl/public/all/2017/02/20170221_SD_stylesherper--4363fc8fbff41877fcf0b56eb8e91176.jpg 1.5x, /f/styles/wwe_16_9_l/public/all/2017/02/20170221_SD_stylesherper--4363fc8fbff41877fcf0b56eb8e91176.jpg 1x, /f/styles/wwe_16_9_xl/public/all/2017/02/20170221_SD_stylesherper--4363fc8fbff41877fcf0b56eb8e91176.jpg 2x" media="(min-width: 1220px)" />
+<source data-srcset="/f/styles/wwe_16_9_xl/public/all/2017/02/20170221_SD_stylesherper--4363fc8fbff41877fcf0b56eb8e91176.jpg 1.5x, /f/styles/wwe_16_9_l/public/all/2017/02/20170221_SD_stylesherper--4363fc8fbff41877fcf0b56eb8e91176.jpg 1x, /f/styles/wwe_16_9_xl/public/all/2017/02/20170221_SD_stylesherper--4363fc8fbff41877fcf0b56eb8e91176.jpg 2x" media="(min-width: 1025px)" />
+<source data-srcset="/f/styles/wwe_16_9_l_FCL/public/all/2017/02/20170221_SD_stylesherper--4363fc8fbff41877fcf0b56eb8e91176.jpg 1.5x, /f/styles/wwe_16_9_FCM/public/all/2017/02/20170221_SD_stylesherper--4363fc8fbff41877fcf0b56eb8e91176.jpg 1x, /f/styles/wwe_16_9_l_FCL/public/all/2017/02/20170221_SD_stylesherper--4363fc8fbff41877fcf0b56eb8e91176.jpg 2x" media="(min-width: 760px)" />
+<source data-srcset="/f/styles/wwe_16_9_mobile_FC/public/all/2017/02/20170221_SD_stylesherper--4363fc8fbff41877fcf0b56eb8e91176.jpg 1.5x, /f/styles/wwe_16_9_mobile_FC/public/all/2017/02/20170221_SD_stylesherper--4363fc8fbff41877fcf0b56eb8e91176.jpg 1x, /f/styles/wwe_16_9_mobile_FC/public/all/2017/02/20170221_SD_stylesherper--4363fc8fbff41877fcf0b56eb8e91176.jpg 2x" media="(min-width: 0px)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="item-image lazyload" data-video-preview="" src="/f/styles/wwe_16_9_l/public/all/2017/02/20170221_SD_stylesherper--4363fc8fbff41877fcf0b56eb8e91176.jpg" alt=" " title="" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img  class="item-image lazyload" data-video-preview="" data-srcset="/f/styles/wwe_16_9_l/public/all/2017/02/20170221_SD_stylesherper--4363fc8fbff41877fcf0b56eb8e91176.jpg 960w" alt=" " title="" />
+<!-- <![endif]-->
+</picture>          </a>
+              </div>
+    </div>
+    <div class="show-contextual__item__copy-and-buttons">
+      <div class="show-contextual__item__copy" data-vr-contentbox="SC Mod - Hero">
+        <a href="/shows/smackdown/2017-02-21" class="js-track js-link--btn" data-nid="40019642" data-tracking-label="contentTitle=10-Man WWE Title No. 1 Contender's Battle Royal ends in controversy |contentType=link|state=link|slot=1" data-vr-excerpttitle>
+          <div class="show-contextual__item__copy__eyebrow">
+            <div class="show-contextual__item__copy__eyebrow__title">
+                              SmackDown LIVE results for 2/21                          </div>
+          </div>
+          <div class="show-contextual__item__copy__text">
+            <div class="show-contextual__item__copy__text__title">
+              10-Man WWE Title No. 1 Contender's Battle Royal ends in controversy             </div>
+          </div>
+        </a>
+
+        
+<div class="social">
+
+  <div class="social-interface">
+    <ul class="social-btns">
+              <li>
+          <a href="https://www.facebook.com/dialog/share?app_id=295666513781415&href=http%3A%2F%2Fwww.wwe.com%2Fshows%2Fsmackdown%2F2017-02-21&redirect_uri=http%3A%2F%2Fwww.wwe.com%2Fshows%2Fsmackdown%2F2017-02-21" target="_blank" class="js-track js-fb-share icon icon--replace icon-facebook" data-tracking-label="SmackDown Live: Feb. 21, 2017|social|channel=facebook" data-fb-url="http://www.wwe.com/shows/smackdown/2017-02-21" data-fb-img="http://www.wwe.com/f/all/2016/08/Smackdown_app_Rendered_new--1f8fe7b3c013528697b34e766b8a050b.png" data-fb-title="SmackDown Live: Feb. 21, 2017"><span>facebook</span></a>
+        </li>
+                    <li>
+          <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.wwe.com%2Fshows%2Fsmackdown%2F2017-02-21&text=SmackDown+Live%3A+Feb.+21%2C+2017&via=wwe" class="js-track icon icon--replace icon-twitter" data-tracking-label="SmackDown Live: Feb. 21, 2017|social|channel=twitter">twitter</a>
+        </li>
+            <li>
+        <a href="#" class="icon-svg social-menu-toggle" data-tracking-label="social|toggle">
+          <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" class="icon-svg--share" viewBox="0 0 63.3 64">
+            <rect class="crs-bar" y="56.2" fill="#D7182A" width="63.3" height="7.8"/>
+            <rect class="uprgt-lft" y="30.5" fill="#7D7B80" width="7.4" height="26"/>
+            <rect class="uprgt-rgt" x="55.8" y="30.5" fill="#7D7B80" width="7.4" height="26"/>
+            <path class="arrow" fill="#7D7B80" d="M31.6,0L16,15.6h11.9v24.6c0,1.5,1.5,3.7,3.7,3.7s3.7-1.5,3.7-3.7V15.6h11.9L31.6,0z"/>
+          </svg>
+        </a>
+      </li>
+    </ul>
+    <ul class="social-menu">
+      <li class="social-menu--head">
+        <span>Share</span>
+        <button class="icon icon--replace icon-close js-track" data-tracking-label="social|mobile-close">close</button>
+      </li>
+              <li>
+          <a href="https://www.facebook.com/dialog/share?app_id=295666513781415&href=http%3A%2F%2Fwww.wwe.com%2Fshows%2Fsmackdown%2F2017-02-21&redirect_uri=http%3A%2F%2Fwww.wwe.com%2Fshows%2Fsmackdown%2F2017-02-21" class="js-fb-share icon icon-facebook js-track" data-fb-url="http://www.wwe.com/shows/smackdown/2017-02-21" data-fb-img="http://www.wwe.com/f/all/2016/08/Smackdown_app_Rendered_new--1f8fe7b3c013528697b34e766b8a050b.png" data-tracking-label="SmackDown Live: Feb. 21, 2017|social|channel=facebook">
+            <span class="social-menu__channel">facebook</span>
+          </a>
+        </li>
+                    <li>
+          <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.wwe.com%2Fshows%2Fsmackdown%2F2017-02-21&text=SmackDown+Live%3A+Feb.+21%2C+2017&via=wwe" target="_blank" class="icon icon-twitter js-track" data-tracking-label="SmackDown Live: Feb. 21, 2017|social|channel=twitter">
+            <span class="social-menu__channel">twitter</span>
+          </a>
+        </li>
+                    <li>
+          <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fwww.wwe.com%2Fshows%2Fsmackdown%2F2017-02-21&posttype=link&title=SmackDown+Live%3A+Feb.+21%2C+2017" target="_blank" class="icon icon-tumblr js-track" data-tracking-label="SmackDown Live: Feb. 21, 2017|social|channel=tumblr">
+            <span class="social-menu__channel">tumblr</span>
+          </a>
+        </li>
+                    <li>
+          <a href="//www.pinterest.com/pin/create/button/?description=SmackDown+Live%3A+Feb.+21%2C+2017&media=http%3A%2F%2Fwww.wwe.com%2Ff%2Fall%2F2016%2F08%2FSmackdown_app_Rendered_new--1f8fe7b3c013528697b34e766b8a050b.png&url=http%3A%2F%2Fwww.wwe.com%2Fshows%2Fsmackdown%2F2017-02-21" target="_blank" class="icon icon-pinterest js-track" data-tracking-label="SmackDown Live: Feb. 21, 2017|social|channel=pinterest">
+            <span class="social-menu__channel">pinterest</span>
+          </a>
+        </li>
+                    <li>
+          <a href="mailto:?subject=SmackDown%20Live%3A%20Feb.%2021%2C%202017&body=Check this out on WWE.com:%0A%0ASmackDown%20Live%3A%20Feb.%2021%2C%202017%0A%0Ahttp://www.wwe.com/shows/smackdown/2017-02-21" class="icon icon-email js-track" data-tracking-label="SmackDown Live: Feb. 21, 2017|social|channel=email">
+            <span class="social-menu__channel">email</span>
+          </a>
+        </li>
+          </ul>
+  </div>
+</div>
+
+              </div>
+      <div class="show-contextual__item__buttons show-contextual__item__buttons__double" data-vr-contentbox="SC Mod - Hero CTAs">
+                  <a href="http://www.wwe.com/shows/smackdown/2017-02-21" class="show-contextual--item-btn btn js-track js-link--btn" data-tracking-label="contentTitle=SmackDown Live: Feb. 21, 2017_Results|state=results|slot=1" data-vr-excerpttitle="" title="Results" data-nid="40019642">Results</a>                  <a href="http://www.wwe.com/playlist/smackdown-live-highlights-feb-21-2017" class="show-contextual--item-btn btn js-track contextual-video-cta js-video_playlist--btn" data-tracking-label="contentTitle=SmackDown Live: Feb. 21, 2017_Watch highlights|state=results|slot=2" data-vr-excerpttitle="" title="Watch highlights" data-nid="0" data-playlist-id="40019672">Watch highlights</a>              </div>
+    </div>
+  </div>
+
+  <div class="show-contextual--items-wrapper">
+                            <div class="show-contextual__item show-contextual__item--1"  data-vr-zone="SC Mod - Results--1" data-vr-contentbox>
+          <div class="show-contextual__item__image" >
+                          <a class="js-track js-video--btn icon-video wwe-display-duration video-play-large js-video-inline--btn" data-nid="40019741" data-duration="03:23" data-video="{&quot;sponsors&quot;:&quot;&quot;,&quot;numSponsors&quot;:false,&quot;title&quot;:&quot;Featured Videos&quot;,&quot;playlist&quot;:[{&quot;image&quot;:&quot;\/f\/styles\/wwe_16_9_s\/public\/2017\/02\/20170221_sd_vid_nikkinatty--0f93602a5cdb9c8497fc8d0e394fad74.jpg&quot;,&quot;file&quot;:&quot;\/\/vod.wwe.com\/vod\/2017\/,1080,720,540,432,360,288,\/sd914_nikki_nattie_022117.m3u8&quot;,&quot;title&quot;:&quot;Nikki Bella vs. Natalya - Falls Count Anywhere Match: SmackDown LIVE, Feb. 21, 2017&quot;,&quot;nid&quot;:&quot;40019741&quot;,&quot;vms_id&quot;:53027,&quot;description&quot;:&quot;Fearless Nikki looks to rid her life of The Queen of Black Harts in a brutal Falls Count Anywhere Match.&quot;,&quot;wwe_network&quot;:false,&quot;link_url&quot;:&quot;http:\/\/r.wwe.mlb.services\/flow\/network&quot;,&quot;ads_disabled&quot;:0,&quot;numSponsors&quot;:false,&quot;path&quot;:&quot;\/videos\/nikki-bella-vs-natalya-falls-count-anywhere-match-smackdown-live-feb-21-2017&quot;,&quot;abs_path&quot;:&quot;http:\/\/www.wwe.com\/videos\/nikki-bella-vs-natalya-falls-count-anywhere-match-smackdown-live-feb-21-2017&quot;,&quot;network_logged_in_cta&quot;:&quot;&quot;,&quot;show_name&quot;:&quot;SmackDown LIVE&quot;,&quot;episode_name&quot;:&quot;SmackDown Live: Feb. 21, 2017&quot;,&quot;mediaid&quot;:&quot;7d2bll6u&quot;,&quot;tracks&quot;:[{&quot;file&quot;:&quot;https:\/\/cdn1.wwe.com\/hd_video1\/wwe\/2017\/sd914_nikki_nattie_022117\/sd914_nikki_nattie_022117.vtt&quot;,&quot;kind&quot;:&quot;thumbnails&quot;}],&quot;playlist_offset&quot;:0,&quot;playlist_nid&quot;:0,&quot;backfilled&quot;:true,&quot;parent_playlist_nid&quot;:0,&quot;playlist_title&quot;:&quot;Featured Videos&quot;,&quot;playlist_short_headline&quot;:&quot;Featured Videos&quot;,&quot;video_offset&quot;:0}],&quot;takeover_bg&quot;:&quot;\/f\/2016\/02\/Network_Video_Splash_Image--721e7a876c36fb926d6ca4665a77828b.jpg&quot;}" data-tracking-label="contentTitle=Nikki Bella goes to war with Natalya in a Falls Count Anywhere Match|contentType=video|state=results|slot=2" data-slot="2" data-ct="video" href="/videos/nikki-bella-vs-natalya-falls-count-anywhere-match-smackdown-live-feb-21-2017" alt="Nikki Bella goes to war with Natalya in a Falls Count Anywhere Match" title="Nikki Bella goes to war with Natalya in a Falls Count Anywhere Match" data-vr-excerpttitle>
+                <picture  class="item-image js-video--rollover" data-video-preview="https://cdn1.wwe.com/hd_video1/wwe/2017/sd914_nikki_nattie_022117/sd914_nikki_nattie_022117_preview.mp4" data-video-loop="https://cdn1.wwe.com/hd_video1/wwe/2017/sd914_nikki_nattie_022117/sd914_nikki_nattie_022117_preview.mp4">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="/f/styles/wwe_16_9_l/public/2017/02/20170221_sd_vid_nikkinatty--0f93602a5cdb9c8497fc8d0e394fad74.jpg 1.5x, /f/styles/wwe_16_9_xs/public/2017/02/20170221_sd_vid_nikkinatty--0f93602a5cdb9c8497fc8d0e394fad74.jpg 1x, /f/styles/wwe_16_9_l/public/2017/02/20170221_sd_vid_nikkinatty--0f93602a5cdb9c8497fc8d0e394fad74.jpg 2x" media="(min-width: 1220px)" />
+<source data-srcset="/f/styles/wwe_16_9_l/public/2017/02/20170221_sd_vid_nikkinatty--0f93602a5cdb9c8497fc8d0e394fad74.jpg 1.5x, /f/styles/wwe_16_9_csm/public/2017/02/20170221_sd_vid_nikkinatty--0f93602a5cdb9c8497fc8d0e394fad74.jpg 1x, /f/styles/wwe_16_9_l/public/2017/02/20170221_sd_vid_nikkinatty--0f93602a5cdb9c8497fc8d0e394fad74.jpg 2x" media="(min-width: 1025px)" />
+<source data-srcset="/f/styles/wwe_16_9_m/public/2017/02/20170221_sd_vid_nikkinatty--0f93602a5cdb9c8497fc8d0e394fad74.jpg 1.5x, /f/styles/wwe_16_9_csm/public/2017/02/20170221_sd_vid_nikkinatty--0f93602a5cdb9c8497fc8d0e394fad74.jpg 1x, /f/styles/wwe_16_9_m/public/2017/02/20170221_sd_vid_nikkinatty--0f93602a5cdb9c8497fc8d0e394fad74.jpg 2x" media="(min-width: 760px)" />
+<source data-srcset="/f/styles/wwe_16_9_xs/public/2017/02/20170221_sd_vid_nikkinatty--0f93602a5cdb9c8497fc8d0e394fad74.jpg 1.5x, /f/styles/wwe_16_9_css/public/2017/02/20170221_sd_vid_nikkinatty--0f93602a5cdb9c8497fc8d0e394fad74.jpg 1x, /f/styles/wwe_16_9_xs/public/2017/02/20170221_sd_vid_nikkinatty--0f93602a5cdb9c8497fc8d0e394fad74.jpg 2x" media="(min-width: 0px)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="item-image js-video--rollover lazyload" data-video-preview="https://cdn1.wwe.com/hd_video1/wwe/2017/sd914_nikki_nattie_022117/sd914_nikki_nattie_022117_preview.mp4" data-video-loop="https://cdn1.wwe.com/hd_video1/wwe/2017/sd914_nikki_nattie_022117/sd914_nikki_nattie_022117_preview.mp4" src="/f/styles/wwe_16_9_s/public/2017/02/20170221_sd_vid_nikkinatty--0f93602a5cdb9c8497fc8d0e394fad74.jpg" alt=" " title="" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img  class="item-image js-video--rollover lazyload" data-video-preview="https://cdn1.wwe.com/hd_video1/wwe/2017/sd914_nikki_nattie_022117/sd914_nikki_nattie_022117_preview.mp4" data-video-loop="https://cdn1.wwe.com/hd_video1/wwe/2017/sd914_nikki_nattie_022117/sd914_nikki_nattie_022117_preview.mp4" data-srcset="/f/styles/wwe_16_9_s/public/2017/02/20170221_sd_vid_nikkinatty--0f93602a5cdb9c8497fc8d0e394fad74.jpg 640w" alt=" " title="" />
+<!-- <![endif]-->
+</picture>              </a>
+                      </div>
+          <div class="show-contextual__item__copy-and-buttons">
+            <div class="show-contextual__item__copy">
+              <a href="/videos/nikki-bella-vs-natalya-falls-count-anywhere-match-smackdown-live-feb-21-2017" class="js-track js-video--brn" data-nid="40019741" data-tracking-label="contentTitle=Nikki Bella goes to war with Natalya in a Falls Count Anywhere Match|contentType=video|state=results|slot=2" data-vr-excerpttitle>
+                <div class="show-contextual__item__copy__eyebrow">
+                  <div class="show-contextual__item__copy__eyebrow__title">
+                                          SmackDown LIVE results for 2/21                                      </div>
+                </div>
+                <div class="show-contextual__item__copy__text">
+                  <div class="show-contextual__item__copy__text__title">
+                    Nikki Bella goes to war with Natalya in a Falls Count Anywhere Match                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+                        <div class="show-contextual__item show-contextual__item--2"  data-vr-zone="SC Mod - Results--2" data-vr-contentbox>
+          <div class="show-contextual__item__image" >
+                          <a class="js-track js-video--btn icon-video wwe-display-duration video-play-large js-video-inline--btn" data-nid="40019734" data-duration="03:20" data-video="{&quot;sponsors&quot;:&quot;&quot;,&quot;numSponsors&quot;:false,&quot;title&quot;:&quot;Featured Videos&quot;,&quot;playlist&quot;:[{&quot;image&quot;:&quot;\/f\/styles\/wwe_16_9_s\/public\/2017\/02\/20170221_sd_vid_naomi--3a2a75b1b82eac1643db4f2f284d4af1.jpg&quot;,&quot;file&quot;:&quot;\/\/vod.wwe.com\/vod\/2017\/,1080,720,540,432,360,288,\/sd914_naomi_title_022117rev.m3u8&quot;,&quot;title&quot;:&quot;Naomi is forced to relinquish the SmackDown Women&amp;rsquo;s Championship: SmackDown LIVE, Feb. 21, 2017&quot;,&quot;nid&quot;:&quot;40019734&quot;,&quot;vms_id&quot;:53024,&quot;description&quot;:&quot;Just nine days after realizing her lifelong dream, an injured Naomi must surrender the SmackDown Women&amp;rsquo;s Title to General Manager Daniel Bryan.&quot;,&quot;wwe_network&quot;:false,&quot;link_url&quot;:&quot;http:\/\/r.wwe.mlb.services\/flow\/network&quot;,&quot;ads_disabled&quot;:0,&quot;numSponsors&quot;:false,&quot;path&quot;:&quot;\/videos\/naomi-is-forced-to-relinquish-the-smackdown-womens-championship-smackdown-live-feb-21-2017&quot;,&quot;abs_path&quot;:&quot;http:\/\/www.wwe.com\/videos\/naomi-is-forced-to-relinquish-the-smackdown-womens-championship-smackdown-live-feb-21-2017&quot;,&quot;network_logged_in_cta&quot;:&quot;&quot;,&quot;show_name&quot;:&quot;SmackDown LIVE&quot;,&quot;episode_name&quot;:&quot;SmackDown Live: Feb. 21, 2017&quot;,&quot;mediaid&quot;:&quot;8ECapiS1&quot;,&quot;tracks&quot;:[{&quot;file&quot;:&quot;https:\/\/cdn1.wwe.com\/hd_video1\/wwe\/2017\/sd914_naomi_title_022117rev\/sd914_naomi_title_022117rev.vtt&quot;,&quot;kind&quot;:&quot;thumbnails&quot;}],&quot;playlist_offset&quot;:0,&quot;playlist_nid&quot;:0,&quot;backfilled&quot;:true,&quot;parent_playlist_nid&quot;:0,&quot;playlist_title&quot;:&quot;Featured Videos&quot;,&quot;playlist_short_headline&quot;:&quot;Featured Videos&quot;,&quot;video_offset&quot;:0}],&quot;takeover_bg&quot;:&quot;\/f\/2016\/02\/Network_Video_Splash_Image--721e7a876c36fb926d6ca4665a77828b.jpg&quot;}" data-tracking-label="contentTitle=Naomi is forced to surrender the SmackDown Women’s Championship |contentType=video|state=results|slot=3" data-slot="3" data-ct="video" href="/videos/naomi-is-forced-to-relinquish-the-smackdown-womens-championship-smackdown-live-feb-21-2017" alt="Naomi is forced to surrender the SmackDown Women’s Championship " title="Naomi is forced to surrender the SmackDown Women’s Championship " data-vr-excerpttitle>
+                <picture  class="item-image js-video--rollover" data-video-preview="https://cdn1.wwe.com/hd_video1/wwe/2017/sd914_naomi_title_022117rev/sd914_naomi_title_022117rev_preview.mp4" data-video-loop="https://cdn1.wwe.com/hd_video1/wwe/2017/sd914_naomi_title_022117rev/sd914_naomi_title_022117rev_preview.mp4">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="/f/styles/wwe_16_9_l/public/2017/02/20170221_sd_vid_naomi--3a2a75b1b82eac1643db4f2f284d4af1.jpg 1.5x, /f/styles/wwe_16_9_xs/public/2017/02/20170221_sd_vid_naomi--3a2a75b1b82eac1643db4f2f284d4af1.jpg 1x, /f/styles/wwe_16_9_l/public/2017/02/20170221_sd_vid_naomi--3a2a75b1b82eac1643db4f2f284d4af1.jpg 2x" media="(min-width: 1220px)" />
+<source data-srcset="/f/styles/wwe_16_9_l/public/2017/02/20170221_sd_vid_naomi--3a2a75b1b82eac1643db4f2f284d4af1.jpg 1.5x, /f/styles/wwe_16_9_csm/public/2017/02/20170221_sd_vid_naomi--3a2a75b1b82eac1643db4f2f284d4af1.jpg 1x, /f/styles/wwe_16_9_l/public/2017/02/20170221_sd_vid_naomi--3a2a75b1b82eac1643db4f2f284d4af1.jpg 2x" media="(min-width: 1025px)" />
+<source data-srcset="/f/styles/wwe_16_9_m/public/2017/02/20170221_sd_vid_naomi--3a2a75b1b82eac1643db4f2f284d4af1.jpg 1.5x, /f/styles/wwe_16_9_csm/public/2017/02/20170221_sd_vid_naomi--3a2a75b1b82eac1643db4f2f284d4af1.jpg 1x, /f/styles/wwe_16_9_m/public/2017/02/20170221_sd_vid_naomi--3a2a75b1b82eac1643db4f2f284d4af1.jpg 2x" media="(min-width: 760px)" />
+<source data-srcset="/f/styles/wwe_16_9_xs/public/2017/02/20170221_sd_vid_naomi--3a2a75b1b82eac1643db4f2f284d4af1.jpg 1.5x, /f/styles/wwe_16_9_css/public/2017/02/20170221_sd_vid_naomi--3a2a75b1b82eac1643db4f2f284d4af1.jpg 1x, /f/styles/wwe_16_9_xs/public/2017/02/20170221_sd_vid_naomi--3a2a75b1b82eac1643db4f2f284d4af1.jpg 2x" media="(min-width: 0px)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="item-image js-video--rollover lazyload" data-video-preview="https://cdn1.wwe.com/hd_video1/wwe/2017/sd914_naomi_title_022117rev/sd914_naomi_title_022117rev_preview.mp4" data-video-loop="https://cdn1.wwe.com/hd_video1/wwe/2017/sd914_naomi_title_022117rev/sd914_naomi_title_022117rev_preview.mp4" src="/f/styles/wwe_16_9_s/public/2017/02/20170221_sd_vid_naomi--3a2a75b1b82eac1643db4f2f284d4af1.jpg" alt=" " title="" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img  class="item-image js-video--rollover lazyload" data-video-preview="https://cdn1.wwe.com/hd_video1/wwe/2017/sd914_naomi_title_022117rev/sd914_naomi_title_022117rev_preview.mp4" data-video-loop="https://cdn1.wwe.com/hd_video1/wwe/2017/sd914_naomi_title_022117rev/sd914_naomi_title_022117rev_preview.mp4" data-srcset="/f/styles/wwe_16_9_s/public/2017/02/20170221_sd_vid_naomi--3a2a75b1b82eac1643db4f2f284d4af1.jpg 640w" alt=" " title="" />
+<!-- <![endif]-->
+</picture>              </a>
+                      </div>
+          <div class="show-contextual__item__copy-and-buttons">
+            <div class="show-contextual__item__copy">
+              <a href="/videos/naomi-is-forced-to-relinquish-the-smackdown-womens-championship-smackdown-live-feb-21-2017" class="js-track js-video--brn" data-nid="40019734" data-tracking-label="contentTitle=Naomi is forced to surrender the SmackDown Women’s Championship |contentType=video|state=results|slot=3" data-vr-excerpttitle>
+                <div class="show-contextual__item__copy__eyebrow">
+                  <div class="show-contextual__item__copy__eyebrow__title">
+                                          SmackDown LIVE results for 2/21                                      </div>
+                </div>
+                <div class="show-contextual__item__copy__text">
+                  <div class="show-contextual__item__copy__text__title">
+                    Naomi is forced to surrender the SmackDown Women’s Championship                   </div>
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+                        <div class="show-contextual__item show-contextual__item--3"  data-vr-zone="SC Mod - Results--3" data-vr-contentbox>
+          <div class="show-contextual__item__image" >
+                          <a class="js-track js-gallery--btn " data-nid="40019683"  data-tracking-label="contentTitle=Photos: Alexa Bliss battles Becky Lynch for the vacant SmackDown Women’s Title|contentType=gallery|state=results|slot=4" data-slot="4" data-ct="gallery" href="/shows/smackdown/2017-02-21/gallery/becky-lynch-alexa-bliss-smackdown-womens-championship-match-photos" alt="Photos: Alexa Bliss battles Becky Lynch for the vacant SmackDown Women’s Title" title="Photos: Alexa Bliss battles Becky Lynch for the vacant SmackDown Women’s Title" data-vr-excerpttitle>
+                <picture  class="item-image" data-video-preview="">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="/f/styles/wwe_16_9_l/public/all/2017/02/040_SD_02212017sb_1311--997851fc11dcf7bb04e51538fcb17d56.jpg 1.5x, /f/styles/wwe_16_9_xs/public/all/2017/02/040_SD_02212017sb_1311--997851fc11dcf7bb04e51538fcb17d56.jpg 1x, /f/styles/wwe_16_9_l/public/all/2017/02/040_SD_02212017sb_1311--997851fc11dcf7bb04e51538fcb17d56.jpg 2x" media="(min-width: 1220px)" />
+<source data-srcset="/f/styles/wwe_16_9_l/public/all/2017/02/040_SD_02212017sb_1311--997851fc11dcf7bb04e51538fcb17d56.jpg 1.5x, /f/styles/wwe_16_9_csm/public/all/2017/02/040_SD_02212017sb_1311--997851fc11dcf7bb04e51538fcb17d56.jpg 1x, /f/styles/wwe_16_9_l/public/all/2017/02/040_SD_02212017sb_1311--997851fc11dcf7bb04e51538fcb17d56.jpg 2x" media="(min-width: 1025px)" />
+<source data-srcset="/f/styles/wwe_16_9_m/public/all/2017/02/040_SD_02212017sb_1311--997851fc11dcf7bb04e51538fcb17d56.jpg 1.5x, /f/styles/wwe_16_9_csm/public/all/2017/02/040_SD_02212017sb_1311--997851fc11dcf7bb04e51538fcb17d56.jpg 1x, /f/styles/wwe_16_9_m/public/all/2017/02/040_SD_02212017sb_1311--997851fc11dcf7bb04e51538fcb17d56.jpg 2x" media="(min-width: 760px)" />
+<source data-srcset="/f/styles/wwe_16_9_xs/public/all/2017/02/040_SD_02212017sb_1311--997851fc11dcf7bb04e51538fcb17d56.jpg 1.5x, /f/styles/wwe_16_9_css/public/all/2017/02/040_SD_02212017sb_1311--997851fc11dcf7bb04e51538fcb17d56.jpg 1x, /f/styles/wwe_16_9_xs/public/all/2017/02/040_SD_02212017sb_1311--997851fc11dcf7bb04e51538fcb17d56.jpg 2x" media="(min-width: 0px)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  class="item-image lazyload" data-video-preview="" src="/f/styles/wwe_16_9_s/public/all/2017/02/040_SD_02212017sb_1311--997851fc11dcf7bb04e51538fcb17d56.jpg" alt=" " title="" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img  class="item-image lazyload" data-video-preview="" data-srcset="/f/styles/wwe_16_9_s/public/all/2017/02/040_SD_02212017sb_1311--997851fc11dcf7bb04e51538fcb17d56.jpg 640w" alt=" " title="" />
+<!-- <![endif]-->
+</picture>              </a>
+                      </div>
+          <div class="show-contextual__item__copy-and-buttons">
+            <div class="show-contextual__item__copy">
+              <a href="/shows/smackdown/2017-02-21/gallery/becky-lynch-alexa-bliss-smackdown-womens-championship-match-photos" class="js-track js-gallery--brn" data-nid="40019683" data-tracking-label="contentTitle=Photos: Alexa Bliss battles Becky Lynch for the vacant SmackDown Women’s Title|contentType=gallery|state=results|slot=4" data-vr-excerpttitle>
+                <div class="show-contextual__item__copy__eyebrow">
+                  <div class="show-contextual__item__copy__eyebrow__title">
+                                          SmackDown LIVE results for 2/21                                      </div>
+                </div>
+                <div class="show-contextual__item__copy__text">
+                  <div class="show-contextual__item__copy__text__title">
+                    Photos: Alexa Bliss battles Becky Lynch for the vacant SmackDown Women’s Title                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+            </div>
+
+  <!-- Sponsored section track sponsor -->
+  <div class="show-contextual__sponsored-track">
+    <div class="">
+          </div>
+  </div>
+  <!-- Sponsored section track sponsor end-->
+
+</div>
+
+    </div>
+  </div><!-- end l-hybrid-col-frame_top -->
+  
+    <div class="l-hybrid-col-frame_col-wrap hybrid-col-frame_col-wrap">
+
+        <div class="l-hybrid-col-frame_left hybrid-col-frame_left">
+      <div data-wname="feed_cards_pane" data-pos="0" class="panel-pane pane-feed-cards-pane">
+            
+<div ng-app="wweApp" ng-controller="ContentPaneController">
+  <div ng-init="path = ('node_134494_20170214' | escapePath); language = 'en'; confHash = 'node_134494_20170214_en_init'; basePath = 'api/infinite-scroll';" data-vr-zone="Feed Cards">
+    <div infinite-scroll="loadMore()" infinite-scroll-disabled="busy" infinite-scroll-distance="2">
+      <div ng-repeat="items in content.entityGroups">
+        <div class="{{ items.class }}">
+          <div ng-repeat="node in items.entities | filter: geoTarget" ng-bind-html="node.markup | html" dynamic="html" ng-init="sectionIndex = $index"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    </div>
+    </div><!-- end l-hybrid-col-frame_main -->
+    
+        <div class="l-hybrid-col-frame_rail-wrap hybrid-col-frame_rail-wrap">
+      <div class="l-hybrid-col-frame_rail hybrid-col-frame_rail frame-rail-1">
+        <div data-wname="ads_rail_pane" data-pos="0" class="panel-pane pane-ads-rail-pane">
+            <div class="wwe-ad--rail wwe-ad--rail-1">
+  <div id="wwe-ad-rail-416197692"></div>
+    </div>
+    </div>
+      </div><!-- end l-hybrid-col-frame_rail -->
+    </div><!-- end l-hybrid-col-frame_rail-wrap -->
+    
+  </div><!-- end l-hybrid-col-frame_col-wrap -->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    <div class="l-hybrid-col-frame_bottom hybrid-col-frame_bottom">
+    <div data-wname="panels_mini" data-pos="0" class="panel-pane pane-panels-mini pane-navigation-drawer">
+            <div class="l-one-col-frame one-col-frame">
+
+    <div class="l-one-col-frame_top one-col-frame_top">
+    <div data-wname="block" data-pos="0" class="panel-pane pane-block pane-system-main-menu">
+            <div class="main-menu__hamburger"><span>toggle menu</span></div><ul class="menu main-menu"><li class="first leaf menu__item--wwe-logo menu__item--wwe-logo"><a href="/" class="menu__link--wwe-logo menu__link--wwe-logo">Home</a></li>
+<li class="leaf"><a href="/shows">Shows</a></li>
+<li class="leaf"><a href="/superstars">Superstars</a></li>
+<li class="leaf"><a href="/events">Tickets &amp; Events</a></li>
+<li class="leaf"><a href="http://wweshop.com/Home?utm_source=WWE&amp;utm_medium=Dotcom&amp;utm_term=top&amp;utm_content=link&amp;utm_campaign=nav">Shop</a></li>
+<li class="last leaf"><a href="http://wwe.com/wwenetwork" class="js--network-url">WWE Network</a></li>
+</ul>    </div>
+<div data-wname="language_switcher_pane" data-pos="1" class="panel-pane pane-language-switcher-pane">
+            <button class="wwe-language-toggle--mobile js-language-toggle-mobile">
+  languages</button>
+
+<ul class="wwe-language-title">
+  <li class="active">
+    <a>English</a>
+  </li>
+</ul>
+
+<ul class="wwe-language-switcher">
+  <li class="wwe-language-toggle--mobile">
+    languages    <button class="js-language-toggle-mobile">
+      Back    </button>
+  </li>
+          <li  class="current">
+      <a href="/shows/smackdown/2017-02-14%0D" class="language-link active" xml:lang="en" hreflang="en">English</a>    </li>
+          <li  class="">
+      <a href="//de.wwe.com/shows/smackdown/2017-02-14%0D" class="language-link" xml:lang="de" hreflang="de">German</a>    </li>
+          <li  class="">
+      <a href="//espanol.wwe.com/shows/smackdown/2017-02-14%0D" class="language-link" xml:lang="es" hreflang="es">Spanish</a>    </li>
+          <li  class="">
+      <a href="//arabic.wwe.com" class="language-link language-link--external" xml:lang="ar" hreflang="ar">Arabic</a>    </li>
+  </ul>
+    </div>
+<div data-wname="wwe_signin_pane" data-pos="2" class="panel-pane pane-wwe-signin-pane">
+            <a href="/" id="wwe-sign-in" class="wwe-sign-in">Sign in</a>    </div>
+<div data-wname="distributed_footer" data-pos="3" class="panel-pane pane-distributed-footer">
+            <div class="wwe-distributed-footer--wrapper wwe-breaker--wrapper" data-wname="distributed_footer">
+  <div class="wwe-distributed-footer--content">
+    <div class="wwe-distributed-footer--links">
+      <ul class="wwe-distributed-footer--menu-social-links"><li class="menu-8413 first"><a href="https://www.facebook.com/wwe" title="" class="wwe-distributed-footer--menu-social-links__facebook">Facebook</a></li>
+<li class="menu-8960"><a href="https://twitter.com/wweuniverse" class="wwe-distributed-footer--menu-social-links__twitter">Twitter</a></li>
+<li class="menu-8962"><a href="https://instagram.com/wwe/" class="wwe-distributed-footer--menu-social-links__instagram">Instagram</a></li>
+<li class="menu-8415"><a href="https://plus.google.com/+WWE " target="_blank" class="wwe-distributed-footer--menu-social-links__google-plus">Google Plus</a></li>
+<li class="menu-8961"><a href="https://vine.co/WWE" class="wwe-distributed-footer--menu-social-links__vine">Vine</a></li>
+<li class="menu-18619"><a href="https://www.pinterest.com/WWE/" class="wwe-distributed-footer--menu-social-links__pinterest">Pinterest</a></li>
+<li class="menu-9490 last"><a href="https://www.youtube.com/wwe" target="_blank" class="wwe-distributed-footer--menu-social-links__youtube">YouTube</a></li>
+</ul>      <div class="wwe-distributed-footer--bottom-links">
+        <ul class="wwe-distributed-footer--menu-legal"><li class="menu-8422 first"><a href="http://corporate.wwe.com/" target="_blank" class="wwe-distributed-footer--menu-legal__corporate">Corporate</a></li>
+<li class="menu-45681"><a href="http://corporate.wwe.com/careers/careers-overview" target="_blank" class="wwe-distributed-footer--menu-legal__careers">Careers</a></li>
+<li class="menu-8423"><a href="https://community.wwe.com/" target="_blank" class="wwe-distributed-footer--menu-legal__community">Community</a></li>
+<li class="menu-33000"><a href="/main-help/contact-us" class="wwe-distributed-footer--menu-legal__contact">Contact</a></li>
+<li class="menu-34351"><a href="http://www.wwe.com/worldwide" title="Worldwide" id="Worldwide" name="Worldwide" class="wwe-distributed-footer--menu-legal__worldwide">Worldwide</a></li>
+<li class="menu-9416"><a href="http://www.wwe.com/inside/wwemusic" class="wwe-distributed-footer--menu-legal__wwe-music">WWE Music</a></li>
+<li class="menu-9417 last"><a href="http://www.wwe.com/inside/overtheropes/wwestudios" class="wwe-distributed-footer--menu-legal__wwe-studios">WWE Studios</a></li>
+</ul>        <ul class="wwe-distributed-footer--menu-footer"><li class="menu-8417 first"><a href="/main-help/generalfaq/privacy-policy" class="wwe-distributed-footer--menu-footer__privacy-policy">Privacy Policy</a></li>
+<li class="menu-8418"><a href="/main-help/generalfaq/copyright" class="wwe-distributed-footer--menu-footer__copyright">Copyright</a></li>
+<li class="menu-8419"><a href="/page/terms-and-conditions" class="wwe-distributed-footer--menu-footer__terms--conditions">Terms &amp; Conditions</a></li>
+<li class="menu-8420"><a href="/page/data-preferences" class="wwe-distributed-footer--menu-footer__cookie-preferences">Cookie Preferences</a></li>
+<li class="menu-16899"><a href="http://www.wwe.com/help" title="wwe.com/help" name="wwe.com/help" class="wwe-distributed-footer--menu-footer__faq">FAQ</a></li>
+<li class="menu-32327"><a href="http://wwe.com/redeem" class="wwe-distributed-footer--menu-footer__redeem-gift-card">Redeem Gift Card</a></li>
+<li class="menu-36991 last"><a href="/security-policy" class="wwe-distributed-footer--menu-footer__security">Security</a></li>
+</ul>      </div>
+    </div>
+    <div class="wwe-distributed-footer--logo-container">
+      <a href="/"><img class="wwe-distributed-footer--logo" title="Logo" alt="WWE Logo" src="/a/i/wwe_logo.svg" /></a>    </div>
+  </div>
+</div>
+
+  <div class="wwe-breaker-ad wwe-ad--rail wwe-breaker-ad--distributed-footer">
+      </div>
+    </div>
+<div data-wname="ads_hamburger_pane" data-pos="4" class="panel-pane pane-ads-hamburger-pane">
+            
+<div id="wwe-ad--hamburger" class="wwe-ad--hamburger"></div>
+    </div>
+  </div><!-- end l-one-col-frame_top -->
+  
+  
+  
+</div> <!-- end one-col-frame -->
+    </div>
+<div data-wname="ads_footer_pane" data-pos="1" class="panel-pane pane-ads-footer-pane">
+            <div id="wwe-ad-footer-910111327" class="wwe-ad-footer"></div>    </div>
+<div data-wname="distributed_footer" data-pos="2" class="panel-pane pane-distributed-footer">
+            <div class="wwe-distributed-footer--wrapper wwe-breaker--wrapper" data-wname="distributed_footer">
+  <div class="wwe-distributed-footer--content">
+    <div class="wwe-distributed-footer--links">
+      <ul class="wwe-distributed-footer--menu-social-links"><li class="menu-8413 first"><a href="https://www.facebook.com/wwe" title="" class="wwe-distributed-footer--menu-social-links__facebook">Facebook</a></li>
+<li class="menu-8960"><a href="https://twitter.com/wweuniverse" class="wwe-distributed-footer--menu-social-links__twitter">Twitter</a></li>
+<li class="menu-8962"><a href="https://instagram.com/wwe/" class="wwe-distributed-footer--menu-social-links__instagram">Instagram</a></li>
+<li class="menu-8415"><a href="https://plus.google.com/+WWE " target="_blank" class="wwe-distributed-footer--menu-social-links__google-plus">Google Plus</a></li>
+<li class="menu-8961"><a href="https://vine.co/WWE" class="wwe-distributed-footer--menu-social-links__vine">Vine</a></li>
+<li class="menu-18619"><a href="https://www.pinterest.com/WWE/" class="wwe-distributed-footer--menu-social-links__pinterest">Pinterest</a></li>
+<li class="menu-9490 last"><a href="https://www.youtube.com/wwe" target="_blank" class="wwe-distributed-footer--menu-social-links__youtube">YouTube</a></li>
+</ul>      <div class="wwe-distributed-footer--bottom-links">
+        <ul class="wwe-distributed-footer--menu-legal"><li class="menu-8422 first"><a href="http://corporate.wwe.com/" target="_blank" class="wwe-distributed-footer--menu-legal__corporate">Corporate</a></li>
+<li class="menu-45681"><a href="http://corporate.wwe.com/careers/careers-overview" target="_blank" class="wwe-distributed-footer--menu-legal__careers">Careers</a></li>
+<li class="menu-8423"><a href="https://community.wwe.com/" target="_blank" class="wwe-distributed-footer--menu-legal__community">Community</a></li>
+<li class="menu-33000"><a href="/main-help/contact-us" class="wwe-distributed-footer--menu-legal__contact">Contact</a></li>
+<li class="menu-34351"><a href="http://www.wwe.com/worldwide" title="Worldwide" id="Worldwide" name="Worldwide" class="wwe-distributed-footer--menu-legal__worldwide">Worldwide</a></li>
+<li class="menu-9416"><a href="http://www.wwe.com/inside/wwemusic" class="wwe-distributed-footer--menu-legal__wwe-music">WWE Music</a></li>
+<li class="menu-9417 last"><a href="http://www.wwe.com/inside/overtheropes/wwestudios" class="wwe-distributed-footer--menu-legal__wwe-studios">WWE Studios</a></li>
+</ul>        <ul class="wwe-distributed-footer--menu-footer"><li class="menu-8417 first"><a href="/main-help/generalfaq/privacy-policy" class="wwe-distributed-footer--menu-footer__privacy-policy">Privacy Policy</a></li>
+<li class="menu-8418"><a href="/main-help/generalfaq/copyright" class="wwe-distributed-footer--menu-footer__copyright">Copyright</a></li>
+<li class="menu-8419"><a href="/page/terms-and-conditions" class="wwe-distributed-footer--menu-footer__terms--conditions">Terms &amp; Conditions</a></li>
+<li class="menu-8420"><a href="/page/data-preferences" class="wwe-distributed-footer--menu-footer__cookie-preferences">Cookie Preferences</a></li>
+<li class="menu-16899"><a href="http://www.wwe.com/help" title="wwe.com/help" name="wwe.com/help" class="wwe-distributed-footer--menu-footer__faq">FAQ</a></li>
+<li class="menu-32327"><a href="http://wwe.com/redeem" class="wwe-distributed-footer--menu-footer__redeem-gift-card">Redeem Gift Card</a></li>
+<li class="menu-36991 last"><a href="/security-policy" class="wwe-distributed-footer--menu-footer__security">Security</a></li>
+</ul>      </div>
+    </div>
+    <div class="wwe-distributed-footer--logo-container">
+      <a href="/"><img class="wwe-distributed-footer--logo" title="Logo" alt="WWE Logo" src="/a/i/wwe_logo.svg" /></a>    </div>
+  </div>
+</div>
+
+  <div class="wwe-breaker-ad wwe-ad--rail wwe-breaker-ad--distributed-footer">
+      </div>
+    </div>
+  </div>
+  
+</div> <!-- end page -->
+</div>
+  <script type="text/javascript" src="/f/advagg_js/js__gpBHymPy0cZtGflAX-HtnXpqjdz3SFOq1ifLomZkVgI__2pkqXjBO9pMF06nUvX11DkMECNCM7M-5Qm_bWm0bC9k__g6oiOrjHr0NOnmYc6Qaeo0fVjz1hqeOLYdNwoB_xOl4.js"></script>
+<script type="text/javascript" src="/f/advagg_js/js__3LuYkqUjZCBoSLlHr2m61kSbmsCSqUKFXy8HcWtx3W4__fjMmdyFoQfs65a7ohq9q0rrTzQSedREzEOJ7PEgkNE8__g6oiOrjHr0NOnmYc6Qaeo0fVjz1hqeOLYdNwoB_xOl4.js" async="async"></script>
+<script type="text/javascript" src="/f/advagg_js/js__BNIP--BY_ejfQrZerKGJsah2Yi0IuvbIeAcjy5hiiHc__ESBvwtvQuVjhZUWGE7k9gmDVxHC7ILHwvzu8gDKz9lQ__g6oiOrjHr0NOnmYc6Qaeo0fVjz1hqeOLYdNwoB_xOl4.js"></script>
+<script type="text/javascript" src="/f/advagg_js/js__v6Ydsa-oLVsCbWBUPEs_rmv-EgYK35mJXlwzszDg2io__NcbPgl6yce1cPkJcub1SVldKst10pVo0nN36XtkHZn8__g6oiOrjHr0NOnmYc6Qaeo0fVjz1hqeOLYdNwoB_xOl4.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+document.createElement( "picture" );
+//--><!]]>
+</script>
+<script type="text/javascript" src="/sites/all/modules/custom/ct_video/assets/js/jquery.transit.min.js?1487956971"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/ct_video/assets/js/wwe-video-duration.js?1487956971"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/ct_video/assets/js/inline-videos.js?1487956971"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/ct_video/assets/js/wwe-video-prerolltest.js?1487956971"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/ct_video/assets/js/wwe-video-highlights.js?1487956971"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/ct_video/assets/js/wwe-video-inline.js?1487956971"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/ct_video/assets/jw_player/jwplayer.js?1487956971"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/ct_video/assets/jw_player/provider.cast.js?1487956971"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/ct_video/assets/jw_player/provider.youtube.js?1487956971"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/ct_video/assets/js/wwe-video.js?1487956971"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/ct_video/assets/js/wwe-video-instance.js?1487956971"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/ct_video/assets/conviva/Conviva_JwPlayer_2.117.0.31824.js?1487956971"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/ct_video/assets/conviva/wwe-conviva.js?1487956971"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/ct_video/assets/js/video-landing.js?1487956971"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/ct_video/assets/js/SimpleScroll.min.js?1487956971"></script>
+<script type="text/javascript" src="/f/advagg_js/js__totntBlYhV8CZXyFenJ3DOnSMi-PO4bAf_JzsXrlxnY__t0lDEE1TAvDZDd-BjxVtK6EswTrSnJxR9G1Ib0TyOzU__g6oiOrjHr0NOnmYc6Qaeo0fVjz1hqeOLYdNwoB_xOl4.js"></script>
+
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script type="text/javascript" src="/f/advagg_js/js__Aq9uqaIhXORMS8l6xIFCh0WeYLTumRArtwB6RC-lPgg__r-qS1RQShmjvPP-Wv8uHQweqXpjW_tJ9e8RrtniBCXA__g6oiOrjHr0NOnmYc6Qaeo0fVjz1hqeOLYdNwoB_xOl4.js"></script>
+<![endif]-->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jwplayer.key="ehgj2B1MMvcFTbn597RBhW2iw/XZLW3gGHCRRQ==";
+//--><!]]>
+</script>
+<script type="text/javascript" src="/f/advagg_js/js__jHFyu4QxjgvGUSpFEVMou8bGquP6hKC7V6CUgKi9NoM__CirvrdbBeB0DQ3zlw7e_sm1_tIIKghi0ZeHbqOMMxfo__g6oiOrjHr0NOnmYc6Qaeo0fVjz1hqeOLYdNwoB_xOl4.js"></script>
+<script type="text/javascript" defer="defer" src="//platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="/f/advagg_js/js__-AZZZAWtr6tSU43rx8pt9T36eDBmTNh7Rzc_8gBlBYY__nDNzqNSwGSW9n_esNOvk68R_5gNJdgMxJMPB2yhfwhM__g6oiOrjHr0NOnmYc6Qaeo0fVjz1hqeOLYdNwoB_xOl4.js"></script>
+<script type="text/javascript" src="//www.googletagservices.com/tag/js/gpt.js"></script>
+<script type="text/javascript" src="/f/advagg_js/js__hLUPwlLMdBlX7Vswf4ZjUntvhdEGCz16_W4UH4E9C9U__a3H-suKCCGKBi6fE2ulZ14iegihZ75_A80lldJrnyX8__g6oiOrjHr0NOnmYc6Qaeo0fVjz1hqeOLYdNwoB_xOl4.js"></script>
+<script type="text/javascript" src="/f/advagg_js/js__Hz43TLjkeCFu39yafp-qAeKL4uQrmZKKqdlb30X9UcM__AKnuqsHZjjcvhtl4PN0zXJo6QVojAvXtVKFIgfi7emk__g6oiOrjHr0NOnmYc6Qaeo0fVjz1hqeOLYdNwoB_xOl4.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ct_episode":{"day":"days","hour":"hours","min":"mins","sec":"secs"},"wweVoting":{"server":"https:\/\/voting.wwe.com\/vote.php"},"ct_video":{"tolerance":"150","monetate_uuid":"0004384744"},"wweCloudsearch":{"searchPath":"search","interval":"10"},"wwe_global_panes_footer_link":{"signInURL":"https:\/\/secure.net.wwe.com\/enterworkflow.do?flowId=account.login","accountURL":"https:\/\/secure.net.wwe.com\/enterworkflow.do?flowId=account.profile"},"wwe_network":{"wwe_network_link":"http:\/\/www.wwe.com\/wwenetwork","wwe_network_logged_in_link":"http:\/\/r.wwe.mlb.services\/flow\/network","wwe_network_app_link":"http:\/\/www.wwe.com\/mobile","wwe_network_howtowatch":"http:\/\/www.wwe.com\/howtowatch","wwe_network_start_time":"8:00 p.m.","wwe_network_full_schedule_link":"http:\/\/network.wwe.com\/","wwe_network_special_event_override":{"entity_id":"40015983","entity_label":"WWE Fastlane 2017","entity_type":"node","entity_bundle":"episode"},"wwe_network_special_event_text_top":"Start Your","wwe_network_special_event_text_bottom":"Free Month","wwe_network_feed_url":"http:\/\/epg.media.net.wwe.com\/epg_small.json","wwe_network_max_shows":"3","countries":[],"network_ribbon_header":{"en":"Get all LIVE pay-per-views, plus more than 7,000 hours of video on demand.","de":"Verschaffe Dir unbegrenzten Zugang zur Action","es":"Obt\u00e9n acceso ilimitado a la acci\u00f3n"},"network_ribbon_cost":{"en":"\u003Cspan\u003Eonly\u003C\/span\u003E\r\n\u003Cspan class=\u0022symbol\u0022\u003E$\u003C\/span\u003E\r\n\u003Cspan class=\u0022currency\u0022\u003E9\u003C\/span\u003E\r\n\u003Cspan class=\u0022fraction\u0022\u003E99\u003C\/span\u003E\r\n\u003Cspan\u003Eper month\u003C\/span\u003E","de":"\u003Cspan\u003ENur\u003C\/span\u003E\r\n\u003Cspan class=\u0022symbol\u0022\u003E$\u003C\/span\u003E\r\n\u003Cspan class=\u0022currency\u0022\u003E9\u003C\/span\u003E\r\n\u003Cspan class=\u0022fraction\u0022\u003E99\u003C\/span\u003E\r\n\u003Cspan\u003Epro Monat\u003C\/span\u003E","es":"\u003Cspan\u003ES\u00f3lo\u003C\/span\u003E\r\n\u003Cspan class=\u0022symbol\u0022\u003E$\u003C\/span\u003E\r\n\u003Cspan class=\u0022currency\u0022\u003E9\u003C\/span\u003E\r\n\u003Cspan class=\u0022fraction\u0022\u003E99\u003C\/span\u003E\r\n\u003Cspan\u003Eal mes\u003C\/span\u003E"},"network_ribbon_cta_out":{"en":"Start Your Free Month","de":"Kostenlosen Probemonat starten","es":"Comienza tu Mes Gratis"},"network_ribbon_cta_in":{"en":"Watch Now","de":"Mehr ansehen","es":"Ve M\u00e1s"},"network_text_cta_out":{"en":"Start Your Free Month","de":"Hol dir WWE Network","es":"Suscr\u00edbete a WWE Network"},"network_text_cta_in":{"en":"Watch Now","de":"Jetzt ansehen","es":"Ve Ahora"},"network_pane_title_out":{"en":"Join WWE Network","de":"Bei WWE Network anmelden","es":"Suscr\u00edbete a WWE Network"},"network_pane_title_in":{"en":"WWE Network","de":"WWE Network ansehen","es":"Ve WWE Network"},"network_pane_description_out":{"en":"Get 24-hour streaming and on-demand programming from WWE. Subscribe today for just $9.99 a month, cancel anytime.","de":"Hol Dir das 24-Stunden Streaming und On-Deman-Angebot von WWE. Noch heute f\u00fcr nur 9,99$ + Mwst. pro Monat abonnieren, keine Vertragsbindung.","es":"Suscribete al servicio de suscripciones de WWE por s\u00f3lo $9.99 al mes, cancela cuando quieras."},"network_pane_description_in":{"en":"The only place to watch WrestleMania and every pay-per-view live.","de":"Hol Dir das 24-Stunden Streaming und On-Deman-Angebot von WWE. Noch heute f\u00fcr nur 9,99$ + Mwst. pro Monat abonnieren, keine Vertragsbindung.","es":"Suscribete al servicio de suscripciones de WWE por s\u00f3lo $9.99 al mes, cancela cuando quieras."},"langCode":"en"},"wweShop":{"enabled":true},"wweTheme":{"hamburgerAd":"{\u0022type\u0022:\u0022wwe-hamburger\u0022,\u0022target\u0022:\u0022wwe-ad--hamburger\u0022,\u0022sizes\u0022:{\u0022phone\u0022:\u0022[320,50]\u0022,\u0022tablet\u0022:\u0022[320,50]\u0022},\u0022interstitial\u0022:false}"},"urlIsAjaxTrusted":{"\/shows\/smackdown\/2017-02-14%0D":true},"ct_gallery":{"adFrequency":"20","nextGalleryText":"Next Gallery","hiResGallery":1,"hiResFullscreen":0},"wwe_ckeditor_link":{"entity_embed_machine_name":"wwe_ckeditor_link_embed"},"wwe_social_media":{"fbAppId":"295666513781415","socialEmail":""},"transporter":{"identifier":"134494","transport":"show_landing","domElement":"#page","cacheKey":"Iy2wIcwklnZiQk2uLmJbydrskWEj0eCponqi5vJpQWY"},"extlink":{"extTarget":"_blank","extClass":0,"extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"(.wwe.)","extInclude":"(arabic\\.wwe\\.com)|(www\\.wwenetwork\\.com)|(network\\.wwe\\.com)|(www\\.wwe\\.com\\\/wwenetwork)|(r\\.wwe\\.mlb\\.services)","extCssExclude":"#wwe-ligthweight-network","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)"},"WWEVideoExplorer":{"conviva_id":"1dceef9fbf3aded3b8664df86b221816cfe34eee","conviva":1,"conviva_touchstone_url":""},"WWE":{"language":"en"},"page":{"type":"show","nid":"134494"},"WWEAds":{"denv":"production","dtemplate":"show","duniqueid":"134494","dnetwork":"N","ddiva":"N","dppv":"N","uid":0,"dregion":"www.wwe.com","path":"shows\/smackdown","ddesktop2":"shows","ddesktop3":"smackdown","ddesktop4":"NONE","ddesktop5":"NONE","lazyLoad":"600","railRefresh":"1000","adFrequency":"20","leaderStick":4500,"galleryRefresh":1000,"mobileRefresh":1000,"mobileNonPhotoRefresh":1000,"mobileNonPhotoSwipes":"3","cmsID":"2427","dua":"n"},"analytics":{"ga_dev_acctlist":"qa-www,stage,cube,ion,proxy,codeandtheory,jenkins,tyr,kyte,cloud,compute,net,ec2,aws","ga_devid":"GTM-KMHBSF","ga_liveid":"GTM-N7776B"},"ajaxPageState":{"js":{"sites\/all\/modules\/contrib\/picture\/picturefill2\/picturefill.min.js":1,"sites\/all\/modules\/contrib\/picture\/picture.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"sites\/all\/modules\/contrib\/picture\/lazysizes\/lazysizes.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/contrib\/omega\/omega\/js\/no-js.js":1,"sites\/all\/modules\/custom\/wwe_master\/js\/angular.min.js":1,"sites\/all\/modules\/custom\/wwe_master\/app\/app.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/custom\/ct_video\/assets\/js\/jquery.transit.min.js":1,"sites\/all\/modules\/custom\/ct_video\/assets\/js\/wwe-video-duration.js":1,"sites\/all\/modules\/custom\/ct_video\/assets\/js\/inline-videos.js":1,"sites\/all\/modules\/custom\/ct_video\/assets\/js\/wwe-video-prerolltest.js":1,"sites\/all\/modules\/custom\/ct_video\/assets\/js\/wwe-video-highlights.js":1,"sites\/all\/modules\/custom\/ct_video\/assets\/js\/wwe-video-inline.js":1,"sites\/all\/modules\/custom\/ct_video\/assets\/jw_player\/jwplayer.js":1,"sites\/all\/modules\/custom\/ct_video\/assets\/jw_player\/provider.cast.js":1,"sites\/all\/modules\/custom\/ct_video\/assets\/jw_player\/provider.youtube.js":1,"sites\/all\/modules\/custom\/ct_video\/assets\/js\/wwe-video.js":1,"sites\/all\/modules\/custom\/ct_video\/assets\/js\/wwe-video-instance.js":1,"sites\/all\/modules\/custom\/ct_video\/assets\/conviva\/Conviva_JwPlayer_2.117.0.31824.js":1,"sites\/all\/modules\/custom\/ct_video\/assets\/conviva\/wwe-conviva.js":1,"sites\/all\/modules\/custom\/ct_video\/assets\/js\/video-landing.js":1,"sites\/all\/modules\/custom\/ct_video\/assets\/js\/SimpleScroll.min.js":1,"sites\/all\/modules\/custom\/wwe_init\/js\/wwe-breakpoints.js":1,"sites\/all\/modules\/custom\/ct_championship\/js\/jquery.tablesorter.min.js":1,"sites\/all\/modules\/custom\/ct_championship\/js\/championship-reign-held.js":1,"sites\/all\/modules\/custom\/ct_championship\/js\/championship-hero.js":1,"sites\/all\/modules\/custom\/ct_championship\/js\/championship-holders.js":1,"sites\/all\/modules\/custom\/ct_episode\/js\/episodes-feed-cards.js":1,"sites\/all\/modules\/custom\/ct_episode\/js\/episode-feature-event-countdown.js":1,"sites\/all\/modules\/custom\/ct_episode\/js\/episode-feature-countdown.js":1,"sites\/all\/modules\/custom\/ct_episode\/js\/episode-feature-quickhits-smoothscroll.js":1,"sites\/all\/modules\/custom\/ct_gallery\/assets\/js\/wwe-photo-gallery.js":1,"sites\/all\/modules\/custom\/ct_poll\/js\/wwe_poll.js":1,"sites\/all\/modules\/custom\/ct_section\/js\/wwe-network-offer-pane.js":1,"sites\/all\/modules\/custom\/ct_show\/assets\/js\/network-watch-cookie.js":1,"sites\/all\/modules\/custom\/ct_social\/assets\/js\/social-breaker.js":1,"sites\/all\/modules\/custom\/ct_talent\/js\/talent-detail.js":1,"sites\/all\/modules\/custom\/ct_talent\/js\/superstars-belts.js":1,"sites\/all\/modules\/custom\/ct_talent\/js\/superstars-search.js":1,"sites\/all\/modules\/custom\/ct_talent\/js\/superstars-card.js":1,"sites\/all\/modules\/custom\/wwe_ads\/assets\/js\/wwe-ads-house-init.js":1,"sites\/all\/modules\/custom\/wwe_ads\/assets\/js\/wwe-ads.js":1,"sites\/all\/modules\/custom\/wwe_ads\/assets\/js\/sticky-ads.js":1,"sites\/all\/modules\/custom\/wwe_analytics\/streamsense.4.1505.18.min.js":1,"sites\/all\/modules\/custom\/wwe_feed_cards\/js\/archive-search.js":1,"sites\/all\/modules\/custom\/wwe_feed_cards\/js\/wwe-feed-cards.js":1,"sites\/all\/modules\/custom\/wwe_geo_shared_widget\/assets\/js\/geo-share-widget.js":1,"sites\/all\/modules\/custom\/wwe_global_panes\/assets\/js\/wwe_global_panes.js":1,"sites\/all\/modules\/custom\/wwe_global_panes\/assets\/js\/navigation-pane.js":1,"sites\/all\/modules\/custom\/wwe_global_panes\/assets\/js\/wwe_global_node-body.js":1,"sites\/all\/modules\/custom\/wwe_infinite_scroll\/app\/vendor\/ng-infinite-scroll.min.js":1,"sites\/all\/modules\/custom\/wwe_lock\/jquery.ba-dotimeout.min.js":1,"sites\/all\/modules\/custom\/wwe_master\/app\/controllers\/content-pane.js":1,"sites\/all\/modules\/custom\/wwe_master\/app\/services\/content-pane-request.js":1,"sites\/all\/modules\/custom\/wwe_media_browser\/assets\/js\/wwe-media-browser.js":1,"sites\/all\/modules\/custom\/wwe_network\/js\/wwe-network-pane.js":1,"sites\/all\/modules\/custom\/wwe_quickedit\/js\/wwe-quickedit.js":1,"sites\/all\/modules\/custom\/wwe_shop\/assets\/js\/wwe-shop.js":1,"sites\/all\/modules\/custom\/wwe_social_media\/assets\/js\/wwe-social-media.js":1,"sites\/all\/modules\/custom\/wwe_transporter\/assets\/js\/jquery.transport.js":1,"sites\/all\/modules\/custom\/wwe_transporter\/assets\/js\/transporter.js":1,"sites\/all\/modules\/custom\/wwe_travel_packages\/assets\/js\/wwe-travel-packages.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"sites\/all\/themes\/custom\/wwe_theme\/libraries\/html5shiv\/html5shiv.min.js":1,"sites\/all\/themes\/custom\/wwe_theme\/libraries\/html5shiv\/html5shiv-printshiv.min.js":1,"sites\/all\/modules\/custom\/ct_breaking_news\/js\/breaking_news.js":1,"misc\/autocomplete.js":1,"sites\/all\/modules\/custom\/wwe_cloudsearch\/assets\/js\/wwe_cloudsearch_header.js":1,"https:\/\/platform.twitter.com\/widgets.js":1,"sites\/all\/modules\/custom\/wwe_analytics\/outbrain.js":1,"\/\/www.googletagservices.com\/tag\/js\/gpt.js":1,"sites\/all\/modules\/custom\/wwe_master\/js\/wwe_master.js":1,"sites\/all\/modules\/custom\/wwe_analytics\/wwe_analytics.js":1,"sites\/all\/themes\/custom\/wwe_theme\/js\/vendor\/imagesloaded.pkgd.min.js":1,"sites\/all\/themes\/custom\/wwe_theme\/js\/vendor\/slick.min.js":1,"sites\/all\/themes\/custom\/wwe_theme\/js\/vendor\/moment.min.js":1,"sites\/all\/themes\/custom\/wwe_theme\/js\/vendor\/daterangepicker.js":1,"sites\/all\/themes\/custom\/wwe_theme\/js\/vendor\/jquery.autocomplete.min.js":1,"sites\/all\/themes\/custom\/wwe_theme\/js\/vendor\/jquery.matchHeight-min.js":1,"sites\/all\/themes\/custom\/wwe_theme\/js\/vendor\/jquery.masonry.min.js":1,"sites\/all\/themes\/custom\/wwe_theme\/js\/vendor\/packery.pkgd.min.js":1,"sites\/all\/themes\/custom\/wwe_theme\/js\/vendor\/jquery.selectionBox.js":1,"sites\/all\/themes\/custom\/wwe_theme\/js\/vendor\/jquery.mousewheel.min.js":1,"sites\/all\/themes\/custom\/wwe_theme\/js\/vendor\/jquery.dotdotdot.min.js":1,"sites\/all\/themes\/custom\/wwe_theme\/js\/vendor\/jquery.visible.min.js":1,"sites\/all\/themes\/custom\/wwe_theme\/js\/vendor\/flowtype.js":1,"sites\/all\/themes\/custom\/wwe_theme\/js\/wwe_theme.globals.js":1,"sites\/all\/themes\/custom\/wwe_theme\/js\/wwe_theme.nav.js":1,"sites\/all\/themes\/custom\/wwe_theme\/js\/wwe_theme.carousels.js":1,"sites\/all\/themes\/custom\/wwe_theme\/js\/wwe_theme.content-added.js":1,"sites\/all\/themes\/custom\/wwe_theme\/js\/wwe_theme.overlay-lazyload.js":1,"sites\/all\/themes\/custom\/wwe_theme\/js\/wwe_theme.shows-hub.js":1,"sites\/all\/themes\/custom\/wwe_theme\/js\/wwe_theme.social-share.js":1,"sites\/all\/themes\/custom\/wwe_theme\/js\/wwe_theme.event-detail-live.js":1,"sites\/all\/themes\/custom\/wwe_theme\/js\/wwe_theme.events-match-hero.js":1,"sites\/all\/themes\/custom\/wwe_theme\/js\/wwe_theme.wysiwyg-accordian.js":1,"sites\/all\/themes\/custom\/wwe_theme\/js\/wwe_theme.seo.js":1}}});
+//--><!]]>
+</script>
+      
+    <script>
+      if (typeof(Drupal.behaviors.wweAnalytics) != 'undefined') {
+        wwe_ga_dataLayer = Drupal.behaviors.wweAnalytics.setBaseData(wwe_ga_dataLayer);
+      }
+    </script>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','wwe_ga_dataLayer',wweGTMID);</script>
+      <div id='teconsent'>
+      <script async="async" type="text/javascript" crossorigin src='//consent.truste.com/notice?domain=wwe.com&c=teconsent&text=true'></script>
+    </div>    <script async="async" data-client-id="EJRNicDGDJQWUpM" type="text/javascript" src="//d1xfq2052q7thw.cloudfront.net/1.7.620.js"></script><script type="text/javascript" src="/f/advagg_js/js__GM3GJPR36rRIz0TRkjC5OQwrioSyN9aoYRivDhCO_AM__qAl84FcCv2jyN22yFGS5Oc85cjd9zKX6p_cFNLGhe-M__g6oiOrjHr0NOnmYc6Qaeo0fVjz1hqeOLYdNwoB_xOl4.js" async="async"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+if (typeof Drupal.behaviors.WWEAds !== "undefined" ) { Drupal.behaviors.WWEAds.renderAds({"wwe-ad-footer-910111327":{"type":"footer-ad","target":"wwe-ad-footer-910111327","sizes":{"desktop":"[[970,90],[970,250]]","phone":false,"tablet":"[728, 90]"},"interstitial":false}}); }
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+if (typeof Drupal.behaviors.WWEAds !== "undefined" ) { Drupal.behaviors.WWEAds.renderAds({"wwe-ad-rail-416197692":{"type":"rail-ad","target":"wwe-ad-rail-416197692","sizes":{"desktop":"[[300,250],[300,600]]","phone":false,"tablet":false},"interstitial":false}}); }
+//--><!]]>
+</script>
+</body>
+</html>

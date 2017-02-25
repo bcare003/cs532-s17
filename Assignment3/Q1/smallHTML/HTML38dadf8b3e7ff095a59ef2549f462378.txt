@@ -1,0 +1,1121 @@
+
+<!DOCTYPE html>
+<html ng-app="LEGO.Portals"
+      
+      data-site-url="https://www.lego.com/en-us"
+      data-asset-url="https://lc-www-live-s.legocdn.com/r/www/r/portals?l.r=3252"
+      
+      data-context="www"
+      data-siteculture="en-US"
+      data-contentculture="en-US">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <link rel="canonical" href="https://www.lego.com/en-us/life" ng-non-bindable />
+    
+    <meta name="description" content="An app full of cool stuff. An app full of your cool stuff. Let your LEGO Life begin today!">
+    
+    <meta name="keywords" content="">
+    
+    <!--[if IE 8]>
+    <script type="text/javascript">
+        window.LEGO=window.LEGO||{},LEGO.deprecatedBrowser=function(e,r){"use strict";var t={},n="background:LightCoral; color: DarkSlateGray; text-align:center; padding: 10px; font-family:sans-serif; font-size:14px; position:relative",i="background:LightYellow; color: DimGrey; text-align:center; padding: 10px; font-family:sans-serif; font-size:14px; position:relative;",o="position:absolute; top:0; right:5px; font-size:24px; cursor:pointer",a=function(r,t){var n=e.createElement("div"),i="<p>"+r+'</p><div style="'+o+'" onclick="LEGO.deprecatedBrowser.hideDeprecated()">&times;</div>';return n.setAttribute("style",t),n.id="deprecated-browser-warning",n.innerHTML=i,n},d=function(r){var t=e.getElementsByTagName("body")[0];t.insertBefore(r,t.firstChild)},s=function(){var r=e.getElementById("deprecated-browser-warning");return null!==r};return t.showWarning=function(e){if(r.deprecatedBrowserHide||s())return!1;var t=a(e,n);return d(t),!1},t.showNotification=function(e){if(r.deprecatedBrowserHide||s())return!1;var t=a(e,i);return d(t),!1},t.hideDeprecated=function(){r.deprecatedBrowserHide=!0;var t=e.getElementById("deprecated-browser-warning");s()&&t.parentNode.removeChild(t)},t}(document,sessionStorage);
+        window.attachEvent("onload", function(){return LEGO.deprecatedBrowser.showWarning('You are using Internet Explorer 8, this browser is very old and not supported by this part of LEGO.com. Please update your browser for a better experience browsing LEGO.com');});
+    </script>
+  <![endif]-->
+<!--[if IE 9]>
+    <script type="text/javascript">
+        window.LEGO=window.LEGO||{},LEGO.deprecatedBrowser=function(e,r){"use strict";var t={},n="background:LightCoral; color: DarkSlateGray; text-align:center; padding: 10px; font-family:sans-serif; font-size:14px; position:relative",i="background:LightYellow; color: DimGrey; text-align:center; padding: 10px; font-family:sans-serif; font-size:14px; position:relative;",o="position:absolute; top:0; right:5px; font-size:24px; cursor:pointer",a=function(r,t){var n=e.createElement("div"),i="<p>"+r+'</p><div style="'+o+'" onclick="LEGO.deprecatedBrowser.hideDeprecated()">&times;</div>';return n.setAttribute("style",t),n.id="deprecated-browser-warning",n.innerHTML=i,n},d=function(r){var t=e.getElementsByTagName("body")[0];t.insertBefore(r,t.firstChild)},s=function(){var r=e.getElementById("deprecated-browser-warning");return null!==r};return t.showWarning=function(e){if(r.deprecatedBrowserHide||s())return!1;var t=a(e,n);return d(t),!1},t.showNotification=function(e){if(r.deprecatedBrowserHide||s())return!1;var t=a(e,i);return d(t),!1},t.hideDeprecated=function(){r.deprecatedBrowserHide=!0;var t=e.getElementById("deprecated-browser-warning");s()&&t.parentNode.removeChild(t)},t}(document,sessionStorage);
+        window.addEventListener("load", function () { return LEGO.deprecatedBrowser.showNotification('You are using Internet Explorer 9, consider upgrading your browser for a better experience'); });
+    </script>
+<![endif]-->
+
+    
+    <title>LEGO® Life - LEGO.com</title>
+    
+    <link href="https://lc-www-live-s.legocdn.com/r/www/r/globalnavigationservices/api/v1/global/styles/en-us/LEGO.Global.Full/legocom_portals?l.r2=2.0.0.1662" rel="stylesheet"/>
+    
+    <script src="https://lc-www-live-s.legocdn.com/r/www/r/portals/scripts/core.modernizr/modernizr.min.js?l.r=3252"></script>
+    
+    
+
+<!--[if lte IE 9]><link href="https://lc-www-live-s.legocdn.com/r/www/r/portals/content/life-ie.1.css?l.r=3252" type="text/css" rel="stylesheet" /> 
+<link href="https://lc-www-live-s.legocdn.com/r/www/r/portals/content/life-ie.css?l.r=3252" type="text/css" rel="stylesheet" /> 
+<![endif]-->
+<!--[if gt IE 9]><!--><link href="https://lc-www-live-s.legocdn.com/r/www/r/portals/content/life.css?l.r=3252" type="text/css" rel="stylesheet" /> 
+<!--<![endif]-->
+
+<link href="https://lc-www-live-s.legocdn.com/Portals/css/newlifestyle.css" type="text/css" rel="stylesheet" /> 
+
+
+
+<link href="https://www.lego.com/en-us/pagestyling-stylesheet/9fe9bded97974bf79e35fd38dc40973a?l-r=636235439546914979" rel="stylesheet" />
+    <script src="https://lc-www-live-s.legocdn.com/r/www/r/analytics/Modules/TrackManApi" data-initial-page="" data-tracking-script="https://lc-www-live-s.legocdn.com/r/www/r/portals/components/elements.tracking/scripts/trackman/kickstarter.js?l.r=3252" async></script>
+</head>
+<body class="body" dir="ltr">
+
+    
+
+    
+<div class="lego-global-header-outer-wrap">
+    <div class="lego-global-header">
+        <i class="hidden-breakpoint-observer"></i>
+        <div class="lego-global-header-wrap">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="lego-brand">
+                <a href="https://www.lego.com/en-us" class="logo"></a>
+            </div>
+
+            <!-- Shroud for drop down navigation -->
+            <div class="shroud"></div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse-wrapper">
+                <div class="lego-global-navigation">
+                    <ul class="global-links">
+                            <li  class="priority">
+                                <a  class="gn-icon gn-icon-home"    href="https://www.lego.com/en-us" target="">Home</a>
+                            </li>
+                            <li >
+                                <a  class="gn-icon gn-icon-products"    href="https://www.lego.com/en-us/products" target="">Products</a>
+                            </li>
+                            <li >
+                                <a  class="gn-icon gn-icon-games"    href="https://www.lego.com/en-us/games" target="">Games</a>
+                            </li>
+                            <li >
+                                <a  class="gn-icon gn-icon-life gn-icon-life-small"    href="https://www.lego.com/en-us/life" target="">Create &amp; Share</a>
+                            </li>
+                            <li >
+                                <a  class="gn-icon gn-icon-videos"    href="https://www.lego.com/en-us/videos" target="">Videos</a>
+                            </li>
+                            <li  class="priority">
+                                <a  class="gn-icon gn-icon-shop"    href="https://shop.lego.com/#shopxlink" target="">Shop</a>
+                            </li>
+                    </ul>
+                </div>
+                <div class="search-wrap">
+                            <form class="lego-global-search" role="search" method="GET">
+                                <input type="search" class="lego-global-search-field" placeholder="Search">
+                                <button type="submit" class="lego-global-search-submit"><i></i></button>
+                            </form>
+                </div>
+                <div class="legoid">
+                    <div class="legoid-box"></div>
+                </div>
+                    <div class="lego-market-selector flag flag-us">
+                        <select class="market-selector">
+                            <option selected>Change Region</option>
+
+                                <option value="en-AU">Australia (English)</option>
+                                <option value="nl-BE">Belgi&#235; (Nederlands)</option>
+                                <option value="fr-BE">Belgique (Fran&#231;ais)</option>
+                                <option value="pt-BR">Brasil (Portugu&#234;s)</option>
+                                <option value="cs-CZ">Česk&#225;&#160;republika (Čeština)</option>
+                                <option value="da-DK">Danmark (Dansk)</option>
+                                <option value="de-DE">Deutschland (Deutsch)</option>
+                                <option value="es-ES">Espa&#241;a (Espa&#241;ol)</option>
+                                <option value="fr-FR">France (Fran&#231;ais)</option>
+                                <option value="it-IT">Italia (Italiano)</option>
+                                <option value="es-AR">Latinoam&#233;rica (Espa&#241;ol)</option>
+                                <option value="hu-HU">Magyarorsz&#225;g (Magyar)</option>
+                                <option value="en-MY">Malaysia (English)</option>
+                                <option value="nl-NL">Nederland (Nederlands)</option>
+                                <option value="nb-NO">Norge (Norsk, bokm&#229;l)</option>
+                                <option value="pl-PL">Polska (Polski)</option>
+                                <option value="en-SG">Singapore (English)</option>
+                                <option value="fi-FI">Suomi (Suomi)</option>
+                                <option value="sv-SE">Sverige (Svenska)</option>
+                                <option value="tr-TR">T&#252;rkiye (T&#252;rk&#231;e)</option>
+                                <option value="en-GB">United Kingdom (English)</option>
+                                <option value="en-US">United States (English)</option>
+                                <option value="ru-RU">Россия (Русский)</option>
+                                <option value="ko-KR">대한민국 (한국어)</option>
+                                <option value="zh-CN">中华人民共和国 (中文)</option>
+                                <option value="ja-JP">日本 (日本語)</option>
+                            </select>
+                        </div>
+            </div>
+            <div class="persisted-search-wrap">
+                <form class="lego-global-search" role="search" method="GET">
+                    <input type="search" class="lego-global-search-field" placeholder="Search">
+                    <button type="submit" class="lego-global-search-submit"><i></i></button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+    
+
+    
+
+
+
+
+
+
+<div class="fullWidthZone spl-fullWidthZone">
+    
+</div>
+
+<div class="grid-row section1" id="section1">
+    <div class="grid-column">
+        
+
+
+<div class="grid-row site-branding">
+    <div class="grid-column">
+        <div class="grid-content">
+            <div class="lego-responsive-images" lego-element-size lego-responsive-images>
+                        <img src="https://lc-www-live-s.legocdn.com/r/www/r/portals/-/media/images/lego-life/logos/legolifelogo_compressed.png?l.r=1286350691" alt=""  class="branding-logo" />
+
+
+                        <img data-source={&quot;desktop&quot;:{&quot;retina&quot;:&quot;&quot;,&quot;nonretina&quot;:&quot;&quot;},&quot;tablet&quot;:{&quot;retina&quot;:&quot;&quot;,&quot;nonretina&quot;:&quot;&quot;},&quot;mobile&quot;:{&quot;retina&quot;:&quot;&quot;,&quot;nonretina&quot;:&quot;&quot;}} class="branding-image" />
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="grid-row navigation site-navigation">
+    <div class="grid-column">
+        <div class="grid-content">
+            <nav role="navigation" class="navbar">
+                <ul class="nav navbar-nav">
+
+    <li class="active has-no-icon has-title">
+        <a href="https://www.lego.com/en-us/life" title="LEGO&#174; LIFE">
+                        <span class="item-title">LEGO&#174; LIFE</span>
+        </a>
+    </li>
+
+    <li class=" has-no-icon has-title">
+        <a href="https://www.lego.com/en-us/life/how-to-stuff" title="How-to Stuff">
+                        <span class="item-title">How-to Stuff</span>
+        </a>
+    </li>
+
+    <li class=" has-no-icon has-title">
+        <a href="https://www.lego.com/en-us/life/magazine" title="Magazine">
+                        <span class="item-title">Magazine</span>
+        </a>
+    </li>
+
+    <li class=" has-no-icon has-title">
+        <a href="https://www.lego.com/en-us/life/digital-safety" title="Digital Safety">
+                        <span class="item-title">Digital Safety</span>
+        </a>
+    </li>
+
+    <li class=" has-no-icon has-title">
+        <a href="https://www.lego.com/en-us/life/faq" title="FAQ">
+                        <span class="item-title">FAQ</span>
+        </a>
+    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="grid-row life-cta-header no-padding-top list-setup-6cfb31d6-6535-44cf-be8a-a3d08cd6133d  list-wrapper">
+    <div class="grid-column">
+        <div class="grid-content">
+                        <ul class="list list-grid"
+                lego-list
+                lego-element-size
+                data-size="5"
+                data-format="landscape"
+                data-uitest="list-simple"
+                                lego-element-size="">
+                    <li>
+
+
+
+    <article class="call-to-action list-item has-image has-headline has-text ">
+            <section class="primary-content">
+            <div class="primary-content-image-wrapper">
+                
+                <img src="https://lc-www-live-s.legocdn.com/r/www/r/portals/-/media/images/lego-life/logos/app-icon_0.png?l.r=-1009765658" alt="" />
+            </div>
+
+
+        <i></i>
+    </section>
+    <section class="secondary-content">
+            <h3 class="cta-headline">Welcome to LEGO® Life</h3>
+                    <p class="cta-text">LEGO® Life is full of your stuff!</p>
+            </section>
+
+    </article>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="grid-row video-sticker" data-no-content>
+    <div class="grid-column">
+        <div class="grid-content empty-list">
+            <!-- No items could be found for this list. -->
+        </div>
+    </div>
+</div>
+
+
+<style>        
+            .list-setup-61a2cb7c-7ae2-44ca-911e-ce8c3a1423af .icon-eyecatcher {
+            background-image: url("https://lc-www-live-s.legocdn.com/r/www/r/portals/-/media/images/lego-life/shared/eye-catchers/home_eyecatcher_boy_01.png?l.r=727889456");
+            }
+        
+</style>
+
+<div class="grid-row life-list-with-video-player-with-eye-catcher no-padding-top list-setup-61a2cb7c-7ae2-44ca-911e-ce8c3a1423af has-eyecatcher list-wrapper">
+    <div class="grid-column">
+        <div class="grid-content">
+                <i class="icon icon-eyecatcher"></i>
+                        <ul class="list list-grid"
+                lego-list
+                lego-element-size
+                data-size="8"
+                data-format="sixteen-nine"
+                data-uitest="list-simple"
+                                lego-element-size="">
+                    <li>
+
+<div class="video video-embedded list-item">
+    <div class="primary-content aspect-wrapper">
+        <div class="mediaplayer-component embeddedvideo1f3db70c6fe446498cf9505528637284" data-instancename="embeddedvideo1f3db70c6fe446498cf9505528637284" style="width: 100%; height: 100%;" data-baseurl="https://www.lego.com/en-US/mediaplayer/video/" data-recommendationurl="">
+<iframe src="https://www.lego.com/en-US/mediaplayer/video/645834cf2c2c4fa1bf1df8803cfb4310?autoplay=false&instanceName=embeddedvideo1f3db70c6fe446498cf9505528637284&activateLargeScreen=false&showControls=true&forceNativeOnIPad=false&controlsAlwaysOn=false" style="width: 100%; height: 100%;" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" seamless="seamless" scrolling="no" frameborder="0"></iframe>
+<div itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
+<meta itemprop="name" content="Welcome to LEGOÂ® Life ">
+<meta itemprop="duration" content="PT0M30S">
+<meta itemprop="thumbnail" content="https://mi-od-live-s.legocdn.com/r/www/r/catalogs/-/media/catalogs/videos/lego%20life/fallback_img_en.jpg?l.r2=-1064594951">
+<meta itemprop="description" content="An app full of cool stuff. An app full of your cool stuff. Let your LEGO Life begin today! The launch version of LEGOÂ® Life is only the beginning. Weâ€™ll be adding more and more features as the months go by, so it will just get better and better! ">
+<meta itemprop="contentUrl" content="https://lc-mediaplayerns-live-s.legocdn.com/public/v64/v58/645834cf-2c2c-4fa1-bf1d-f8803cfb4310_866dc493-530d-4e19-bde9-a6c6008dffae_en-us_1_256.mp4">
+<meta itemprop="uploadDate" content="Oct 9, 2016">
+<meta itemprop="expires" content="2020-01-01T12:00:00+00:00">
+</div>
+<script>
+if (typeof MediaPlayerAPILoaded === 'undefined') {var head = document.getElementsByTagName('head')[0];var e = document.createElement('script');e.setAttribute('src', 'https://lc-www-live-s.legocdn.com/r/www/r/mediaplayer/en-US/services/mediaplayerapi.ashx');e.setAttribute('type', 'text/javascript');head.appendChild(e);var MediaPlayerAPILoaded = true;}
+</script>
+</div>
+    </div>
+</div>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="grid-row life-app-store-cta-list no-padding-top no-padding-bottom list-setup-e91273b5-9feb-441f-8e09-7de681629c0d  list-wrapper">
+    <div class="grid-column">
+        <div class="grid-content">
+                        <ul class="list list-grid"
+                lego-list
+                lego-element-size
+                data-size="2"
+                data-format="sixteen-nine"
+                data-uitest="list-simple"
+                                lego-element-size="">
+                    <li>
+
+
+
+    <a href="https://c00.adobe.com/v3/1850813cf55379df22851ea66b55ef8f407d1fa9b813bc65d3ae0dc48ea2c607/start?a_dl=57ea6d5ea9e496c12271d916#xlink" class="call-to-action list-item has-image   " data-xlink-handler lego-shopxlink-handler>
+            <section class="primary-content">
+            <div class="primary-content-image-wrapper">
+                
+                <img src="https://lc-www-live-s.legocdn.com/r/www/r/portals/-/media/images/shared/app-store-stickers/apple/app_store_badge_us-uk.png?l.r=1786559756" alt="Download on the App Store" />
+            </div>
+
+
+        <i></i>
+    </section>
+    <section class="secondary-content">
+                    </section>
+
+    </a>
+                    </li>
+                    <li>
+
+
+
+    <a href="https://c00.adobe.com/v3/1850813cf55379df22851ea66b55ef8f407d1fa9b813bc65d3ae0dc48ea2c607/start?a_dl=582332b1c957b3b70e616fe9#xlink" class="call-to-action list-item has-image   " data-xlink-handler lego-shopxlink-handler>
+            <section class="primary-content">
+            <div class="primary-content-image-wrapper">
+                
+                <img src="https://lc-www-live-s.legocdn.com/r/www/r/portals/-/media/images/shared/app-store-stickers/google-play/google-play-badge-english.png?l.r=-837787830" alt="Get it on Google Play" />
+            </div>
+
+
+        <i></i>
+    </section>
+    <section class="secondary-content">
+                    </section>
+
+    </a>
+                    </li>
+                    <li>
+
+
+
+    <a href="https://www.amazon.com/s/ref=bl_sr_mobile-apps?_encoding=UTF8&amp;field-brandtextbin=LEGO System A%2FS&amp;node=2350149011#xlink" class="call-to-action list-item has-image   " data-xlink-handler lego-shopxlink-handler>
+            <section class="primary-content">
+            <div class="primary-content-image-wrapper">
+                
+                <img src="https://lc-www-live-s.legocdn.com/r/www/r/portals/-/media/images/shared/app-store-stickers/amazon/amazon-underground-app-us-black.png?l.r=1627067906" alt="Available at Amazon" />
+            </div>
+
+
+        <i></i>
+    </section>
+    <section class="secondary-content">
+                    </section>
+
+    </a>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="grid-row life-cta-bullet-list life-left-aligned-content-section list-setup-cb198371-dc2a-4bb3-99f3-f84896757521  list-wrapper">
+    <div class="grid-column">
+        <div class="grid-content">
+                        <ul class="list list-grid"
+                lego-list
+                lego-element-size
+                data-size="7"
+                data-format="sixteen-nine"
+                data-uitest="list-simple"
+                                lego-element-size="">
+                    <li>
+
+
+
+    <article class="call-to-action list-item   has-text ">
+            <section class="primary-content">
+
+
+        <i></i>
+    </section>
+    <section class="secondary-content">
+                    <p class="cta-text">An app full of cool stuff.   An app full of your cool stuff.   Let your LEGO Life begin today!   The launch version of LEGO® Life is only the beginning.   We’ll be adding more and more features as the months go by, so it will just get better and better! </p>
+            </section>
+
+    </article>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</div>
+        
+    </div>
+</div>
+<div class="grid-row section2" id="section2">
+    <div class="grid-column">
+        
+
+
+
+<div class="grid-row list-setup-4fbb69a0-7579-4b66-9864-712d4775ca20  list-wrapper">
+    <div class="grid-column">
+        <div class="grid-content">
+            
+
+
+        <div class="hgroup ">
+                    <h2>
+            WHAT'S NEW
+        </h2>
+
+        </div>
+            <ul class="list list-grid list-horizontal"
+                lego-carousel
+                lego-element-size
+                data-size="6"
+                data-format="sixteen-nine"
+                data-uitest="list-carousel">
+                    <li>
+
+
+<a href="https://www.lego.com/en-us/life/articles/lego-language-8d5a959308394077bbfd7032e890cfa0" itemprop="image" class="article-list-item list-item call-to-action ">
+    <div class="primary-content">
+        <div class="primary-content-image-wrapper">
+                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" itemprop="image" class="article-cta-thumbnail" alt="Shout out with the LEGO&#174; keyboard!" lego-lazy-load="https://mi-od-live-s.legocdn.com/r/www/r/catalogs/-/media/catalogs/articles/life/website/news%20articles/legolife_language.jpg?l.r2=1190136313" />
+        </div>
+    </div>
+    <div class="secondary-content">
+        <h3 class="article-cta-headline" itemprop="name">Shout out with the LEGO&#174; keyboard!</h3>
+        <time datetime="2016-11-24" itemprop="datePublished" class="article-cta-date">24 November</time>
+        <h5 class="article-list-item-theme" itemprop="name">lego life</h5>
+    </div>
+</a>                        </li>
+                    <li>
+
+
+<a href="https://www.lego.com/en-us/life/articles/magazine-sign-up-5706acf94aa44c92b3d0ee8d74e413f4" itemprop="image" class="article-list-item list-item call-to-action ">
+    <div class="primary-content">
+        <div class="primary-content-image-wrapper">
+                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" itemprop="image" class="article-cta-thumbnail" alt="Get the LEGO&#174; Life Magazine! " lego-lazy-load="https://mi-od-live-s.legocdn.com/r/www/r/catalogs/-/media/catalogs/articles/life/website/news%20articles/magazine/magazine.png?l.r2=1543705975" />
+        </div>
+    </div>
+    <div class="secondary-content">
+        <h3 class="article-cta-headline" itemprop="name">Get the LEGO&#174; Life Magazine! </h3>
+        <time datetime="2016-11-24" itemprop="datePublished" class="article-cta-date">24 November</time>
+        <h5 class="article-list-item-theme" itemprop="name">lego life</h5>
+    </div>
+</a>                        </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+    </div>
+</div>
+<div class="grid-row section3" id="section3">
+    <div class="grid-column">
+        
+
+
+
+<div class="grid-row life-cta-header life-cta-header-reverse x2-padding-top no-padding-bottom list-setup-6c1aec6e-cf31-421a-b882-570be73c91e9  list-wrapper">
+    <div class="grid-column">
+        <div class="grid-content">
+                        <ul class="list list-grid"
+                lego-list
+                lego-element-size
+                data-size="5"
+                data-format="landscape"
+                data-uitest="list-simple"
+                                lego-element-size="">
+                    <li>
+
+
+
+    <article class="call-to-action list-item  has-headline has-text ">
+            <section class="primary-content">
+
+
+        <i></i>
+    </section>
+    <section class="secondary-content">
+            <h3 class="cta-headline">Pick ‘n’ mix the best bits</h3>
+                    <p class="cta-text">Select the LEGO® stuff you like, then watch your screen blow up with cool stuff just for you!</p>
+            </section>
+
+    </article>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</div><ul data-lego-mainstage data-format="mainstage" data-videoendpoint="http://www.lego.com/en-US/mediaplayer/api/video.json/">
+        <li class="stage">
+            <img class="stage__background" data-src="https://lc-www-live-s.legocdn.com/r/www/r/portals/-/media/images/lego-life/the-app/mainstages/s8_mainstage_app_01.png?l.r=-22521322" alt="" />
+            <div class="stage__content-wrapper">
+        <div class="stage__text" style="color: ;">
+                <h2 class="stage__header">Minifigure profiles</h2>
+                <div class="stage__main-text">It’s not just humans on LEGO&#174; Life!   Follow your mini heroes to discover important insider info, like what Master Wu’s favorite ninja skill is.   </div>
+            </div>
+            <div class="stage__cta">
+            </div>
+            </div>
+        </li>
+        <li class="stage">
+            <img class="stage__background" data-src="https://lc-www-live-s.legocdn.com/r/www/r/portals/-/media/images/lego-life/the-app/mainstages/s8_mainstage_assets_themes.png?l.r=-1581677501" alt="LEGO Life" />
+            <div class="stage__content-wrapper">
+        <div class="stage__text" style="color: ;">
+                <h2 class="stage__header">Supergroups</h2>
+                <div class="stage__main-text">NINJAGO, City, Elves … LEGO&#174; Life’s got the whole kit and caboodle!   Join your fave groups to get the latest brick buzz.</div>
+            </div>
+            <div class="stage__cta">
+            </div>
+            </div>
+        </li>
+        <li class="stage">
+            <img class="stage__background" data-src="https://lc-www-live-s.legocdn.com/r/www/r/portals/-/media/images/lego-life/the-app/mainstages/s8_mainstage_app_03.png?l.r=284640537" alt="" />
+            <div class="stage__content-wrapper">
+        <div class="stage__text" style="color: ;">
+                <h2 class="stage__header">Fan creations</h2>
+                <div class="stage__main-text">Peep at what other users are building – before trying it at home for yourself.  </div>
+            </div>
+            <div class="stage__cta">
+            </div>
+            </div>
+        </li>
+</ul>
+    </div>
+</div>
+<div class="grid-row section4" id="section4">
+    <div class="grid-column">
+        
+
+
+
+<div class="grid-row life-cta-header life-cta-header-reverse no-padding-bottom x2-padding-top list-setup-4aad8408-cdd9-4860-a048-ce1b485198a1  list-wrapper">
+    <div class="grid-column">
+        <div class="grid-content">
+                        <ul class="list list-grid"
+                lego-list
+                lego-element-size
+                data-size="2"
+                data-format="landscape"
+                data-uitest="list-simple"
+                                lego-element-size="">
+                    <li>
+
+
+
+    <article class="call-to-action list-item  has-headline has-text ">
+            <section class="primary-content">
+
+
+        <i></i>
+    </section>
+    <section class="secondary-content">
+            <h3 class="cta-headline">Rise to the challenge</h3>
+                    <p class="cta-text">Dare yourself to try something new every day…</p>
+            </section>
+
+    </article>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="grid-row list-setup-2f9e8018-cf65-48e3-b7ef-56547d1a4085  list-wrapper">
+    <div class="grid-column">
+        <div class="grid-content">
+                        <ul class="list list-grid"
+                lego-list
+                lego-element-size
+                data-size="3"
+                data-format="square"
+                data-uitest="list-simple"
+                                lego-element-size="">
+                    <li>
+
+
+
+    <article class="call-to-action list-item has-image has-headline has-text ">
+            <section class="primary-content">
+            <div class="primary-content-image-wrapper">
+                
+                <img src="https://lc-www-live-s.legocdn.com/r/www/r/portals/-/media/images/lego-life/the-app/building-challenge/legolife_square_app_buildingchallenge_01.jpg?l.r=1072607141" alt="" />
+            </div>
+
+            <div class="sticker is-top-right">
+                
+                <img src="https://lc-www-live-s.legocdn.com/r/www/r/portals/-/media/images/lego-life/shared/stickers/stickers_deco_tape_right.png?l.r=548946077" alt="" />
+            </div>
+
+        <i></i>
+    </section>
+    <section class="secondary-content">
+            <h3 class="cta-headline">Building challenges  </h3>
+                    <p class="cta-text">Test your skills with fiendishly tricky building challenges</p>
+            </section>
+
+    </article>
+                    </li>
+                    <li>
+
+
+
+    <article class="call-to-action list-item has-image has-headline has-text ">
+            <section class="primary-content">
+            <div class="primary-content-image-wrapper">
+                
+                <img src="https://lc-www-live-s.legocdn.com/r/www/r/portals/-/media/images/lego-life/the-app/building-challenge/legolife_square_app_buildingchallenge_02.jpg?l.r=1668261722" alt="" />
+            </div>
+
+            <div class="sticker is-top-center">
+                
+                <img src="https://lc-www-live-s.legocdn.com/r/www/r/portals/-/media/images/lego-life/shared/stickers/stickers_deco_pin_grey_left.png?l.r=353888535" alt="" />
+            </div>
+
+        <i></i>
+    </section>
+    <section class="secondary-content">
+            <h3 class="cta-headline">Decorating challenges  </h3>
+                    <p class="cta-text">Sticker yourself silly with cool art activities</p>
+            </section>
+
+    </article>
+                    </li>
+                    <li>
+
+
+
+    <article class="call-to-action list-item has-image has-headline has-text ">
+            <section class="primary-content">
+            <div class="primary-content-image-wrapper">
+                
+                <img src="https://lc-www-live-s.legocdn.com/r/www/r/portals/-/media/images/lego-life/the-app/building-challenge/legolife_square_app_buildingchallenge_03.jpg?l.r=-1188150861" alt="" />
+            </div>
+
+            <div class="sticker is-top-left">
+                
+                <img src="https://lc-www-live-s.legocdn.com/r/www/r/portals/-/media/images/lego-life/shared/stickers/stickers_deco_staple_left.png?l.r=-43513631" alt="" />
+            </div>
+
+        <i></i>
+    </section>
+    <section class="secondary-content">
+            <h3 class="cta-headline">Quizzes  </h3>
+                    <p class="cta-text">Show off your knowledge with memory-stretching quizzes  </p>
+            </section>
+
+    </article>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</div>
+    </div>
+</div>
+<div class="grid-row section5" id="section5">
+    <div class="grid-column">
+        
+
+
+
+<div class="grid-row life-cta-header no-padding-bottom  life-cta-header-reverse list-setup-a2ddaa3e-1892-4136-9dfc-7586f3575f93  list-wrapper">
+    <div class="grid-column">
+        <div class="grid-content">
+                        <ul class="list list-grid"
+                lego-list
+                lego-element-size
+                data-size="3"
+                data-format="landscape"
+                data-uitest="list-simple"
+                                lego-element-size="">
+                    <li>
+
+
+
+    <article class="call-to-action list-item  has-headline has-text ">
+            <section class="primary-content">
+
+
+        <i></i>
+    </section>
+    <section class="secondary-content">
+            <h3 class="cta-headline">Share your genius</h3>
+                    <p class="cta-text">Built something epic?   Take a photo, tag it, share it, and let the admiration roll in.</p>
+            </section>
+
+    </article>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="grid-row life-cta-with-eyecatcher no-padding-top x2-padding-bottom no-frame list-setup-67e9b040-fa23-4b7c-b158-3736504886d9  list-wrapper">
+    <div class="grid-column">
+        <div class="grid-content">
+                        <ul class="list list-grid"
+                lego-list
+                lego-element-size
+                data-size="8"
+                data-format="landscape"
+                data-uitest="list-simple"
+                                lego-element-size="">
+                    <li>
+
+
+
+    <article class="call-to-action list-item has-image   ">
+            <section class="primary-content">
+            <div class="primary-content-image-wrapper">
+                
+                <img src="https://lc-www-live-s.legocdn.com/r/www/r/portals/-/media/images/lego-life/the-app/capture-and-share-creativity/legolife_16-9_home_appfeatures_01.png?l.r=-856388138" alt="" />
+            </div>
+
+            <div class="sticker is-bottom-left">
+                
+                <img src="https://lc-www-live-s.legocdn.com/r/www/r/portals/-/media/images/lego-life/shared/eye-catchers/minifigureeyecatcherhomeappusgleft.png?l.r=61708445" alt="" />
+            </div>
+            <div class="sticker is-bottom-right">
+                
+                <img src="https://lc-www-live-s.legocdn.com/r/www/r/portals/-/media/images/lego-life/shared/eye-catchers/minifigureeyecatcherhomeappusgright.png?l.r=-333174" alt="" />
+            </div>
+
+        <i></i>
+    </section>
+    <section class="secondary-content">
+                    </section>
+
+    </article>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</div>
+    </div>
+</div>
+<div class="grid-row section6" id="section6">
+    <div class="grid-column">
+        
+
+
+
+<div class="grid-row life-cta-header x2-padding-top no-padding-bottom list-setup-c1201e68-6cd7-481d-b59d-f582859e87ef  list-wrapper">
+    <div class="grid-column">
+        <div class="grid-content">
+                        <ul class="list list-grid"
+                lego-list
+                lego-element-size
+                data-size="3"
+                data-format="landscape"
+                data-uitest="list-simple"
+                                lego-element-size="">
+                    <li>
+
+
+
+    <article class="call-to-action list-item  has-headline has-text ">
+            <section class="primary-content">
+
+
+        <i></i>
+    </section>
+    <section class="secondary-content">
+            <h3 class="cta-headline">How it all works</h3>
+                    <p class="cta-text">Hints, Tips, Bits</p>
+            </section>
+
+    </article>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="grid-row life-cta-with-eyecatcher no-padding-top deco-bg list-setup-fc7c38ab-2a64-4788-a9a8-9c89e3a80f54  list-wrapper">
+    <div class="grid-column">
+        <div class="grid-content">
+                        <ul class="list list-grid"
+                lego-list
+                lego-element-size
+                data-size="8"
+                data-format="sixteen-nine"
+                data-uitest="list-simple"
+                                lego-element-size="">
+                    <li>
+
+
+
+    <article class="call-to-action list-item has-image   ">
+            <section class="primary-content">
+            <div class="primary-content-image-wrapper">
+                
+                <img src="https://lc-www-live-s.legocdn.com/r/www/r/portals/-/media/images/lego-life/home/legolife_howtostuff_repeat.gif?l.r=-1250792767" alt="" />
+            </div>
+
+            <div class="sticker is-top-left">
+                
+                <img src="https://lc-www-live-s.legocdn.com/r/www/r/portals/-/media/images/lego-life/shared/stickers/stickers_deco_tape_left.png?l.r=-1671257867" alt="" />
+            </div>
+            <div class="sticker is-bottom-left">
+                
+                <img src="https://lc-www-live-s.legocdn.com/r/www/r/portals/-/media/images/lego-life/shared/eye-catchers/home_eyecatcher_girl_02.png?l.r=535257501" alt="LEGO Life" />
+            </div>
+
+        <i></i>
+    </section>
+    <section class="secondary-content">
+                    </section>
+
+    </article>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="grid-row life-cta-header no-padding-top no-padding-bottom list-setup-fc7c38ab-2a64-4788-a9a8-9c89e3a80f54  list-wrapper">
+    <div class="grid-column">
+        <div class="grid-content">
+                        <ul class="list list-grid"
+                lego-list
+                lego-element-size
+                data-size="8"
+                data-format="sixteen-nine"
+                data-uitest="list-simple"
+                                lego-element-size="">
+                    <li>
+
+
+
+    <article class="call-to-action list-item   has-text ">
+            <section class="primary-content">
+
+
+        <i></i>
+    </section>
+    <section class="secondary-content">
+                    <p class="cta-text">This is your app, so here’s a crash course in how to steer it.</p>
+            </section>
+
+    </article>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="grid-row life-cta-btn no-padding-top x2-padding-bottom list-setup-135ae3bb-9bcb-4aef-8dac-78196cb4ef26  list-wrapper">
+    <div class="grid-column">
+        <div class="grid-content">
+                        <ul class="list list-grid"
+                lego-list
+                lego-element-size
+                data-size="5"
+                data-format="landscape"
+                data-uitest="list-simple"
+                                lego-element-size="">
+                    <li>
+
+
+
+    <a href="https://www.lego.com/en-us/life/how-to-stuff" class="call-to-action list-item    has-button" data-xlink-handler lego-shopxlink-handler>
+            <section class="primary-content">
+
+
+        <i></i>
+    </section>
+    <section class="secondary-content">
+                            <div class="cta-link-text   ">
+
+<span>READ MORE</span>
+            </div>
+    </section>
+
+    </a>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</div>
+    </div>
+</div>
+<div class="grid-row section7" id="section7">
+    <div class="grid-column">
+        
+
+<style>        
+            .list-setup-65979254-e169-4629-8e8c-e859745a976a .hgroup h2,  .list-setup-65979254-e169-4629-8e8c-e859745a976a h3, .list-setup-65979254-e169-4629-8e8c-e859745a976a .title, .list-setup-65979254-e169-4629-8e8c-e859745a976a .item-header, .list-setup-65979254-e169-4629-8e8c-e859745a976a .icon {
+                color: #fff;
+            }
+
+            .list-setup-65979254-e169-4629-8e8c-e859745a976a .theme {
+                color: #fff;
+                opacity: 0.85;
+            }
+        
+</style>
+
+<div class="grid-row lego-com-list-style list-setup-65979254-e169-4629-8e8c-e859745a976a  list-wrapper">
+    <div class="grid-column">
+        <div class="grid-content">
+            
+
+
+        <div class="hgroup ">
+                    <h2>
+            More Stuff
+        </h2>
+
+        </div>
+            <ul class="list list-grid"
+                lego-list
+                lego-element-size
+                data-size="4"
+                data-format="sixteen-nine"
+                data-uitest="list-simple"
+                                lego-element-size="">
+                    <li>
+
+
+
+    <a href="https://www.lego.com/en-us/campaigns/bits-and-bricks/v2" class="call-to-action list-item has-image has-headline has-text " data-xlink-handler lego-shopxlink-handler>
+            <section class="primary-content">
+            <div class="primary-content-image-wrapper">
+                
+                <img src="https://lc-www-live-s.legocdn.com/r/www/r/portals/-/media/images/lego-life/home/legocom-list/createandshare_tout_bitsandbricks.jpg?l.r=98095840" alt="" />
+            </div>
+
+
+        <i></i>
+    </section>
+    <section class="secondary-content">
+            <h3 class="cta-headline">Bits and Bricks</h3>
+                    <p class="cta-text">Bit the adventurous LEGO® robot needs your help!   Can you tell Bit what to do?</p>
+            </section>
+
+    </a>
+                    </li>
+                    <li>
+
+
+
+    <a href="https://www.lego.com/en-us/galleries" class="call-to-action list-item has-image has-headline has-text " data-xlink-handler lego-shopxlink-handler>
+            <section class="primary-content">
+            <div class="primary-content-image-wrapper">
+                
+                <img src="https://lc-www-live-s.legocdn.com/r/www/r/portals/-/media/images/lego-life/home/legocom-list/createandshare_tout_gallery.jpg?l.r=1122603039" alt="" />
+            </div>
+
+
+        <i></i>
+    </section>
+    <section class="secondary-content">
+            <h3 class="cta-headline">Galleries </h3>
+                    <p class="cta-text">Share your creative genius and see what other LEGO® fans are building.</p>
+            </section>
+
+    </a>
+                    </li>
+                    <li>
+
+
+
+    <a href="https://community.lego.com/" class="call-to-action list-item has-image has-headline has-text " data-xlink-handler lego-shopxlink-handler>
+            <section class="primary-content">
+            <div class="primary-content-image-wrapper">
+                
+                <img src="https://lc-www-live-s.legocdn.com/r/www/r/portals/-/media/images/lego-life/home/legocom-list/createandshare_tout_messageboards.jpg?l.r=845908815" alt="" />
+            </div>
+
+
+        <i></i>
+    </section>
+    <section class="secondary-content">
+            <h3 class="cta-headline">Message Boards</h3>
+                    <p class="cta-text">Catch the latest buzz and chime in on the LEGO® Message Boards.</p>
+            </section>
+
+    </a>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="grid-row get-me-to-the-top-man" data-no-content>
+    <div class="grid-column">
+        <div class="grid-content">
+            <!-- List not proper configured. -->
+        </div>
+    </div>
+</div>
+
+    </div>
+</div>
+<div class="grid-row section8" id="section8">
+    <div class="grid-column">
+        
+    </div>
+</div>
+<div class="grid-row section9" id="section9">
+    <div class="grid-column">
+        
+    </div>
+</div>
+<div class="grid-row section10" id="section10">
+    <div class="grid-column">
+        
+    </div>
+</div>
+
+
+    
+<footer class="lego-global-footer">
+    <div class="lego-global-footer-wrap">
+        <ul class="lego-global-footer-groups">
+                <li>
+                    <a href="https://www.lego.com/en-us/service"><h5>Customer Service</h5></a>
+                    <ul>
+                            <li><a href="https://www.lego.com/en-us/service/buildinginstructions" xlink-handler="">Building Instructions</a></li>
+                            <li><a href="https://www.lego.com/en-us/service/replacementparts" xlink-handler="">Replacement Parts</a></li>
+                            <li><a href="https://www.lego.com/en-us/service" xlink-handler="">Contact Us</a></li>
+                            <li><a href="https://www.lego.com/en-us/service/product-recalls" xlink-handler="">Product Recalls</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="https://www.lego.com/en-us/aboutus"><h5>About Us</h5></a>
+                    <ul>
+                            <li><a href="https://www.lego.com/en-us/aboutus/responsibility" xlink-handler="">Responsibility</a></li>
+                            <li><a href="https://wwwsecure.lego.com/en-us/careers" xlink-handler="">Jobs</a></li>
+                            <li><a href="https://www.lego.com/en-us/legal/legal-notice" xlink-handler="">Legal Information</a></li>
+                            <li><a href="https://www.lego.com/en-us/aboutus/news-room" xlink-handler="">Newsroom</a></li>
+                            <li><a href="https://www.lego.com/en-us/aboutus/responsibility/caring-ethical-and-transparent/transparency-in-supply-chains-statement" xlink-handler="">Supply Chain Transparency Statement</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="https://www.lego.com/en-us/family"><h5>Parents</h5></a>
+                    <ul>
+                            <li><a href="https://www.lego.com/en-us/family/birthday-party" xlink-handler="">Birthday Party Ideas</a></li>
+                            <li><a href="https://www.lego.com/en-us/family/make" xlink-handler="">Building Ideas</a></li>
+                            <li><a href="https://www.lego.com/en-us/family/learn" xlink-handler="">Child Development </a></li>
+                            <li><a href="https://www.lego.com/en-us/family/play" xlink-handler="">Play Ideas </a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="http://education.lego.com/en-us"><h5>Educators</h5></a>
+                    <ul>
+                            <li><a href="http://education.lego.com/en-us" xlink-handler="">LEGO Education Website</a></li>
+                            <li><a href="https://education.lego.com/en-us/shop" xlink-handler="">LEGO Education Products</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="https://www.lego.com/en-us/legoland"><h5>LEGOLAND</h5></a>
+                    <ul>
+                            <li><a href="https://www.lego.com/en-us/legoland/parks" xlink-handler="">Parks</a></li>
+                            <li><a href="https://www.lego.com/en-us/legoland/discoverycenter" xlink-handler="">Discovery Centers</a></li>
+                    </ul>
+                </li>
+        </ul>
+        <ul class="lego-global-footer-links">
+                <li><a href="https://www.lego.com/en-us/legal/legal-notice/privacy-policy-full" xlink-handler="">Privacy Policy</a></li>
+                <li><a href="https://www.lego.com/en-us/legal/cookieinfo" xlink-handler="">Cookies</a></li>
+                <li><a href="https://www.lego.com/en-us/legal-notices" xlink-handler="">Legal Notice</a></li>
+                <li><a href="https://www.lego.com/en-us/legal/legal-notice" xlink-handler="">Terms of Use</a></li>
+        </ul>
+        
+        <ul class="lego-global-footer-legal">
+                <li>LEGO, the LEGO logo, the Minifigure, DUPLO, the DUPLO logo, BIONICLE, the BIONICLE logo, LEGENDS OF CHIMA, the LEGENDS OF CHIMA logo, DIMENSIONS, the DIMENSIONS logo, the FRIENDS logo, the MINIFIGURES logo, MINDSTORMS, the MINDSTORMS EV3 logo, MIXELS, the MIXELS logo, NINJAGO, the NINJAGO logo, NEXO KNIGHTS, and the NEXO KNIGHTS logo are trademarks and/or copyrights of the LEGO Group. ©2017 The LEGO Group. All rights reserved.<br/>
+<br/></li>
+        </ul>
+    </div>
+</footer>
+
+    <script src="https://lc-www-live-s.legocdn.com/r/www/r/portals/en-us/scriptconfig?l.r=3252"></script>
+    <script src="https://lc-www-live-s.legocdn.com/r/www/r/portals/scripts/app.min.js?l.r=3252"></script>
+    
+    
+    
+    <script src="https://lc-www-live-s.legocdn.com/r/www/r/globalnavigationservices/api/v1/global/scripts/en-us/LEGO.Global.Full/legocom_portals?l.r2=2.0.0.1662">
+</script>
+</body>
+</html>

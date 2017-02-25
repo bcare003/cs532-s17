@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title></title>
+		<meta http-equiv="refresh" content="2;url=https://itunes.apple.com/us/album/purpose-deluxe/id1049605561?ls=1&amp;app=itunes&amp;at=1l3vm7r&amp;ct=mdp1or"/>	
+		<script>
+			var destinationUrl = "https://itunes.apple.com/us/album/purpose-deluxe/id1049605561?ls=1&app=itunes&at=1l3vm7r&ct=mdp1or";
+			var numRedirects = 0;
+			function LinkDecorator() {};
+			LinkDecorator.prototype.decorate = function(url) {
+				return url;
+			}
+			var linkDecorator = new LinkDecorator();
+			var numAsyncTasks = 3;
+			function onAsyncTaskComplete() {
+				numAsyncTasks--;
+				if (numAsyncTasks <= 0) {
+					onAllAsyncTasksComplete();
+				}
+	   		}
+			function makePixel(url) {
+				var img = document.createElement("img");
+				img.onload = function() {
+					onAsyncTaskComplete();
+				}
+				img.src = url;
+			}
+			function onAllAsyncTasksComplete() {
+				if (numRedirects == 0) {
+					numRedirects++;
+					window.location = linkDecorator.decorate(destinationUrl);
+				}
+			}
+		</script>	
+		
+	</head>
+	<body>
+		<script type="text/javascript">
+			makePixel("https:\/\/www.facebook.com\/tr?id=763254597067227\x26ev=smartURLClick\x26cd[uuid]=d1c6aac6\-9a1c\-4036\-8d00\-c315faaef6c1");
+			makePixel("https:\/\/analytics.twitter.com\/i\/adsct?txn_id=ntsvu\x26p_id=Twitter\x26tw_sale_amount=0\x26tw_order_quantity=0");
+			makePixel("\/\/googleads.g.doubleclick.net\/pagead\/viewthroughconversion\/964011588\/?value=1.00\x26currency_code=USD\x26label=lyxlCJ3WnWEQxMzWywM\x26guid=ON\x26script=0");
+			window.setTimeout(onAllAsyncTasksComplete, 2000);
+		</script>
+		<noscript>
+			<img height="1" width="1" style="border-style:none;" alt="" src="https://www.facebook.com/tr?id=763254597067227&amp;ev=smartURLClick&amp;cd[uuid]=d1c6aac6-9a1c-4036-8d00-c315faaef6c1"/>
+			<img height="1" width="1" style="border-style:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=ntsvu&amp;p_id=Twitter&amp;tw_sale_amount=0&amp;tw_order_quantity=0"/>
+			<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/964011588/?value=1.00&amp;currency_code=USD&amp;label=lyxlCJ3WnWEQxMzWywM&amp;guid=ON&amp;script=0"/>
+		</noscript>
+    </body>
+</html>
