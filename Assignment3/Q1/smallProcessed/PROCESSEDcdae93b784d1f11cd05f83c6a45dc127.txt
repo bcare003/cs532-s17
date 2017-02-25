@@ -1,0 +1,271 @@
+   ____________________
+
+   [1]Login
+   [2]My Account
+          [3]Account Settings [4]My Creations [5]Logout
+
+   [6]Disney.com
+
+   [7]Store
+          [8]Home [9]New Arrivals [10]Special Offers [11]Sale [12]Gift
+          Cards [13]All Store
+
+   [14]Parks & Travel
+          [15]Home [16]Walt Disney World [17]Walt Disney World
+          [18]Disneyland [19]Disney Cruise Line [20]Aulani [21]All Parks &
+          Travel
+
+   [22]Games
+          [23]Home [24]Create [25]Mobile Apps [26]Video Games [27]Club
+          Penguin
+
+   [28]Video
+          [29]Home [30]Movies [31]Shows [32]How To Draw [33]Music Videos
+          [34]Watch TV
+
+   [35]News & Blogs
+          [36]Oh My Disney [37]Disney Insider [38]Disney Style
+
+   [39]TV
+          [40]Disney Channel [41]Disney XD [42]Disney Junior
+
+   [43]Movies
+          [44]Home [45]In Theaters [46]At Home [47]Disney Movies Anywhere
+          [48]All Movies
+
+   [49]Music
+          [50]Home [51]Music Videos [52]Artists [53]Radio Disney [54]RDMA
+
+   [55]Family
+          [56]Home [57]Crafts [58]Recipes [59]Activities
+
+   [60]¡Ajá!
+          [61]Home [62]Actividades [63]Juegos [64]Videos [65]Películas
+
+   [66]Books
+          [67]Home [68]Digital
+
+   [69]Live Shows
+          [70]Home [71]Disney on Broadway [72]Disney on Ice [73]Disney
+          Live!
+
+   (BUTTON) Disney.com
+
+     * [74]Disney.com
+     * [75]Store
+     * [76]Parks & Travel
+     * [77]Games
+     * [78]Video
+     * [79]Blogs
+     * [80]TV
+     * [81]Movies
+     * [82]Music
+     * [83]Family
+     * [84]Style
+     * [85]Live Shows
+     * [86]Books
+
+     * [87]Login
+     * [88]My Account
+          + [89]Account Settings
+          + [90]My Creations
+          + [91]Logout
+
+   ____________________
+   (BUTTON) [92]Disney Pirates
+     * [93]Movies
+     * [94]Video
+     * [95]Games & Activities
+     * [96]Characters
+     * [97]Galleries
+     * [98]Store
+     * [99]Parks & Travel
+
+   Cancel
+   [e404_matte-3539f646e0d3.png]
+
+Uh Oh!
+
+Couldn’t find that.
+Try something else?
+
+   ____________________ Submit
+
+Footer
+
+     * [100]Movies [101]Pirates of the Caribbean: Dead Men Tell No Tales
+       [102]Pirates of the Caribbean: The Curse of the Black Pearl
+       [103]Pirates of the Caribbean: Dead Man's Chest [104]Pirates of the
+       Caribbean: At World's End
+     * [105]Videos [106]Jack's Escape [107]Someone Has to Jump
+       [108]Pirates of the Caribbean: The Curse of the Black Pearl
+       [109]Pirates of the Caribbean: Dead Man's Chest Trailer
+       [110]Pirates of the Caribbean: At World's End Trailer
+     * [111]Games [112]Games on LOL [113]Lego Pirates Of The Caribbean
+     * [114]Characters [115]Jack Sparrow [116]Davy Jones [117]Hector
+       Barbossa [118]Will Turner [119]Elizabeth Swann
+
+Help
+
+About and Legal
+
+     * [120]About Disney
+     * [121]Disney Help
+     * [122]Careers
+     * [123]Contact Us
+     * [124]Family
+     * [125]Babble
+
+     * [126]Terms of Use
+     * [127]Legal Notices
+     * [128]Privacy Policy
+     * [129]Your California Privacy Rights
+     * [130]Children's Online Privacy Policy
+     * [131]Interest-Based Ads
+
+   © Disney, All Rights Reserved
+
+   (BUTTON)
+
+References
+
+   Visible links
+   1. javascript:void(0);
+   2. http://pirates.disney.com/
+   3. javascript:void(0);
+   4. http://pirates.disney.com/creations
+   5. javascript:void(0);
+   6. http://www.disney.com/
+   7. http://www.disneystore.com/transfer/280559/?CMP=OTL-Dcom:DropRollover_Store
+   8. http://www.disneystore.com/transfer/280559/?CMP=OTL-Dcom:DropRollover1
+   9. https://www.disneystore.com/transfer/280559/mn/1000995/?cmp=OTL-Dcom&att=DropRollover_NewArrivals
+  10. https://www.disneystore.com/transfer/280559/special-offers/mn/1001266/?cmp=OTL-Dcom&att=DropRollover_SpecialOffers
+  11. https://www.disneystore.com/transfer/280559/mn/1001152/?cmp=OTL-Dcom&att=DropRollover_Sale
+  12. https://www.disneystore.com/transfer/280559/gift-cards/mn/1001265/?cmp=OTL-Dcom&att=DropRollover_GiftCards
+  13. https://www.disneystore.com/transfer/280559/?cmp=OTL-Dcom&att=DropRollover_AllStore
+  14. http://disneyparks.disney.go.com/?DISCID=DI_flyawaynav_8
+  15. https://disneyparks.disney.go.com/?DISCID=DI_flyawaynav_8
+  16. https://disneyworld.disney.go.com/?DISCID=DI_flyawaynav_9
+  17. http://m.disneyworld.disney.go.com/?DISCID=DI_flyawaynav_9
+  18. https://disneyland.disney.go.com/?DISCID=DI_flyawaynav_10
+  19. https://disneycruise.disney.go.com/?DISCID=DI_flyawaynav_11
+  20. https://resorts.disney.go.com/aulani-hawaii-resort/?DISCID=DI_flyawaynav_12
+  21. https://disneyparks.disney.go.com/?DISCID=DI_flyawaynav_13
+  22. http://lol.disney.com/games
+  23. http://lol.disney.com/games
+  24. http://lol.disney.com/create
+  25. http://lol.disney.com/games/mobile-apps
+  26. http://lol.disney.com/games/video-games
+  27. http://www.clubpenguin.com/?country=US?oast=DOS_CP_CPVW_DCOM_HOMENAV_2013EVER_BAC_EN_NAM_nav&cmp=clp_bac_en_2013EVER_dcom_nav_home-nav_extl
+  28. http://video.disney.com/
+  29. http://video.disney.com/
+  30. http://movies.disney.com/
+  31. http://shows.disney.com/
+  32. http://video.disney.com/how-to-draw
+  33. http://music.disney.com/
+  34. http://video.disney.com/watchtv
+  35. https://ohmy.disney.com/
+  36. https://ohmy.disney.com/
+  37. https://ohmy.disney.com/insider/
+  38. https://style.disney.com/
+  39. http://shows.disney.com/
+  40. http://disneychannel.disney.com/
+  41. http://disneyxd.disney.com/
+  42. http://disneyjunior.disney.com/
+  43. http://movies.disney.com/
+  44. http://movies.disney.com/
+  45. http://movies.disney.com/in-theaters
+  46. http://movies.disney.com/watch-at-home
+  47. https://www.disneymoviesanywhere.com/?cmp=DMA|RON|DISNEYGLOBALNAV|MOVIES|20150123
+  48. http://movies.disney.com/all-movies
+  49. http://music.disney.com/
+  50. http://music.disney.com/
+  51. http://music.disney.com/music-videos
+  52. http://music.disney.com/artists
+  53. http://radio.disney.com/
+  54. http://radio.disney.com/radio-disney-music-awards
+  55. https://family.disney.com/
+  56. https://family.disney.com/
+  57. https://family.disney.com/crafts
+  58. https://family.disney.com/recipes
+  59. https://family.disney.com/activities
+  60. http://aja.disney.com/
+  61. http://aja.disney.com/
+  62. http://aja.disney.com/actividades
+  63. http://aja.disney.com/juegos
+  64. http://aja.disney.com/video
+  65. http://aja.disney.com/peliculas
+  66. http://books.disney.com/
+  67. http://books.disney.com/
+  68. https://disneystorycentral.com/
+  69. http://liveshows.disney.com/
+  70. http://liveshows.disney.com/
+  71. http://www.disneyonbroadway.com/
+  72. http://www.disneyonice.com/
+  73. http://www.disneylive.com/
+  74. http://www.disney.com/
+  75. http://www.disneystore.com/transfer/280559/?CMP=OTL-Dcom:ChromShpIconB
+  76. http://disneyparks.disney.go.com/?DISCID=DI_mtt_chrome
+  77. http://lol.disney.com/games
+  78. http://video.disney.com/
+  79. https://ohmy.disney.com/
+  80. http://shows.disney.com/
+  81. http://movies.disney.com/
+  82. http://music.disney.com/
+  83. https://family.disney.com/
+  84. https://style.disney.com/
+  85. http://liveshows.disney.com/
+  86. http://books.disney.com/
+  87. javascript:void(0);
+  88. http://pirates.disney.com/
+  89. javascript:void(0);
+  90. http://pirates.disney.com/creations
+  91. javascript:void(0);
+  92. http://pirates.disney.com/
+  93. http://pirates.disney.com/movies
+  94. http://pirates.disney.com/video
+  95. http://pirates.disney.com/games-activities
+  96. http://pirates.disney.com/characters
+  97. http://pirates.disney.com/galleries
+  98. http://www.disneystore.com/transfer/280559/?cmp=OTL-Dcom&att=Dcom_FS_PiratesoftheCaribbean_Chrome_Shop
+  99. http://disneyparks.disney.go.com/?CMP=AFC-DPFY13Q1DIENT1379G
+ 100. http://pirates.disney.com/movies
+ 101. http://pirates.disney.com/pirates-of-the-caribbean-dead-men-tell-no-tales
+ 102. http://pirates.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl
+ 103. http://pirates.disney.com/pirates-of-the-caribbean-dead-mans-chest
+ 104. http://pirates.disney.com/pirates-of-the-caribbean-at-worlds-end
+ 105. http://pirates.disney.com/video
+ 106. http://video.disney.com/watch/jack-s-escape-4be3871011f89a0e1266b068
+ 107. http://video.disney.com/watch/someone-has-to-jump-4be3870b679c0a0e1266b068
+ 108. http://video.disney.com/watch/pirates-of-the-caribbean-the-curse-of-the-black-pearl-4bcd1e927ad4e5d339e69f42
+ 109. http://video.disney.com/watch/pirates-of-the-caribbean-dead-man-s-chest-4bcc50dca8a9e22413f9939c
+ 110. http://video.disney.com/watch/pirates-of-the-caribbean-at-world-s-end-trailer-4be1103c5c70e42f7f3ce022
+ 111. http://pirates.disney.com/games-activities
+ 112. http://lol.disney.com/
+ 113. http://lol.disney.com/games/lego-pirates-of-the-caribbean-video-game
+ 114. http://pirates.disney.com/characters
+ 115. http://pirates.disney.com/jack-sparrow
+ 116. http://pirates.disney.com/pirates-of-the-caribbean-dead-mans-chest/characters
+ 117. http://pirates.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl/characters
+ 118. http://pirates.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl/characters
+ 119. http://pirates.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl/characters
+ 120. https://thewaltdisneycompany.com/?ppLink=pp_wdig
+ 121. https://help.disney.com/
+ 122. http://disneycareers.com/en/default/
+ 123. http://help.disney.com/
+ 124. http://family.disney.com/
+ 125. http://www.babble.com/
+ 126. http://disneytermsofuse.com/
+ 127. http://help.disney.com/articles/en_US/FAQ/Legal-Notices?ppLink=pp_wdig
+ 128. https://disneyprivacycenter.com/
+ 129. https://disneyprivacycenter.com/notice-to-california-residents/
+ 130. https://disneyprivacycenter.com/kids-privacy-policy/english/
+ 131. http://preferences-mgr.truste.com/?type=disneycolor&affiliateId=115
+
+   Hidden links:
+ 133. https://disneyworld.disney.go.com/?DISCID=DI_mtt_chrome_dropdown_wdw
+ 134. https://disneyland.disney.go.com/?DISCID=DI_mtt_chrome_dropdown_dlr
+ 135. https://disneycruise.disney.go.com/?DISCID=DI_mtt_chrome_dropdown_dcl
+ 136. https://resorts.disney.go.com/aulani-hawaii-resort?DISCID=DI_mtt_chrome_dropdown_aulani
+ 137. https://disneyvacationclub.disney.go.com/?DISCID=DI_mtt_chrome_dropdown_dvc
+ 138. https://www.adventuresbydisney.com/?DISCID=DI_mtt_chrome_dropdown_abd

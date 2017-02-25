@@ -1,0 +1,112 @@
+   #[1]Genius
+
+   {{:: 'cloud_flare_always_on_short_message' | i18n }}
+   Check [2]@genius for updates. We'll have things fixed soon.
+   [3]GENIUS
+   |
+     * [4]Facebook
+     * [5]Twitter
+     * [6]Instagram
+     * [7]Youtube
+
+   Winking_sgnarly
+
+Oops! Page not found
+
+   Sorry, we didn't mean for that to happen!
+
+   You can search Genius by using the search bar above, or [8]go back to
+   the homepage.
+
+   [9]About Genius [10]Contributor Guidelines [11]Press [12]News Genius
+   [13]Annotate the Web [14]Shop [15]Advertise [16]Event Space [17]Privacy
+   Policy [18]Licensing [19]Jobs [20]Developers [21]Terms of Use
+   [22]Contact us [23]Sign in
+   © 2017 Genius Media Group Inc.
+
+   [24]Verified Artists All Artists:
+     * [25]A
+     * [26]B
+     * [27]C
+     * [28]D
+     * [29]E
+     * [30]F
+     * [31]G
+     * [32]H
+     * [33]I
+     * [34]J
+     * [35]K
+     * [36]L
+     * [37]M
+     * [38]N
+     * [39]O
+     * [40]P
+     * [41]Q
+     * [42]R
+     * [43]S
+     * [44]T
+     * [45]U
+     * [46]V
+     * [47]W
+     * [48]X
+     * [49]Y
+     * [50]Z
+     * [51]#
+
+   Quantcast
+
+   [p?c1=2&c2=17151659&cv=2.0&cj=1]
+
+References
+
+   1. https://genius.com/opensearch.xml
+   2. https://twitter.com/genius
+   3. https://genius.com/
+   4. https://www.facebook.com/geniusdotcom/
+   5. https://twitter.com/Genius
+   6. https://www.instagram.com/genius/
+   7. https://www.youtube.com/user/RapGeniusVideo
+   8. https://genius.com/
+   9. https://genius.com/about
+  10. https://genius.com/contributor_guidelines
+  11. https://genius.com/press
+  12. https://news.genius.com/
+  13. https://genius.com/web-annotator
+  14. https://shop.genius.com/?class=shop
+  15. mailto:brands@genius.com
+  16. https://eventspace.genius.com/
+  17. https://genius.com/static/privacy_policy
+  18. https://genius.com/static/licensing
+  19. https://genius.com/jobs
+  20. https://genius.com/developers
+  21. https://genius.com/static/terms
+  22. https://genius.com/feedback/new
+  23. https://genius.com/login
+  24. https://genius.com/verified-artists
+  25. https://genius.com/artists-index/a
+  26. https://genius.com/artists-index/b
+  27. https://genius.com/artists-index/c
+  28. https://genius.com/artists-index/d
+  29. https://genius.com/artists-index/e
+  30. https://genius.com/artists-index/f
+  31. https://genius.com/artists-index/g
+  32. https://genius.com/artists-index/h
+  33. https://genius.com/artists-index/i
+  34. https://genius.com/artists-index/j
+  35. https://genius.com/artists-index/k
+  36. https://genius.com/artists-index/l
+  37. https://genius.com/artists-index/m
+  38. https://genius.com/artists-index/n
+  39. https://genius.com/artists-index/o
+  40. https://genius.com/artists-index/p
+  41. https://genius.com/artists-index/q
+  42. https://genius.com/artists-index/r
+  43. https://genius.com/artists-index/s
+  44. https://genius.com/artists-index/t
+  45. https://genius.com/artists-index/u
+  46. https://genius.com/artists-index/v
+  47. https://genius.com/artists-index/w
+  48. https://genius.com/artists-index/x
+  49. https://genius.com/artists-index/y
+  50. https://genius.com/artists-index/z
+  51. https://genius.com/artists-index/0

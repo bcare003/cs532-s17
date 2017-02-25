@@ -1,0 +1,161 @@
+   52 SELECT * FROM jokes WHERE entry_id IN ( '246609', '226481',
+   '223728', '220685', '217165', '214229', '204914', '193127', '191746',
+   '184792', '182429', '170697', '165918', '164910', '163571', '163570',
+   '163566', '157165', '155546', '154921', '153858', '152980', '152322',
+   '151832', '151617', '149168', '146960', '143785', '140109', '134906',
+   '131662', '131341', '126096', '101547', '98697', '95323', '76137',
+   '76127', '76123', '76110', '76108', '76099', '75973', '75967', '75965',
+   '75964', '75957', '75948', '75947', '75946', '42618', '31200' ) and
+   approved='' ORDER BY popularity DESC LIMIT -15, 15
+   Warning: mysql_fetch_array() expects parameter 1 to be resource,
+   boolean given in /home/funny/public_html/mods/mobile/mobile.php on line
+   229
+
+   ____________________
+
+   Trending Tags
+   [1]Big Forehead Jokes
+   [2]Funny Roasting Jokes
+   [3]Good Hair Jokes
+   [4]Kidney Jokes
+   [5]Light Skin Jokes
+   [6]Salty Jokes
+   [7]Steven Seagal Jokes
+   [8]Ugly Sister Jokes
+
+        Latest Memes
+
+        Relatable Posts
+
+        School Memes
+
+        Birthday Memes
+
+        Relationship Memes
+
+        Relationship Goals
+
+        Ex Boyfriend Memes
+
+        Jokes About Men
+
+        Ex Girlfriend Memes
+
+        Jokes About Women
+
+        Ratchet/Ghetto Memes
+
+        Teen Posts
+
+        Cute Pictures
+
+        Celebrity Memes
+
+        Sports Memes
+
+        Reaction Faces
+
+   [9]Terms · [10]Privacy · [11]Contact
+   Kappit © 2017 ([12]Desktop)
+
+   [13][kappitlogo_mobile.png]
+
+                            ____________________
+
+                               TRENDING TODAY
+
+
+
+   [14][201702_0730_efhdh_sm.jpg]  [15] [201502_1041_bfahc_sm.jpg]  [16]
+   [22994283dihhd_sm.jpg]  [17] [19248746ihhih_sm.jpg]  [18]
+   [201405_2221_gaeab_sm.jpg]  [19] [201411_1035_chiac_sm.jpg]  [20]
+   [201412_1526_chfab_sm.jpg]  [21] [201502_2314_gihfi_sm.jpg]  [22]
+   [20150804_111530_eidcgha_sm.png]  [23] [201510_1136_babdg_sm.png]  [24]
+   [201511_0242_ifgif_sm.jpg]  [25] [201512_0817_ibche_sm.jpg]  [26]
+   [201601_0646_chgdb_sm.jpg]  [27] [201601_1027_acaeh_sm.jpg]  [28]
+   [201602_1301_bhghh_sm.jpg]  [29] [201603_0503_eeifi_sm.jpg]  [30]
+   [201604_1001_gccfg_sm.jpg]  [31] [201612_0712_ceeah_sm.jpg]
+
+                               John Cena Jokes
+
+
+
+                                Sponsored Ad
+                                Sponsored Ad
+
+                                Sponsored Ad
+
+                [32] 1  [33] 2  [34] 3  [35] 4  [36] Next ❯
+
+   [INS: :INS]
+
+   [37]Share On Facebook
+
+References
+
+   Visible links
+   1. http://www.kappit.com/tag/big-forehead-jokes/
+   2. http://www.kappit.com/tag/funny-roasting-jokes/
+   3. http://www.kappit.com/tag/good-hair-jokes/
+   4. http://www.kappit.com/tag/kidney-jokes/
+   5. http://www.kappit.com/tag/light-skin-jokes/
+   6. http://www.kappit.com/tag/salty-jokes/
+   7. http://www.kappit.com/tag/steven-seagal-jokes/
+   8. http://www.kappit.com/tag/ugly-sister-jokes/
+   9. http://www.funnycaptions.com/terms/
+  10. http://www.funnycaptions.com/privacy/
+  11. http://www.funnycaptions.com/tag/john-cena-jokes//
+  12. javascript:void(0);
+  13. http://www.kappit.com/
+  14. http://www.funnycaptions.com/img/247700/falcons-choke-patriots-win-super-bowl-li-internet-reacts/
+  15. http://www.funnycaptions.com/img/158785/nascar-where-sitting-is-sport/
+  16. http://www.funnycaptions.com/img/102744/soccer-players-pretend-theyre-hurt-hockey-players-pretend-theyre-not/
+  17. http://www.funnycaptions.com/img/70600/no-touch-the-biggest-lie-in-volleyball/
+  18. http://www.funnycaptions.com/img/112313/5-year-transformation-crossfit/
+  19. http://www.funnycaptions.com/img/140109/had-thanksgiving-dinner-with-john-cena-and-his-family-makes-out-with-john-cena-and-his-brothers/
+  20. http://www.funnycaptions.com/img/146216/kobe-im-open-and/
+  21. http://www.funnycaptions.com/img/157509/kyle-busch-the-official-tool-of-nascar/
+  22. http://www.funnycaptions.com/img/184913/ronda-rouseys-favorite-cereal-is-rice-crispies-snap-crackle-pop/
+  23. http://www.funnycaptions.com/img/197176/milwaukee-bucks-hype-team-with-the-most-absurd-trampoline-dunk-you-will-ever-witness/
+  24. http://www.funnycaptions.com/img/201975/rhonda-rousey-wants-to-be-manny-pacquiao-so-bad/
+  25. http://www.funnycaptions.com/img/211366/when-the-seahawks-decided-to-pass-instead-of-running-the-ball/
+  26. http://www.funnycaptions.com/img/216806/its-alright-aaron-we-can-watch-the-super-bowl-at-my-house/
+  27. http://www.funnycaptions.com/img/217266/i-dont-normally-watch-nfl-teams-that-suck-but-when-i-do-is-the-arizona-cardinals/
+  28. http://www.funnycaptions.com/img/225213/i-hear-it-your-birthday-leon-i-put-you-in-camel-clutch-make-you-humble-bubba/
+  29. http://www.funnycaptions.com/img/231743/nasa-finally-runs-out-of-ideas-for-missions/
+  30. http://www.funnycaptions.com/img/237566/my-brother-is-an-idiot/
+  31. http://www.funnycaptions.com/img/247110/internet-reacts-to-ronda-rouseys-ufc-207-loss-to-amanda-nunes/
+  32. http://www.funnycaptions.com/tag/john-cena-jokes/
+  33. http://www.funnycaptions.com/tag/john-cena-jokes/2/
+  34. http://www.funnycaptions.com/tag/john-cena-jokes/3/
+  35. http://www.funnycaptions.com/tag/john-cena-jokes/4/
+  36. http://www.funnycaptions.com/tag/john-cena-jokes/1/
+  37. https://www.facebook.com/sharer/sharer.php?u=http://www.funnycaptions.com/tag/john-cena-jokes//
+
+   Hidden links:
+  39. http://www.kappit.com/tag/memes/
+  40. http://www.kappit.com/tag/relatable-posts/
+  41. http://www.kappit.com/tag/school-memes/
+  42. http://www.kappit.com/tag/birthday-meme/
+  43. http://www.kappit.com/tag/relationship/
+  44. http://www.kappit.com/tag/relationship-goals/
+  45. http://www.kappit.com/tag/ex-boyfriend-meme/
+  46. http://www.kappit.com/tag/jokes-about-men/
+  47. http://www.kappit.com/tag/ex-girlfriend-memes/
+  48. http://www.kappit.com/tag/jokes-about-women/
+  49. http://www.kappit.com/tag/ratchet/
+  50. http://www.kappit.com/tag/teen/
+  51. http://www.kappit.com/tag/cute/
+  52. http://www.kappit.com/tag/celebrity/
+  53. http://www.kappit.com/tag/sports/
+  54. http://www.kappit.com/tag/reaction-faces/
+  55. http://www.facebook.com/kappit
+  56. http://www.twitter.com/kappitdotcom
+  57. http://www.tumblr.com/kappit
+  58. http://www.pinterest.com/kappit
+  59. http://www.instagram.com/kappitdotcom
+  60. http://feeds.feedburner.com/kappit
+  61. javascript:void(0);
+  62. javascript:void(0);
+  63. http://www.funnycaptions.com/tag/john-cena-jokes/%0d/#src
+  64. http://www.funnycaptions.com/tag/john-cena-jokes/%0d/#src
