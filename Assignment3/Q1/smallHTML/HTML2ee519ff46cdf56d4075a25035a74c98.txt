@@ -1,0 +1,1674 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta property="fb:page_id" content="126281330722826" />
+		<meta name="google-site-verification" content="pTG9cbyClySmWh0Z5uEBdmvKV8FzydO-TOwHPNrr8GA" />
+
+		
+		<title>AJ Styles Beats John Cena At WWE&#8217;s &#8216;SummerSlam&#8217; In A Phenomenal Match - Hollywood Life</title>
+					<!-- Mezzobit Tag -->
+			<script src="//cdn01.mzbcdn.net/mngr/sync-mtm.js#57772ff9e62b22997a185dee"></script>
+					<!-- Amazon adcode begin-->
+		<script data-cfasync='true' type='text/javascript' src='//c.amazon-adsystem.com/aax2/amzn_ads.js'></script>
+		<script data-cfasync='true' type='text/javascript'>
+			try {
+				amznads.getAds('3157');
+			} catch(e) { /*ignore*/}
+		</script>
+		<!-- Amazon adcode end-->
+		
+<!-- BEGIN Krux Control Tag -->
+<script class="kxct" data-id="Jhm7JZ0Q" data-timing="async" data-version="3.0" type="text/javascript">
+  window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+  (function(){
+    var k=document.createElement('script');k.type='text/javascript';k.async=true;
+    k.src="https:\/\/cdn.krxd.net\/controltag\/Jhm7JZ0Q.js";
+    var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+  }());
+
+</script>
+<!-- END Krux Controltag -->
+
+<!-- GPT interchange code -->
+<script>
+ window.Krux || ((Krux = function() {
+   Krux.q.push(arguments);
+ }).q = []);
+ (function() {
+   function retrieve(n) {
+     var m, k = 'kx' + n;
+     if (window.localStorage) {
+       return window.localStorage[k] || "";
+     } else if (navigator.cookieEnabled) {
+       m = document.cookie.match(k + '=([^;]*)');
+       return (m && unescape(m[1])) || "";
+     } else {
+       return '';
+     }
+   }
+   Krux.user = retrieve('user');
+   Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+ })();
+</script>
+
+	<script src="//sf.mmccint.com/bootstrap?pubid=A-5516574&url=hollywoodlife.com" data-owner="sitefuel"></script>
+
+<!-- Quantcast Tag, part 1 -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+})();
+</script>
+<!-- Quantcast tag End, part 1 -->
+
+<!-- Pingdom RUM - Start -->
+<script>
+var _prum = [['id', '55133b94abe53d1315b40683'],
+             ['mark', 'firstbyte', (new Date()).getTime()]];
+(function() {
+    var s = document.getElementsByTagName('script')[0]
+      , p = document.createElement('script');
+    p.async = 'async';
+    p.src = '//rum-static.pingdom.net/prum.min.js';
+    s.parentNode.insertBefore(p, s);
+})();
+</script>
+<!-- Pingdom RUM - End -->
+
+
+<meta name="description" content="There’s only one word to describe that match – Phenomenal! ‘The Phenomenal One’ AJ Styles had a brutal war with John Cena at ‘SummerSlam.’ After these two exchanged devastating moves, it was AJ who walked out the winner!" />
+<meta name="keywords" content="" />
+<meta name="news_keywords" content="AJ Styles, John Cena, WWE, WWE SummerSlam" />
+
+<script type="text/javascript">dataLayer = window.dataLayer || []; /* Google Tag Manager */</script>
+<script type="text/javascript" src="//pmc-d.openx.net/w/1.0/jstag?nc=3782-PMC RON"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var pmc_meta = {"lob":"hollywoodlife","page-type":"article","env":"desktop","primary-category":"Breaking News","primary-vertical":"","vertical":"","category":["Breaking News","News and Gossip","Sports","WWE"],"tag":["AJ Styles","John Cena","WWE","WWE SummerSlam"],"author":["Jason Brow"],"logged-in":"","subscriber-type":"","country":"us","a-b-test":"home-infinite-on"};
+
+/* ]]> */
+</script>
+		<script>
+			(function(d,w){
+				var i, parts, name, c, rdecode = /(%[0-9A-Z]{2})+/g, rspace = /\+/g, ac = (d ? d.split('; ') : []);
+				for(w.pmc_cookies = {}, i = 0; i < ac.length; i++) {
+					parts = ac[i].split('='), name = parts[0].replace(rdecode, decodeURIComponent), c = parts.slice(1).join('=');
+					if(c.charAt(0) === '"') { c = c.slice(1, -1); } c = c.replace(rdecode, decodeURIComponent).replace(rspace, ' '); w['pmc_cookies'][name] = c;
+				}
+			})(document.cookie, window);
+
+			pmc_meta=pmc_meta || {}, pmc_meta.omni_visit_id = window.pmc_cookies.omni_visit_id || "hollywoodlife." + new Date().getTime() + '.' + (function(l,b,a,c,i,d){for(i=0;i<256;i++){l[i]=(i<16?'0':'')+(i).toString(16);}if(c&&c.getRandomValues){try{d=new Uint32Array(4),c.getRandomValues(d);}catch(e){d=0;}}d=d||[b()*a>>>0,b()*a>>>0,b()*a>>>0,b()*a>>>0];a=d[0],b=d[1],c=d[2],d=d[3];return l[a&0xff]+l[a>>8&0xff]+l[a>>16&0xff]+l[a>>24&0xff]+'-'+l[b&0xff]+l[b>>8&0xff]+'-'+l[b>>16&0x0f|0x40]+l[b>>24&0xff]+'-'+l[c&0x3f|0x80]+l[c>>8&0xff]+'-'+l[c>>16&0xff]+l[c>>24&0xff]+l[d&0xff]+l[d>>8&0xff]+l[d>>16&0xff]+l[d>>24&0xff];})([],Math.random,0x100000000,window.crypto||window.msCrypto);
+			var d = new Date(); d.setTime(d.getTime() + ( 60 * 60 * 1000 )); var expires = d.toGMTString(); var path = "/"; var domain = window.location.hostname;
+			document.cookie = 'omni_visit_id=' + encodeURIComponent(pmc_meta.omni_visit_id) + ( expires ? '; expires=' + expires : '' ) + ( path ? '; path=' + path : '' ) + ( domain ? '; domain=' + domain : '' );
+		</script>
+				<script type="text/javascript">
+		if( window.hasOwnProperty( 'pmc_meta' ) ) {
+			if( !window.hasOwnProperty( 'dataLayer' ) || !window.dataLayer.hasOwnProperty('push') ) {
+				window.dataLayer = [];
+			}
+			window.dataLayer.push( pmc_meta );
+		}
+		</script>
+
+				<script>
+			window.pmc_is_adblocked = false;
+		</script>
+				<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=hollywoodlife.com&amp;id=31106563&amp;t=1487957096&amp;back=http%3A%2F%2Fhollywoodlife.com%2F2016%2F08%2F21%2Faj-styles-beats-john-cena-summerslam-2016-wwe-results%2F' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//akstatic.hollywoodlife.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//platform.twitter.com' />
+<link rel='dns-prefetch' href='//video-cdn.hollywoodlife.com' />
+<link rel='dns-prefetch' href='//s.swiftypecdn.com' />
+<link rel='dns-prefetch' href='//pagead2.googlesyndication.com' />
+<link rel='dns-prefetch' href='//load.instinctiveads.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//pmchollywoodlife.wordpress.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Hollywood Life &raquo; Feed" href="http://hollywoodlife.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Hollywood Life &raquo; Comments Feed" href="http://hollywoodlife.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Hollywood Life &raquo; AJ Styles Beats John Cena In Incredible WWE ‘SummerSlam’ Match Comments Feed" href="http://hollywoodlife.com/2016/08/21/aj-styles-beats-john-cena-summerslam-2016-wwe-results/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/akstatic.hollywoodlife.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1473172720h&ver=4.6.1-RC1-38499"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='all-css-0-1' href='https://akstatic.hollywoodlife.com/_static/??-eJxtjtEOwjAIRX/IDjdN+mT8ltoRy9oikXb+vmyJJia+AfdwAF7i4oMbcoPanZR+J1YolFFhwSYhZrd3Q1Q9gOHEsfTZYhvAHDSRCXSoxP+RMFvkbuH5g3yOtoTVwJUEpMbvA1udsIhJ8m6pyH1bvtbLePan0U9+Oi5vyl9FtQ==' type='text/css' media='all' />
+<style id='admin-bar-inline-css' type='text/css'>
+.goog-te-banner-frame { top:32px !important }
+</style>
+<link rel='stylesheet' id='wpcom-core-compat-playlist-styles-css'  href='http://akstatic.hollywoodlife.com/wp-content/mu-plugins/core-compat/wp-mediaelement.css?m=1397224855h&#038;ver=4.6.1-RC1-38499' type='text/css' media='all' />
+<link rel='stylesheet' id='mp6hacks-css'  href='http://akstatic.hollywoodlife.com/wp-content/mu-plugins/mp6-compat/mp6-hacks.css?m=1430366247h&#038;ver=1.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wpcom-bbpress2-staff-css-css'  href='http://akstatic.hollywoodlife.com/wp-content/mu-plugins/wpcom-bbpress-premium-themes.css?m=1432920480h&#038;ver=4.6.1-RC1-38499' type='text/css' media='all' />
+<link rel='stylesheet' id='pmc-global-css-overrides-css'  href='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-plugins/pmc-global-functions/css/pmc-global-overrides.css?m=1431625816h&#038;ver=4.6.1-RC1-38499' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-8-1' href='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-plugins/pmc-gallery-v2/css/default.css?m=1457024269h' type='text/css' media='all' />
+<link rel='stylesheet' id='pmcfooter-css'  href='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-plugins/pmc-footer/css/pmc-footer.css?m=1487873677h&#038;ver=4.6.1-RC1-38499' type='text/css' media='all' />
+<link rel='stylesheet' id='pmc_related_link-css'  href='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-plugins/pmc-related-link//css/style.css?m=1415710866h&#038;ver=4.6.1-RC1-38499' type='text/css' media='all' />
+<link rel='stylesheet' id='pmc-swiftype-style-css'  href='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-plugins/pmc-swiftype/classes/../assets/css/style.css?m=1474998064h&#038;ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='hollywoodlife-google-fonts-css'  href='http://fonts.googleapis.com/css?family=Waiting+for+the+Sunrise%7CPinyon+Script%7CPassion+One&#038;ver=4.6.1-RC1-38499' type='text/css' media='all' />
+<link rel='stylesheet' id='hl-base-common-css'  href='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-hollywoodlife/css/common.css?m=1470953859h&#038;ver=4.6.1-RC1-38499' type='text/css' media='all' />
+<link rel='stylesheet' id='hl-mobile-menu-css'  href='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-hollywoodlife/css/mobile-menu.css?m=1459967962h&#038;ver=4.6.1-RC1-38499' type='text/css' media='all' />
+<link rel='stylesheet' id='hl-baseB-css'  href='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-hollywoodlife/css/all.css?m=1461004822h&#038;ver=4.6.1-RC1-38499' type='text/css' media='all' />
+<link rel='stylesheet' id='hl-footer-css'  href='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-hollywoodlife/css/footer.css?m=1487876036h&#038;ver=4.6.1-RC1-38499' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-hollywoodlife/css/font-awesome.css?m=1416506418h&#038;ver=4.6.1-RC1-38499' type='text/css' media='all' />
+<link rel='stylesheet' id='hl-scss-style-css'  href='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-hollywoodlife/css/style.css?m=1487876036h&#038;ver=4.6.1-RC1-38499' type='text/css' media='all' />
+<link rel='stylesheet' id='pmc-pinit-hover-css'  href='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-plugins/pmc-js-libraries/vendor/pmc-pinit-hover/1.0/pmc-pinit-hover.css?m=1435603128h&#038;ver=1.0' type='text/css' media='' />
+<link rel='stylesheet' id='all-css-30-1' href='https://akstatic.hollywoodlife.com/wp-includes/js/thickbox/thickbox.css?m=1473172720h' type='text/css' media='all' />
+<link rel='stylesheet' id='pmc-adm-style-css'  href='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-plugins/pmc-adm/css/pmc-adm-style.css?m=1481830542h&#038;ver=4.6.1-RC1-38499' type='text/css' media='all' />
+<style id='pmc-adm-style-inline-css' type='text/css'>
+div.admz, div.admz-sp { margin-left: auto; margin-right: auto; text-align: center; } #skin-ad-inject-container { display: none; }
+</style>
+<link rel='stylesheet' id='all-css-32-1' href='https://akstatic.hollywoodlife.com/i/noticons/noticons.css?m=1436783281h' type='text/css' media='all' />
+<link rel='stylesheet' id='geo-location-flair-css'  href='http://akstatic.hollywoodlife.com/wp-content/mu-plugins/geo-location/geo-location-flair.css?m=1399331276h&#038;ver=20140505' type='text/css' media='all' />
+<link rel='stylesheet' id='reblogging-css'  href='http://akstatic.hollywoodlife.com/wp-content/mu-plugins/reblogging/css/reblogging.css?m=1459448714h&#038;ver=20131218' type='text/css' media='all' />
+<link rel='stylesheet' id='hl-gallery-css'  href='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-hollywoodlife/css/hl-gallery.css?m=1476819626h&#038;ver=4.6.1-RC1-38499' type='text/css' media='all' />
+<link rel='stylesheet' id='h4-global-css'  href='https://akstatic.hollywoodlife.com/wp-content/themes/h4/global.css?m=1420737423h&#038;ver=4.6.1-RC1-38499' type='text/css' media='all' />
+<script type="text/javascript" src="https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-plugins/pmc-global-functions/js/pmc-utils.js?m=1481218269h"></script>			<script type="text/javascript">
+			var pmc_do_analytics_pagecount = true;		//flag to allow analytics code to count a page view
+			var pmc_common_urls = {
+				parent_theme_uri: 'https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-hollywoodlife/',
+				current_theme_uri: 'https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-hollywoodlife/',
+				fb_channel_uri: 'https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-plugins/partner/facebook/channel.html'
+			};
+			</script>
+				<!-- Sonbi tag start -->
+				<script src="//mtrx.go.sonobi.com/morpheus.penske.2508.js"></script>
+				<!-- Sonbi tag end -->
+					<script type="text/javascript">
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+					(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			var pmc_ga_dimensions = {"dimension1":"article","dimension3":"2231138","dimension4":"jasonbrowhl","dimension5":"breaking-news|news-and-gossip|sports|wwe","dimension6":"aj-styles|john-cena|wwe|wwe-summerslam","dimension8":"breaking-news","dimension10":"2016","dimension11":"08","dimension12":"21","dimension13":"20","dimension14":"46","dimension25":"2016-08-22T00:46:06+00:00","dimension26":"2016-08-21 20:46:06","dimension27":"Sunday","dimension29":"anonymous","dimension30":"home-infinite-on"};			pmc_ga_dimensions["dimension15"] = document.location.protocol.replace(':', '');
+			(function(dim){
+				var ac = document.cookie ? document.cookie.split('; ') : [];
+				var i, parts, name, c, cookies = {}, rdecode = /(%[0-9A-Z]{2})+/g, rspace = /\+/g;
+				for(i = 0; i < ac.length; i++) {
+					parts = ac[i].split('=');
+					name = parts[0].replace(rdecode, decodeURIComponent);
+					c = parts.slice(1).join('=');
+					if(c.charAt(0) === '"') { c = c.slice(1, -1); }
+					c = c.replace(rdecode, decodeURIComponent).replace(rspace, ' ');
+					cookies[name] = c;
+				}
+				window[dim] = window[dim] || {};
+							if( 'undefined' !== typeof pmc_meta && 'string' === typeof pmc_meta.omni_visit_id ){
+				window[dim]["dimension28"] = pmc_meta.omni_visit_id;
+			}
+					})('pmc_ga_dimensions');
+			ga('create', 'UA-1915907-6', 'auto');
+			ga('set', 'forceSSL', true);
+			ga('set', 'hitCallback', function() { if ( typeof pmc === 'object' && typeof pmc.tracking === 'object' && typeof pmc.tracking.do_call_events === 'function' ) { pmc.tracking.do_call_events(); } } );
+						ga('require', 'linkid', 'linkid.js');
+			ga('require', 'displayfeatures');			ga('set', pmc_ga_dimensions);
+						ga('send', 'pageview');
+		</script>
+
+		<script type='text/javascript'>
+/* <![CDATA[ */
+var pmc_header_bidder_script_object = {"pmc_header_bidder_timeout":"800","pmc_header_bidding_on_gallery":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/_static/??-eJydj90KwjAMhV/IWicTdyM+S9fGLnX9sWk39OmtY14Mh4IQSDjn4yThY2DoZJ8VEDelbhnifW5bQxv+DWAWdRQJthbdG5beJXDpxVrfYg8sE0Shi1aCLn6FC56SBaICrbjLk9ANCONPzEAKQl5ZBMLHR2rqoOzjAwYerGShzxodTXMHQkFkLSqFTnNBBGl6PEQo4tqn/6QtjTn1bE9V3Rz3TXWod+YJ976ZHw=='></script>
+<script data-cfasync='true' type='text/javascript' src='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-plugins/pmc-global-functions/js/pmc-remove-tracking.js?m=1383065652h&#038;ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-plugins/pmc-global-functions/js/pmc-hooks.js?m=1412125401h&#038;ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pmc_comscore_options = {"pageview_candidate_url":"\/\/hollywoodlife.com\/wp-content\/themes\/vip\/pmc-plugins\/pmc-comscore\/xml\/comscore-pageview-candidate.xml"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-plugins/pmc-comscore/js/pmc-comscore.js?m=1409954306h&#038;ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-plugins/pmc-templatized-widgets/js/ga-tracking.js?m=1486675339h&#038;ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='//video-cdn.hollywoodlife.com/libraries/f3f2LrNH.js?ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-plugins/pmc-video-player/js/script.js?m=1423002888h&#038;ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='//pagead2.googlesyndication.com/pagead/js/google_top_exp.js?ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-plugins/pmc-global-functions/js/pmc-ab-test.js?m=1380174767h&#038;ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='https://load.instinctiveads.com/i.js?ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-plugins/pmc-adm/js/dfp-events/dfp.gpt.logger.override.min.js?m=1486386614h&#038;ver=1.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pmc_adm_config = {"dfp_skin_main_content":["main-wrapper"],"disable_gpt_single_request":"0","krux_header_bidder_active":"","lazy_load_override":"disable"};
+var pmc_header_bidder = {"active":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-plugins/pmc-adm/js/loader.min.js?m=1486671927h&#038;ver=3.1'></script>
+<link rel='stylesheet' id='highlander-comments-css'  href='https://akstatic.hollywoodlife.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621h&#038;ver=20110620' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://akstatic.hollywoodlife.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<meta name="generator" content="WordPress.com" />
+<link rel='shortlink' href='http://wp.me/p26weL-9mq6' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Fhollywoodlife.com%2F2016%2F08%2F21%2Faj-styles-beats-john-cena-summerslam-2016-wwe-results%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Fhollywoodlife.com%2F2016%2F08%2F21%2Faj-styles-beats-john-cena-summerslam-2016-wwe-results%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="AJ Styles Beats John Cena In Incredible WWE ‘SummerSlam’ Match" />
+<meta property="og:url" content="http://hollywoodlife.com/2016/08/21/aj-styles-beats-john-cena-summerslam-2016-wwe-results/" />
+<meta property="og:description" content="There’s only one word to describe that match – Phenomenal! ‘The Phenomenal One’ AJ Styles had a brutal war with John Cena at ‘SummerSlam.’ After these two exchanged devastating moves, it was AJ who…" />
+<meta property="article:published_time" content="2016-08-22T00:46:06+00:00" />
+<meta property="article:modified_time" content="2016-08-22T12:46:16+00:00" />
+<meta property="og:site_name" content="Hollywood Life" />
+<meta property="og:image" content="https://akmedia.hollywoodlife.com/2016/08/aj-styles-beats-john-cena-in-an-incredible-match-ftr.jpg?w=600&amp;h=470&amp;crop=1" />
+<meta property="og:image:width" content="600" />
+<meta property="og:image:height" content="470" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@hollywoodlife" />
+<meta name="twitter:image:src" content="https://akmedia.hollywoodlife.com/2016/08/aj-styles-beats-john-cena-in-an-incredible-match-ftr.jpg?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="AJ Styles Beats John Cena In Incredible WWE ‘SummerSlam’ Match" />
+<meta name="twitter:description" content="There’s only one word to describe that match – Phenomenal! ‘The Phenomenal One’ AJ Styles had a brutal war with John Cena at ‘SummerSlam.’ After these two exchanged devastating moves, it was AJ who walked out the winner!" />
+<meta name="twitter:image" content="https://akmedia.hollywoodlife.com/2016/08/aj-styles-beats-john-cena-in-an-incredible-match-ftr.jpg" />
+<link rel="shortcut icon" type="image/x-icon" href="http://1.gravatar.com/blavatar/19b58cb6c78c5979ec1022eb449ecdf2?s=32" sizes="16x16" />
+<link rel="icon" type="image/x-icon" href="http://1.gravatar.com/blavatar/19b58cb6c78c5979ec1022eb449ecdf2?s=32" sizes="16x16" />
+<link rel="apple-touch-icon-precomposed" href="http://1.gravatar.com/blavatar/19b58cb6c78c5979ec1022eb449ecdf2?s=114" />
+<link rel='openid.server' href='http://pmchollywoodlife.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://pmchollywoodlife.wordpress.com/' />
+<meta name="author" content="Jason Brow">			<meta property="fb:pages" content="94724837471" />
+					<link rel="search" type="application/opensearchdescription+xml"
+		      href="http://hollywoodlife.com/pmc-opensearch"
+		      title="Hollywood Life  Search"/>
+	<link rel="canonical" href="http://hollywoodlife.com/2016/08/21/aj-styles-beats-john-cena-summerslam-2016-wwe-results/" />
+
+<style type="text/css">
+.vvqbox {
+	visibility: visible !important;
+	display: block;
+	clear: both;
+	width: 100%;
+}
+.vvqbox div {
+	margin: 10px auto;
+}
+.vvqbox img {
+	max-width: 100%;
+	height: 100%;
+}
+.vvqbox object {
+	max-width: 100%;
+}
+</style>
+
+<!-- Swiftype Meta Tags Start -->
+<meta class="swiftype" name="content_type" data-type="string" content="Article" />
+<meta class="swiftype" name="title" data-type="string" content="AJ Styles Beats John Cena In Incredible WWE ‘SummerSlam’ Match" />
+<meta class="swiftype" name="author" data-type="string" content="Jason Brow" />
+<meta class="swiftype" name="published_at" data-type="date" content="2016-08-21 20:46:06" />
+<meta class="swiftype" name="image" data-type="enum" content="https://akmedia.hollywoodlife.com/2016/08/aj-styles-beats-john-cena-in-an-incredible-match-ftr.jpg?w=250&#038;h=140&#038;crop=1" />
+<meta class="swiftype" name="comment_count" data-type="integer" content="1" />
+<meta class="swiftype" name="tags" data-type="string" content="AJ Styles" />
+<meta class="swiftype" name="tags" data-type="string" content="John Cena" />
+<meta class="swiftype" name="tags" data-type="string" content="WWE" />
+<meta class="swiftype" name="tags" data-type="string" content="WWE SummerSlam" />
+<meta class="swiftype" name="topics" data-type="string" content="Breaking News" />
+<meta class="swiftype" name="topics" data-type="string" content="News and Gossip" />
+<meta class="swiftype" name="topics" data-type="string" content="Sports" />
+<meta class="swiftype" name="topics" data-type="string" content="WWE" />
+<meta class="swiftype" name="body" data-type="text" content="There’s only one word to describe that match – Phenomenal! ‘The Phenomenal One’ AJ Styles had a brutal war with John Cena at ‘SummerSlam.’ After these two exchanged devastating moves, it was AJ who walked out the winner!
+
+
+There was no championship on the line for this match. It was all about pride when John Cena, 39, stepped in the ring with AJ Styles, 39, on Aug. 21. These two foes have been battling back and forth for months and it came to a head at the Barclays Center in Brooklyn, New York.
+
+This match was amazing – and painful to watch! AJ delivered a suplex on the apron, dropping John’s spine across the edge of the ring. Ouch. Later in the match, AJ countered John’s Attitude Adjustment, hitting a Pele kick before landing the Styles Clash. And John kicked out. Styles returned the favor, kicking out of the AA. AJ even hit an AA of his own!
+
+They pulled out jaw-dropping move after jaw-dropping move, even a top-rope AA. The end of this highly physical match came when AJ his the Phenomenal Forearm for the victory! This match will go down as a modern classic!
+
+https://twitter.com/SummerSlam/status/767520919203917825
+
+https://twitter.com/SummerSlam/status/767518052673949696
+WWE SummerSlam 2015 — See Highlights From Last Year&#039;s Event
+When AJ made his WWE Debut at the 2016 Royal Rumble, every member of the WWE Universe was asking “When will he face John Cena?” John seemed to answer that question when he made his return to the WWE on May 30, following shoulder surgery. The man dubbed “The Face that Runs the Place” attacked AJ and his fellow members of The Club, Luke Gallows, 32, and Karl Anderson, 36. This led to a match between John and AJ at WWE’s Money In The Bank on June 20.
+WWE &#039;SummerSlam&#039;: How To Watch The Hottest Party Of The Summer
+AJ walked away the victor that night, courtesy of some interference from Luke and Karl. John seemed to get some revenge when he teamed up with Enzo Amore, 29, Big Cass, 30, to take on all three members of the Club. During the thrilling climax, Cena hit is finishing move on AJ, the Attitude Adjustment, off of the second rope! It was all just a matter of counting the 1-2-3 after that.
+
+The Club is no longer unified, as Karl and Luke were drafted to RAW while both John and AJ headed over to SmackDown Live! AJ hasn’t needed any backup to torment Cena, as he has mocked the 15-time World Champion, saying that John’s tenure as the icon of the WWE is over. After that impressive victory, it looks like AJ might be right.
+
+What do you think about John vs. AJ, HollywoodLifers? Did you think the better Superstar won? Should either John or AJ now compete for the WWE World Championship on SmackDown Live?" />
+<!-- Swiftype Meta Tags End -->
+
+<meta name="application-name" content="Hollywood Life" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Latest Hollywood Gossip, News &amp; Celeb Pics" /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://hollywoodlife.com/feed/;icon-uri=http://1.gravatar.com/blavatar/19b58cb6c78c5979ec1022eb449ecdf2?s=16" /><script type="text/javascript">
+/* <![CDATA[ */
+var pmc_site_config = {"rot13_hostname":"ubyyljbbqyvsr.pbz","hostname":"hollywoodlife.com","is_proxied":null};
+
+/* ]]> */
+</script>
+		<script type='text/javascript'>
+			var pmc_tracking_url = "http://heartbeat.pmc.com/track?host=hollywoodlife.com&path=%2F2016%2F08%2F21%2Faj-styles-beats-john-cena-summerslam-2016-wwe-results%2F&post_id=2231138&title=AJ+Styles+Beats+John+Cena+In+Incredible+WWE+%E2%80%98SummerSlam%E2%80%99+Match&author=Jason+Brow&comment_count=1";
+			var pmc_tracking_image = new Image();
+			if ( 'undefined' !== typeof pmc_meta && 'string' === typeof pmc_meta.omni_visit_id ) {
+				pmc_tracking_url = pmc_tracking_url + '&omni_visit_id=' + pmc_meta.omni_visit_id;
+			}
+			pmc_tracking_image.src = pmc_tracking_url + "&ts=" + Date.now();
+		</script>
+		<link rel="amphtml" href="http://hollywoodlife.com/2016/08/21/aj-styles-beats-john-cena-summerslam-2016-wwe-results/amp/" /><meta name="fragment" content="!" />
+<script type="text/javascript">
+	ajaxurl = 'https://pmchollywoodlife.wordpress.com/wp-admin/admin-ajax.php';
+	gpid = '2231138';
+	cpage = ''
+</script>
+<style type="text/css" id="syntaxhighlighteranchor"></style>
+		<link rel="stylesheet" id="custom-css-css" type="text/css" href="https://akstatic.hollywoodlife.com/?custom-css=1&#038;csblog=26weL&#038;cscache=6&#038;csrev=393" />
+		<script type="text/javascript">
+/* <![CDATA[ */
+var pmc_krux = {"lob":"hollywoodlife","page-type":"article","env":"desktop","primary-category":"Breaking News","primary-vertical":"","vertical":"","category":["Breaking News","News and Gossip","Sports","WWE"],"tag":["AJ Styles","John Cena","WWE","WWE SummerSlam"],"author":["Jason Brow"],"logged-in":"","subscriber-type":""};
+
+/* ]]> */
+</script>
+
+		<!--[if lt IE 9]>
+			<script src="https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-hollywoodlife/js/html5shiv.min.js"></script>
+		<![endif]-->
+
+	
+                    <script type="text/javascript">
+                      var w=window;
+                      if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document,AKSB=AKSB||{};AKSB.q=[];AKSB.mark=function(a,b){AKSB.q.push(["mark",a,b||(new Date).getTime()])};AKSB.measure=function(a,b,c){AKSB.q.push(["measure",a,b,c||(new Date).getTime()])};AKSB.done=function(a){AKSB.q.push(["done",a])};AKSB.mark("firstbyte",(new Date).getTime());AKSB.prof={custid:"526730",ustr:"",originlat:0,clientrtt:9,ghostip:"23.15.7.201",
+                      ipv6:false,pct:10,clientip:"128.82.4.182",requestid:"3d98720e",region:"15751",protocol:"",blver:11,akM:"e12",akN:"ae",akTT:"O",akTX:"1",akTI:"3d98720e",ai:"348032",ra:"",pmgn:"",pmgi:"",pmp:""};
+                      (function(a){var b=d.createElement("script");b.async="async";b.src=a;a=d.getElementsByTagName("script");a=a[a.length-1];a.parentNode.insertBefore(b,a)})(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")};
+                    </script>
+                    </head>
+		<body itemscope itemtype="http://schema.org/WebPage"  class="single single-post postid-2231138 single-format-standard v02 mp6 customizer-styles-applied highlander-enabled highlander-light pmc-desktop pmc-no-tablet pmc-no-mobile geo-us">
+			<!-- Google Tag Manager -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PGVQRN"
+					  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-PGVQRN');</script>
+	<!-- End Google Tag Manager -->
+
+	<script async="1">
+	(function() {
+		__mtm = [ "57772ff9e62b22997a185dee", "cdn01.mzbcdn.net/mngr" ];
+		var s = document.createElement('script');
+		s.async = 1;
+		s.src = '//' + __mtm[1] + '/mtm.js';
+		var e = document.getElementsByTagName('script')[0];
+		(e.parentNode || document.body).insertBefore(s, e);
+	})();
+</script><!--DFP Prestitial ad call -->
+
+<div id="prestitial-ad-section" class="hide">
+	<div id="prestitial-ad-outer-container">
+		<div id="prestitial-ad-overlay"></div>
+		<div id="prestitial-ad-close">Click to Skip Ad</div>
+		<div id="prestitial-ad-duration-counter"><em>Closing in...</em></div>
+		<div id="prestitial-ad-container"></div>
+		<div id="prestitial-ad-third-party-content-view-tracker"></div>
+	</div>
+	<div id="prestitial-ad-inject-container" class="hide">
+		<div class="admz" id="adm-dfp-prestitial">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="1">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="gpt-hl-ros-dfpint-uid0" class="ad-rotatable adw-1 adh-1"></div>
+	</div>
+		</div>
+
+	</div>
+	</div>
+</div>
+
+<!-- end DFP Prestitial ad call -->
+<!-- Placeholder for Responsive Skin Ad -->
+<div id="skin-ad-section">
+
+	<div id="skin-ad-left-rail-container"></div>
+
+	<div id="skin-ad-right-rail-container"></div>
+	<div id="skin-ad-inject-container">
+			</div>
+</div>
+
+<!-- End Placeholder for Responsive Skin Ad -->		<div id="fb-root"></div>
+
+<!-- Begin comScore Tag -->
+<noscript> <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035310&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1" /> </noscript>
+<!-- End comScore Tag -->
+
+		<div id="wrapper">
+
+			<!-- header -->
+			<header id="header">
+
+				<div class="box">
+
+				<!-- header -->
+								<h1 class="logo">
+						<a href="/" title="Hollywood Life Home">Hollywood Life by Bonnie Fuller</a>
+					</h1>
+				
+							<!-- Google Site Search -->
+		<div id="cse">
+			<div id="js-sticky-search-trigger" class="sticky-search-trigger"></div>
+			<div id="cse-search-form1" class="cse-search-form"></div>
+			<script type="text/javascript">
+				var _pmc_google_site_search_id = "015837255670062551912:aavzhc7bguk";
+				var _pmc_google_site_search_url = "http://hollywoodlife.com/results/";
+			</script>
+		</div>
+		<!-- End Google Site Search -->
+		
+				</div>
+
+				<div id="mobile_nav">
+	<table>
+		<tr>
+			<td><a href="/">News</a></td>
+			<td><a href="/topics/style/">Style</a></td>
+			<td><a href="/topics/entertainment/">Ent.</a></td>
+			<td><a href="/shop/">Shop</a></td>
+			<td id="mobile_nav_more" ><a><i class="icon icon-bars"></i></a></td>
+		</tr>
+	</table>
+</div>
+				<div class="nav-holder">
+					<nav class="menu-primary-menu-container"><ul id="nav" class="menu"><li id="menu-item-805062" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-805062"><strong><a href="/">Breaking News</a><em class="border"></em></strong></li>
+<li id="menu-item-2476622" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2476622"><strong><a href="http://hollywoodlife.com/topics/oscars/">Oscars</a><em class="border"></em></strong></li>
+<li id="menu-item-2475051" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2475051"><strong><a href="http://hollywoodlife.com/topics/entertainment/">Entertainment</a><em class="border"></em></strong></li>
+<li id="menu-item-2401732" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2401732"><strong><a href="http://hollywoodlife.com/topics/style/">Fashion</a><em class="border"></em></strong></li>
+<li id="menu-item-805064" class="menu-celeb menu-item menu-item-type-taxonomy menu-item-object-category menu-item-805064"><strong><a href="http://hollywoodlife.com/topics/beauty/">Beauty</a><em class="border"></em></strong></li>
+<li id="menu-item-1149958" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1149958"><strong><a href="http://hollywoodlife.com/topics/hollybaby/">HollyBaby</a><em class="border"></em></strong></li>
+<li id="menu-item-2313639" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2313639"><strong><a href="http://hollywoodlife.com/topics/kardashians/">Kardashians</a><em class="border"></em></strong></li>
+<li id="menu-item-2413509" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2413509"><strong><a href="http://hollywoodlife.com/topics/selena-gomez/">Selena Gomez</a><em class="border"></em></strong></li>
+<li id="menu-item-2401446" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2401446"><strong><a href="http://hollywoodlife.com/topics/bachelor/">&#8216;The Bachelor&#8217;</a><em class="border"></em></strong></li>
+</ul></nav><ul class='social-site-links'><li><a href='http://www.facebook.com/HollywoodLife' target='_blank'><i class='icon-facebook-square icon-3x'></i></a></li><li><a href='http://www.youtube.com/user/hollywoodlife09' target='_blank'><i class='icon-youtube-square icon-3x'></i></a></li><li><a href='https://twitter.com/HollywoodLife' target='_blank'><i class='icon-twitter-square icon-3x'></i></a></li><li><a href='http://pinterest.com/hollywoodlifers/' target='_blank'><i class='icon-pinterest-square icon-3x'></i></a></li><li><a href='http://instagram.com/hollywoodlife' target='_blank'><i class='icon-instagram icon-3x'></i></a></li></ul>
+					<div class="pointer"></div>
+
+				</div>
+
+				
+
+			</header>
+
+				<!-- ad -->
+	<div class="ad header-ad hl-leaderboard-ad">
+		<div class="admz" id="adm-header-leaderboard-ros">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="728">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="div-gpt-ros-970x90-top-uid1" class="ad-rotatable adw-728 adh-90"></div>
+	</div>
+		</div>
+
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="728">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="div-gpt-ros-970x90-top-uid2" class="ad-rotatable adw-728 adh-90"></div>
+	</div>
+		</div>
+
+	</div>
+	</div>
+
+			<div id="main">
+
+				<!-- content -->
+				<section id="content">
+						<ul class="breadcrumbs" itemprop="breadcrumb">
+		<li class="home" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+			<a href="/" title="Hollywood Life Home" class="action-link" itemprop="url">Home</a>
+		</li>
+							<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+						<a title="WWE" href="http://hollywoodlife.com/tag/wwe/" class="action-link" itemprop="url">
+							WWE						</a>
+					</li>
+										<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+						<a title="John Cena" href="http://hollywoodlife.com/tag/john-cena/" class="action-link" itemprop="url">
+							John Cena						</a>
+					</li>
+										<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+						<a title="WWE SummerSlam" href="http://hollywoodlife.com/tag/wwe-summerslam/" class="action-link" itemprop="url">
+							WWE SummerSlam						</a>
+					</li>
+								<li>AJ Styles Beats John Cena In Incredible WWE&hellip;</li>
+				</ul>
+	
+					<!-- Header End Here -->
+
+			<section class="main-post">
+
+				<!-- heading -->
+				<header>
+					<h1>AJ Styles Beats John Cena In Incredible WWE ‘SummerSlam’&nbsp;Match</h1>
+				</header>
+
+				<!-- meta -->
+				<div class="meta">
+					<!-- avatar -->
+															<a href="http://hollywoodlife.com/author/jasonbrowhl/" class="avatar action-link" title="Jason Brow" rel="author"><img alt='' src='http://2.gravatar.com/avatar/efcdfea9db6d2663af1d2c3f29228bfc?s=30&#038;d=http%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D30&#038;r=G' class='avatar avatar-30' height='30' width='30' /></a>
+										<!-- posted -->
+					<span class="posted">
+						Sun, August 21, 2016 8:46pm EST by
+						<strong class="author">
+														<a href="http://hollywoodlife.com/author/jasonbrowhl/" class="action-link" title="Jason Brow" rel="author">
+								Jason Brow							</a>
+													</strong>
+					</span>
+
+					<!-- comments -->
+					<a href="#comments" class="comments action-link">1 Comment</a>
+
+					<!-- PAGETIMER view counts -->
+					
+				</div>
+
+				<div class="social-bar">
+					<ul class="share-comment social accent" data-relativepath="/2016/08/21/aj-styles-beats-john-cena-summerslam-2016-wwe-results/">
+	<li class="link-facebookshare new-window">
+		<a  href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fhollywoodlife.com%2F2016%2F08%2F21%2Faj-styles-beats-john-cena-summerslam-2016-wwe-results%2F&#038;t=AJ+Styles+Beats+John+Cena+In+Incredible+WWE+%E2%80%98SummerSlam%E2%80%99%C2%A0Match" title="Share on Facebook" class="facebook-share" rel="nofollow" target="_blank"><i class="icon-facebook"></i></a>
+	</li><!--no space for clean inline-block--><li class="twitter-share-button new-window">
+		<a data-counturl="http://hollywoodlife.com/2016/08/21/aj-styles-beats-john-cena-summerslam-2016-wwe-results/" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fhollywoodlife.com%2F2016%2F08%2F21%2Faj-styles-beats-john-cena-summerslam-2016-wwe-results%2F&#038;text=AJ%20Styles%20Beats%20John%20Cena%20In%20Incredible%20WWE%20%E2%80%98SummerSlam%E2%80%99%C2%A0Match&#038;via=Hollywoodlife" title="Share on Twitter" class="twitter-share" rel="nofollow" target="_blank"><i class="icon-twitter"></i></a>
+	</li><li class="google-share-button new-window">
+		<a href="https://plus.google.com/share?url=http%3A%2F%2Fhollywoodlife.com%2F2016%2F08%2F21%2Faj-styles-beats-john-cena-summerslam-2016-wwe-results%2F" title="Share on Google+" class="googleplus-share" rel="nofollow" target="_blank"><i class="icon-google-plus"></i></a>
+	</li><li class="pinterest-share-button new-window">
+		<a href="http://pinterest.com/pin/create/link/?media=https%3A%2F%2Fakmedia.hollywoodlife.com%2F2016%2F08%2Faj-styles-beats-john-cena-in-an-incredible-match-lead.jpg%3Fw%3D600&#038;url=http%3A%2F%2Fhollywoodlife.com%2F2016%2F08%2F21%2Faj-styles-beats-john-cena-summerslam-2016-wwe-results%2F&#038;description=AJ+Styles+Beats+John+Cena+In+Incredible+WWE+%E2%80%98SummerSlam%E2%80%99%C2%A0Match" title="Share on Pinterest" class="pinterest-share" rel="nofollow" target="_blank"><i class="icon-pinterest"></i></a>
+	</li>
+</ul>
+				</div>
+
+				<article class="entry-content cunlock_main_content">
+
+					<span class="embed-youtube" style="text-align:center; display: block;"><iframe class='youtube-player' type='text/html' width='620' height='349' src='http://www.youtube.com/embed/iVFXHdrqY0U?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></span><div class="gallery-B"><div class="data"><a href="http://hollywoodlife.com/pics/wwe-summerslam-2016-pics-highlights-photos/#ref=/2016/08/21/aj-styles-beats-john-cena-summerslam-2016-wwe-results/pos=" >View Gallery <i class="icon-arrow-circle-right" ></i><br/><span class="gallery-count gallery-count-total" ><span class="count">58</span></span><span> Photos</span></a></div><div class="gallery-thumbs gallery-thumbs-medium-preview" data-style="filmstrip"><div class="gallery-multi"><div><a href="http://hollywoodlife.com/pics/wwe-summerslam-2016-pics-highlights-photos/#!1/summerslam-8&#038;ref=/2016/08/21/aj-styles-beats-john-cena-summerslam-2016-wwe-results/pos=" ><img src="https://akmedia.hollywoodlife.com/2016/08/summerslam.jpg?w=150&#038;h=115&#038;crop=1" width="150" height="115" alt="" data-slug="summerslam-8" /></a></div><div><a href="http://hollywoodlife.com/pics/wwe-summerslam-2016-pics-highlights-photos/#!2/brock-lesnar-suspended-head-injury-ftr&#038;ref=/2016/08/21/aj-styles-beats-john-cena-summerslam-2016-wwe-results/pos=" ><img src="https://akmedia.hollywoodlife.com/2016/08/brock-lesnar-suspended-head-injury-ftr.jpg?w=150&#038;h=115&#038;crop=1" width="150" height="115" alt="" data-slug="brock-lesnar-suspended-head-injury-ftr" /></a></div><div><a href="http://hollywoodlife.com/pics/wwe-summerslam-2016-pics-highlights-photos/#!3/jon-stewart-summerslam-1&#038;ref=/2016/08/21/aj-styles-beats-john-cena-summerslam-2016-wwe-results/pos=" ><img src="https://akmedia.hollywoodlife.com/2016/08/jon-stewart-summerslam-1.jpg?w=150&#038;h=115&#038;crop=1" width="150" height="115" alt="" data-slug="jon-stewart-summerslam-1" /></a></div></div></div></div>
+					<h3>There’s only one word to describe that match – Phenomenal! ‘The Phenomenal One’ AJ Styles had a brutal war with John Cena at ‘SummerSlam.’ After these two exchanged devastating moves, it was AJ who walked out the winner!</h3>
+<p><span id="more-2231138"></span></p>
+<p>There was no championship on the line for this match. It was all about pride when <strong>John Cena</strong>, 39, stepped in the ring with<strong> AJ Styles</strong>, 39, on Aug. 21. These two foes have been battling back and forth for months and it came to a head at the Barclays Center in Brooklyn, New York.</p>
+<p>This match was amazing – and painful to watch! AJ delivered a suplex on the apron, dropping John’s spine across the edge of the ring. Ouch. Later in the match, AJ countered John’s Attitude Adjustment, hitting a Pele kick before landing the Styles Clash. And John kicked out. Styles returned the favor, kicking out of the AA. AJ even hit an AA of his own!</p>
+<p>They pulled out jaw-dropping move after jaw-dropping move, even a top-rope AA. The end of this highly physical match came when AJ his the Phenomenal Forearm for the victory! This match will go down as a modern classic!</p>
+<div class="embed">
+<div class="embed-twitter">
+<blockquote class="twitter-tweet" data-width="500">
+<p lang="en" dir="ltr">Ladies and gentlemen of the <a href="https://twitter.com/WWEUniverse"  rel="nofollow"  target="_blank"  >@WWEUniverse</a>, you just witnessed a PHENOMENAL match! <a href="https://twitter.com/hashtag/SummerSlam?src=hash"  rel="nofollow"  target="_blank"  >#SummerSlam</a> <a href="https://twitter.com/hashtag/CenavsStyles?src=hash"  rel="nofollow"  target="_blank"  >#CenavsStyles</a> <a href="https://t.co/tSYDhqQuJc"  rel="nofollow"  target="_blank"  >pic.twitter.com/tSYDhqQuJc</a></p>
+<p>&mdash; WWE SummerSlam (@SummerSlam) <a href="https://twitter.com/SummerSlam/status/767520919203917825"  rel="nofollow"  target="_blank"  >August 22, 2016</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p></div>
+</div>
+<div class="embed">
+<div class="embed-twitter">
+<blockquote class="twitter-tweet" data-width="500">
+<p lang="en" dir="ltr">SPEAKING of innovative offense! <a href="https://twitter.com/hashtag/SummerSlam?src=hash"  rel="nofollow"  target="_blank"  >#SummerSlam</a> <a href="https://twitter.com/hashtag/CenavsStyles?src=hash"  rel="nofollow"  target="_blank"  >#CenavsStyles</a> <a href="https://twitter.com/JohnCena"  rel="nofollow"  target="_blank"  >@JohnCena</a> <a href="https://twitter.com/AJStylesOrg"  rel="nofollow"  target="_blank"  >@AJStylesOrg</a> <a href="https://t.co/rnV8f2MwAK"  rel="nofollow"  target="_blank"  >pic.twitter.com/rnV8f2MwAK</a></p>
+<p>&mdash; WWE SummerSlam (@SummerSlam) <a href="https://twitter.com/SummerSlam/status/767518052673949696"  rel="nofollow"  target="_blank"  >August 22, 2016</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p></div>
+</div>
+<h3><a href="http://hollywoodlife.com/pics/wwe-summerslam-2015-pics/"  target="_blank"  >WWE SummerSlam 2015 — See Highlights From Last Year&#8217;s Event</a></h3>
+<p>When AJ made his WWE Debut at the 2016 <em>Royal Rumble</em>, every member of the WWE Universe was asking “When will he face John Cena?” John seemed to answer that question when he made his return to the WWE on May 30, following shoulder surgery. The man dubbed “The Face that Runs the Place” attacked AJ and his fellow members of The Club, <strong>Luke Gallows</strong>, 32, and <strong>Karl Anderson</strong>, 36. This led to a match between John and AJ at WWE’s <em>Money In The Bank</em> on June 20.</p>
+<h3 class="shop-title"><a href="http://hollywoodlife.com/shop/how-to-watch-summerslam-online-2016-wwe-network/"  target="_blank"  >WWE &#8216;SummerSlam&#8217;: How To Watch The Hottest Party Of The Summer</a></h3>
+<p>AJ walked away the victor that night, courtesy of some interference from Luke and Karl. John seemed to get some revenge when he teamed up with <strong>Enzo Amore</strong>, 29, <strong>Big Cass</strong>, 30, to take on all three members of the Club. During the thrilling climax, Cena hit is finishing move on AJ, <a href="http://hollywoodlife.com/2016/06/20/dean-ambrose-becomes-new-heavyweight-champion-wwe-money-in-the-bank/"  target="_blank"  >the Attitude Adjustment, off of the second rope!</a> It was all just a matter of counting the 1-2-3 after that.</p>
+<p>The Club is no longer unified, as <a href="http://hollywoodlife.com/2016/07/19/wwe-draft-live-blog-wrestling-superstars-selected/"  target="_blank"  >Karl and Luke were drafted to <em>RAW</em> </a>while both John and AJ headed over to <em>SmackDown Live!</em> AJ hasn’t needed any backup to torment Cena, as he has mocked the 15-time World Champion, saying that John’s tenure as the icon of the WWE is over. After that impressive victory, it looks like AJ might be right.</p>
+<p>What do you think about John vs. AJ, <strong>HollywoodLifers</strong>? Did you think the better Superstar won? Should either John or AJ now compete for the WWE World Championship on <em>SmackDown Live</em>?</p>
+
+				</article>
+													<div class="hl-related-lead-links">
+									<h3>More WWE News:</h3>
+																				<!-- more related article -->
+											<div class="hl-related-link">
+												<a href="http://hollywoodlife.com/2016/08/21/jon-stewart-summerslam-2016-wwe-new-day-tag-team-championship/" title="Jon Stewart Helps The New Day Retain The Tag Team Titles At ‘SummerSlam’" target="_blank">
+													<span class="hl-lead-in icon-play"></span>
+													<span class="hl-related-article">Jon Stewart Helps The New Day Retain The Tag Team Titles At ‘SummerSlam’</span>
+												</a>
+											</div>
+																					<!-- more related article -->
+											<div class="hl-related-link">
+												<a href="http://hollywoodlife.com/2016/08/21/charlotte-beats-sasha-banks-wwe-summerslam-womens-championship-2016/" title="‘SummerSlam’: Charlotte Upsets Sasha Banks To Regain WWE Women’s Title" target="_blank">
+													<span class="hl-lead-in icon-play"></span>
+													<span class="hl-related-article">‘SummerSlam’: Charlotte Upsets Sasha Banks To Regain WWE Women’s Title</span>
+												</a>
+											</div>
+																					<!-- more related article -->
+											<div class="hl-related-link">
+												<a href="http://hollywoodlife.com/pics/john-cena-nikki-bella-pics-wwe-total-divas-photos/" title="John Cena &amp; Nikki Bella: See Pics Of WWE&#039;s Power Couple" target="_blank">
+													<span class="hl-lead-in icon-play"></span>
+													<span class="hl-related-article">John Cena &amp; Nikki Bella: See Pics Of WWE&#039;s Power Couple</span>
+												</a>
+											</div>
+																		</div>
+						
+				<div class="social-bar">
+					<ul class="share-comment social accent" data-relativepath="/2016/08/21/aj-styles-beats-john-cena-summerslam-2016-wwe-results/">
+	<li class="link-facebookshare new-window">
+		<a  href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fhollywoodlife.com%2F2016%2F08%2F21%2Faj-styles-beats-john-cena-summerslam-2016-wwe-results%2F&#038;t=AJ+Styles+Beats+John+Cena+In+Incredible+WWE+%E2%80%98SummerSlam%E2%80%99%C2%A0Match" title="Share on Facebook" class="facebook-share" rel="nofollow" target="_blank"><i class="icon-facebook"></i></a>
+	</li><!--no space for clean inline-block--><li class="twitter-share-button new-window">
+		<a data-counturl="http://hollywoodlife.com/2016/08/21/aj-styles-beats-john-cena-summerslam-2016-wwe-results/" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fhollywoodlife.com%2F2016%2F08%2F21%2Faj-styles-beats-john-cena-summerslam-2016-wwe-results%2F&#038;text=AJ%20Styles%20Beats%20John%20Cena%20In%20Incredible%20WWE%20%E2%80%98SummerSlam%E2%80%99%C2%A0Match&#038;via=Hollywoodlife" title="Share on Twitter" class="twitter-share" rel="nofollow" target="_blank"><i class="icon-twitter"></i></a>
+	</li><li class="google-share-button new-window">
+		<a href="https://plus.google.com/share?url=http%3A%2F%2Fhollywoodlife.com%2F2016%2F08%2F21%2Faj-styles-beats-john-cena-summerslam-2016-wwe-results%2F" title="Share on Google+" class="googleplus-share" rel="nofollow" target="_blank"><i class="icon-google-plus"></i></a>
+	</li><li class="pinterest-share-button new-window">
+		<a href="http://pinterest.com/pin/create/link/?media=https%3A%2F%2Fakmedia.hollywoodlife.com%2F2016%2F08%2Faj-styles-beats-john-cena-in-an-incredible-match-lead.jpg%3Fw%3D600&#038;url=http%3A%2F%2Fhollywoodlife.com%2F2016%2F08%2F21%2Faj-styles-beats-john-cena-summerslam-2016-wwe-results%2F&#038;description=AJ+Styles+Beats+John+Cena+In+Incredible+WWE+%E2%80%98SummerSlam%E2%80%99%C2%A0Match" title="Share on Pinterest" class="pinterest-share" rel="nofollow" target="_blank"><i class="icon-pinterest"></i></a>
+	</li>
+</ul>
+				</div>
+
+			</section>
+
+			<section class="related-articles">
+							</section>
+						<div class="ad">
+				<div class="hollywoodlife"><div class="outbrain-widget">
+			<div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="AR_1" data-ob-template="HollywoodLife_1" ></div>
+			<div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="AR_2" data-ob-template="HollywoodLife_1" ></div>
+	</div>
+</div><div class="hollywoodlife">			<div class="textwidget"><div style="padding-bottom:35px;"></div>
+</div>
+		</div><div class="admz" id="adm-widget-ros-544x250">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="544">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="div-gpt-ros-544x250-uid3" class="ad-rotatable adw-544 adh-250"></div>
+	</div>
+		</div>
+
+	</div>
+			</div>
+
+			<noscript>JavaScript is required to load the comments.</noscript>
+<div id="comments-loading" style="display:none">Loading comments...</div>
+<div id="comments-loaded"></div>
+<script type="text/javascript">document.getElementById('comments-loading').style.display = 'block';</script>
+		</section>
+
+			<!-- sidebar -->
+		<aside id="sidebar" >
+		<div class="admz" id="adm-widget-top-300x250-ros">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="300">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="div-gpt-ros-300x250-top-uid4" class="ad-rotatable adw-300 adh-250"></div>
+	</div>
+		</div>
+
+	</div>
+<a href="http://hollywoodlife.com/2017/02/21/the-rock-calls-cm-punk-wwe-raw-dwayne-johnson-watch/" class="post" rel="">
+	<article>
+		<figure class="media-holder"><img class="attachment-medium-post-thumbnail" width="150" height="115" src="https://akmedia.hollywoodlife.com/2017/02/the-rock-defies-wwe-feud-with-cm-punk-ftr.jpg?w=150&#038;h=115&#038;crop=1" alt="" /></figure>
+		<span class="block">
+			<strong class="entry-title">
+				<span>The Rock Defies WWE&#039;s Feud With CM Punk By Calling Ex-Superstar While At &#039;Raw&#039;</span>
+				<time class="date" datetime="2017-02-21T10:39:09+00:00"><span>Feb</span>21</time>
+			</strong>
+			<span class="entry-content"></span>
+			<strong class="more">Read Article<span>►</span><em>→</em></strong>
+			<span class="comments">2</span>
+		</span>
+	</article>
+</a><a href="http://hollywoodlife.com/2017/02/20/the-new-day-hosting-wrestlemania-33-wwe-wrestling-video-watch/" class="post" rel="">
+	<article>
+		<figure class="media-holder"><img class="attachment-medium-post-thumbnail" width="150" height="115" src="https://akmedia.hollywoodlife.com/2017/02/wwe-shocker-the-new-day-has-officially-been-tagged-to-host-wrestlemania-33-ftr.jpg?w=150&#038;h=115&#038;crop=1" alt="" /></figure>
+		<span class="block">
+			<strong class="entry-title">
+				<span>WWE Shocker: The New Day Has Officially Been Tagged To Host WrestleMania 33</span>
+				<time class="date" datetime="2017-02-20T18:31:10+00:00"><span>Feb</span>20</time>
+			</strong>
+			<span class="entry-content"></span>
+			<strong class="more">Read Article<span>►</span><em>→</em></strong>
+			<span class="comments">1</span>
+		</span>
+	</article>
+</a>			<div class="textwidget"><div style="padding-bottom:10px;"></div></div>
+		        <div class="hl-zergnet-wrapper">
+
+            <div id="zergnet-widget-24210"></div>
+
+            <script language="javascript" type="text/javascript">
+                (function() {
+                    var zergnet = document.createElement('script');
+                    zergnet.type = 'text/javascript'; zergnet.async = true;
+                    zergnet.src = 'http://www.zergnet.com/zerg.js?id=24210';
+                    var znscr = document.getElementsByTagName('script')[0];
+                    znscr.parentNode.insertBefore(zergnet, znscr);
+                })();
+            </script>
+
+            <div class="zergpowered">powered by <span class="zergname">ZergNet</span></div>
+
+        </div>
+        <div class="admz" id="adm-widget-ros-middle-300x250">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="300">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="div-gpt-ros-300x250-middle-uid5" class="ad-rotatable adw-300 adh-250"></div>
+	</div>
+		</div>
+
+	</div>
+			<div class="textwidget"><div style="padding-bottom:10px;"></div></div>
+		<a href="http://hollywoodlife.com/2017/02/18/ivan-the-russian-bear-koloff-dead-wwe-legend-liver-cancer/" class="post" rel="">
+	<article>
+		<figure class="media-holder"><img class="attachment-medium-post-thumbnail" width="150" height="115" src="https://akmedia.hollywoodlife.com/2017/02/ivan-the-russian-bear-koloff-died-ftr.jpg?w=150&#038;h=115&#038;crop=1" alt="" /></figure>
+		<span class="block">
+			<strong class="entry-title">
+				<span>Ivan &#039;The Russian Bear&#039; Koloff Dead: Fans Mourn The Passing Of Legendary&hellip;</span>
+				<time class="date" datetime="2017-02-18T14:44:45+00:00"><span>Feb</span>18</time>
+			</strong>
+			<span class="entry-content"></span>
+			<strong class="more">Read Article<span>►</span><em>→</em></strong>
+			<span class="comments">NEW!</span>
+		</span>
+	</article>
+</a><a href="http://hollywoodlife.com/2017/02/17/george-the-animal-steele-dead-wwe-wwf-wrestler-dies/" class="post" rel="">
+	<article>
+		<figure class="media-holder"><img class="attachment-medium-post-thumbnail" width="150" height="115" src="https://akmedia.hollywoodlife.com/2017/02/george-the-animal-steele-dead-ftr-1.jpg?w=150&#038;h=115&#038;crop=1" alt="" /></figure>
+		<span class="block">
+			<strong class="entry-title">
+				<span>George &#039;The Animal&#039; Steele Dead: WWF Legend Passes Away At Age 79</span>
+				<time class="date" datetime="2017-02-17T10:58:57+00:00"><span>Feb</span>17</time>
+			</strong>
+			<span class="entry-content"></span>
+			<strong class="more">Read Article<span>►</span><em>→</em></strong>
+			<span class="comments">1</span>
+		</span>
+	</article>
+</a><a href="http://hollywoodlife.com/2017/02/12/wwe-elimination-chamber-results-2017-championship-who-won/" class="post" rel="">
+	<article>
+		<figure class="media-holder"><img class="attachment-medium-post-thumbnail" width="150" height="115" src="https://akmedia.hollywoodlife.com/2017/02/elimination-champer-ftr.jpg?w=150&#038;h=115&#038;crop=1" alt="" /></figure>
+		<span class="block">
+			<strong class="entry-title">
+				<span>WWE &#039;Elimination Chamber&#039; Results: Who Walked Out World Champ &amp; More</span>
+				<time class="date" datetime="2017-02-12T23:09:27+00:00"><span>Feb</span>12</time>
+			</strong>
+			<span class="entry-content"></span>
+			<strong class="more">Read Article<span>►</span><em>→</em></strong>
+			<span class="comments">1</span>
+		</span>
+	</article>
+</a><a href="http://hollywoodlife.com/2017/02/01/seth-rollins-injured-knee-samoa-joe-attack-raw-watch/" class="post" rel="">
+	<article>
+		<figure class="media-holder"><img class="attachment-medium-post-thumbnail" width="150" height="115" src="https://akmedia.hollywoodlife.com/2017/02/seth-rollins-samoa-joe-crutches-attack-ftr.jpg?w=150&#038;h=115&#038;crop=1" alt="" /></figure>
+		<span class="block">
+			<strong class="entry-title">
+				<span>Seth Rollins Injured By Samoa Joe&#039;s Brutal Attack: Leaves &#039;Raw&#039; On Crutches -&hellip;</span>
+				<time class="date" datetime="2017-02-01T11:48:57+00:00"><span>Feb</span>01</time>
+			</strong>
+			<span class="entry-content"></span>
+			<strong class="more">Read Article<span>►</span><em>→</em></strong>
+			<span class="comments">NEW!</span>
+		</span>
+	</article>
+</a><a href="http://hollywoodlife.com/2017/01/30/royal-rumble-mr-bean-sign-wwe-event-fans-tweets/" class="post" rel="">
+	<article>
+		<figure class="media-holder"><img class="attachment-medium-post-thumbnail" width="150" height="115" src="https://akmedia.hollywoodlife.com/2017/01/mr-bean-sign-wwe-ftr.jpg?w=150&#038;h=115&#038;crop=1" alt="" /></figure>
+		<span class="block">
+			<strong class="entry-title">
+				<span>Royal Rumble: Fans Can&#039;t Stop Laughing At Mr. Bean Sign At The WWE Event</span>
+				<time class="date" datetime="2017-01-30T09:38:08+00:00"><span>Jan</span>30</time>
+			</strong>
+			<span class="entry-content"></span>
+			<strong class="more">Read Article<span>►</span><em>→</em></strong>
+			<span class="comments">1</span>
+		</span>
+	</article>
+</a><div class="pubexchange_module" id="pubexchange_below_content" data-pubexchange-module-id="2147"></div>	</aside>
+	</div><div>					<br clear="both">
+
+	
+	<div class="pmc-bottom-ad">
+		<div class="admz" id="adm-article-bottom">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="1">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="gpt-hl-article-inline-uid6" class="ad-rotatable adw-1 adh-1"></div>
+	</div>
+		</div>
+
+	</div>
+	</div>
+
+				<div class="footer_section">
+                        <div id="other-pmc-properties">
+                                <ul id="property-snippets">
+                                        
+			<li class="footer-sites fn">
+				<a href="http://footwearnews.com/2017/business/earnings/jcpenney-close-stores-140-retail-earnings-sales-profit-revenues-317574/">
+					<h5 class="fn-logo logos"></h5>
+					<img src="//akimage.hollywoodlife.com/pmcfootwearnews.files.wordpress.com/2016/05/jc-penney.jpg?resize=180%2C101&#038;ssl=1" width="180" height="101" alt="FN" />
+					<p>Another One Bites the Dust? JCPenney the Latest Retailer to&hellip;</p>
+				</a>
+			</li>
+		
+			<li class="footer-sites tvline">
+				<a href="http://tvline.com/2017/02/24/blacklist-redemption-spinoff-ratings-premiere/">
+					<h5 class="tvline-logo logos"></h5>
+					<img src="//akimage.hollywoodlife.com/pmctvline2.files.wordpress.com/2017/02/blacklist-redemption-ratings-spinoff-premiere.jpg?resize=180%2C101&#038;strip=all&#038;quality=80" width="180" height="101" alt="TVLine" />
+					<p>Ratings: Blacklist Spinoff Starts Soft, HTGAWM Matches Previous&hellip;</p>
+				</a>
+			</li>
+		
+			<li class="footer-sites variety">
+				<a href="http://variety.com/2017/tv/reviews/patriot-amazon-review-terry-oquinn-1201994908/">
+					<h5 class="variety-logo logos"></h5>
+					<img src="//akimage.hollywoodlife.com/pmcvariety.files.wordpress.com/2017/02/patriot-amazon.png?resize=180%2C101" width="180" height="101" alt="Variety" />
+					<p>TV Review: 'Patriot' on Amazon</p>
+				</a>
+			</li>
+		
+			<li class="footer-sites deadline">
+				<a href="http://deadline.com/2017/02/twin-peaks-posters-unveiled-showtime-1201961914/">
+					<h5 class="deadline-logo logos"></h5>
+					<img src="//akimage.hollywoodlife.com/cfmedia.deadline.com/2017/02/one-sheet-laura-palmer-twin-peaks.jpg?resize=180%2C101&#038;strip=all&#038;quality=80&#038;ssl=1" width="180" height="101" alt="DeadLine" />
+					<p>Happy 'Twin Peaks' Day: Showtime Unveils Posters For The Return&hellip;</p>
+				</a>
+			</li>
+		
+			<li class="footer-sites spy">
+				<a href="http://spy.com/2017/style/womens-style/kylie-vs-rihanna-puma-collection-16288/">
+					<h5 class="spy-logo logos"></h5>
+					<img src="https://akimage.hollywoodlife.com/pmcspy.files.wordpress.com/2017/02/kylierihanna.png?resize=180%2C101&#038;strip=all&#038;quality=80&#038;ssl=1" width="180" height="101" alt="SPY" />
+					<p>Kylie vs. Rihanna: Whose PUMA Collection Is Best?</p>
+				</a>
+			</li>
+		                                </ul>
+
+                                <p id="pmc-logo"><a href="http://www.pmc.com" title="PMC Network"><span>The Power of Content</span></a></p>
+
+                                <ul id="pmc-properties" class="menu">
+                                        <li class="deadline"><a href="http://deadline.com">DEADLINE</a></li>
+                                        <li class="india"><a href="http://india.com">india.com</a></li>
+                                        <li class="variety"><a href="http://variety.com">Variety</a></li>
+                                        <li class="entv"><a href="http://youtube.com/entv">entv</a></li>
+                                        <li class="tvline"><a href="http://tvline.com/">TV|Line</a></li>
+                                        <li class="goldderby"><a href="http://www.goldderby.com/">GOLDDERBY</a></li>
+                                        <li class="wwd"><a href="http://wwd.com/">WWD</a></li>
+                                        <li class="fn"><a href="http://footwearnews.com/">Footwear News</a></li>
+                                </ul>
+                                <div class="variety411"><a href="http://variety411.com/">Variety411: Your production services resource</a></div>
+                        </div>
+                </div>
+
+				<div id="hl-boilerplate">
+						<p class="hl-copyright">Copyright &copy; 2017 PMC. All rights reserved.</p>
+						<ul>
+							<li><a href="/hl-feedback/" rel="nofollow">Feedback</a></li>
+							<li><a href="mailto:info@hollywoodlife.com" rel="nofollow">Contact Us</a></li>
+							<li><a href="/advertise-with-us/" rel="nofollow">Advertise with Us</a></li>
+							<li><a href="http://www.pmc.com/" rel="nofollow" target="_blank">Corporate</a></li>
+							<li><a href="http://pmc.com/privacy-policy/" rel="nofollow">Privacy Policy</a></li>
+							<li><a href="http://pmc.com/privacy-policy/#california" rel="nofollow">Your Privacy Rights</a></li>
+							<li><a href="http://pmc.com/terms-of-use/" rel="nofollow">Terms of Use</a></li>
+						</ul>
+						<p class="hl-copyright powered-by-vip">Powered by <a href="https://vip.wordpress.com/?utm_source=vip_powered_wpcom&#038;utm_medium=web&#038;utm_campaign=VIP%20Footer%20Credit" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a></p>				</div><!--close hl-boilerplate-->
+
+			</div><!--close hl-page-->
+
+		</div><!--close hl-outer-->
+
+				<div id="pmc-ad-bait" class="pub_300x250 pub_300x250m pub_728x90 text-ad textAd text_ad text_ads text-ads text-ad-links" style="width: 0 !important; height: 0 !important; position: fixed !important; left: -99999px !important;">ad</div>
+
+		<script>
+			if ( 'undefined' !== typeof jQuery ) {
+				var $pmc_ad_bait = jQuery('#pmc-ad-bait');
+				if ( $pmc_ad_bait.length ) {
+					if ( 'block' !== $pmc_ad_bait.css('display') ) {
+						window.pmc_is_adblocked = true;
+					}
+				}
+			}
+		</script>
+		<script type='text/javascript' class="script-mobile">
+pmc_adm_gpt.init({
+    "ad_targetings": {
+        "host": "hollywoodlife.com",
+        "kw": [
+            "breaking-news",
+            "news-gossip",
+            "sports",
+            "wwe",
+            "aj-styles",
+            "john-cena",
+            "wwe-summerslam"
+        ]
+    },
+    "ad_list": {
+        "default": [
+            {
+                "targeting": [],
+                "slot": "3782/Hollywoodlife/ros/interstitial",
+                "id": "gpt-hl-ros-dfpint-uid0",
+                "bidders": false,
+                "is_lazy_load": null,
+                "oop": true
+            },
+            {
+                "targeting": {
+                    "pos": "top"
+                },
+                "slot": "3782/Hollywoodlife/ros",
+                "id": "div-gpt-ros-970x90-top-uid1",
+                "width": [
+                    [
+                        970,
+                        250
+                    ],
+                    [
+                        1000,
+                        577
+                    ],
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        66
+                    ],
+                    [
+                        970,
+                        90
+                    ]
+                ],
+                "bidders": {
+                    "bids": [
+                        {
+                            "bidder": "appnexus",
+                            "params": {
+                                "placementId": "9527296"
+                            }
+                        },
+                        {
+                            "bidder": "sovrn",
+                            "params": {
+                                "tagid": "427194"
+                            }
+                        },
+                        {
+                            "bidder": "rubiconLite",
+                            "params": {
+                                "accountId": "11714",
+                                "siteId": "37948",
+                                "zoneId": "204928"
+                            }
+                        }
+                    ],
+                    "code": "div-gpt-ros-970x90-top-uid1",
+                    "sizes": [
+                        [
+                            970,
+                            250
+                        ],
+                        [
+                            1000,
+                            577
+                        ],
+                        [
+                            728,
+                            90
+                        ],
+                        [
+                            970,
+                            66
+                        ],
+                        [
+                            970,
+                            90
+                        ]
+                    ]
+                },
+                "is_lazy_load": null
+            },
+            {
+                "targeting": {
+                    "pos": "top"
+                },
+                "slot": "3782/Hollywoodlife/ros/skin",
+                "id": "div-gpt-ros-970x90-top-uid2",
+                "bidders": false,
+                "is_lazy_load": null,
+                "oop": true
+            },
+            {
+                "targeting": {
+                    "pos": "bottom"
+                },
+                "slot": "3782/Hollywoodlife/ros",
+                "id": "div-gpt-ros-544x250-uid3",
+                "width": [
+                    [
+                        544,
+                        250
+                    ],
+                    [
+                        500,
+                        280
+                    ],
+                    [
+                        500,
+                        360
+                    ]
+                ],
+                "bidders": {
+                    "bids": [
+                        {
+                            "bidder": "appnexus",
+                            "params": {
+                                "placementId": "9527297"
+                            }
+                        },
+                        {
+                            "bidder": "sovrn",
+                            "params": {
+                                "tagid": "427193"
+                            }
+                        },
+                        {
+                            "bidder": "rubiconLite",
+                            "params": {
+                                "accountId": "11714",
+                                "siteId": "37948",
+                                "zoneId": "204928"
+                            }
+                        }
+                    ],
+                    "code": "div-gpt-ros-544x250-uid3",
+                    "sizes": [
+                        [
+                            544,
+                            250
+                        ],
+                        [
+                            500,
+                            280
+                        ],
+                        [
+                            500,
+                            360
+                        ]
+                    ]
+                },
+                "is_lazy_load": "no"
+            },
+            {
+                "targeting": {
+                    "pos": "top"
+                },
+                "slot": "/3782/Hollywoodlife/ros",
+                "id": "div-gpt-ros-300x250-top-uid4",
+                "width": [
+                    [
+                        300,
+                        251
+                    ],
+                    [
+                        300,
+                        1050
+                    ],
+                    [
+                        300,
+                        600
+                    ]
+                ],
+                "bidders": {
+                    "bids": [
+                        {
+                            "bidder": "appnexus",
+                            "params": {
+                                "placementId": "9527296"
+                            }
+                        },
+                        {
+                            "bidder": "sovrn",
+                            "params": {
+                                "tagid": "427193"
+                            }
+                        },
+                        {
+                            "bidder": "rubiconLite",
+                            "params": {
+                                "accountId": "11714",
+                                "siteId": "37948",
+                                "zoneId": "204928"
+                            }
+                        }
+                    ],
+                    "code": "div-gpt-ros-300x250-top-uid4",
+                    "sizes": [
+                        [
+                            300,
+                            251
+                        ],
+                        [
+                            300,
+                            1050
+                        ],
+                        [
+                            300,
+                            600
+                        ]
+                    ]
+                },
+                "is_lazy_load": null
+            },
+            {
+                "targeting": {
+                    "pos": "mid"
+                },
+                "slot": "/3782/Hollywoodlife/ros",
+                "id": "div-gpt-ros-300x250-middle-uid5",
+                "width": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "bidders": {
+                    "bids": [
+                        {
+                            "bidder": "appnexus",
+                            "params": {
+                                "placementId": "9527297"
+                            }
+                        },
+                        {
+                            "bidder": "sovrn",
+                            "params": {
+                                "tagid": "427193"
+                            }
+                        },
+                        {
+                            "bidder": "rubiconLite",
+                            "params": {
+                                "accountId": "11714",
+                                "siteId": "37948",
+                                "zoneId": "204928"
+                            }
+                        }
+                    ],
+                    "code": "div-gpt-ros-300x250-middle-uid5",
+                    "sizes": [
+                        [
+                            300,
+                            250
+                        ]
+                    ]
+                },
+                "is_lazy_load": null
+            },
+            {
+                "targeting": [],
+                "slot": "3782/Hollywoodlife/ros/inline",
+                "id": "gpt-hl-article-inline-uid6",
+                "bidders": false,
+                "is_lazy_load": null,
+                "oop": true
+            }
+        ]
+    }
+});
+</script>
+
+<!-- wpcom_wp_footer -->
+<script type="text/liquid" id="ac_article">
+	<div class="ac_title">{{ result | highlight: 'title' | unescape }}</div>
+	<div class="ac_sub">{{ result.published_at | date: "%h %d, %Y" }}</div>
+</script>
+
+<script type="text/liquid" id="ac_tag">
+	<div class="ac_title">
+		<a href="{{ result.url }}">{{ result.name }}</a>
+	</div>
+</script>
+<script>
+(function(w, d, s, id) {
+  w.PUBX=w.PUBX || {pub: "hollywood_life", discover: false, lazy: true};
+  var js, pjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id; js.async = true;
+  js.src = "//main.pubexchange.com/loader.min.js";
+  pjs.parentNode.insertBefore(js, pjs);
+}(window, document, "script", "pubexchange-jssdk"));
+</script>
+	<script>
+		(function($) {
+			if($('.hl-emmy-sponsorship').length > 0) {
+				var $emmy_sponsorship = $('<img />').attr('src', 'https://pmchollywoodlife.files.wordpress.com/2015/09/emmys-beauty-post-strap-full.jpg').css('width', '100%');
+				if($('.pmc-mobile').length > 0) {
+					$emmy_sponsorship.attr('src', 'https://pmchollywoodlife.files.wordpress.com/2015/09/emmys-beauty-post-strap-mobile1.jpg');
+				}
+				$('.hl-emmy-sponsorship .main-post .entry-content').prepend($emmy_sponsorship);
+			}
+			if($('.american-crew-sp').length > 0) {
+				var $american_image = $('<img />').attr('src', 'https://pmchollywoodlife.files.wordpress.com/2015/09/american-crew-hunks-sponsorship-desktop.png').css('width', '100%');
+				if($('.pmc-mobile').length > 0) {
+					$american_image.attr('src', 'https://pmchollywoodlife.files.wordpress.com/2015/09/american-crew-hunks-sponsorship-mobile.png');
+				}
+				$('.american-crew-sp .main-post .entry-content').prepend($american_image);
+			}
+		})(jQuery);
+	</script>
+	<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201708y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	<div class="grofile-hash-map-efcdfea9db6d2663af1d2c3f29228bfc">
+	</div>
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/pmchollywoodlife.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/pmchollywoodlife.wordpress.com\/wp-login.php?action=logout&_wpnonce=a88a6586a6","homeURL":"http:\/\/hollywoodlife.com\/","postID":"2231138","gravDefault":"mystery","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"","userIsLoggedIn":"","isJetpack":"0","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1479964158j'></script>
+<noscript><img src="//heartbeat.pmc.com/track?host=hollywoodlife.com&#038;path=%2F2016%2F08%2F21%2Faj-styles-beats-john-cena-summerslam-2016-wwe-results%2F&#038;post_id=2231138&#038;title=AJ+Styles+Beats+John+Cena+In+Incredible+WWE+%E2%80%98SummerSlam%E2%80%99+Match&#038;author=Jason+Brow&#038;comment_count=1" border="0" width="0" height="0" style="z-index: 0; bottom: -1px; left: -1px; display: inline; position: fixed;" /></noscript>			<script>
+				( function(){
+
+					// Check if cookies are enabled
+					// @see http://sveinbjorn.org/cookiecheck
+					var cookieEnabled = (navigator.cookieEnabled) ? true : false;
+
+					if (typeof navigator.cookieEnabled == "undefined" && !cookieEnabled){ 
+						document.cookie="testcookie";
+						cookieEnabled = (document.cookie.indexOf("testcookie") != -1) ? true : false;
+					}
+					
+					if( ! cookieEnabled )
+						return;
+					
+					// Set cookie with test condition
+					document.cookie = "codefuel-test-ab" + '=' + "active" + '; expires=' + "Sat, 24 Feb 2018 17:24:56 +0000" + '; path=/';
+					
+				})();
+			</script>
+					<script>
+				( function(){
+
+					// Check if cookies are enabled
+					// @see http://sveinbjorn.org/cookiecheck
+					var cookieEnabled = (navigator.cookieEnabled) ? true : false;
+
+					if (typeof navigator.cookieEnabled == "undefined" && !cookieEnabled){ 
+						document.cookie="testcookie";
+						cookieEnabled = (document.cookie.indexOf("testcookie") != -1) ? true : false;
+					}
+					
+					if( ! cookieEnabled )
+						return;
+					
+					// Set cookie with test condition
+					document.cookie = "pmc-video-player-widget" + '=' + "active" + '; expires=' + "Sat, 24 Feb 2018 17:24:56 +0000" + '; path=/';
+					
+				})();
+			</script>
+		<script type='text/javascript'>
+/* <![CDATA[ */
+var pmc_helpdesk_vars = {"_ajax_url":"https:\/\/pmchollywoodlife.wordpress.com\/wp-admin\/admin-ajax.php","_activity_indicator_url":"https:\/\/pmchollywoodlife.wordpress.com\/wp-admin\/images\/wpspin_light.gif","affirm":"Okay"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/_static/??/wp-content/js/devicepx.js,/wp-content/mu-plugins/likes/queuehandler.js,/wp-content/themes/vip/pmc-plugins/pmc-helpdesk/js/menu.js?m=1470434182j'></script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-hollywoodlife/plugins/ajax-comment-loading/js/google-acl.js?m=1485541731h&#038;ver=1'></script>
+<script type='text/javascript' src='http://platform.twitter.com/widgets.js?ver=20111117'></script>
+<script type='text/javascript' src='http://akstatic.hollywoodlife.com/wp-content/mu-plugins/twitter-blackbird-pie/neverending.js?m=1349449263h&#038;ver=20121005'></script>
+<script type='text/javascript' src='http://akstatic.hollywoodlife.com/wp-content/mu-plugins/twitter-blackbird-pie/pending.js?m=1408998121h&#038;ver=20130322'></script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-plugins/pmc-global-functions/js/waypoints.js?m=1349469282h&#038;ver=1.1.7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var krux_event_pixels = {"gallery_slide_view":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-plugins/pmc-krux-tag/js/krux-pixel.js?m=1435699506h'></script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-plugins/pmc-js-libraries/vendor/pmc-jquery-extensions/1.0/pmc-jquery-extensions.js?m=1477326589h&#038;ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pmc_ga_event_tracking = {"events":[{"selector":".gallery-multi div:nth-child(1)","category":"article-page","label":"gallery-thumb-1"},{"selector":".gallery-multi div:nth-child(2)","category":"article-page","label":"gallery-thumb-2"},{"selector":".gallery-multi div:nth-child(3)","category":"article-page","label":"gallery-thumb-3"},{"selector":".gallery-multi .gallery-B .data a","category":"article-page","label":"view-gallery"},{"selector":".single-post #sidebar a","category":"article-page","label":"sidebar-right"},{"selector":".pmc-templatized-widget a","category":"templatized-widget","label":""}],"device":"[D]"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/_static/??/wp-includes/js/underscore.min.js,/wp-content/themes/vip/pmc-plugins/pmc-google-universal-analytics/js/event-tracking.js?m=1486673858j'></script>
+<script type='text/javascript' src='//s.swiftypecdn.com/cc/jkm7F1ZZDDQs2N16S-jQ.js?ver=1.0'></script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-plugins/pmc-swiftype/classes/../assets/js/SwiftypeComponents.min.js?m=1474045913h&#038;ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SwiftypeConfigs = {"engine_key":"jkm7F1ZZDDQs2N16S-jQ","redirect_to":"\/results","home_url":"http:\/\/hollywoodlife.com\/","placeholder_image":"https:\/\/akstatic.hollywoodlife.com\/wp-content\/themes\/vip\/pmc-hollywoodlife\/images\/theme\/hp-header-logo-v2.png","image_size":"river-thumbnail","autocomplete":{"tags":{"include":true,"name":"Tags"},"articles":{"include":true,"name":"Articles"}},"author_list":[],"date_filters":{"date_options:radio-options":{"title":"Date Filter","default_option":0},"topics_facet:checkbox-facet":{"limit":7,"allowed_items":[],"disallowed_items":[]},"tags_facet:checkbox-facet":{"limit":7,"allowed_items":[],"disallowed_items":[]},"author_facet:checkbox-facet":[]},"custom_facet_settings":[],"meta_tags":{"post_types":{"post":"Article","page":"Page","pmc-gallery":"Gallery","celeb":"Celeb Profiles"},"show_content_type_meta_tag":true,"tags":["post_tag"],"topics":["category","vertical"],"custom_topics":[],"comment_count":true,"appeared_in_print":false},"trans":{"search":"Search","search_button":"Search","reference":"Relevance","pub_date_new":"Published Date (newest first)","pub_date_old":"Published Date (oldest first)","most_commented":"Most Commented","clear":"Clear","content_type":"Content Type","topics":"Topics","tags":"Tags","all":"All","twentyfour_hours":"Past 24 Hours","seven_days":"Past 7 Days","thirty_days":"Past 30 Days","twelve_months":"Past 12 Months"},"q":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-plugins/pmc-swiftype/classes/../assets/js/configuration.min.js?m=1475537026h&#038;ver=1.0'></script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-hollywoodlife/plugins/hl-zuus/js/hl-zuus-resize.js?m=1444764485h&#038;ver=0.2'></script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-hollywoodlife/js/mobile.min.js?m=1478613270h&#038;ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-hollywoodlife/js/common.min.js?m=1478613270h&#038;ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-hollywoodlife/js/esalon-tracking.min.js?m=1478613270h&#038;ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/wp-includes/js/comment-reply.min.js?m=1448399201h'></script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-hollywoodlife/js/krux-exit-links.min.js?m=1478613270h&#038;ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var hollywood_related_posts = {"ajax_url":"https:\/\/pmchollywoodlife.wordpress.com\/wp-admin\/admin-ajax.php","post_id":"2231138"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-hollywoodlife/js/single_footer.min.js?m=1478613270h&#038;ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/wp-includes/js/hoverIntent.min.js?m=1433512424h'></script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-hollywoodlife/js/mobile-header.min.js?m=1478613270h&#038;ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-hollywoodlife/js/social-button-tracker.min.js?m=1478613270h&#038;ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-plugins/pmc-global-functions/js/socialite.js?m=1384811720h&#038;ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-plugins/pmc-global-functions/js/pmc-socialite-plugin.js?m=1421796682h&#038;ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-plugins/pmc-global-functions/js/pmc-sticky-rightrail.js?m=1446146581h&#038;ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-plugins/pmc-js-libraries/vendor/pmc-pinit-hover/1.0/pmc-pinit-hover.js?m=1446660521h&#038;ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"https:\/\/s1.wp.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/wp-includes/js/thickbox/thickbox.js?m=1473172720h'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcomVipAnalytics = {"is_404":"0","is_home":"0","is_single":"1","is_front_page":"0","is_archive":"0","percentToTrack":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://akstatic.hollywoodlife.com/wp-content/mu-plugins/2-vip/js/vip-analytics.js?m=1411795912h&#038;ver=20140927b'></script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/wp-content/mu-plugins/admin-bar/masterbar-overrides/masterbar.js?m=1450888478h'></script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-plugins/pmc-google-site-search-widget/assets/js/script-v2.js?m=1412084931h&#038;ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='//widgets.outbrain.com/outbrain.js?ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-plugins/pmc-outbrain/assets/js/pmc-outbrain.js?m=1444841494h&#038;ver=4.6.1-RC1-38499'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="//stats.wp.com/w.js?56" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'31106563','blog_tz':'-5','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'31106563','v':'wpcom','tz':'-5','user_id':'0','post':'2231138','subd':'pmchollywoodlife'}]);
+function st_vt() {var x=document.createElement("img");x.src="http://pixel.wp.com/g.gif?blog=31106563&v=wpcomvt&tz=-5&user_id=0&post=2231138&subd=pmchollywoodlife&rand="+Math.random();}
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTc/SE4sMzFULWd1N1VnMWVKMkttSm0vTWY/Yn5MNUxkPTRVNDAraGIxZ245T2ZNRUtLdz8lVmxZcy1+TzIrTzh0S3Y2czV3RCtsSzNtajdZcjhnVDRONW5OaEc/eTI9ck9PTC9BYi9weD0sT19KeC94flZNJktVUVd3WGk0Tnxsa1hOVGdrQ0kydGZRLnl+UnVVQ2tRSF9oM35kZ1d5OT02dF9Hek9NazNmYXhofGhhMHIvaXlTeC5baWp3XVVmJkw4emhRTlJnOSZIWmtzfj9HYkVGfElXcWJ4eGJsUw=='}]);
+_stq.push([ 'clickTrackerInit', '31106563', '2231138' ]);
+	</script>
+<noscript><img src="http://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>		<script data-cfasync='true' type='text/javascript'>
+			try {
+				amznads.setTargetingForGPTAsync('amznslots');
+			} catch(e) { /*ignore*/}
+		</script>
+				<script data-cfasync='true' async src="//plugin.mediavoice.com/mediaconductor/mc.js"></script>
+		<script data-cfasync='true'>
+			window.mediaconductor=window.mediaconductor||function(){(mediaconductor.q=mediaconductor.q||[]).push(arguments);}
+			mediaconductor("init", "82441bfdc0f6457395f2956707188ad9");
+			mediaconductor("exec");
+		</script>
+			<script type='text/javascript' async='async' data-client-id='fPqISeJfwopmIAx' src='https://akstatic.hollywoodlife.com/wp-content/themes/vip/pmc-plugins/pmc-ab-analytics/assets/js/ab-analytics.js?ver=1.1' ></script>
+				<script type="text/javascript" src="//wms.assoc-amazon.com/20070822/US/js/auto-tagger.js?tag=hollywoocom-20&#038;locale=US&#038;overwrite=Y"></script>
+	
+<!-- pmc-adm targeting -->
+<script>
+if ( typeof pmc !== 'undefined' && typeof pmc.hooks !== 'undefined' ) {
+	pmc.hooks.add_filter( 'pmc-adm-set-targeting-keywords', function( keywords ) {
+		try {
+			if ( typeof Krux !== 'undefined' ) {
+				if ( typeof keywords['ksg'] === 'undefined' ) {
+					keywords['ksg']  = Krux.segments;
+				}
+				if ( typeof keywords['kuid'] === 'undefined' ) {
+					keywords['kuid']  = Krux.user;
+				}
+			}
+		} catch(e) {}
+		return keywords;
+	} );
+}
+
+(function() {
+	if( window.hasOwnProperty('pmc_krux' ) ) {
+		window.pmc_krux['destination-url'] = window.location.href;
+		if( document.hasOwnProperty('referrer') && document.referrer.length ) {
+			window.pmc_krux['referrer'] = document.referrer;
+		}
+		if( 'undefined' !== typeof pmc_meta && 'string' === pmc_meta.omni_visit_id ) {
+			window.pmc_krux['omni_visit_id'] = pmc_meta.omni_visit_id;
+		}
+	}
+})();
+
+</script>
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+var _comscore = _comscore || []; _comscore.push({ c1: "2", c2: "6035310", c3: "", c4: "", c5: "", c6: "", c15: "" }); (function() { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); })();
+</script>
+<!-- End comScore Tag -->
+
+<!-- Begin Facebook JS SDK for "Like" button -->
+<script>(function(d, s, id) {
+	var js, fjs = d.getElementsByTagName(s)[0];
+	if (d.getElementById(id)) return;
+	js = d.createElement(s); js.id = id;
+	js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+	fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- End Facebook JS SDK -->
+
+<!-- Begin Google +1 -->
+<script type="text/javascript">
+  (function() {
+	var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+	po.src = 'https://apis.google.com/js/plusone.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<!-- End Google +1 -->
+
+<!-- Begin Twitter Tweet -->
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<!-- End Twitter Tweet -->
+
+<!-- DO NOT REMOVE, comment for engineering, 4BAfe4nkpyAktm3S -->
+
+<!-- Quantcast Tag, part 2 -->
+<script type="text/javascript">
+_qevents.push([
+	{ qacct:"p-6fKiDaopTGEQg" }, // Hollywoodlife P-code
+	{ qacct:"p-31f3D02tYU8zY" } // PMC P-Code
+]);
+</script>
+<noscript>
+	<div style="display:none;">
+		<img src="//pixel.quantserve.com/pixel?a.1=p-6fKiDaopTGEQg&a.2=p-31f3D02tYU8zY" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- Quantcast tag End, part 2 -->
+
+	<script src="//dc8xl0ndzn2cb.cloudfront.net/js/hollywoodlife/v0/keywee.min.js" type="text/javascript" async></script>
+
+<!--Heatmapping JS tag - using CrazyEgg Start CODE -->
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/4414.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+<!--Heatmapping JS tag - using CrazyEgg End -->
+
+<!--  Buzz Feed BuzzBox code begins -->
+<script type="text/javascript">
+	(function( ){
+	document.write('<div id="BF_BUZZBOX" style="height: 0px; width:0px;"></div>');
+	var sid="75UGJ7";	 var c=""; var b="";
+	BF_BB_SCRIPT=document.createElement('script');
+		BF_BB_SCRIPT.type="text/javascript";
+	BF_BB_SRC="http://buzzbox.buzzfeed.com/wd/BuzzBox?sid=" + sid + c + b + '&it=1&cb=' + (new Date()).getTime();
+	setTimeout(function() {
+			document.getElementById('BF_BUZZBOX').appendChild(BF_BB_SCRIPT);
+			BF_BB_SCRIPT.src=BF_BB_SRC;
+		},1);
+	})();
+</script>
+<!-- / Buzz Feed BuzzBox code ends -->
+
+<!-- START callback function for onhashchange(when the hash tag in the url gets updated) -->
+<script type="text/javascript">
+function global_urlhashchanged() {
+		/**
+	 * Track pageview
+	 */
+	// Build the current domain name
+	var tmp_td = document.domain.split('.');
+	var tracking_domain = tmp_td[tmp_td.length-2] + "." + tmp_td[tmp_td.length-1];
+
+	// Build the current image
+	var imgname = location.hash.replace('#','');
+	try {
+		ga( 'send', 'pageview', location.pathname + location.hash );
+	} catch(err) {}
+
+	// PMCVIP-2580. Try PV in Keywee
+	try {
+		if ( typeof window.snowplowKW == 'function' ) {
+			console.log('sending tracking code');
+			window.snowplowKW( 'trackPageView' );
+		}
+	} catch ( err ) {
+	}
+
+	// Track Quantcast
+	try {
+
+		// need to reset the array containing the options previously sent
+		// as quantcast does not send the same key twice.
+		if (__qc && __qc.qpixelsent && __qc.qpixelsent.length > 0) {
+			__qc.qpixelsent.length = 0;
+		}
+		// First Quantcast Tag
+		_qoptions={
+				qacct:"p-6fKiDaopTGEQg"
+		};
+
+		quantserve();
+
+	} catch(err) {}
+
+	// Track Comscore
+	try {
+		setTimeout(function(){ var url = "http" + (/^https:/.test(document.location.href) ? "s" : "") + "://beacon.scorecardresearch.com/scripts/beacon.dll" + "?c1=2&amp;c2=6035310&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=" + escape(document.location.href) + "&amp;c8=" + escape(document.title) + "&amp;c9=" + escape(document.referrer) + "&amp;c10=" + escape(screen.width+'x'+screen.height) + "&amp;rn=" + (new Date()).getTime(); var i = new Image(); i.src = url; }, 1);
+
+		COMSCORE.beacon({c1:2,c2:"6035310",c3:"6035310",c4:"",c5:"",c6:"",c15:""});
+
+	} catch(err) {}
+
+	/**
+	 * Track pageview end
+	 */
+}
+</script>
+
+<!-- GUM GUM -->
+<script type="text/javascript">ggv2id='5cc3fdcf';</script>
+<script type="text/javascript" src="http://g2.gumgum.com/javascripts/ggv2.js"></script>
+
+	<!-- get credit in Pinterest's algorithm for user sharing -->
+	<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js" async defer></script>
+	<script type="text/javascript" src="//s.skimresources.com/js/87443X1540250.skimlinks.js"></script>
+
+		<!-- end of body -->
+	</body>
+</html>
+<!--
+	generated in 0.389 seconds
+	102941 bytes batcached for 300 seconds
+-->

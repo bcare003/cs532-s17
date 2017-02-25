@@ -1,0 +1,940 @@
+<!doctype html>
+
+<!--[if lt IE 7]><html lang="en-US" class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html lang="en-US" class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html lang="en-US" class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US" class="no-js"><!--<![endif]-->
+
+	<head>
+				<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+				<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+		<title>OccuWorld  Global Truth Magazine</title>
+
+				<meta name="HandheldFriendly" content="True">
+		<meta name="MobileOptimized" content="320">
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+				<link rel="apple-touch-icon" href="http://www.occuworld.org/wp-content/themes/occuworld/library/images/apple-touch-icon.png">
+		<!-- <link rel="icon" href="http://www.occuworld.org/wp-content/themes/occuworld/favicon.png"> -->
+		<link rel="icon" href="http://cdn.occuworld.org/favicon.ico">
+		<!--[if IE]>
+			<link rel="shortcut icon" href="favicon.ico">
+		<![endif]-->
+				<meta name="msapplication-TileColor" content="#f01d4f">
+		<meta name="msapplication-TileImage" content="http://www.occuworld.org/wp-content/themes/occuworld/library/images/win8-tile-icon.png">
+            <meta name="theme-color" content="#121212">
+
+		<link rel="pingback" href="http://www.occuworld.org/xmlrpc.php">
+
+				<link rel="alternate" type="application/rss+xml" title="OccuWorld &raquo; Feed" href="http://www.occuworld.org/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.occuworld.org\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='font-awesome-stylesheet-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='swiper-stylesheet-css'  href='https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.2.7/css/swiper.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slabtext-stylesheet-css'  href='//www.occuworld.org/wp-content/themes/occuworld/library/css/slabtext.css' type='text/css' media='all' />
+<link rel='stylesheet' id='custom_stylesheet-css'  href='http://www.occuworld.org/wp-content/plugins/custom.css' type='text/css' media='all' />
+<link rel='stylesheet' id='googleFonts-css'  href='http://fonts.googleapis.com/css?family=Lato%3A400%2C700%2C400italic%2C700italic' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-lazyloadxt-fadein-css-css'  href='//www.occuworld.org/wp-content/plugins/a3-lazy-load/assets/css/jquery.lazyloadxt.fadein.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bones-stylesheet-css'  href='http://www.occuworld.org/wp-content/themes/occuworld/library/css/style.css' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='bones-ie-only-css'  href='http://www.occuworld.org/wp-content/themes/occuworld/library/css/ie.css' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='http://www.occuworld.org/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='http://www.occuworld.org/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='//www.occuworld.org/wp-content/themes/occuworld/library/js/jquery.timeago.js'></script>
+<script type='text/javascript' src='http://www.occuworld.org/wp-content/plugins/custom.js'></script>
+<script type='text/javascript' src='http://www.occuworld.org/wp-content/themes/occuworld/library/js/libs/modernizr.custom.min.js'></script>
+<meta http-equiv="cache-control" content="max-age=0" /><meta http-equiv="cache-control" content="no-cache" /><meta http-equiv="expires" content="0" /><meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" /><meta http-equiv="last-modified" content="Fri, 24 Feb 2017 17:34:21 GMT" /><meta http-equiv="pragma" content="no-cache" />	<meta name="twitter:card" content="summary_large_image" />
+	<meta property="og:title" content="OccuWorld &amp;raquo; Global Truth Magazine" />
+	<meta name="twitter:title" content="OccuWorld &amp;raquo; Global Truth Magazine" />
+	<meta property="og:type" content="blog" />
+	<meta property="og:url" content="http://www.occuworld.org" />
+	<meta property="og:description" content="Global Truth Magazine" />
+	<meta name="twitter:description" content="Global Truth Magazine" />
+	<meta property="og:image" content="http://cdn.occuworld.org/wp-content/images/occuworld-banner.jpg" />
+	<meta name="twitter:image:src" content="http://cdn.occuworld.org/wp-content/images/occuworld-banner.jpg" />
+	<meta property="og:image:width" content="1251" />
+	<meta name="twitter:image:width" content="1251" />
+	<meta property="og:image:height" content="320" />
+	<meta name="twitter:image:height" content="320" />
+	<meta name="twitter:creator" content="@OccuWorld" />
+	<meta property="og:site_name" content="OccuWorld" />
+	<meta name="twitter:site" content="@OccuWorld" />
+	<meta name="twitter:site:id" content="1179710990" />
+	<meta name="twitter:domain" content="occuworld.org" />
+<!-- Vipers Video Quicktags v6.5.2 | http://www.viper007bond.com/wordpress-plugins/vipers-video-quicktags/ -->
+<style type="text/css">
+.vvqbox { display: block; max-width: 100%; visibility: visible !important; margin: 10px auto; } .vvqbox img { max-width: 100%; height: 100%; } .vvqbox object { max-width: 100%; } 
+</style>
+<script type="text/javascript">
+// <![CDATA[
+	var vvqflashvars = {};
+	var vvqparams = { wmode: "opaque", allowfullscreen: "true", allowscriptaccess: "always" };
+	var vvqattributes = {};
+	var vvqexpressinstall = "http://www.occuworld.org/wp-content/plugins/vipers-video-quicktags/resources/expressinstall.swf";
+// ]]>
+</script>
+    <!-- Demo styles -->
+    <style>
+    html, body {
+        position: relative;
+        height: 100%;
+		text-rendering: optimizeLegibility;
+		text-rendering: geometricPrecision;
+		font-smooth: always;
+
+		font-smoothing: antialiased;
+		-moz-font-smoothing: antialiased;
+		-webkit-font-smoothing: antialiased;
+		-webkit-font-smoothing: subpixel-antialiased;		
+    }
+    body {
+        background: #000;
+        font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        color:#000;
+        margin: 0;
+        padding: 0;
+    }
+    .swiper-container {
+        width: 100%;
+        height: 300px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .swiper-slide {
+        background-size: cover;
+        background-position: center;
+    }
+	.swiper-container-vertical > .swiper-pagination {
+		right: 0.75vw !important;
+	}
+	.gallery-thumbs .swiper-slide-active {
+		border: 2px solid white;
+	}
+    .gallery-top {
+        height: 100%;
+        width: 100%;
+    }
+    .gallery-thumbs {
+		width: 100%;
+        box-sizing: border-box;
+		background: rgba(0,0,0,0.5);
+		/* border-radius:10px; */
+		clear:both;
+		margin: 1vh 0;
+		height: 73%;
+		overflow:hidden;
+    }
+    .gallery-thumbs .swiper-slide {
+        width: 100%;
+        height: 15vh;
+        opacity: 1.0;
+		font-family: Cambria,Georgia,serif;
+		font-weight: bold;
+		font-size: 2.2vmin;
+		color: #FFF;
+		line-height: 1em;
+		text-shadow: 1px 1px 2px black;
+		padding:10px;
+		border: 2px solid rgba(3,3,3,0.8);
+    }
+    .gallery-thumbs .swiper-slide-active {
+        opacity: 1;
+		border: 2px solid rgba(255,255,255,0.8);
+    }
+	.home-header {
+		background-color: rgba(0,0,0,0.66);
+		position:absolute;
+		top:0px;
+		width:100%;
+		z-index:100;
+		padding:1vh;
+		font-size:7.5vmin;
+		line-height:0px;
+		color:#CECECE;
+		letter-spacing:2vw;
+	}
+	#logo {
+		padding:0;
+		margin:0;
+	}
+	#logo img {
+		height: 8vmin;
+		margin:0;
+		padding:0;
+	}
+	.swiper-slide .entry-title {
+		margin: 1vh 20vw 0 3vw;
+		font-family: Cambria,Georgia,serif;
+		font-weight: bold;
+		font-size: 8vmin;
+		color: #FFF;
+		line-height: 1em;
+		text-shadow: 2px 2px 4px black;
+		pointer-events:none;
+		clear:both;
+		white-space: normal;
+	}
+	.swiper-slide .byline { 
+		font-size: 5vmin;
+		font-style: italic;
+		font-weight: bold;
+		text-shadow: 1px 1px 3px black;
+		margin: 1vh 20vw 0 3vw !important;
+		color: #66ccff !important;
+		pointer-events:none;
+		display:inline-block;
+		clear:both;
+	}
+	.swiper-slide .excerpt {
+		font-size: 6vmin;
+		line-height: 1em;
+		font-family: Cambria,Georgia,serif;
+		font-weight: bold;
+		text-shadow: 2px 2px 4px black;
+		margin: 1vh 20vw 0 3vw !important;
+		color:#FFF;
+		opacity:0.0;
+		pointer-events:none;
+		clear:both;
+	}
+	.entry-title span.slabtext, .excerpt span.slabtext {
+		line-height:1.1em !important;
+	}
+	.slide-actions {
+		position:relative;
+		z-index:101;
+		left:3vw;
+		top:80vh;
+		/* bottom: 15vh; */
+		font-size:8vh;
+		letter-spacing:2vw;
+		color:white;
+		text-shadow: 2px 2px 4px black;
+	}
+	.entry-title, .excerpt {
+		max-height:25vh;
+		width:76vw;
+	}
+	.thumb-title {
+		max-height:100%;
+		width:100%;
+		margin:0px;
+		padding:0px;
+		pointer-events:none;
+		overflow:hidden;
+	}
+	.found {
+		font-style: italic;
+		font-weight: normal;
+	}
+	.entry-author {
+		margin-right: 2vw;
+	}
+	.swiper-nav {
+		left: 82vw !important;
+		position: absolute;
+		z-index: 82;
+		width:16vw;
+		top:12vh;
+		height:74vh;
+	}
+	.nav-button-container {
+		height:9vh;
+		overflow:hidden;
+	}
+	.tic-right {
+		font-size:0.5em;
+		margin:1.0em;
+		width:1.0em;
+		float:right;
+		position:relative;
+		z-index:102;		
+		color: rgba(255,255,255,0.5);
+		visibility:hidden;
+	}
+	.tic-left {
+		font-size:0.5em;
+		color: rgba(255,255,255,0.5);
+		margin:1.0em;
+		width:1.0em;
+		float:left;
+		position:relative;
+		z-index:102;
+		visibility:visible;
+	}
+	.swiper-button-next, .swiper-button-prev, .load-button-new, .load-button-old {
+		background-image: none !important;
+		font-size: 6vh;
+		color: white;
+		font-weight: bold;
+		width: 100%;
+		text-align: center;
+		vertical-align: middle;
+		background: rgba(0,0,0,.5);
+		/* border-radius: 10px;
+		height: auto !important; */
+		clear:both;
+		position: initial;
+		top: inherit;
+		margin-top: auto;
+		z-index: inherit;
+		height:9vh;
+		vertical-align: middle;
+	}
+	.load-button-new, .load-button-old {
+		cursor:pointer;
+		display:none;
+	}
+	.fa-spin { 
+		filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'saturate\' values=\'1\'/></filter></svg>#grayscale");
+	}
+	.occu_share { position:absolute; z-index:105; height:8vh; width:100vw; padding:0; left:0px; bottom:3vmin; display:inline-block; }
+	ul.share-buttons{ list-style: none; padding: 0; }
+	/*
+	.share-buttons { background-color: white; font-size: 6vh; }
+	.share-buttons li { display: inline; height: 8vh;}
+	.share-buttons .fa-facebook-square { color:rgb(74,110,169); }
+	.share-buttons .fa-twitter-square { color:rgb(40,170,225); }
+	.share-buttons .fa-google-plus-square { color:rgb(213,31,31);}
+	.share-buttons .fa-tumblr-square { color:rgb(57,89,118); }
+	.share-buttons .fa-pinterest-square { color:rgb(203,32,39); }
+	.share-buttons .fa-reddit-square { color:rgb(255,64,6); }
+	.share-buttons .fa-linkedin-square { color:rgb(0,151,189); }
+	.share-buttons .fa-wordpress { color:rgb(70,70,70); }
+	.share-buttons .fa-envelope-square { color:rgb(205,205,205); }
+	*/
+	.share-buttons { color: white; font-size:3vmin; padding:0; }
+	.share-buttons li { display:inline-block; width: 11.1111111vw; text-align:center; height: 8vh;}
+	.share-buttons li a { width:100%; display:inline-block; }
+	.share-buttons li a i.fa { line-height: 8vh !important; text-align:center; vertical-align: middle; }
+	.share-buttons li.facebook { background-color:rgb(74,110,169); }
+	.share-buttons li.twitter { background-color:rgb(40,170,225); }
+	.share-buttons li.google-plus { background-color:rgb(213,31,31);}
+	.share-buttons li.tumblr { background-color:rgb(57,89,118); }
+	.share-buttons li.pinterest { background-color:rgb(203,32,39); }
+	.share-buttons li.reddit { background-color:rgb(255,64,6); }
+	.share-buttons li.linkedin { background-color:rgb(0,151,189); }
+	.share-buttons li.wordpress { background-color:rgb(70,70,70); }
+	.share-buttons li.envelope { background-color:rgb(205,205,205); }
+	
+    </style>
+		
+				
+	</head>
+
+	<body class="home blog" itemscope itemtype="http://schema.org/WebPage">
+
+		<div class="swiper-container gallery-top">
+		<!-- Additional required wrapper -->
+		<div class="swiper-wrapper">
+			<!-- Slides --> 
+		</div>
+		<!-- pagination (small displays) -->
+		<div class="swiper-pagination"></div>
+		<!-- navigation -->
+		<div class="swiper-nav">
+			<div class="nav-button-container">
+				<div class="load-button-new"><i class="fa fa-circle-o-notch fa-spin tic-right"></i><i class="fa fa-angle-up"></i><i class="fa fa-bolt tic-left"></i></div>
+				<div class="swiper-button-prev"><i class="fa fa-angle-up"></i></div>
+			</div>
+			<div class="swiper-container gallery-thumbs">
+				<div class="swiper-wrapper">
+				</div>
+			</div>
+			<div class="nav-button-container">
+				<div class="swiper-button-next"><i class="fa fa-angle-down"></i></div>
+				<div class="load-button-old"><i class="fa fa-circle-o-notch fa-spin tic-right"></i><i class="fa fa-angle-down"></i><i class="fa fa-bolt tic-left"></i></div>
+			</div>
+		</div>
+		
+	</div>
+
+	<!-- header bar -->
+	<div class="home-header">
+		<i class="fa fa-search fa-pull-right"></i>
+		<a id="rss-feed" href="http://www.occuworld.org/feed" alt="OccuWorld RSS Feed" title="OccuWorld RSS Feed" rel="nofollow"><i class="fa fa-rss fa-pull-right"></i></a>
+		<a id="twitter-follow" href="https://www.twitter.com/OccuWorld" alt="Follow on Twitter" title="Follow on Twitter" rel="nofollow"><i class="fa fa-twitter fa-pull-right"></i></a>
+		<i class="fa fa-info-circle fa-pull-right"></i>
+		<a id="logo" href="http://www.occuworld.org" rel="nofollow"><img src="http://cdn.occuworld.org/wp-content/images/occuworld_logo_light.png" alt="Logo"></a>
+	</div>
+												
+				<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.2.7/js/swiper.min.js'></script>
+<script type='text/javascript' src='//www.occuworld.org/wp-content/themes/occuworld/library/js/jquery.timeago.js'></script>
+<script type='text/javascript' src='//www.occuworld.org/wp-content/themes/occuworld/library/js/jquery.slabtext.min.js'></script>
+<script type='text/javascript' src='//cdn.jsdelivr.net/jquery.color-animation/1/mainfile'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var a3_lazyload_params = {"apply_images":"1","apply_videos":""};
+var a3_lazyload_params = {"apply_images":"1","apply_videos":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.occuworld.org/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.min.js'></script>
+<script type='text/javascript' src='//www.occuworld.org/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.srcset.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var a3_lazyload_extend_params = {"edgeY":"0"};
+var a3_lazyload_extend_params = {"edgeY":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.occuworld.org/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.extend.js'></script>
+<script type='text/javascript' src='//www.occuworld.org/wp-content/themes/occuworld/library/js/scripts.js'></script>
+
+	<!-- Initialize AddThis -->
+	<!--
+	</script>
+		<script type="text/javascript">
+		var addthisScript = document.createElement('script');
+		addthisScript.setAttribute('src', 'http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-502bc8d55a6f2973&domready=1');
+		document.body.appendChild(addthisScript);
+	</script>
+	-->
+	<!-- Initialize TimeAgo -->
+	<script>
+		jQuery(document).ready(function() {
+			jQuery("abbr.timeago").timeago();
+		});	
+	</script>
+	<script>
+		
+ 		var vh, vw, vmin, vmax, title_max_font, excerpt_max_font, myFontRatio;
+		function _init() {
+ 		/* var vh = jQuery(window).height(); var vw = jQuery(window).width(); var vmin = Math.min(vh,vw);	var vmax = Math.max(vh,vw); */
+			vh = jQuery(window).height(); vw = jQuery(window).width(); vmin = Math.min(vh,vw); vmax = Math.max(vh,vw);
+			title_max_font=0.13333*vmin; excerpt_max_font=0.09*vmin;
+			/* mobile style mods */
+			if (vmin<460) {
+				console.log('mobile enabled. '+vmin);
+			} else {
+			}
+		}
+		function shorten(html) {
+			var str = jQuery('<div>').html(html).text();
+			var l = Math.max(Math.floor(str.length / 4), 32); /* 4 lines */
+			console.log(str);
+			if (str.length > l) {
+				return jQuery.trim(str).substring(0, l).split(" ").slice(0, -1).join(" ") + "&#8230;";
+			} else {
+				return str;
+			}
+		}
+		_init();
+		/* init swiper */
+		var galleryTop = new Swiper('.gallery-top', {
+		//var galleryTop = $('.gallery-top').swiper({
+			nextButton: '.swiper-button-next',
+			prevButton: '.swiper-button-prev',
+			slidesPerView: 1,
+			pagination: '.swiper-pagination',
+			paginationClickable: true,
+			keyboardControl: true,
+			hashnav: true,
+			direction: 'vertical',
+			observer: false
+		});
+			/* runCallbacksOnInit: false, */
+		var galleryThumbs = new Swiper('.gallery-thumbs', {
+		//var galleryThumbs = $('.gallery-thumbs').swiper({
+			spaceBetween: 10,
+			centeredSlides: true,
+			slidesPerView: 'auto',
+			touchRatio: 0.2,
+			direction: 'vertical',
+			hashnav: false,
+			runCallbacksOnInit: false,
+			slideToClickedSlide: true,
+			observer: false
+		});
+		galleryTop.params.control = galleryThumbs;
+		galleryThumbs.params.control = galleryTop;
+		galleryTop.on('SlideChangeStart', UpdateGalleryButtons);
+		galleryTop.on('SlideChangeEnd',UpdateExcerptOpacity);
+		galleryTop.on('ReachBeginning',LoadNew);
+		galleryTop.on('ReachEnd',LoadOld);
+		galleryThumbs.on('Tap', UpdateGalleryButtons);
+		InitLoadButtons();
+		
+		/* OccuWorld Java API */
+			
+		function owLoad(/* search object */) {
+			var myparms = {}, tindex = 0, aname = ['always','done','fail','retry','complete'];
+			if(jQuery.isPlainObject(arguments[0])){myparms=arguments[0];}
+			if (Date.now()-window.keytime>120000){window.mykey="!";}
+			myparms.key = window.mykey;
+			jQuery.ajaxSetup({timeout:5000});
+			if(is_int(arguments[1])){tindex = parseInt(arguments[1]);}else{window.mytransindex++;tindex=window.mytransindex;window.mytrans[tindex]={};}
+			if(!window.mytrans.hasOwnProperty(tindex)){return;}
+			if(window.mytrans[tindex].hasOwnProperty('timer')){delete window.mytrans[tindex].timer;}
+			for(var aindex = 0; aindex < arguments.length; aindex++){if(typeof arguments[aindex] === "function"){window.mytrans[tindex][aname[aindex]]=arguments[aindex]}};
+			window.mytrans[tindex].parms = myparms;
+			if(is_int(window.mytrans[tindex].attempt)){window.mytrans[tindex].attempt++;}else{window.mytrans[tindex].attempt=1;}
+			if((window.mytrans[tindex].attempt>1)&&window.mytrans[tindex].hasOwnProperty('retry')&&(typeof window.mytrans[tindex].retry === "function")){window.mytrans[tindex].retry(tindex);}
+			if(myparms.hasOwnProperty('action')){switch(myparms.action){
+				case 'before':
+					jQuery('.load-button-old .tic-right').removeClass('fa-refresh');
+					jQuery('.load-button-old .tic-right').addClass('fa-circle-o-notch');
+					jQuery('.load-button-old .tic-right').css('visibility', 'visible');
+					jQuery('.load-button-old').attr('data-transaction', tindex);
+					break;
+				case 'new':
+				case 'after':
+					jQuery('.load-button-new .tic-right').removeClass('fa-refresh');
+					jQuery('.load-button-new .tic-right').addClass('fa-circle-o-notch');
+					jQuery('.load-button-new .tic-right').css('visibility', 'visible');
+					jQuery('.load-button-new').attr('data-transaction', tindex);
+					break;
+			}}			
+			window.mytrans[tindex].trans = jQuery.getJSON( "http://www.occuworld.org/api/0.0.0.0/list.php", myparms )
+			.done(function( data ) {
+				/* data received */
+				window.mykey = data.key;
+				update_keytimer();
+				if(myparms.key == "!"){
+					/* new key data */
+					myparms.key = window.mykey;
+					if(!window.mytrans.hasOwnProperty(tindex)){reset_loadbutton(myparms.action);return;}
+					window.mytrans[tindex].attempt=0;owLoad(myparms, tindex);
+				} else {
+					/* new slide data */
+					if(!window.mytrans.hasOwnProperty(tindex)){reset_loadbutton(myparms.action);return;}
+					bk_mask = bk_mask.format(data.mask.start, data.mask.stop, data.image);
+					var i, slide, thumb, bk, img, action, entry, share, sharelink, sharevia, tweet, media, sharemedia, author, authorname, authorclass, btnmedia, btnauthor, bylineauthor, myslides = [], mythumbs = [], myindex = [];
+					if (data.items.length<=0){console.log('no new data.');reset_loadbutton(myparms.action);delete window.mytrans[tindex];return;}
+					jQuery.each(data.items,  function( index, value ) { 
+						if(!is_slide(index)){
+							/* build slide */
+							img=value.image;
+							if(img===undefined||img.length<=0){img='';}else{img='url('+img+'), ';}
+							bk = bk_mask.replace(new RegExp('\\{3\\}', 'gm'),img);
+							author = value.author;
+							if(author===undefined||author.length<=0){btnauthor = '';bylineauthor = '';}
+							else{if(authorname===undefined||authorname.length<=0){authorname='this author';bylineauthor='';}else{authorname=author.name;bylineauthor=author_mask.format(index, authorname);}btnauthor=author_bttn.format(author.link, authorname);} 
+							media=value.media;
+							if(media===undefined||media.length<=0){btnmedia='';sharemedia='';}else{btnmedia=media_bttn.format(media);sharemedia=encodeURIComponent(value.media);}
+							d = new Date(value.date);
+							action = action_mask.format(index, value.link, value.title, btnmedia, btnauthor);
+							sharelink = " " + encodeURIComponent(value.link);if((sharemedia.length>0)&&(value.tweet.length<=115)){sharelink=" "+sharemedia+sharelink;}
+							if(value.tweet){tweet=encodeURIComponent(value.tweet)+sharelink;sharevia=(value.tweet.length>=125)?'':'&via=OccuWorld';}else{tweet='';sharevia='';}
+							share = share_mask.format(index, encodeURIComponent(value.link), tweet, sharevia );
+							entry = entry_mask.format(index, value.title, bylineauthor, value.date, d.toLocaleString(), value.excerpt);
+							slide = slide_mask.format(index, bk, share+action+entry);
+							thumb = thumb_mask.format(index, bk, value.title);
+							myslides.push(slide);
+							mythumbs.push(thumb);
+							myindex.push(index);
+						}
+					});
+					if(myslides.length > 0) {
+						/* smooth slide loading */
+						var oldSlideCount = galleryTop.slides.length;
+						var isinit=(galleryTop.Slides==undefined);
+						galleryTop.detachEvents();galleryThumbs.detachEvents();
+						galleryTop.lockSwipes();galleryThumbs.lockSwipes();
+						var aindex = galleryTop.activeIndex;
+						galleryTop.params.control = null;galleryThumbs.params.control = null;
+						var bounds = slide_bounds(), prepend = false;
+						/* add slides */
+						if((bounds !== undefined)&&is_int(bounds.max)&&(bounds.max < myindex[myindex.length-1])){
+							galleryTop.prependSlide(myslides);galleryThumbs.prependSlide(mythumbs);
+							prepend = true;
+							if(is_int(aindex)){aindex = aindex + myslides.length;}
+						} else {
+							galleryTop.appendSlide(myslides);galleryThumbs.appendSlide(mythumbs);
+						}
+						/* remove slides */
+						while(galleryTop.slides.length > 10) {
+							if(prepend==true){
+								galleryTop.removeSlide(galleryTop.slides.length-1);
+								galleryThumbs.removeSlide(galleryTop.slides.length-1);
+							} else {
+								galleryTop.removeSlide(0);
+								galleryThumbs.removeSlide(0);
+								if(is_int(aindex)){aindex = aindex - 1;}
+							}
+						}
+						galleryTop.update();galleryThumbs.update();
+						if (oldSlideCount == 0) { aindex = Math.floor(galleryTop.slides.length/2); }
+						if(is_int(aindex)){
+							galleryTop.unlockSwipes();galleryThumbs.unlockSwipes();
+							galleryTop.slideTo(aindex, 0, false);galleryThumbs.slideTo(aindex, 0, false);
+							galleryTop.lockSwipes();galleryThumbs.lockSwipes();
+						}
+						UpdateGalleryButtons();
+						galleryTop.params.control = galleryThumbs;galleryThumbs.params.control = galleryTop;
+						galleryTop.unlockSwipes();galleryThumbs.unlockSwipes();
+						galleryTop.attachEvents();galleryThumbs.attachEvents();	
+						var bindex=0,oname="";
+						/* active slide fixup */
+						for(var bindex = 0; bindex < myindex.length; bindex++){
+							jQuery("abbr#time-"+myindex[bindex]).timeago();
+							jQuery("#title-"+myindex[bindex]).slabText({maxFontSize:title_max_font,minCharsPerLine:32,precision:5,viewportBreakpoint:315});
+							jQuery("#excerpt-"+myindex[bindex]).slabText({maxFontSize:excerpt_max_font,minCharsPerLine:48,precision:5,viewportBreakpoint:315});
+							jQuery("#thumb-title-"+myindex[bindex]).slabText({maxFontSize:(0.03*vh),minCharsPerLine:24,precision:5,viewportBreakpoint:315});
+						};
+						if(isinit){ UpdateExcerptOpacity(); }
+						console.log(myslides.length+' slide(s) loaded.');
+					}
+					if(window.mytrans[tindex].hasOwnProperty('done')){window.mytrans[tindex].done(tindex);}
+					if(window.mytrans[tindex].parms.hasOwnProperty('action')){switch(window.mytrans[tindex].parms.action){
+						case 'before':
+							jQuery('.load-button-old .tic-right').css('visibility', 'hidden');
+							jQuery('.load-button-old').removeAttr('data-transaction');
+							break;
+						case 'new':
+						case 'after':
+							jQuery('.load-button-new .tic-right').css('visibility', 'hidden');
+							jQuery('.load-button-new').removeAttr('data-transaction');
+							break;
+					}}
+					delete window.mytrans[tindex];
+					console.log('transaction done');
+				}
+			})
+			.fail( function( jqxhr, textStatus, error ) {
+				var transtime=10000, flash='fail';
+				switch(jqxhr.status){
+					case 0:transtime=2000;flash='retry';break;
+					case 503:transtime=3000;flash='retry';break;
+					case 401:window.mykey="!";transtime=500;flash='warn';break;
+				}
+				if(!window.mytrans.hasOwnProperty(tindex)){reset_loadbutton(myparms.action);return;}
+				if(window.mytrans[tindex].attempt < 3){
+					console.log('load failed, retry..');
+					if(((galleryTop.slides==undefined)||(galleryTop.slides.length<=0))){transtime=1000;window.mytrans[tindex].attempt=0;}
+					if(myparms.hasOwnProperty('action')){retry_loadbutton(myparms.action);}
+					window.mytrans[tindex].timer=window.setTimeout(function(){owLoad(myparms,tindex);},transtime);
+				}else{
+					console.log('load failed, abort.');
+					if(myparms.hasOwnProperty('action')){reset_loadbutton(myparms.action,'fail');}
+					if(window.mytrans[tindex].hasOwnProperty('fail')){window.mytrans[tindex].fail(tindex);}
+					delete window.mytrans[tindex];
+				}
+			})
+			.always( function (){
+			})
+			.complete( function (){
+			});
+			return tindex;
+		}
+		
+		
+		window.mytrans={};window.mytransindex=0;window.mykey="!";
+		var bk_mask =		/* 0 = mask.start, 1 = mask.stop, 2 = image, 3 = url(items.image) */
+						'background-color: rgba({0}); background-image: {3}url({2}); background:'+
+						' -webkit-gradient(linear, left top, right top, from(rgba({1})), to(rgba({0}))), {3}url({2});'+
+						' background: -webkit-linear-gradient(left, rgba({0}), rgba({1})), {3}url({2}); background:'+
+						' -moz-linear-gradient(left center , rgba({0}), rgba({1})), {3}url({2}); background:'+
+						' -ms-linear-gradient(left, rgba({0}), rgba({1})), {3}url({2}); background:'+
+						' -o-linear-gradient(left, rgba({0}), rgba({1})), {3}url({2}); background-repeat:'+
+						' no-repeat; background-position: center center; -webkit-background-size: cover;'+
+						' -moz-background-size: cover; -o-background-size: cover; background-size: cover;',
+			slide_mask =	/* 0 = pid, 1 = bk */
+						'<div data-hash="{0}" class="swiper-slide" style="{1}">{2}</div>',
+			share_mask =	/* 0 = pid, 1 = encoded(items.link), 2 = encoded(items.tweet) */
+						'<div id="share_{0}" class="occu_share" style="display:none;">'+
+						'<ul class="share-buttons">'+
+						'<li class="twitter"><a href="https://twitter.com/intent/tweet?text={2}&source={1}{3}" target="_blank"'+
+						' title="Tweet" onclick="window.open(\''+
+						'https://twitter.com/intent/tweet?text={2}&source={1}{3}\'); return false;">'+
+						'<i class="fa fa-twitter fa-fw fa-2x"></i></a></li>'+
+						'<li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u={1}&t={1}" target="_blank"'+
+						' title="Share on Facebook" onclick="window.open(\''+
+						'https://www.facebook.com/sharer/sharer.php?u={1}&t={1}\'); return false;">'+
+						'<i class="fa fa-facebook fa-fw fa-2x"></i></a></li>'+
+						'<li class="google-plus"><a href="https://plus.google.com/share?url={1}" target="_blank"'+
+						' title="Share on Google+" onclick="window.open(\''+
+						'https://plus.google.com/share?url={1}\'); return false;">'+
+						'<i class="fa fa-google-plus fa-fw fa-2x"></i></a></li>'+
+						'<li class="tumblr"><a href="http://www.tumblr.com/share?v=3&u={1}&t={2}&s=" target="_blank"'+
+						' title="Post to Tumblr" onclick="window.open(\''+
+						'http://www.tumblr.com/share?v=3&u={1}&t={2}\'); return false;">'+
+						'<i class="fa fa-tumblr fa-fw fa-2x"></i></a></li>'+
+						'<li class="pinterest"><a href="http://pinterest.com/pin/create/button/?url={1}&description={2}" target="_blank"'+
+						' title="Pin it" onclick="window.open(\''+
+						'http://pinterest.com/pin/create/button/?url={1}&description={2}\'); return false;">'+
+						'<i class="fa fa-pinterest fa-fw fa-2x"></i></a></li>'+
+						'<li class="reddit"><a href="http://www.reddit.com/submit?url={1}&title={2}" target="_blank"'+
+						' title="Submit to Reddit" onclick="window.open(\''+
+						'http://www.reddit.com/submit?url={1}&title={2}\'); return false;">'+
+						'<i class="fa fa-reddit fa-fw fa-2x"></i></a></li>'+
+						'<li class="linkedin"><a href="http://www.linkedin.com/shareArticle?mini=true&url={1}&title={2}&summary=&source={1}"'+
+						' target="_blank" title="Share on LinkedIn" onclick="window.open(\''+
+						'http://www.linkedin.com/shareArticle?mini=true&url={1}&title={2}\'); return false;">'+
+						'<i class="fa fa-linkedin fa-fw fa-2x"></i></a></li>'+
+						'<li class="wordpress"><a href="http://wordpress.com/press-this.php?u={1}&t={2}&s=" target="_blank"'+
+						' title="Publish on WordPress" onclick="window.open(\''+
+						'http://wordpress.com/press-this.php?u={1}&t={2}\'); return false;">'+
+						'<i class="fa fa-wordpress fa-fw fa-2x"></i></a></li>'+
+						'<li class="envelope"><a href="mailto:?subject={2}&body={1}" target="_blank" title="Email"'+
+						' onclick="window.open(\'mailto:?subject={2}&body={1}\'); return false;">'+
+						'<i class="fa fa-envelope fa-fw fa-2x"></i></a></li>'+
+						'</ul>'+
+						'</div>',
+			media_bttn	=	/* 0 = items.media */
+						'<a href="{0}" title="Play Media"><i class="fa fa-play-circle-o"></i></a>&nbsp;',
+			author_bttn = 	/* 0 = items.author.link, 1 = title (more articles from...) */
+						'<a href="{0}" title="More articles from {1}..."><i class="fa fa-user"></i></a>&nbsp;',
+			action_mask =	/* 0 = pid, 1 = items.link, 2 = items.title, 3 media button, 4 author button */
+						'<div id="action-{0}" class="slide-actions">'+
+						'<a href="{1}" rel="bookmark" title="Visit Article Source: &#13;{2}">'+
+						'<i class="fa fa-external-link-square"></i></a>&nbsp;'+
+						'<i class="fa fa-share-alt-square" style="cursor:pointer;" title=""'+
+						' onclick="var ch=document.getElementById(\'share_{0}\');if(ch.style.display==\'none\')'+
+						'{ch.style.display=\'block\';}else{ch.style.display=\'none\';};return true;"></i>&nbsp;'+
+						'{3}{4}'+
+						'</div>',
+			author_mask =	/* 0 = pid, 1 = items.author.name*/
+						'<span class="by">By</span> <span class="entry-author author" id="author-{0}" itemprop="author" itemscope itemptype="http://schema.org/Person">{1}</span>',
+			entry_mask =	/* 	0 = pid, 1 = items.title, 2 = author_mask, 3 = ''|' indent' (author exists), 
+							4 = items.date, 5 = decoded date, 6 = items.excerpt */
+						'<div id="title-{0}" class="h2 entry-title slabtext" title="{1}">{1}</div>'+
+						'<p class="byline entry-meta vcard">{2}<span class="found">found'+
+						' <abbr class="timeago" id="time-{0}" title="{3}">{4}</abbr>'+
+						'</span></p>'+
+						'<div id="excerpt-{0}" class="excerpt" title="{5}">{5}</div>',
+			thumb_mask =	/* 0 = pid, 1 = bk, 2 = items.title */
+						'<div data-hash="{0}" class="swiper-slide" style="{1}"><div id="thumb-title-{0}" class="thumb-title">{2}</div></div>';
+			
+		function update_keytimer(){window.keytime = Date.now();}
+		function reowLoad(myparms, tindex) { 
+			if(window.mytrans.hasOwnProperty(tindex)) {
+				if(window.mytrans[tindex].hasOwnProperty('timer')){
+					window.clearTimeout(window.mytrans[tindex].timer);
+					delete window.mytrans[tindex].timer;
+				}
+			} else {
+				window.mytrans.tindex = {};
+			}
+			window.mytrans[tindex].timer = window.setTimeout(function(){ owLoad(myparms, tindex); }, 15000);
+		}
+		
+		if (!String.prototype.format) {
+			String.prototype.format = String.prototype.f = function() {
+				var s = this,
+					i = arguments.length;
+				while (i--) {
+					s = s.replace(new RegExp('\\{' + i + '\\}', 'gm'), arguments[i]);
+				}
+				return s;
+			};
+		}
+		function is_int(value){return (!isNaN(value)&&(parseFloat(value)==parseInt(value)))?true:false; }
+		function is_slide(value){jQuery.each(galleryTop.slides, function(key, slide){if(slide.getAttribute('data-hash')==value){return true;}});return false;}
+		function slide_bounds(){var smin,smax;if(galleryTop.slides.length > 0){var hash=galleryTop.slides[0].getAttribute('data-hash');min=hash;max=hash;jQuery.each(galleryTop.slides, function(key, slide){hash=slide.getAttribute('data-hash');max=((hash>max)?hash:max);min=((hash<min)?hash:min);});return {min:min,max:max};}}
+		function urlObject(options) {
+			"use strict";
+			/* 	http://www.thecodeship.com/web-development/javascript-url-object/ 
+				https://gist.github.com/aymanfarhat/5608517
+			*/
+			/*global window, document*/
+			var url_search_arr,
+				option_key,
+				i,
+				urlObj,
+				get_param,
+				key,
+				val,
+				url_query,
+				url_get_params = {},
+				a = document.createElement('a'),
+				default_options = {
+					'url': window.location.href,
+					'unescape': true,
+					'convert_num': true
+				};
+			if (typeof options !== "object") {
+				options = default_options;
+			} else {
+				for (option_key in default_options) {
+					if (default_options.hasOwnProperty(option_key)) {
+						if (options[option_key] === undefined) {
+							options[option_key] = default_options[option_key];
+						}
+					}
+				}
+			}
+			a.href = options.url;
+			url_query = a.search.substring(1);
+			url_search_arr = url_query.split('&');
+			if (url_search_arr[0].length > 1) {
+				for (i = 0; i < url_search_arr.length; i += 1) {
+					get_param = url_search_arr[i].split("=");
+
+					if (options.unescape) {
+						key = decodeURI(get_param[0]);
+						val = decodeURI(get_param[1]);
+					} else {
+						key = get_param[0];
+						val = get_param[1];
+					}
+
+					if (options.convert_num) {
+						if (val.match(/^\d+$/)) {
+							val = parseInt(val, 10);
+						} else if (val.match(/^\d+\.\d+$/)) {
+							val = parseFloat(val);
+						}
+					}
+
+					if (url_get_params[key] === undefined) {
+						url_get_params[key] = val;
+					} else if (typeof url_get_params[key] === "string") {
+						url_get_params[key] = [url_get_params[key], val];
+					} else {
+						url_get_params[key].push(val);
+					}
+
+					get_param = [];
+				}
+			}
+			urlObj = {
+				protocol: a.protocol,
+				hostname: a.hostname,
+				host: a.host,
+				port: a.port,
+				hash: a.hash.substr(1),
+				pathname: a.pathname,
+				search: a.search,
+				parameters: url_get_params
+			};
+			return urlObj;
+		}
+		function icon_flash(icon, type) {
+			var icon=jQuery(icon);
+			switch (type) {
+				case 'retry':icon.css('color','rgba(255,255,255,1)');break;
+				case 'warn':icon.css('color','rgba(255,255,0,1)');break;
+				case 'fail':
+				case 'error':icon.css('color','rgba(255,0,0,1)');break;
+			}
+			icon.animate({color : 'rgba(255,255,255,0.5)'},1000);
+		}
+		function trans_abort() {
+			/* abort all pending transactions */
+			jQuery.each(window.mytrans,  function( index, trans ) {
+				if(trans.hasOwnProperty('timer')){window.clearTimeout(trans.timer);}
+				if((trans.trans.readyState!=4)||(trans.trans.status!=200)){trans.trans.abort();}
+				if(trans.parms.hasOwnProperty('action')){reset_loadbutton(trans.parms.action);}					
+			});			
+			window.mytrans = {};
+			console.log('abort all');
+		}
+		function reset_loadbutton(action){
+			switch(action){
+			case 'before':
+				var name='old';
+				break;
+			case 'new':
+			case 'after':
+				var name='new';
+				break;
+			default: return;
+			}
+			var btn=jQuery('.load-button-'+name+' .tic-right');
+			btn.css('visibility', 'hidden');
+			btn.removeClass('fa-refresh');
+			btn.addClass('fa-circle-o-notch');
+			jQuery('.load-button-'+name).removeAttr('data-transaction');
+			if(typeof(arguments[1])=="string"){
+				icon_flash('.load-button-'+name+' .tic-left',arguments[1]);
+			}
+		}
+		function retry_loadbutton(action){
+			switch(action){
+			case 'before':
+				var name='old';
+				break;
+			case 'new':
+			case 'after':
+				var name='new';
+				break;
+			default: return;
+			}
+			var btn=jQuery('.load-button-'+name+' .tic-right');
+			btn.removeClass('fa-circle-o-notch');
+			btn.addClass('fa-refresh');
+			icon_flash('.load-button-'+name+' .tic-left','retry');
+		}
+		function LoadButtonClick() {
+			console.log('load click');			
+			var lid = this.getAttribute('data-id');
+			if(is_int(lid)){
+				var lact = this.getAttribute('data-action');
+				if(Object.keys(window.mytrans).length>0){trans_abort();}else{owLoad({id : lid, action : lact});}
+			}
+		}
+		function UpdateGalleryButtons() {
+			if (galleryTop.slides.length > 0) {
+				var bounds = slide_bounds();
+				jQuery('.load-button-new').attr('data-id', bounds.max);
+				jQuery('.load-button-old').attr('data-id', bounds.min);
+			}
+			jQuery('.load-button-new').css('display', ((galleryTop.isBeginning)?'inline-block':'none'));
+			jQuery('.swiper-button-prev').css('display', ((galleryTop.isBeginning)?'none':'inline-block'));
+			jQuery('.load-button-old').css('display', ((galleryTop.isEnd)?'inline-block':'none'));
+			jQuery('.swiper-button-next').css('display', ((galleryTop.isEnd)?'none':'inline-block'));		
+		}
+		function InitLoadButtons() {
+			jQuery('.load-button-new').attr('data-action', 'after');
+			jQuery('.load-button-new .tic-right').css('visibility', 'hidden');
+			jQuery('.load-button-old').attr('data-action', 'before');
+			jQuery('.load-button-old .tic-right').css('visibility', 'hidden');
+			jQuery('.load-button-new,.load-button-old').on('click', LoadButtonClick);
+		}
+		function dh() {
+			var db = document.body;
+			var dde = document.documentElement;
+			return Math.max(db.scrollHeight, dde.scrollHeight, db.offsetHeight, dde.offsetHeight, db.clientHeight, dde.clientHeight);
+		}		
+		function UpdateExcerptOpacity() {
+			var hash=galleryTop.slides[galleryTop.activeIndex].getAttribute('data-hash');
+			var e=jQuery('#excerpt-'+hash);var eb=e.offset().top+e.height();
+			var a=jQuery('#action-'+hash);
+			var at=a.offset().top; 
+			e.css('opacity',0);
+			if(eb<at){e.animate({opacity:1},1000);}			
+		}
+		function LoadNew(){
+			if((galleryTop.slides!=undefined)&&(galleryTop.slides.length>0)&&(Object.keys(window.mytrans).length<1)){jQuery('.load-button-new').click()};
+		}
+		function LoadOld(){
+			if((galleryTop.slides!=undefined)&&(galleryTop.slides.length>0)&&(Object.keys(window.mytrans).length<1)){jQuery('.load-button-old').click()};
+		}
+		function InitPage(){
+			update_keytimer();
+			var ThisURL = urlObject();
+			var parms = {};
+			/* determine what is loaded based on URL */
+			/* if( ((ThisURL.search=="?v=o")||(Object.keys(ThisURL.parameters).length <= 0)) &&(is_int(ThisURL.hash))){ */
+			if (typeof ThisURL.parameters.q != 'undefined') { params.q = ThisURL.parameters.q; }
+			else if (is_int(ThisURL.hash)) { parms.id = parseInt(ThisURL.hash); }
+			owLoad(parms);
+			jQuery(window).resize(UpdateExcerptOpacity);
+		}
+
+		jQuery( document ).ready(function() { InitPage(); });
+	
+	</script>	
+
+	</body>
+
+</html> <!-- end of site. what a ride! -->
