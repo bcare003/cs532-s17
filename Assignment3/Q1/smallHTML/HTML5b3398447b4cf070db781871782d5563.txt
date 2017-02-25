@@ -1,0 +1,818 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta charset="utf-8" />
+
+<script src="https://cdn.optimizely.com/js/7441890011.js"></script>
+
+<!-- Google Tag Manager -->
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KRPWBBT');</script>
+<!-- End Google Tag Manager -->
+
+<title>Tickets-Center.com</title>
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="format-detection" content="address=no" />
+<meta name="description" content="Tickets-Center.com" />
+<meta name="keywords" content="&quot;&quot;" />
+
+
+
+<link rel="shortcut icon" type="image/x-icon" href="/Themes/TicketsCenter/Images/Favicon.ico" integrity="" crossorigin="anonymous" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lato:400,900,700" integrity="" crossorigin="anonymous" >
+<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="" crossorigin="anonymous" />
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/bootstrap3-dialog/1.34.9/css/bootstrap-dialog.min.css" integrity="" crossorigin="anonymous" />
+
+
+<link rel="apple-touch-icon" href="/Themes/TicketsCenter/Images/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/Themes/TicketsCenter/Images/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/Themes/TicketsCenter/Images/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="167x167" href="/Themes/TicketsCenter/Images/apple-touch-icon-167x167.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/Themes/TicketsCenter/Images/apple-touch-icon-180x180.png">
+
+<script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-3.1.0.min.js" integrity="" crossorigin="anonymous" ></script>
+<script>
+  // Fall back to loading jQuery from a local path if the CDN is unavailable
+    (window.jQuery || document.write('<script src="/Scripts/jquery-3.1.0.min.js"><\/script>'));
+</script>
+
+<script type="text/javascript" src="//code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/bootstrap.min.js" integrity="" crossorigin="anonymous" ></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/bootstrap3-dialog/1.34.9/js/bootstrap-dialog.min.js" integrity="" crossorigin="anonymous" ></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/react/15.3.2/react.min.js" integrity="" crossorigin="anonymous" ></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/react/15.3.2/react-dom.min.js" integrity="" crossorigin="anonymous" ></script>
+
+
+<script src="/Scripts/jquery.waitUntilExists.js"></script>
+
+<link href="/Themes/Css?v=if3g0Ayfv2di9h-2YpyzqfUL0RxDoDClWwHuqobQrQo1" rel="stylesheet"/>
+
+
+
+<!-- Bing UET -->
+<script>(function (w, d, t, r, u) { var f, n, i; w[u] = w[u] || [], f = function () { var o = { ti: "4042996" }; o.q = w[u], w[u] = new UET(o), w[u].push("pageLoad") }, n = d.createElement(t), n.src = r, n.async = 1, n.onload = n.onreadystatechange = function () { var s = this.readyState; s && s !== "loaded" && s !== "complete" || (f(), n.onload = n.onreadystatechange = null) }, i = d.getElementsByTagName(t)[0], i.parentNode.insertBefore(n, i) })(window, document, "script", "//bat.bing.com/bat.js", "uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=4042996&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
+    
+    
+    <script src="/Scripts/typeahead.bundle.js"></script>
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/bootstrap.daterangepicker/2/daterangepicker.css"/>
+    <link href="/Themes/TicketsCenter/Css/Deferred/Homepage.css" rel="stylesheet"/>
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KRPWBBT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+<div id="SiteHeader">
+    <div class="container-fluid">
+        <div class="row">
+
+            <div class="hidden-xs hidden-sm hidden-md col-lg-1"></div>
+
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10 siteHeaderLogoContainer">
+                
+                <a class="siteHeaderLogo" href="https://tickets-center.com?cid=0&nid=0&wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&vx=0">
+                    <span>Tickets-Center.com</span>
+                </a>
+                
+            </div>
+
+            <div class="hidden-xs hidden-sm hidden-md col-lg-1"></div>
+
+        </div>
+    </div>
+</div>
+
+<div class="container" style="background-color: #000;">
+
+        <div class="row">
+
+            <div class="hidden-xs hidden-sm hidden-md col-lg-1"></div>
+
+            
+            <div id="Billboard" class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
+
+                <div class="container-fluid">
+
+                    
+                    <div class="row" id="SearchFormRow">
+                        <div class="hidden-xs col-sm-1 col-md-2 col-lg-2"></div>
+                        <div class="col-xs-12 col-sm-10 col-md-8 col-lg-8 text-center">
+                            <form method="GET" action="/search" id="HomepageSearchForm">
+                                <div class="input-group">
+                                    <input type="hidden" name="stype" value="0" />
+                                    <input type="text" name="kwds" class="form-control" placeholder="Artist, event, team or venue...">
+                                    <span class="input-group-btn">
+                                        <button type="submit" class="btn btn-mobile btn-default">
+                                            <span class="glyphicon glyphicon-search"></span>
+                                        </button>
+                                        <input class="btn btn-non-mobile btn-default" type="submit" value="Search" />
+                                    </span>
+                                </div>
+                            </form>
+                        </div>
+                        <div class="hidden-xs col-sm-1 col-md-2 col-lg-2"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="hidden-xs hidden-sm hidden-md col-lg-1"></div>
+        </div>
+
+        <div class="row" id="FilterRow">
+
+            
+            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" id="MetroContainer">
+                <div class="dropdown">
+                    <button class="btn dropdown-toggle locationButton" type="button" data-toggle="dropdown">
+                        <i class="glyphicon glyphicon-map-marker"></i>
+                        <span id="MetroAreaSelectorLabel">DC - Washington DC</span>
+                        <b class="caret"></b>
+                    </button>
+                    <ul id="LocationDropdown" class="dropdown-menu scrollable-menu">
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=40&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="40"
+                                       data-man="AZ - Arizona">AZ - Arizona</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=44&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="44"
+                                       data-man="CA - Los Angeles/OC">CA - Los Angeles/OC</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=49&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="49"
+                                       data-man="CA - Sacramento">CA - Sacramento</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=46&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="46"
+                                       data-man="CA - San Diego">CA - San Diego</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=48&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="48"
+                                       data-man="CA - San Francisco">CA - San Francisco</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=58&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="58"
+                                       data-man="CAN - AB - Edmonton">CAN - AB - Edmonton</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=59&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="59"
+                                       data-man="CAN - BC - Vancouver">CAN - BC - Vancouver</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=57&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="57"
+                                       data-man="CAN - MB - Winnipeg">CAN - MB - Winnipeg</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=56&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="56"
+                                       data-man="CAN - ON - Toronto">CAN - ON - Toronto</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=55&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="55"
+                                       data-man="CAN - QC - Montreal">CAN - QC - Montreal</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=37&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="37"
+                                       data-man="CO - Colorado">CO - Colorado</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=6&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="6"
+                                       data-man="DC - Washington DC">DC - Washington DC</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=13&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="13"
+                                       data-man="FL - Jacksonville">FL - Jacksonville</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=15&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="15"
+                                       data-man="FL - Miami">FL - Miami</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=14&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="14"
+                                       data-man="FL - Orlando">FL - Orlando</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=16&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="16"
+                                       data-man="FL - Tampa">FL - Tampa</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=12&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="12"
+                                       data-man="GA - Atlanta">GA - Atlanta</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=50&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="50"
+                                       data-man="HI - Hawaii">HI - Hawaii</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=30&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="30"
+                                       data-man="IA - Iowa">IA - Iowa</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=27&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="27"
+                                       data-man="IL - Chicago">IL - Chicago</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=23&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="23"
+                                       data-man="IN - Indianapolis">IN - Indianapolis</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=29&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="29"
+                                       data-man="KS - Kansas City">KS - Kansas City</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=31&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="31"
+                                       data-man="LA - New Orleans">LA - New Orleans</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=1&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="1"
+                                       data-man="MA - Boston">MA - Boston</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=6&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="6"
+                                       data-man="MD - Baltimore/DC">MD - Baltimore/DC</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=24&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="24"
+                                       data-man="MI - Detroit">MI - Detroit</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=26&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="26"
+                                       data-man="MN - Minnesota">MN - Minnesota</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=29&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="29"
+                                       data-man="MO - Kansas City">MO - Kansas City</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=28&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="28"
+                                       data-man="MO - St. Louis">MO - St. Louis</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=11&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="11"
+                                       data-man="NC - North Carolina">NC - North Carolina</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=30&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="30"
+                                       data-man="NE - Nebraska">NE - Nebraska</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=41&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="41"
+                                       data-man="NM - New Mexico">NM - New Mexico</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=43&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="43"
+                                       data-man="NV - Las Vegas">NV - Las Vegas</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=42&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="42"
+                                       data-man="NV - Reno">NV - Reno</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=2&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="2"
+                                       data-man="NY - New York City">NY - New York City</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=3&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="3"
+                                       data-man="NY - Upstate New York">NY - Upstate New York</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=22&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="22"
+                                       data-man="OH - Cincinnati">OH - Cincinnati</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=21&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="21"
+                                       data-man="OH - Cleveland">OH - Cleveland</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=20&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="20"
+                                       data-man="OH - Columbus">OH - Columbus</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=32&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="32"
+                                       data-man="OK - Oklahoma">OK - Oklahoma</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=51&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="51"
+                                       data-man="OR - Portland">OR - Portland</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=5&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="5"
+                                       data-man="PA - Philadelphia">PA - Philadelphia</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=4&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="4"
+                                       data-man="PA - Pittsburgh">PA - Pittsburgh</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=18&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="18"
+                                       data-man="TN - Memphis">TN - Memphis</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=17&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="17"
+                                       data-man="TN - Nashville">TN - Nashville</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=33&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="33"
+                                       data-man="TX - Dallas">TX - Dallas</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=34&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="34"
+                                       data-man="TX - Houston">TX - Houston</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=35&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="35"
+                                       data-man="TX - San Antonio">TX - San Antonio</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=39&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="39"
+                                       data-man="UT - Salt Lake City">UT - Salt Lake City</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=52&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="52"
+                                       data-man="WA - Seattle">WA - Seattle</a>
+                                </li>
+                            
+                            
+                                <li>
+                                    <a class="metroAreaLink"
+                                       href="/Index?maid=25&amp;cid=0&amp;nid=0&amp;wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&amp;vx=0"
+                                       data-maid="25"
+                                       data-man="WI - Milwaukee">WI - Milwaukee</a>
+                                </li>
+                            
+                    </ul>
+                </div>
+            </div>
+
+            
+            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" id="DateRangeContainer">
+                <div id="DateRangeSelector">
+                    <i class="glyphicon glyphicon-calendar"></i><span>All Dates</span>&nbsp;<b class="caret"></b>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+    <div style="background-color: #fafafa;">
+        <div class="container-fluid" ID="TopEventsRow" style="max-width:1400px;">
+
+            <div class="row">
+                <div class="hidden-xs hidden-sm hidden-md col-lg-1"></div>
+
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" id="TopEventsOuterContainer">
+
+                    <div class="container-fluid" id="TopEventsContainer">
+
+                        
+
+                        <div class="row">
+                            <div class="col-md-4 topEvents-0">
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h3 class="panel-title">Concerts</h3>
+                                    </div>
+                                    <div class="list-group topEvents text-center">
+                                        <img src="/Images/Progress_152.gif" class="topEventProgressImage" alt="" />
+                                        <div class="topEventProgressText">Searching concerts in your area...</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 topEvents-1">
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h3 class="panel-title">Sports</h3>
+                                    </div>
+                                    <div class="list-group topEvents text-center">
+                                        <img src="/Images/Progress_152.gif" class="topEventProgressImage" alt="" />
+                                        <b>Searching sporting events in your area...</b>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 topEvents-2">
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h3 class="panel-title">Shows</h3>
+                                    </div>
+                                    <div class="list-group topEvents text-center">
+                                        <img src="/Images/Progress_152.gif" class="topEventProgressImage" alt="" />
+                                        <b>Searching shows in your area...</b>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </div>
+
+                </div>
+
+                <div class="hidden-xs hidden-sm hidden-md col-lg-1"></div>
+            </div>
+
+        </div>
+    </div>
+    
+    <div class="container-fluid" id="SiteFooterContainer">
+
+    <div class="row">
+
+        <div class="col-md-1 col-lg-2 hidden-xs hidden-sm"></div>
+
+        <div class="col-xs-12 col-sm-12 col-md-10 col-lg-8">
+
+            <div id="SiteFooter">
+
+                <div class="brokerDisclaimer mobile">
+                    We display secondary market tickets.
+Not affiliated with any box office or official website.
+                </div>
+
+                <ul>
+                    <li><a href="/Home/Privacy">Privacy&nbsp;Policy</a></li>
+                    <li><a href="/Home/Contact">Contact&nbsp;Us</a></li>
+                    <li><a href="/Home/About">About&nbsp;Us</a></li>
+                </ul>
+
+            </div>
+
+        </div>
+
+        <div class="col-md-1 col-lg-2 hidden-xs hidden-sm"></div>
+
+    </div>
+
+</div>
+
+    
+    <script type="text/javascript" src="//code.jquery.com/color/jquery.color-2.1.2.min.js"></script>
+    <script type="text/javascript" src="//cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
+    <script type="text/javascript" src="//cdn.jsdelivr.net/bootstrap.daterangepicker/2/daterangepicker.js"></script>
+    
+    <script type="text/javascript" src="/JSX/home.jsx"></script>
+    <script type="text/javascript">
+
+        $(function(metroAreaId, metroAreaName, querystringSuffix) {
+            
+            TopEventsLoader.metroAreaId = metroAreaId;
+            TopEventsLoader.metroAreaName = metroAreaName;
+            TopEventsLoader.querystringSuffix = querystringSuffix;
+
+            var initialized = false;
+            var geolocated = false;
+            var start = moment();
+            var end = moment().add(1, 'years');
+            var isMobile = false;
+
+            
+            function loadMetroArea(metroAreaId, metroAreaName) {
+                
+                $("#MetroAreaSelectorLabel").text(metroAreaName);
+                TopEventsLoader.metroAreaId = metroAreaId;
+                TopEventsLoader.metroAreaName = metroAreaName;
+                TopEventsLoader.showProgressDialog = true;
+                TopEventsLoader.loadTopEvents();
+                $(".dropdown").removeClass("open");
+                return false;
+            }
+
+            
+            $('.metroAreaLink').click(function(e) {
+                e.preventDefault();
+                e.stopPropagation();
+                var maid = $(this).data("maid");
+                var man = $(this).data("man");
+                return loadMetroArea(maid, man);
+            });
+
+            function setDateRangeSelectorLabels(start, end, label) {
+                $('#DateRangeSelector').data("start", start.toDate());
+                $('#DateRangeSelector').data("end", end.toDate());
+                $('#DateRangeSelector').data("label", label);
+            }
+
+            
+            function loadDateRange(start, end, label, reinitialize) {
+
+                
+                if (label === "Custom Range") {
+                    label = start.format("MM/DD/YY") + "-" + end.format("MM/DD/YY");
+                }
+
+                
+                $('#DateRangeSelector span').html(label);
+
+                
+                TopEventsLoader.startDate = start.startOf('day').toDate();
+                TopEventsLoader.endDate = end.startOf('day').toDate();
+                TopEventsLoader.dateRangeLabel = label;
+                TopEventsLoader.showProgressDialog = !reinitialize && initialized;
+                TopEventsLoader.loadTopEvents();
+
+                
+                setDateRangeSelectorLabels(start, end, label);
+
+                initialized = true;
+            }
+            
+            
+            setDateRangeSelectorLabels(start, end, "All Dates");
+
+            
+            
+            $('#DateRangeSelector').daterangepicker({
+                "autoApply": true,
+                "opens": "center",
+                startDate: start,
+                endDate: end,
+                minDate: moment(),
+                maxDate: moment().add(2, 'years'),
+                ranges: {
+                    'All Dates': [moment(), moment().add(1, 'years')],
+                    'Today': [moment(), moment()],
+                    'Tomorrow': [moment().add(1, 'days'), moment().add(1, 'days')],
+                    'This Weekend': [moment().add(1, 'weeks').startOf('week').subtract(2, 'days'), moment().add(1, 'weeks').startOf('week')],
+                    'Next 30 Days': [moment(), moment().add(30, 'days')]
+                }
+            }, loadDateRange);
+            
+            
+            loadDateRange(start, end, "All Dates");
+
+            
+            
+            if (isMobile && navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(
+                    
+                    function(position) {
+                        geolocated = true;
+                        TopEventsLoader.latitude = position.coords.latitude;
+                        TopEventsLoader.longitude = position.coords.longitude;
+                        loadDateRange(start, end, "All Dates", true);
+                    });
+            }
+
+            
+        }(6, "Washington DC/Baltimore", "&cid=0&nid=0&wsVar=0-0+%5brdmclid%7c67f46a47-2460-4190-80ec-cf0df876d154%5d&vx=0")); 
+
+        // Instantiate the Bloodhound suggestion engine
+        var eventProvider = new Bloodhound({
+            datumTokenizer: function(datum) {
+                return Bloodhound.tokenizers.whitespace(datum.value);
+            },
+            queryTokenizer: Bloodhound.tokenizers.whitespace,
+            remote: {
+                wildcard: '%QUERY',
+                url: 'https://webservices.vividseats.com/rest/v2/search-suggestions?query=%QUERY',
+                transform: function(eventList) {
+                    // Map the remote source JSON array to a JavaScript object array
+                    var performerList = $.map(eventList.performerResults,
+                        function(performer) {
+                            return {
+                                value: performer.name
+                            };
+                        });
+                    var venueList = $.map(eventList.venueResults,
+                        function(venue) {
+                            return {
+                                value: venue.name
+                            };
+                        });
+
+                    // Do some work to limit the items to 10, bug in typeahead.js
+                    if (performerList.length + venueList.length > 10) {
+                        var toTrim = (performerList.length + venueList.length) - 10;
+                        performerList.splice(performerList.length - toTrim / 2, (toTrim / 2)+1);
+                        venueList.splice(venueList.length - toTrim / 2, toTrim / 2);
+                    }
+
+                    // JQuery .merge function alters the first list to contain the items from the second.
+                    var result = $.merge( $.merge( [], performerList ), venueList );
+
+                    return result;
+                }
+            }
+        });
+
+        // Instantiate the Typeahead UI
+        $('[name=kwds]')
+            .typeahead(null,
+            {
+                displayKey: 'value',
+                source: eventProvider,
+                limit: 50
+            });
+    </script>
+    <!-- x -->
+
+
+</body>
+</html>

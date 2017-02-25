@@ -1,0 +1,1650 @@
+<!doctype html>
+<html lang="en-US"  class="StencilRoot Answers UHWithTrending  " id="Stencil">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# yahoo-metro: http://ogp.me/ns/fb/yahoo-metro#">
+  <title>Home | Yahoo Answers</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <script>
+    document.documentElement.className += " JsEnabled";
+    document.documentElement.className = document.documentElement.className.replace("NoJs","");
+  </script>
+  <link rel="stylesheet" href="https://s.yimg.com/os/stencil/3.0.1/desktop/styles-ltr.css" /> 
+  <link rel="stylesheet" href="https://s.yimg.com/zz/combo?kx/yucs/uh3s/atomic/88/css/atomic-min.css&amp;kx/yucs/uh_common/meta/3/css/meta-min.css&amp;kx/yucs/uhc/yset-search/138/css/generic_yset_search-min.css&amp;kx/yucs/uh3s/trending-now/53/css/trending_now-min.css&amp;kx/yucs/uh3s/uh/410/css/uh-gs-grid-min.css&tr/v321237/css/gallery-carousel-min.css&tr/v321237/css/yanew-stencil-min.css&tr/v321237/css/stencil-grid-min.css"/>
+  <!--[if lt IE 9]>
+  <style type="text/css">
+    a, a:visited { text-decoration: none}
+  </style>
+  <![endif]-->
+  <script>
+    YUI_config = {
+      base: "https://s.yimg.com/zz",
+      comboBase: "https://s.yimg.com/zz/combo?",
+      root: "yui:3.17.2/build/",
+      combine: true
+    };
+    ANSWERS = {
+      ssl: 1,
+      isDev: 0,
+      si: 0,
+      yi: 0,
+      doneURL: "https://answers.yahoo.com/",
+      joinURL: "/join",
+      loginURL: "https://login.yahoo.com/config/login_verify2?.src=knowsrch&.intl=us&.done=https%3A%2F%2Fanswers.yahoo.com%2F",
+      crumb: "",
+      uploadUrl: "/uploads/media/api/v1/uploads?format=json",
+      locale: "en_US",
+      lang: "en-US",
+      isSuspended: "",
+      spaceid: "396547299",
+      bucket: "NOT_IN_BUCKET",
+      isProdStatic: true,
+      comboPrefix: "tr/v321237",
+      version: "v32752",
+      isStencilEnabled: 1,
+      isStencilUH: 1
+    };
+  </script>
+  <script src="https://s.yimg.com/zz/combo?yui:3.17.2/build/yui/yui-min.js&ss/rapid-3.42.1.js&tr/v321237/js/ya-new-config-min.js"></script>
+  <meta http-equiv="x-ua-compatible" content="IE=11">
+<meta name="keywords" content="yahoo, answers, questions">
+<meta name="experience" content="A3">
+  <noscript>
+    <img src='https://geo.yahoo.com/b?s=396547299&t=1554439984' height='1' width='1' />
+  </noscript>
+</head>
+
+<body class="Bxz-bb Bgc-grey-light" data-ya-js-loaded="false">
+<div id="MasterWrap">
+  <div id="UH-Wrapper" class="Row Pos-a Start-0 T-0 End-0 Z-10" role="banner">
+    <div><style type="text/css">@font-face{font-family:uh;src:url(https://s.yimg.com/os/uh-icons/0.1.16/uh/fonts/uh.eot?);src:url(https://s.yimg.com/os/uh-icons/0.1.16/uh/fonts/uh.eot?#iefix) format('embedded-opentype'),url(https://s.yimg.com/os/uh-icons/0.1.16/uh/fonts/uh.woff2?) format('woff2'),url(https://s.yimg.com/os/uh-icons/0.1.16/uh/fonts/uh.woff?) format('woff'),url(https://s.yimg.com/os/uh-icons/0.1.16/uh/fonts/uh.ttf?) format('truetype'),url(https://s.yimg.com/os/uh-icons/0.1.16/uh/fonts/uh.svg?#uh) format('svg');font-weight:400;font-style:normal}[class^=Ycon],[class*=" Ycon"]{font-family:uh;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}</style><!-- empty --><!-- meta --><div id="yucs-meta" data-authstate="signedout" data-cobrand="standard" data-crumb="" data-mc-crumb="" data-gta="" data-device="desktop" data-experience="stencil-gs-grid" data-firstname="" data-style="" data-flight="1487956955" data-forcecobrand="standard" data-guid="" data-host="answers.yahoo.com" data-https="1" data-languagetag="en-us" data-property="answers" data-protocol="https" data-shortfirstname="" data-shortuserid="" data-status="active" data-spaceid="396547299" data-test_id="" data-userid="" data-stickyheader="true" data-headercollapse="" data-uh-test="acctswitch" ></div><!-- /meta --><div id="yucs-comet" style="display:none;"></div><div id="UH" class="Row Pos(r) Start(0) T(0) End(0) Z(10) yucs " role="banner" data-protocol='https' data-property="answers" data-spaceid="396547299" data-stencil="true"> <style>#yucs-profile {padding-left: 0!important;}
+.yucs-trigger .Icon,
+.yucs-trigger b {
+    line-height: 22px !important;
+    height: 22px !important;
+}
+.yucs-trigger .Icon {
+   font-size: 22px !important;
+}
+.yucs-trigger .AlertBadge,
+.yucs-trigger .MailBadge {
+    line-height: 13px !important;
+    height: 13px !important;
+}
+.yucs-mail_link_att.yucs-property-frontpage #yucs-mail_link_id i.Icon {
+    text-indent: -9999em;
+}
+/* mail badge */
+.AlertBadge,
+.MailBadge {
+    padding: 3px 6px 2px 6px;
+    min-width: 6px;
+    max-width: 16px;
+    margin-left: -13px;
+
+}
+
+/* search box */
+
+#UHSearchBox {
+  border: 1px solid #ceced6 !important;
+  border-radius: 2px;
+  height: 34px;
+  *height: 18px;
+}
+#UHSearchBox:focus {
+border: 1px solid #7590f5 !important;
+  box-shadow: none !important;
+}
+/* buttons */
+#UHSearchWeb, #UHSearchProperty {
+  height: 32px !important;
+  line-height: 34px !important;
+-webkit-appearance: none;
+}
+
+#Stencil #UHSearchWeb,
+#Stencil #UHSearchProperty {
+    height: 30px;
+    box-sizing: content-box;
+    min-width: 92px;
+    padding-left: 14px;
+    padding-right: 14px;
+    *width: 100%;
+
+}
+
+#Stencil .UHCol1{
+z-index: 150;
+}
+
+body {
+margin-top: 0px !important; 
+}
+.DarkTheme .yucs-trigger .Ycon {
+color: #fff;
+}
+#UH[data-property=groups] #uhWrapper {
+max-width: 1210px;
+margin: 0;
+min-width: 995px;
+}
+/*
+#UH[data-property=answers] #uhWrapper {
+max-width: 1260px;
+margin: 0;
+min-width: 1024px;
+}
+*/
+#UH[data-property=groups] .UHCol2{
+border-left: 190px solid transparent;
+padding-right: 335px;
+}
+/*
+#UH[data-property=answers] .UHCol2{
+border-left: 190px solid transparent;
+padding-right: 310px;
+}
+*/
+/*#UH[data-property=answers] .UHCol1,*/
+#UH[data-property=groups] .UHCol1 {
+  width: 190px;
+}</style>  <div id="yucs-disclaimer" class="yucs-disclaimer yucs-activate yucs-hide yucs-property-answers yucs-fcb- " data-cobrand="standard" data-cu = "0" data-dsstext="Want a better search experience? {dssLink}Set your Search to Yahoo{linkEnd}" data-dsstext-mobile="Search Less, Find More" data-dsstext-mobile-ok="OK" data-dsstext-mobile-set-search="Set Search to Yahoo" data-dssstbtext="Yahoo is the preferred search engine for Firefox. Switch now." data-dssstb-ok="Yes" data-dssstb-no="Not Now" data-ylt-link="https://search.yahoo.com/searchset?pn=" data-ylt-dssbarclose="/" data-ylt-dssbaropen="/" data-ylt-dssstb-link="https://downloads.yahoo.com/sp-firefox" data-ylt-dssstbbarclose="/" data-ylt-dssstbbaropen="/" data-ylt-dssCookieCleanedSuccess="/" data-ylt-dssCookieCleanedFailed="/" data-linktarget="_top" data-lang="en-us" data-property="answers" data-device="Desktop" data-close-txt="Close this window" data-maybelater-txt = "Maybe Later" data-killswitch = "0" data-host="answers.yahoo.com" data-spaceid="396547299" data-pn="" data-dss-cookie-cleanup="" data-pn-en-ca-mobile-frontpage="" data-pn-de-de-mobile-frontpage="" data-pn-es-es-mobile-frontpage="" data-pn-fr-fr-mobile-frontpage="" data-pn-en-in-mobile-frontpage="" data-pn-it-it-mobile-frontpage="" data-pn-en-us-mobile-frontpage="" data-pn-en-sg-mobile-frontpage="" data-pn-en-gb-mobile-frontpage="" data-pn-en-us-mobile-mail="" data-pn-en-ca-mobile-mail="" data-pn-de-de-mobile-mail="" data-pn-es-es-mobile-mail="" data-pn-fr-fr-mobile-mail="" data-pn-en-in-mobile-mail="" data-pn-it-it-mobile-mail="" data-pn-en-sg-mobile-mail="" data-pn-en-gb-mobile-mail="" data-pn-pt-br-mobile-mail="" data-pn-en-us-tablet-frontpage="" data-pn-en-us-tablet-mail="" data-pn-en-ca-tablet-mail="" data-pn-de-de-tablet-mail="" data-pn-es-es-tablet-mail="" data-pn-fr-fr-tablet-mail="" data-pn-en-in-tablet-mail="" data-pn-it-it-tablet-mail="" data-pn-en-sg-tablet-mail="" data-pn-en-gb-tablet-mail="" data-pn-pt-br-tablet-mail="" data-news-search-yahoo-com="" data-answers-search-yahoo-com="" data-finance-search-yahoo-com="" data-images-search-yahoo-com="" data-video-search-yahoo-com="" data-sports-search-yahoo-com="" data-shopping-search-yahoo-com="" data-shopping-yahoo-com="" data-us-qa-trunk-news-search-yahoo-com ="" data-dss="0"></div>   <script charset="utf-8" type="text/javascript" src="https://s.yimg.com/zz/kx/yucs/uhc/yset-search/138/js/generic_yset_search-min.js" async></script> <div id="masterNav" class='yucs-ps Bg(#2d1152)' data-ylk="rspns:nav;act:click;t1:a1;t2:uh-d;t3:tb;t5:pty;slk:pty;elm:itm;elmt:pty;itc:0;"><ul id="Eyebrow" class="Mb(12px)! Mx(0)! Mt(0)! Lh(1.7) NavLinks Z(3) H(22px) Pos(r) P(0) Whs(nw)" role="navigation"><li id="yucs-top-home" class="D(ib) Zoom Va(t) Lh(1.7) Mend(18px) Pstart(10px)"><a href="https://www.yahoo.com/" data-ylk="t5:home;slk:home;"class="Td(n)! Td(u)!:h Fz(13px) C(#fff)!"><i id="my-home" class="Fl(start) NavLinks_Lh(1.7) Mend(6px) Ycon YconHome Fz(13px) Mt(-1px) Td(n)! Td(n)!:h C(#fff)!">&#x2302;</i><b class="Mstart(-1px) Fw(400) C(#fff)!">Home</b></a></li><li id="yucs-top-mail" class="D(ib) Zoom Va(t) Lh(1.7) Mend(18px) Pstart(14px)"><a href="https://mail.yahoo.com/?.intl=us&.lang=en-US&.src=ym" data-ylk="t5:mail;slk:mail;"class="Td(n)! Td(u)!:h Fz(13px) C(#fff)!">Mail</a></li><li id="yucs-top-search" class="D(ib) Zoom Va(t) Lh(1.7) Mend(18px) Pstart(14px)"><a href="https://search.yahoo.com/search" data-ylk="t5:search;slk:search;"class="Td(n)! Td(u)!:h Fz(13px) C(#fff)!">Search</a></li><li id="yucs-top-news" class="D(ib) Zoom Va(t) Lh(1.7) Mend(18px) Pstart(14px)"><a href="https://www.yahoo.com/news" data-ylk="t5:news;slk:news;"class="Td(n)! Td(u)!:h Fz(13px) C(#fff)!">News</a></li><li id="yucs-top-sports" class="D(ib) Zoom Va(t) Lh(1.7) Mend(18px) Pstart(14px)"><a href="http://sports.yahoo.com/" data-ylk="t5:sports;slk:sports;"class="Td(n)! Td(u)!:h Fz(13px) C(#fff)!">Sports</a></li><li id="yucs-top-finance" class="D(ib) Zoom Va(t) Lh(1.7) Mend(18px) Pstart(14px)"><a href="http://finance.yahoo.com/" data-ylk="t5:finance;slk:finance;"class="Td(n)! Td(u)!:h Fz(13px) C(#fff)!">Finance</a></li><li id="yucs-top-celebrity" class="D(ib) Zoom Va(t) Lh(1.7) Mend(18px) Pstart(14px)"><a href="https://celebrity.yahoo.com/" data-ylk="t5:celebrity;slk:celebrity;"class="Td(n)! Td(u)!:h Fz(13px) C(#fff)!">Celebrity</a></li><li id="yucs-top-weather" class="D(ib) Zoom Va(t) Lh(1.7) Mend(18px) Pstart(14px)"><a href="https://www.yahoo.com/news/weather" data-ylk="t5:weather;slk:weather;"class="Td(n)! Td(u)!:h Fz(13px) C(#fff)!">Weather</a></li><li id="yucs-top-answers" class="D(ib) Zoom Va(t) Lh(1.7) Mend(18px) Pstart(14px)"><a href="https://answers.yahoo.com/" data-ylk="t5:answers;slk:answers;"class="Td(n)! Td(u)!:h Fz(13px) C(#fff)!">Answers</a></li><li id="yucs-top-flickr" class="D(ib) Zoom Va(t) Lh(1.7) Mend(18px) Pstart(14px)"><a href="https://www.flickr.com/" data-ylk="t5:flickr;slk:flickr;"class="Td(n)! Td(u)!:h Fz(13px) C(#fff)!">Flickr</a></li><li id="yucs-top-mobile" class="D(ib) Zoom Va(t) Lh(1.7) Mend(18px) Pstart(14px)"><a href="https://mobile.yahoo.com/" data-ylk="t5:mobile;slk:mobile;"class="Td(n)! Td(u)!:h Fz(13px) C(#fff)!">Mobile</a></li><li id='yucs-more' class='D(ib) Zoom Va(t) Pos(r) Z(1) Pstart(10px) Pend(6px) MoreDropDown yucs-menu yucs-more-activate' data-ylt=""><a href="http://everything.yahoo.com/" role="button" id='yucs-more-link' class='Pos(r) Z(1) rapidnofollow D(b) Cf P(0)!' data-ylk="rspns:op;t5:more;slk:more;elmt:mu;itc:1;"><b class="Fl(start) Lh(1.7) Td(u):h MoreDropDown_C(#fff) MoreDropDown-on_C(#1d1da3)!">More</b><i class="Fz(15px) Va(m) Lh(1) C(#fff) Mstart(2px) Ycon YconArrowDown Ta(c) Td(n) Td(n):h Fl(end) Mt(4px) MoreDropDown-on_C(#1d1da3)!">&#x22c1;</i></a><div id='yucs-top-menu'><div class="Pos(a) Start(0) T(100%) MoreDropDown-Box Bdbc(#d9d9d9) Bdbs(s) Bdbw(1px) Miw(6em) Mstart(-1px) Bg(#fff) Bdstartc(#d9d9d9) Bdstarts(s) Bdstartw(1px) Bdendc(#d9d9d9) Bdends(s) Bdendw(1px) Bxsh(moresh) D(n) yui3-menu-content"><iframe frameborder="0" class="Pos(a) Start(0) W(100%) H(100%) Bd(0)" src="https://s.yimg.com/os/mit/media/m/base/images/transparent-95031.png"></iframe><ul class="yucs-leavable Pos(r) Px(10px)! My(.55em)"><li id="yucs-top-politics" ><a href="https://www.yahoo.com/politics" data-ylk="t5:politics;slk:politics;"class="Td(n)! Td(u)!:h Fz(13px) D(b) Zoom Py(6px) Lh(1.25) C(#1d1da3)!">Politics</a></li><li id="yucs-top-movies" ><a href="https://www.yahoo.com/movies" data-ylk="t5:movies;slk:movies;"class="Td(n)! Td(u)!:h Fz(13px) D(b) Zoom Py(6px) Lh(1.25) C(#1d1da3)!">Movies</a></li><li id="yucs-top-music" ><a href="https://www.yahoo.com/music" data-ylk="t5:music;slk:music;"class="Td(n)! Td(u)!:h Fz(13px) D(b) Zoom Py(6px) Lh(1.25) C(#1d1da3)!">Music</a></li><li id="yucs-top-tv" ><a href="https://www.yahoo.com/tv" data-ylk="t5:tv;slk:tv;"class="Td(n)! Td(u)!:h Fz(13px) D(b) Zoom Py(6px) Lh(1.25) C(#1d1da3)!">TV</a></li><li id="yucs-top-groups" ><a href="https://groups.yahoo.com/" data-ylk="t5:groups;slk:groups;"class="Td(n)! Td(u)!:h Fz(13px) D(b) Zoom Py(6px) Lh(1.25) C(#1d1da3)!">Groups</a></li><li id="yucs-top-style" ><a href="https://www.yahoo.com/style" data-ylk="t5:style;slk:style;"class="Td(n)! Td(u)!:h Fz(13px) D(b) Zoom Py(6px) Lh(1.25) C(#1d1da3)!">Style</a></li><li id="yucs-top-beauty" ><a href="https://www.yahoo.com/beauty" data-ylk="t5:beauty;slk:beauty;"class="Td(n)! Td(u)!:h Fz(13px) D(b) Zoom Py(6px) Lh(1.25) C(#1d1da3)!">Beauty</a></li><li id="yucs-top-tech" ><a href="https://www.yahoo.com/tech" data-ylk="t5:tech;slk:tech;"class="Td(n)! Td(u)!:h Fz(13px) D(b) Zoom Py(6px) Lh(1.25) C(#1d1da3)!">Tech</a></li><li id="yucs-top-shopping" ><a href="http://shopping.yahoo.com/" data-ylk="t5:shopping;slk:shopping;"class="Td(n)! Td(u)!:h Fz(13px) D(b) Zoom Py(6px) Lh(1.25) C(#1d1da3)!">Shopping</a></li></ul></div></div></li><style>#yucs-top-ff-promo { position:absolute; right:0; right:auto\9; left:950px\9; right:0\9\0; left:auto\9\0; margin-left:18px;}#yucs-top-ff-promo a span { text-decoration: none; display: inline-block;}@media screen and (max-width: 1124px) { #UH.yucs-mail #yucs-top-ff-promo { display:none; }}@media screen and (max-width:1150px) { #yucs-top-ff-promo { right:auto; }}</style><li id='yucs-top-ff-promo' class="D(ib) Zoom Va(t) Mend(18px) Pstart(14px) D(n)"><a class="D(b) C(#fff)! Pstart(4px) Td(n)! Td(u)!:h Fz(13px)" href="https://www.mozilla.org/firefox/new/?utm_source=yahoo&utm_medium=referral&utm_campaign=y-uh&utm_content=y-install-new-firefox" data-ylk="t5:ff-promo;slk:ff-promo;t4:pty-mu;" target="_blank"><img id="yucs-ff-img" class="Pend(4px) yucs_Va(m)" src='https://s.yimg.com/kx/yucs/uh3s/promo-ff/1/images/ff_icon-compressed.png' width="15" height="15" alt="Firefox" />Install the new Firefox<span>&nbsp;&raquo;</span></a></li><script> var s = false, ts,re2,sdts,v2= null, cookies = "; " + document.cookie, dss = cookies.split("; DSS="), m, ua = window.navigator.userAgent.toLowerCase(); m = ua.match(/firefox\/(\d+)/); if (!m || (m && m[1] && parseInt(m[1]) < 34)) { if (ua.indexOf('version') >= 0 && ua.indexOf('crios') < 0) { s = true; } if (!!window.opera || navigator.userAgent.indexOf(' OPR/') >= 0) { s = true; } if (dss && dss.length === 2) { re2 = new RegExp('sdts=(\\d+)'); v2 = re2.exec(dss[1]); if (v2 && v2.length === 2) { sdts = v2[1]; } if (sdts && (parseInt(new Date().getTime()/1000) - sdts) < 604800) { s = true; } } if (!s) { m = document.getElementById('yucs-top-ff-promo'); m.className = m.className.replace(/D\(n\)/g,''); } }</script></ul></div> <div id="uhWrapper" class="Mx(a) Z(1) Pos(r) Zoom" data-ylk="rspns:nav;act:click;t1:a1;t2:uh-d;itc:0;"> <div class="UHCol1 Pos(a) Start(0)" role="presentation"> <style>/** * IE7+ and non-retina display */.YLogoMY { background-repeat: no-repeat; background-image: url(https://s.yimg.com/rz/d/yahoo_answers_en-US_s_f_pw_351x40_answers.png); _background-image: url(https://s.yimg.com/rz/d/yahoo_answers_en-US_s_f_pw_351x40_answers.gif); /* IE6 */ width: 92px !important; }.DarkTheme .YLogoMY { background-position: -351px 0px !important;}/** * For 'retina' display */@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and ( min--moz-device-pixel-ratio: 2), only screen and ( -o-min-device-pixel-ratio: 2/1), only screen and ( min-device-pixel-ratio: 2), only screen and ( min-resolution: 192dpi), only screen and ( min-resolution: 2dppx) { .YLogoMY { background-image: url(https://s.yimg.com/rz/d/yahoo_answers_en-US_s_f_pw_351x40_answers_2x.png) !important; background-size: 702px 40px !important; }}</style><a class="YLogoMY D(b) Ov(h) Ti(-20em) Zoom Darktheme_Bgp(b_t) W(137px) H(34px) Mx(a)! " data-ylk="slk:logo;t3:logo;t5:logo;elm:img;elmt:logo;" href="https://answers.yahoo.com" target="_top" >Yahoo Answers</a> </div> <div class="UHCol2 Pos(a) Bxz(bb)" role="presentation"> <form id="UHSearch" target="_top" autocomplete="off" data-vfr="uh3_answers_vert_gs"data-webaction="https://search.yahoo.com/search" action="https://answers.yahoo.com/search/search_result" data-webaction-tar="search.yahoo.com" data-verticalaction-tar="answers.yahoo.com"  method="get"class="M(0) P(0) UHSearch-Init"><table class="W(100%) M(0)! P(0) H(100%)"> <tbody> <tr> <td class='W(100%) W-100 Va(t) Px(0)'><input id="UHSearchBox" type="text" class="yucs_W(100%) Ff(ss)! Fz(18px)! O(n):f Fw(200)! Bxz(bb) M(0)! Py(4px)! Bdrs(0)! Bxsh(n) yucs-clear-padding_Pend(35px)" style="border-color:#7590f5;" name="p" aria-describedby="UHSearchBox" data-ylk="slk:srchinpt-hddn;itc:1;" data-yltvsearch="https://answers.yahoo.com/search/search_result" data-yltvsearchsugg="/" data-satype="" data-gosurl="" data-pubid="" data-appid="" data-maxresults="10" data-resize=" "> <div id="yucs-satray" class="sa-tray D(n) Fz(13px) uhFancyBox Bg(#fff) Bd(ttbd) Bxsh(ttsh) Bdrs(3px) Bdrstend(0) Bdrststart(0) Lh(1.5) C(#000) Td(n) Td(n):h" data-wstext="Search Web for: " data-wsearch="https://search.yahoo.com/search" data-vfr="uh3_answers_vert_gs" data-vsearch="https://answers.yahoo.com/search/search_result" data-vstext= "Search News for: " > </div></td> <!-- ".Grid' is used here to kill white-space -->   <td class="Va(t) Tren(os) W(10%) Whs(nw) Pstart(4px) Pend(0) Bdcl(s)"><style type="text/css">#UH #UHSearchWeb { font-size:13px !important; border-radius:3px!important;}#UHSearchWeb, #UHSearchProperty{ height: 30px; min-width: 120px;} .ua-ie8 #UHSearchWeb, .ua-ie8 #UHSearchProperty, .ua-ie9 #UHSearchWeb, .ua-ie9 #UHSearchProperty{ height: 32px; min-width: 120px;}#UHSearchProperty, .Themable .ThemeReset #UHSearchProperty { background: #400090 !important; border: 0 !important; box-shadow: 0 2px #190130 !important;}</style><input id="UHSearchProperty" class="D(ib) Fz(13px) Zoom Va(t) uhBtn Ff(ss) Fw(40) Bxz(bb) Td(n) D(ib) Zoom Va(m) Ta(c) Bgr(rx) Bdrs(3px) Bdw(1px) M(0)! C(#fff) Cur(p)" type="submit" data-vfr="uh3_answers_vert_gs"data-vsearch="https://answers.yahoo.com/search/search_result"value="Search Answers" data-ylk="t3:srch;t5:srchvert;slk:srchvert;elm:btn;elmt:srch;tar:answers.yahoo.com;"></td> <td class="Va(t) Tren(os) W(10%) Whs(nw) fp-default_Pstart(5px) Pstart(4px) Pend(0) Bdcl(s)"><input id="UHSearchWeb" class="D(ib) Py(0) Zoom Va(t) uhBtn Ff(ss)! Fw(40) Bxz(bb) Td(n) D(ib) Zoom Va(m) Ta(c) Bgr(rx) Bdrs(3px) Bdw(1px) M(0)! C(#fff) uh-ignore-rapid Cur(p)" type="submit" value="Search Web" data-ylk="t3:srch;t5:srchweb;slk:srchweb;elm:btn;elmt:srch;itc=0;tar:search.yahoo.com;"></td> <style type="text/css"> #UHSearchWeb { font-size:15px !important; border-radius:4px!important; } #UHSearchWeb, #UHSearchProperty{ height: 30px; } .ua-ie8 #UHSearchWeb, .ua-ie8 #UHSearchProperty, .ua-ie9 #UHSearchWeb, .ua-ie9 #UHSearchProperty{ height: 32px; } #UHSearchWeb, .Themable .ThemeReset #UHSearchWeb { background: #3775dd; border: 0; box-shadow: 0 2px #21487f; } </style>  </tr> </tbody> </table>  <input type="hidden" data-sa="0" id="fr" name="fr" data-ylk="slk:frcode-hddn;itc:1;" value="uh3_answers_web_gs" />    </form> <!-- /#uhSearchForm --><div id="yucs-trending-now" class="Ov(h) Fw(b) Fz(11px) Mt(6px) Op(0)" style="height: 15px; line-height: 14px;" data-fr-code="answers-tts-thg" data-fr2-code="p:ans,m:tn,ct:gift,pg:1,stl:tckr" data-yql-env="" data-title-override="Trending"data-hsimp="" data-hspart="" data-type=""></div> </div> <div class="UHCol3 Pos(a) End(0)" role="presentation" id="uhNavWrapper">  <ul class="Fl(end) Mend(10px)! My(6px)! Lts(-0.31em) Tren(os) Whs(nw)"> <li class="D(ib) Zoom Va(t) Pos(r) Pstart(4px) Mend(20px) Lts(n)" id="yucs-profile" data-yltmenushown="/"> <a class="D(b) MouseOver Td(n) Td(n)!:h signin yucs-trigger Lh(1) Lts($ws)" href="https://login.yahoo.com/config/login?.src=knowsrch&.intl=us&.lang=en-US&.done=https://answers.yahoo.com/" target="_top" rel="nofollow" aria-label="Profile" aria-haspopup="true" role="button" data-ylk="t3:tl-lst;t5:usersigni;slk:usersigni;elm:tl;elmt:lgi;"> <i class="Va(m) W(a) yucs-avatar Ycon YconProfile Fz(22px) Lh(1) C(#32007f) Mend(7px) Lts(n)">&#x1f464;</i> <b class="Va(m) yucs-trigger:h_Td(u) Lts(n) Fz(13px)" title="Sign in">Sign in</b></a> </li> <li class="D(ib) Zoom Va(t) Mend(20px) Pos(r) yucs-mail_link yucs-mailpreview-ancestor" id="yucs-mail"> <a id="yucs-mail_link_id" class="D(ib) sp yltasis yucs-fc Pos(r) MouseOver Td(n) Td(n)!:h yucs-menu-link yucs-trigger Lh(1) Lts($ws) Mx(-10px) My(-10px) Px(10px) Py(10px)" href="https://mail.yahoo.com/?.intl=us&.lang=en-US&.src=ym" data-ylk="t3:tl-lst;t5:mailsignost;slk:mailsignost;elm:tl;elmt:mail;">  <i class="Va(m) W(a) Mend(7px) Ycon YconMail Lh(1) Fz(22px) Lts(n)">&#x2709;</i> <b class="Va(m) yucs-trigger:h_Td(u) Lts(n) Fz(13px)" title="Mail">Mail</b> </a> </li> <li id="yucs-help" class=" yucs-activate yucs-help yucs-menu_nav D(ib) Zoom Va(t) Pos(r)"> <a id="yucs-help_button" class="D(ib) yltasis yucs-trigger Lh(1) Td(n) Td(n):h" href="#" title="Help" aria-haspopup="true" role="button" data-ylk="rspns:op;t3:tl-lst;t4:cog-mu;t5:cogop;slk:cogop;elm:tl;elmt:cog;itc:1;"> <i class="Va(m) W(a)! Fz(22px) Ycon YconSettings C(#32007f) Lts(n) M(-10px) P(10px)">&#x2699;</i> <b class="Hidden">Help</b> </a> <div id="yucs-help_inner" class="uhFancyBox Bg(#fff) Bd(ttbd) Bxsh(ttsh) Bdrs(3px) uhArrow Mt(10px) Px(10px) Pos(a) Lh(1.4) End(0) Mend(-8px) Whs(nw) D(n) yucs-menu yucs-hm-activate" data-yltmenushown="/" aria-hidden="true"> <ul id="yuhead-help-panel" class="Mx(-10px)! Pos(r) My(0)! P(0) C(#000)!"> <li class="Py(8px) Px(10px)"><a class="yucs-acct-link Td(n)! Td(u)!:h D(b) C(#000)!" href="https://login.yahoo.com/account/personalinfo?.intl=us&.lang=en-US&.done=https://answers.yahoo.com/&amp;.src=knowsrch" target="_top" data-ylk="t3:tl-lst;t4:cog-mu;t5:acctinfo;slk:acctinfo;elm:itm;elmt:acctinfo;">Account Info</a></li> <li class="Pb(8px) Px(10px)"><a id="yhelp-link" data-inproducthelp="answers" class="D(b) C(#000)! Td(n)! Td(u)!:h Fz(13px)" href="https://help.yahoo.com/l/us/yahoo/answers/" rel="nofollow" data-ylk="t3:tl-lst;t4:cog-mu;t5:hlp;slk:hlp;elm:itm;elmt:hlp;">Help</a></li>  <li class="Px(10px) Py(8px) Bdw(0) Bdtw(1px) Bds(s) Bdc(#e2e2e6)"><a class="D(b) C(#000)! Td(n)! Td(u)!:h Fz(13px)" href="http://suggestions.yahoo.com/?prop=answers" rel="nofollow" data-ylk="t3:tl-lst;t4:cog-mu;t5:sggstn;slk:sggstn;elm:itm;elmt:sggstn;">Suggestions</a></li> <li class="Px(10px) Pb-8"><a href="http://yahoo.uservoice.com/forums/211240"rel="nofollow" data-ylk="t3:tl-lst;t4:cog-mu;t5:feedbk;slk:feedbk;elm:itm;elmt:feedbk;" class="Td(n)! Td(u)!:h C(#000)! Fz(13px)">Send Feedback</a></li>  </ul> </div></li>  </ul> </div> </div> <div id="yhelp_container" class="yui3-skin-sam"> </div><!-- /#UH --></div><style>#Stencil body{padding-top: 85px;}#UH {position: fixed; width:100%;top:0;}</style><script charset="utf-8" type="text/javascript" src="https://s.yimg.com/zz/combo?kx/yucs/uh3s/uh/376/js/contentloaded-min.js&kx/yucs/uh3s/uh/445/js/scroll-handler-min.js" async></script><div style="display:none;" data-uh-test=""></div><!-- alert --><!-- /alert --><script charset='utf-8' type='text/javascript' src='https://s.yimg.com/aj/lh-0.9.js'></script><script type='text/javascript'>LH.init({uuid:'', spaceid:'396547299', serverip:'', pvid:'', crumb:''});</script><!-- polyfills --><!-- /polyfills -->  </div>
+  </div>
+  <div class="Answers ">
+    <div id='ya-left-rail' class='Col1 Pos-a Start-0 Z-9 Stack'>
+      <div class="ya-left-rail-sticker" data-plugin="sticker">
+              <div id="ya-left-nav" class="Row">
+  <div id='ya-identity' data-ya-mod='usridn' data-ya-track='1' role="navigation">
+  <ul class="none Fw-400 My-0">
+ <li class="Mb-7 ya-home-link" data-spaceid="396547299">
+     <h1 class="D-ib"><a href="/" class=" Mstart-3 selected Fw-b D-ib" title="Answers Home" data-ylk="slk:home">Answers Home</a></h1>
+ </li>
+  </ul>
+  </div>
+  
+   <div class="Hpx-13"></div> 
+  <div id="ya-pinned-cat" class="Mb-30 D-n" aria-hidden="true" data-ya-track="1" data-ya-mod="pinnav" role="navigation">
+    <ul id="ya-pinned-cat-list">
+    </ul>
+  </div>
+  <div id="ya-cat-all" data-ya-mod='catnav' data-ya-track='1' role="navigation">
+    <ul class="none Fw-400 My-0">
+ <li class="Mb-7 ya-cat-link" data-spaceid="1182000286">
+     <a href="/dir/index" class=" Mstart-3 unselected D-ib" title="All Categories" data-ylk="slk:cat;cid:0">All Categories</a>
+ </li> <li class="Mb-7 ya-cat-link" data-spaceid="1182000291">
+     <a href="/dir/index?sid=396545012" class=" Mstart-3 unselected D-ib" title="Arts &amp; Humanities" data-ylk="slk:cat;cid:396545012">Arts &amp; Humanities</a>
+ </li> <li class="Mb-7 ya-cat-link" data-spaceid="1182000305">
+     <a href="/dir/index?sid=396545144" class=" Mstart-3 unselected D-ib" title="Beauty &amp; Style" data-ylk="slk:cat;cid:396545144">Beauty &amp; Style</a>
+ </li> <li class="Mb-7 ya-cat-link" data-spaceid="1182000326">
+     <a href="/dir/index?sid=396545013" class=" Mstart-3 unselected D-ib" title="Business &amp; Finance" data-ylk="slk:cat;cid:396545013">Business &amp; Finance</a>
+ </li> <li class="Mb-7 ya-cat-link" data-spaceid="1182000404">
+     <a href="/dir/index?sid=396545311" class=" Mstart-3 unselected D-ib" title="Cars &amp; Transportation" data-ylk="slk:cat;cid:396545311">Cars &amp; Transportation</a>
+ </li> <li class="Mb-7 ya-cat-link" data-spaceid="1182000420">
+     <a href="/dir/index?sid=396545660" class=" Mstart-3 unselected D-ib" title="Computers &amp; Internet" data-ylk="slk:cat;cid:396545660">Computers &amp; Internet</a>
+ </li> <li class="Mb-7 ya-cat-link" data-spaceid="1182000444">
+     <a href="/dir/index?sid=396545014" class=" Mstart-3 unselected D-ib" title="Consumer Electronics" data-ylk="slk:cat;cid:396545014">Consumer Electronics</a>
+ </li> <li class="Mb-7 ya-cat-link" data-spaceid="1182000553">
+     <a href="/dir/index?sid=396545327" class=" Mstart-3 unselected D-ib" title="Dining Out" data-ylk="slk:cat;cid:396545327">Dining Out</a>
+ </li> <li class="Mb-7 ya-cat-link" data-spaceid="1182000854">
+     <a href="/dir/index?sid=396545015" class=" Mstart-3 unselected D-ib" title="Education &amp; Reference" data-ylk="slk:cat;cid:396545015">Education &amp; Reference</a>
+ </li> <li class="Mb-7 ya-cat-link" data-spaceid="1182000868">
+     <a href="/dir/index?sid=396545016" class=" Mstart-3 unselected D-ib" title="Entertainment &amp; Music" data-ylk="slk:cat;cid:396545016">Entertainment &amp; Music</a>
+ </li> <li class="Mb-7 ya-cat-link" data-spaceid="1182000897">
+     <a href="/dir/index?sid=396545451" class=" Mstart-3 unselected D-ib" title="Environment" data-ylk="slk:cat;cid:396545451">Environment</a>
+ </li> <li class="Mb-7 ya-cat-link" data-spaceid="1182000902">
+     <a href="/dir/index?sid=396545433" class=" Mstart-3 unselected D-ib" title="Family &amp; Relationships" data-ylk="slk:cat;cid:396545433">Family &amp; Relationships</a>
+ </li> <li class="Mb-7 ya-cat-link" data-spaceid="1182000910">
+     <a href="/dir/index?sid=396545367" class=" Mstart-3 unselected D-ib" title="Food &amp; Drink" data-ylk="slk:cat;cid:396545367">Food &amp; Drink</a>
+ </li> <li class="Mb-7 ya-cat-link" data-spaceid="1182000919">
+     <a href="/dir/index?sid=396545019" class=" Mstart-3 unselected D-ib" title="Games &amp; Recreation" data-ylk="slk:cat;cid:396545019">Games &amp; Recreation</a>
+ </li> <li class="Mb-7 ya-cat-link" data-spaceid="1182000941">
+     <a href="/dir/index?sid=396545018" class=" Mstart-3 unselected D-ib" title="Health" data-ylk="slk:cat;cid:396545018">Health</a>
+ </li> <li class="Mb-7 ya-cat-link" data-spaceid="1182000951">
+     <a href="/dir/index?sid=396545394" class=" Mstart-3 unselected D-ib" title="Home &amp; Garden" data-ylk="slk:cat;cid:396545394">Home &amp; Garden</a>
+ </li> <li class="Mb-7 ya-cat-link" data-spaceid="1182600062">
+     <a href="/dir/index?sid=396545401" class=" Mstart-3 unselected D-ib" title="Local Businesses" data-ylk="slk:cat;cid:396545401">Local Businesses</a>
+ </li> <li class="Mb-7 ya-cat-link" data-spaceid="1182600341">
+     <a href="/dir/index?sid=396545439" class=" Mstart-3 unselected D-ib" title="News &amp; Events" data-ylk="slk:cat;cid:396545439">News &amp; Events</a>
+ </li> <li class="Mb-7 ya-cat-link" data-spaceid="1182600349">
+     <a href="/dir/index?sid=396545443" class=" Mstart-3 unselected D-ib" title="Pets" data-ylk="slk:cat;cid:396545443">Pets</a>
+ </li> <li class="Mb-7 ya-cat-link" data-spaceid="1182600357">
+     <a href="/dir/index?sid=396545444" class=" Mstart-3 unselected D-ib" title="Politics &amp; Government" data-ylk="slk:cat;cid:396545444">Politics &amp; Government</a>
+ </li> <li class="Mb-7 ya-cat-link" data-spaceid="1182600369">
+     <a href="/dir/index?sid=396546046" class=" Mstart-3 unselected D-ib" title="Pregnancy &amp; Parenting" data-ylk="slk:cat;cid:396546046">Pregnancy &amp; Parenting</a>
+ </li> <li class="Mb-7 ya-cat-link" data-spaceid="1182600388">
+     <a href="/dir/index?sid=396545122" class=" Mstart-3 unselected D-ib" title="Science &amp; Mathematics" data-ylk="slk:cat;cid:396545122">Science &amp; Mathematics</a>
+ </li> <li class="Mb-7 ya-cat-link" data-spaceid="1182600398">
+     <a href="/dir/index?sid=396545301" class=" Mstart-3 unselected D-ib" title="Social Science" data-ylk="slk:cat;cid:396545301">Social Science</a>
+ </li> <li class="Mb-7 ya-cat-link" data-spaceid="1182600428">
+     <a href="/dir/index?sid=396545454" class=" Mstart-3 unselected D-ib" title="Society &amp; Culture" data-ylk="slk:cat;cid:396545454">Society &amp; Culture</a>
+ </li> <li class="Mb-7 ya-cat-link" data-spaceid="1182600471">
+     <a href="/dir/index?sid=396545213" class=" Mstart-3 unselected D-ib" title="Sports" data-ylk="slk:cat;cid:396545213">Sports</a>
+ </li> <li class="Mb-7 ya-cat-link" data-spaceid="1182600683">
+     <a href="/dir/index?sid=396545469" class=" Mstart-3 unselected D-ib" title="Travel" data-ylk="slk:cat;cid:396545469">Travel</a>
+ </li> <li class="Mb-7 ya-cat-link" data-spaceid="1182600898">
+     <a href="/dir/index?sid=396546089" class=" Mstart-3 unselected D-ib" title="Yahoo Products" data-ylk="slk:cat;cid:396546089">Yahoo Products</a>
+ </li>    </ul>
+  </div>
+  <div class="Hpx-20"></div>
+  <ul class="none Fw-400 My-0 Fz-12">
+    <li id="ya-intl-link" data-ya-mod='intlnav' data-ya-track='1'>
+      <div class="unselected Cur-p Clr-1d" data-flyout-class="fly-intl" data-flyout-src="true">
+        <span class="Hpx-20 Pb-2 Va-tb D-ib link">International</span>
+        <i class="shared-sprite rightbeak Hpx-20 Wpx-20 D-ib"></i>
+      </div>
+      <i class="fly-intl flyout Z-110 L-119 Hpx-20 Wpx-20 Pos-a shared-sprite leftbeak D-n"></i>
+      <div data-flyout-y="100" id="ya-intl-flyout" class="fly-intl flyout L-130 Bdx-1s D-n Pos-a Bgc-w Px-20 Pt-20 Pb-10 Z-110 Whs-nw">
+        <ul class="none Fl-start">
+          <li class="Mb-10">
+            <a href="https://ar.answers.yahoo.com/" hreflang="es-ar" class="D-ib Td-n">
+              <i class="shared-sprite ar rightbeak Hpx-20 Wpx-20 D-ib"></i>
+              <span class="Hpx-20 Pb-2 Va-tb D-ib link">Argentina</span>
+            </a>
+          </li>
+          <li class="Mb-10">
+            <a href="https://au.answers.yahoo.com/" hreflang="en-au" class="D-ib Td-n">
+              <i class="shared-sprite au rightbeak Hpx-20 Wpx-20 D-ib"></i>
+              <span class="Hpx-20 Pb-2 Va-tb D-ib link">Australia</span>
+            </a>
+          </li>
+          <li class="Mb-10">
+            <a href="https://br.answers.yahoo.com/" hreflang="pt-br" class="D-ib Td-n">
+              <i class="shared-sprite br rightbeak Hpx-20 Wpx-20 D-ib"></i>
+              <span class="Hpx-20 Pb-2 Va-tb D-ib link">Brazil</span>
+            </a>
+          </li>
+          <li class="Mb-10">
+            <a href="https://ca.answers.yahoo.com/" hreflang="en-ca" class="D-ib Td-n">
+              <i class="shared-sprite ca rightbeak Hpx-20 Wpx-20 D-ib"></i>
+              <span class="Hpx-20 Pb-2 Va-tb D-ib link">Canada</span>
+            </a>
+          </li>
+          <li class="Mb-10">
+            <a href="https://fr.answers.yahoo.com/" hreflang="fr" class="D-ib Td-n">
+              <i class="shared-sprite fr rightbeak Hpx-20 Wpx-20 D-ib"></i>
+              <span class="Hpx-20 Pb-2 Va-tb D-ib link">France</span>
+            </a>
+          </li>
+          <li class="Mb-10">
+            <a href="https://de.answers.yahoo.com/" hreflang="de" class="D-ib Td-n">
+              <i class="shared-sprite de rightbeak Hpx-20 Wpx-20 D-ib"></i>
+              <span class="Hpx-20 Pb-2 Va-tb D-ib link">Germany</span>
+            </a>
+          </li>
+          <li class="Mb-10">
+            <a href="https://in.answers.yahoo.com/" hreflang="en-in" class="D-ib Td-n">
+              <i class="shared-sprite in rightbeak Hpx-20 Wpx-20 D-ib"></i>
+              <span class="Hpx-20 Pb-2 Va-tb D-ib link">India</span>
+            </a>
+          </li>
+          <li class="Mb-10">
+            <a href="https://id.answers.yahoo.com/" hreflang="id" class="D-ib Td-n">
+              <i class="shared-sprite id rightbeak Hpx-20 Wpx-20 D-ib"></i>
+              <span class="Hpx-20 Pb-2 Va-tb D-ib link">Indonesia</span>
+            </a>
+          </li>
+          <li class="Mb-10">
+            <a href="https://it.answers.yahoo.com/" hreflang="it" class="D-ib Td-n">
+              <i class="shared-sprite it rightbeak Hpx-20 Wpx-20 D-ib"></i>
+              <span class="Hpx-20 Pb-2 Va-tb D-ib link">Italy</span>
+            </a>
+          </li>
+          <li class="Mb-10">
+            <a href="https://malaysia.answers.yahoo.com/" hreflang="en-my" class="D-ib Td-n">
+              <i class="shared-sprite my rightbeak Hpx-20 Wpx-20 D-ib"></i>
+              <span class="Hpx-20 Pb-2 Va-tb D-ib link">Malaysia</span>
+            </a>
+          </li>
+          <li class="Mb-10">
+            <a href="https://mx.answers.yahoo.com/" hreflang="es-mx" class="D-ib Td-n">
+              <i class="shared-sprite mx rightbeak Hpx-20 Wpx-20 D-ib"></i>
+              <span class="Hpx-20 Pb-2 Va-tb D-ib link">Mexico</span>
+            </a>
+          </li>
+        </ul>
+        <ul class="none Mstart-114 Px-20">
+          <li class="Mb-10">
+            <a href="https://nz.answers.yahoo.com/" hreflang="en-nz" class="D-ib Td-n">
+              <i class="shared-sprite nz rightbeak Hpx-20 Wpx-20 D-ib"></i>
+              <span class="Hpx-20 Pb-2 Va-tb D-ib link">New Zealand</span>
+            </a>
+          </li>
+          <li class="Mb-10">
+            <a href="https://ph.answers.yahoo.com/" hreflang="en-ph" class="D-ib Td-n">
+              <i class="shared-sprite ph rightbeak Hpx-20 Wpx-20 D-ib"></i>
+              <span class="Hpx-20 Pb-2 Va-tb D-ib link">Philippines</span>
+            </a>
+          </li>
+          <li class="Mb-10">
+            <a href="https://qc.answers.yahoo.com/" hreflang="fr-ca" class="D-ib Td-n">
+              <i class="shared-sprite cf rightbeak Hpx-20 Wpx-20 D-ib"></i>
+              <span class="Hpx-20 Pb-2 Va-tb D-ib link">Quebec</span>
+            </a>
+          </li>
+          <li class="Mb-10">
+            <a href="https://sg.answers.yahoo.com/" hreflang="en-sg" class="D-ib Td-n">
+              <i class="shared-sprite sg rightbeak Hpx-20 Wpx-20 D-ib"></i>
+              <span class="Hpx-20 Pb-2 Va-tb D-ib link">Singapore</span>
+            </a>
+          </li>
+          <li class="Mb-10">
+            <a href="https://tw.answers.yahoo.com/" hreflang="zh-tw" class="D-ib Td-n">
+              <i class="shared-sprite tw rightbeak Hpx-20 Wpx-20 D-ib"></i>
+              <span class="Hpx-20 Pb-2 Va-tb D-ib link">Taiwan</span>
+            </a>
+          </li>
+          <li class="Mb-10">
+            <a href="https://hk.answers.yahoo.com/" hreflang="zh-hk" class="D-ib Td-n">
+              <i class="shared-sprite hk rightbeak Hpx-20 Wpx-20 D-ib"></i>
+              <span class="Hpx-20 Pb-2 Va-tb D-ib link">Hong Kong</span>
+            </a>
+          </li>
+          <li class="Mb-10">
+            <a href="https://es.answers.yahoo.com/" hreflang="es" class="D-ib Td-n">
+              <i class="shared-sprite es rightbeak Hpx-20 Wpx-20 D-ib"></i>
+              <span class="Hpx-20 Pb-2 Va-tb D-ib link">Spain</span>
+            </a>
+          </li>
+          <li class="Mb-10">
+            <a href="https://th.answers.yahoo.com/" hreflang="th" class="D-ib Td-n">
+              <i class="shared-sprite th rightbeak Hpx-20 Wpx-20 D-ib"></i>
+              <span class="Hpx-20 Pb-2 Va-tb D-ib link">Thailand</span>
+            </a>
+          </li>
+          <li class="Mb-10">
+            <a href="https://uk.answers.yahoo.com/" hreflang="en-gb" class="D-ib Td-n">
+              <i class="shared-sprite uk rightbeak Hpx-20 Wpx-20 D-ib"></i>
+              <span class="Hpx-20 Pb-2 Va-tb D-ib link">UK &amp; Ireland</span>
+            </a>
+          </li>
+          <li class="Mb-10">
+            <a href="https://vn.answers.yahoo.com/" hreflang="vi" class="D-ib Td-n">
+              <i class="shared-sprite vn rightbeak Hpx-20 Wpx-20 D-ib"></i>
+              <span class="Hpx-20 Pb-2 Va-tb D-ib link">Vietnam</span>
+            </a>
+          </li>
+          <li class="Mb-10">
+            <a href="https://espanol.answers.yahoo.com/" hreflang="es" class="D-ib Td-n">
+              <i class="shared-sprite e1 rightbeak Hpx-20 Wpx-20 D-ib"></i>
+              <span class="Hpx-20 Pb-2 Va-tb D-ib link">Espanol</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </li>
+    <li id="ya-about-link" data-ya-mod='abtnav' data-ya-track='1'>
+      <div class="unselected Cur-p Clr-1d" data-flyout-class="fly-about" data-flyout-src="true">
+        <span class="Hpx-20 Pb-2 Va-tb D-ib link">About</span>
+        <i class="shared-sprite rightbeak Hpx-20 Wpx-20 D-ib"></i>
+      </div>
+      <i class="fly-about flyout Z-110 L-119 Hpx-20 Wpx-20 Pos-a shared-sprite leftbeak D-n"></i>
+      <div data-flyout-y="80" id="ya-about-flyout" class="fly-about flyout L-130 Bdx-1s D-n Pos-a Bgc-w Px-20 Pt-20 Z-110 Whs-nw">
+        <ul class="none">
+          <li class="Mb-10"><a href="/info/about" class="D-ib">About Answers</a></li>
+          <li class="Mb-10"><a href="/info/community_guidelines" class="D-ib">Community Guidelines</a></li>
+          <li class="Mb-10"><a href="/rank_total" class="D-ib">Leaderboard</a></li>
+          <li class="Mb-10"><a href="/info/knowledge_partners" class="D-ib">Knowledge Partners</a></li>
+          <li class="Mb-10"><a href="/info/scoring_system" class="D-ib">Points &amp; Levels</a></li>
+          <li class="Mb-10"><a href="http://yahooanswers.tumblr.com/" class="D-ib">Blog</a></li>
+          <li class="Mb-10"><a href="https://safely.yahoo.com/yahoo-answers-safety-guide-000049380.html" class="D-ib">Safety Tips</a></li>
+        </ul>
+      </div>    </li>
+  </ul>
+  
+  <div class="Hpx-30"></div>
+</div>
+  
+      </div>
+    </div>
+    <div  id="ya-center-rail" class='Col2 Pos-a Bxz-bb Start-0'>
+            <div id='ya-featured' data-ya-mod='ftr_ct' data-ya-track='1' class="Bdx-1g Pb-14 Pt-10 Px-14 Bgc-w Hpx-130 Pos-r" role="complementary" data-ya-total="5">
+  <div id='ya-featured-list'>
+  <div id="ya-featured-tile-1" class='fc-item Pos-a T-10 L-14  W-100'>
+    <h2 class='Fz-18 Fw-300 Clr-3f Mb-10'>Special Feature</h2>
+    <div class='Fl-start Wpx-96 Pb-10'>
+      <img height="96px" width="96px" src="https://s.yimg.com/dh/ap/default/170119/GettyImages-72724226_96x96.jpg" />
+    </div>
+    <div class="num Pos-a T-3 R-20">
+      <span class="Lh-20">1 of 5</span>
+      <span class="ya-featured-prev Wpx-20 Hpx-20 shared-sprite control-prev D-ib Va-b Cur-p"></span>
+      <span class="ya-featured-pause Wpx-20 Hpx-20 shared-sprite control-pause D-ib Va-b Cur-p"></span>
+      <span class="ya-featured-play Wpx-20 Hpx-20 shared-sprite control-play D-ib Va-b D-n Cur-p"></span>
+      <span class="ya-featured-next Wpx-20 Hpx-20 shared-sprite control-next D-ib Va-b Cur-p"></span>
+    </div>
+    <div class='Mstart-110'>
+      <div class="Pend-28">Share your thoughts on Trump&#39;s selection for the Department of Education!</div>
+      <div class="Hpx-5"></div>
+      <div>
+        <a href="/question/index?qid=20170119185947AAn9VrD" class="D-b Clr-b Fz-15 Fw-b" data-ylk="slk:ql_clb">What are your thoughts about the choice for the Department of Education, Betsy DeVos?</a>
+      </div>
+      <div>
+        asked by
+        <a href="/activity?show=2EZN3C33VXYTK5NTNTZHIMYNH4&t=g" class="Clr-b" data-ylk="slk:usract">Yahoo Answers Team</a>
+      </div>
+    </div>
+  </div>
+  <div id="ya-featured-tile-2" class='fc-item Pos-a T-10 L-14 D-n W-100'>
+    <h2 class='Fz-18 Fw-300 Clr-3f Mb-10'>Special Feature</h2>
+    <div class='Fl-start Wpx-96 Pb-10'>
+      <img height="96px" width="96px" src="https://s.yimg.com/dh/ap/default/170126/doomsdayclock_96x96.jpg" />
+    </div>
+    <div class="num Pos-a T-3 R-20">
+      <span class="Lh-20">2 of 5</span>
+      <span class="ya-featured-prev Wpx-20 Hpx-20 shared-sprite control-prev D-ib Va-b Cur-p"></span>
+      <span class="ya-featured-pause Wpx-20 Hpx-20 shared-sprite control-pause D-ib Va-b Cur-p"></span>
+      <span class="ya-featured-play Wpx-20 Hpx-20 shared-sprite control-play D-ib Va-b D-n Cur-p"></span>
+      <span class="ya-featured-next Wpx-20 Hpx-20 shared-sprite control-next D-ib Va-b Cur-p"></span>
+    </div>
+    <div class='Mstart-110'>
+      <div class="Pend-28">Humanity is now only two and a half minutes away from symbolic doomsday!</div>
+      <div class="Hpx-5"></div>
+      <div>
+        <a href="/question/index?qid=20170127004542AAKafo1" class="D-b Clr-b Fz-15 Fw-b" data-ylk="slk:ql_clb">The Doomsday Clock advances - what worries you the most?</a>
+      </div>
+      <div>
+        asked by
+        <a href="/activity?show=2EZN3C33VXYTK5NTNTZHIMYNH4&t=g" class="Clr-b" data-ylk="slk:usract">Yahoo Answers Team</a>
+      </div>
+    </div>
+  </div>
+  <div id="ya-featured-tile-3" class='fc-item Pos-a T-10 L-14 D-n W-100'>
+    <h2 class='Fz-18 Fw-300 Clr-3f Mb-10'>Special Feature</h2>
+    <div class='Fl-start Wpx-96 Pb-10'>
+      <img height="96px" width="96px" src="https://s.yimg.com/dh/ap/default/170123/GettyImages-108914576_96x96.jpg" />
+    </div>
+    <div class="num Pos-a T-3 R-20">
+      <span class="Lh-20">3 of 5</span>
+      <span class="ya-featured-prev Wpx-20 Hpx-20 shared-sprite control-prev D-ib Va-b Cur-p"></span>
+      <span class="ya-featured-pause Wpx-20 Hpx-20 shared-sprite control-pause D-ib Va-b Cur-p"></span>
+      <span class="ya-featured-play Wpx-20 Hpx-20 shared-sprite control-play D-ib Va-b D-n Cur-p"></span>
+      <span class="ya-featured-next Wpx-20 Hpx-20 shared-sprite control-next D-ib Va-b Cur-p"></span>
+    </div>
+    <div class='Mstart-110'>
+      <div class="Pend-28">The women&#39;s marches all over the world made quite a statement.</div>
+      <div class="Hpx-5"></div>
+      <div>
+        <a href="/question/index?qid=20170124010639AAVGJtR" class="D-b Clr-b Fz-15 Fw-b" data-ylk="slk:ql_clb">What are the next steps after the women's march?</a>
+      </div>
+      <div>
+        asked by
+        <a href="/activity?show=2EZN3C33VXYTK5NTNTZHIMYNH4&t=g" class="Clr-b" data-ylk="slk:usract">Yahoo Answers Team</a>
+      </div>
+    </div>
+  </div>
+  <div id="ya-featured-tile-4" class='fc-item Pos-a T-10 L-14 D-n W-100'>
+    <h2 class='Fz-18 Fw-300 Clr-3f Mb-10'>Special Feature</h2>
+    <div class='Fl-start Wpx-96 Pb-10'>
+      <img height="96px" width="96px" src="https://s.yimg.com/dh/ap/default/170124/GettyImages-473976124_96x96.jpg" />
+    </div>
+    <div class="num Pos-a T-3 R-20">
+      <span class="Lh-20">4 of 5</span>
+      <span class="ya-featured-prev Wpx-20 Hpx-20 shared-sprite control-prev D-ib Va-b Cur-p"></span>
+      <span class="ya-featured-pause Wpx-20 Hpx-20 shared-sprite control-pause D-ib Va-b Cur-p"></span>
+      <span class="ya-featured-play Wpx-20 Hpx-20 shared-sprite control-play D-ib Va-b D-n Cur-p"></span>
+      <span class="ya-featured-next Wpx-20 Hpx-20 shared-sprite control-next D-ib Va-b Cur-p"></span>
+    </div>
+    <div class='Mstart-110'>
+      <div class="Pend-28">President Trump has wasted no time in working to progress two pipelines.</div>
+      <div class="Hpx-5"></div>
+      <div>
+        <a href="/question/index?qid=20170124220210AAssjeB" class="D-b Clr-b Fz-15 Fw-b" data-ylk="slk:ql_clb">Do you support President Trump and his decision to continue with the Dakota Access Pipeline?</a>
+      </div>
+      <div>
+        asked by
+        <a href="/activity?show=2EZN3C33VXYTK5NTNTZHIMYNH4&t=g" class="Clr-b" data-ylk="slk:usract">Yahoo Answers Team</a>
+      </div>
+    </div>
+  </div>
+  <div id="ya-featured-tile-5" class='fc-item Pos-a T-10 L-14 D-n W-100'>
+    <h2 class='Fz-18 Fw-300 Clr-3f Mb-10'>Special Feature</h2>
+    <div class='Fl-start Wpx-96 Pb-10'>
+      <img height="96px" width="96px" src="https://s.yimg.com/dh/ap/default/170118/postitforward_96x96.png" />
+    </div>
+    <div class="num Pos-a T-3 R-20">
+      <span class="Lh-20">5 of 5</span>
+      <span class="ya-featured-prev Wpx-20 Hpx-20 shared-sprite control-prev D-ib Va-b Cur-p"></span>
+      <span class="ya-featured-pause Wpx-20 Hpx-20 shared-sprite control-pause D-ib Va-b Cur-p"></span>
+      <span class="ya-featured-play Wpx-20 Hpx-20 shared-sprite control-play D-ib Va-b D-n Cur-p"></span>
+      <span class="ya-featured-next Wpx-20 Hpx-20 shared-sprite control-next D-ib Va-b Cur-p"></span>
+    </div>
+    <div class='Mstart-110'>
+      <div class="Pend-28">Share some motivational insights with the PostItForward featured tumblr!</div>
+      <div class="Hpx-5"></div>
+      <div>
+        <a href="/question/index?qid=20170119024353AAGqPWV" class="D-b Clr-b Fz-15 Fw-b" data-ylk="slk:ql_clb">Is there anything you'd like featured on the PostItForward tumblr?</a>
+      </div>
+      <div>
+        asked by
+        <a href="/activity?show=2EZN3C33VXYTK5NTNTZHIMYNH4&t=g" class="Clr-b" data-ylk="slk:usract">Yahoo Answers Team</a>
+      </div>
+    </div>
+  </div>
+  </div>
+</div>
+    <div class="Hpx-10"></div>    <div data-plugin="sticker">
+<div id="ya-tabs" class="Pos-r Mx-0 Z-2 Pt-10 Bgc-w Bdx-1g Bgc-lgr Fw-300">
+  <div id="ya-tabs-main" role="menubar">
+    <div class="D-ib Cur-p" id="discover" role="menuitem">
+        <a class='D-ib Fz-18 Mstart-14 Fw-300 Pb-8 Mend-6 Td-n Clr-bl Bdbx-2-47008c' href='/discover'>Discover</a>
+    </div>
+    <div class="D-ib Cur-p" id="answer" role="menuitem">
+        <a class='D-ib Fz-18 Mstart-14 Fw-300 Pb-8 Mend-6 Td-n Clr-888' href='/answer'>Answer</a>
+    </div>
+  </div>
+  <div class="Pos-a Ov-h L-0 T-100 W-100">
+    <div class="Bgc-lp Lh-40 P-14 Mt-neg-70 D-n" id="ya-tabs-msg">
+      <i class="D-b Wpx-42 Hpx-42 Mt-neg-1 Mend-14 Fl-start shared-sprite smile-face"></i>
+      <a href="#" class="D-ib Wpx-24 Hpx-24 Mt-6 Mstart-14 Fl-end shared-sprite close-icon Td-n"></a>
+      <span class="D-b Bfc Whs-nw"></span>
+    </div>
+  </div>
+</div>
+</div>
+<div id="ya-tabs-back" class="Hpx-0"></div>
+
+    <div id='ya-discover-config' class='D-n Bgc-fc Z-99 Ol-n' role='region' aria-hidden='true' aria-labelledby='gearLabel' aria-live='polite' tabindex='-1'>
+  <div class='Bdx-1g'>
+    <div class='Px-14 Pt-14'>
+      <div id='ya-discover-options'>
+        <form class='ya-form' action='/_post?name=YADiscoverTabConfigModule'>
+          <fieldset class='M-0 Px-0 Pt-0 Pb-20 Bd-0'>
+            <legend class='Clr-bl Fz-12 Fw-b Px-0'><i class='shared-sprite question-icon-16 Hpx-16 Wpx-16 Fl-start Mend-10'></i><span>Yahoo Answers</span></legend>
+            <ul class='Grid M-0 Px-0'>
+              <li class='Grid-U-1-3 Clr-bl Fz-12 Pt-10'>
+        <span class='CheckBox Fl-start Mend-10'>
+          <input type='checkbox' id="ya-options-checkbox-includePopularQuestions-1" name='includePopularQuestions' value='1' class='ya-options-checkbox' checked/>
+          <i class='Icon CheckBox-Icon-checked Hpx-12 Wpx-12 Bdx-1bg shared-sprite check-green'></i>
+          <i class='Icon CheckBox-Icon D-b Hpx-12 Wpx-12 Bdx-1bg'></i>
+        </span>
+        <label for="ya-options-checkbox-includePopularQuestions-1" class="Bfc">Popular</label>
+
+              </li>
+            </ul>
+          </fieldset>
+          <fieldset class='M-0 Px-0 Pt-0 Pb-20 Bd-0'>
+            <legend class='Clr-bl Fz-12 Fw-b Px-0'><i class='shared-sprite new-rating-icon-16 Hpx-16 Wpx-16 Fl-start Mend-10'></i><span>When someone I follow</span></legend>
+            <ul class='Grid M-0 Px-0'>
+              <li class='Grid-U-1-3 Clr-bl Fz-12 Pt-10'>
+        <span class='CheckBox Fl-start Mend-10'>
+          <input type='checkbox' id="ya-options-checkbox-includeQuestionsAnsweredByContacts-1" name='includeQuestionsAnsweredByContacts' value='1' class='ya-options-checkbox'/>
+          <i class='Icon CheckBox-Icon-checked Hpx-12 Wpx-12 Bdx-1bg shared-sprite check-green'></i>
+          <i class='Icon CheckBox-Icon D-b Hpx-12 Wpx-12 Bdx-1bg'></i>
+        </span>
+        <label for="ya-options-checkbox-includeQuestionsAnsweredByContacts-1" class="Bfc">Answers a question</label>
+
+              </li>
+              <li class='Grid-U-1-3 Clr-bl Fz-12 Pt-10'>
+        <span class='CheckBox Fl-start Mend-10'>
+          <input type='checkbox' id="ya-options-checkbox-includeQuestionsFollowedByContacts-1" name='includeQuestionsFollowedByContacts' value='1' class='ya-options-checkbox'/>
+          <i class='Icon CheckBox-Icon-checked Hpx-12 Wpx-12 Bdx-1bg shared-sprite check-green'></i>
+          <i class='Icon CheckBox-Icon D-b Hpx-12 Wpx-12 Bdx-1bg'></i>
+        </span>
+        <label for="ya-options-checkbox-includeQuestionsFollowedByContacts-1" class="Bfc">Follows a question</label>
+
+              </li>
+              <li class='Grid-U-1-3 Clr-bl Fz-12 Pt-10'>
+        <span class='CheckBox Fl-start Mend-10'>
+          <input type='checkbox' id="ya-options-checkbox-includeQuestionsRatedByContacts-1" name='includeQuestionsRatedByContacts' value='1' class='ya-options-checkbox'/>
+          <i class='Icon CheckBox-Icon-checked Hpx-12 Wpx-12 Bdx-1bg shared-sprite check-green'></i>
+          <i class='Icon CheckBox-Icon D-b Hpx-12 Wpx-12 Bdx-1bg'></i>
+        </span>
+        <label for="ya-options-checkbox-includeQuestionsRatedByContacts-1" class="Bfc">Rates an answer</label>
+
+              </li>
+              <li class='Grid-U-1-3 Clr-bl Fz-12 Pt-10'>
+        <span class='CheckBox Fl-start Mend-10'>
+          <input type='checkbox' id="ya-options-checkbox-includeQuestionsAskedByContacts-1" name='includeQuestionsAskedByContacts' value='1' class='ya-options-checkbox'/>
+          <i class='Icon CheckBox-Icon-checked Hpx-12 Wpx-12 Bdx-1bg shared-sprite check-green'></i>
+          <i class='Icon CheckBox-Icon D-b Hpx-12 Wpx-12 Bdx-1bg'></i>
+        </span>
+        <label for="ya-options-checkbox-includeQuestionsAskedByContacts-1" class="Bfc">Asks a question</label>
+
+              </li>
+              <li class='Grid-U-1-3 Clr-bl Fz-12 Pt-10'>
+        <span class='CheckBox Fl-start Mend-10'>
+          <input type='checkbox' id="ya-options-checkbox-includeNetworkBestAnswers-1" name='includeNetworkBestAnswers' value='1' class='ya-options-checkbox'/>
+          <i class='Icon CheckBox-Icon-checked Hpx-12 Wpx-12 Bdx-1bg shared-sprite check-green'></i>
+          <i class='Icon CheckBox-Icon D-b Hpx-12 Wpx-12 Bdx-1bg'></i>
+        </span>
+        <label for="ya-options-checkbox-includeNetworkBestAnswers-1" class="Bfc">Wins a best answer</label>
+
+              </li>
+            </ul>
+          </fieldset>
+          <input type='hidden' name='crumb' value='' />
+        </form>
+          <div class="Pos-r W-100 Hpx-34">
+            <div class="Pos-a L-0 T-0">
+              <a role="button" class="D-ib ya-default Cur-p Fz-13 Bgc-gb Clr-bl Bdx-1bg Hpx-20 Miw-70 Lh-20 Va-m Ta-c Bdrs-3" href="">Default</a>
+            </div>
+            <div class="Pos-a R-0 T-0">
+              <a role="button" class="D-ib ya-submit Cur-p Fz-13 Px-10 Bgc-b Bdx-1b Clr-w Hpx-20 Lh-20 Miw-70 Va-m Ta-c Bdrs-3" href="">Apply</a>
+              <a role="button" class="D-ib ya-cancel Cur-p Fz-13 Px-10 Bgc-gb Clr-bl Bdx-1bg Hpx-20 Mstart-10 Miw-70 Lh-20 Va-m Ta-c Bdrs-3" href="">Cancel</a>
+            </div>
+          </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+<div id="ya-discover-config-back" class="Hpx-0"></div>
+    <h2 class="Hidden">Discover</h2>
+<ul class="Bdstart-1g Bdend-1g Bdbx-1g M-0" data-ya-mod='disc_q' data-ya-track='1' id="ya-discover-tab" role="main">
+ <li class="ya-discover-tile ya-discover-tile-qn Bfc P-14 Bdbx-1g Bgc-w" data-id="20170223190453AA9pcLV">
+ <div class="Fl-start Mend-14 Pt-3">
+   <a href="#" data-ylk="slk:btnflw;bpos:1;cpos:1;qid:20170223190453AA9pcLV" class="ya-flwq-btn" role="button" aria-label="Follow Are you embarrassed that Donald Trump is your president?" aria-pressed="false">
+     <span class="Bgc-w D-ib Hpx-24 Wpx-24 Bdx-1dg shared-sprite gray-star ya-flwq-icon"></span>
+   </a>
+ </div>
+   <div class="Bfc">
+     <h3><a class="Fz-14 Fw-b Clr-b Wow-bw title" href="/question/index?qid=20170223190453AA9pcLV" data-ylk="slk:qtitle;bpos:1;cpos:1;qid:20170223190453AA9pcLV">Are you embarrassed that Donald Trump is your president?</a></h3>
+     <div class="desc Fz-13 Lh-18">
+                
+     </div>
+     <div class="fullDesc Mah-130 Ovy-s Fz-13 Lh-18 Ol-n D-n" tabindex="-1">
+       
+     </div>
+     <div class="Clr-888 Fz-12 Lh-18">
+       363 answers
+       <span class="Fz-14">&middot;</span>
+         <a class="Clr-b" href="/dir/index/discover?sid=396545450" data-ylk="slk:cat;bpos:1;cpos:1;qid:20170223190453AA9pcLV;sid:396545450">Politics</a>
+         <span class="Fz-14">&middot;</span>
+       22 hours ago
+     </div>
+   </div>
+ </li>
+    <li class="ya-dmros-tile Bfc Bgc-w">
+        <div id="dmRosAdWrapper-MainNorth"></div>
+    </li>
+ <li class="ya-discover-tile ya-discover-tile-qn Bfc P-14 Bdbx-1g Bgc-w" data-id="20170224022420AAeOTJo">
+ <div class="Fl-start Mend-14 Pt-3">
+   <a href="#" data-ylk="slk:btnflw;bpos:1;cpos:2;qid:20170224022420AAeOTJo" class="ya-flwq-btn" role="button" aria-label="Follow Is it important for my pet dog to have sex?" aria-pressed="false">
+     <span class="Bgc-w D-ib Hpx-24 Wpx-24 Bdx-1dg shared-sprite gray-star ya-flwq-icon"></span>
+   </a>
+ </div>
+   <div class="Bfc">
+     <h3><a class="Fz-14 Fw-b Clr-b Wow-bw title" href="/question/index?qid=20170224022420AAeOTJo" data-ylk="slk:qtitle;bpos:1;cpos:2;qid:20170224022420AAeOTJo">Is it important for my pet dog to have sex?</a></h3>
+     <div class="desc Fz-13 Lh-18">
+                Forgive me my knowledge of pets in limited. Anyway we just got a family pet female dog for the kids. And I was wondering if she needs male companionship &amp; do dogs need to have sex regularly ? Or will she be fine alone.  
+
+Sorry this is an awkward question, but this is my first pet.
+     </div>
+     <div class="fullDesc Mah-130 Ovy-s Fz-13 Lh-18 Ol-n D-n" tabindex="-1">
+       Forgive me my knowledge of pets in limited. Anyway we just got a family pet female dog for the kids. And I was wondering if she needs male companionship &amp; do dogs need to have sex regularly ? Or will she be fine alone.  
+
+Sorry this is an awkward question, but this is my first pet.
+     </div>
+     <div class="Clr-888 Fz-12 Lh-18">
+       56 answers
+       <span class="Fz-14">&middot;</span>
+         <a class="Clr-b" href="/dir/index/discover?sid=396546021" data-ylk="slk:cat;bpos:1;cpos:2;qid:20170224022420AAeOTJo;sid:396546021">Dogs</a>
+         <span class="Fz-14">&middot;</span>
+       15 hours ago
+     </div>
+   </div>
+ </li>
+ <li class="ya-discover-tile ya-discover-tile-qn Bfc P-14 Bdbx-1g Bgc-w" data-id="20170221215727AAPVhYr">
+ <div class="Fl-start Mend-14 Pt-3">
+   <a href="#" data-ylk="slk:btnflw;bpos:1;cpos:3;qid:20170221215727AAPVhYr" class="ya-flwq-btn" role="button" aria-label="Follow CAN DONALD TRUMP reduce BLACK UNEMPLOYMENT?" aria-pressed="false">
+     <span class="Bgc-w D-ib Hpx-24 Wpx-24 Bdx-1dg shared-sprite gray-star ya-flwq-icon"></span>
+   </a>
+ </div>
+   <div class="Bfc">
+     <h3><a class="Fz-14 Fw-b Clr-b Wow-bw title" href="/question/index?qid=20170221215727AAPVhYr" data-ylk="slk:qtitle;bpos:1;cpos:3;qid:20170221215727AAPVhYr">CAN DONALD TRUMP reduce BLACK UNEMPLOYMENT?</a></h3>
+     <div class="desc Fz-13 Lh-18">
+                
+     </div>
+     <div class="fullDesc Mah-130 Ovy-s Fz-13 Lh-18 Ol-n D-n" tabindex="-1">
+       
+     </div>
+     <div class="Clr-888 Fz-12 Lh-18">
+       360 answers
+       <span class="Fz-14">&middot;</span>
+         <a class="Clr-b" href="/dir/index/discover?sid=396545450" data-ylk="slk:cat;bpos:1;cpos:3;qid:20170221215727AAPVhYr;sid:396545450">Politics</a>
+         <span class="Fz-14">&middot;</span>
+       3 days ago
+     </div>
+   </div>
+ </li>
+ <li class="ya-discover-tile ya-discover-tile-qn Bfc P-14 Bdbx-1g Bgc-w" data-id="20170221171024AA9Cb8o">
+ <div class="Fl-start Mend-14 Pt-3">
+   <a href="#" data-ylk="slk:btnflw;bpos:1;cpos:4;qid:20170221171024AA9Cb8o" class="ya-flwq-btn" role="button" aria-label="Follow I never drink water will I die?" aria-pressed="false">
+     <span class="Bgc-w D-ib Hpx-24 Wpx-24 Bdx-1dg shared-sprite gray-star ya-flwq-icon"></span>
+   </a>
+ </div>
+   <div class="Bfc">
+     <h3><a class="Fz-14 Fw-b Clr-b Wow-bw title" href="/question/index?qid=20170221171024AA9Cb8o" data-ylk="slk:qtitle;bpos:1;cpos:4;qid:20170221171024AA9Cb8o">I never drink water will I die?</a></h3>
+     <div class="desc Fz-13 Lh-18">
+                I drink little to no water everyday is that bad? I hate the taste of water it&#039;s disgusting.
+     </div>
+     <div class="fullDesc Mah-130 Ovy-s Fz-13 Lh-18 Ol-n D-n" tabindex="-1">
+       I drink little to no water everyday is that bad? I hate the taste of water it&#039;s disgusting.
+     </div>
+     <div class="Clr-888 Fz-12 Lh-18">
+       412 answers
+       <span class="Fz-14">&middot;</span>
+         <a class="Clr-b" href="/dir/index/discover?sid=396545382" data-ylk="slk:cat;bpos:1;cpos:4;qid:20170221171024AA9Cb8o;sid:396545382">Diet &amp; Fitness</a>
+         <span class="Fz-14">&middot;</span>
+       3 days ago
+     </div>
+   </div>
+ </li>
+ <li class="ya-discover-tile ya-discover-tile-qn Bfc P-14 Bdbx-1g Bgc-w" data-id="20170223210354AA0pNEu">
+ <div class="Fl-start Mend-14 Pt-3">
+   <a href="#" data-ylk="slk:btnflw;bpos:1;cpos:5;qid:20170223210354AA0pNEu" class="ya-flwq-btn" role="button" aria-label="Follow BLACKS CRIME is too high. CAN DONALD TRUMP reduce it?" aria-pressed="false">
+     <span class="Bgc-w D-ib Hpx-24 Wpx-24 Bdx-1dg shared-sprite gray-star ya-flwq-icon"></span>
+   </a>
+ </div>
+   <div class="Bfc">
+     <h3><a class="Fz-14 Fw-b Clr-b Wow-bw title" href="/question/index?qid=20170223210354AA0pNEu" data-ylk="slk:qtitle;bpos:1;cpos:5;qid:20170223210354AA0pNEu">BLACKS CRIME is too high. CAN DONALD TRUMP reduce it?</a></h3>
+     <div class="desc Fz-13 Lh-18">
+                
+     </div>
+     <div class="fullDesc Mah-130 Ovy-s Fz-13 Lh-18 Ol-n D-n" tabindex="-1">
+       
+     </div>
+     <div class="Clr-888 Fz-12 Lh-18">
+       74 answers
+       <span class="Fz-14">&middot;</span>
+         <a class="Clr-b" href="/dir/index/discover?sid=396545450" data-ylk="slk:cat;bpos:1;cpos:5;qid:20170223210354AA0pNEu;sid:396545450">Politics</a>
+         <span class="Fz-14">&middot;</span>
+       20 hours ago
+     </div>
+   </div>
+ </li>
+ <li class="ya-discover-tile ya-discover-tile-qn Bfc P-14 Bdbx-1g Bgc-w" data-id="20170223194327AA66SWb">
+ <div class="Fl-start Mend-14 Pt-3">
+   <a href="#" data-ylk="slk:btnflw;bpos:1;cpos:6;qid:20170223194327AA66SWb" class="ya-flwq-btn" role="button" aria-label="Follow I&amp;#039;m useless and would be better off dead?" aria-pressed="false">
+     <span class="Bgc-w D-ib Hpx-24 Wpx-24 Bdx-1dg shared-sprite gray-star ya-flwq-icon"></span>
+   </a>
+ </div>
+   <div class="Bfc">
+     <h3><a class="Fz-14 Fw-b Clr-b Wow-bw title" href="/question/index?qid=20170223194327AA66SWb" data-ylk="slk:qtitle;bpos:1;cpos:6;qid:20170223194327AA66SWb">I&#039;m useless and would be better off dead?</a></h3>
+     <div class="desc Fz-13 Lh-18">
+                I can&#039;t do anything right and am going to commit suicide tomorrow. No one will care and I won&#039;t care either
+     </div>
+     <div class="fullDesc Mah-130 Ovy-s Fz-13 Lh-18 Ol-n D-n" tabindex="-1">
+       I can&#039;t do anything right and am going to commit suicide tomorrow. No one will care and I won&#039;t care either
+     </div>
+     <div class="Clr-888 Fz-12 Lh-18">
+       66 answers
+       <span class="Fz-14">&middot;</span>
+         <a class="Clr-b" href="/dir/index/discover?sid=396545305" data-ylk="slk:cat;bpos:1;cpos:6;qid:20170223194327AA66SWb;sid:396545305">Psychology</a>
+         <span class="Fz-14">&middot;</span>
+       22 hours ago
+     </div>
+   </div>
+ </li>
+ <li class="ya-discover-tile ya-discover-tile-qn Bfc P-14 Bdbx-1g Bgc-w" data-id="20170223181748AAHmCwU">
+ <div class="Fl-start Mend-14 Pt-3">
+   <a href="#" data-ylk="slk:btnflw;bpos:1;cpos:7;qid:20170223181748AAHmCwU" class="ya-flwq-btn" role="button" aria-label="Follow Describe Donald Trump in one verb?" aria-pressed="false">
+     <span class="Bgc-w D-ib Hpx-24 Wpx-24 Bdx-1dg shared-sprite gray-star ya-flwq-icon"></span>
+   </a>
+ </div>
+   <div class="Bfc">
+     <h3><a class="Fz-14 Fw-b Clr-b Wow-bw title" href="/question/index?qid=20170223181748AAHmCwU" data-ylk="slk:qtitle;bpos:1;cpos:7;qid:20170223181748AAHmCwU">Describe Donald Trump in one verb?</a></h3>
+     <div class="desc Fz-13 Lh-18">
+                
+     </div>
+     <div class="fullDesc Mah-130 Ovy-s Fz-13 Lh-18 Ol-n D-n" tabindex="-1">
+       
+     </div>
+     <div class="Clr-888 Fz-12 Lh-18">
+       76 answers
+       <span class="Fz-14">&middot;</span>
+         <a class="Clr-b" href="/dir/index/discover?sid=396545450" data-ylk="slk:cat;bpos:1;cpos:7;qid:20170223181748AAHmCwU;sid:396545450">Politics</a>
+         <span class="Fz-14">&middot;</span>
+       23 hours ago
+     </div>
+   </div>
+ </li>
+ <li class="ya-discover-tile ya-discover-tile-qn Bfc P-14 Bdbx-1g Bgc-w" data-id="20170222161006AAK44aN">
+ <div class="Fl-start Mend-14 Pt-3">
+   <a href="#" data-ylk="slk:btnflw;bpos:1;cpos:8;qid:20170222161006AAK44aN" class="ya-flwq-btn" role="button" aria-label="Follow Isn&amp;#039;t rape the woman&amp;#039;s fault?" aria-pressed="false">
+     <span class="Bgc-w D-ib Hpx-24 Wpx-24 Bdx-1dg shared-sprite gray-star ya-flwq-icon"></span>
+   </a>
+ </div>
+   <div class="Bfc">
+     <h3><a class="Fz-14 Fw-b Clr-b Wow-bw title" href="/question/index?qid=20170222161006AAK44aN" data-ylk="slk:qtitle;bpos:1;cpos:8;qid:20170222161006AAK44aN">Isn&#039;t rape the woman&#039;s fault?</a></h3>
+     <div class="desc Fz-13 Lh-18">
+                If the woman did not dress slutty/in revealing clothes she would not have been raped. I think most would agree that women are mostly to blame for getting raped
+     </div>
+     <div class="fullDesc Mah-130 Ovy-s Fz-13 Lh-18 Ol-n D-n" tabindex="-1">
+       If the woman did not dress slutty/in revealing clothes she would not have been raped. I think most would agree that women are mostly to blame for getting raped
+     </div>
+     <div class="Clr-888 Fz-12 Lh-18">
+       125 answers
+       <span class="Fz-14">&middot;</span>
+         <a class="Clr-b" href="/dir/index/discover?sid=396545435" data-ylk="slk:cat;bpos:1;cpos:8;qid:20170222161006AAK44aN;sid:396545435">Friends</a>
+         <span class="Fz-14">&middot;</span>
+       2 days ago
+     </div>
+   </div>
+ </li>
+ <li class="ya-discover-tile ya-discover-tile-qn Bfc P-14 Bdbx-1g Bgc-w" data-id="20170224041141AAe1MlC">
+ <div class="Fl-start Mend-14 Pt-3">
+   <a href="#" data-ylk="slk:btnflw;bpos:1;cpos:9;qid:20170224041141AAe1MlC" class="ya-flwq-btn" role="button" aria-label="Follow If dinosaurs really existed why aren&amp;#039;t they mentioned in the bible?" aria-pressed="false">
+     <span class="Bgc-w D-ib Hpx-24 Wpx-24 Bdx-1dg shared-sprite gray-star ya-flwq-icon"></span>
+   </a>
+ </div>
+   <div class="Bfc">
+     <h3><a class="Fz-14 Fw-b Clr-b Wow-bw title" href="/question/index?qid=20170224041141AAe1MlC" data-ylk="slk:qtitle;bpos:1;cpos:9;qid:20170224041141AAe1MlC">If dinosaurs really existed why aren&#039;t they mentioned in the bible?</a></h3>
+     <div class="desc Fz-13 Lh-18">
+                
+     </div>
+     <div class="fullDesc Mah-130 Ovy-s Fz-13 Lh-18 Ol-n D-n" tabindex="-1">
+       
+     </div>
+     <div class="Clr-888 Fz-12 Lh-18">
+       57 answers
+       <span class="Fz-14">&middot;</span>
+         <a class="Clr-b" href="/dir/index/discover?sid=396545298" data-ylk="slk:cat;bpos:1;cpos:9;qid:20170224041141AAe1MlC;sid:396545298">History</a>
+         <span class="Fz-14">&middot;</span>
+       13 hours ago
+     </div>
+   </div>
+ </li>
+ <li class="ya-discover-tile ya-discover-tile-qn Bfc P-14 Bdbx-1g Bgc-w" data-id="20170222123117AANqlNZ">
+ <div class="Fl-start Mend-14 Pt-3">
+   <a href="#" data-ylk="slk:btnflw;bpos:1;cpos:10;qid:20170222123117AANqlNZ" class="ya-flwq-btn" role="button" aria-label="Follow Science vs. religion - which one wins?" aria-pressed="false">
+     <span class="Bgc-w D-ib Hpx-24 Wpx-24 Bdx-1dg shared-sprite gray-star ya-flwq-icon"></span>
+   </a>
+ </div>
+   <div class="Bfc">
+     <h3><a class="Fz-14 Fw-b Clr-b Wow-bw title" href="/question/index?qid=20170222123117AANqlNZ" data-ylk="slk:qtitle;bpos:1;cpos:10;qid:20170222123117AANqlNZ">Science vs. religion - which one wins?</a></h3>
+     <div class="desc Fz-13 Lh-18">
+       <span class="Hpx-15 Wpx-14 D-ib shared-sprite win-best-answer-icon-14"></span><span class="Fw-b">Best answer:</span>
+         Science is based on logic and evidence - selfless people have devoted years of their lives to find cures and treatments that have helped humans (including the self-same religionists who oppose scientific advancements) to live their lives with better health and in much less pain and agony compared to previous...
+<a class='ya-show-more Clr-b Cur-p' href="#" tabindex="0">show more</a>     </div>
+     <div class="fullDesc Mah-130 Ovy-s Fz-13 Lh-18 Ol-n D-n" tabindex="-1">
+       <span class="Hpx-15 Wpx-14 D-ib shared-sprite win-best-answer-icon-14"></span><span class="Fw-b">Best answer:</span> Science is based on logic and evidence - selfless people have devoted years of their lives to find cures and treatments that have helped humans (including the self-same religionists who oppose scientific advancements) to live their lives with better health and in much less pain and agony compared to previous humans.   <br>
+ <br>
+People in the dark ages died from simple physical ailments such as the common flu, things that are completely treatable thanks to scientific progress. <br>
+ <br>
+Religion is merely a crutch for people who prefer not to accept reality.  The fact that an overwhelming majority of people subscribe to it does not alleviate that fact. <br>
+ <br>
+All religions have different facades but are in fact variants on the same theme - a system of false beliefs designed to remove all responsibility for a group&#039;s actions and behaviour.   <br>
+ <br>
+Religion encourages a mass &#039;victim&#039; mentality; similar to what we&#039;re seeing in America right now.   <br>
+ <br>
+All religions were intentionally designed as a vehicle for the most unsavory, nasty and cunning humans to gain funding, power and control over naïve simpletons. <br>
+ <br>
+Whilst the notion of a &#039;winner&#039; between reality and illusion isn&#039;t actually a contest, science is real and tangible while religion is artificial and intangible.  Furthermore, religion has rationalised countless atrocities towards people, animals and the environment and continues to do this in less-developed countries where religion achieves its purpose as the ultimate belief-based political force.
+       
+     </div>
+     <div class="Clr-888 Fz-12 Lh-18">
+       110 answers
+       <span class="Fz-14">&middot;</span>
+         <a class="Clr-b" href="/dir/index/discover?sid=396545458" data-ylk="slk:cat;bpos:1;cpos:10;qid:20170222123117AANqlNZ;sid:396545458">Other - Society &amp; Culture</a>
+         <span class="Fz-14">&middot;</span>
+       2 days ago
+     </div>
+   </div>
+ </li>
+ <li class="ya-discover-tile ya-discover-tile-qn Bfc P-14 Bdbx-1g Bgc-w" data-id="20170221010209AAomAPs">
+ <div class="Fl-start Mend-14 Pt-3">
+   <a href="#" data-ylk="slk:btnflw;bpos:1;cpos:11;qid:20170221010209AAomAPs" class="ya-flwq-btn" role="button" aria-label="Follow What should happen to men who hit women?" aria-pressed="false">
+     <span class="Bgc-w D-ib Hpx-24 Wpx-24 Bdx-1dg shared-sprite gray-star ya-flwq-icon"></span>
+   </a>
+ </div>
+   <div class="Bfc">
+     <h3><a class="Fz-14 Fw-b Clr-b Wow-bw title" href="/question/index?qid=20170221010209AAomAPs" data-ylk="slk:qtitle;bpos:1;cpos:11;qid:20170221010209AAomAPs">What should happen to men who hit women?</a></h3>
+     <div class="desc Fz-13 Lh-18">
+                Should there be a punishment if you hit a woman in any circumstance? or should they be allowed to?
+     </div>
+     <div class="fullDesc Mah-130 Ovy-s Fz-13 Lh-18 Ol-n D-n" tabindex="-1">
+       Should there be a punishment if you hit a woman in any circumstance? or should they be allowed to?
+     </div>
+     <div class="Clr-888 Fz-12 Lh-18">
+       302 answers
+       <span class="Fz-14">&middot;</span>
+         <a class="Clr-b" href="/dir/index/discover?sid=396545307" data-ylk="slk:cat;bpos:1;cpos:11;qid:20170221010209AAomAPs;sid:396545307">Gender Studies</a>
+         <span class="Fz-14">&middot;</span>
+       4 days ago
+     </div>
+   </div>
+ </li>
+ <li class="ya-discover-tile ya-discover-tile-qn Bfc P-14 Bdbx-1g Bgc-w" data-id="20170221204754AAGxDJU">
+ <div class="Fl-start Mend-14 Pt-3">
+   <a href="#" data-ylk="slk:btnflw;bpos:1;cpos:12;qid:20170221204754AAGxDJU" class="ya-flwq-btn" role="button" aria-label="Follow Can eggs go in salad?" aria-pressed="false">
+     <span class="Bgc-w D-ib Hpx-24 Wpx-24 Bdx-1dg shared-sprite gray-star ya-flwq-icon"></span>
+   </a>
+ </div>
+   <div class="Bfc">
+     <h3><a class="Fz-14 Fw-b Clr-b Wow-bw title" href="/question/index?qid=20170221204754AAGxDJU" data-ylk="slk:qtitle;bpos:1;cpos:12;qid:20170221204754AAGxDJU">Can eggs go in salad?</a></h3>
+     <div class="desc Fz-13 Lh-18">
+                Me and my friend have been having this argument for months, and I want to know, can eggs go in salads? I personally think eggs should not be in salads, my friend thinks otherwise. Please respond asap.
+     </div>
+     <div class="fullDesc Mah-130 Ovy-s Fz-13 Lh-18 Ol-n D-n" tabindex="-1">
+       Me and my friend have been having this argument for months, and I want to know, can eggs go in salads? I personally think eggs should not be in salads, my friend thinks otherwise. Please respond asap.
+     </div>
+     <div class="Clr-888 Fz-12 Lh-18">
+       178 answers
+       <span class="Fz-14">&middot;</span>
+         <a class="Clr-b" href="/dir/index/discover?sid=396545368" data-ylk="slk:cat;bpos:1;cpos:12;qid:20170221204754AAGxDJU;sid:396545368">Cooking &amp; Recipes</a>
+         <span class="Fz-14">&middot;</span>
+       3 days ago
+     </div>
+   </div>
+ </li>
+ <li class="ya-discover-tile ya-discover-tile-qn Bfc P-14 Bdbx-1g Bgc-w" data-id="20170222134201AAF6juH">
+ <div class="Fl-start Mend-14 Pt-3">
+   <a href="#" data-ylk="slk:btnflw;bpos:1;cpos:13;qid:20170222134201AAF6juH" class="ya-flwq-btn" role="button" aria-label="Follow Would you consider Trumps supporters an unsavory crowd?" aria-pressed="false">
+     <span class="Bgc-w D-ib Hpx-24 Wpx-24 Bdx-1dg shared-sprite gray-star ya-flwq-icon"></span>
+   </a>
+ </div>
+   <div class="Bfc">
+     <h3><a class="Fz-14 Fw-b Clr-b Wow-bw title" href="/question/index?qid=20170222134201AAF6juH" data-ylk="slk:qtitle;bpos:1;cpos:13;qid:20170222134201AAF6juH">Would you consider Trumps supporters an unsavory crowd?</a></h3>
+     <div class="desc Fz-13 Lh-18">
+       <span class="Hpx-15 Wpx-14 D-ib shared-sprite win-best-answer-icon-14"></span><span class="Fw-b">Best answer:</span>
+         Would you consider me unsavory?  Without knowing my hopes, dreams, abilities?  That&#039;s mean.
+     </div>
+     <div class="fullDesc Mah-130 Ovy-s Fz-13 Lh-18 Ol-n D-n" tabindex="-1">
+       <span class="Hpx-15 Wpx-14 D-ib shared-sprite win-best-answer-icon-14"></span><span class="Fw-b">Best answer:</span> Would you consider me unsavory?  Without knowing my hopes, dreams, abilities?  That&#039;s mean.
+       
+     </div>
+     <div class="Clr-888 Fz-12 Lh-18">
+       95 answers
+       <span class="Fz-14">&middot;</span>
+         <a class="Clr-b" href="/dir/index/discover?sid=396545450" data-ylk="slk:cat;bpos:1;cpos:13;qid:20170222134201AAF6juH;sid:396545450">Politics</a>
+         <span class="Fz-14">&middot;</span>
+       2 days ago
+     </div>
+   </div>
+ </li>
+ <li class="ya-discover-tile ya-discover-tile-qn Bfc P-14 Bdbx-1g Bgc-w" data-id="20170222133838AAYEdJP">
+ <div class="Fl-start Mend-14 Pt-3">
+   <a href="#" data-ylk="slk:btnflw;bpos:1;cpos:14;qid:20170222133838AAYEdJP" class="ya-flwq-btn" role="button" aria-label="Follow Why do we eat icecrem?" aria-pressed="false">
+     <span class="Bgc-w D-ib Hpx-24 Wpx-24 Bdx-1dg shared-sprite gray-star ya-flwq-icon"></span>
+   </a>
+ </div>
+   <div class="Bfc">
+     <h3><a class="Fz-14 Fw-b Clr-b Wow-bw title" href="/question/index?qid=20170222133838AAYEdJP" data-ylk="slk:qtitle;bpos:1;cpos:14;qid:20170222133838AAYEdJP">Why do we eat icecrem?</a></h3>
+     <div class="desc Fz-13 Lh-18">
+                
+     </div>
+     <div class="fullDesc Mah-130 Ovy-s Fz-13 Lh-18 Ol-n D-n" tabindex="-1">
+       
+     </div>
+     <div class="Clr-888 Fz-12 Lh-18">
+       98 answers
+       <span class="Fz-14">&middot;</span>
+         <a class="Clr-b" href="/dir/index/discover?sid=396545372" data-ylk="slk:cat;bpos:1;cpos:14;qid:20170222133838AAYEdJP;sid:396545372">Other - Food &amp; Drink</a>
+         <span class="Fz-14">&middot;</span>
+       2 days ago
+     </div>
+   </div>
+ </li>
+ <li class="ya-discover-tile ya-discover-tile-qn Bfc P-14 Bdbx-1g Bgc-w" data-id="20170223154925AAv8tHV">
+ <div class="Fl-start Mend-14 Pt-3">
+   <a href="#" data-ylk="slk:btnflw;bpos:1;cpos:15;qid:20170223154925AAv8tHV" class="ya-flwq-btn" role="button" aria-label="Follow When will America recognize Hillary as the rightful winner of the election?" aria-pressed="false">
+     <span class="Bgc-w D-ib Hpx-24 Wpx-24 Bdx-1dg shared-sprite gray-star ya-flwq-icon"></span>
+   </a>
+ </div>
+   <div class="Bfc">
+     <h3><a class="Fz-14 Fw-b Clr-b Wow-bw title" href="/question/index?qid=20170223154925AAv8tHV" data-ylk="slk:qtitle;bpos:1;cpos:15;qid:20170223154925AAv8tHV">When will America recognize Hillary as the rightful winner of the election?</a></h3>
+     <div class="desc Fz-13 Lh-18">
+                
+     </div>
+     <div class="fullDesc Mah-130 Ovy-s Fz-13 Lh-18 Ol-n D-n" tabindex="-1">
+       
+     </div>
+     <div class="Clr-888 Fz-12 Lh-18">
+       45 answers
+       <span class="Fz-14">&middot;</span>
+         <a class="Clr-b" href="/dir/index/discover?sid=396547134" data-ylk="slk:cat;bpos:1;cpos:15;qid:20170223154925AAv8tHV;sid:396547134">Elections</a>
+         <span class="Fz-14">&middot;</span>
+       1 day ago
+     </div>
+   </div>
+ </li>
+ <li class="ya-discover-tile ya-discover-tile-qn Bfc P-14 Bdbx-1g Bgc-w" data-id="20170221003849AAX2sIt">
+ <div class="Fl-start Mend-14 Pt-3">
+   <a href="#" data-ylk="slk:btnflw;bpos:1;cpos:16;qid:20170221003849AAX2sIt" class="ya-flwq-btn" role="button" aria-label="Follow Are men who bash women secretly gay?" aria-pressed="false">
+     <span class="Bgc-w D-ib Hpx-24 Wpx-24 Bdx-1dg shared-sprite gray-star ya-flwq-icon"></span>
+   </a>
+ </div>
+   <div class="Bfc">
+     <h3><a class="Fz-14 Fw-b Clr-b Wow-bw title" href="/question/index?qid=20170221003849AAX2sIt" data-ylk="slk:qtitle;bpos:1;cpos:16;qid:20170221003849AAX2sIt">Are men who bash women secretly gay?</a></h3>
+     <div class="desc Fz-13 Lh-18">
+       <span class="Hpx-15 Wpx-14 D-ib shared-sprite win-best-answer-icon-14"></span><span class="Fw-b">Best answer:</span>
+         You are 50% right.. 
+There are in fact TWO reasons why men in this section so viscously hate on women.. 
+
+1) They have been rejected by women their whole life (most are secret virgins)..
+ Naturally being rejected by a woman can be a humiliating, painful experience. Men more so than women hold grudges and over the...
+<a class='ya-show-more Clr-b Cur-p' href="#" tabindex="0">show more</a>     </div>
+     <div class="fullDesc Mah-130 Ovy-s Fz-13 Lh-18 Ol-n D-n" tabindex="-1">
+       <span class="Hpx-15 Wpx-14 D-ib shared-sprite win-best-answer-icon-14"></span><span class="Fw-b">Best answer:</span> You are 50% right..  <br>
+There are in fact TWO reasons why men in this section so viscously hate on women..  <br>
+ <br>
+1) They have been rejected by women their whole life (most are secret virgins).. <br>
+ Naturally being rejected by a woman can be a humiliating, painful experience. Men more so than women hold grudges and over the years this turns into Misogyny of women.  <br>
+ <br>
+2) They are secretly gay..  <br>
+Most misogynists are actually homosexuals. It&#039;s unclear why this happens but there is strong evidence it has to do with their mothers and their upbringing. Also just from my experience in this section I can see from the answers that the men are very feminine and weak.      <br>
+ <br>
+But yes, saying bad things about women doesn&#039;t make you better than them. It just makes you look like a loser and insecure.
+       
+     </div>
+     <div class="Clr-888 Fz-12 Lh-18">
+       167 answers
+       <span class="Fz-14">&middot;</span>
+         <a class="Clr-b" href="/dir/index/discover?sid=396545307" data-ylk="slk:cat;bpos:1;cpos:16;qid:20170221003849AAX2sIt;sid:396545307">Gender Studies</a>
+         <span class="Fz-14">&middot;</span>
+       4 days ago
+     </div>
+   </div>
+ </li>
+ <li class="ya-discover-tile ya-discover-tile-qn Bfc P-14 Bdbx-1g Bgc-w" data-id="20170223180900AAN1EjH">
+ <div class="Fl-start Mend-14 Pt-3">
+   <a href="#" data-ylk="slk:btnflw;bpos:1;cpos:17;qid:20170223180900AAN1EjH" class="ya-flwq-btn" role="button" aria-label="Follow Are Australians racist towards Asians?" aria-pressed="false">
+     <span class="Bgc-w D-ib Hpx-24 Wpx-24 Bdx-1dg shared-sprite gray-star ya-flwq-icon"></span>
+   </a>
+ </div>
+   <div class="Bfc">
+     <h3><a class="Fz-14 Fw-b Clr-b Wow-bw title" href="/question/index?qid=20170223180900AAN1EjH" data-ylk="slk:qtitle;bpos:1;cpos:17;qid:20170223180900AAN1EjH">Are Australians racist towards Asians?</a></h3>
+     <div class="desc Fz-13 Lh-18">
+                For all you aussies living down under, I have heard various things - I&#39;ve heard that aussies are really laid back and nice, however I&#39;ve also heard that they can be racist towards asians.
+
+I was considering attending a U in Melbourne but Im rethinking - I was born in America and I do speak fluent english...
+<a class='ya-show-more Clr-b Cur-p' href="#" tabindex="0">show more</a>     </div>
+     <div class="fullDesc Mah-130 Ovy-s Fz-13 Lh-18 Ol-n D-n" tabindex="-1">
+       For all you aussies living down under, I have heard various things - I&#039;ve heard that aussies are really laid back and nice, however I&#039;ve also heard that they can be racist towards asians.
+
+I was considering attending a U in Melbourne but Im rethinking - I was born in America and I do speak fluent english however I am of chinese decent.
+
+Is it true that there is obvious racism towards asians in australia?
+     </div>
+     <div class="Clr-888 Fz-12 Lh-18">
+       23 answers
+       <span class="Fz-14">&middot;</span>
+         <a class="Clr-b" href="/dir/index/discover?sid=396546158" data-ylk="slk:cat;bpos:1;cpos:17;qid:20170223180900AAN1EjH;sid:396546158">Other - Australia</a>
+         <span class="Fz-14">&middot;</span>
+       23 hours ago
+     </div>
+   </div>
+ </li>
+ <li class="ya-discover-tile ya-discover-tile-qn Bfc P-14 Bdbx-1g Bgc-w" data-id="20170223082429AAoPVlX">
+ <div class="Fl-start Mend-14 Pt-3">
+   <a href="#" data-ylk="slk:btnflw;bpos:1;cpos:18;qid:20170223082429AAoPVlX" class="ya-flwq-btn" role="button" aria-label="Follow Can a 6 year old consent to marriage and a 9 year old consent to sex, and yes, in case you are wondering, I do mean Aisha?" aria-pressed="false">
+     <span class="Bgc-w D-ib Hpx-24 Wpx-24 Bdx-1dg shared-sprite gray-star ya-flwq-icon"></span>
+   </a>
+ </div>
+   <div class="Bfc">
+     <h3><a class="Fz-14 Fw-b Clr-b Wow-bw title" href="/question/index?qid=20170223082429AAoPVlX" data-ylk="slk:qtitle;bpos:1;cpos:18;qid:20170223082429AAoPVlX">Can a 6 year old consent to marriage and a 9 year old consent to sex, and yes, in case you are wondering, I do mean Aisha?</a></h3>
+     <div class="desc Fz-13 Lh-18">
+                What say ye?
+     </div>
+     <div class="fullDesc Mah-130 Ovy-s Fz-13 Lh-18 Ol-n D-n" tabindex="-1">
+       What say ye?
+     </div>
+     <div class="Clr-888 Fz-12 Lh-18">
+       33 answers
+       <span class="Fz-14">&middot;</span>
+         <a class="Clr-b" href="/dir/index/discover?sid=396546509" data-ylk="slk:cat;bpos:1;cpos:18;qid:20170223082429AAoPVlX;sid:396546509">Ramadan</a>
+         <span class="Fz-14">&middot;</span>
+       1 day ago
+     </div>
+   </div>
+ </li>
+ <li class="ya-discover-tile ya-discover-tile-qn Bfc P-14 Bdbx-1g Bgc-w" data-id="20170219162939AAtTKNQ">
+ <div class="Fl-start Mend-14 Pt-3">
+   <a href="#" data-ylk="slk:btnflw;bpos:1;cpos:19;qid:20170219162939AAtTKNQ" class="ya-flwq-btn" role="button" aria-label="Follow My president lied about a terrorist attack in Sweden, but he says that the journalists who called him out are the lying. Who is right?" aria-pressed="false">
+     <span class="Bgc-w D-ib Hpx-24 Wpx-24 Bdx-1dg shared-sprite gray-star ya-flwq-icon"></span>
+   </a>
+ </div>
+   <div class="Bfc">
+     <h3><a class="Fz-14 Fw-b Clr-b Wow-bw title" href="/question/index?qid=20170219162939AAtTKNQ" data-ylk="slk:qtitle;bpos:1;cpos:19;qid:20170219162939AAtTKNQ">My president lied about a terrorist attack in Sweden, but he says that the journalists who called him out are the lying. Who is right?</a></h3>
+     <div class="desc Fz-13 Lh-18">
+                
+     </div>
+     <div class="fullDesc Mah-130 Ovy-s Fz-13 Lh-18 Ol-n D-n" tabindex="-1">
+       
+     </div>
+     <div class="Clr-888 Fz-12 Lh-18">
+       479 answers
+       <span class="Fz-14">&middot;</span>
+         <a class="Clr-b" href="/dir/index/discover?sid=396545450" data-ylk="slk:cat;bpos:1;cpos:19;qid:20170219162939AAtTKNQ;sid:396545450">Politics</a>
+         <span class="Fz-14">&middot;</span>
+       5 days ago
+     </div>
+   </div>
+ </li>
+ <li class="ya-discover-tile ya-discover-tile-qn Bfc P-14 Bdbx-1g Bgc-w" data-id="20170223190933AA0JpVX">
+ <div class="Fl-start Mend-14 Pt-3">
+   <a href="#" data-ylk="slk:btnflw;bpos:1;cpos:20;qid:20170223190933AA0JpVX" class="ya-flwq-btn" role="button" aria-label="Follow Can my boss actually fire me?" aria-pressed="false">
+     <span class="Bgc-w D-ib Hpx-24 Wpx-24 Bdx-1dg shared-sprite gray-star ya-flwq-icon"></span>
+   </a>
+ </div>
+   <div class="Bfc">
+     <h3><a class="Fz-14 Fw-b Clr-b Wow-bw title" href="/question/index?qid=20170223190933AA0JpVX" data-ylk="slk:qtitle;bpos:1;cpos:20;qid:20170223190933AA0JpVX">Can my boss actually fire me?</a></h3>
+     <div class="desc Fz-13 Lh-18">
+                he said that if anyone take the day off (who is scheduled to work) or walks off the job without approval, or the womens strike will be terminated. 
+
+can he do this? is it even legal? 
+
+im still walking off the job to protest the unfair gender wage gap.
+     </div>
+     <div class="fullDesc Mah-130 Ovy-s Fz-13 Lh-18 Ol-n D-n" tabindex="-1">
+       he said that if anyone take the day off (who is scheduled to work) or walks off the job without approval, or the womens strike will be terminated. 
+
+can he do this? is it even legal? 
+
+im still walking off the job to protest the unfair gender wage gap.
+     </div>
+     <div class="Clr-888 Fz-12 Lh-18">
+       38 answers
+       <span class="Fz-14">&middot;</span>
+         <a class="Clr-b" href="/dir/index/discover?sid=396545448" data-ylk="slk:cat;bpos:1;cpos:20;qid:20170223190933AA0JpVX;sid:396545448">Law &amp; Ethics</a>
+         <span class="Fz-14">&middot;</span>
+       22 hours ago
+     </div>
+   </div>
+ </li>
+<noscript>
+  <div>
+    <a href="/discover?after=pc20%7Ep%3A0">Click me to see next set of Questions!</a>
+  </div>
+</noscript>
+</ul>
+<div id='ya-infinite-scroll' class="Hpx-10">
+  <div id="ya-infinite-scroll-message" class="P-10 Ta-c"></div>
+</div>
+      <script type="text/x-safeframe" id="fc" _ver="2-9-17">{ "positions": [ { "html": "<!-- SpaceID=0 robot -->\n", "id": "LREC", "meta": { "y": { "cscHTML": "", "cscURI": "", "impID": "", "supp_ugc": "", "placementID": "-1", "creativeID": "-1", "serveTime": "-1", "behavior": "non_exp", "adID": "#19", "matchID": "#19", "err": "robot", "facStatus": {}, "hasExternal": 0, "size": "", "bookID": "", "serveType": "", "slotID": "", "fdb": "{ \"fdb_url\": \"http:\\/\\/beap-bc.yahoo.com\\/af?bv=1.0.0&bs=(15ir45r6b(gid$jmTVQDk4LjHHbFsHU5jMkgKkMTAuNwAAAACljpkK,st$1402537233026922,srv$1,si$13303551,adv$25941429036,ct$25,li$3239250051,exp$1402544433026922,cr$4154984551,pbid$25372728133,v$1.0))&al=(type${type},cmnt${cmnt},subo${subo})&r=10\", \"fdb_on\": \"1\", \"fdb_exp\": \"1402544433026\", \"fdb_intl\": \"en-us\" , \"d\" : \"1\" }", "slotData": {}, "adc": "{\"label\":\"AdChoices\",\"url\":\"https:\\/\\/info.yahoo.com\\/privacy\\/us\\/yahoo\\/relevantads.html\",\"close\":\"Close\",\"closeAd\":\"Close Ad\",\"showAd\":\"Show ad\",\"collapse\":\"Collapse\",\"fdb\":\"I don't like this ad\",\"code\":\"en-us\"}", "is3rd": "1", "userProvidedData": {} } } },{ "html": "<!-- SpaceID=0 robot -->\n", "id": "LDRB", "meta": { "y": { "cscHTML": "", "cscURI": "", "impID": "", "supp_ugc": "", "placementID": "-1", "creativeID": "-1", "serveTime": "-1", "behavior": "non_exp", "adID": "#19", "matchID": "#19", "err": "robot", "facStatus": {}, "hasExternal": 0, "size": "", "bookID": "", "serveType": "", "slotID": "", "fdb": "{ \"fdb_url\": \"http:\\/\\/beap-bc.yahoo.com\\/af?bv=1.0.0&bs=(15ir45r6b(gid$jmTVQDk4LjHHbFsHU5jMkgKkMTAuNwAAAACljpkK,st$1402537233026922,srv$1,si$13303551,adv$25941429036,ct$25,li$3239250051,exp$1402544433026922,cr$4154984551,pbid$25372728133,v$1.0))&al=(type${type},cmnt${cmnt},subo${subo})&r=10\", \"fdb_on\": \"1\", \"fdb_exp\": \"1402544433026\", \"fdb_intl\": \"en-us\" , \"d\" : \"1\" }", "slotData": {}, "adc": "{\"label\":\"AdChoices\",\"url\":\"https:\\/\\/info.yahoo.com\\/privacy\\/us\\/yahoo\\/relevantads.html\",\"close\":\"Close\",\"closeAd\":\"Close Ad\",\"showAd\":\"Show ad\",\"collapse\":\"Collapse\",\"fdb\":\"I don't like this ad\",\"code\":\"en-us\"}", "is3rd": "1", "userProvidedData": {} } } },{ "html": "<!-- SpaceID=0 robot -->\n", "id": "LREC2", "meta": { "y": { "cscHTML": "", "cscURI": "", "impID": "", "supp_ugc": "", "placementID": "-1", "creativeID": "-1", "serveTime": "-1", "behavior": "non_exp", "adID": "#19", "matchID": "#19", "err": "robot", "facStatus": {}, "hasExternal": 0, "size": "", "bookID": "", "serveType": "", "slotID": "", "fdb": "{ \"fdb_url\": \"http:\\/\\/beap-bc.yahoo.com\\/af?bv=1.0.0&bs=(15ir45r6b(gid$jmTVQDk4LjHHbFsHU5jMkgKkMTAuNwAAAACljpkK,st$1402537233026922,srv$1,si$13303551,adv$25941429036,ct$25,li$3239250051,exp$1402544433026922,cr$4154984551,pbid$25372728133,v$1.0))&al=(type${type},cmnt${cmnt},subo${subo})&r=10\", \"fdb_on\": \"1\", \"fdb_exp\": \"1402544433026\", \"fdb_intl\": \"en-us\" , \"d\" : \"1\" }", "slotData": {}, "adc": "{\"label\":\"AdChoices\",\"url\":\"https:\\/\\/info.yahoo.com\\/privacy\\/us\\/yahoo\\/relevantads.html\",\"close\":\"Close\",\"closeAd\":\"Close Ad\",\"showAd\":\"Show ad\",\"collapse\":\"Collapse\",\"fdb\":\"I don't like this ad\",\"code\":\"en-us\"}", "is3rd": "1", "userProvidedData": {} } } },{ "html": "<!-- SpaceID=0 robot -->\n", "id": "MAST", "meta": { "y": { "cscHTML": "", "cscURI": "", "impID": "", "supp_ugc": "", "placementID": "-1", "creativeID": "-1", "serveTime": "-1", "behavior": "non_exp", "adID": "#19", "matchID": "#19", "err": "robot", "facStatus": {}, "hasExternal": 0, "size": "", "bookID": "", "serveType": "", "slotID": "", "fdb": "{ \"fdb_url\": \"http:\\/\\/beap-bc.yahoo.com\\/af?bv=1.0.0&bs=(15ir45r6b(gid$jmTVQDk4LjHHbFsHU5jMkgKkMTAuNwAAAACljpkK,st$1402537233026922,srv$1,si$13303551,adv$25941429036,ct$25,li$3239250051,exp$1402544433026922,cr$4154984551,pbid$25372728133,v$1.0))&al=(type${type},cmnt${cmnt},subo${subo})&r=10\", \"fdb_on\": \"1\", \"fdb_exp\": \"1402544433026\", \"fdb_intl\": \"en-us\" , \"d\" : \"1\" }", "slotData": {}, "adc": "{\"label\":\"AdChoices\",\"url\":\"https:\\/\\/info.yahoo.com\\/privacy\\/us\\/yahoo\\/relevantads.html\",\"close\":\"Close\",\"closeAd\":\"Close Ad\",\"showAd\":\"Show ad\",\"collapse\":\"Collapse\",\"fdb\":\"I don't like this ad\",\"code\":\"en-us\"}", "is3rd": "1", "userProvidedData": {} } } } ], "meta": { "y": { "pageEndHTML": "", "pos_list": [ "LREC","LDRB","LREC2","MAST" ], "filtered": [  ], "spaceID": "396547299", "host": "answers.yahoo.com", "lookupTime": "64", "k2_uri": "", "fac_rt": "", "serveTime":"-1", "pvid": "tEnb.TY4LjHDoDNlgkG_QxolMTI4LgAAAAD5yJ0L", "tID": "darla_prefetch_1487956955721_1102446617_1", "npv": "1", "ep": "{\"nopageview\":true,\"secure\":true,\"ref\":\"https:\\/\\/answers.yahoo.com\",\"filter\":\"no_expandable;exp_iframe_expandable;\",\"darlaID\":\"darla_instance_1487956955721_1745375871_0\"}", "pe": "", "pym": "" } } } </script>
+    
+    </div>
+  <div id='ya-right-rail' class='Col3 Pos-a End-0 Z-9 Stack'>
+      <div id="ColWrap" class="ya-right-rail-sticker"  data-plugin="sticker" >
+      <div id="Aside" class="Row Pstart-20" role="complementary">
+            <div id='ya-askbar-holder' role="complementary">
+<form method="post" action="/question/ask" class="ask-widget Maw-314 Bgc-w Bdx-1prpl Bxsh-003-prpl Mt-0 Mend-3" autocomplete="off">
+	<div class="label-bar Pt-14 Pend-14 Pb-14 Pstart-14">
+        <div class="Bgc-t Bgr-n Va-m Fl-start shared-sprite ask-star-icon D-ib Mend-5 Wpx-25 Hpx-25 Fl-start"></div>
+        <h2 class="D-ib Fz-18 Fw-300 Mt-neg-1">Ask a question</h2>
+        <div class="Fw-300 ">usually answered in minutes!</div>
+	</div>
+	<div class="input-container Bdx-1dg Mt-5 Mx-14 Mb-14">
+		<textarea class="ask-ques-title P-10 Bdx-1w W-100 M-0 Rz-n Bsz-b Mih-100 Va-t" name="title" placeholder="What's up?"></textarea>
+		<div class='ask-ques-detail-cont D-n'>
+            <div class="ask-ques-detail-wrapper Pb-25">
+			<textarea style="overflow: hidden;" class="ask-ques-detail Pt-14 Pend-10 Pstart-10 Bd-0 Bdtd-ldg W-100 Rz-v Bsz-b Mih-165 Va-t M-0" name="details"></textarea>
+            </div>
+			<div class="expand-view Pstart-10 Pb-10 Clr-b Cur-p Mt-neg-25">Expand&raquo;</div>
+		</div>
+                <div class="multimedia D-n"></div>
+                <div id='mm-preview'></div>
+		<div class="util-bar Py-5 Px-10 Hpx-25 Bgc-lgr Lh-20 Bdtd-ldg">
+			<div class="ask-details Maw-75 W-100 Va-m Fl-n Cur-p D-ib Mt-3 Whs-nw Ov-h Ol-n" role="button" tabindex="0">
+				<div class="Bgc-t Bgr-n Va-m Fl-start shared-sprite ask-details-icon D-ib Mend-5 Wpx-20 Hpx-20"></div> 
+				<div class="D-ib Fz-12">Details</div>
+			</div>
+			<div class="ask-details-disabled Maw-75 W-100 Va-m Fl-n Cur-p D-ib Mt-3 D-n Clr-ce Ol-n" role="button" aria-disabled="true" tabindex="0">
+				<div class="Bgc-t Bgr-n Va-m Fl-start shared-sprite ask-details-disabled-icon D-ib Mend-5 Wpx-20 Hpx-20"></div>
+				<div class="D-ib Fz-12">Details</div>
+			</div>
+			<input type="submit" value="Submit" data-ylk='slk:submit' class="ya-button Bgc-b Clr-w Cur-p D-ib Lh-20 M-0 Py-1 Px-9 Ta-c Bdx-1b Bdrs-2 ask-submit Miw-0 Fl-end">
+		</div>
+	</div>
+
+	<div class="remain-message Ta-r Pstart-14 Pend-14 Clr-ce"></div>
+	<div class="ask-existing-ques Mb-26 Bdtd-ldg D-n">
+		<div class="Pb-20 Fz-18 Py-20 Pstart-14 Fw-300 existing-label">Existing questions</div>
+  		<div class='Px-14'>
+      	<ul class="M-0">
+        </ul>
+      </div>
+      <div id="ya-exst-more" class="existing-more Pend-14 Whs-nw Pb-14 Fl-end D-ib" data-ya-track="1" data-ya-mod="exstmore"><a class="more-link Clr-2c46c7 Fw-n" href="#">More<i class="shared-sprite rightbeak Mt-1 D-ib Bgc-t Wpx-20 Hpx-20 Va-m"></i></a>
+			</div>
+	</div>
+
+	<input name="crumb" value="" type="hidden">
+	<input class="ask-mm-id" name="mmid" value="" type="hidden">
+        <ul id="ya-ask-messages" class="D-n">
+            <li class="tellUsMore">Tell us some more</li>
+            <li class="uploadInProgress">Upload in Progress</li>
+        </ul>
+</form>
+</div>
+    <div class="Hpx-10"></div>    <div id="ya-darla-LREC" class="Ta-c">
+<div id="boxLREC" class="Wpx-300 Mih-250 D-ib">
+<div id="tgtLREC" >
+</div>
+</div>
+</div>
+
+      <div class="Hpx-10"></div>
+<div id="ya-trending-now" class="Bgc-w Mb-10 Bdx-1g Dn Pb-14" data-ya-track="1" data-ya-mod="trndnow" role="complementary">
+  <h2 class="Fz-18 Fw-300 P-14">Trending Now</h2>
+  <div>
+    <ul>
+      <li class="Ell Pstart-14 Py-8 W-44 Cur-p Fl-start Clear-l"><span class="Ta-e">1.</span>
+        <a href="https://search.yahoo.com/search?p=Reese Witherspoon&fr=answers-tts-abp&fr2=p:ans,m:tn,ct:all,pg:1,stl:rrm" class="unselected Fz-13 Fw-b Clr-b" data-ylk="slk:Reese Witherspoon;cpos:1">
+          <span>Reese Witherspoon</span>
+        </a>
+      </li>
+      <li class="Ell Pstart-14 Py-8 W-44 Cur-p Fl-start Clear-l"><span class="Ta-e">2.</span>
+        <a href="https://search.yahoo.com/search?p=Britney Spears&fr=answers-tts-abp&fr2=p:ans,m:tn,ct:all,pg:1,stl:rrm" class="unselected Fz-13 Fw-b Clr-b" data-ylk="slk:Britney Spears;cpos:2">
+          <span>Britney Spears</span>
+        </a>
+      </li>
+      <li class="Ell Pstart-14 Py-8 W-44 Cur-p Fl-start Clear-l"><span class="Ta-e">3.</span>
+        <a href="https://search.yahoo.com/search?p=Emma Watson&fr=answers-tts-abp&fr2=p:ans,m:tn,ct:all,pg:1,stl:rrm" class="unselected Fz-13 Fw-b Clr-b" data-ylk="slk:Emma Watson;cpos:3">
+          <span>Emma Watson</span>
+        </a>
+      </li>
+      <li class="Ell Pstart-14 Py-8 W-44 Cur-p Fl-start Clear-l"><span class="Ta-e">4.</span>
+        <a href="https://search.yahoo.com/search?p=John Mellencamp&fr=answers-tts-abp&fr2=p:ans,m:tn,ct:all,pg:1,stl:rrm" class="unselected Fz-13 Fw-b Clr-b" data-ylk="slk:John Mellencamp;cpos:4">
+          <span>John Mellencamp</span>
+        </a>
+      </li>
+      <li class="Ell Pstart-14 Py-8 W-44 Cur-p Fl-start Clear-l"><span class="Ta-e">5.</span>
+        <a href="https://search.yahoo.com/search?p=Senior Phone Plans&fr=answers-tts-abp&fr2=p:ans,m:tn,ct:all,pg:1,stl:rrm" class="unselected Fz-13 Fw-b Clr-b" data-ylk="slk:Senior Phone Plans;cpos:5">
+          <span>Senior Phone Plans</span>
+        </a>
+      </li>
+      <li class="Ell Pstart-14 Py-8 W-44 Cur-p "><span class="Ta-e">6.</span>
+        <a href="https://search.yahoo.com/search?p=Credit Cards Offers&fr=answers-tts-abp&fr2=p:ans,m:tn,ct:all,pg:1,stl:rrm" class="unselected Fz-13 Fw-b Clr-b" data-ylk="slk:Credit Cards Offers;cpos:6">
+          <span>Credit Cards Offers</span>
+        </a>
+      </li>
+      <li class="Ell Pstart-14 Py-8 W-44 Cur-p "><span class="Ta-e">7.</span>
+        <a href="https://search.yahoo.com/search?p=Tom Brady&fr=answers-tts-abp&fr2=p:ans,m:tn,ct:all,pg:1,stl:rrm" class="unselected Fz-13 Fw-b Clr-b" data-ylk="slk:Tom Brady;cpos:7">
+          <span>Tom Brady</span>
+        </a>
+      </li>
+      <li class="Ell Pstart-14 Py-8 W-44 Cur-p "><span class="Ta-e">8.</span>
+        <a href="https://search.yahoo.com/search?p=Demi Moore&fr=answers-tts-abp&fr2=p:ans,m:tn,ct:all,pg:1,stl:rrm" class="unselected Fz-13 Fw-b Clr-b" data-ylk="slk:Demi Moore;cpos:8">
+          <span>Demi Moore</span>
+        </a>
+      </li>
+      <li class="Ell Pstart-14 Py-8 W-44 Cur-p "><span class="Ta-e">9.</span>
+        <a href="https://search.yahoo.com/search?p=QuickBooks Support&fr=answers-tts-abp&fr2=p:ans,m:tn,ct:all,pg:1,stl:rrm" class="unselected Fz-13 Fw-b Clr-b" data-ylk="slk:QuickBooks Support;cpos:9">
+          <span>QuickBooks Support</span>
+        </a>
+      </li>
+      <li class="Ell Pstart-14 Py-8 W-44 Cur-p "><span class="Ta-e">10.</span>
+        <a href="https://search.yahoo.com/search?p=LeBron James&fr=answers-tts-abp&fr2=p:ans,m:tn,ct:all,pg:1,stl:rrm" class="unselected Fz-13 Fw-b Clr-b" data-ylk="slk:LeBron James;cpos:10">
+          <span>LeBron James</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>    <div class="Hpx-10"></div>    <div class="Bgc-w Bdx-1dg Pb-14" data-ya-mod='usr_ldrb' data-ya-track='1' id="ya-leader-board" role="complementary">
+  <div id="ya-leader-board-title" class="Pstart-14 Pend-10 Py-14 Pos-r">
+    <h2 id="ya-leader-board-title-text" class="Fz-18 Clr-bl Fw-300">Leaderboard</h2>
+    <div class="Pos-a T-14 R-10 Pt-3">
+      <a href='/rank_total' class="Clr-b D-ib Va-t unselected" data-ylk="slk:moreldrs">Show more</a>
+      <span class="shared-sprite help-footer-icon Wpx-14 Hpx-20 D-ib"></span>
+    </div>
+  </div>
+  <table class="W-100 Bc-c" aria-labelledby="ya-leader-board-title-text">
+    <thead>
+      <tr id="ya-leader-board-header" class="Bgc-lgr">
+        <th class="Pstart-14 Py-10 Ta-l Fw-400" colspan="3" scope="col">In All Categories</th>
+        <th class="Ta-r Pend-14 Mb-10 Fw-400" scope="col">Points</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td class="Pstart-14 Fw-b Fz-14 Wpx-20 Clr-a6a6a6 Pt-12">1</td>
+      <td class="Wpx-52 Pt-12 Pb-2"><img height="48px" width="48px" class="Bdrs-24" src="https://s.yimg.com/wv/images/f936161c385c9ad292d21c1c248edb59_48.png" alt="AuntKatie" /></td>
+      <td class="Ta-l Fw-b Maw-125 Wow-bw Pt-12" ><a href="/activity/questions?show=7E2UHJOEAYQV4OEXDU2U3XHYJ4&t=g" class="Clr-b" data-ylk="slk:usract">AuntKatie</a></td>
+      <td class="Pend-14 Wpx-82 Ta-r Pt-12">1,766,825</td>
+    </tr>
+    <tr>
+      <td class="Pstart-14 Fw-b Fz-14 Wpx-20 Clr-a6a6a6">2</td>
+      <td class="Wpx-52 Py-2"><img height="48px" width="48px" class="Bdrs-24" src="https://s.yimg.com/wv/images/25312e372d45d030b741599ed96b34d4_48.jpg" alt="conley39" /></td>
+      <td class="Ta-l Fw-b Maw-125 Wow-bw" ><a href="/activity/questions?show=6TG57EWJ2B6RQLTD2UWDIFS7HU&t=g" class="Clr-b" data-ylk="slk:usract">conley39</a></td>
+      <td class="Pend-14 Wpx-82 Ta-r">1,546,994</td>
+    </tr>
+    <tr>
+      <td class="Pstart-14 Fw-b Fz-14 Wpx-20 Clr-a6a6a6">3</td>
+      <td class="Wpx-52 Py-2"><img height="48px" width="48px" class="Bdrs-24" src="https://s.yimg.com/dg/users/17zDfa-wqAAEC4yRMwapJBw==.medium.jpg" alt="Experto Credo" /></td>
+      <td class="Ta-l Fw-b Maw-125 Wow-bw" ><a href="/activity/questions?show=3YFEB4OWQ4ZIN63HTRHUDUX7LY&t=g" class="Clr-b" data-ylk="slk:usract">Experto Credo</a></td>
+      <td class="Pend-14 Wpx-82 Ta-r">1,417,607</td>
+    </tr>
+    <tr>
+      <td class="Pstart-14 Fw-b Fz-14 Wpx-20 Clr-a6a6a6">4</td>
+      <td class="Wpx-52 Py-2"><img height="48px" width="48px" class="Bdrs-24" src="https://s.yimg.com/dg/users/10_KcrnmxAAACQWEo8IdUUXcA.medium.jpg" alt="postal p" /></td>
+      <td class="Ta-l Fw-b Maw-125 Wow-bw" ><a href="/activity/questions?show=P4X634WDMEIKLR65A4C4HWR7MA&t=g" class="Clr-b" data-ylk="slk:usract">postal p</a></td>
+      <td class="Pend-14 Wpx-82 Ta-r">1,172,616</td>
+    </tr>
+    <tr>
+      <td class="Pstart-14 Fw-b Fz-14 Wpx-20 Clr-a6a6a6">5</td>
+      <td class="Wpx-52 Py-2"><img height="48px" width="48px" class="Bdrs-24" src="https://s.yimg.com/sf/modern/images/default_user_profile_pic_48.png" alt="DrIG" /></td>
+      <td class="Ta-l Fw-b Maw-125 Wow-bw" ><a href="/activity/questions?show=C46JVS4GGILOGK5656DR2CCOMU&t=g" class="Clr-b" data-ylk="slk:usract">DrIG</a></td>
+      <td class="Pend-14 Wpx-82 Ta-r">1,153,871</td>
+    </tr>
+    <tr>
+      <td class="Pstart-14 Fw-b Fz-14 Wpx-20 Clr-a6a6a6">6</td>
+      <td class="Wpx-52 Py-2"><img height="48px" width="48px" class="Bdrs-24" src="https://s.yimg.com/wv/images/516e7284a67d9aeaef674875c145aae9_48.jpeg" alt="nas88car300" /></td>
+      <td class="Ta-l Fw-b Maw-125 Wow-bw" ><a href="/activity/questions?show=BM73SA4QWPWOCAEVNBBJO6O5SE&t=g" class="Clr-b" data-ylk="slk:usract">nas88car300</a></td>
+      <td class="Pend-14 Wpx-82 Ta-r">1,083,444</td>
+    </tr>
+    <tr>
+      <td class="Pstart-14 Fw-b Fz-14 Wpx-20 Clr-a6a6a6">7</td>
+      <td class="Wpx-52 Py-2"><img height="48px" width="48px" class="Bdrs-24" src="https://s.yimg.com/dg/users/10hNP65G7AAEBQgE_4IscMpCMJQ==.medium.png" alt="Veronica C" /></td>
+      <td class="Ta-l Fw-b Maw-125 Wow-bw" ><a href="/activity/questions?show=J5UWUGNSUG567TS35KSNF2G5XQ&t=g" class="Clr-b" data-ylk="slk:usract">Veronica C</a></td>
+      <td class="Pend-14 Wpx-82 Ta-r">1,033,001</td>
+    </tr>
+    <tr>
+      <td class="Pstart-14 Fw-b Fz-14 Wpx-20 Clr-a6a6a6">8</td>
+      <td class="Wpx-52 Py-2"><img height="48px" width="48px" class="Bdrs-24" src="https://s.yimg.com/wv/images/1a4eb943f50879770bc058619b176670_48.jpeg" alt="Barkley Hound" /></td>
+      <td class="Ta-l Fw-b Maw-125 Wow-bw" ><a href="/activity/questions?show=WRPREEXLP4XQ2HTXKH6YLQYKO4&t=g" class="Clr-b" data-ylk="slk:usract">Barkley Hound</a></td>
+      <td class="Pend-14 Wpx-82 Ta-r">1,019,375</td>
+    </tr>
+    <tr>
+      <td class="Pstart-14 Fw-b Fz-14 Wpx-20 Clr-a6a6a6">9</td>
+      <td class="Wpx-52 Py-2"><img height="48px" width="48px" class="Bdrs-24" src="https://s.yimg.com/wv/images/4aa5f70abca819694b77db059690266b_48.jpg" alt="." /></td>
+      <td class="Ta-l Fw-b Maw-125 Wow-bw" ><a href="/activity/questions?show=UFZBMGP4FKAN3YTEY5EBNOSI6U&t=g" class="Clr-b" data-ylk="slk:usract">.</a></td>
+      <td class="Pend-14 Wpx-82 Ta-r">952,883</td>
+    </tr>
+    <tr>
+      <td class="Pstart-14 Fw-b Fz-14 Wpx-20 Clr-a6a6a6">10</td>
+      <td class="Wpx-52 Py-2"><img height="48px" width="48px" class="Bdrs-24" src="https://s.yimg.com/wv/images/1a427ab1b105ac0c5a4be7d34514e2f3_48.jpg" alt="remoserjr107" /></td>
+      <td class="Ta-l Fw-b Maw-125 Wow-bw" ><a href="/activity/questions?show=B3PPTUQK5TSXEPXLPPAY5ZG3EQ&t=g" class="Clr-b" data-ylk="slk:usract">remoserjr107</a></td>
+      <td class="Pend-14 Wpx-82 Ta-r">924,281</td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+    <div class="Hpx-10"></div>    <div id="ya-help-widget" data-ya-mod='help' data-ya-track='1' class="help-module Pstart-14 Pend-14 Pb-14 Bgc-w Bdx-1g" role="complementary">
+    <div class="help-bestanswer-icon shared-sprite Pos-a Hpx-55 Wpx-42 R-0"></div>
+    <h2 class="help-module-header Mb-14 Pt-14 Fz-18 Fw-300 Clr-3f">Award Best Answer</h2>
+    <div class="help-module-content Mb-20">
+           Once your question has been posted for at least 1 hour and has at least one answer, click on 'Award Best Answer' button next to your chosen answer.
+    </div>
+    <div id="ya-help-footer" class="help-module-footer" data-ya-track="1" data-ya-mod="helplink">
+      <a href='https://help.yahoo.com/l/us/yahoo/answers/ask/ask-a05.html' class="unselected" data-ylk='slk:morehelp'>Help with awarding a best answer <span class="shared-sprite help-footer-icon Wpx-14 Hpx-20 D-ib">&nbsp;</span></a>
+    </div>
+</div>
+    <ul id="upload-messages" class="D-n">
+    <li class="photo-pixel-size-error">Upload failed. Please upload a file larger than 100x100 pixels</li>
+    <li class="system-error">We are experiencing some problems, please try again.</li>
+    <li class="invalid-photo">You can only upload files of type PNG, JPG, or JPEG.</li>
+    <li class="invalid-video">You can only upload files of type 3GP, 3GPP, MP4, MOV, AVI, MPG, MPEG, or RM.</li>
+    <li class="photo-size-exceed">You can only upload photos smaller than 5 MB.</li>
+    <li class="video-size-exceed">You can only upload videos smaller than 600MB.</li>
+    <li class="invalid-format">You can only upload a photo (png, jpg, jpeg) or a video (3gp, 3gpp, mp4, mov, avi, mpg, mpeg, rm).</li>
+    <li class="invalid-format-small">You can only upload a photo or a video.</li>
+    <li class="photo-size-exceed-small">Video should be smaller than &lt;b&gt;600mb/5 minutes&lt;/b&gt;</li>
+    <li class="video-size-exceed-small">Photo should be smaller than &lt;b&gt;5mb&lt;/b&gt;</li>
+    <li class="invalid-format-large"><div>Video should be smaller than &lt;b&gt;600mb/5 minutes&lt;/b&gt;</div><div>Photo should be smaller than &lt;b&gt;5mb&lt;/b&gt;</div></li>
+</ul>            <div id="ya-footer" class="Py-10 Row" role="contentinfo">
+    <ul class="Reset Row">
+        <li id="ya-ftr-trm" data-ya-track="1" data-ya-mod="ya-ftr-trm" class="Fl-start Mend-20 Pb-20">
+            <a href="https://info.yahoo.com/legal/us/yahoo/utos/terms/" class="unselected Fz-11 Fw-300">Terms</a>
+        </li>
+        <li id="ya-ftr-prv" data-ya-track="1" data-ya-mod="ya-ftr-prv" class="Fl-start Mend-20 Pb-20">
+            <a href="https://info.yahoo.com/privacy/us/yahoo/answers/details.html" class="unselected Fz-11 Fw-300">Privacy</a>
+        </li>
+        <li id="ya-ftr-ads" data-ya-track="1" data-ya-mod="ya-ftr-ads" class="Fl-start Mend-20 Pb-20">
+            <a href="https://info.yahoo.com/privacy/us/yahoo/relevantads.html" class="unselected Fz-11 Fw-300">AdChoices</a>
+        </li>
+        <li id="ya-ftr-rss" data-ya-track="1" data-ya-mod="ya-ftr-rss" class="Fl-start Mend-20 Pb-20">
+            <a href="/rss/allq?filter=intl&tab=popular" class="unselected Fz-11 Fw-300">RSS</a>
+        </li>
+    </ul>
+</div>      
+      </div>
+    </div>
+  </div>
+
+</div>
+</div>
+<script>
+  window.onerror = function (errorMsg, url, lineNumber, colNumber, errObject) {
+    var stack,
+      data = {
+        errMsg: errorMsg,
+        url: url,
+        lnum: lineNumber,
+        crumb: ''
+      };
+
+    if (errObject && errObject.stack && typeof errObject.stack === 'string') {
+      stack = errObject.stack.split('\n');
+      data.stack = JSON.stringify({last: stack[1], first: stack[stack.length - 1]});
+    }
+
+    YUI().use('io-base', function(Y) {
+      Y.io('/jserror', {
+        method: 'post',
+        data: data
+      });
+    });
+    return false;
+  };
+</script>
+<script src="https://s.yimg.com/zz/combo?kx/yucs/uh3s/uh/414/js/uh-min.js&kx/yucs/uh2/common/145/js/jsonp-super-cached-min.js&kx/yucs/uh3s/uh/379/js/escregex-min.js&kx/yucs/uh3s/uh/376/js/persistence-min.js&kx/yucs/uh3s/uh/401/js/menu_group_plugin-min.js&kx/yucs/uh3s/uh/430/js/menu-plugin-min.js&kx/yucs/uh3s/uh/463/js/menu_handler_v2-min.js&kx/yucs/uh3s/uh/376/js/gallery-jsonp-min.js&kx/yucs/uh3s/uh/408/js/logo_debug-min.js&kx/yucs/uh3/uh/js/958/localeDateFormat-min.js&kx/yucs/uh3s/uh/409/js/timestamp_library-min.js&kx/yucs/uh3s/uh/376/js/usermenu_v2-min.js&kx/yucs/uh3/signout-link/10/js/signout-min.js&kx/yucs/uhc/rapid/50/js/uh_rapid-min.js&kx/yucs/uhc/meta/66/js/meta-min.js&kx/yucs/uh_common/beacon/18/js/beacon-min.js&kx/yucs/uh2/comet/84/js/cometd-yui3-min.js&kx/yucs/uh2/comet/84/js/conn-min.js&kx/yucs/uh2/comet/84/js/dark-test-min.js&kx/yucs/uh3/disclaimer/388/js/disclaimer_seed-min.js&kx/yucs/uh3s/top-bar/137/js/top_bar_v2-min.js&kx/yucs/uh3s/top-bar/139/js/home_menu-min.js&kx/yucs/uh3s/search/379/js/search-min.js&kx/yucs/uh3s/trending-now/43/js/trending_news-min.js&kx/yucs/uh3s/help/70/js/help_menu_v4-min.js"></script>
+<script>
+  window.onload = function() {
+    YUI(yuicfg).use( 'get','ya-rapid','ya-new-logout','ya-cookie','gallery-zui-placeholder','yaft2-report','stencil-modules','ya-flyout','ya-featured','ya-tabs','ya-config-panel','ya-discover-config','ya-gen-infinite-scroll','ya-discover-tab','ya-askWidget','ya-ask-widget-controller','ya-existingQuestionsWidget','ya-textAreaWidget','ya-uploadWidget','ya-gossip' , function(Y) {
+      
+    Y.YA.Flyout.register();
+          var fc = new Y.YA.FeaturedContent({'node': '#ya-featured'});
+    var tabs = new Y.YA.Tabs.Bar({
+      'node': '#ya-tabs',
+      'hasMore': false,
+      'isStencilEnabled': 1,
+      'isStencilUH': 1
+    });
+    var confPanel = new Y.YA.Config.Panel({'node':'#ya-discover-config', 'gearCookieName': 'gearTip'});
+    var discoverConfig = new Y.YA.Config.Discover({'node':'#ya-discover-options'});
+    new Y.YA.Module.Discover({
+      'node': '#ya-discover-tab',
+      'loginUrl': 'https://login.yahoo.com/config/login_verify2?.src=knowsrch&.intl=us&.done=%7BURL%7D',
+      'pending': null,
+      'module': 'YANewDiscoverTabModule'
+    });    var infiniteScroll = new Y.YA.Interactions.InfiniteScroll({
+      'node': '#ya-infinite-scroll',
+      'message': 'Loading ...',
+      'moduleName': 'YANewDiscoverTabModule',
+      'contentNode': '#ya-discover-tab',
+      'options': {"after":"pc20~p:0","bpos":2,"cpos":21}
+    });
+            Y.Get.js('https://s.yimg.com/rq/darla/2-9-17/js/g-r-min.js',function(err){
+                var monAdEnabled = 0;
+                var monAd = 0;
+                var mastAd = (1 && 1);
+                if(err){
+                    Y.log('Error loading DARLA JS: ' + err[0].error);
+                    return;
+                }
+                if (!window.DARLA_CONFIG) {
+                     DARLA_CONFIG = {"useYAC":0,"usePE":0,"servicePath":"https:\/\/answers.yahoo.com\/sdarla\/php\/fc.php","xservicePath":"","beaconPath":"https:\/\/answers.yahoo.com\/sdarla\/php\/b.php","renderPath":"","allowFiF":false,"srenderPath":"https:\/\/s.yimg.com\/rq\/darla\/2-9-17\/html\/r-sf.html","renderFile":"https:\/\/s.yimg.com\/rq\/darla\/2-9-17\/html\/r-sf.html","sfbrenderPath":"https:\/\/s.yimg.com\/rq\/darla\/2-9-17\/html\/r-sf.html","msgPath":"https:\/\/answers.yahoo.com\/sdarla\/2-9-17\/html\/msg.html","cscPath":"https:\/\/s.yimg.com\/rq\/darla\/2-9-17\/html\/r-csc.html","root":"sdarla","edgeRoot":"http:\/\/l.yimg.com\/rq\/darla\/2-9-17","sedgeRoot":"https:\/\/s.yimg.com\/rq\/darla\/2-9-17","version":"2-9-17","tpbURI":"","hostFile":"https:\/\/s.yimg.com\/rq\/darla\/2-9-17\/js\/g-r-min.js","beaconsDisabled":true,"rotationTimingDisabled":true,"fdb_locale":"What don't you like about this ad?|It's offensive|Something else|Thank you for helping us improve your Yahoo experience|It's not relevant|It's distracting|I don't like this ad|Send|Done|Why do I see ads?|Learn more about your feedback.","positions":{"LREC":[],"LDRB":[],"LREC2":[],"MAST":[]},"lang":"en-US"};
+                }
+                if (window.DARLA && window.DARLA_CONFIG) {
+                    DARLA_CONFIG.events = {
+                                            'renderLREC':
+                            {
+                                name: 'renderLREC',
+                                ps: 'LREC',
+                                sp: 396547299,
+                                npv: 1,
+                                ssl: 1
+                            },                    'renderLDRB':
+                            {
+                                name: 'renderLDRB',
+                                ps: 'LDRB',
+                                sp: 396547299,
+                                npv: 1,
+                                ssl: 1
+                            },                    'renderLREC2':
+                            {
+                                name: 'renderLREC2',
+                                ps: 'LREC2',
+                                sp: 396547299,
+                                npv: 1,
+                                ssl: 1
+                            },                    'renderMAST':
+                            {
+                                name: 'renderMAST',
+                                ps: 'MAST',
+                                sp: 396547299,
+                                npv: 1,
+                                ssl: 1
+                            },                    'all':
+                            {
+                                name: 'all',
+                                ps: 'LREC,LDRB,LREC2,MAST',
+                                sp: 396547299,
+                                npv: 1 , ssl: 1, secure: 1
+                            }
+,                    'AUTO':
+                      {
+                        name: "AUTO",
+                        sp: 396547299,
+                        autoStart: true,
+                        autoRT:30000,
+                        autoIV:1,
+                        ps: "LREC,LREC2,LDRB,MAST" , ssl: 1, secure: 1
+                      }
+                    };
+                    DARLA_CONFIG.positions = {
+                        LREC: {wcpx: 1, hcpx: 1, dest: 'tgtLREC', clean: 'boxLREC' ,fdb: { "on": 1 }   ,metaSize: true},
+LDRB: {wcpx: 1, hcpx: 1, dest: 'tgtLDRB', clean: 'boxLDRB'  ,supports: {"exp-push": 1}  ,metaSize: true},
+LREC2: {wcpx: 1, hcpx: 1, dest: 'tgtLREC2', clean: 'boxLREC2' ,fdb: { "on": 1 }   ,metaSize: true},
+MAST: {wcpx: 1, hcpx: 1, dest: 'tgtMAST', clean: 'boxMAST'  ,supports: {"exp-ovr":1,"exp-push":1,"resize-to":1} ,closeBtn: {mode: 2, useShow: 1, adc: 0} ,metaSize: true}
+                    };
+                    DARLA.config(DARLA_CONFIG);
+                }
+                if (window.DARLA && window.DARLA_CONFIG) {
+                    DARLA.config(DARLA_CONFIG);
+                    DARLA.render();
+                    if(monAdEnabled && !monAd && !mastAd){
+                        DARLA.event('renderLREC');
+                    }
+                }
+                if(mastAd){
+                    var ldrb = Y.one('#ya-darla-LDRB');
+                    var lrec = Y.one('#ya-darla-LREC');
+                    if(ldrb) {
+                        ldrb.addClass('D-n');
+                        Y.one('html').removeClass('yog-ad-leaderboard');
+                        var leftSticker = Y.one('#ya-left-rail .ya-left-rail-sticker');
+                        if(leftSticker) leftSticker.set('style', '');
+                    }
+                    if(lrec){
+                        lrec.addClass('D-n');
+                    }
+                }
+                else {
+                    Y.log("No MAST ad");
+                }
+           });
+      var askWidgetContainer = Y.one('#ya-askbar-holder .ask-widget');
+      if(askWidgetContainer) {
+        new Y.YA.AskWidgetController.Controller({
+          'widget' : new Y.YA.AskWidget.Widget({
+             'node': askWidgetContainer,
+             'safeWordLengthToSearch' : 4
+          }),
+          'cookieName' : 'askPageValues',
+          'isManualCategorySelectionNeeded': 0
+        });
+      }
+    var oGossipService = new Y.YA.Gossip({
+      'containerId' : 'UHSearchBox',
+      'parentContainerId' : 'UHSearch',
+      'gossipUrl' : 'https://search.yahoo.com/sugg/ss/gossip-us_ss-vertical_ss/?output=sd1&pubid=1307&appid=yanswer'
+    });
+    var cfg = {}; cfg.domain = '.answers.yahoo.com';
+    var yaCookie = new Y.YA.Cookie.Lib(cfg);
+
+    Y.YA.LO({'loginURL' : ANSWERS.loginURL,'joinURL' : ANSWERS.joinURL,'yu' : ANSWERS.yi,'si' : ANSWERS.si});
+    
+    if (!ANSWERS.isStencilEnabled) {
+      var leftNavDocBottom = new Y.YA.Dock.Bottom({node: '#ya-left-rail','leftDependent': '#ya-center-two-col'});
+    }
+
+    Y.one('body').setAttribute('data-ya-js-loaded', 'true');
+
+    YAHOO.i13n.SPACEID = ANSWERS.spaceid;
+    YAHOO.i13n.TEST_ID = ANSWERS.bucket;
+
+    var i13nCfg = {'ssl':ANSWERS.ssl, 'spaceid':ANSWERS.spaceid, 'keys':{"ptype":"home_disc","mrkt":"en-US","fever":"A4","device":"desktop"}};
+    var pageTrack = new Y.YA.Rapid.Track(i13nCfg);
+    Y.zui.placeholder.install('textarea');
+      var cookieData = {'tabName' : 'd'};
+      Y.fire(Y.YA.Cookie.Lib.NOTIFY.UPDATE, {name: 'tab', data: cookieData});
+      var yaftConfig = {
+        modules: ['ya-left-nav', 'ya-featured', 'ya-tabs', 'ya-discover-tab', 'ya-q-8037-textads', 'ya-useful-links', 'ya-askbar-holder', 'ya-darla-LREC', 'ya-leader-board', 'ya-help-widget', 'ya-darla-FSRVY', 'ya-darla-FOOT', 'yucsHead', 'UH'],
+        modulesExclude: ['ya-left-nav-', 'ya-featured-', 'ya-tabs-', 'ya-discover-tab-', 'ya-q-8037-textads-', 'ya-useful-links-', 'ya-askbar-holder-', 'ya-darla-LREC-', 'ya-leader-board-', 'ya-help-widget-', 'ya-darla-FSRVY-', 'ya-darla-FOOT-', 'yucsHead-', 'UH-'],
+        maxWaitTime: 1000,
+        generateHAR: true,
+        canShowVisualReport: true,
+        useNormalizeCoverage: true
+      };
+      YAFT.init(yaftConfig, function(data, error) {
+        if (!error) {
+          Y.log(data, 'info');
+          var lrecLoadTime = undefined, ldrbLoadTime = undefined;
+          var aftTime = Math.round(data.aft);
+          var visuallyCompleteTime = Math.round(data.visuallyComplete);
+          var bucketId = 'NOT_IN_BUCKET';
+          Y.log('aftTime: ' + aftTime + '; visuallyComplete: ' + visuallyCompleteTime +
+            '; bucketId: ' + bucketId, 'debug');
+          if (data.modulesReport['ya-darla-LREC']) {
+            lrecLoadTime = Math.round(data.modulesReport['ya-darla-LREC'].loadTime);
+            Y.log('LREC: ' + lrecLoadTime, 'debug');
+          }
+          if (data.modulesReport['ya-darla-LDRB']) {
+            ldrbLoadTime = Math.round(data.modulesReport['ya-darla-LDRB'].loadTime);
+            Y.log('LDRB: ' + ldrbLoadTime, 'debug');
+          }
+          if (window.LH) {
+            LH.record('AFT', { name: 'AFT', type: 'mark', startTime: aftTime, duration: 0});
+            LH.record('AFT_discover', { name: 'AFT_discover', type: 'mark', startTime: aftTime, duration: 0});
+            LH.record('VIC', {name: 'VIC', type: 'mark', startTime: visuallyCompleteTime, duration: 0});
+            if (lrecLoadTime) {
+              LH.record('AD_LREC', {name: 'AD_LREC', type: 'mark', startTime: lrecLoadTime, duration: 0});
+            }
+            if (ldrbLoadTime) {
+              LH.record('AD_LDRB', {name: 'AD_LDRB', type: 'mark', startTime: ldrbLoadTime, duration: 0});
+            }
+            LH.tag('b', {val: bucketId});
+            LH.beacon({clearMarks:false, clearMeasures: false, clearCustomEntries: true, clearTags: false});
+            Y.log('LH beacon sent', 'debug');
+          } else {
+            Y.log('LH beaconing not supported', 'debug');
+          }
+        } else {
+          Y.log('Error loading AFT: ' + error, 'error');
+        }
+      });
+
+      var aDadNode = Y.one("#ya-darla-LREC");
+      var aTadNode = Y.one(".TA");
+
+      if ((aDadNode || aTadNode) && ANSWERS.locale === "en_US") {
+        if ((aDadNode !== null && aDadNode.get('clientHeight') === 0) || (aTadNode !== null && aTadNode.get('clientHeight') === 0)) {
+          var aTnNode = Y.one("#ya-trending-now");
+
+          if (aTnNode) {
+            aTnNode.removeClass('Dn');
+            Y.fire(Y.YA.Rapid.Track.NOTIFY.CLICK, {sec:'trndnow', slk:'abpview', pos:1});
+          }
+        }
+      }
+      Y.all('.ya-localtime').each(function(node){
+        var ts = parseInt(node.getAttribute('data-ts')),
+            d, tzOffset;
+        if(!isNaN(ts)){
+          d = new Date();
+          d.setTime(ts * 1000);
+          tzOffset = -(d.getTimezoneOffset()) / 60;
+          tzOffset = tzOffset >= 0 ? '+' + tzOffset : tzOffset;
+          if(!isNaN(d.getTime())){
+            node.setAttribute('title', d.toLocaleDateString() + ' ' + d.toLocaleTimeString() + ' UTC' + tzOffset);
+          }
+        }
+      });
+    });
+  }
+</script>
+<script type="text/javascript" src="https://s.yimg.com/mp/broadway/f8d403a.promoAdLoader.js"></script>
+
+</body>
+</html>
+<!-- f78.answers.bf1.yahoo.com Fri Feb 24 17:22:35 UTC 2017 -->

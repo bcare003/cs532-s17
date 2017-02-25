@@ -1,0 +1,613 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" 
+"http://www.w3.org/TR/html4/loose.dtd"> 
+<html>
+<head>
+<title>Raccoons - Living with Wildlife |  Washington Department of Fish &amp; Wildlife</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="/includes/styles.css" type="text/css" />
+<link rel="stylesheet" href="/includes/print.css" type="text/css" media="print" />
+<script type="text/javascript" src="/includes/nav.js"></script>
+<script type="text/javascript" src="/includes/wdfw.js"></script>
+
+<script type="text/javascript">
+  function recordOutboundLink(link, category, action) {
+    _gat._getTrackerByName()._trackEvent(category, action);
+    setTimeout('document.location = "' + link.href + '"', 100);
+  }
+</script>
+
+<script src="/includes/entourage.js"></script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32031722-1']);
+  _gaq.push(['_trackPageview']);  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+
+
+
+
+</head>
+
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" class="living-nav">
+<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr id="no_print"> 
+    <td align="center">
+      <div class="nocontent"><!--googleoff: all-->
+
+<table width="1000" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td valign="top" bgcolor="#333333"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td align="left" valign="top"><a href="/index.html"><img src="/includes/graphics/bannersm_logo_top.gif" alt="WDFW Logo" width="81" height="22" border="0" /></a><a href="/index.html"><img src="/includes/graphics/bannersm_wdfw.gif" alt="Washington Department of Fish &amp; Wildlife" width="369" height="22" border="0" /></a></td>
+          <td  class="top_nav" align="right"> 
+            
+<table  class="header_text" border="0" cellspacing="0" cellpadding="0">
+
+  <tr>
+
+    <td>&nbsp;&nbsp;<a href="http://wdfw.wa.gov/help/">HELP</a>&nbsp;|&nbsp;<a href="http://wdfw.wa.gov/employment">EMPLOYMENT</a>&nbsp;|&nbsp;<a href="http://wdfw.wa.gov/news">NEWS</a>&nbsp;|&nbsp;<a href="http://wdfw.wa.gov/about/contact">CONTACT</a>&nbsp;&nbsp;</td>
+
+  </tr>
+
+</table>
+
+          </td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr> 
+    <td height="67" valign="top" id="bannersm_bg"> <table width="100%" height="67" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td align="left" valign="top"><a href="/index.html"><img src="/includes/graphics/bannersm_logo_btm.jpg" alt="WDFW Logo" width="81" height="67" border="0" /></a><a href="/living"><img src="/includes/graphics/banner_living.jpg" alt="Living with Wildlife" width="619" height="67" border="0" /></a> 
+          </td>
+          <td align="right" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td><form action="http://wdfw.wa.gov/searchresults.html" id="q">
+                <input type="hidden" name="cx" value="004044055337366278373:rf85ltn-vai" />
+                <input type="hidden" name="ie" value="UTF-8" />
+                <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td width="13" align="left" valign="top"><img src="/includes/graphics/bannersm_search_left.gif" width="20" height="27" /></td>
+                    <td valign="middle" bgcolor="#8EADBA" class="search2"><img src="/includes/graphics/1x1.gif" width="2" height="1" /></td>
+                    <td valign="middle" bgcolor="#8EADBA" class="search2"><input name="q" class="searchbox2" type="text" value="" /></td>
+                    <td valign="middle" bgcolor="#8EADBA" class="search2"><img src="/includes/graphics/1x1.gif" width="5" height="1" /></td>
+                    <td valign="middle" bgcolor="#8EADBA" class="search2"><input name="sa" type="image" src="/includes/graphics/search_btn.gif" width="66" height="16" alt="Search"  border="0" /></td>
+                    <td bgcolor="#8EADBA" class="search2"><img src="/includes/graphics/1x1.gif" width="2" height="1" /></td>
+                  </tr>
+                </table>
+              </form></td>
+            </tr>
+          </table></td>
+          </tr>
+      </table></td>
+  </tr>
+  <tr> 
+    <td bgcolor="#006699"><div align="center"> 
+        <table width="1000" border="0" cellpadding="0" cellspacing="0">
+
+  <tr>
+
+    <td align="center"><a href="http://wdfw.wa.gov/" class="main_nav2">Home</a></td>
+
+    <td align="center"><a href="http://wdfw.wa.gov/about/" id="about_nav" class="menuanchorclass main_nav" rel="about">About WDFW</a></td>
+
+    <td align="center"><a href="http://wdfw.wa.gov/conservation/" id="conserv_nav" class="menuanchorclass main_nav" rel="conserv">Conservation</a></td>
+
+    <td align="center"><a href="http://wdfw.wa.gov/fishing/" id="fishing_nav" class="menuanchorclass main_nav" rel="fishing">Fishing</a></td>
+
+    <td align="center"><a href="http://wdfw.wa.gov/hunting/" id="hunting_nav" class="menuanchorclass main_nav" rel="hunting">Hunting</a></td>
+
+    <td align="center"><a href="http://wdfw.wa.gov/enforcement/" id="enforcement_nav" class="menuanchorclass main_nav" rel="enforcement">Enforcement</a></td>
+    <td align="center"><a href="http://wdfw.wa.gov/viewing/" id="viewing_nav" class="menuanchorclass main_nav" rel="viewing">Wildlife Viewing</a></td>
+
+    <td align="center"><a href="http://wdfw.wa.gov/licensing/" id="licensing_nav" class="menuanchorclass main_nav" rel="licensing">Licensing &amp; Permits</a></td>
+
+    <td align="center"><a href="http://wdfw.wa.gov/living/" id="living_nav" class="menuanchorclass main_nav" rel="living">Living with Wildlife</a></td>
+
+  </tr>
+
+</table>
+      </div></td>
+  </tr>
+  <tr> 
+    <td height="5" bgcolor="#993300"><img src="/includes/graphics/5x5.gif" width="5" height="5" /></td>
+  </tr>
+</table>
+<!--googleon: all--></div>
+
+
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="170" id="no_print" valign="top" bgcolor="#F9F9E3"><div class="wireframemenu"> 
+  <ul>
+<li><a href="/living/species/">Species Fact Sheets</a></li>
+<li><a href="/living/mammals.html">Mammals</a></li>
+<li class="wireframemenu4"><a href="/living/bats.html">Bats</a></li>
+<li class="wireframemenu4"><a href="/living/beavers.html">Beavers</a></li>
+<li class="wireframemenu4"><a href="/living/bears.html">Black Bears</a></li>
+<li class="wireframemenu4"><a href="/living/bobcats.html">Bobcats</a></li>
+<li class="wireframemenu4"><a href="/living/cougars.html">Cougars</a></li>
+<li class="wireframemenu4"><a href="/living/coyotes.html">Coyotes</a></li>
+<li class="wireframemenu4"><a href="/living/deer.html">Deer</a></li>
+<li class="wireframemenu4"><a href="/living/elk.html">Elk</a></li>
+<li class="wireframemenu4"><a href="/living/moles.html">Moles</a></li>
+<li class="wireframemenu4"><a href="/living/moose.html">Moose</a></li>
+<li class="wireframemenu4"><a href="/living/mtn_beavers.html">Mountain Beavers</a></li>
+<li class="wireframemenu4"><a href="/living/muskrats.html">Muskrats</a></li>
+<li class="wireframemenu4"><a href="/living/nutria.html">Nutria</a></li>
+<li class="wireframemenu4"><a href="/living/opossums.html">Opossums</a></li>
+<li class="wireframemenu4"><a href="/living/gophers.html">Pocket Gophers</a></li>
+<li class="wireframemenu4"><a href="/living/pronghorn.html">Pronghorn Antelopes</a></li>
+<li class="wireframemenu4"><a href="/living/rabbits.html">Rabbits</a></li>
+<li class="wireframemenu4"><a href="/living/raccoons.html">Raccoons</a></li>
+<li class="wireframemenu4"><a href="/living/rats.html">Rats</a></li>
+<li class="wireframemenu4"><a href="/living/river_otters.html">River Otters</a></li>
+<li class="wireframemenu4"><a href="/living/skunks.html">Skunks</a></li>
+<li class="wireframemenu4"><a href="/living/tree_squirrels.html">Tree Squirrels</a></li>
+<li><a href="/living/birds.html">Birds</a></li>
+<li><a href="/living/reptiles.html">Reptiles and Amphibians</a></li>
+</ul>
+</div><p>
+</p>
+<div align="center" class="reading_text">
+For more information on the Living With Wildlife series, contact the WDFW Wildlife Program
+  <p>360-902-2515<br />
+  <a href="mailto:wildthing@dfw.wa.gov">wildthing@dfw.wa.gov</a></p></div>
+
+
+                  <p>&nbsp;</p></td>
+                <td align="left" valign="top"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr> 
+                      <td align="center" valign="top"> <table id="yes_print" width="95%" border="0" cellpadding="0" cellspacing="0">
+                          <tr> 
+                            <td align="left">&nbsp;</td>
+                          </tr>
+                          <tr> 
+                            <td align="left" valign="top" ><p class="page_header"> 
+                                Living with Wildlife</p>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td align="left" valign="middle"><b><span class="large_header">Raccoons</span></b></td>
+                                  <td align="right"><TABLE class="border_gray" cellSpacing="2" cellPadding="2" width="25" border="0">
+                                    <TBODY>
+                                      <TR>
+                                        <TD><B><IMG height="26" src="/includes/graphics/pdf_icon.gif" width="25"></B></TD>
+                                        <TD align="center" noWrap><A href="raccoons.pdf"  class="medium_header"><B>Download PDF<br>
+                                          Print   Version</B></A></TD>
+                                      </TR>
+                                    </TBODY>
+                                  </TABLE></td>
+                                </tr>
+                              </table>
+                              <TABLE cellSpacing="0" cellPadding="3" width="100%" border="0">
+                                <TBODY>
+                                  <TR>
+                                    <TD class="small_text" width="250" align="left" vAlign="top"><A href="/living/species/graphics/raccon.jpg"><IMG height="238" src="/living/species/graphics/t_raccoon1.jpg" width="250" border="0"></A><br>
+                                    <B>Figure 1.</B> Because raccoons manipulate and moisten food items in water, there is a   misconception that raccoons &ldquo;wash&rdquo; their food before eating it. However, when   water is not available, raccoons use many of the same motions in handling   food. <I>(Photo by Ginger   Holser)</I></TD>
+                                    <TD vAlign="top"><TABLE cellSpacing="1" cellPadding="5" width="100%" border="0">
+                                        <TBODY>
+                                          <TR>
+                                            <TD width="5" align="left" valign="top">&bull;</TD>
+                                            <TD align="left" bgcolor="#ffffff"><B><A href="#facts">Raccoon   Facts</A></B></TD>
+                                          </TR>
+                                          <TR bgColor="#ffffff">
+                                            <TD width="5" align="left" valign="top">&bull;</TD>
+                                            <TD align="left"><B><A href="#viewing">Viewing Raccoons</A></B></TD>
+                                          </TR>
+                                          <TR bgColor="#ffffff">
+                                            <TD width="5" align="left" valign="top">&bull;</TD>
+                                            <TD align="left"><B><A href="#tooclose">Raccoons-Too Close for Comfort</A></B></TD>
+                                          </TR>
+                                          <TR bgColor="#ffffff">
+                                            <TD width="5" align="left" valign="top">&bull;</TD>
+                                            <TD align="left"><B><A href="#conflicts">Preventing Conflicts</A></B></TD>
+                                          </TR>
+                                          <TR bgColor="#ffffff">
+                                            <TD width="5" align="left" valign="top">&bull;</TD>
+                                            <TD align="left"><B><A href="#dumpsters">Raccoons in Dumpsters and Down   Chimneys</A></B></TD>
+                                          </TR>
+                                          <TR bgColor="#ffffff">
+                                            <TD align="left" valign="top">&bull;</TD>
+                                            <TD align="left"><B><A href="#trapping">Trapping Raccoons</A></B></TD>
+                                          </TR>
+                                          <TR bgColor="#ffffff">
+                                            <TD align="left" valign="top">&bull;</TD>
+                                            <TD align="left"><B><A href="#lethal">Lethal   Control</A></B></TD>
+                                          </TR>
+                                          <TR bgColor="#ffffff">
+                                            <TD align="left" valign="top">&bull;</TD>
+                                            <TD align="left"><B><A href="#health">Public   Health Concerns</A></B></TD>
+                                          </TR>
+                                          <TR bgColor="#ffffff">
+                                            <TD align="left" valign="top">&bull;</TD>
+                                            <TD align="left"><B><A href="#legal">Legal   Status</A></B></TD>
+                                          </TR>
+                                          <TR bgColor="#ffffff">
+                                            <TD align="left" valign="top">&bull;</TD>
+                                            <TD align="left" vAlign="top"><B><A href="#additional">Additional   Information</A></B></TD>
+                                          </TR>
+                                          <TR bgColor="#ffffff">
+                                            <TD align="left" valign="top">&nbsp;</TD>
+                                            <TD align="left" valign="top">&nbsp;</TD>
+                                          </TR>
+                                        </TBODY>
+                                    </TABLE></TD>
+                                  </TR>
+                                </TBODY>
+                              </TABLE>
+                              <p>The <B>raccoon</B> (<I>Procyon lotor</I>) is a native mammal, measuring about 3 feet long,   including its 12-inch, bushy, ringed tail. Because their hind legs are longer   than the front legs, raccoons have a hunched appearance when they walk or run.   Each of their front feet has five dexterous toes, allowing raccoons to grasp and   manipulate food and other items (Fig. 1).   
+                              <p>Raccoons prefer forest areas   near a stream or water source, but have adapted to various environments   throughout Washington. Raccoon populations can get quite large in urban areas,   owing to hunting and trapping restrictions, few predators, and human-supplied   food.   
+                              <p>Adult raccoons weigh 15 to   40 pounds, their weight being a result of genetics, age, available food, and   habitat location. Males have weighed in at over 60 pounds. A raccoon in the wild   will probably weigh less than the urbanized raccoon that has learned to live on   handouts, pet food, and garbage-can leftovers.   
+                              <p>As long as raccoons are kept   out of human homes, not cornered, and not treated as pets, they are not   dangerous.   
+                              <p><B><A name="facts"></A></B><span class="medium_header">Facts   about Washington Raccoons</span></p>
+                              <BLOCKQUOTE>
+                                <p><B>Food and Feeding   Habitats</B></p>
+                                <UL>
+                                  <LI>Raccoons will eat almost   anything, but are particularly fond of creatures found in water&mdash;clams, crayfish,   frogs, fish, and snails.   
+                                  <LI>Raccoons also eat insects,   slugs, dead animals, birds and bird eggs, as well as fruits, vegetables, nuts,   and seeds. Around humans, raccoons often eat garbage and pet food.   
+                                  <LI>Although not great hunters,   raccoons can catch young gophers, squirrels, mice, and rats.   
+                                  <LI>Except during the breeding   season and for females with young, raccoons are solitary. Individuals will eat   together if a large amount of food is available in an area. </LI>
+                                </UL>
+                                <p><B>Den Sites and Resting   Sites</B></p>
+                                <UL>
+                                  <LI>Dens are used for shelter   and raising young. They include abandoned burrows dug by other mammals, areas in   or under large rock piles and brush piles, hollow logs, and holes in   trees.   
+                                  <LI>Den sites also include wood   duck nest-boxes, attics, crawl spaces, chimneys, and abandoned vehicles.   
+                                  <LI>In urban areas, raccoons   normally use den sites as daytime rest sites. In wooded areas, they often rest   in trees.   
+                                  <LI>Raccoons generally move to   different den or daytime rest site every few days and do not follow a   predictable pattern. Only a female with young or an animal &ldquo;holed up&rdquo; during a   cold spell will use the same den for any length of time. Several raccoons may   den together during winter storms. </LI>
+                                </UL>
+                                <p><B>Reproduction and Home   Range</B></p>
+                                <UL>
+                                  <LI>Raccoons pair up only   during the breeding season, and mating occurs as early as January to as late as   June. The peak mating period is March to April.   
+                                  <LI>After a 65-day gestation   period, two to three kits are born.   
+                                  <LI>The kits remain in the den   until they are about seven weeks old, at which time they can walk, run, climb,   and begin to occupy alternate dens.   
+                                  <LI>At eight to ten weeks of   age, the young regularly accompany their mother outside the den and forage for   them selves. By 12 weeks, the kits roam on their own for several nights before   returning to their mother.   
+                                  <LI>The kits remain with their   mother in her home range through winter, and in early spring seek out their own   territories.   
+                                  <LI>The size of a raccoon&rsquo;s   home range as well as its nightly hunting area varies greatly depending on the   habitat and food supply. Home range diameters of 1 mile are known to occur in   urban areas. </LI>
+                                </UL>
+                                <p><B>Mortality and   Longevity</B></p>
+                                <UL>
+                                  <LI>Raccoons die from   encounters with vehicles, hunters, and trappers, and from disease, starvation,   and predation.   
+                                  <LI>Young raccoons are the main   victims of starvation, since they have very little fat reserves to draw from   during food shortages in late winter and early spring.   
+                                  <LI>Raccoon predators include   cougars, bobcats, coyotes, and domestic dogs. Large owls and eagles will prey on   young raccoons.   
+                                  <LI>The average life span of a   raccoon in the wild is 2 to 3 years; captive raccoons have lived 13. </LI>
+                                </UL>
+                              </BLOCKQUOTE>
+                              <p><B><A name="viewing"></A></B><span class="medium_header">Viewing Raccoons</span></p>
+                              <BLOCKQUOTE>
+                                <p>Raccoons can be seen   throughout the year, except during extremely cold periods. Usually observed at   night, they are occasionally seen during the day eating or napping in a tree or   searching elsewhere for food. Coastal raccoons take advantage of low tides and   are seen foraging on shellfish and other food by day. </p>
+                                <p><B>Trails </B></p>
+                                <p>Raccoons use trails made by   other wildlife or humans next to creeks, ravines, ponds, and other water   sources. Raccoons often use culverts as a safe way to cross under roads. With a   marsh on one side of the road and woods on the other, a culvert becomes their   chief route back and forth. Look for raccoon tracks in sand, mud, or soft soil   at either end of the culvert. </p>
+                                <p>In developed areas, raccoon   travel along fences, next to buildings, and near food sources.</p>
+                                <p>
+                                <TABLE cellSpacing="1" cellPadding="5" width="350" align="right" bgColor="#cccc99" border="0">
+                                  <TBODY>
+                                    <TR>
+                                      <TD width="150" bgColor="#ffffff"><A href="/living/species/graphics/raccoon2.jpg"><IMG height="183" src="/living/species/graphics/t_raccoon2.jpg" width="150" border="0"></A></TD>
+                                      <TD class="reading_text" bgColor="#ffffff"><p><B>Figure 2.</B> The rear   foot of a raccoon shows the &ldquo;heel&rdquo; and looks like a small human footprint. Both   front and back feet have five toes. The front prints have shorter heel marks and   are 2 to 3 inches long; the hind tracks are 3 to 4 inches long. <BR>
+                                          <i>(From Pandell and Stall, Animal Tracks of the Pacific   Northwest.)</i></p></TD>
+                                    </TR>
+                                  </TBODY>
+                                </TABLE>
+                                <B>Tracks, Scratch Marks, <BR>
+                                  and   Similar Signs</B>
+                                <p>Look for tracks in sand,   mud, or soft soil, also on deck railings, fire escapes, and other surfaces that   raccoons use to gain access to structures (Fig. 2). Tracks may appear as smudge   marks on the side of a house where a raccoon shimmies up and down a downspout or   utility pipe. </p>
+                                <p>Sharp, nonretractable claws   and long digits make raccoons good climbers. Like squirrels, raccoons can rotate   their hind feet 180 degrees and descend trees headfirst. (Cats&rsquo; claws don&rsquo;t   rotate and they have to back down trees.) Look for scratch marks on trees and   other structures that raccoons climb. </p>
+                                <p>Look for wear marks, body   oil, and hairs on wood and other rough surfaces, particularly around the edges   of den entrances. The den&rsquo;s entrance hole is usually at least 4 inches high and   6 inches wide.</p>
+                                <p><B>Droppings </B></p>
+                                <p>Raccoon droppings are   crumbly, flat-ended, and can contain a variety of food items. The length is 3 to   5 inches, but this is usually broken into segments. The diameter is about the   size of the end of your little finger. </p>
+                                <p>Raccoons leave droppings on   logs, at the base of trees, and on roofs (raccoons defecate before climbing   trees and entering structures). Raccoons create toilet areas&mdash;inside and outside   structures&mdash;away from the nesting area. House cats have similar habits. </p>
+                                <p><B>Note: </B>Raccoon   droppings may carry a parasite that can be fatal to humans. Do not handle or   smell raccoon droppings and wash your hands if you touch any. (See "<A href="#health">Public Health Concerns</A>" )</p>
+                                <p><B>Calls</B></p>
+                                <p>Raccoons make several types   of noises, including a purr, a chittering sound, and various growls, snarls, and   snorts. </p>
+                              </BLOCKQUOTE>
+                              <TABLE cellSpacing="1" cellPadding="10" width="95%" align="center" bgColor="#cccc99" border="0">
+                                <TBODY>
+                                  <TR>
+                                    <TD align="center" bgColor="#cccc99"><A name="tooclose"></A><span class="medium_header">Raccoons &mdash;Too Close for   Comfort</span></TD>
+                                  </TR>
+                                  <TR>
+                                    <TD bgColor="#ffffff"><p>If a raccoon ever approaches   too closely, make yourself appear larger: stand up if sitting, shout, and wave   your arms. If necessary, throw stones or send the raccoon off with a dousing of   water from a hose or bucket. </p>
+                                      <p>If a raccoon continues to   act aggressively or strangely (circling, staggering as if drunk or disoriented,   or shows unnatural tameness) it may be sick or injured. In such a case, call a   wildlife rehabilitator (see <A href="/conservation/health/rehabilitation">Wildlife   Rehabilitators and Wildlife Rehabilitation</A>) or your <A href="/about/regions/">WDFW Regional   Office</A>. </p>
+                                      <p>If aggressive raccoons are   routinely seen in your area, prepare your children for a possible encounter.   Explain the reasons why raccoons live there (habitat, food sources, species   adaptability) and what they should do if one approaches them. By shouting a set   phrase such as &ldquo;Go away raccoon!&rdquo; when they encounter one, instead of a general   scream, children will inform nearby adults of the raccoon&rsquo;s presence.   Demonstrate and rehearse encounter behavior with the children. </p>
+                                      <p>If a raccoon finds its way   into your house, stay calm, close surrounding interior doors, leave the room,   and let the animal find its way back out through the open door, window, or pet   door. If necessary, gently use a broom to corral the raccoon outside. (Do not   corner a raccoon, thereby forcing it to defend itself.) </p></TD>
+                                  </TR>
+                                </TBODY>
+                              </TABLE>
+                              <p><B><A id="conflicts" name="conflicts"></A></B><span class="medium_header">Preventing Conflicts
+                              </span>
+                              <p>A raccoon&rsquo;s search for food   may lead it to a vegetable garden, fish pond, garbage can, or chicken coop. Its   search for a den site may lead it to an attic, chimney, or crawl space. The most   effective way to prevent conflicts is to modify the habitat around your home so   as not to attract raccoons. Recommendations on how to do this are given below:     
+                              <BLOCKQUOTE>
+                                <p><B>Don&rsquo;t feed raccoons.</B> <BR>
+                                  Feeding raccoons may create undesirable situations for you, your children,   neighbors, pets, and the raccoons themselves. Raccoons that are fed by people   often lose their fear of humans and may become aggressive when not fed as   expected. Artificial feeding also tends to concentrate raccoons in a small area;   overcrowding can spread diseases and parasites. Finally, these hungry visitors   might approach a neighbor who doesn&rsquo;t share your appreciation of the animals.   The neighbor might choose to remove these raccoons, or have them   removed.</p>
+                                <p><B>Don&rsquo;t give raccoons   access to garbage.</B> <BR>
+                                  Keep your garbage can lid on tight by securing it   with rope, chain, bungee cords, or weights. Better yet, buy garbage cans with   clamps or other mechanisms that hold lids on. To prevent tipping, secure side   handles to metal or wooden stakes driven into the ground. Or keep your cans in   tight-fitting bins, a shed, or a garage. Put garbage cans out for pickup in the   morning, after raccoons have returned to their resting areas.</p>
+                                <p><B>Feed dogs and cats   indoors and keep them in at night.</B> <BR>
+                                  If you must feed your pets outside,   do so in late morning or at midday, and pick up food, water bowls, leftovers,   and spilled food well before dark every day. </p>
+                                <p><B>Keep pets indoors at   night.</B> <BR>
+                                  If cornered, raccoons may attack dogs and cats. Bite wounds from   raccoons can result in fractures and disease transmission.</p>
+                                <p><B>Prevent raccoons from   entering pet doors. </B><BR>
+                                  Keep indoor pet food and any other food away from a   pet door. Lock the pet door at night. If it is necessary to have it remain open,   put an electronically activated opener on your pet&rsquo;s collar. <I><B>Note:</B></I> Floodlights or motion detector lights placed above the pet door to scare   raccoons are not long-term solutions.</p>
+                                <p><B>Put food in secure   compost containers and clean up barbecue areas.</B> <BR>
+                                  Don&rsquo;t put food of any kind in   open compost piles; instead, use a securely covered compost structure or a   commercially available raccoon-proof composter to prevent attracting raccoons   and getting exposed to their droppings. A covered worm box is another   alternative. If burying food scraps, cover them with at least 8 inches of soil   and don&rsquo;t leave any garbage above ground in the area&mdash;including the stinky   shovel. Placing a wire mesh barrier that is held in place with a heavy object   over the in-ground compost will prevent problems. </p>
+                                <p><B>Clean barbecue grills and   grease traps thoroughly following each use.</B></p>
+                                <p><B>Eliminate access to   denning sites.</B> <BR>
+                                  Raccoons commonly use chimneys, attics, and spaces under   houses, porches, and sheds as den sites. Close any potential entries with &frac14;-inch   mesh hardware cloth, boards, or metal flashing. Make all connections flush and   secure to keep mice, rats, and other mammals out. Make sure you don&rsquo;t trap an   animal inside when you seal off a potential entry (see <A href="/living/nuisance/evicting.html">Evicting Animals from Buildings</A>). For information on securing   chimneys, see "<A href="#dumpsters">Raccoons in Dumpsters and Down   Chimneys</A>".</p>
+                                <TABLE class="reading_text" cellSpacing="1" cellPadding="5" width="75%" align="center" bgColor="#cccc99" border="0">
+                                  <TBODY>
+                                    <TR>
+                                      <TD align="center" bgColor="#ffffff"><A href="/living/species/graphics/raccoon3.jpg"><IMG height="168" src="/living/species/graphics/t_raccoon3.jpg" width="150" border="0"><BR>
+                                        Click to enlarge</A></TD>
+                                      <TD align="center" bgColor="#ffffff"><A href="/living/species/graphics/raccoon4.jpg"><IMG height="153" src="/living/species/graphics/t_raccoon4.jpg" width="150" border="0"></A><A href="/living/species/graphics/raccoon4.jpg"><BR>
+                                        Click to enlarge</A></TD>
+                                    </TR>
+                                    <TR>
+                                      <TD vAlign="top" bgColor="#ffffff"><B>Figure 3. </B>Raccoon access to rooftops can be eliminated by   installing sheets of aluminum flashing, at least 3 feet square, around the   corners of buildings.<BR></TD>
+                                      <TD vAlign="top" bgColor="#ffffff"><B>Figure 4.</B> Commercially available metal or plastic spikes can help   keep raccoons off of buildings. <i>(Drawings by Jenifer Rees.)</i></TD>
+                                    </TR>
+                                  </TBODY>
+                                </TABLE>
+                                <p>Prevent raccoons from   accessing rooftops by trimming tree limbs away from structures and by attaching   sheets of metal flashing around corners of buildings (Fig. 3). Commercial   products that prevent climbing are available from farm supply centers and   bird-control supply companies on the Internet (Fig. 4). Remove vegetation on   buildings, such as English ivy, which provide raccoons a way to climb structures   and hide their access point inside.</p>
+                              </BLOCKQUOTE>
+                              <TABLE cellSpacing="1" cellPadding="10" width="95%" align="center" bgColor="#cccc99" border="0">
+                                <TBODY>
+                                  <TR>
+                                    <TD align="center"><A name="dumpsters"></A><span class="medium_header">Raccoons in Dumpsters and Down Chimneys</span></TD>
+                                  </TR>
+                                  <TR>
+                                    <TD bgColor="#ffffff"><p>Raccoons are enticed by the   food smells in dumpsters. When the lids are open they climb in and can&rsquo;t climb   the slippery sides to get out. To help them escape, put a strong branch or board   in the dumpster for the raccoons to climb out on.   
+                                      <p>If your disposal company   leaves dumpster lids open, install a sign telling employees that it&rsquo;s vital to   keep the lid closed so animals don&rsquo;t get trapped inside. Consider installing a   totally enclosed trash-compacting dumpster. The trash is deposited in the front   and regularly compacted.   
+                                      <p>In spring and summer, a   female raccoon may be enticed into the dark, quiet, and secure environment of   your chimney for a nesting place.   
+                                      <p>If you hear a large animal   on the roof, or growls and whines coming from the chimney at night, there is   probably a raccoon family inside. Using a powerful flashlight during the day,   look for a raccoon down the chimney. (If spider webs are strung across the   inside, you can be reasonably sure that no animal is using the chimney.)   
+                                      <p>The easiest solution to   removing raccoons from a chimney is to wait for them to move on their own. After   eight to ten weeks the female and young will leave and not return.   
+                                      <p>If raccoons need to be   evicted, do not smoke them out and do not pour anything, including naphtha   flakes or mothballs, down the chimney. Adult raccoons can easily climb out of a   chimney, but the babies can&rsquo;t. The concentrated vapors can also damage the   infant raccoons&rsquo; mucous membranes and make an adult raccoon extremely agitated   while attempting to flee from the vapors.   
+                                      <p>Instead, harass the adult   female using the following methods until being there is no longer worth her   effort. She will move her young to an alternate den, one by one, holding them by   the back of the neck in her mouth.<I><B> Note:</B></I> Any time you try to evict   any mother animal, there is a chance that she may leave some or all of the   babies behind.   
+                                      <p><B>To encourage the female   raccoon to leave:</B>
+                                      <BLOCKQUOTE>
+                                        <p>1. Keep the chimney damper   closed and put a loud radio tuned to a talk station in the fireplace. </p>
+                                        <p>2.With a short broomstick,   pole, or board, bang on the underside of the damper as frequently as   possible. </p>
+                                        <p>3.Wearing gloves, sprinkle   coyote urine or raccoon eviction fluid (available from farm supply centers,   hunting stores, and the Internet) on a rag and wedge it in above the damper. If   none of these natural repellents are available, place a bowl containing a cup of   ammonia on a footstool just under the damper. If needed, open the damper   1/8-inch. Most dampers are not airtight. Keep what deterrents you can in place   24 hours a day during a period of mild weather, and give the raccoons two to   three nights to move out. On the night of departure there may be a lot of racket   caused by the female raccoon&rsquo;s frequent climbing up and down the chimney as she   retrieves her young.</p>
+                                      </BLOCKQUOTE>
+                                      <TABLE cellSpacing="1" cellPadding="5" width="200" align="right" bgColor="#cccc99" border="0">
+                                        <TBODY>
+                                          <TR>
+                                            <TD bgColor="#ffffff"><A href="/living/species/graphics/raccoon5.jpg"><IMG height="173" src="/living/species/graphics/t_raccoon5.jpg" width="200" border="0"></A></TD>
+                                          </TR>
+                                          <TR>
+                                            <TD class="reading_text" bgColor="#ffffff"><B>Figure   5.</B> A commercially available chimney cap will prevent raccoons and other   small animals from entering the chimney. 
+                                              <i>(Drawing by Jenifer   Rees.)</i></TD>
+                                          </TR>
+                                        </TBODY>
+                                      </TABLE>
+                                      <p>In urban areas, harassment   techniques may not work owing to raccoons&rsquo; familiarity with humans. In such   cases, call a wildlife damage control company and have them assess the situation   (see <A href="/living/nuisance/damage_control.html" >Hiring a Wildlife Damage Control   Company</A>).   
+                                      <p>To make sure the eviction   process was successful, shine a powerful flashlight down the chimney during the   day and look for raccoons. Tap the chimney with a hard object and listen for any   sounds of movement. If a young raccoon is left behind, it may be that the mother   has abandoned it. In these rare cases it is best to hire a wildlife damage   control company to remove the animal.   
+                                      <p>Once the raccoons are gone,   promptly call a professional chimney sweep to remove any debris and to install a   commercially designed and engineered chimney cap (homemade caps are often unsafe   and may be a fire hazard). You can still have fires in your fireplace; however,   the &ldquo;cap&rdquo; will keep raccoons and other wildlife out (Fig.   5).</p></TD>
+                                  </TR>
+                                </TBODY>
+                              </TABLE>
+                              <BLOCKQUOTE>
+                                <p><B>Enclose poultry   (chickens, ducks, and turkeys) in a secure outdoor pen and house.</B> <BR>
+                                  Raccoons will eat poultry and their eggs if they can get to them. Signs of   raccoon predation include the birds&rsquo; heads bitten off and left some distance   away, only the bird&rsquo;s crop being eaten, stuck birds pulled half-way through a   fence, and nests in severe disarray. <I><B>Note:</B></I> Other killers of   poultry include coyotes, foxes, skunks, feral cats, dogs, bobcats, opossums,   weasels, eagles, hawks, owls, other poultry, and disease. </p>
+                                <p>If a dead bird is found with   no apparent injuries, skinning it may determine what killed it. If the carcass   is patterned by red spots where pointed teeth have bruised the flesh but not   broken the skin, the bird was probably &ldquo;played with&rdquo; by one or more dogs until   it died.</p>
+                                <TABLE cellSpacing="1" cellPadding="5" width="250" align="right" bgColor="#cccc99" border="0">
+                                  <TBODY>
+                                    <TR>
+                                      <TD bgColor="#ffffff"><A href="/living/species/graphics/raccoon6.jpg"><IMG height="190" src="/living/species/graphics/t_raccoon6.jpg" width="275" border="0"></A></TD>
+                                    </TR>
+                                    <TR>
+                                      <TD class="reading_text" bgColor="#ffffff"><B>Figure   6.</B> Install two electrified wires, 12 and 18 inches above ground and onto   existing fence posts, poultry pen supports, and other structures, using the   proper insulators. A single strand of wire may be sufficient, but two wires will   provide added insurance against the animal making the climb. Run one or two   electrified wires toward the top of the fence to prevent bobcats and other   species from jumping the lower hot wires and making the climb.<i> (Drawing by Jenifer Rees.)</i></TD>
+                                    </TR>
+                                  </TBODY>
+                                </TABLE>
+                                <p>To prevent raccoons and   other animals from accessing birds in their night roosts, equip poultry houses   with well-fitted doors and secure locking mechanisms. A raccoon&rsquo;s dexterous paws   make it possible for it to open various types of fasteners, latches, and   containers. </p>
+                                <p>To prevent raccoons and   other animals from accessing poultry during the day, completely enclose outdoor   pens with 1-inch chicken wire placed over a sturdy wooden framework. Overlap and   securely wire all seams on top to prevent raccoons from forcing their way in by   using their weight and claws. To prevent raccoons from reaching in at ground   level, surround the bottom 18 inches of the pen with smaller-mesh wire. </p>
+                                <p>See Figures 3, 4, 6 for   examples of how to prevent raccoons from climbing enclosures. (See "<A href="/living/skunks.html#conflicts">Preventing Conflicts</A>" in Skunks for examples of how to prevent raccoons from   digging into enclosures.)</p>
+                                <p><B>Fence orchards and   vegetable gardens.</B> <BR>
+                                  Raccoons can easily climb wood or wire fences, or   bypass them by using overhanging limbs of trees or shrubs. See Figures 6 and 8   for examples of ways to prevent raccoons from climbing fences and accessing   crops at ground level. Wire fences will need to have a mesh size that is no   wider than 3 inches to keep young raccoons out. (See "<A href="/living/deer.html#electric_deer">Electric Fences</A>" in Deer for additional information.)</p>
+                                <p><B>Protect fruit trees, bird   feeders, and nest boxes.</B> <BR>
+                                  To prevent raccoons from climbing fruit trees,   poles, and other vertical structures, install a metal or heavy plastic barrier   (Fig. 7). Twenty-four-inch long aluminum or galvanized vent-pipe, available at   most hardware stores, can serve as a premade barrier around a narrow support.   (See <A href="/living/tree_squirrels.html" >Tree Squirrels</A> for more examples.) <I><B>Note:</B></I> Raccoons will attempt to use surrounding trees or structures as an avenue to   access the area above the barrier. </p>
+                                <p>Alternatively, a   funnel-shaped piece of aluminum flashing can be fitted around the tree or other   vertical structure. The outside edge of the flared metal should be a minimum of   18 inches away from the support. Cut the material with tin snips and file down   any sharp edges.</p>
+                                <TABLE cellSpacing="1" cellPadding="5" width="230" align="right" bgColor="#cccc99" border="0">
+                                  <TBODY>
+                                    <TR>
+                                      <TD width="155" bgColor="#ffffff"><A href="/living/species/graphics/raccoon7a.jpg"><IMG height="175" src="/living/species/graphics/t_raccoon7a.jpg" width="122" border="0"></A></TD>
+                                      <TD width="155" bgColor="#ffffff"><A href="/living/species/graphics/raccoon7b.jpg"><IMG height="175" src="/living/species/graphics/t_raccoon7b.jpg" width="108" border="0"></A></TD>
+                                    </TR>
+                                    <TR>
+                                      <TD colSpan="2" bgColor="#ffffff" class="reading_text"><B>Figure 7. </B>A raccoon guard can be secured around trees, pipes,   posts, and other structures to keep raccoons from climbing. It can be made from   a piece of aluminum flashing or sheet metal, held together with wire, nails, or   screws, and painted to blend in.<i> (Drawing by Jenifer   Rees.)</i></TD>
+                                    </TR>
+                                  </TBODY>
+                                </TABLE>
+                                <p><B>Regularly pick up fallen   birdseed and fruit to prevent attracting raccoons.</B></p>
+                                <p><B>Discourage raccoons from   disturbing pond plants and other aquatic life.</B> <BR>
+                                  Raccoons are attracted to   ponds because they associate them with a food source. While a motion-activated   light or sprinkler, or your shouting may scare off a raccoon, this is usually   temporary. A raccoon, especially an urban raccoon, may run away the first night,   walk away the second night, but, if there&rsquo;s no additional deterrent, by the   third or fourth night the animal will be back with the light shining brightly or   the sprinkler sprinkling strongly. </p>
+                                <p>Always give fish a safe   place to hide by constructing hiding places on the bottom of the pond. Use   cinder blocks, ceramic drain tile, wire baskets, or upside-down plastic crates   held in place with heavy rocks. </p>
+                                <p>To prevent raccoons from   disturbing aquatic plants in containers, use containers that are too heavy or   wide for raccoons to overturn. Securing chicken wire over the top of the   containers will prevent raccoons from disturbing the soil inside. </p>
+                                <p>Although it&rsquo;s awkward   looking, small ponds can be completely covered with a barrier that can be left   on permanently or removed daily.</p>
+                                <p>Since raccoons are most   active after dark, be sure the pond is covered at night. Examples of barriers   include one-inch mesh chicken wire laid over the surface and held in place with   stakes&mdash;raccoons will walk on the barrier and try and go under it. (While black   bird-netting is less conspicuous, raccoons and other animals can easily get   entangled in it.) A wooden or PVC pipe frame covered with wire mesh can also be   built to cover the pond. Maneuvering over pond plants with any of the above can   be difficult. </p>
+                                <p>An alternative frame can be   constructed from heavy plastic lattice available from home improvement centers.   Carefully cut the lattice so it fits in the pond; cut out pieces to accommodate   any pond plants. Cover the lattice with bird netting (with the solid backing,   animals are less likely to become entangled in the netting). The netting can be   glued to the lattice using Shoe Goo&reg; or other waterproof glue. </p>
+                                <p>For larger ponds, stake   2-foot wide strips of chicken wire flat around the inside of the pond edge where   raccoons are entering. (Cut the wire as needed to match the curvature of the   pond.) Raccoons will have difficulty reaching over the wire, and will tend to   not stand on it because of its instability. To camouflage and extend the life of   the wire, spray it with dark-colored automobile undercoat paint or other   rustproof paint. </p>
+                                <TABLE cellSpacing="1" cellPadding="5" width="300" align="right" bgColor="#cccc99" border="0">
+                                  <TBODY>
+                                    <TR>
+                                      <TD bgColor="#ffffff"><A href="/living/species/graphics/raccoon8.jpg"><IMG height="92" src="/living/species/graphics/raccoon8.jpg" width="300" border="0"></A></TD>
+                                    </TR>
+                                    <TR>
+                                      <TD class="reading_text" bgColor="#ffffff"><B>Figure   8.</B> Install two electrified wires, 6 and 12 inches above ground around field   crops and other areas needing protection. The fence can be hooked up to a switch   for discretionary use; when you want to work near it, turn the system off. Where   the fence presents a safety problem, install signs, short pieces of white cloth,   or other material on the wire for visibility. <i>(Drawing by   Jenifer Rees.)</i></TD>
+                                    </TR>
+                                  </TBODY>
+                                </TABLE>
+                                <p>Ponds with steep, 2-foot   high side walls discourage raccoons from entering the water, but may be a safety   hazard for small children and the elderly. These hazardous areas can be located   away from paths and/or be heavily buffered with dense growths of tall marginal   plants and shrubs. </p>
+                                <p>Two electrified wires, 6 and   12 inches above ground and just back from the water&rsquo;s edge will deter raccoons.   <!--(see "<A href="/living/herons.html#conflicts">Preventing Conflicts</A>" in Great Blue Herons for examples)--> A single strand of wire   may be sufficient, but two wires will provide added insurance against the animal   making the climb. The wires can be hooked up to a switch for discretionary use;   when you want to work near the wire, turn the system off. Where the barrier   presents a safety problem, attach signs, short pieces of white cloth, or other   material on the wire for visibility. (See "<A href="/living/deer.html#electric_deer">Electric Fences</A>" in Deer for additional information.)</p>
+                                <p>Prevent damage to lawns.   Because worms and grubs inhabit areas just under well-watered sod, raccoons (and   skunks) are attracted to these food sources. See "<A href="/living/skunks.html#lawns">Prevent Damage to Lawns</A>" in Skunks for ways to prevent   conflicts.</p>
+                              </BLOCKQUOTE>
+                              <p><B><A name="trapping"></A></B><span class="medium_header">Trapping Raccoons</span></p>
+                              <BLOCKQUOTE>
+                                <p>Trapping and relocating a   raccoon several miles away seems an appealing method of resolving a conflict   because it is perceived as giving the &ldquo;problem animal&rdquo; a second chance in a new   home. Unfortunately, the reality of the situation is quite different. Raccoons   typically try to return to their original territories, often getting hit by a   car or killed by a predator in the process. If they remain in the new area, they   may get into fights (oftentimes to the death) with resident raccoons for limited   food, shelter, or nesting sites. Raccoons may also transmit diseases to rural   populations that they have picked up from urban pets. Finally, if a place &ldquo;in   the wild&rdquo; or an urban green space is perfect for raccoons, raccoons are probably   already there. It isn&rsquo;t fair to the animals already living there to release   another competitor into their home range. </p>
+                                <p>Raccoons used to a   particular food source, type of shelter, or human activity will seek out   familiar situations and surroundings. People, organizations, or agencies that   illegally move raccoons should be willing to assume liability for any damages or   injuries caused by these animals. Precisely for these reasons, raccoons posing a   threat to human and pet safety should not be relocated. </p>
+                                <p>In many cases, moving   raccoons will not solve the original problem because other raccoons will replace   them and cause similar conflicts. Hence, it is more effective to make the site   less attractive to raccoons than it is to routinely trap them. </p>
+                                <p>Trapping also may not be   legal in some urban areas; check with local authorities. Transporting animals   without the proper permit is also unlawful in most cases (see "<A href="#legal">Legal Status</A>"). See <A href="/living/nuisance/trapping.html" >Trapping Wildlife</A> for information on trapping   raccoons.</p>
+                              </BLOCKQUOTE>
+                              <p><B><A name="lethal"></A></B><span class="medium_header">Lethal   Control</span></p>
+                              <BLOCKQUOTE>
+                                <p>Lethal control is a last   resort and can never be justified without first applying the above-described   nonlethal control techniques. Lethal control is rarely a long-term solution   since other raccoons are likely to move in if food, water, or shelter remains   available. </p>
+                                <p>If all efforts to dissuade a   problem raccoon fail, the animal may have to be trapped. See <A href="/living/nuisance/trapping.html" >Trapping Wildlife</A> for information on   trapping raccoons. </p>
+                                <p>While shooting can be   effective in eliminating a single raccoon, it is generally limited to rural   situations. Shooting is considered too hazardous in more populated areas, even   if legal. (See "<A href="#legal">Legal Status</A>" for important   information.)</p>
+                              </BLOCKQUOTE>
+                              <p><B><A name="health"></A></B><span class="medium_header">Public   Health Concerns</span></p>
+                              <BLOCKQUOTE>
+                                <p>A disease that contributes   significantly to raccoon mortality is canine distemper. Canine distemper is also   a common disease fatal to domestic dogs, foxes, coyotes, mink, otters, weasels,   and skunks. It is caused by a virus and is spread most often when animals come   in contact with the bodily secretions of animals infected with the disease.   Gloves, cages, and other objects that have come in contact with infected animals   can also contain the virus. The best prevention against canine distemper is to   have your dogs vaccinated and kept away from raccoons. </p>
+                                <p>Raccoons in Washington often   have roundworms (like domestic dogs and cats do, but from a different worm).   Raccoon roundworm does not usually cause a serious problem for raccoons.   However, roundworm eggs shed in raccoon droppings can cause mild to serious   illness in other animals and humans. Although rarely documented anywhere in the   United States, raccoon roundworm can infect a person who accidentally ingests or   inhales the parasite&rsquo;s eggs. </p>
+                                <p>Prevention consists of never   touching or inhaling raccoon droppings, using rubber gloves and a mask when   cleaning areas (including traps) that have been occupied by raccoons, and   keeping young children and pets away from areas where raccoons concentrate. (If   washing raccoon droppings from a roof, watch where the liquid matter is going.)   Routinely encourage or assist your children to wash their hands after playing   outdoors. Unfortunately, raccoon roundworm eggs can remain alive in soil and   other places for several months. </p>
+                                <p>If a person is bitten or   scratched by a raccoon, immediately scrub the wound with soap and water. Flush   the wound liberally with tap water. In other parts of the United States raccoons   can carry rabies. Contact your physician and the local health department   immediately. If your pet is bitten, follow the same cleansing procedure and   contact your veterinarian.</p>
+                              </BLOCKQUOTE>
+                              <p><B><A name="legal"></A></B><span class="medium_header">Legal   Status</span></p>
+                              <BLOCKQUOTE>
+                                <p>Because legal status,   trapping restrictions, and other information about raccoons change, contact your <A href="/about/regions/">WDFW Regional   Office</A> for updates. </p>
+                                <p>The raccoon is classified as   both a furbearer and a game animal (<A href="http://apps.leg.wa.gov/WAC/default.aspx?cite=232-12-007" >WAC   232-12-007</A>). A hunting or trapping license is required to hunt or trap   raccoons during an open season. A property owner or the owner&rsquo;s immediate   family, employee, or tenant may kill or trap a raccoon on that property if it is   damaging crops or domestic animals (<A href="http://apps.leg.wa.gov/RCW/default.aspx?cite=77.36.030" >RCW   77.36.030</A>). In such cases, no permit is necessary for the use of live (cage)   traps. However, a special trapping permit is required for the use of all traps   other than live traps (<A href="http://apps.leg.wa.gov/RCW/default.aspx?cite=77.15.192" >RCW 77.15.192</A>, <A href="http://apps.leg.wa.gov/RCW/default.aspx?cite=77.15.194" >77.15.194</A>; <A href="http://apps.leg.wa.gov/WAC/default.aspx?cite=232-12-142" >WAC   232-12-142</A>). </p>
+                                <p>It is unlawful to release   wildlife anywhere within the state, other than on the property where it was   legally trapped, without a permit to do so (<A href="http://apps.leg.wa.gov/RCW/default.aspx?cite=77.15.250" >RCW 77.15.250</A>; <A href="http://apps.leg.wa.gov/WAC/default.aspx?cite=232-12-271" >WAC 232-12-271</A>). Except for bona fide public or private   zoological parks, persons and entities are prohibited from importing raccoons   into Washington State without a permit to do so (<A href="http://apps.leg.wa.gov/WAC/default.aspx?cite=246-100-191" >WAC   246-100-191</A>).</p>
+                              </BLOCKQUOTE>
+                              <p><B><A name="additional"></A></B><span class="medium_header">Additional Information</span></p>
+                              <BLOCKQUOTE>
+                                <p><B>Books </B></p>
+                                <p>Conover, Michael. <I>Resolving Human&mdash;Wildlife Conflicts: The Science of Wildlife Damage   Management</I>. Boca Raton, FL: Lewis Publishers, 2002. </p>
+                                <p>Hygnstrom, Scott E., et   al.<I> Prevention and Control of Wildlife Damage. Lincoln</I>, NE: University of   Nebraska-Lincoln, Institute of Agriculture and Natural Resources, 1994.   (Available from: University of Nebraska Cooperative Extension, 202 Natural   Resources Hall, Lincoln, NE 68583-0819; phone: 402-472-2188; also see Internet   Sites below.) </p>
+                                <p>Link, Russell. <I>Landscaping for Wildlife in the Pacific Northwest.</I> Seattle: University of   Washington Press and the Washington Department of Fish and Wildlife,   1999. </p>
+                                <p>Maser, Chris. <I>Mammals of   the Pacific Northwest: From the Coast to the High Cascades.</I> Corvalis: Oregon   State University Press, 1998. </p>
+                                <p>Verts, B. J., and Leslie N.   Carraway. <I>Land Mammals of Oregon.</I> Los Angeles: University of California   Press, 1998.</p>
+                                <p><B>Internet Resources </B></p>
+                                <p><A href="http://biology.burkemuseum.org/mammalogy/database/search.php"><B>Burke Museum&rsquo;s Mammals of   Washington</B></A></p>
+                                <p><B><A href="http://www.ippc.orst.edu/cicp/Pests/vertebrate.htm">Internet IPM Resources   on Vertebrate Pests</A> (Oregon State University)</B></p>
+                                <p><B><A href="http://icwdm.org/" >Prevention and Control of Wildlife   Damage</A></B></p>
+                                <p><B><A href="http://icwdm.org/handbook/index.asp" >The Internet Center for   Wildlife Damage Management</A></B>                                </p>
+                                <p><B><A href="http://www.fs.fed.us/database/feis/wildlife/" >U.S. Forest   Service Wildlife Species Life Form Information</A></B></p>
+                                <p><B><A href="http://www.wildlifecontrolsupplies.com/Merchant2/merchant.mvc?Screen=SFNT&Store_Code=NWS001" >Wildlife Control Supplies</A></B></p>
+                              </BLOCKQUOTE>
+                              <p>&nbsp;</p>
+                              <table width="85%" border="0" align="center" cellpadding="5" cellspacing="5" class="border_gray reading_text">
+  <tr>
+    <td>Adapted from <b><i>"Living with   Wildlife in the Pacific Northwest"</i></b> (see <a href="/living/book">http://wdfw.wa.gov/living/book</a>)<b><br>
+      </b><i>Written   by: <a href="mailto:Russell.Link@dfw.wa.gov">Russell Link</a>, Urban   Wildlife Biologist </i></td>
+  </tr>
+</table>
+</td>
+                          </tr>
+                          <tr> 
+                            <td align="center" valign="top">&nbsp;</td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+              <tr id="no_print"> 
+                <td colspan="2" valign="top"><div class="nocontent">
+<!--googleoff: all-->
+<table cellspacing="0"  class="Footer">
+  <tr>
+    <td colspan="4" align="left" valign="top">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="4" align="left" valign="top"><div style="margin-left:40px;">
+      <p><a href="/index.html"><strong>Home</strong></a></p>
+      <p><strong><a href="/about/">About WDFW</a></strong></p>
+      <p><strong><a href="/conservation/">Conservation</a></strong></p>
+      <p><strong><a href="/fishing/">Fishing</a></strong></p>
+      <p><strong><a href="/hunting/">Hunting</a></strong></p>
+      <p><strong><a href="/enforcement/">Enforcement</a></strong></p>
+      <p><strong><a href="/viewing/">Wildlife Viewing</a></strong></p>
+      <p><strong><a href="/licensing/">Licensing &amp; Permits</a></strong></p>
+      <p><strong><a href="/living/">Living with Wildlife</a></strong></p>
+      <div style="border:1px #AAA solid; padding:5px; margin-top:40px; border-radius:5px; width:250px;"> <strong>Find a bug or error in the system? </strong><br>
+        <a href="/error_report.html"><u>Let 
+          
+          us know about it!</u></a>
+        </p>
+        <p class="small_text">&#169;
+          
+          2017
+          <a href="http://wdfw.wa.gov/"><u>Washington Department of Fish and Wildlife</u></a><br />
+          E-mail: <a href="mailto:webmaster@dfw.wa.gov"><u>webmaster@dfw.wa.gov</u></a><br />
+          <a href="/privacy/"><u>Privacy Statement</u></a></p>
+      </div>
+    </div></td>
+    <td colspan="2" align="left" valign="top" nowrap><span style="color:#BBB; font-weight:bold;">RECREATIONAL OPPORTUNITIES</span></td>
+    <td align="left" valign="top" nowrap>&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="left" valign="top"><table class="Footer">
+      <tr>
+        <td align="left" valign="top"><div style="margin-left:10px;"> <a href="/accessibility">ADA Access</a>
+          <p><a href="/fishing/washington/">Fish Washington</a></p>
+          <p><a href="/hunting/hunting_access/private_lands/">Private Lands Hunting Access</a></p>
+          <p><a href="/lands/wildlife_areas/">Wildlife Areas</a></p>
+          <p><a href="/lands/water_access/">Water Access Sites</a></p>
+          </div></td>
+        <td align="left" valign="top" nowrap><div style="margin-left:10px;"> <a href="/lands/water_access/"></a>
+          <a href="http://discoverpass.wa.gov/">Discover Pass</a>
+          <p><a href="/licensing/vendors/">Find a license dealer</a></p>
+          <p><a href="/weekender/">Weekender Report</a></p>
+          <p><a href="http://apps.wdfw.wa.gov/gohunt/">GoHunt</a> <span class="tiny_text"><em>(mapping)</em></span></p>
+          <p>&nbsp;</p>
+          </div></td>
+        </tr>
+    </table></td>
+    <td rowspan="3" align="left" valign="top"><a href="/employment/">Employment / Jobs</a>
+      <p><a href="/help/">Help</a></p>
+      <p><a href="/about/contact/">Contact WDFW</a></p>
+      <p><a href="/news/">News</a></p>
+      <p><a href="/lists/">Mailing Lists</a></p>
+      <p>&nbsp;</p>
+      <p><a href="/rss.html">RSS Feeds</a></p>
+      <p><a href="/publications/">WDFW Publications</a></p>
+      <p><a href="/mapping/">Maps &amp; Data Products</a></p>
+      <p><a href="/hunting/huntered/">Hunter Education</a></p>
+      <p><a href="/enforcement/reporting_violations.html">Report a Violation</a></p></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" nowrap><span style="color:#BBB; font-weight:bold;">SOCIAL MEDIA</span></td>
+    <td align="left" valign="top" nowrap><span style="color:#BBB; font-weight:bold;">SEASONS &amp; REGULATIONS</span></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><div style="margin-left:10px;"><a href="https://www.facebook.com/WashingtonFishWildlife"><img style="border:0" src="/includes/graphics/footer/footer_wdfw_facebook.png" width="23" height="18" alt="WDFW Facebook" /></a> <a href="https://www.facebook.com/WashingtonFishWildlife">WDFW Facebook</a>
+      <p><a href="https://www.facebook.com/WDFWPolice"><img style="border:0" src="/includes/graphics/footer/footer_police_facebook.png" width="22" height="19" alt="WDFW Police Facebook" /></a> <a href="https://www.facebook.com/WDFWPolice">WDFW Police Facebook</a></p>
+      <p><a href="http://www.youtube.com/thewdfw"><img style="border:0" src="/includes/graphics/footer/footer_youtube.png" width="19" height="19" alt="WDFW YouTube" /></a> <a href="http://www.youtube.com/thewdfw">YouTube</a></p>
+      <p><a href="https://twitter.com/wdfw"><img style="border:0" src="/includes/graphics/footer/footer_twitter.png" width="19" height="19" alt="WDFW Twitter" /></a> <a href="https://twitter.com/wdfw">Twitter</a></p>
+       <p><a href="https://instagram.com/thewdfw/"><img style="border:0" src="/includes/graphics/footer/footer_instagram.png" width="19" height="16" alt="WDFW Instagram" /></a> <a href="https://www.instagram.com/thewdfw/">Instagram</a></p>
+    </div></td>
+    <td align="left" valign="top"><div style="margin-left:10px;"><a href="/fishing/regulations/">Fishing</a>
+      <p><a href="/hunting/regulations/">Hunting</a></p>
+    </div>
+      <p>&nbsp;</p>
+      </p></td>
+  </tr>
+  <tr>
+    <td colspan="5" align="left" valign="top">&nbsp;</td>
+  </tr>
+</table>
+<!--googleon: all-->
+</div>                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+</table>
+</body>
+</html>

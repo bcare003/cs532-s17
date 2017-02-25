@@ -1,0 +1,496 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:fb="http://ogp.me/ns/fb#"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#">
+
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.f4wonline.com/sites/www.f4wonline.com/files/favicon_0.ico" type="image/vnd.microsoft.icon" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://www.f4wonline.com/wwe-results/wwe-smackdown-live-results-bray-wyatt-vs-john-cena-vs-aj-styles-230141%0D" />
+<link rel="shortlink" href="http://www.f4wonline.com/wwe-results/wwe-smackdown-live-results-bray-wyatt-vs-john-cena-vs-aj-styles-230141%0D" />
+<meta property="og:site_name" content="WON/F4W - WWE news, Pro Wrestling News, WWE Results, UFC News, UFC results" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.f4wonline.com/wwe-results/wwe-smackdown-live-results-bray-wyatt-vs-john-cena-vs-aj-styles-230141%0D" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="http://www.f4wonline.com/wwe-results/wwe-smackdown-live-results-bray-wyatt-vs-john-cena-vs-aj-styles-230141%0D" />
+  <title>| WON/F4W - WWE news, Pro Wrestling News, WWE Results, UFC News, UFC results</title>
+  <link type="text/css" rel="stylesheet" href="http://www.f4wonline.com/sites/www.f4wonline.com/files/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.f4wonline.com/sites/www.f4wonline.com/files/css/css_vZ_wrMQ9Og-YPPxa1q4us3N7DsZMJa-14jShHgRoRNo.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.f4wonline.com/sites/www.f4wonline.com/files/css/css_1f6fm-URlk1eb6S3G5SKuvHJj4501CneeZD8Ncx75NQ.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.f4wonline.com/sites/www.f4wonline.com/files/css/css_ut8elCWpljn7h3yRoX7Xym_Wq7s_veC0H3ZCICTxMkk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.f4wonline.com/sites/www.f4wonline.com/files/css/css_GqoLkklfnFxV3ix5jTlslK73vBNzCekq-z4GLvNUUpg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.f4wonline.com/sites/www.f4wonline.com/files/css/css_toWsdyhzjSK1LKuX_Zo5mzX-upPa3i5iKkcK383w2F4.css" media="screen and (max-device-width : 767px)" />
+<link type="text/css" rel="stylesheet" href="http://www.f4wonline.com/sites/www.f4wonline.com/files/css/css_3UaPQ-hZpfQoNuMmpSNWQQL6lL4K1979JF3xMf2ID2I.css" media="screen and (min-device-width : 768px) and (max-device-width : 1024px)" />
+<link type="text/css" rel="stylesheet" href="http://www.f4wonline.com/sites/www.f4wonline.com/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Rokkitt:400,700|Oswald:400,300,700&amp;ollkwk" media="all" />
+<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Arvo:400,700,400italic,700italic&amp;ollkwk" media="all" />
+  <script type="text/javascript" src="http://www.f4wonline.com/sites/www.f4wonline.com/files/js/js_ri60QNjcazMKdlAmWmDsmRb0iKaVkkXUQxH2MsgpmVo.js"></script>
+<script type="text/javascript" src="http://www.f4wonline.com/sites/www.f4wonline.com/files/js/js_jTOWy1MJzMMcRyzNTDJeZQsevSRZ-JQRVWPAuSZTD5A.js"></script>
+<script type="text/javascript" src="http://www.f4wonline.com/sites/www.f4wonline.com/files/js/js_tG5pNElF7jdZyW0ucRa0HM83XPmzKI51mC1EJoW5BK0.js"></script>
+<script type="text/javascript" src="http://www.f4wonline.com/sites/www.f4wonline.com/files/js/js_4DufL1YGX550N3yi3gD5aAKQRekVytRQEHdfOFoB80M.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-4484679-1", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.f4wonline.com/sites/www.f4wonline.com/files/js/js_1b5t75jOGBNNslM8PqMrIgZS1bPviWqU879Xd31r-b8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"f4w2014","theme_token":"9n8u8JPDN9sFXlBva1y9qw16rTW4iqh79Ho1NYUmRSI","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/modules\/contentanalysis\/contentanalysis.js":1,"sites\/all\/modules\/contentoptimizer\/contentoptimizer.js":1,"sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.js":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/js\/views_slideshow_cycle.js":1,"sites\/all\/modules\/responsive_menus\/styles\/sidr\/js\/responsive_menus_sidr.js":1,"sites\/all\/libraries\/sidr\/jquery.sidr.min.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/f4w2014\/js\/jquery.cookie.js":1,"sites\/all\/themes\/f4w2014\/js\/jquery.matchHeight.js":1,"sites\/all\/themes\/f4w2014\/js\/jquery.sticky-kit.min.js":1,"sites\/all\/themes\/f4w2014\/js\/lc.js":1,"sites\/all\/themes\/f4w2014\/js\/slideout.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow_controls_text.css":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/views_slideshow_cycle.css":1,"sites\/all\/libraries\/sidr\/stylesheets\/jquery.sidr.dark.css":1,"sites\/all\/themes\/f4w2014\/css\/style.css":1,"sites\/all\/themes\/f4w2014\/css\/system.menus.css":1,"sites\/all\/themes\/f4w2014\/css\/mobile1.css":1,"sites\/all\/themes\/f4w2014\/css\/ipad.css":1,"sites\/all\/themes\/f4w2014\/css\/print.css":1,"http:\/\/fonts.googleapis.com\/css?family=Rokkitt:400,700|Oswald:400,300,700":1,"http:\/\/fonts.googleapis.com\/css?family=Arvo:400,700,400italic,700italic":1}},"viewsSlideshow":{"all_news-block_1":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","viewsSlideshowCycle"],"play":["viewsSlideshowControls","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0}},"viewsSlideshowControls":{"all_news-block_1":{"bottom":{"type":"viewsSlideshowControlsText"}}},"viewsSlideshowCycle":{"#views_slideshow_cycle_main_all_news-block_1":{"num_divs":5,"id_prefix":"#views_slideshow_cycle_main_","div_prefix":"#views_slideshow_cycle_div_","vss_id":"all_news-block_1","effect":"fade","transition_advanced":1,"timeout":10000,"speed":700,"delay":0,"sync":1,"random":0,"pause":1,"pause_on_click":0,"play_on_hover":0,"action_advanced":0,"start_paused":0,"remember_slide":0,"remember_slide_days":1,"pause_in_middle":0,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"pause_after_slideshow":0,"fixed_height":1,"items_per_slide":1,"wait_for_image_load":1,"wait_for_image_load_timeout":3000,"cleartype":0,"cleartypenobg":0,"advanced_options":"{}"}},"responsive_menus":[{"selectors":["#topnav"],"trigger_txt":"","side":"left","speed":"200","media_size":"767","displace":"1","renaming":1,"onOpen":"document.getElementById(\u0022sidr-0-button\u0022).style.backgroundImage = \u0022url(\u0027\/sites\/all\/themes\/f4w2014\/images\/close.png\u0027)\u0022;","onClose":"document.getElementById(\u0022sidr-0-button\u0022).style.backgroundImage = \u0022url(\u0027\/sites\/all\/themes\/f4w2014\/images\/hamburger.png\u0027)\u0022;","responsive_menus_style":"sidr"}],"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});
+//--><!]]>
+</script>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta name="google-site-verification" content="qDfSBl_fTuy0uyXeLFBgSdUga0TxAbFsdWpQTAOPiMo" />
+<meta name="theme-color" content="#D11614">
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+
+<script type='text/javascript'>
+window.addEvent('domready', function(){
+	if (document.getElementById('topnav')){ 
+		var myDiv5 = $('topnav');
+		var myButton5 = $('toggle-menu');
+		var mySlider5 = new theSlider(myDiv5, myButton5, true);
+	}
+
+Element.implement({	
+  });
+});
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-0522151742707897",
+    enable_page_level_ads: true
+  });
+</script>
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/22716923/728bottom', [728, 90], 'div-gpt-ad-1476912384444-0').addService(googletag.pubads());
+    googletag.defineSlot('/22716923/728x90top', [728, 90], 'div-gpt-ad-1476912384444-1').addService(googletag.pubads());
+    googletag.defineSlot('/22716923/front_300', [300, 250], 'div-gpt-ad-1476912384444-2').addService(googletag.pubads());
+    googletag.defineSlot('/22716923/Jeanie', [300, 150], 'div-gpt-ad-1476912384444-3').addService(googletag.pubads());
+    googletag.defineSlot('/22716923/nida2', [300, 150], 'div-gpt-ad-1476912384444-4').addService(googletag.pubads());
+googletag.defineSlot('/22716923/nida5', [300, 150], 'div-gpt-ad-1486157090017-0').addService(googletag.pubads());    
+googletag.defineSlot('/22716923/under300', [300, 250], 'div-gpt-ad-1476912384444-5').addService(googletag.pubads());
+    googletag.defineSlot('/22716923/Mobile300', [300, 250], 'div-gpt-ad-1476990869508-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-wwe-results page-wwe-results-wwe-smackdown-live-results-bray-wyatt-vs-john-cena-vs-aj-styles-230141" >
+  
+  <div id="top-menus">
+<div id="white-menu">
+<div class="contentcenter">
+<div id="about-menu">
+<a href="/f4wonlinecom-contact-206466">About Us</a>&nbsp;&nbsp;&#124;&nbsp;&nbsp; <a href="/contact">Contact</a></div>
+<div id="logout-link" class="show-member"><a href="http://account.f4wonline.com/member"><span class="account-text">Your Account</span></a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://account.f4wonline.com/logout">Logout</a></div>
+<div id="login-link" class="hide-member"><a href="http://account.f4wonline.com/login?amember_redirect_url=http://www.f4wonline.com/wwe-results/wwe-smackdown-live-results-bray-wyatt-vs-john-cena-vs-aj-styles-230141%0D">Login</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://account.f4wonline.com/signup">Subscribe now!</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://account.f4wonline.com/profile">Renew!</a></div>
+</div></div>
+
+
+<div id="black-menu">
+<div class="contentcenter">
+<div id="main-menu">
+<div id="topnav">  <div class="region region-mainmenu">
+    <div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-7436"><a href="/" title="">HOME</a></li>
+<li class="leaf menu-mlid-230"><a href="/radioshow-archive" title="">RADIO ARCHIVE</a></li>
+<li class="leaf menu-mlid-621"><a href="http://members.f4wonline.com/search" title="">NEWSLETTER ARCHIVE</a></li>
+<li class="leaf menu-mlid-623"><a href="http://theboard.f4wonline.com" title="">THE BOARD</a></li>
+<li class="last expanded menu-mlid-1014"><a href="/news-blog/" title="">NEWS</a><ul class="menu"><li class="first leaf menu-mlid-1016"><a href="/wwe-news/" title="">WWE News</a></li>
+<li class="leaf menu-mlid-1015"><a href="/ufc-news/" title="">UFC News</a></li>
+<li class="leaf menu-mlid-5101"><a href="/roh-news/" title="">ROH News</a></li>
+<li class="leaf menu-mlid-5096"><a href="/tna-news/" title="">TNA News</a></li>
+<li class="leaf menu-mlid-5106"><a href="/japan-news" title="">Japan News</a></li>
+<li class="leaf menu-mlid-5111"><a href="/mexico-news/" title="">Mexico News</a></li>
+<li class="last leaf menu-mlid-5116"><a href="/indie-news" title="">Indie News</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+</div>
+</div><!-- end main-menu -->
+<div id="logo-box"><a href="/">HOME</a></div>
+</div></div></div>
+
+<div class="spacer"></div>
+
+<div class="contentcenter">
+<div id="middle">
+<div id ="left-middle" class="even2">
+<div id="banner728">
+<div class="desktop-ad">
+<!-- /22716923/728x90top -->
+<div id='div-gpt-ad-1476912384444-1' style='height:90px; width:728px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1476912384444-1'); });
+</script>
+</div>
+</div>
+
+<div class="mobile-ad-top">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Mobile top -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-0522151742707897"
+     data-ad-slot="1566564401"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div></div>
+<div id="article-area">
+  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div class="view view-all-news view-id-all_news view-display-id-page_10 view-dom-id-22d3187784b6622bf604885540e11d1c">
+        
+  
+  
+      <div class="view-content">
+        <div>
+      
+  <div>        <div><div class="blog-item"><div class="blog-image"><a href="/wwe-results/wwe-nxt-results-kassius-ohno-returns-tv-230606"><img src="http://www.f4wonline.com/sites/www.f4wonline.com/files/styles/large/public/field/image/C5UAqrNUEAAAlxE.jpg?itok=zgmpZ43T" width="480" height="270" alt="" /></a></div><div class="blog-right"><h2><a href="/wwe-results/wwe-nxt-results-kassius-ohno-returns-tv-230606">WWE NXT results: Kassius Ohno returns to TV</a></h2>Feb 22, 2017 9:35pm<span class="news-blog-summary"><p>The former Chris Hero finally makes his way back to TV to set his sights on Bobby Roode and the NXT Championship.</p>
+</span></div>
+</div></div>  </div>  </div>
+  <div>
+      
+  <div>        <div><div class="blog-item"><div class="blog-image"><a href="/wwe-results/nxt-tv-taping-spoilers-roode-vs-ohno-finn-balor-appears-230601"><img src="http://www.f4wonline.com/sites/www.f4wonline.com/files/styles/large/public/field/image/C5UScxmUYAA3uoO.jpg?itok=_btXo-gO" width="480" height="360" alt="" /></a></div><div class="blog-right"><h2><a href="/wwe-results/nxt-tv-taping-spoilers-roode-vs-ohno-finn-balor-appears-230601">NXT TV taping spoilers: Roode vs. Ohno; Finn Balor appears</a></h2>Feb 22, 2017 8:47pm<span class="news-blog-summary"><p>NXT taped its latest round of episodes at the University of Central Florida on Wednesday night.</p>
+</span></div>
+</div></div>  </div>  </div>
+  <div>
+      
+  <div>        <div><div class="blog-item"><div class="blog-image"><a href="/wwe-results/wwe-smackdown-video-highlights-main-event-ends-controversy-230566"><img src="http://www.f4wonline.com/sites/www.f4wonline.com/files/styles/large/public/field/image/20170221_SD_stylesherper--4363fc8fbff41877fcf0b56eb8e91176.jpg?itok=zzbcLRtQ" width="480" height="270" alt="" /></a></div><div class="blog-right"><h2><a href="/wwe-results/wwe-smackdown-video-highlights-main-event-ends-controversy-230566">WWE SmackDown video highlights: Main event ends in controversy</a></h2>Feb 22, 2017 7:31am<span class="news-blog-summary"><p>Catch up on video highlights from last night's show.</p>
+</span></div>
+</div></div>  </div>  </div>
+  <div>
+      
+  <div>        <div><div class="blog-item"><div class="blog-image"><a href="/wwe-results/wwe-205-live-results-jack-gallagher-vs-tony-nese-230551"><img src="http://www.f4wonline.com/sites/www.f4wonline.com/files/styles/large/public/field/image/20170221_SD_NeseGallagher--3f67985825df51da6c024b6164cac144_0.jpg?itok=xaXjeeqK" width="480" height="270" alt="" /></a></div><div class="blog-right"><h2><a href="/wwe-results/wwe-205-live-results-jack-gallagher-vs-tony-nese-230551">WWE 205 Live results: Jack Gallagher vs. Tony Nese</a></h2>Feb 21, 2017 8:44pm<span class="news-blog-summary"><p>Jack Gallagher looks to stay on the right track and Austin Aries teases returning to the ring.</p>
+</span></div>
+</div></div>  </div>  </div>
+  <div>
+      
+  <div>        <div><div class="blog-item"><div class="blog-image"><a href="/wwe-results/wwe-smackdown-live-results-number-one-contenders-battle-royal-230491"><img src="http://www.f4wonline.com/sites/www.f4wonline.com/files/styles/large/public/20170221_SD_Preview_6man--bad0390e52cec647fb4b9152c56c209c.jpg?itok=cQcCSd1t" width="480" height="270" alt="" /></a></div><div class="blog-right"><h2><a href="/wwe-results/wwe-smackdown-live-results-number-one-contenders-battle-royal-230491">WWE SmackDown live results: Number one contender&#039;s battle royal</a></h2>Feb 21, 2017 4:51pm<span class="news-blog-summary"><p>The road to WrestleMania continues with a 10-man battle royal and Nikki Bella vs. Natalya in a falls count anywhere match.</p>
+</span></div>
+</div></div>  </div>  </div>
+  <div>
+      
+  <div>        <div><div class="blog-item"><div class="blog-image"><a href="/wwe-results/wwe-san-diego-ca-live-results-cena-harper-vs-wyatt-orton-230521"><img src="http://www.f4wonline.com/sites/www.f4wonline.com/files/styles/large/public/field/image/089_SD_02142017jg_0890--dd3c3c6bf0df64998e56fe52785b948d.jpg?itok=5Hd3GAHL" width="480" height="270" alt="" /></a></div><div class="blog-right"><h2><a href="/wwe-results/wwe-san-diego-ca-live-results-cena-harper-vs-wyatt-orton-230521">WWE San Diego, CA, live results: Cena &amp; Harper vs. Wyatt &amp; Orton</a></h2>Feb 21, 2017 12:16pm<span class="news-blog-summary"><p>SmackDown's biggest stars returned to the house show loop at the brand's Monday night show in San Diego.</p>
+</span></div>
+</div></div>  </div>  </div>
+  <div>
+      
+  <div>        <div><div class="blog-item"><div class="blog-image"><a href="/wwe-results/wwe-raw-video-highlights-kevin-owens-opens-show-promo-230516"><img src="http://www.f4wonline.com/sites/www.f4wonline.com/files/styles/large/public/field/image/002_RAW_02202017hm_087--a9a054089240b71b4a2098a77672abe5.jpg?itok=7r0sMO6R" width="480" height="270" alt="" /></a></div><div class="blog-right"><h2><a href="/wwe-results/wwe-raw-video-highlights-kevin-owens-opens-show-promo-230516">WWE Raw video highlights: Kevin Owens opens the show with a promo</a></h2>Feb 21, 2017 7:33am<span class="news-blog-summary"><p>Catch up on video highlights from last night's show.</p>
+</span></div>
+</div></div>  </div>  </div>
+  <div>
+      
+  <div>        <div><div class="blog-item"><div class="blog-image"><a href="/wwe-results/wwe-raw-live-results-more-build-fastlane-230461"><img src="http://www.f4wonline.com/sites/www.f4wonline.com/files/styles/large/public/20170213_Raw_StrowmanShow--7b7b7f262c140833cee22bb442cc428b.jpg?itok=LmgwTvFo" width="480" height="270" alt="" /></a></div><div class="blog-right"><h2><a href="/wwe-results/wwe-raw-live-results-more-build-fastlane-230461">WWE Raw live results: More build to Fastlane</a></h2>Feb 20, 2017 4:57pm<span class="news-blog-summary"><p>Fallout from the Festival of Friendship and Bayley's title win should be featured on tonight's episode.</p>
+</span></div>
+</div></div>  </div>  </div>
+  <div>
+      
+  <div>        <div><div class="blog-item"><div class="blog-image"><a href="/wwe-results/wwe-saskatoon-sk-canada-live-results-ambrose-vs-miz-vs-styles-230441"><img src="http://www.f4wonline.com/sites/www.f4wonline.com/files/styles/large/public/field/image/012_SD_01102017jg_0092--b1898575f1443aefef17352d397ccbc4.jpg?itok=DBBgMAi5" width="480" height="270" alt="" /></a></div><div class="blog-right"><h2><a href="/wwe-results/wwe-saskatoon-sk-canada-live-results-ambrose-vs-miz-vs-styles-230441">WWE Saskatoon, SK, Canada live results: Ambrose vs. Miz vs. Styles</a></h2>Feb 20, 2017 9:23am<span class="news-blog-summary"><p>SmackDown continued its house show run in Canada with another show lacking in top end star power.</p>
+</span></div>
+</div></div>  </div>  </div>
+  <div>
+      
+  <div>        <div><div class="blog-item"><div class="blog-image"><a href="/wwe-results/wwe-long-beach-ca-live-results-reigns-zayn-vs-owens-joe-230436"><img src="http://www.f4wonline.com/sites/www.f4wonline.com/files/styles/large/public/field/image/159_RAW_02062017jg_0590--9fc560f78fc4257837fbd6714b5bffc6.jpg?itok=D2CPBLkf" width="480" height="270" alt="" /></a></div><div class="blog-right"><h2><a href="/wwe-results/wwe-long-beach-ca-live-results-reigns-zayn-vs-owens-joe-230436">WWE Long Beach, CA, live results: Reigns &amp; Zayn vs. Owens &amp; Joe</a></h2>Feb 20, 2017 7:52am<span class="news-blog-summary"><p>A tag team main event headlined the Raw brand's latest house show in California.</p>
+</span></div>
+</div></div>  </div>  </div>
+    </div>
+  
+      <h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Go to page 2" href="/wwe-results/wwe-smackdown-live-results-bray-wyatt-vs-john-cena-vs-aj-styles-230141%0D?page=1">2</a></li>
+<li class="pager-item"><a title="Go to page 3" href="/wwe-results/wwe-smackdown-live-results-bray-wyatt-vs-john-cena-vs-aj-styles-230141%0D?page=2">3</a></li>
+<li class="pager-item"><a title="Go to page 4" href="/wwe-results/wwe-smackdown-live-results-bray-wyatt-vs-john-cena-vs-aj-styles-230141%0D?page=3">4</a></li>
+<li class="pager-item"><a title="Go to page 5" href="/wwe-results/wwe-smackdown-live-results-bray-wyatt-vs-john-cena-vs-aj-styles-230141%0D?page=4">5</a></li>
+<li class="pager-item"><a title="Go to page 6" href="/wwe-results/wwe-smackdown-live-results-bray-wyatt-vs-john-cena-vs-aj-styles-230141%0D?page=5">6</a></li>
+<li class="pager-item"><a title="Go to page 7" href="/wwe-results/wwe-smackdown-live-results-bray-wyatt-vs-john-cena-vs-aj-styles-230141%0D?page=6">7</a></li>
+<li class="pager-item"><a title="Go to page 8" href="/wwe-results/wwe-smackdown-live-results-bray-wyatt-vs-john-cena-vs-aj-styles-230141%0D?page=7">8</a></li>
+<li class="pager-item"><a title="Go to page 9" href="/wwe-results/wwe-smackdown-live-results-bray-wyatt-vs-john-cena-vs-aj-styles-230141%0D?page=8">9</a></li>
+<li class="pager-ellipsis">…</li>
+<li class="pager-next"><a title="Go to next page" href="/wwe-results/wwe-smackdown-live-results-bray-wyatt-vs-john-cena-vs-aj-styles-230141%0D?page=1">next ›</a></li>
+<li class="pager-last last"><a title="Go to last page" href="/wwe-results/wwe-smackdown-live-results-bray-wyatt-vs-john-cena-vs-aj-styles-230141%0D?page=23">last »</a></li>
+</ul></div>  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+</div>
+<div id="related-articles">
+<div id="MI8OyKJSAzBSavs7d7tHMHo_j9rRQHdTxojHXzOt"></div>
+</div>
+<div class="desktop-ad">
+
+</div><div class="mobile-ad">
+
+</div>
+</div><!-- end left-middle -->
+
+
+<div id="right-middle" class="even2">
+
+<div class="banner300">
+<center>
+<!-- /22716923/front_300 -->
+<div id='div-gpt-ad-1476912384444-2' style='height:250px; width:300px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1476912384444-2'); });
+</script>
+</div>
+<br />
+
+<div class="article-side-ads">
+<!-- /22716923/Jeanie -->
+<div id='div-gpt-ad-1476912384444-3' style='height:150px; width:300px;margin-bottom:10px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1476912384444-3'); });
+</script>
+</div>
+
+<!-- /22716923/nida2 -->
+<div id='div-gpt-ad-1476912384444-4' style='height:150px; width:300px;margin-bottom:10px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1476912384444-4'); });
+</script>
+</div>
+<!-- /22716923/nida5 -->
+<div id='div-gpt-ad-1486157090017-0' style='height:150px; width:300px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1486157090017-0'); });
+</script>
+</div>
+</div>
+</center>
+</div><!-- end banner300 -->
+
+<div id="article-side" class="even3">
+<div id="article-ads" class="sticky">
+<div id="latest-news2">
+<img src="/sites/all/themes/f4w2014/images/latestnews.gif" alt="latest news"/>  <div class="region region-all-stories">
+    <div id="block-views-all-news-block" class="block block-views">
+
+    
+  <div class="content">
+    <div class="view view-all-news view-id-all_news view-display-id-block view-dom-id-9941ffebe44c33c9fcf3f5e204527078">
+        
+  
+  
+      <div class="view-content">
+      <div class="headlines">    <ul class="head-link">          <li class="">  
+  <div class="views-field views-field-created">        <span class="field-content"><a href="/tna-results/tna-impact-wrestling-results-wedding-return-hardys-230686">TNA Impact Wrestling results: A wedding, a return &amp; the Hardys</a>&nbsp;&nbsp;<span class="headline-post"> 2/23 8:44pm PST</span></span>  </div></li>
+          <li class="">  
+  <div class="views-field views-field-created">        <span class="field-content"><a href="/daily-updates/daily-update-bellator-balor-wwe-adds-uk-talent-house-show-tour-230586">Daily Update: Bellator, Balor, WWE adds UK talent to house show tour</a>&nbsp;&nbsp;<span class="headline-post"> 2/23 4:51pm PST</span></span>  </div></li>
+          <li class="">  
+  <div class="views-field views-field-created">        <span class="field-content"><a href="/wwe-news/smackdown-does-third-best-ratings-number-brand-split-230631">SmackDown does third-best ratings number since brand split</a>&nbsp;&nbsp;<span class="headline-post"> 2/23 11:30am PST</span></span>  </div></li>
+          <li class="">  
+  <div class="views-field views-field-created">        <span class="field-content"><a href="/february-27-2017-wrestling-observer-newsletter-massive-ivan-koloff-bio-death-george-animal-steele">February 27, 2017 Wrestling Observer Newsletter: Massive Ivan Koloff bio, death of George &quot;The Animal&quot; Steele, tons more</a>&nbsp;&nbsp;<span class="headline-post"> 2/22 10:51pm PST</span></span>  </div></li>
+          <li class="">  
+  <div class="views-field views-field-created">        <span class="field-content"><a href="/wwe-results/wwe-nxt-results-kassius-ohno-returns-tv-230606">WWE NXT results: Kassius Ohno returns to TV</a>&nbsp;&nbsp;<span class="headline-post"> 2/22 9:35pm PST</span></span>  </div></li>
+          <li class="">  
+  <div class="views-field views-field-created">        <span class="field-content"><a href="/wwe-results/nxt-tv-taping-spoilers-roode-vs-ohno-finn-balor-appears-230601">NXT TV taping spoilers: Roode vs. Ohno; Finn Balor appears</a>&nbsp;&nbsp;<span class="headline-post"> 2/22 8:47pm PST</span></span>  </div></li>
+          <li class="">  
+  <div class="views-field views-field-created">        <span class="field-content"><a href="/daily-updates/daily-update-rock-nxt-tapings-cris-cyborgs-tue-230526">Daily Update: The Rock, NXT tapings, Cris Cyborg&#039;s TUE</a>&nbsp;&nbsp;<span class="headline-post"> 2/22 5:26pm PST</span></span>  </div></li>
+          <li class="">  
+  <div class="views-field views-field-created">        <span class="field-content"><a href="/wwe-news/wwe-raw-ratings-slightly-week-230581">WWE Raw ratings up slightly this week</a>&nbsp;&nbsp;<span class="headline-post"> 2/22 2:08pm PST</span></span>  </div></li>
+          <li class="">  
+  <div class="views-field views-field-created">        <span class="field-content"><a href="/wwe-results/wwe-smackdown-video-highlights-main-event-ends-controversy-230566">WWE SmackDown video highlights: Main event ends in controversy</a>&nbsp;&nbsp;<span class="headline-post"> 2/22 7:31am PST</span></span>  </div></li>
+          <li class="">  
+  <div class="views-field views-field-created">        <span class="field-content"><a href="/japan/zack-sabre-jr-debuting-njpw-45th-anniversary-show-230556">Zack Sabre Jr. debuting for NJPW at 45th anniversary show</a>&nbsp;&nbsp;<span class="headline-post"> 2/21 9:07pm PST</span></span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+</div>
+  <!-- Article_300sky -->
+
+</div>
+</div>
+
+</div><!-- end right-middle -->
+
+</div>
+
+</div> <!-- end middle -->
+<div id="footer-spacer"></div><!-- end footer-spacer -->
+<!-- end contentcenter -->
+
+<div id="footer-container">
+<div id="logo_holder"><div id="ftlogo"><img src="/sites/all/themes/f4w2014/images/ft_logo.png" alt="wrestling news"/></div></div>
+<div id="prefooter"></div>
+
+<div id="footer">
+<div class="contentcenter">
+<div id="footer-title"><img src="/sites/all/themes/f4w2014/images/ft-title.jpg" alt="wrestling news"/></div>
+<div id="footermenu"><a href="/">HOME</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/radioshow-archive">AUDIO ARCHIVE</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://members.f4wonline.com/archive-newsletters">NEWSLETTER ARCHIVE</a>&nbsp;&nbsp;&nbsp;
+               |&nbsp;&nbsp;&nbsp;<a href="http://account.f4wonline.com/signup">SUBSCRIBE</a>&nbsp;&nbsp;&nbsp;
+		  
+		|&nbsp;&nbsp;&nbsp;<a href="http://theboard.f4wonline.com">THE BOARD</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<span class="account-text"><a href="/f4wonlinecom-contact-206466">ABOUT US</a></span>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="/contact">CONTACT</a>
+</div>
+
+<div id="contactinfo"><p>Need technical or billing help?:</p><p> <a href="http://account.f4wonline.com/helpdesk">Open a Helpdesk ticket</a></p></div>
+<div id="authorize"><img src="http://account.f4wonline.com/auth/one.gif?124" alt="auth" /></div>
+<div id="copyright">
+</div>
+</div><!-- end contentcenter -->
+</div><!-- end footer -->
+</div><!-- end footer-container -->
+  
+
+<script type='text/javascript'>
+var $ =jQuery.noConflict();
+
+//$(document).ready(function(){
+  //      $('.even2').matchHeight();
+
+//});
+
+
+$('.social-pop').click(function(event) {
+var width  = 575,
+    height = 400,
+    left   = ($(window).width()  - width)  / 2,
+    top    = ($(window).height() - height) / 2,
+    url    = this.href,
+    opts   = 'status=1' +
+             ',width='  + width  +
+             ',height=' + height +
+             ',top='    + top    +
+             ',left='   + left;
+
+window.open(url, 'facebook', opts);
+
+return false;
+});
+if($.cookie('amember_nr')){
+var boxes2 = document.getElementsByClassName('show-member'),
+        i = boxes2.length;
+
+    while(i--) {
+        boxes2[i].style.display = "block";
+    }
+    }
+else{
+var boxes = document.getElementsByClassName('hide-member'),
+        i = boxes.length;
+
+    while(i--) {
+        boxes[i].style.display = "block";
+    }
+
+}
+// -- After the document is ready
+$(function() {
+  // Find all YouTube and Vimeo videos
+  var $allVideos = $("iframe[src*='www.youtube.com'], iframe[src*='player.vimeo.com']");
+
+  // Figure out and save aspect ratio for each video
+  $allVideos.each(function() {
+    $(this)
+      .data('aspectRatio', this.height / this.width)
+      // and remove the hard coded width/height
+      .removeAttr('height')
+      .removeAttr('width');
+  });
+
+  // When the window is resized
+  $(window).resize(function() {
+    // Resize all videos according to their own aspect ratio
+    $allVideos.each(function() {
+      var $el = $(this);
+      // Get parent width of this video
+      var newWidth = $el.parent().width();
+      $el
+        .width(newWidth)
+        .height(newWidth * $el.data('aspectRatio'));
+    });
+
+  // Kick off one resize to fix all videos on page load
+  }).resize();
+});
+
+$(window).load(function(){
+$('.even2').matchHeight();  
+      var theHeight = $('#right-middle').height();
+        var theHeight2 = $('.digital-access').height();
+        $('.even3').height(theHeight - 800);//580,284
+        $('.even4').height(theHeight2);
+$("#article-ads").stick_in_parent({offset_top:120});
+
+
+
+
+});
+
+
+
+</script>
+<script src="https://s.newsmaxfeednetwork.com/static/js/connectV5.js">
+</script>
+
+  <script type="text/javascript">
+  NM.init({
+	widgetId: "MI8OyKJSAzBSavs7d7tHMHo_j9rRQHdTxojHXzOt",
+         template: "NM14"   
+
+});
+   </script> 
+
+</body>
+
+</html>

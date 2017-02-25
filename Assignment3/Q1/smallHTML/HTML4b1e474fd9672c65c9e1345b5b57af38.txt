@@ -1,0 +1,169 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+	    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	    <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+        <link rel="shortcut icon" href="//www.nbcsports.com/sites/nbcsports.com/files/favicon.ico">
+        <title>Kraft Hockeyville™ USA 2017</title>
+        <meta name="title" content="Kraft Hockeyville™ USA 2017" />
+
+        <meta property="og:title" content="Kraft Hockeyville™ USA 2017"/>
+        <meta property="og:url" content="https://www.krafthockeyville.com/"/>
+        <meta property="og:description" content="Show your love of local hockey—nominate your rink for a chance to win the Grand Prize and host an NHL Pre-Season Game. http://bit.ly/shorturl" />
+        <meta property="og:image" content="https://www.krafthockeyville.com/public/images/img_social_share.jpg" />
+        <meta property="og:type" content="website"/>
+        <meta property="fb:app_id" content="386278578092895" />
+
+        <script>
+            // Server-side JavaScript variables.
+            var app = {
+                tb2URL: 'https://kraft.promo.eprize.com/hockeyville2017/',
+                deployPath: 'kraft/hockeyville2017',
+
+                now: 1487957235056,
+                phase: 'entry',
+                siteURL: 'https://www.krafthockeyville.com/',
+                locale: 'en_US',
+                userLanguage: 'en',
+                userCountry: 'US',
+                facebookApiKey: '386278578092895',
+                facebookSecret: '87e13e0643cdc6c8b1abf11c02d39423',
+                instagramClientId: '15a2681c16b149fd932f3a02b536c07b',
+                instagramClientSecret: '576f5814ef164d13b99dbf0b89dd6637',
+                uploaderHost: 'https://uploader.helloworld.com',
+                googleApiKey: 'AIzaSyBjgRaRDNv5YRbgxJ5rYRPRxbot-B3F7Tg',
+
+                affiliateId: '',
+
+                defaultRoute: false,
+            };
+        </script>
+
+        <link href="/public/COMPILED/css/bundle.6bbdf521c87ceb82d249e15aaa6e7e22.css" rel="stylesheet" type="text/css" media="all">
+
+        <link rel="stylesheet" id="open-sans-css" href="//fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&amp;subset=latin%2Clatin-ext&amp;ver=4.3-beta1-33095" type="text/css" media="all">
+        <!--link rel="stylesheet" id="nbcsports-wrapper-style-css" href="//www.nbcsports.com/sites/all/themes/custom/nbcsports/css/nbcsports-wrapper.css?ver=4.3-beta1-33095" type="text/css" media="all"-->
+
+		<script src="//use.fontawesome.com/bac997ebec.js"></script>
+
+        <!-- Typekit webfont Prohibition -->
+        <script src="https://use.typekit.net/hip2sak.js"></script>
+        <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+        <!-- Google fonts Roboto medium and bold -->
+        <link href="//fonts.googleapis.com/css?family=Roboto:400,500,500i,700,700i" rel="stylesheet">
+        <!-- Google fonts Roboto Condensed Regular -->
+        <link href="//fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+        <style>
+            div.live-extra-widget {
+                max-height: 600px;
+                display: none;
+            }
+        </style>
+    </head>
+
+    <body class="nbcsports-wrapper">
+        <div id="fb-root"></div>
+        <script>
+            setTimeout(function() {
+                window.fbAsyncInit = function() {
+                    FB.init({
+                        appId      : '386278578092895',
+                        xfbml      : true,
+                        version    : 'v2.8'
+                    });
+                    FB.AppEvents.logPageView();
+                };
+
+                (function(d, s, id){
+                    var js, fjs = d.getElementsByTagName(s)[0];
+                    if (d.getElementById(id)) {return;}
+                    js = d.createElement(s); js.id = id;
+                    js.src = "//connect.facebook.net/en_US/sdk.js";
+                    fjs.parentNode.insertBefore(js, fjs);
+                }(document, 'script', 'facebook-jssdk'));
+            }, 1000);
+        </script>
+
+        
+
+    <div id="page" class="">
+    <header id="nbcsports-fixed-header" class="site-header">
+      <!-- start Primary Nav -->
+      <nav id="nbcsports-primary-nav">
+        <a href="http://www.nbcsports.com" id="home-page-link"></a>  <a href="http://www.nbcsports.com/nfl" class="dynamic-nav-link" data-tid="6">NFL</a>  <a href="http://www.nbcsports.com/nhl" class="dynamic-nav-link active" data-tid="11">NHL</a>  <a href="http://www.nbcsports.com/nba" class="dynamic-nav-link" data-tid="16">NBA</a>  <a href="http://www.nbcsports.com/mlb" class="dynamic-nav-link" data-tid="21">MLB</a>  <a href="http://www.nbcsports.com/soccer" class="dynamic-nav-link" data-tid="26">Soccer</a>  <a href="http://www.nbcsports.com/nascar" class="dynamic-nav-link" data-tid="46">NASCAR</a>  <a href="http://www.golfchannel.com/" class="dynamic-nav-link">Golf</a>  <a href="http://www.nbcsports.com/motors" class="dynamic-nav-link" data-tid="41">Motors</a>  <a href="http://www.nbcsports.com/college-football" class="dynamic-nav-link" data-tid="31">NCAA FB</a>  <a href="http://www.nbcsports.com/college-basketball" class="dynamic-nav-link" data-tid="36">NCAA BK</a>  <a href="http://www.nbcsports.com/olympic-sports" class="dynamic-nav-link">Oly</a>  <a href="http://www.nbcsports.com/rugby" class="dynamic-nav-link" data-tid="101">Rugby</a>  <a href="http://www.nbcsports.com/horse-racing" class="dynamic-nav-link" data-tid="61">Horses</a>  <a href="http://www.nbcsports.com/cycling" class="dynamic-nav-link" data-tid="56">CYC</a>  <a href="http://www.nbcsports.com/tennis" class="dynamic-nav-link" data-tid="51">Tennis</a>  <a href="http://www.nbcsports.com/boxing" class="dynamic-nav-link" data-tid="71">Boxing</a>  <a href="http://www.nbcsports.com/mma-0" class="dynamic-nav-link" data-tid="76">MMA</a>  <a href="http://www.nbcsports.com/national-dog-show" class="dynamic-nav-link">Dog Show</a>  <a href="http://www.redbullsignatureseries.com/" class="dynamic-nav-link">Red Bull</a>  <a href="http://www.nbcsports.com/spartan-race" class="dynamic-nav-link">Spartan Race</a>  <a href="http://www.nbcsnauto360.com/" class="dynamic-nav-link">Auto programming</a>  <a href="http://www.nbcsnoutdoors360.com/" class="dynamic-nav-link">Outdoors</a>  <a href="http://shop.nbcsports.com/" class="dynamic-nav-link">Shop</a>  <a href="http://www.nbcsports.com/gold" class="dynamic-nav-link">NBC Sports Gold</a>
+        <span id="more-nav-btn" class="no-select no-more-links" unselectable="on" tabindex="0">MORE</span>
+      </nav>
+    <!-- end Primary Nav -->
+    <!-- start More Nav -->
+    <nav id="more-nav" class="no-more-links">
+    </nav>
+    <!-- end More Nav -->
+    <!-- start Secondary Nav -->
+    <nav id="nbcsports-secondary-nav">
+      <div class="nbcsports-secondary-nav__wrapper">
+        <a href="http://www.nbcsports.com/video/category/211">Video</a>        <a href="http://www.nbcsports.com/player-news/nhl">Player News</a>        <a href="http://scores.nbcsports.com/nhl/scoreboard.asp">Schedule</a>        <a href="http://scores.nbcsports.com/nhl/standings_conference.asp">Standings</a>        <a href="http://www.nbcsports.com/nhl/odds">Odds</a>        <a href="http://www.stubhub.com/nhl-tickets/grouping/144/">Tickets</a>        <a href="http://shop.nbcsports.com/">Shop</a>        <a href="http://www.rotoworld.com/sports/nhl/hockey" class="rotoworld-nav">Rotoworld</a>        <a href="http://www.comcastsportsnet.com/" class="rsn-local-nav">Comcast SportsNet</a>        <a href="http://www.golfchannel.com/" class="golf-channel-nav">Golf Channel</a>  
+        <div id="nbcsports-search-box">
+          <form action="http://www.nbcsports.com/search" class="search-form" method="get" autocomplete="off">
+            <span class="icon"></span>
+            <label>Search</label>
+            <input type="search" name="search_api_views_fulltext" id="nbcsports-search" placeholder="Search NBC Sports" tabindex="0"/>
+          </form>
+        </div>
+      </div>
+    </nav>
+    <!-- end Secondary Nav -->
+    </header>
+    <div id="wrapper" class=" slideout-panel">
+        <div id="outer">
+            <div id="content">
+                <div id="app">
+
+        				</div><!-- #app -->
+                    </div><!-- #content -->
+                    <footer id="nbcsports-footer" class="site-footer">
+                      <div id="footer-left"> <div id="footer-logo"></div> <div id="footer-social-links"> <span id="follow-us">FOLLOW US</span> <a href="http://facebook.com/NBCSports" class="genericon genericon-facebook">Facebook</a> <a href="http://twitter.com/nbcsports" class="genericon genericon-twitter">Twitter</a> <a href="http://plus.google.com/+NBCSports" class="genericon genericon-googleplus">Google Plus</a> <a href="http://instagram.com/NBCsports" class="genericon genericon-instagram">Instagram</a> <a href="/node/14171" id="directory">NBC Sports Social Directory</a> </div> <div id="copyright">©2015 NBC Universal</div> <div id="footer-site-links"> <a id="privacy-policy" href="#">Privacy Policy</a> <a id="terms-of-service" href="#">Terms of Service</a> <a id="advertise" href="#">Advertise</a> <a id="prog-report" href="#">Independent Programming Report</a> <a id="adchoices" href="#">AdChoices</a> </div></div><div id="footer-right"> <div id="footer-newsletter-link"> <span id="newsletter-banner">GET NEWSLETTERS &amp; ALERTS</span>&#13; <a href="http://digitalassets.nbcsports.com/newsletter/newsletters.html" id="newsletter-link" target="_blank">SIGN UP</a> </div></div>
+                    </footer>
+                </div>
+            </div>
+        </div>
+
+        <script src="//www.google.com/recaptcha/api.js?hl=en&onload=recaptchaLoaded&render=explicit"></script>
+        <script src="/public/vendor/urchin.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+        <script src="/public/COMPILED/js/bundle.2e9176d364bef7526c2b8ca6e5401715.js"></script>
+        <script type="text/javascript" src="//s3.amazonaws.com/eprize-content/kraft/hockeyville2017/nbcsports/js/nbcsports-wrapper-concat.js"></script>
+        <script src="/public/vendor/esocial.js"></script>
+        <script src="public/vendor/slick.min.js"></script>
+        <script src="public/vendor/jquery.dotdotdot/jquery.dotdotdot.min.js"></script>
+
+        <script>
+            window.initMap = function() {};
+            (function(){
+                eSocial.init({useFBFeedApi: true});
+            })();
+        </script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBjgRaRDNv5YRbgxJ5rYRPRxbot-B3F7Tg&callback=initMap" async defer></script>
+
+        <!-- Twitter -->
+        <script>
+            !function(d,s,id){
+                var js,
+                    fjs=d.getElementsByTagName(s)[0],
+                    p=/^http:/.test(d.location)?'http':'https';
+                if(!d.getElementById(id)){
+                    js=d.createElement(s);
+                    js.id=id;
+                    js.src=p+"://platform.twitter.com/widgets.js";
+                    fjs.parentNode.insertBefore(js,fjs);
+                }
+            }(document,"script","twitter-wjs");
+        </script>
+        
+        <!-- BrightTag Tracking -->
+        <script type="text/javascript" src="//s.btstatic.com/tag.js">{ site: "KSNUeWE" }</script>
+        <noscript><iframe src="//s.thebrighttag.com/iframe?c=KSNUeWE " width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></noscript>
+    </body>
+</html>

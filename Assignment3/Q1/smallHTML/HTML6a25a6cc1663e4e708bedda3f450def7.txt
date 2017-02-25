@@ -1,0 +1,3779 @@
+<!DOCTYPE html><script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=0bb0301f5c6fe836d77fa4cf6a4effb6"></script><!doctype html>
+
+<html class="no-js" lang="en">
+
+<head>
+	<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+	Tip-Top Premium Tumblr Theme by PRECRAFTED
+
+	Visit http://precrafted.com for information, support, and more themes!
+
+	Version 2.3
+
+	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+	 
+
+	<script>
+
+ window.prevPageId = null;
+ window.nextPageId = null;
+
+function load(e,paramPostId){
+    var postId = null;
+    
+    if(paramPostId){
+        postId = paramPostId
+    }else{
+        if(e != null){
+            postId = e.currentTarget.id;
+        }else{
+            postId = event.currentTarget.id;
+        }
+        
+    }
+
+   if(postId && postId != "" && !$("article#" + postId).hasClass("type_video")){
+       
+       var url = 'http://snickers.tumblr.com/post/' + postId;
+
+        $.ajax({
+			url: url
+		}).done(function( data ) {
+         
+            var htmlObj =  data;
+            var wrapped = $("<div>" + htmlObj + "</div>");
+                wrapped =   wrapped.find('section')
+            var post = wrapped.find('article');
+        
+            var pagination = wrapped.find('.post-nav > a');
+            var prev = false;
+            var next = false;
+           
+            for (var i=0; i < pagination.length;i++){
+                var link = pagination[i];
+                
+                if(link.className == "prev"){
+                    var hrefVal = link.href;
+                    prevPageId = hrefVal.split('post/')[1];
+                    prev = true;
+                }
+                
+                  if(link.className == "next"){
+                    var hrefVal = link.href;
+                    nextPageId = hrefVal.split('post/')[1];
+                    next = true;
+                }
+            }
+        
+        
+            var postHtml =  post.html();
+            
+            if(prev && next){
+                postHtml = postHtml +
+                '<div class="next-btn" onClick="NextPage(event)">Next</div><div class="previous-btn"  onClick="PrevPage(event)">Previous</div>'
+            }else if(prev){
+                postHtml = postHtml +
+                 '<div class="previous-btn" onClick="PrevPage(event)">Previous</div>'
+            }else if(next){
+                postHtml = postHtml + '<div class="next-btn" onClick="NextPage(event)">Next</div>'
+            }
+            
+            
+        		debugger;
+            $("#postC").html(postHtml);
+            $('#myModal').modal('show');
+            $("#"+postId).css("width","100% !important");
+            $('#myModal').find('.hover').removeClass('hover');
+            $('#myModal').find('.model-hide-view').css("display", "none");
+            $('#myModal').find('.model-show-view').css("display", "block");
+            $('#myModal').find('.hover1').removeClass('hover1');
+           
+           
+         });
+         
+   }
+}
+
+
+function PrevPage(e){
+    load(e,window.prevPageId);
+}
+
+
+function NextPage(e){
+    load(e,window.nextPageId);
+}
+
+
+
+	</script>
+		
+
+	
+	<!-- Basic Page Settings -->
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>SNICKERS&reg; Satisfies.</title>
+	<meta name="author" content="SNICKERS&reg; Satisfies.">
+
+	<meta name="tumblr-theme" content="39576" />
+	
+	 
+
+	<style>figure{margin:0}.tmblr-iframe{position:absolute}.tmblr-iframe.hide{display:none}</style><link rel="shortcut icon" href="http://68.media.tumblr.com/avatar_01df3d5113a5_128.png">
+	<link rel="apple-touch-icon" href="http://68.media.tumblr.com/avatar_01df3d5113a5_128.png">
+	<link rel="alternate" type="application/rss+xml" href="http://snickers.tumblr.com/rss">
+
+	<!-- Main Style Settings -->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">  
+
+	
+	
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
+	
+    <link rel="stylesheet" href="http://static.tumblr.com/cmnyd1d/OzEocpfhs/main.css">
+    <link rel="stylesheet" href="http://static.tumblr.com/cmnyd1d/HE5occw1i/swipenavigation.css">
+    <link rel="stylesheet" href="http://static.tumblr.com/cmnyd1d/6NRob0fk8/simplemobilemenu.css">
+     <link rel="stylesheet" href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+    <link rel="stylesheet" href="http://static.tumblr.com/dklimx0/G34o7o8p2/bootstrap.css">
+    
+
+     
+     
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+   
+  
+    
+    
+	<link rel="stylesheet" href="http://static.tumblr.com/e6lc7yi/z3pnekdqv/precrafted-social.css">
+	<link rel="stylesheet" href="http://static.tumblr.com/cmnyd1d/OD6ocpfzy/tip-top-styles.css"> 
+
+    <!-- end Google Font -->
+    <link href='http://db.onlinewebfonts.com/t/547ba11986051daf9e306686392c8381.ttf' rel='stylesheet' type='text/css'>
+    <link href='http://db.onlinewebfonts.com/t/547ba11986051daf9e306686392c8381.eot' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="http://static.tumblr.com/cmnyd1d/AL1ocpfq1/style.css">
+
+	<!-- Custom Options -->
+
+	<!-- Custom Colors -->
+
+	<meta name="color:Header Background" content="#ffffff"/>
+	<meta name="color:Post Background" content="#ffffff"/>
+
+	<meta name="color:Description" content="#30363c"/>
+	<meta name="color:Social Icon" content="#ffffff"/>
+	<meta name="color:Social Icon Hover" content="#f0b434"/>
+
+	<meta name="color:Post Titles" content="#ffffff"/>
+	<meta name="color:Text" content="#30363c"/>
+	<meta name="color:Link" content="#f0b434"/>
+	<meta name="color:Link Hover" content="#ffffff"/>
+	<meta name="color:Borders" content="#dbdedf"/>
+
+
+	<!-- Custom Images -->
+	<meta name="image:Logo" content=""/>
+
+	<meta name="image:Header 2" content=""/>
+	<meta name="image:Header 3" content=""/>
+	<meta name="image:Header 4" content=""/>
+	<meta name="image:Header 5" content=""/>
+
+
+	<!-- Custom Text -->
+
+	<meta name="text:Title Font Size" content="30"/>
+	<meta name="text:Title Letter Spacing" content="0"/>
+
+	<meta name="text:Menu Tags Title" content="Tags"/>
+	<meta name="text:Menu Tags" content=""/>
+
+	<meta name="text:Grid Spacing" content="20"/>
+	<meta name="text:Photoset Spacing" content="5"/>
+
+	<meta name="text:Load More" content="Load More Posts"/>
+	<meta name="text:Load More Loading" content="Loading..."/>
+	<meta name="text:Load More End" content="No More Posts"/>
+	<meta name="text:Footer Text" content=""/>
+
+	<meta name="text:Instagram Token" content=""/>
+	<meta name="text:Instagram Order" content="1"/>
+	<meta name="text:Instagram Follow Me" content="Follow Me"/>
+
+	<meta name="text:Google Analytics Code" content=""/>
+	<meta name="text:Disqus Shortname" content=""/>
+
+	<meta name="text:Sticky Tag" content="featured"/>
+
+	<meta name="text:Font Embed Code" content=""/>
+	<meta name="text:Font Family Logo" content=""/>
+	<meta name="text:Font Family Titles" content=""/>
+	<meta name="text:Font Family Body" content=""/>
+
+	<meta name="text:URL Twitter" content=""/>
+	<meta name="text:URL Facebook" content=""/>
+	<meta name="text:URL Tumblr" content=""/>
+	<meta name="text:URL Website" content=""/>
+	<meta name="text:URL Google" content=""/>
+	<meta name="text:URL Linkedin" content=""/>
+	<meta name="text:URL Foursquare" content=""/>
+	<meta name="text:URL Skype" content=""/>
+	<meta name="text:URL Email" content=""/>
+	<meta name="text:URL Instagram" content=""/>
+	<meta name="text:URL Flickr" content=""/>
+	<meta name="text:URL 500px" content=""/>
+	<meta name="text:URL VSCO Grid" content=""/>
+	<meta name="text:URL Camera" content=""/>
+	<meta name="text:URL Eye" content=""/>
+	<meta name="text:URL Pinterest" content=""/>
+	<meta name="text:URL Heart" content=""/>
+	<meta name="text:URL Youtube" content=""/>
+	<meta name="text:URL Vimeo" content=""/>
+	<meta name="text:URL Vine" content=""/>
+	<meta name="text:URL Ebay" content=""/>
+	<meta name="text:URL Store" content=""/>
+	<meta name="text:URL Apple" content=""/>
+	<meta name="text:URL Googleplay" content=""/>
+	<meta name="text:URL Etsy" content=""/>
+	<meta name="text:URL Dribbble" content=""/>
+	<meta name="text:URL Behance" content=""/>
+	<meta name="text:URL deviantART" content=""/>
+	<meta name="text:URL Github" content=""/>
+	<meta name="text:URL Medium" content=""/>
+	<meta name="text:URL Quora" content=""/>
+	<meta name="text:URL Weibo" content=""/>
+	<meta name="text:URL Travel" content=""/>
+	<meta name="text:URL Lastfm" content=""/>
+	<meta name="text:URL Rdio" content=""/>
+	<meta name="text:URL Spotify" content=""/>
+	<meta name="text:URL Soundcloud" content=""/>
+	<meta name="text:URL RSS" content=""/>
+
+
+	<!-- Custom Choices -->
+	<meta name="select:Pagination" content="pagination_load-more" title="Load More">
+	<meta name="select:Pagination" content="pagination_standard" title="Standard">
+	<meta name="select:Pagination" content="pagination_infinite-scroll" title="Infinite Scroll">
+
+	<meta name="select:Photo Link" content="post" title="Post">
+	<meta name="select:Photo Link" content="image" title="Image">
+	<meta name="select:Photo Link" content="lightbox" title="Lightbox">
+	<meta name="select:Photo Link" content="none" title="None">
+	<meta name="select:Photo Link Permalink" content="image" title="Image">
+	<meta name="select:Photo Link Permalink" content="lightbox" title="Lightbox">
+	<meta name="select:Photo Link Permalink" content="none" title="None">
+
+	<meta name="select:Panorama Link" content="image" title="Lightbox">
+	<meta name="select:Panorama Link" content="post" title="Post">
+	<meta name="select:Panorama Link" content="none" title="None">
+	<meta name="select:Panorama Link Permalink" content="image" title="Lightbox">
+	<meta name="select:Panorama Link Permalink" content="none" title="None">
+
+	<meta name="select:Photoset Link" content="lightbox" title="Lightbox">
+	<meta name="select:Photoset Link" content="post" title="Post">
+	<meta name="select:Photoset Link" content="none" title="None">
+	<meta name="select:Photoset Link Permalink" content="lightbox" title="Lightbox">
+	<meta name="select:Photoset Link Permalink" content="none" title="None">
+
+	<meta name="if:Photoset Cover" content="0">
+
+	<meta name="if:Sticky Posts" content="0">
+
+	<meta name="if:Show Archive Link" content="1"/>
+	<meta name="if:Show Search" content="1"/>
+
+	<meta name="if:Single Column Layout" content="0"/>
+
+	<meta name="if:White Icons" content="0"/>
+	<meta name="if:Show Group Author" content="0">
+
+	<meta name="if:Sharer" content="1">
+	<meta name="if:Sharer Twitter" content="1">
+	<meta name="if:Sharer Facebook" content="1">
+	<meta name="if:Sharer Google" content="1">
+	<meta name="if:Sharer Pinterest" content="1">
+
+	<meta name="if:Show Timestamp" content="1">
+	<meta name="if:Show Meta On Home" content="0">
+
+	<!-- Custom CSS -->
+     <style>
+  body {
+      position: relative; background-color:#f4eded;}
+    .affix {top:0; width: 100%;}
+    .navbar { margin-bottom: 0px; }
+    .affix ~ .container-fluid { position: relative; }
+    
+    	 @media (min-width: 320px) and (max-width: 991px) {
+	.topbar { height: 130px; background-image:url("http://static.tumblr.com/cmnyd1d/Q65ocgq4s/mobo-nav.png"); background-repeat:repeat-x;   text-align: left; margin-top:-1px; }}
+	
+	 @media (min-width: 992px) and (max-width: 3800px) {
+	.topbar { height: 120px; background-image:url("http://static.tumblr.com/cmnyd1d/f4eocgq4x/navigation-bar.png")!important; background-repeat:repeat-x;   text-align: left; margin-top:-1px; }}
+	
+	
+	
+	 @media (min-width: 320px) and (max-width: 991px) {
+	  .topbar { height: 125px; /*background-image:url("http://static.tumblr.com/cmnyd1d/GDuo9xl9g/navigation-bar-mobo.png")!important; background-repeat:repeat-x; */  text-align: left; margin-top:-1px; }  
+	  .header-mobo{background: transparent!important;
+    padding-top: 3px;!important}
+    
+    .navbar-fixed-top, .navbar-fixed-bottom {
+    position: relative!important;  }
+   
+	 }
+	
+	
+
+	
+  .top-header{ background-color:#462413; min-height:200px; background-image:url("http://static.tumblr.com/cmnyd1d/rRSoc21it/light-shadow.png"); background-repeat:no-repeat; background-position:center top;}
+  @media (min-width: 320px) and (max-width: 991px) {
+	.topbar { height: 154px; text-align: left; z-index:999; position:fixed;}
+	.affix {top:20px!important; width: 100%;}
+	.the-posts{ margin-top:70px;}
+	.slider-move{ margin-top:-56px;}
+	}
+	 @media (min-width: 768px) and (max-width: 991px) {
+	.topbar { height: 154px; text-align: left; z-index:999; position:fixed;}
+	.the-posts{ margin-top:90px!important;}
+	}
+	 @media (min-width: 768px) and (max-width: 991px) {
+	
+	.hungryimg{ padding-top:50px!important;}
+	}
+h1 { margin-top:150px; text-align:center; margin-bottom:50px;}
+	.topbar { z-index:999;}
+
+@media (min-width: 992px) and (max-width: 1280px) {
+    .brand-li{width:110px!important; height:36px;}
+    .font26{ font-size:20px!important;}
+    
+}
+
+svg.red1{color:#ff3302!important;}
+
+.menu-anchor{padding:17px 10px 0 5px;}
+
+.brand-li{width:137px; height:36px;}
+
+@media (min-width: 991px) and (max-width: 1280px) {
+.bottom-section{ background-image:url("http://static.tumblr.com/cmnyd1d/0vhoaaq8p/bottom-curve.png"); background-repeat:repeat-x; padding:50px 0px; color:#fff; height:270px!important; position:relative;}
+.left-prince{ bottom:-13px!important;}
+.right-prince{ bottom:27px!important;}
+.hungryimg{ padding-top:100px!important;}
+}
+
+@media (min-width: 1200px) and (max-width: 1280px) {
+.hungryimg{ padding-top:80px!important;}
+}
+
+@media (min-width: 300px) and (max-width: 767px) {
+.bottom-section{ background-image:url("http://static.tumblr.com/cmnyd1d/0vhoaaq8p/bottom-curve.png"); background-repeat:repeat-x; padding:50px 0px; color:#fff; height:295px!important; position:relative;}
+.mobo-side-padding{  padding-right:5px!important; padding-left:5px!important;}
+
+}
+@media (min-width: 768px) {
+.first_column { width:100%!important;}
+
+}
+@media (min-width: 992px) {
+.first_column { width:49.9%!important;}
+
+}
+.mobo-logo{padding:22px 30px!important;}
+article .caption :first-child {
+    margin-top: 0;
+    
+}
+
+
+article.type_pagination.pagination_load-more .article-content, article.type_pagination.pagination_infinite-scroll .article-content {
+    background: #4a0e00!important;
+    color: #fff!important;
+}
+
+.modal-header {
+     border-bottom: 0px!important; 
+}
+.modal-header .close {
+    margin-top: -37px;
+    margin-right: -30px;
+    background-color: #c68146;
+    opacity: 1;
+    padding: 10px;
+    border-radius: 100px;
+    width: 45px;
+    height: 45px;
+}
+.close {
+    float: right;
+    font-weight: normal!important;
+    font-size: 30px;
+    font-family: arial;
+    line-height: 0;
+    color: #ccc;
+    text-shadow: 0 0px 0 #fff!important;
+    filter: alpha(opacity=20);
+    opacity: .2;}
+    
+ .modal-footer {
+    border-top: 0px!important;}
+.modal-body {
+    padding: 15px 50px!important;
+}
+.previous-btn{ background-color:#c68146!important; padding:20px; min-width:48%; margin-left:2%; color:#fff; text-transform:uppercase; float:left; text-align:center; margin-top:30px;  cursor:pointer; font-weight:normal;}
+.next-btn{ background-color:#4a0e00!important; color:#fff; padding:20px; min-width:48%; text-transform:uppercase; float:left; margin-right:2%; text-align:center; font-weight:normal; margin-top:30px;  cursor:pointer;}
+.modal-body.article-content .post-footer{ display:block!important;}
+
+#like_wrapper .black #like svg {
+    fill: #490e00!important;
+}
+
+ @media (min-width: 320px) and (max-width: 767px) {
+.modal-header .close {
+    margin-top: -25px!important;
+    margin-right: -17px!important;
+    background-color: #c68146;
+    opacity: 1;
+    padding: 10px;
+    border-radius: 100px;
+    width: 45px;
+    height: 45px;
+}
+
+.modal-body { padding: 15px 15px!important;}
+.hungryimg{ padding-top:20px!important;}
+
+#postC .article-content iframe{ width:100%;}
+	}
+.tagged{ padding:0 0px;}
+@media (min-width: 992px) {
+    .btm-img-princess{ bottom: 0;
+    position: absolute; width:100%;}
+    
+}
+
+/*	#videoPostFooter:hover .article-content img{ opacity:0!important;} */
+.videoPostFooter{ background-color:#c68146; width:100%;}
+
+.hungryimg{ padding-top:80px;}
+/*.index .post-footer{display:none;}*/
+/*.index #myModal .post-footer{display:block!important;} */
+
+.individual-post .hiddencaption .caption{margin-top:0px!important;  float: left;
+    padding-left: 15px;}
+.individual-post .post-footer {display:block; position: inherit; padding-left:8px;  margin-left: inherit!important; min-height:50px!important;}
+.individual-post .post-meta{display:none;}
+/*.type_video article .caption{display:none;}*/
+.blocktxt{display:block!important;}
+
+
+
+.type_video .article-content .caption{display:none;}
+
+.type_video .caption {
+    margin-top: 0%!important;
+    text-transform: uppercase;
+    font-size: 14px!important;
+    letter-spacing: 2px;
+    margin-left: inherit!important;
+    text-align: left;
+    margin-left: 0;
+    padding-left: 0!important;
+}
+.type_video .caption p{ padding-left: 15px!important;
+    text-align: left;
+    margin-left: 0!important;}
+
+.index #myModal .caption{display:block!important; text-transform: uppercase;}
+
+
+.container-fluid #layout{padding:10px!important;}
+/*.index .post-footer{ background-color:#c68146;}*/
+.modal-content .post-footer{ background-color:transparent!important; position:inherit!important;}
+#myModal .model-footer-section{ display:none!important; }
+#myModal .post-meta .tagged{ display:none!important; }
+.reblog-button svg path { fill: #563d7c; }
+ @media (min-width: 480px) and (max-width: 767px) {
+.mobo-scroll{ height:280px; overflow-y:scroll; width:100%;}
+footer .footer-border .footer-content ul {
+    padding-bottom: 10px;
+    padding-top: 72px;
+    padding-left: 25px;
+    padding-right: 25px;
+    height: 210px;
+    overflow-y: scroll;
+}
+}
+/*#videoStop{ pointer-events:none;}*/
+#myModal #videoStop{ pointer-events:auto!important;}
+
+.social-right{ display:none;}
+.social-left{ display:none!important;}
+
+/*Slider menu Start*/
+#flexiselDemo1, #flexiselDemo2, #flexiselDemo3 {
+display:none;
+}
+
+.nbs-flexisel-container {
+    position:relative;
+    max-width:100%;
+}
+.nbs-flexisel-ul {
+    position:relative;
+    width:99999px;
+    margin:0px;
+    padding:0px;
+    list-style-type:none;   
+    text-align:center; 
+	height:150px; 
+}
+
+.nbs-flexisel-inner {
+    position: relative;
+    overflow: hidden;
+    float:left;
+    width:100%;
+   
+}
+
+.nbs-flexisel-item {
+    float:left;
+    margin:0px;
+    padding:0px;
+    cursor:pointer;
+    position:relative;
+    line-height:0px;
+	top:27%;
+	padding:25px 0;
+}
+
+.nbs-flexisel-item a {
+   /* float:left;*/
+    margin:0px;
+    padding:0px;
+    cursor:pointer;
+    position:relative;
+    line-height:0px;
+	top:50%;
+	padding-top:25px 0;
+}
+.nbs-flexisel-item img {
+    max-width: 100%;
+    cursor: pointer;
+    position: relative;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/*** Navigation ***/
+
+.nbs-flexisel-nav-left,
+.nbs-flexisel-nav-right {
+    padding:0px 10px;
+    border-radius:15px;
+    -moz-border-radius:15px;
+    -webkit-border-radius:15px;      
+    position: absolute;
+    cursor: pointer;
+    z-index: 4;
+    top:35%;
+    color: #fff;     
+    font-size:22px;
+    height:27px;
+    width:16px;
+}
+
+ @media (min-width: 320px) and (max-width: 480px) {
+	    .nbs-flexisel-nav-left {
+    left: 2px!important; }
+
+	.nbs-flexisel-nav-right {
+    right: -3px!important; }
+}
+
+.nbs-flexisel-nav-left {
+    left: 10px;
+    background-image:url('http://static.tumblr.com/cmnyd1d/ANrobdwye/left-arrow.png' ); background-repeat:no-repeat;
+}
+
+.nbs-flexisel-nav-left:before {
+    content: ""
+}
+
+.nbs-flexisel-nav-left.disabled {
+    opacity: 0.4;
+}
+
+.nbs-flexisel-nav-right {
+    right: 5px;   
+    background-image:url('http://static.tumblr.com/cmnyd1d/XPIobdwya/right-arrow.png' ); background-repeat:no-repeat;
+}
+
+.nbs-flexisel-nav-right:before {
+   *content: ""
+}
+
+.nbs-flexisel-nav-right.disabled {
+    opacity: 0.4;
+}
+
+/*Slider  menu End*/
+.fixed1{ margin-top:-55px;}
+.fixed2{ margin-top:-55px;}
+/*bottom*/
+footer {
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    width: 100%;
+    z-index:999;
+}
+footer {
+    clear: both;
+    float: left;
+    margin-top: 40px;
+    text-align: center;
+}
+
+footer .footer-border {
+    padding: 0;
+}
+footer .footer-border {
+    clear: both;
+    font-size: 13px;
+    height: 100%;
+    letter-spacing: 1px;
+    line-height: 2;
+    position: relative;
+    text-align: center;
+    width: 100%;
+}
+
+
+footer .footer-border .type_pagination, footer .post-nav {
+    float: right;
+    width: 100%;
+}
+footer .type_pagination.pagination_load-more {
+    cursor: pointer;
+}
+footer .type_pagination {
+    margin-top: 20px;
+    transition: all 0.14s ease-in-out 0s;
+}
+
+ @media (min-width: 320px) and (max-width: 460px) {
+  footer .footer-border .footer-trigger {
+    padding-bottom: 35px!important;
+} 
+footer .footer-border .footer-content ul li {
+    display: block;
+    font-size: 20px;
+    line-height: 15px;
+    padding: 10px 10px!important;
+    border-bottom:solid #efd1ad 1px;
+    text-align:left;
+}
+ }
+
+footer .footer-border .footer-trigger {
+    padding-bottom: 35px;
+}
+ @media (min-width: 768px) and (max-width: 991px) {
+footer .footer-border .footer-trigger {
+    padding-bottom: 35px!important;
+}
+}
+footer .footer-border .footer-trigger {
+    background: #c68146 none repeat scroll 0 0;
+    bottom: 0;
+    color: #fff;
+    cursor: pointer;
+    float: left;
+    font-size: 15px;
+    line-height: 18px;
+    margin-bottom: 0;
+    text-align: center;
+    width: 100%;
+}
+
+footer .footer-border .footer-trigger span {
+    font-size: 26px;
+}
+footer .footer-border span {
+    display: block;
+}
+.legal-footer {
+    background: #c68146 none repeat scroll 0 0;
+    bottom: 0;
+    clear: both;
+    color: #fff;
+    font-size: 10px;
+    padding-bottom: 7px;
+    position: fixed;
+    width: 100%;
+}
+
+.legal-footer p, .footer-content p {
+    font-size: 14px;
+    letter-spacing: 0.6px;
+    line-height: 18px;
+    margin: 5px 0;
+    text-align: center;
+    padding:0 15px 0px 15px;
+    color:#fff;
+}
+
+footer .footer-border .footer-content {
+    background: #c68146 none repeat scroll 0 0;
+    bottom: 0;
+    clear: both;
+    color: #512a14;
+    overflow: visible !important;
+    position: fixed;
+    width: 100%;
+}
+
+footer .footer-border .footer-content ul {
+    padding-bottom: 10px;
+    padding-top: 72px;
+    padding-left:25px;
+    padding-right:25px;
+}
+footer .footer-border .footer-content ul li {
+    display: block;
+    font-size: 20px;
+    line-height: 15px;
+    padding: 14px 0px;
+    border-bottom:solid #efd1ad 1px;
+    text-align:left;
+}
+footer .footer-border ul li {
+    letter-spacing: -0.8px;
+}
+
+footer .footer-border .footer-content a {
+    color: #fff;
+    white-space: nowrap;
+    font-size:14px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+a {
+    text-decoration: none;
+    transition: all 0.14s ease-in-out 0s;
+}
+
+footer .footer-content .trigger-close::before {
+    content: "×";
+    font-size: 40px;
+    line-height: 28px;
+}
+footer .footer-content .trigger-close {
+    background: #4a0e00 none repeat scroll 0 0;
+    border-radius: 50px;
+    color: #fff;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 30px;
+    height: 42px;
+    left: 50%;
+    line-height: 10px;
+    margin-left: -20px;
+    padding: 7px 9px;
+    position: absolute;
+    top: 14px;
+    cursor:pointer;
+}
+footer .footer-border span {
+    display: block;
+}
+
+#topMenus li a{letter-spacing: 2px;}
+#div1 .active { background-color:#c48046!important; color:#fff!important;}
+#div1 .active a { color:#fff!important;}
+
+  </style>
+    
+    
+    
+    
+	<style type="text/css">
+
+		body {
+			
+			/*color: #7f8c8d;*/
+			color:#673318!important;
+		}
+		h1, h2, h3, h4, h5,
+		h1 a, h2 a, h3 a, h4 a, h5 a {
+			color: #ffffff;
+		}
+		h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {
+			color: #FFFFFF;
+		}
+		a {
+			color: #FFFFFF;
+		}
+		a:hover {
+			color: #f0b434;
+		}
+		::-moz-selection { background: #FFFFFF; color: #512a15; text-shadow: none; }
+		::selection { background: #FFFFFF; color: #512a15; text-shadow: none; }
+
+
+		.header-image-wrap,
+		.header,
+		.header .avatar-image {
+			/*background-color: #ffffff;*/
+		}
+
+		
+		@media only screen and (min-width: 768px) {
+			.header .header-border {
+				padding: 0 15px;
+			}
+		}
+		
+
+		.header .blog-title h1 {
+			font-family: 'Gibson', sans-serif;
+			font-weight: bold;
+			color: #ffffff;
+
+			
+			font-size: 68px;
+			
+
+			
+			letter-spacing: 2px;
+			
+		}
+
+		.menu-toggle .menu-toggle-hamburger span,
+		.menu-toggle .menu-toggle-hamburger span:before,
+		.menu-toggle .menu-toggle-hamburger span:after {
+			background: #ffffff;
+		}
+
+		.main-menu {
+			border-top-color: #dbdedf;
+		}
+		.main-menu li a {
+			color: #ffffff;
+		}
+		.main-menu li a:hover {
+			border-color: #f0b434;
+		}
+		.main-menu li.dropdown .dropdown-label {
+			color: #ffffff;
+		}
+
+		.tag-menu {
+			background: #ffffff;
+		}
+
+		@media only screen and (min-width: 1024px) {
+			.menu .search:hover input,
+			.menu .search.on input {
+				border-bottom-color: #f0b434;
+			}
+		}
+		.menu .social-search {
+			color: #ffffff;
+		}
+
+		.menu .search input {
+			color: #ffffff;
+		}
+		.menu .search ::-webkit-input-placeholder {
+			color: #ffffff;
+		}
+		.menu .search :-moz-placeholder {
+			color: #ffffff;
+		}
+		.menu .search ::-moz-placeholder {
+			color: #ffffff;
+		}
+		.menu .search :-ms-input-placeholder {
+			color: #ffffff;
+		}
+
+		.footer {
+			background: #ffffff;
+		}
+		.footer span,
+		.footer .credit,
+		.footer .credit a {
+			color: #7f8c8d;
+		}
+		.footer .scroll-top {
+			right: 15px;
+			margin-right: 15px;
+			background: #522b19;
+			color: #7f8c8d;
+		}
+		.footer .scroll-top:hover {
+			background: #FFFFFF;
+			color: #ffffff;
+		}
+
+		article.type_description .article-content {
+			background: #512a15;
+		}
+		article.type_description .description {
+			color: #FFFFFF;
+		}
+		.social-menu li a {
+			background: #ffffff;
+			color: #512a15;
+		}
+		.social-menu li a:hover {
+			background: #f0b434;
+		}
+
+		
+		@media only screen and (min-width: 768px) {
+			article {
+				padding: 15px;
+			}
+		}
+		
+
+		article hr {
+			background: #dbdedf;
+		}
+		article blockquote {
+			border-left-color: #dbdedf;
+		}
+
+		.text-post-wrap,
+		article.type_answer .answer-post-wrap {
+			background: #512a15;
+		}
+
+		article h2 {
+			font-family: 'Gibson', sans-serif;
+			font-weight: bold;
+		}
+
+		article.type_quote .quote {
+			font-family: 'Gibson', sans-serif;
+			font-weight: bold;
+			color: #ffffff;
+		}
+
+		article.type_answer .answer-inner {
+			border-color: #dbdedf;
+		}
+		article.type_answer .answer-inner:after {
+			border-bottom-color: #512a15;
+		}
+		article.type_answer .answer-inner:before {
+			border-bottom-color: #dbdedf;
+		}
+
+		.permalink article.type_answer .answer-inner:after,
+		.single-column article.type_answer .answer-inner:after {
+			border-left-color: #512a15;
+		}
+		.permalink article.type_answer .answer-inner:before,
+		.single-column article.type_answer .answer-inner:before {
+			border-left-color: #dbdedf;
+		}
+
+		article.type_chat .line {
+			border-top-color: #dbdedf;
+		}
+
+		article.type_link .the-link {
+			background: #ffffff;
+			color: #512a15;
+		}
+		article.type_link .the-link:hover {
+			background: #FFFFFF;
+		}
+
+		.icons li.sharer ul {
+			background: #512a15;
+			border-color: #dbdedf;
+		}
+		.icons li.sharer ul:before {
+			border-top-color: #dbdedf;
+		}
+		.icons li.sharer ul:after {
+			border-top-color: #512a15;
+		}
+
+		.post-footer a {
+			color: #fff;
+			/*display:none;*/
+		}
+
+		.instagram-feed .instagram-image .overlay:before {
+			background: #FFFFFF;
+		}
+		.instagram-feed .instagram-image .overlay .social-instagram {
+			color: #512a15;
+		}
+		.instagram-feed .instagram-link {
+			margin-top: 5px;
+			background: #ffffff;
+			color: #512a15;
+		}
+		.instagram-feed .instagram-link:hover {
+			background: #FFFFFF;
+		}
+
+		article.type_pagination .pagination a {
+			background: #ffffff;
+			color: #512a15;
+		}
+		article.type_pagination .pagination a:hover {
+			background: #FFFFFF;
+			color: #512a15;
+		}
+		article.type_pagination.pagination_load-more .article-content,
+		article.type_pagination.pagination_infinite-scroll .article-content {
+			background: #ffffff;
+			color: #512a15;
+		}
+		article.type_pagination.pagination_load-more .article-content:hover,
+		article.type_pagination.pagination_load-more.loading .article-content,
+		article.type_pagination.pagination_infinite-scroll .article-content {
+			background: #FFFFFF;
+			color: #512a15;
+		}
+
+		.post-nav a {
+			background: #ffffff;
+			color: #512a15;
+		}
+		.post-nav a:hover {
+			background: #FFFFFF;
+			color: #512a15;
+		}
+
+		
+
+		
+
+	</style>
+
+	<style type="text/css">
+
+        .background-wrapper{
+            background: white none repeat scroll 0 0;
+            /*box-shadow: 0 0 14.58px 3.42px rgba(181, 117, 83, 0.39);*/
+            
+        }
+        
+        .header {
+            padding: 0px!important;
+        }
+        
+        a:hover{
+            text-decoration: none;
+        }
+        
+        .navbar > .container .navbar-brand, .navbar > .container-fluid 
+        .navbar-brand {
+            margin-left: 15px!important;
+        }
+        
+       .container > .navbar-header, .container-fluid > .navbar-header, .container > .navbar-collapse, .container-fluid > .navbar-collapse {
+    margin-right: 0px!important;
+    margin-left: -15px;
+}
+        
+        article {
+            padding: 10px 10px!important;
+        }
+    
+    .item1 {
+            float: left;
+            height: auto;
+            margin: 0 0px 10px!important;
+            width: 100%;
+            margin-bottom:50px;
+        }
+        .item1 img {
+            width: 100%!important;
+        }
+        
+      
+    /*  @media (min-width: 1200px)
+        .container {
+            width: 1350px!important;
+        }
+              
+        @media (min-width: 1366px)
+        .container {
+            width: 1350px!important;
+        }
+        
+        @media (min-width:1600px) {
+        .container {
+        width:1570px
+        }
+        }
+        @media (min-width:1920px) {
+        .container {
+        width:1900px}
+        }*/
+       
+     .carousel-fade .carousel-inner .item {
+  opacity: 0;
+  -webkit-transition-property: opacity;
+  -moz-transition-property: opacity;
+  -o-transition-property: opacity;
+  transition-property: opacity;
+}
+.carousel-fade .carousel-inner .active {
+  opacity: 1;
+}
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+  left: 0;
+  opacity: 0;
+  z-index: 1;
+}
+.carousel-fade .carousel-inner .next.left,
+.carousel-fade .carousel-inner .prev.right {
+  opacity: 1;
+}
+.carousel-fade .carousel-control {
+  z-index: 2;
+}
+        .no-padding{padding:0px!important;}
+
+		
+
+	</style>
+
+
+
+	
+	<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', '(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ 
+  ga('create', 'UA-58826961-1', 'auto');
+  ga('send', 'pageview');']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+		 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		 ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+	</script>
+	
+
+
+	<!-- Sharing meta tags -->
+	<meta property="og:site_name" content="SNICKERS&reg; Satisfies."/><meta property="og:title" content="&quot;icecream&quot;-SNICKERS&reg; Satisfies."/><meta property="og:url" content="http://snickers.tumblr.com/tagged/icecream%0D"/><meta property="og:type" content="blog"/><meta property="og:description" content=""/><meta property="og:image" content="http://68.media.tumblr.com/avatar_01df3d5113a5_128.png"/>
+
+	
+
+
+<meta name="robots" content="noindex"/><link rel="alternate" href="android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=snickers" /><link rel="alternate" href="ios-app://305343404/tumblr/x-callback-url/blog?blogName=snickers" /><script src="http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=f2815f1c37d6fa2c12c9a96c1878b9bc"></script><link rel="stylesheet" type="text/css" href="http://assets.tumblr.com/fonts/gibson/stylesheet.css?v=3"><meta name="keywords" content="Chocolate,delicious,Ice Cream,Snickers,icecream" /><!-- TWITTER TAGS --><meta charset="utf-8"><meta name="twitter:site" content="tumblr" /><meta name="twitter:card" content="app" /><meta name="twitter:description" content="snickers" /><meta name="twitter:title" content="snickers" /><meta name="twitter:app:name:iphone" content="Tumblr" /><meta name="twitter:app:name:ipad" content="Tumblr" /><meta name="twitter:app:name:googleplay" content="Tumblr" /><meta name="twitter:app:id:iphone" content="305343404" /><meta name="twitter:app:id:ipad" content="305343404" /><meta name="twitter:app:id:googleplay" content="com.tumblr" /><meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=snickers&amp;referrer=twitter-cards" /><meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=snickers&amp;referrer=twitter-cards" /><meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=snickers&amp;referrer=twitter-cards" /><!-- GOOGLE CAROUSEL --><script type="application/ld+json">
+	{"@type":"ItemList","url":"http:\/\/snickers.tumblr.com\/tagged\/icecream%0D","itemListElement":[{"@type":"ListItem","position":1,"url":"http:\/\/snickers.tumblr.com\/post\/148656557885\/lower-your-temperature-not-your-standards"},{"@type":"ListItem","position":2,"url":"http:\/\/snickers.tumblr.com\/post\/146704378407\/snickers-ice-cream-is-creamy-satisfaction"},{"@type":"ListItem","position":3,"url":"http:\/\/snickers.tumblr.com\/post\/146256985395\/6-bars-in-a-pack-5-new-friends"},{"@type":"ListItem","position":4,"url":"http:\/\/snickers.tumblr.com\/post\/145707701693\/ice-cream-satisfaction-now-comes-in-mini"},{"@type":"ListItem","position":5,"url":"http:\/\/snickers.tumblr.com\/post\/145658895214\/dont-forget-to-invite-snickers-ice-cream-bars-to"},{"@type":"ListItem","position":6,"url":"http:\/\/snickers.tumblr.com\/post\/145453509744\/keep-your-cool-with-snickers-ice-cream"},{"@type":"ListItem","position":7,"url":"http:\/\/snickers.tumblr.com\/post\/145153345723\/rich-creamy-peanut-butter-ice-cream-with-smooth"}],"@context":"http:\/\/schema.org"}</script><link rel="canonical" href="http://snickers.tumblr.com/tagged/icecream%0D" /></head>
+
+
+<body
+ class="index tagged"
+ data-spy="scroll" data-target="#affix-nav" >
+
+<!-- Tumblr Theme #39576 -->
+
+
+
+
+<div class="container-fluid top-header hidden-xs hidden-sm" style="background-color:#462413;color:#fff;height:200px;">
+  <div class="text-center" style="padding-top:20px;"><img src="http://static.tumblr.com/cmnyd1d/QAsoc1hkd/choco.png"></div>
+</div>
+
+<div class="topbar swipenavigation js-swipenavigation nav affix-top hidden-sm hidden-xs">
+  <div class="clearfix"></div>
+  <ul class="mobo-space20 hidden-xs hidden-sm" id="topMenus">
+  <li class="brand-li hidden-xs hidden-sm" style="width:140px!important; height:36px;"><a style="padding-left:0!important; padding-top:0!important; padding-bottom:0!important;" class="pull-left hidden-xs hidden-sm" href="/"><img src="http://static.tumblr.com/cmnyd1d/R6lo9fn1w/logo.png"></a></li>
+  	
+	    
+        <li><a data-scroll href="/tagged/icecream" title="icecream">#icecream</a></li>
+	    
+        <li><a data-scroll href="/tagged/crisper" title="crisper">#crisper</a></li>
+	    
+        <li><a data-scroll href="/tagged/NFL" title="NFL">#NFL</a></li>
+	    
+        <li><a data-scroll href="/tagged/gifs" title="gifs">#gifs</a></li>
+	    
+        <li><a data-scroll href="/tagged/eatasnickers" title="eatasnickers">#eatasnickers</a></li>
+	    
+        <li><a data-scroll href="/tagged/hungrymeme" title="hungrymeme">#hungrymeme</a></li>
+	    
+        <li><a data-scroll href="/tagged/HabloEspañol" title="HabloEspañol">#HabloEspañol</a></li>
+	    
+	
+	
+<li><a href='https://www.facebook.com/snickers' target="_blank" class="pull-left" style="padding-top:21px!important; padding-right:0!important"><i class="fa fa-facebook font26"></i></a></li>
+    <li><a href='https://twitter.com/snickers' target="_blank" class="pull-left" style="padding:21px 0 0 15px!important;"><i class="fa fa-twitter font26"></i></a></li>
+    <li><a href='https://www.youtube.com/snickers' target="_blank" class="pull-left" style="padding:21px 0 0 15px!important;"><i class="fa fa-youtube font26"></i></a></li> 
+  </ul>
+    </div> 
+
+
+
+	<header class="cf hidden-md hidden-lg navbar-fixed-top header-mobo" id="navii">
+		<div class="navigation">
+			<nav>
+				<a href="javascript:void(0)" class="smobitrigger ion-navicon-round"><span>Menu</span></a>
+				<ul class="mobimenu" id="topMenus">
+        	<div style="margin-top:13px;">
+        			<a href="/"><img src="http://static.tumblr.com/cmnyd1d/R6lo9fn1w/logo.png"></a></div>
+        	<div class="mobo-scroll" id="div1">		
+	    
+        <li><a data-scroll href="/tagged/icecream" title="icecream">#icecream</a></li>
+	    
+        <li><a data-scroll href="/tagged/crisper" title="crisper">#crisper</a></li>
+	    
+        <li><a data-scroll href="/tagged/NFL" title="NFL">#NFL</a></li>
+	    
+        <li><a data-scroll href="/tagged/gifs" title="gifs">#gifs</a></li>
+	    
+        <li><a data-scroll href="/tagged/eatasnickers" title="eatasnickers">#eatasnickers</a></li>
+	    
+        <li><a data-scroll href="/tagged/hungrymeme" title="hungrymeme">#hungrymeme</a></li>
+	    
+        <li><a data-scroll href="/tagged/HabloEspañol" title="HabloEspañol">#HabloEspañol</a></li>
+	    
+	
+				
+                    <div class="pull-left mobo-icon"> <a href='https://www.facebook.com/snickers' target="_blank"><i class="fa fa-facebook font26"></i></a> </div>
+   					<div class="pull-left mobo-icon"> <a href='https://twitter.com/snickers' target="_blank"><i class="fa fa-twitter font26"></i></a> </div>
+                    <div class="pull-left mobo-icon"> <a href='https://www.youtube.com/snickers' target="_blank"><i class="fa fa-youtube font26"></i></a> </div>
+                    
+                    </div>
+				</ul>
+			</nav>
+		</div>
+        <div style="margin-top:5px; margin:0 auto; text-align:center; width:82%;">
+        <a href="/"><img src="http://static.tumblr.com/cmnyd1d/R6lo9fn1w/logo.png"></a></div>   
+	</header>
+
+
+
+
+
+
+<nav class="navbar topbar slider-move hidden-lg hidden-md" data-spy="affix" data-offset-top="10">
+<div class='topbar swipenavigation js-swipenavigation'>
+  
+  
+  <div class="clearfix"></div>
+  
+	    <ul id="flexiselDemo3" class="hidden-lg hidden-md">
+   	
+	    
+        <li><a data-scroll href="/tagged/icecream" title="icecream">#icecream</a></li>
+         
+	    
+        <li><a data-scroll href="/tagged/crisper" title="crisper">#crisper</a></li>
+         
+	    
+        <li><a data-scroll href="/tagged/NFL" title="NFL">#NFL</a></li>
+         
+	    
+        <li><a data-scroll href="/tagged/gifs" title="gifs">#gifs</a></li>
+         
+	    
+        <li><a data-scroll href="/tagged/eatasnickers" title="eatasnickers">#eatasnickers</a></li>
+         
+	    
+        <li><a data-scroll href="/tagged/hungrymeme" title="hungrymeme">#hungrymeme</a></li>
+         
+	    
+        <li><a data-scroll href="/tagged/HabloEspañol" title="HabloEspañol">#HabloEspañol</a></li>
+         
+	    
+	    
+        <li><a data-scroll href="/tagged/icecream" title="icecream">#icecream</a></li>
+         
+	    
+        <li><a data-scroll href="/tagged/crisper" title="crisper">#crisper</a></li>
+         
+	    
+        <li><a data-scroll href="/tagged/NFL" title="NFL">#NFL</a></li>
+         
+	    
+        <li><a data-scroll href="/tagged/gifs" title="gifs">#gifs</a></li>
+         
+	    
+        <li><a data-scroll href="/tagged/eatasnickers" title="eatasnickers">#eatasnickers</a></li>
+         
+	    
+        <li><a data-scroll href="/tagged/hungrymeme" title="hungrymeme">#hungrymeme</a></li>
+         
+	    
+        <li><a data-scroll href="/tagged/HabloEspañol" title="HabloEspañol">#HabloEspañol</a></li>
+         
+	    
+	                                                
+</ul>
+<div class="clearfix"></div>
+  
+  
+  <ul class="mobo-space20 hidden-xs hidden-sm" id="topMenus">
+  <li class="brand-li hidden-xs hidden-sm"><a style="padding:0!important;" class="navbar-brand pull-left mobo-logo hidden-xs hidden-sm" href="/"><img src="http://static.tumblr.com/cmnyd1d/R6lo9fn1w/logo.png"></a></li>
+  	
+	    
+        <li><a data-scroll href="/tagged/icecream" title="icecream">#icecream</a></li>
+	    
+        <li><a data-scroll href="/tagged/crisper" title="crisper">#crisper</a></li>
+	    
+        <li><a data-scroll href="/tagged/NFL" title="NFL">#NFL</a></li>
+	    
+        <li><a data-scroll href="/tagged/gifs" title="gifs">#gifs</a></li>
+	    
+        <li><a data-scroll href="/tagged/eatasnickers" title="eatasnickers">#eatasnickers</a></li>
+	    
+        <li><a data-scroll href="/tagged/hungrymeme" title="hungrymeme">#hungrymeme</a></li>
+	    
+        <li><a data-scroll href="/tagged/HabloEspañol" title="HabloEspañol">#HabloEspañol</a></li>
+	    
+	
+	
+<li style="width:30px;"><a href='https://www.facebook.com/snickers' target="_blank" class="pull-left" style="padding:21px 10px 0 13px!important;"><i class="fa fa-facebook font26"></i></a></li>
+    <li style="width:30px;"><a href='https://twitter.com/snickers' target="_blank" class="pull-left" style="padding:21px 10px 0 13px!important;"><i class="fa fa-twitter font26"></i></a></li>
+    <li style="width:30px;"><a href='https://www.youtube.com/snickers' target="_blank" class="pull-left" style="padding:21px 10px 0 13px!important;"><i class="fa fa-youtube font26"></i></a></li> 
+  </ul>
+    </div>
+</nav>
+	
+<!--<nav class="navbar slider-move hidden-sm hidden-xs" data-spy="affix" data-offset-top="180">
+</nav> -->
+
+
+
+
+
+
+
+<div class="clearfix"></div>
+
+
+<button type="button" class="btn btn-primary btn-xs hidden" data-toggle="modal" data-target="#myModal">
+ modal
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+      </div>
+      <div class="modal-body"  id="postC">
+       
+      </div>
+    <div class="modal-footer">
+      
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+<!--
+
+<div class="header-image-wrap">
+	<div class="header-image owl-carousel">
+		<div class="carousel-item" style="background-image: url(http://static.tumblr.com/19a8a704d727cbd6417b019eec9c220e/cmnyd1d/fhkniydp3/tumblr_static_tumblr_static_7hst9v643gg0wc480sg44g4ok_focused_v3.jpg);"></div>
+		
+		
+		
+		
+	</div>
+</div>
+
+-->
+<div class="container-fluid mobo-side-padding">	
+<section class="the-posts">
+
+	
+
+	
+
+	
+
+	
+	<article id="tag-intro" class="type_description tag-intro" style="display:none;">
+		<div class="article-content">
+			<h2>Posts tagged <span class="tag">icecream</span></h2>
+		</div>
+	</article>
+	
+
+	
+
+	
+
+
+	<div class="posts-holder posts-grid">
+
+		
+		<div class="grid-sizer"></div>
+		
+		
+
+		
+
+		<article id="148656557885" class="type_photo ice_cream chocolate snickers yum delicious icecream" rel="https://www.tumblr.com/reblog/148656557885/3XWymKRM"  onClick="load(event,null)">
+
+			<div class="article-content background-wrapper">
+
+		
+			 
+			 
+			
+
+			 
+			
+            
+            <div class="hover hidden-xs">
+<a href="#">
+<img src="http://68.media.tumblr.com/a015a3ae5fdcbb998fcc08e0ff11a1f3/tumblr_obm0ro3nSC1u7ks29o1_1280.jpg" alt="Lower your temperature, not your standards." data-width="1200" data-height="900"/></a>
+<div class="hiddencaption">
+    	
+			<div class="caption">
+				<p>Lower your temperature, not your standards.</p>
+			</div>
+			
+</div>
+</div>
+            
+		<!-- Photo Post -->
+	
+							<div class="hidden-lg hidden-md hidden-sm">	<img src="http://68.media.tumblr.com/a015a3ae5fdcbb998fcc08e0ff11a1f3/tumblr_obm0ro3nSC1u7ks29o1_1280.jpg" alt="Lower your temperature, not your standards." data-width="1200" data-height="900"/>
+						
+							
+					
+			<div class="caption">
+				<p>Lower your temperature, not your standards.</p>
+			</div>
+			
+			</div>
+
+		
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+
+			
+
+
+			
+
+
+			
+
+			<div  class="videoPostFooter model-hide-view mobo-block post-footer">
+
+				<ul class="icons" style="float:left;">
+				
+
+				
+				   	 <li class="reblog blanktarget">
+				    	<a href="http://snickers.tumblr.com/post/148656557885/lower-your-temperature-not-your-standards" TARGET="_self"><i class="fa fa-eye gray"></i></a>
+					<!--	<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/148656557885/3XWymKRM" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>  -->
+					</li> 
+					 
+					
+					<li class="sharer hidden">
+						<a class="social-export"></a>
+						<div class="sharer-wrap">
+							<ul>
+								
+								
+								
+								
+							</ul>
+						</div>
+					</li>
+					
+					<li class="like"><div class="like_button" data-post-id="148656557885" data-blog-name="snickers" id="like_button_148656557885"><iframe id="like_iframe_148656557885" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=9c1e0782724156703eb4f7ba79dbe203#name=snickers&amp;post_id=148656557885&amp;color=gray&amp;rk=3XWymKRM" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_148656557885"></iframe></div></li>
+
+ <li class="reblog">
+				    
+					<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/148656557885/3XWymKRM" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ccc"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>
+					</li> 
+
+					
+				</ul>
+				
+				
+
+				
+				
+				<a href="http://snickers.tumblr.com/post/148656557885/lower-your-temperature-not-your-standards" class="timestamp">6 months ago</a>
+				
+				
+				
+
+				<div class="post-meta">
+
+					
+
+					
+
+					
+
+					
+				</div>
+
+			</div>
+			
+			
+				<div style="display:none;" class="model-show-view post-footer">
+
+				<ul class="icons" style="float:left;">
+				   	 <li class="reblog eyemodel-hide blanktarget">
+				    	<a href="http://snickers.tumblr.com/post/148656557885/lower-your-temperature-not-your-standards" TARGET="_self"><i class="fa fa-eye"></i></a>
+					<!--	<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/148656557885/3XWymKRM" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>  -->
+					</li> 
+					 
+					
+					<li class="sharer hidden">
+						<a class="social-export"></a>
+						<div class="sharer-wrap">
+							<ul>
+								
+								
+								
+								
+							</ul>
+						</div>
+					</li>
+					
+					<li class="like"><div class="like_button" data-post-id="148656557885" data-blog-name="snickers" id="like_button_148656557885"><iframe id="like_iframe_148656557885" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=9c1e0782724156703eb4f7ba79dbe203#name=snickers&amp;post_id=148656557885&amp;color=black&amp;rk=3XWymKRM" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_148656557885"></iframe></div></li>
+					
+					
+					
+ <li class="reblog hh">
+					<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/148656557885/3XWymKRM" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>
+					</li>  
+					
+				</ul>
+
+				
+				
+				<a href="http://snickers.tumblr.com/post/148656557885/lower-your-temperature-not-your-standards" class="timestamp">6 months ago</a>
+				
+				
+				
+
+				<div class="post-meta">
+
+					
+
+					
+
+					
+
+					
+				</div>
+
+			</div>
+			
+			
+			
+
+			
+
+
+			</div>
+
+		</article>
+
+		
+
+		<article id="146704378407" class="type_photo snickers ice_cream chocolate yum delicious icecream" rel="https://www.tumblr.com/reblog/146704378407/xPabrkro"  onClick="load(event,null)">
+
+			<div class="article-content background-wrapper">
+
+		
+			 
+			 
+			
+
+			 
+			
+            
+            <div class="hover hidden-xs">
+<a href="#">
+<img src="http://68.media.tumblr.com/2cf7382237b1c5935306cd1705bec904/tumblr_o8dl919siH1u7ks29o1_1280.jpg" alt="SNICKERS ice cream is creamy #satisfaction." data-width="1200" data-height="600"/></a>
+<div class="hiddencaption">
+    	
+			<div class="caption">
+				<p>SNICKERS ice cream is creamy #satisfaction.</p>
+			</div>
+			
+</div>
+</div>
+            
+		<!-- Photo Post -->
+	
+							<div class="hidden-lg hidden-md hidden-sm">	<img src="http://68.media.tumblr.com/2cf7382237b1c5935306cd1705bec904/tumblr_o8dl919siH1u7ks29o1_1280.jpg" alt="SNICKERS ice cream is creamy #satisfaction." data-width="1200" data-height="600"/>
+						
+							
+					
+			<div class="caption">
+				<p>SNICKERS ice cream is creamy #satisfaction.</p>
+			</div>
+			
+			</div>
+
+		
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+
+			
+
+
+			
+
+
+			
+
+			<div  class="videoPostFooter model-hide-view mobo-block post-footer">
+
+				<ul class="icons" style="float:left;">
+				
+
+				
+				   	 <li class="reblog blanktarget">
+				    	<a href="http://snickers.tumblr.com/post/146704378407/snickers-ice-cream-is-creamy-satisfaction" TARGET="_self"><i class="fa fa-eye gray"></i></a>
+					<!--	<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/146704378407/xPabrkro" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>  -->
+					</li> 
+					 
+					
+					<li class="sharer hidden">
+						<a class="social-export"></a>
+						<div class="sharer-wrap">
+							<ul>
+								
+								
+								
+								
+							</ul>
+						</div>
+					</li>
+					
+					<li class="like"><div class="like_button" data-post-id="146704378407" data-blog-name="snickers" id="like_button_146704378407"><iframe id="like_iframe_146704378407" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=9c1e0782724156703eb4f7ba79dbe203#name=snickers&amp;post_id=146704378407&amp;color=gray&amp;rk=xPabrkro" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_146704378407"></iframe></div></li>
+
+ <li class="reblog">
+				    
+					<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/146704378407/xPabrkro" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ccc"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>
+					</li> 
+
+					
+				</ul>
+				
+				
+
+				
+				
+				<a href="http://snickers.tumblr.com/post/146704378407/snickers-ice-cream-is-creamy-satisfaction" class="timestamp">7 months ago</a>
+				
+				
+				
+
+				<div class="post-meta">
+
+					
+
+					
+
+					
+
+					
+				</div>
+
+			</div>
+			
+			
+				<div style="display:none;" class="model-show-view post-footer">
+
+				<ul class="icons" style="float:left;">
+				   	 <li class="reblog eyemodel-hide blanktarget">
+				    	<a href="http://snickers.tumblr.com/post/146704378407/snickers-ice-cream-is-creamy-satisfaction" TARGET="_self"><i class="fa fa-eye"></i></a>
+					<!--	<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/146704378407/xPabrkro" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>  -->
+					</li> 
+					 
+					
+					<li class="sharer hidden">
+						<a class="social-export"></a>
+						<div class="sharer-wrap">
+							<ul>
+								
+								
+								
+								
+							</ul>
+						</div>
+					</li>
+					
+					<li class="like"><div class="like_button" data-post-id="146704378407" data-blog-name="snickers" id="like_button_146704378407"><iframe id="like_iframe_146704378407" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=9c1e0782724156703eb4f7ba79dbe203#name=snickers&amp;post_id=146704378407&amp;color=black&amp;rk=xPabrkro" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_146704378407"></iframe></div></li>
+					
+					
+					
+ <li class="reblog hh">
+					<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/146704378407/xPabrkro" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>
+					</li>  
+					
+				</ul>
+
+				
+				
+				<a href="http://snickers.tumblr.com/post/146704378407/snickers-ice-cream-is-creamy-satisfaction" class="timestamp">7 months ago</a>
+				
+				
+				
+
+				<div class="post-meta">
+
+					
+
+					
+
+					
+
+					
+				</div>
+
+			</div>
+			
+			
+			
+
+			
+
+
+			</div>
+
+		</article>
+
+		
+
+		<article id="146256985395" class="type_photo snickers ice_cream chocolate yum delicious icecream" rel="https://www.tumblr.com/reblog/146256985395/zOZZAVl8"  onClick="load(event,null)">
+
+			<div class="article-content background-wrapper">
+
+		
+			 
+			 
+			
+
+			 
+			
+            
+            <div class="hover hidden-xs">
+<a href="#">
+<img src="http://68.media.tumblr.com/8084ba6215ad02d138b137e1de50fb36/tumblr_o8dl4c0StJ1u7ks29o1_1280.jpg" alt="6 bars in a pack = 5 new friends" data-width="1200" data-height="600"/></a>
+<div class="hiddencaption">
+    	
+			<div class="caption">
+				<p>6 bars in a pack &nbsp;= 5 new friends</p>
+			</div>
+			
+</div>
+</div>
+            
+		<!-- Photo Post -->
+	
+							<div class="hidden-lg hidden-md hidden-sm">	<img src="http://68.media.tumblr.com/8084ba6215ad02d138b137e1de50fb36/tumblr_o8dl4c0StJ1u7ks29o1_1280.jpg" alt="6 bars in a pack = 5 new friends" data-width="1200" data-height="600"/>
+						
+							
+					
+			<div class="caption">
+				<p>6 bars in a pack &nbsp;= 5 new friends</p>
+			</div>
+			
+			</div>
+
+		
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+
+			
+
+
+			
+
+
+			
+
+			<div  class="videoPostFooter model-hide-view mobo-block post-footer">
+
+				<ul class="icons" style="float:left;">
+				
+
+				
+				   	 <li class="reblog blanktarget">
+				    	<a href="http://snickers.tumblr.com/post/146256985395/6-bars-in-a-pack-5-new-friends" TARGET="_self"><i class="fa fa-eye gray"></i></a>
+					<!--	<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/146256985395/zOZZAVl8" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>  -->
+					</li> 
+					 
+					
+					<li class="sharer hidden">
+						<a class="social-export"></a>
+						<div class="sharer-wrap">
+							<ul>
+								
+								
+								
+								
+							</ul>
+						</div>
+					</li>
+					
+					<li class="like"><div class="like_button" data-post-id="146256985395" data-blog-name="snickers" id="like_button_146256985395"><iframe id="like_iframe_146256985395" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=9c1e0782724156703eb4f7ba79dbe203#name=snickers&amp;post_id=146256985395&amp;color=gray&amp;rk=zOZZAVl8" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_146256985395"></iframe></div></li>
+
+ <li class="reblog">
+				    
+					<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/146256985395/zOZZAVl8" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ccc"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>
+					</li> 
+
+					
+				</ul>
+				
+				
+
+				
+				
+				<a href="http://snickers.tumblr.com/post/146256985395/6-bars-in-a-pack-5-new-friends" class="timestamp">8 months ago</a>
+				
+				
+				
+
+				<div class="post-meta">
+
+					
+
+					
+
+					
+
+					
+				</div>
+
+			</div>
+			
+			
+				<div style="display:none;" class="model-show-view post-footer">
+
+				<ul class="icons" style="float:left;">
+				   	 <li class="reblog eyemodel-hide blanktarget">
+				    	<a href="http://snickers.tumblr.com/post/146256985395/6-bars-in-a-pack-5-new-friends" TARGET="_self"><i class="fa fa-eye"></i></a>
+					<!--	<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/146256985395/zOZZAVl8" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>  -->
+					</li> 
+					 
+					
+					<li class="sharer hidden">
+						<a class="social-export"></a>
+						<div class="sharer-wrap">
+							<ul>
+								
+								
+								
+								
+							</ul>
+						</div>
+					</li>
+					
+					<li class="like"><div class="like_button" data-post-id="146256985395" data-blog-name="snickers" id="like_button_146256985395"><iframe id="like_iframe_146256985395" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=9c1e0782724156703eb4f7ba79dbe203#name=snickers&amp;post_id=146256985395&amp;color=black&amp;rk=zOZZAVl8" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_146256985395"></iframe></div></li>
+					
+					
+					
+ <li class="reblog hh">
+					<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/146256985395/zOZZAVl8" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>
+					</li>  
+					
+				</ul>
+
+				
+				
+				<a href="http://snickers.tumblr.com/post/146256985395/6-bars-in-a-pack-5-new-friends" class="timestamp">8 months ago</a>
+				
+				
+				
+
+				<div class="post-meta">
+
+					
+
+					
+
+					
+
+					
+				</div>
+
+			</div>
+			
+			
+			
+
+			
+
+
+			</div>
+
+		</article>
+
+		
+
+		<article id="145707701693" class="type_photo snickers ice_cream chocolate delicious yum icecream" rel="https://www.tumblr.com/reblog/145707701693/rhDcViWO"  onClick="load(event,null)">
+
+			<div class="article-content background-wrapper">
+
+		
+			 
+			 
+			
+
+			 
+			
+            
+            <div class="hover hidden-xs">
+<a href="#">
+<img src="http://68.media.tumblr.com/44f4ab00e6f24dfa3368084db94369ca/tumblr_o8dktweQ4F1u7ks29o1_1280.jpg" alt="Ice cream satisfaction now comes in mini." data-width="1280" data-height="905"/></a>
+<div class="hiddencaption">
+    	
+			<div class="caption">
+				<p>Ice cream satisfaction now comes in mini.</p>
+			</div>
+			
+</div>
+</div>
+            
+		<!-- Photo Post -->
+	
+							<div class="hidden-lg hidden-md hidden-sm">	<img src="http://68.media.tumblr.com/44f4ab00e6f24dfa3368084db94369ca/tumblr_o8dktweQ4F1u7ks29o1_1280.jpg" alt="Ice cream satisfaction now comes in mini." data-width="1280" data-height="905"/>
+						
+							
+					
+			<div class="caption">
+				<p>Ice cream satisfaction now comes in mini.</p>
+			</div>
+			
+			</div>
+
+		
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+
+			
+
+
+			
+
+
+			
+
+			<div  class="videoPostFooter model-hide-view mobo-block post-footer">
+
+				<ul class="icons" style="float:left;">
+				
+
+				
+				   	 <li class="reblog blanktarget">
+				    	<a href="http://snickers.tumblr.com/post/145707701693/ice-cream-satisfaction-now-comes-in-mini" TARGET="_self"><i class="fa fa-eye gray"></i></a>
+					<!--	<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/145707701693/rhDcViWO" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>  -->
+					</li> 
+					 
+					
+					<li class="sharer hidden">
+						<a class="social-export"></a>
+						<div class="sharer-wrap">
+							<ul>
+								
+								
+								
+								
+							</ul>
+						</div>
+					</li>
+					
+					<li class="like"><div class="like_button" data-post-id="145707701693" data-blog-name="snickers" id="like_button_145707701693"><iframe id="like_iframe_145707701693" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=9c1e0782724156703eb4f7ba79dbe203#name=snickers&amp;post_id=145707701693&amp;color=gray&amp;rk=rhDcViWO" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_145707701693"></iframe></div></li>
+
+ <li class="reblog">
+				    
+					<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/145707701693/rhDcViWO" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ccc"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>
+					</li> 
+
+					
+				</ul>
+				
+				
+
+				
+				
+				<a href="http://snickers.tumblr.com/post/145707701693/ice-cream-satisfaction-now-comes-in-mini" class="timestamp">8 months ago</a>
+				
+				
+				
+
+				<div class="post-meta">
+
+					
+
+					
+
+					
+
+					
+				</div>
+
+			</div>
+			
+			
+				<div style="display:none;" class="model-show-view post-footer">
+
+				<ul class="icons" style="float:left;">
+				   	 <li class="reblog eyemodel-hide blanktarget">
+				    	<a href="http://snickers.tumblr.com/post/145707701693/ice-cream-satisfaction-now-comes-in-mini" TARGET="_self"><i class="fa fa-eye"></i></a>
+					<!--	<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/145707701693/rhDcViWO" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>  -->
+					</li> 
+					 
+					
+					<li class="sharer hidden">
+						<a class="social-export"></a>
+						<div class="sharer-wrap">
+							<ul>
+								
+								
+								
+								
+							</ul>
+						</div>
+					</li>
+					
+					<li class="like"><div class="like_button" data-post-id="145707701693" data-blog-name="snickers" id="like_button_145707701693"><iframe id="like_iframe_145707701693" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=9c1e0782724156703eb4f7ba79dbe203#name=snickers&amp;post_id=145707701693&amp;color=black&amp;rk=rhDcViWO" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_145707701693"></iframe></div></li>
+					
+					
+					
+ <li class="reblog hh">
+					<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/145707701693/rhDcViWO" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>
+					</li>  
+					
+				</ul>
+
+				
+				
+				<a href="http://snickers.tumblr.com/post/145707701693/ice-cream-satisfaction-now-comes-in-mini" class="timestamp">8 months ago</a>
+				
+				
+				
+
+				<div class="post-meta">
+
+					
+
+					
+
+					
+
+					
+				</div>
+
+			</div>
+			
+			
+			
+
+			
+
+
+			</div>
+
+		</article>
+
+		
+
+		<article id="145658895214" class="type_photo snickers ice_cream summer pool chocolate delicious yum gifs icecream" rel="https://www.tumblr.com/reblog/145658895214/eUCUFMgj"  onClick="load(event,null)">
+
+			<div class="article-content background-wrapper">
+
+		
+			 
+			 
+			
+
+			 
+			
+            
+            <div class="hover hidden-xs">
+<a href="#">
+<img src="http://68.media.tumblr.com/44f42a976f0ea33366af19de3821bdd5/tumblr_o8dkq2RQok1u7ks29o1_400.gif" alt="Don&rsquo;t forget to invite SNICKERS Ice Cream bars to your next pool party." data-width="256" data-height="256"/></a>
+<div class="hiddencaption">
+    	
+			<div class="caption">
+				<p>Don&rsquo;t forget to invite SNICKERS Ice Cream bars to your next pool party.</p>
+			</div>
+			
+</div>
+</div>
+            
+		<!-- Photo Post -->
+	
+							<div class="hidden-lg hidden-md hidden-sm">	<img src="http://68.media.tumblr.com/44f42a976f0ea33366af19de3821bdd5/tumblr_o8dkq2RQok1u7ks29o1_400.gif" alt="Don&rsquo;t forget to invite SNICKERS Ice Cream bars to your next pool party." data-width="256" data-height="256"/>
+						
+							
+					
+			<div class="caption">
+				<p>Don&rsquo;t forget to invite SNICKERS Ice Cream bars to your next pool party.</p>
+			</div>
+			
+			</div>
+
+		
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+
+			
+
+
+			
+
+
+			
+
+			<div  class="videoPostFooter model-hide-view mobo-block post-footer">
+
+				<ul class="icons" style="float:left;">
+				
+
+				
+				   	 <li class="reblog blanktarget">
+				    	<a href="http://snickers.tumblr.com/post/145658895214/dont-forget-to-invite-snickers-ice-cream-bars-to" TARGET="_self"><i class="fa fa-eye gray"></i></a>
+					<!--	<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/145658895214/eUCUFMgj" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>  -->
+					</li> 
+					 
+					
+					<li class="sharer hidden">
+						<a class="social-export"></a>
+						<div class="sharer-wrap">
+							<ul>
+								
+								
+								
+								
+							</ul>
+						</div>
+					</li>
+					
+					<li class="like"><div class="like_button" data-post-id="145658895214" data-blog-name="snickers" id="like_button_145658895214"><iframe id="like_iframe_145658895214" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=9c1e0782724156703eb4f7ba79dbe203#name=snickers&amp;post_id=145658895214&amp;color=gray&amp;rk=eUCUFMgj" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_145658895214"></iframe></div></li>
+
+ <li class="reblog">
+				    
+					<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/145658895214/eUCUFMgj" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ccc"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>
+					</li> 
+
+					
+				</ul>
+				
+				
+
+				
+				
+				<a href="http://snickers.tumblr.com/post/145658895214/dont-forget-to-invite-snickers-ice-cream-bars-to" class="timestamp">8 months ago</a>
+				
+				
+				
+
+				<div class="post-meta">
+
+					
+
+					
+
+					
+
+					
+				</div>
+
+			</div>
+			
+			
+				<div style="display:none;" class="model-show-view post-footer">
+
+				<ul class="icons" style="float:left;">
+				   	 <li class="reblog eyemodel-hide blanktarget">
+				    	<a href="http://snickers.tumblr.com/post/145658895214/dont-forget-to-invite-snickers-ice-cream-bars-to" TARGET="_self"><i class="fa fa-eye"></i></a>
+					<!--	<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/145658895214/eUCUFMgj" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>  -->
+					</li> 
+					 
+					
+					<li class="sharer hidden">
+						<a class="social-export"></a>
+						<div class="sharer-wrap">
+							<ul>
+								
+								
+								
+								
+							</ul>
+						</div>
+					</li>
+					
+					<li class="like"><div class="like_button" data-post-id="145658895214" data-blog-name="snickers" id="like_button_145658895214"><iframe id="like_iframe_145658895214" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=9c1e0782724156703eb4f7ba79dbe203#name=snickers&amp;post_id=145658895214&amp;color=black&amp;rk=eUCUFMgj" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_145658895214"></iframe></div></li>
+					
+					
+					
+ <li class="reblog hh">
+					<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/145658895214/eUCUFMgj" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>
+					</li>  
+					
+				</ul>
+
+				
+				
+				<a href="http://snickers.tumblr.com/post/145658895214/dont-forget-to-invite-snickers-ice-cream-bars-to" class="timestamp">8 months ago</a>
+				
+				
+				
+
+				<div class="post-meta">
+
+					
+
+					
+
+					
+
+					
+				</div>
+
+			</div>
+			
+			
+			
+
+			
+
+
+			</div>
+
+		</article>
+
+		
+
+		<article id="145453509744" class="type_photo chocolate ice_cream snickers peanuts summer delicious yum icecream" rel="https://www.tumblr.com/reblog/145453509744/4MFZqGA9"  onClick="load(event,null)">
+
+			<div class="article-content background-wrapper">
+
+		
+			 
+			 
+			
+
+			 
+			
+            
+            <div class="hover hidden-xs">
+<a href="#">
+<img src="http://68.media.tumblr.com/8e67e40a882f603244848adf1604acfd/tumblr_o87rwrIjyG1u7ks29o1_r1_1280.jpg" alt="Keep your cool with SNICKERS Ice Cream." data-width="1000" data-height="1000"/></a>
+<div class="hiddencaption">
+    	
+			<div class="caption">
+				<p>Keep your cool with SNICKERS Ice Cream.</p>
+			</div>
+			
+</div>
+</div>
+            
+		<!-- Photo Post -->
+	
+							<div class="hidden-lg hidden-md hidden-sm">	<img src="http://68.media.tumblr.com/8e67e40a882f603244848adf1604acfd/tumblr_o87rwrIjyG1u7ks29o1_r1_1280.jpg" alt="Keep your cool with SNICKERS Ice Cream." data-width="1000" data-height="1000"/>
+						
+							
+					
+			<div class="caption">
+				<p>Keep your cool with SNICKERS Ice Cream.</p>
+			</div>
+			
+			</div>
+
+		
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+
+			
+
+
+			
+
+
+			
+
+			<div  class="videoPostFooter model-hide-view mobo-block post-footer">
+
+				<ul class="icons" style="float:left;">
+				
+
+				
+				   	 <li class="reblog blanktarget">
+				    	<a href="http://snickers.tumblr.com/post/145453509744/keep-your-cool-with-snickers-ice-cream" TARGET="_self"><i class="fa fa-eye gray"></i></a>
+					<!--	<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/145453509744/4MFZqGA9" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>  -->
+					</li> 
+					 
+					
+					<li class="sharer hidden">
+						<a class="social-export"></a>
+						<div class="sharer-wrap">
+							<ul>
+								
+								
+								
+								
+							</ul>
+						</div>
+					</li>
+					
+					<li class="like"><div class="like_button" data-post-id="145453509744" data-blog-name="snickers" id="like_button_145453509744"><iframe id="like_iframe_145453509744" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=9c1e0782724156703eb4f7ba79dbe203#name=snickers&amp;post_id=145453509744&amp;color=gray&amp;rk=4MFZqGA9" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_145453509744"></iframe></div></li>
+
+ <li class="reblog">
+				    
+					<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/145453509744/4MFZqGA9" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ccc"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>
+					</li> 
+
+					
+				</ul>
+				
+				
+
+				
+				
+				<a href="http://snickers.tumblr.com/post/145453509744/keep-your-cool-with-snickers-ice-cream" class="timestamp">8 months ago</a>
+				
+				
+				
+
+				<div class="post-meta">
+
+					
+
+					
+
+					
+
+					
+				</div>
+
+			</div>
+			
+			
+				<div style="display:none;" class="model-show-view post-footer">
+
+				<ul class="icons" style="float:left;">
+				   	 <li class="reblog eyemodel-hide blanktarget">
+				    	<a href="http://snickers.tumblr.com/post/145453509744/keep-your-cool-with-snickers-ice-cream" TARGET="_self"><i class="fa fa-eye"></i></a>
+					<!--	<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/145453509744/4MFZqGA9" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>  -->
+					</li> 
+					 
+					
+					<li class="sharer hidden">
+						<a class="social-export"></a>
+						<div class="sharer-wrap">
+							<ul>
+								
+								
+								
+								
+							</ul>
+						</div>
+					</li>
+					
+					<li class="like"><div class="like_button" data-post-id="145453509744" data-blog-name="snickers" id="like_button_145453509744"><iframe id="like_iframe_145453509744" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=9c1e0782724156703eb4f7ba79dbe203#name=snickers&amp;post_id=145453509744&amp;color=black&amp;rk=4MFZqGA9" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_145453509744"></iframe></div></li>
+					
+					
+					
+ <li class="reblog hh">
+					<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/145453509744/4MFZqGA9" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>
+					</li>  
+					
+				</ul>
+
+				
+				
+				<a href="http://snickers.tumblr.com/post/145453509744/keep-your-cool-with-snickers-ice-cream" class="timestamp">8 months ago</a>
+				
+				
+				
+
+				<div class="post-meta">
+
+					
+
+					
+
+					
+
+					
+				</div>
+
+			</div>
+			
+			
+			
+
+			
+
+
+			</div>
+
+		</article>
+
+		
+
+		<article id="145153345723" class="type_photo chocolate snickers delicious yum ice_cream summer icecream" rel="https://www.tumblr.com/reblog/145153345723/4CEemHLv"  onClick="load(event,null)">
+
+			<div class="article-content background-wrapper">
+
+		
+			 
+			 
+			
+
+			 
+			
+            
+            <div class="hover hidden-xs">
+<a href="#">
+<img src="http://68.media.tumblr.com/701dc448513d11f9a582d72c9628f4e8/tumblr_o6q12s8HSG1u7ks29o1_1280.jpg" alt="Rich &amp; creamy peanut butter ice cream, with smooth caramel &amp; peanuts. You&rsquo;re welcome." data-width="1200" data-height="600"/></a>
+<div class="hiddencaption">
+    	
+			<div class="caption">
+				<p>Rich &amp; creamy peanut butter ice cream, with smooth caramel &amp; peanuts. You&rsquo;re welcome.</p>
+			</div>
+			
+</div>
+</div>
+            
+		<!-- Photo Post -->
+	
+							<div class="hidden-lg hidden-md hidden-sm">	<img src="http://68.media.tumblr.com/701dc448513d11f9a582d72c9628f4e8/tumblr_o6q12s8HSG1u7ks29o1_1280.jpg" alt="Rich &amp; creamy peanut butter ice cream, with smooth caramel &amp; peanuts. You&rsquo;re welcome." data-width="1200" data-height="600"/>
+						
+							
+					
+			<div class="caption">
+				<p>Rich &amp; creamy peanut butter ice cream, with smooth caramel &amp; peanuts. You&rsquo;re welcome.</p>
+			</div>
+			
+			</div>
+
+		
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+			
+
+
+
+			
+
+
+			
+
+
+			
+
+			<div  class="videoPostFooter model-hide-view mobo-block post-footer">
+
+				<ul class="icons" style="float:left;">
+				
+
+				
+				   	 <li class="reblog blanktarget">
+				    	<a href="http://snickers.tumblr.com/post/145153345723/rich-creamy-peanut-butter-ice-cream-with-smooth" TARGET="_self"><i class="fa fa-eye gray"></i></a>
+					<!--	<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/145153345723/4CEemHLv" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>  -->
+					</li> 
+					 
+					
+					<li class="sharer hidden">
+						<a class="social-export"></a>
+						<div class="sharer-wrap">
+							<ul>
+								
+								
+								
+								
+							</ul>
+						</div>
+					</li>
+					
+					<li class="like"><div class="like_button" data-post-id="145153345723" data-blog-name="snickers" id="like_button_145153345723"><iframe id="like_iframe_145153345723" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=9c1e0782724156703eb4f7ba79dbe203#name=snickers&amp;post_id=145153345723&amp;color=gray&amp;rk=4CEemHLv" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_145153345723"></iframe></div></li>
+
+ <li class="reblog">
+				    
+					<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/145153345723/4CEemHLv" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ccc"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>
+					</li> 
+
+					
+				</ul>
+				
+				
+
+				
+				
+				<a href="http://snickers.tumblr.com/post/145153345723/rich-creamy-peanut-butter-ice-cream-with-smooth" class="timestamp">9 months ago</a>
+				
+				
+				
+
+				<div class="post-meta">
+
+					
+
+					
+
+					
+
+					
+				</div>
+
+			</div>
+			
+			
+				<div style="display:none;" class="model-show-view post-footer">
+
+				<ul class="icons" style="float:left;">
+				   	 <li class="reblog eyemodel-hide blanktarget">
+				    	<a href="http://snickers.tumblr.com/post/145153345723/rich-creamy-peanut-butter-ice-cream-with-smooth" TARGET="_self"><i class="fa fa-eye"></i></a>
+					<!--	<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/145153345723/4CEemHLv" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>  -->
+					</li> 
+					 
+					
+					<li class="sharer hidden">
+						<a class="social-export"></a>
+						<div class="sharer-wrap">
+							<ul>
+								
+								
+								
+								
+							</ul>
+						</div>
+					</li>
+					
+					<li class="like"><div class="like_button" data-post-id="145153345723" data-blog-name="snickers" id="like_button_145153345723"><iframe id="like_iframe_145153345723" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=9c1e0782724156703eb4f7ba79dbe203#name=snickers&amp;post_id=145153345723&amp;color=black&amp;rk=4CEemHLv" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_145153345723"></iframe></div></li>
+					
+					
+					
+ <li class="reblog hh">
+					<i class="reblog-icon"><a href="https://www.tumblr.com/reblog/145153345723/4CEemHLv" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></i>
+					</li>  
+					
+				</ul>
+
+				
+				
+				<a href="http://snickers.tumblr.com/post/145153345723/rich-creamy-peanut-butter-ice-cream-with-smooth" class="timestamp">9 months ago</a>
+				
+				
+				
+
+				<div class="post-meta">
+
+					
+
+					
+
+					
+
+					
+				</div>
+
+			</div>
+			
+			
+			
+
+			
+
+
+			</div>
+
+		</article>
+
+		
+
+	</div>
+
+
+	
+	<article class="type_pagination pagination_load-more ">
+
+		<div class="article-content">
+
+			
+
+			
+
+		</div>
+
+	</article>
+	
+
+	
+
+
+</section>
+</div>
+<div class="clearfix space20"></div>
+
+<div class="clearfix"></div>
+
+<div class="bottom-section text-center" style="position:relative;">
+<div class="btm-img-princess">
+<div class=" col-sm-12 hidden-md hidden-lg text-center hungryimg"><img src="http://static.tumblr.com/6efbsl4/t0wo8gae1/hungry.png">
+<div class="text-center"><a href="http://snickersmeme.com/" target="_blank"><input type="button" value="CREATE MY HUNGRY MEME" class="btnred"></a></div>
+</div>
+
+
+
+<div class="col-md-4 col-lg-3 hidden-xs hidden-sm no-padding"><img src="http://static.tumblr.com/cmnyd1d/W4ro99myw/bottom-left-princess.png" class="img-responsive"></div>
+<div class="col-md-4 col-lg-6 hidden-sm hidden-xs hungryimg"><img src="http://static.tumblr.com/6efbsl4/t0wo8gae1/hungry.png" class="img-responsive" style="display:inline; width:100%;"><br>
+<a href="http://snickersmeme.com/" target="_blank"><input type="button" value="CREATE MY HUNGRY MEME" class="btnred"></a>
+</div>
+
+
+<div class="col-md-4 col-lg-3 hidden-xs hidden-sm no-padding"><img src="http://static.tumblr.com/6efbsl4/YVSo8gag3/bottom-right-princess.png" class="img-responsive pull-right"></div>
+</div>
+</div>
+
+
+
+<div class="mobo-fotter hidden-lg hidden-md hidden">
+
+<div class="text-center" style="margin:5px 0 15px 0;">
+ <a id="menu-link" href="javascript:void"><img id="img-container" src="http://static.tumblr.com/cmnyd1d/GU4o9ezst/down-arrow.png" width="37" height="37" /></a>
+                   </div>
+
+
+<ul  id="mobomenu" style="display:none;">
+<li style="border-top:solid #fff 1px;"><a href="http://www.mars.com/global/policies/privacy/pp-english" target="_blank">Privacy Policy</a></li>
+<li><a href="http://www.mars.com/global/policies/legal/ld-english" target="_blank">Legal</a></li>
+<li><a href="http://www.mars.com/global/policies/note-to-parents/np-english" target="_blank">Notes To Parents</a></li>
+<li><a href="http://www.mars.com/global/policies/adchoices" target="_blank">Adchoices</a></li>
+<li><a href="http://www.snickers.com/Nutritional-Info" target="_blank">Product information</a></li>
+<li><a href="http://www.mars.com/global/sustainability/sustainable-sourcing-plan/responsible-sourcing" target="_blank">Supply Chain Transparency</a></li>
+<li><a href="http://marschocolate.com/wheretobuy.aspx?ps-sku=40000424314" target="_blank">Product Locator</a></li>
+</ul>
+<div class="clearfix"></div>
+<div class="copyright text-center">®/ <sup>TM</sup> Trademarks © Mars, Incorporated 2016.<br>
+ Other trademarks are property of their <br>
+respective owners. </div>
+</div>
+
+
+<!--Snickers-->
+
+
+<footer class="hidden-lg hidden-md">
+	<div class="footer-border">
+		
+	<!--	<div class="type_pagination pagination_load-more">
+			<div class="pagination">
+			<a class="next" href="/page/2">Next page &nbsp;&nbsp;<i class="social-right"></i></a>
+			</div>
+			<div class="load-more">
+				<span class="load-more-loading">Loading...</span>
+				<span class="load-more-end">No More Posts</span>
+				<span class="load-more-text">Load More Posts</span>
+			</div>
+			
+			<a class="scroll-top" href="#top"><i class="social-up"></i></a>
+		</div>  -->
+	
+		<p class="footer-trigger" style="display: block;">
+		<img src="http://static.tumblr.com/cmnyd1d/soxoahu9y/dwon-arrow.png" />
+		<br />
+		</p>
+		<div class="legal-footer">
+		<h4 style="font-size:18px; color:#fff; margin-bottom:2px;">CLICK FOR LEGAL</h4>
+            <p class="hidden-xs hidden-sm" style="min-height:33px;">&reg;/&trade; Trademarks &copy; Mars, Incorporated 2016. Other trademarks are property of their respective owners.</p>
+        </div>
+      
+
+		<div class="footer-content" style="display: none;">
+		
+		
+		<ul>
+<li style="border-top:solid #efd1ad 1px;"><a href="http://www.mars.com/global/policies/privacy/pp-english" target="_blank">Privacy Policy</a></li>
+<li><a href="http://www.mars.com/global/policies/legal/ld-english" target="_blank">Legal</a></li>
+<li><a href="http://www.mars.com/global/policies/note-to-parents/np-english" target="_blank">Notes To Parents</a></li>
+<li><a href="http://www.mars.com/global/policies/adchoices" target="_blank">Adchoices</a></li>
+<li><a href="http://www.snickers.com/Nutritional-Info" target="_blank">Product information</a></li>
+<li><a href="http://www.mars.com/global/sustainability/sustainable-sourcing-plan/responsible-sourcing" target="_blank">Supply Chain Transparency</a></li>
+<li><a href="http://marschocolate.com/wheretobuy.aspx?ps-sku=40000424314" target="_blank">Product Locator</a></li>
+</ul>
+		
+          
+            <p style="min-height:33px;">&reg;/&trade; Trademarks &copy; Mars, Incorporated 2016. Other trademarks are property of their respective owners.</p>
+
+            <span class="trigger-close">
+               
+            </span>
+        </div>  
+	</div>
+
+</footer>
+
+<!--Snickers-mobo-->
+
+
+
+
+
+
+
+<div class="desktop-footer hidden-xs hidden-sm">
+	<div class="container">
+    <div class="footer-link">
+    <ul>
+       <li><a href="http://www.mars.com/global/policies/privacy/pp-english" target="_blank">Privacy Policy</a></li>
+<li><a href="http://www.mars.com/global/policies/legal/ld-english" target="_blank">Legal</a></li>
+<li><a href="http://www.mars.com/global/policies/note-to-parents/np-english" target="_blank">Notes To Parents</a></li>
+<li><a href="http://www.mars.com/global/policies/adchoices" target="_blank">Adchoices</a></li>
+<li><a href="http://www.snickers.com/Nutritional-Info" target="_blank">Product information</a></li>
+<li><a href="http://www.mars.com/global/sustainability/sustainable-sourcing-plan/responsible-sourcing" target="_blank">Supply Chain Transparency</a></li>
+<li><a href="http://marschocolate.com/wheretobuy.aspx?ps-sku=40000424314" target="_blank">Product Locator</a></li>
+    </ul>
+</div>
+<div class="text-center space15 white" style="font-size: 12px; letter-spacing: 2px;">
+®/ <sup>TM</sup> Trademarks © Mars, Incorporated 2016. Other trademarks are property of their respective owners. </div>
+<div class="clearfix"></div>
+    </div>
+</div>  
+
+
+<!-- Javascript Assets -->
+
+<script async defer src="http://static.tumblr.com/cmnyd1d/OcQob0uiz/jquery_003.js"></script>
+<script async defer src="http://static.tumblr.com/cmnyd1d/QDiob0ugg/settingsen.js"></script>
+
+
+
+<script src="http://static.tumblr.com/cmnyd1d/OHSo9y3g5/bootstrap.min.js"></script>
+<!--<script src="http://static.tumblr.com/e6lc7yi/iJOnji78y/tip-top-plugins.js"></script>
+<script src="http://static.tumblr.com/e6lc7yi/LFVo1ij47/tip-top-app.js"></script> -->
+
+<script type="text/javascript" src="http://static.tumblr.com/fjlh1tj/XMtoec63c/tip-top-plugins.js"></script>
+<script type="text/javascript" src="http://static.tumblr.com/e6lc7yi/LFVo1ij47/tip-top-app.js"></script>
+
+
+<script async defer src="http://static.tumblr.com/cmnyd1d/JSto9iv06/embeds.js"></script>
+
+
+
+
+<script>
+if (!(window.location.pathname == "" || window.location.pathname == "/" || window.location.pathname.startsWith("/tagged"))) {
+    var elements = document.getElementsByClassName("videoPostFooter");
+    for (var i = 0; i < elements.length; i++) {
+        elements[i].classList.remove("videoPostFooter");
+    }
+    
+    elements = document.getElementsByClassName("fa-eye");
+    for (var i = 0; i < elements.length; i++) {
+        elements[i].classList.remove("fa-eye");
+    }
+}
+
+$(document).ready(function(){
+setTimeout(function(){
+    if (!(window.location.pathname == "" || window.location.pathname == "/" || window.location.pathname.startsWith("/tagged"))){
+        $(".posts-holder article .article-content div").removeClass("hover");
+        $(".posts-holder article .article-content").addClass("individual-post");
+        $(".type_video .article-content .caption").addClass("blocktxt");
+        $(".blanktarget a").hide();
+        $(".posts-holder article .article-content div").removeClass("hover1");
+        $(".posts-holder article .article-content #videoStop").css('pointer-events', 'auto');
+        $('.type_video .videoPostFooter').removeClass("videoPostFooter");
+    }
+}, 500);
+});
+</script>
+
+
+<script>
+  $(document).ready(function(){
+$('#embed-57b80839d15ba947023852_html5_api').on('click', function(e) {
+    alert("hello");
+    e.preventDefault();
+    if (this.paused){
+        this.play();
+    } else{
+        this.pause();
+    }
+});
+});
+</script>
+
+
+
+
+
+
+<script>
+    $(document).ready(function(){
+        $('ul[id="topMenu"] > li > a').each(function (index, item){
+    		var lastIndex = $(item).attr("href").lastIndexOf('/');
+    		var menuHref = $(item).attr("href").substr(lastIndex + 1);
+    		if($.inArray(menuHref, window.location.href.split('/')) >=0 ) { 
+    			$(item).closest('li').addClass('active');
+    		}
+	    });
+	    $(".nav").affix({
+  offset: {
+    top: 100
+  }
+});
+    });
+</script>
+
+
+
+
+
+
+<script type='text/javascript'>
+
+// Conversion Name: Snickers Homepage - Tumblr
+// INSTRUCTIONS 
+// The Conversion Tags should be placed at the top of the <BODY> section of the HTML page. 
+// In case you want to ensure that the full page loads as a prerequisite for a conversion 
+// being recorded, place the tag at the bottom of the page. Note, however, that this may 
+// skew the data in the case of slow-loading pages and in general not recommended. 
+//
+// NOTE: It is possible to test if the tags are working correctly before campaign launch 
+// as follows:  Browse to http://bs.serving-sys.com/Serving/adServer.bs?cn=at, which is 
+// a page that lets you set your local machine to 'testing' mode.  In this mode, when 
+// visiting a page that includes an conversion tag, a new window will open, showing you 
+// the data sent by the conversion tag to the Sizmek servers. 
+// 
+
+// END of instructions (These instruction lines can be deleted from the actual HTML)
+
+var ebRand = Math.random()+'';
+ebRand = ebRand * 1000000;
+//<![CDATA[ 
+document.write('<scr'+'ipt src="HTTP://bs.serving-sys.com/Serving/ActivityServer.bs?cn=as&amp;ActivityID=837891&amp;rnd=' + ebRand + '"></scr' + 'ipt>');
+
+//]]>
+
+</script>
+
+<noscript>
+<img width="1" height="1" style="border:0" src="HTTP://bs.serving-sys.com/Serving/ActivityServer.bs?cn=as&amp;ActivityID=837891&amp;ns=1"/>
+</noscript>
+
+
+
+
+
+
+
+
+<!--<script type='text/javascript'>
+// Conversion Name: Dove Bean to Bar Tumblr page
+// INSTRUCTIONS 
+// The Conversion Tags should be placed at the top of the <BODY> section of the HTML page. 
+// In case you want to ensure that the full page loads as a prerequisite for a conversion 
+// being recorded, place the tag at the bottom of the page. Note, however, that this may 
+// skew the data in the case of slow-loading pages and in general not recommended. 
+//
+// NOTE: It is possible to test if the tags are working correctly before campaign launch 
+// as follows:  Browse to http://bs.serving-sys.com/Serving/adServer.bs?cn=at, which is 
+// a page that lets you set your local machine to 'testing' mode.  In this mode, when 
+// visiting a page that includes an conversion tag, a new window will open, showing you 
+// the data sent by the conversion tag to the Sizmek servers. 
+// 
+// END of instructions (These instruction lines can be deleted from the actual HTML)
+var ebRand = Math.random()+'';
+ebRand = ebRand * 1000000;
+document.write('<scr'+'ipt src=""HTTP://bs.serving-sys.com/Serving/ActivityServer.bs?cn=as&amp;ActivityID=826843&amp;rnd=' + ebRand + '""></scr' + 'ipt>');
+</script>
+<noscript>
+<img width=""1"" height=""1"" style=""border:0"" src=""HTTP://bs.serving-sys.com/Serving/ActivityServer.bs?cn=as&amp;ActivityID=826843&amp;ns=1""/>
+</noscript>  -->
+<script>
+   $(document).ready(function(){
+	   $(window).bind('scroll', function() {
+	   var navHeight = $( window ).height() - 70;
+			 if ($(window).scrollTop() > navHeight) {
+				 $('navi').addClass('fixed1');
+				 $('navii').addClass('fixed2');
+			 }
+			 else {
+				 $('navi').removeClass('fixed1');
+				 $('navii').removeClass('fixed2');
+			 }
+		});
+	});
+</script>
+<script type="text/javascript">
+    /*
+* File: jquery.flexisel.js
+* Version: 2.1.0
+* Description: Responsive carousel jQuery plugin
+* Author: 9bit Studios
+* Copyright 2016, 9bit Studios
+* http://www.9bitstudios.com
+* Free to use and abuse under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+*/
+
+(function ($) {
+
+    $.fn.flexisel = function (options) {
+
+        var defaults = $.extend({
+            visibleItems: 2,
+            itemsToScroll: 2,
+            animationSpeed: 400,
+            infinite: true,
+            navigationTargetSelector: null,
+            autoPlay: {
+                enable: false,
+                interval: 5000,
+                pauseOnHover: true
+            },
+            responsiveBreakpoints: { 
+                portrait: { 
+                    changePoint:480,
+                    visibleItems: 2,
+                    itemsToScroll: 2
+                }, 
+                landscape: { 
+                    changePoint:640,
+                    visibleItems: 3,
+                    itemsToScroll: 2
+                },
+                tablet: { 
+                    changePoint:768,
+                    visibleItems: 3,
+                    itemsToScroll: 2
+                }
+            }
+        }, options);
+        
+        /******************************
+        Private Variables
+        *******************************/         
+        
+        var object = $(this);
+        var settings = $.extend(defaults, options);        
+        var itemsWidth;
+        var canNavigate = true; 
+        var itemCount; 
+        var itemsVisible = settings.visibleItems; 
+        var itemsToScroll = settings.itemsToScroll;
+        var responsivePoints = [];
+        var resizeTimeout;
+        var autoPlayInterval;        
+        
+        /******************************
+        Public Methods
+        *******************************/        
+        
+        var methods = {
+                
+            init: function() {
+                return this.each(function () {
+                    methods.appendHTML();
+                    methods.setEventHandlers();                  
+                    methods.initializeItems();                    
+                });
+            },
+
+            /******************************
+            Initialize Items
+            *******************************/            
+            
+            initializeItems: function() {
+                
+                var obj = settings.responsiveBreakpoints;
+                for(var i in obj) { responsivePoints.push(obj[i]); }
+                responsivePoints.sort(function(a, b) { return a.changePoint - b.changePoint; });
+                var childSet = object.children();
+                itemsWidth = methods.getCurrentItemWidth();
+                itemCount = childSet.length;
+                childSet.width(itemsWidth);
+                object.css({ 'left': -itemsWidth * (itemsVisible + 1) });
+                object.fadeIn();
+                $(window).trigger('resize');
+                
+            },
+            
+            /******************************
+            Append HTML
+            *******************************/            
+            
+            appendHTML: function() {
+                
+                object.addClass("nbs-flexisel-ul");
+                object.wrap("<div class='nbs-flexisel-container'><div class='nbs-flexisel-inner'></div></div>");
+                object.find("li").addClass("nbs-flexisel-item");
+                
+                if(settings.navigationTargetSelector && $(settings.navigationTargetSelector).length > 0) {
+                    $("<div class='nbs-flexisel-nav-left'></div><div class='nbs-flexisel-nav-right'></div>").appendTo(settings.navigationTargetSelector);
+                } else {
+                    settings.navigationTargetSelector = object.parent();
+                    $("<div class='nbs-flexisel-nav-left'></div><div class='nbs-flexisel-nav-right'></div>").insertAfter(object);    
+                }
+                    
+                if(settings.infinite) {    
+                    var childSet = object.children();
+                    var cloneContentBefore = childSet.clone();
+                    var cloneContentAfter = childSet.clone();
+                    object.prepend(cloneContentBefore);
+                    object.append(cloneContentAfter);
+                }
+                
+            },
+                    
+            
+            /******************************
+            Set Event Handlers
+            *******************************/
+            setEventHandlers: function() {
+                
+                var childSet = object.children();
+                
+                $(window).on("resize", function(event){
+                    clearTimeout(resizeTimeout);
+                    resizeTimeout = setTimeout(function(){
+                        methods.calculateDisplay();
+                        itemsWidth = methods.getCurrentItemWidth();
+                        childSet.width(itemsWidth);
+                        
+                        if(settings.infinite) {
+                            object.css({
+                                'left': -itemsWidth * Math.floor(childSet.length / 2)
+                            });        
+                        } else {
+                            methods.clearDisabled();
+                            $(settings.navigationTargetSelector).find(".nbs-flexisel-nav-left").addClass('disabled');
+                            object.css({
+                                'left': 0
+                            });
+                        }                                                    
+                    }, 100);
+                    
+                });                    
+                
+                $(settings.navigationTargetSelector).find(".nbs-flexisel-nav-left").on("click", function (event) {
+                    methods.scroll(true);
+                });
+                
+                $(settings.navigationTargetSelector).find(".nbs-flexisel-nav-right").on("click", function (event) {
+                    methods.scroll(false);
+                });
+                
+                if(settings.autoPlay.enable) {
+
+                    methods.setAutoplayInterval();
+
+                    if (settings.autoPlay.pauseOnHover === true) {
+                        object.on({
+                            mouseenter : function() {
+                                canNavigate = false;
+                            },
+                            mouseleave : function() {
+                                canNavigate = true;
+                            }
+                        });        
+                    }            
+                    
+                }
+                
+                object[0].addEventListener('touchstart', methods.touchHandler.handleTouchStart, false);        
+                object[0].addEventListener('touchmove', methods.touchHandler.handleTouchMove, false);                
+                
+            },        
+            
+            /******************************
+            Calculate Display
+            *******************************/            
+            
+            calculateDisplay: function() {
+                var contentWidth = $('html').width();
+                var largestCustom = responsivePoints[responsivePoints.length-1].changePoint; // sorted array 
+                
+                for(var i in responsivePoints) {
+                    
+                    if(contentWidth >= largestCustom) { // set to default if width greater than largest custom responsiveBreakpoint 
+                        itemsVisible = settings.visibleItems;
+                        itemsToScroll = settings.itemsToScroll;
+                        break;
+                    }
+                    else { // determine custom responsiveBreakpoint to use
+                    
+                        if(contentWidth < responsivePoints[i].changePoint) {
+                            itemsVisible = responsivePoints[i].visibleItems;
+                            itemsToScroll = responsivePoints[i].itemsToScroll;
+                            break;
+                        }
+                        else {
+                            continue;
+                        }
+                    }
+                }
+                
+            },                
+            
+            /******************************
+            Scroll
+            *******************************/                
+            
+            scroll: function(reverse) {
+
+                if(typeof reverse === 'undefined') { reverse = true }
+
+                if(canNavigate == true) {
+                    canNavigate = false;
+                    itemsWidth = methods.getCurrentItemWidth();
+                    
+                    if(settings.autoPlay.enable) {
+                        clearInterval(autoPlayInterval);
+                    }
+                    
+                    if(!settings.infinite) {
+                        
+                        var scrollDistance = itemsWidth * itemsToScroll;
+                        
+                        if(reverse) {                            
+                            object.animate({
+                                'left': methods.calculateNonInfiniteLeftScroll(scrollDistance)
+                            }, settings.animationSpeed, function(){
+                                canNavigate = true;
+                            });                            
+                            
+                        } else {
+                            object.animate({
+                                'left': methods.calculateNonInfiniteRightScroll(scrollDistance)
+                            },settings.animationSpeed, function(){
+                                canNavigate = true;
+                            });                                    
+                        }
+                        
+                        
+                        
+                    } else {                    
+                        object.animate({
+                            'left' : reverse ? "+=" + itemsWidth * itemsToScroll : "-=" + itemsWidth * itemsToScroll
+                        }, settings.animationSpeed, function() {
+                            canNavigate = true;
+                            
+                            if(reverse) { 
+                                methods.offsetItemsToBeginning(itemsToScroll); 
+                            } else {
+                                methods.offsetItemsToEnd(itemsToScroll);
+                            }
+                            methods.offsetSliderPosition(reverse); 
+                            
+                        });
+                    }
+                    
+                    if(settings.autoPlay.enable) {
+                        methods.setAutoplayInterval();
+                    }
+                    
+                }
+            },
+            
+            touchHandler: {
+
+                xDown: null,
+                yDown: null,
+                handleTouchStart: function(evt) {                                         
+                    this.xDown = evt.touches[0].clientX;                                      
+                    this.yDown = evt.touches[0].clientY;
+                }, 
+                handleTouchMove: function (evt) {
+                    if (!this.xDown || !this.yDown) {
+                        return;
+                    }
+
+                    var xUp = evt.touches[0].clientX;                                    
+                    var yUp = evt.touches[0].clientY;
+
+                    var xDiff = this.xDown - xUp;
+                    var yDiff = this.yDown - yUp;
+                    
+                    // only comparing xDiff
+                    // compare which is greater against yDiff to determine whether left/right or up/down  e.g. if (Math.abs( xDiff ) > Math.abs( yDiff ))
+                    if (Math.abs( xDiff ) > 0) {
+                        if ( xDiff > 0 ) {
+                            // swipe left
+                            methods.scroll(false);
+                        } else {
+                            //swipe right
+                            methods.scroll(true);
+                        }                       
+                    }
+                    
+                    /* reset values */
+                    this.xDown = null;
+                    this.yDown = null;
+                    canNavigate = true;
+                }
+            },            
+            
+            /******************************
+            Utility Functions
+            *******************************/
+            
+            getCurrentItemWidth: function() {
+                return (object.parent().width())/itemsVisible;
+            },            
+            
+            offsetItemsToBeginning: function(number) {
+                if(typeof number === 'undefined') { number = 1 }
+                for(var i = 0; i < number; i++) {
+                    object.children().last().insertBefore(object.children().first());
+                }    
+            },                
+            
+            offsetItemsToEnd: function(number) {
+                if(typeof number === 'undefined') { number = 1 }
+                for(var i = 0; i < number; i++) {
+                    object.children().first().insertAfter(object.children().last());    
+                }
+            },            
+            
+            offsetSliderPosition: function(reverse) {
+                var left = parseInt(object.css('left').replace('px', ''));
+                if (reverse) { 
+                    left = left - itemsWidth * itemsToScroll; 
+                } else {
+                    left = left + itemsWidth * itemsToScroll;
+                }
+                object.css({
+                    'left': left
+                });
+            },
+
+            getOffsetPosition: function() {
+                return parseInt(object.css('left').replace('px', ''));    
+            },
+            
+            calculateNonInfiniteLeftScroll: function(toScroll) {
+                
+                methods.clearDisabled();
+                if(methods.getOffsetPosition() + toScroll >= 0) {
+                    $(settings.navigationTargetSelector).find(".nbs-flexisel-nav-left").addClass('disabled');
+                    return 0;
+                } else {
+                    return methods.getOffsetPosition() + toScroll;
+                }
+            },
+            
+            calculateNonInfiniteRightScroll: function(toScroll){
+                
+                methods.clearDisabled();
+                var negativeOffsetLimit = (itemCount * itemsWidth) - (itemsVisible * itemsWidth);
+                
+                if(methods.getOffsetPosition() - toScroll <= -negativeOffsetLimit) {
+                    $(settings.navigationTargetSelector).find(".nbs-flexisel-nav-right").addClass('disabled');
+                    return -negativeOffsetLimit;        
+                } else {
+                    return methods.getOffsetPosition() - toScroll;
+                }
+            },
+            
+            setAutoplayInterval: function(){
+                autoPlayInterval = setInterval(function() {
+                    if (canNavigate) {
+                        methods.scroll(false);
+                    }
+                }, settings.autoPlay.interval);                    
+            },
+            
+            clearDisabled: function() {
+                var parent = $(settings.navigationTargetSelector);
+                parent.find(".nbs-flexisel-nav-left").removeClass('disabled');
+                parent.find(".nbs-flexisel-nav-right").removeClass('disabled');
+            }                        
+            
+        };
+        
+        if (methods[options]) {     // $("#element").pluginName('methodName', 'arg1', 'arg2');
+            return methods[options].apply(this, Array.prototype.slice.call(arguments, 1));
+        } else if (typeof options === 'object' || !options) {     // $("#element").pluginName({ option: 1, option:2 });
+            return methods.init.apply(this);  
+        } else {
+            $.error( 'Method "' +  method + '" does not exist in flexisel plugin!');
+        }        
+};
+
+})(jQuery);
+
+</script>
+
+<script type="text/javascript">
+
+$(window).load(function() {
+    $("#flexiselDemo3").flexisel({
+        visibleItems: 2,
+        itemsToScroll: 2,         
+        //autoPlay: {
+        //    enable: false,
+        //    interval: 5000,
+        //    pauseOnHover: true
+        //}        
+    });
+    
+  
+    
+});
+</script>
+
+<script>
+    $('#div1 a').click(function(e) {
+    //e.preventDefault();
+    $('#div1 a').removeClass('selected');
+    $(this).addClass('selected');
+});
+
+
+
+</script>
+
+<script type="text/javascript">
+(function ( $ ) {
+    $.fn.smplmnu = function(options) {
+
+    	//settings
+    	var settings = $.extend({
+            // These are the defaults.
+            background: "#4a0e00",
+            speed: "0.5s",
+            textColor: "#fff"
+        }, options );
+
+
+    	//vars
+    	var hittrigger = $(this);
+    	var clspos = hittrigger.next('ul');
+    	var menutextcolor = hittrigger.next('ul li a');
+    	var overllay = '';
+
+    	//manipulating dom
+    	hittrigger.addClass('inrwrpr');
+    	clspos.addClass('inrwrpr');
+    	$('.inrwrpr').wrapAll( "<div class='navwrp'>" );
+    	clspos.prepend('<a href="javascript:void(0)" class="mnuclose ion-close-round"><span>X</span></a>');
+    	$('body').prepend(overllay);
+    	
+ 		
+ 		//functions and methods
+        hittrigger.click(function(event){
+			hittrigger.next('ul').addClass('mobimenu');
+		    $('.mobimenu').addClass('mnuopn');
+		    $('.mnuopn').css({
+		    	'z-index': '9999',
+		    	'background-color': settings.background,
+		    	'transition': settings.speed
+		    });
+		    $('.mnuopn a').css({
+		    	'color': settings.textColor
+		    });
+		    $('.overally').addClass('ovrActv');
+		});
+
+        $('.mnuclose').click(function(event) {
+			hittrigger.next('ul').removeClass('mnuopn');
+			$('.overally').removeClass('ovrActv');
+		});
+
+
+		$('.overally').click(function(event) {
+			clspos.removeClass('mnuopn');
+			$(this).removeClass('ovrActv')
+		});
+
+		return this				
+ 
+    };
+ 
+}( jQuery ));
+</script>
+
+<script type="text/javascript">
+
+function openInTumblrLightbox(ev, obj) {
+				ev.preventDefault();
+				Tumblr.Lightbox.init([{
+					width: obj.dataset.width,
+					height: obj.dataset.height,
+					low_res: obj.src,
+					high_res: obj.src
+				}], 1);
+			}
+
+		jQuery(document).ready(function($) {
+			$('.smobitrigger').smplmnu();
+		});
+		$(function () {
+
+    $('.toggle').click(function (event) {
+        event.preventDefault();
+        var target = $(this).attr('href');
+        $(target).toggleClass('hidden show');
+		 $("i", this).toggleClass("fa-angle-down fa-close");
+    });
+    
+     $(document).ready(function(){
+        $('ul[id="topMenus"] > li > a, ul[id="flexiselDemo3"] > li > a, ul[id="topMenus"] > div > li > a').each(function (index, item){
+    		var lastIndex = $(item).attr("href").lastIndexOf('/');
+    		var menuHref = $(item).attr("href").substr(lastIndex + 1);
+    		if($.inArray(menuHref, window.location.href.split('/')) >=0 ) {
+    			$(item).closest('li').addClass('active');
+    		}
+	    });
+    });
+    
+});
+	</script>
+	
+	 <script>
+		$(function(){
+			$("#menu-link").on("click", function(){
+				var $img = $("#img-container");
+				$("#mobomenu").stop().animate({"height": "toggle"}, { duration: 1000 });
+				if ($img.attr('src') == 'http://static.tumblr.com/cmnyd1d/GU4o9ezst/down-arrow.png') {
+					$img.attr('src', 'http://static.tumblr.com/cmnyd1d/pqRo9ezjz/cross-icon.png');
+				} else {
+				   $img.attr('src', 'http://static.tumblr.com/cmnyd1d/GU4o9ezst/down-arrow.png');
+				}
+			});
+		});
+	</script>
+
+	<script>
+		 $(document).ready(function(){
+		    $("article").first().addClass("first_column");
+		     $(".blanktarget a[target]").on("click", function(event){ event.stopPropagation(); }).removeAttr("target");
+		     $(".post-nav a[target]").removeAttr("target");
+		     
+		 });
+	</script>
+	
+
+	
+
+	
+
+	
+	<script type="text/javascript">
+
+	var images = [ 'http://static.tumblr.com/19a8a704d727cbd6417b019eec9c220e/cmnyd1d/fhkniydp3/tumblr_static_tumblr_static_7hst9v643gg0wc480sg44g4ok_focused_v3.jpg'
+		
+		
+		
+		
+	];
+
+	var chosenImage = images[Math.floor(Math.random() * images.length)];
+
+	$('.header-image').css({
+		'background-image': 'url(' + chosenImage + ')'
+	});
+
+	$('.header-image > img').attr("src", chosenImage);
+
+	$( '.header-image' ).imagesLoaded(function(){
+		$('header').addClass('on');
+	});
+
+    $(document).ready(function () {
+        $("footer .footer-trigger").click(function () {
+            $("footer .footer-content").slideToggle("slow");
+            $("footer .footer-trigger").slideToggle("slow");
+            $(this).toggleClass("active");
+            return false;
+        });
+        $("footer .footer-content .trigger-close").click(function () {
+            $("footer .footer-content").slideToggle("slow");
+            $("footer .footer-trigger").slideToggle("slow");
+
+            $(this).toggleClass("active");
+        });
+    });
+
+    setTimeout(function() {
+       $("iframe").each(function(){
+          var ifr_source = $(this).attr('src');
+          var wmode = "wmode=transparent";
+          if(ifr_source.indexOf('?') != -1) $(this).attr('src',ifr_source+'&'+wmode);
+          else $(this).attr('src',ifr_source+'?'+wmode);
+       });
+    }, 100);    
+</script>
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-58826961-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<iframe scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0; z-index:9999;" id="ga_target"></iframe><script type="text/javascript">
+    (function(){
+        var analytics_frame = document.getElementById('ga_target');
+        var analytics_iframe_loaded;
+        var user_logged_in;
+        var blog_is_nsfw = 'No';
+        var addthis_enabled = false;
+
+        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+        var eventer = window[eventMethod];
+        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+        eventer(messageEvent,function(e) {
+            var message = (e.data && e.data.split) ? e.data.split(';') : '';
+            switch (message[0]) {
+                case 'analytics_iframe_loaded':
+                    analytics_iframe_loaded = true;
+                    postCSMessage();
+                    postGAMessage();
+                    postATMessage();
+                    postRapidMessage();
+                    break;
+                case 'user_logged_in':
+                    user_logged_in = message[1];
+                    postGAMessage();
+                    postATMessage();
+                    break;
+            }
+        }, false);
+
+        analytics_frame.src = "https://assets.tumblr.com/analytics.html?6cdac04a086dad80b43e7b790d50506f#" +
+                              "http://snickers.tumblr.com";
+        function postGAMessage() {
+            if (analytics_iframe_loaded && user_logged_in) {
+                var is_ajax = false;
+                analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/tagged/icecream%0D?route=%2Ftagged%2F%3Atag'].join(';'), analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postCSMessage() {
+            COMSCORE = true;
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }
+        function postATMessage() {
+            if (addthis_enabled && analytics_iframe_loaded) {
+                analytics_frame.contentWindow.postMessage('enable_addthis', analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postRapidMessage() {
+                            if (analytics_iframe_loaded) {
+                    var is_ajax = '';
+                    var route = '/tagged/:tag';
+                    var tumblelog_id = '218023809';
+                    var yahoo_space_id = '1197719232';
+                    var rapid_client_only = '1';
+                    var apv = '1';
+                    var rapid_ex = '';
+
+                    analytics_frame.contentWindow.postMessage(
+                        [
+                            'tick_rapid', is_ajax, route, user_logged_in, tumblelog_id,
+                            yahoo_space_id, rapid_client_only, apv, rapid_ex
+                        ].join(';'),
+                        analytics_frame.src.split('/analytics.html')[0]
+                    );
+                }
+                    }
+    })();
+</script><script type="text/javascript">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1487956963&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvc25pY2tlcnMudHVtYmxyLmNvbVwvdGFnZ2VkXC9pY2VjcmVhbSUwRCIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC90YWdnZWRcLzp0YWcifQ==&U=CBDDIPJPOG&K=4cc1f2610d84be8dd51a0e1fde2cca36a23025231030337c7b1d1f7d39384311&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1487956963&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvc25pY2tlcnMudHVtYmxyLmNvbVwvdGFnZ2VkXC9pY2VjcmVhbSUwRCIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC90YWdnZWRcLzp0YWciLCJub3NjcmlwdCI6MX0=&U=CBDDIPJPOG&K=0ba9185005f9c539c73dced11c65474136c996c7d52a481617b2e0544cc825f6&R="></noscript><script >
+        (function (w,d) {
+            'use strict';
+            var l = function(el, type, listener, useCapture) {
+                el.addEventListener ?
+                el.addEventListener(type, listener, !!useCapture) :
+                el.attachEvent && el.attachEvent('on' + type, listener, !!useCapture);
+            };
+            var a = function () {
+                                if (d.getElementById('tumblr-cdx')) {
+                    return;
+                }
+                var s = d.createElement('script');
+                var el = d.getElementsByTagName('script')[0];
+                s.async = true;
+                s.src = 'http://assets.tumblr.com/assets/scripts/vendor/cedexis/cedexis.radar.js?_v=436757e3e307f277d851f6d15b7a1a18';
+                s.type = 'text/javascript';
+                s.id = 'tumblr-cdx';
+                d.body.appendChild(s);
+            };
+            l(w,'load',a);
+        }(window, document));
+</script><script type="text/javascript">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1487956963&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3NuaWNrZXJzLnR1bWJsci5jb21cL3RhZ2dlZFwvaWNlY3JlYW0lMEQiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvdGFnZ2VkXC86dGFnIiwicG9zdHMiOlt7InBvc3RpZCI6IjE0ODY1NjU1Nzg4NSIsImJsb2dpZCI6IjIxODAyMzgwOSIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTQ2NzA0Mzc4NDA3IiwiYmxvZ2lkIjoiMjE4MDIzODA5Iiwic291cmNlIjozM30seyJwb3N0aWQiOiIxNDYyNTY5ODUzOTUiLCJibG9naWQiOiIyMTgwMjM4MDkiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjE0NTcwNzcwMTY5MyIsImJsb2dpZCI6IjIxODAyMzgwOSIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTQ1NjU4ODk1MjE0IiwiYmxvZ2lkIjoiMjE4MDIzODA5Iiwic291cmNlIjozM30seyJwb3N0aWQiOiIxNDU0NTM1MDk3NDQiLCJibG9naWQiOiIyMTgwMjM4MDkiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjE0NTE1MzM0NTcyMyIsImJsb2dpZCI6IjIxODAyMzgwOSIsInNvdXJjZSI6MzN9XX0=&U=FFJNACOHCE&K=227a5288ae346265330c5d0ae738f2cc4e64c0442f96e5c939408955161f2644&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1487956963&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3NuaWNrZXJzLnR1bWJsci5jb21cL3RhZ2dlZFwvaWNlY3JlYW0lMEQiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvdGFnZ2VkXC86dGFnIiwicG9zdHMiOlt7InBvc3RpZCI6IjE0ODY1NjU1Nzg4NSIsImJsb2dpZCI6IjIxODAyMzgwOSIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTQ2NzA0Mzc4NDA3IiwiYmxvZ2lkIjoiMjE4MDIzODA5Iiwic291cmNlIjozM30seyJwb3N0aWQiOiIxNDYyNTY5ODUzOTUiLCJibG9naWQiOiIyMTgwMjM4MDkiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjE0NTcwNzcwMTY5MyIsImJsb2dpZCI6IjIxODAyMzgwOSIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTQ1NjU4ODk1MjE0IiwiYmxvZ2lkIjoiMjE4MDIzODA5Iiwic291cmNlIjozM30seyJwb3N0aWQiOiIxNDU0NTM1MDk3NDQiLCJibG9naWQiOiIyMTgwMjM4MDkiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjE0NTE1MzM0NTcyMyIsImJsb2dpZCI6IjIxODAyMzgwOSIsInNvdXJjZSI6MzN9XSwibm9zY3JpcHQiOjF9&U=FFJNACOHCE&K=0467eee0c550aded8afb670f1c5adcb90407bea0bb4caa4519de1ce0aedd1ce6&R="></noscript><noscript id="bootloader" data-bootstrap="{&quot;Components&quot;:{&quot;PostActivity&quot;:[],&quot;TumblelogIframe&quot;:{&quot;unified&quot;:false,&quot;variant&quot;:null,&quot;isCompact&quot;:false,&quot;tumblelogBundleSrc&quot;:&quot;http:\/\/assets.tumblr.com\/client\/prod\/standalone\/tumblelog\/index.build.js?_v=ad09274216a60cd1301afa0a2961e7c8&quot;,&quot;tumblelogName&quot;:&quot;snickers&quot;,&quot;isLoggedIn&quot;:false,&quot;isFriend&quot;:false,&quot;formKey&quot;:&quot;&quot;,&quot;canSubscribe&quot;:false,&quot;isSubscribed&quot;:false,&quot;tumblelogTitle&quot;:&quot;SNICKERS\u0026reg; Satisfies.&quot;,&quot;tumblelogAvatar&quot;:&quot;http:\/\/68.media.tumblr.com\/avatar_01df3d5113a5_40.png&quot;,&quot;tumblelogHost&quot;:&quot;http:\/\/snickers.tumblr.com&quot;,&quot;isOptica&quot;:false,&quot;isCustomTheme&quot;:true,&quot;themeHeaderImage&quot;:&quot;https:\/\/secure.static.tumblr.com\/19a8a704d727cbd6417b019eec9c220e\/cmnyd1d\/fhkniydp3\/tumblr_static_tumblr_static_7hst9v643gg0wc480sg44g4ok_focused_v3.jpg&quot;,&quot;themeBackgroundColor&quot;:&quot;#522b19&quot;,&quot;themeTitleColor&quot;:&quot;#ffffff&quot;,&quot;themeAccentColor&quot;:&quot;#f0b434&quot;,&quot;brag&quot;:false,&quot;adsEnabled&quot;:false,&quot;canShowAd&quot;:false,&quot;isPremium&quot;:{&quot;table&quot;:&quot;premium_partners&quot;,&quot;primary_key&quot;:&quot;tumblelog_id&quot;,&quot;cache_instance_name&quot;:&quot;premium_partners&quot;,&quot;cache_ttl&quot;:86400,&quot;use_cache_compression&quot;:false,&quot;cache_methods&quot;:[&quot;tumblelog&quot;,&quot;is_visible&quot;,&quot;stats_start_date&quot;,&quot;stats_end_date&quot;,&quot;active_tumblelog_ids&quot;],&quot;cache_key_prefix&quot;:&quot;a&quot;,&quot;tumblelog_name&quot;:false,&quot;meta_columns&quot;:{&quot;previous_state&quot;:false,&quot;date_added&quot;:false,&quot;watching&quot;:[],&quot;num_campaigns&quot;:false,&quot;num_placements&quot;:false,&quot;notes&quot;:false,&quot;override_start&quot;:false,&quot;override_end&quot;:false,&quot;tracking_pixels&quot;:[],&quot;yam_id&quot;:[],&quot;cm_enabled&quot;:false,&quot;cm_visible_to_blog_admins&quot;:false,&quot;analytics_plus_visible_to_blog_admins&quot;:false,&quot;follower_count_snapshot&quot;:false,&quot;data_start_date&quot;:false,&quot;analytics_dashboard_costs_visible_to_all&quot;:true,&quot;promo_flow_yam_id&quot;:0},&quot;database&quot;:&quot;primary&quot;,&quot;attributes&quot;:{&quot;meta&quot;:&quot;a:7:{s:10:\&quot;date_added\&quot;;i:1421440009;s:23:\&quot;follower_count_snapshot\&quot;;s:4:\&quot;1266\&quot;;s:5:\&quot;notes\&quot;;s:0:\&quot;\&quot;;s:6:\&quot;yam_id\&quot;;i:993889;s:10:\&quot;cm_enabled\&quot;;b:1;s:25:\&quot;cm_visible_to_blog_admins\&quot;;b:1;s:37:\&quot;analytics_plus_visible_to_blog_admins\&quot;;b:1;}&quot;,&quot;state&quot;:&quot;2&quot;,&quot;type&quot;:&quot;20&quot;,&quot;is_dark_mode&quot;:&quot;0&quot;},&quot;errors&quot;:[],&quot;track_changes&quot;:false,&quot;validate_only_changed_fields&quot;:false,&quot;validate_declared_meta_columns&quot;:false,&quot;_changes&quot;:null,&quot;_original_values&quot;:[],&quot;_meta_changes&quot;:null,&quot;_loaded_from_db_name&quot;:&quot;slave&quot;,&quot;compressed_columns&quot;:[],&quot;_method_result_cache&quot;:[],&quot;trace_columns&quot;:[],&quot;autoindexes&quot;:[],&quot;cache_date_columns&quot;:[],&quot;cache_array_columns&quot;:[],&quot;max_memcache_get_size&quot;:10000,&quot;_model_sort_tmp_col&quot;:false},&quot;showLrecAds&quot;:false,&quot;showStickyLrecBackfill&quot;:false,&quot;showGeminiAds&quot;:false,&quot;geminiSectionCodeDesktop&quot;:&quot;a10bca9c-0c5d-4a02-ab13-14ab8513d81d&quot;,&quot;geminiSectionCodeMobile&quot;:&quot;ced63809-b609-4aca-96a0-abc099acba6b&quot;,&quot;currentPageType&quot;:&quot;tagged&quot;,&quot;currentPage&quot;:&quot;1&quot;,&quot;searchQuery&quot;:&quot;&quot;,&quot;tag&quot;:&quot;icecream\r&quot;,&quot;query&quot;:&quot;&quot;,&quot;chrono&quot;:false,&quot;postId&quot;:&quot;&quot;,&quot;src&quot;:&quot;http:\/\/snickers.tumblr.com\/tagged\/icecream%0D&quot;,&quot;postUrl&quot;:&quot;&quot;,&quot;isBlocked&quot;:null,&quot;isAdmin&quot;:false,&quot;lookupButtonUrl&quot;:&quot;&quot;,&quot;showSpamButton&quot;:false,&quot;showRootPostButton&quot;:false,&quot;rootPostUrl&quot;:&quot;&quot;,&quot;showRadarPostButton&quot;:false,&quot;radarKeys&quot;:&quot;&quot;,&quot;isUniblocked&quot;:false,&quot;isNsfw&quot;:false,&quot;isAdult&quot;:false,&quot;isSpam&quot;:false,&quot;isPrimaryBlog&quot;:false,&quot;canEdit&quot;:false,&quot;canReblogSelf&quot;:false,&quot;showLikeButton&quot;:false,&quot;showReblogButton&quot;:false,&quot;reblogUrl&quot;:&quot;&quot;,&quot;showFanMailButton&quot;:false,&quot;showMessagingButton&quot;:false,&quot;loginCheckIframeSrc&quot;:&quot;http:\/\/assets.tumblr.com\/assets\/html\/iframe\/login_check.html?_v=dee566962ea1a740a8caa73d7e28af5b&quot;,&quot;appInstallUrl&quot;:&quot;https:\/\/go.onelink.me\/893408789?pid=tumblr_blog_network\u0026c=tumblr_blog_network\u0026af_sub3=blog_name&quot;,&quot;appOpenReferrer&quot;:&quot;mobile_banner&quot;,&quot;isShowSearch&quot;:false}},&quot;Flags&quot;:{&quot;doods&quot;:&quot;eyJmaWx0ZXJfbnNmdyI6dHJ1ZSwia2V5Y29tbWFuZF9hdXRvX3BhZ2luYXRlIjp0cnVlLCJsb2dnZWRfb3V0X3NlYXJjaCI6dHJ1ZSwiYXJjaGl2ZS1wbHVzIjp0cnVlLCJzZWN1cmVfZm9ybV9rZXkiOnRydWUsInNlY3VyZV9mb3JtX2tleV9mdWxseV9vbiI6dHJ1ZSwidHVtYmxlbG9nX3BvcG92ZXIiOnRydWUsImNhbm9uaWNhbF91cmxfd3JpdGVzIjp0cnVlLCJlbmFibGVfY2FwdHVyZV9qcyI6dHJ1ZSwicHJpbWFfcG9zdF9mb3JtcyI6dHJ1ZSwibG9ja2VkX3JlYmxvZ191aSI6dHJ1ZSwidGFibGV0X2Jhbm5lcl9hY3RpdmUiOnRydWUsIm1vYmlsZV9iYW5uZXJfYWN0aXZlIjp0cnVlLCJsb2dfc2VhcmNoX2JveCI6dHJ1ZSwidXNlcl9tZW50aW9ucyI6dHJ1ZSwiaHRtbDVfYXVkaW9fcGxheWVyIjp0cnVlLCJwb3BvdmVyX3JlY29tbWVuZGF0aW9ucyI6dHJ1ZSwiaW5kYXNoX3JlY29tbWVuZGF0aW9ucyI6dHJ1ZSwicG9wdGljYV90dW1ibGVsb2dfcG9wb3ZlcnMiOnRydWUsInR1bWJscl90diI6dHJ1ZSwiZGVwcmVjYXRlX2ZlYXR1cmVkX3RhZ3MiOnRydWUsInJlYmxvZ191aV9yZWZyZXNoIjp0cnVlLCJ0YWJfc3dpdGNoZXIiOnRydWUsImZhc3RfY29tcG9zZSI6dHJ1ZSwiZGFzaGJvYXJkX3JlZnJlc2giOnRydWUsIm1vYmlsZV93ZWJfcGhvdG9zZXRzIjp0cnVlLCJtb2JpbGVfd2ViX2dhdGUiOnRydWUsIm1vYmlsZV93ZWJfcGFnZV90aXRsZXMiOnRydWUsIm1vYmlsZV93ZWJfYWJ1c2VfZm9ybSI6dHJ1ZSwiZG9udF9jYXN0X2pzX2ZvbGxvd3MiOnRydWUsImFkc19uZXdfdmVuZG9yX2J1dHRvbnMiOnRydWUsImJsb2NrX2ZlYXR1cmUiOnRydWUsInJlYWN0aXZhdGlvbl9mbG93Ijp0cnVlLCJndWxwanNfYWRtaW4iOnRydWUsImVuYWJsZV9qc19lcnJvcnNfbG9nIjp0cnVlLCJlbmFibGVfanNfZXBoZW1lcmFsX2xvZyI6dHJ1ZSwibG9nX2xhZHkiOnRydWUsImNzbG9nZ2VyX2pzIjp0cnVlLCJkaXNjb3ZlcnlfaHViX2FjY2VzcyI6dHJ1ZSwiaGVhZGVyX2FjY291bnRfbWVudSI6dHJ1ZSwiZW5hYmxlX3NoYXJlX2VtYmVkX2NvZGUiOnRydWUsInJlZGRpdF9zaGFyaW5nIjp0cnVlLCJwb3N0X2l0X2ZvcndhcmQiOnRydWUsInBlZXByX3NlYXJjaF9hbmRfZmlsdGVyIjp0cnVlLCJpbnRlcm5zX3BhZ2UiOnRydWUsImZvbGxvd2VkX3NlYXJjaGVzX2JpZ193ZWIiOnRydWUsImRhcmxhX2FkX2ZlZWRiYWNrIjp0cnVlLCJsaXZlcGhvdG9zX3dlYiI6dHJ1ZSwibHJlY19vbl9ibG9nX3BhZ2VzX3BlZXByIjp0cnVlLCJoaWRlX2RlZmF1bHRfaGVhZGVyc19ibG9nX2NhcmRzIjp0cnVlLCJkaXNhYmxlX3lhaG9vX2JfY29va2llIjp0cnVlLCJsaXZlcGhvdG9zIjp0cnVlLCJzdGlja3lfYWRzIjp0cnVlfQ==&quot;},&quot;Context&quot;:{&quot;name&quot;:&quot;default&quot;,&quot;time&quot;:1487956963000,&quot;userinfo&quot;:{&quot;primary&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;channels&quot;:[]},&quot;hosts&quot;:{&quot;assets_host&quot;:&quot;http:\/\/assets.tumblr.com&quot;,&quot;secure_assets_host&quot;:&quot;https:\/\/assets.tumblr.com&quot;,&quot;www_host&quot;:&quot;http:\/\/www.tumblr.com&quot;,&quot;secure_www_host&quot;:&quot;https:\/\/www.tumblr.com&quot;,&quot;embed_host&quot;:&quot;https:\/\/embed.tumblr.com&quot;,&quot;safe_host&quot;:&quot;http:\/\/safe.txmblr.com&quot;,&quot;platform_host&quot;:&quot;http:\/\/platform.tumblr.com&quot;},&quot;language&quot;:&quot;en_US&quot;,&quot;language_simple&quot;:&quot;en&quot;,&quot;assets&quot;:&quot;http:\/\/assets.tumblr.com\/client\/prod\/&quot;},&quot;Translations&quot;:{&quot;%1$sReport %2$s&#039;s post?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;:&quot;%1$sReport %2$s&#039;s reblog?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;,&quot;%1$sReport %2$s&#039;s reply?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;:&quot;%1$sReport %2$s&#039;s reblog?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;}}"></noscript><script src="http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=ad09274216a60cd1301afa0a2961e7c8"></script></body>
+<!--
+    This Tumblr Theme and all of its CSS, Javascript,
+    and media assets are subject to Tumblr's Terms of Service:
+
+    http://www.tumblr.com/terms_of_service
+-->
+</html>

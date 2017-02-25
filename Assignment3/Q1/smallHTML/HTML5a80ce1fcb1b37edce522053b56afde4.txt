@@ -1,0 +1,139 @@
+<html class="no-js">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Adv4me</title>
+<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<link href="css/custom.css" rel="stylesheet" type="text/css" media="all"/>
+		        <script src="js/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+
+    </head>
+<body class="shrink_page">
+
+<header>
+<div class="container">
+<div class="col-md-3">
+<div class="utility-inner clearfix">
+<a href="index.html"><img class="logo logo-light" alt="Logo" src="images/logo.png"></a>
+</div>
+</div>
+<input type="hidden" name="link_id" class="link_id" value="493">
+	<input type="hidden" name="getCountry" class="getCountry" value="US">
+  <input type="hidden" name="pop_up_adv_id" class="pop_up_adv_id" value="48">
+  <input type="hidden" name="rand_val" class="rand_val" value="1">
+
+
+<div class="col-md-9">
+<div class="loader_section">
+<h3>Please Wait.. </h3>
+<span id="time">00:15</span>
+</div>
+
+<a target="_blank" data-href="http://bit.ly/1YFoFHd" class="clickable">
+SKIP ADD</a>
+    </div>
+</div>
+</header>
+  <input type="hidden" name="inter_adv_id" class="inter_adv_id" value="51">
+
+<script src='https://www.google.com/recaptcha/api.js'></script>
+		<script src="https://www.youtube.com/iframe_api"></script>
+		<script src="js/jquery.min.js"></script>
+        <script src="js/jquery.plugin.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/jquery.flexslider-min.js"></script>
+        <script src="js/smooth-scroll.min.js"></script>
+        <script src="js/skrollr.min.js"></script>
+        <script src="js/spectragram.min.js"></script>
+        <script src="js/scrollReveal.min.js"></script>
+        <script src="js/ichecker/icheck.js"></script>
+        <script src="js/jquery.form.js"></script>
+        <script src="js/formvalidation/bootstrapValidator.js"></script>
+        <script src="js/formvalidation/v_bootstrap.js"></script>
+        <script src="js/isotope.min.js"></script>
+        <script src="js/toastr.js"></script>
+        <script src="js/Chart.js"></script>
+        <script src="js/twitterFetcher_v10_min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"></script>
+  <script src="http://cdn.oesmith.co.uk/morris-0.4.3.min.js"></script>
+        <script src="js/select2.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment-with-locales.js"></script>
+<script src="//cdn.rawgit.com/Eonasdan/bootstrap-datetimepicker/v4.0.0/src/js/bootstrap-datetimepicker.js"></script>
+		<script type="text/javascript" src="js/tel-input/build/js/intlTelInput.js"></script>
+        <script src="js/jquery.countdown.min.js"></script>
+        <script src="js/bootstrap-filestyle.js"></script>
+				<script src="js/lightGallery.js"></script>
+				<script src="js/lg-video.js"></script>
+				<script src="js/scripts.js"></script>
+				<script src="js/jquery.dlmenu.js"></script>
+        <script src="js/custom.js"></script>
+<script>
+function startTimer(duration, display) {
+    var timer = duration, minutes, seconds;
+    t=setInterval(function () {
+ToalCount(timer,display)
+--timer
+    }, 1000);
+}
+function ToalCount(timer,display){
+       minutes = parseInt(timer / 60, 10)
+        seconds = parseInt(timer % 60, 10);
+
+        minutes = minutes < 10 ? "0" + minutes : minutes;
+        seconds = seconds < 10 ? "0" + seconds : seconds;
+
+        display.text(minutes + ":" + seconds);
+
+        if (--timer < 0) {
+         clearTimeout(t);
+          $('.loader_section').hide()
+          $('.clickable').show()
+        }
+}
+
+    var fiveMinutes = 15,
+        display = $('#time');
+    startTimer(fiveMinutes, display);
+    $('.clickable').click(function(event) {
+		event.preventDefault();
+		href=$(this).data('href');
+        link_id=$('.link_id').val()
+        getCountry=$('.getCountry').val()
+                inter_adv_id=$('.inter_adv_id').val()
+        $.ajax({
+          type: 'post',
+          data: {getCountry:getCountry,inter_adv_id:inter_adv_id,link_id:link_id,type:32},
+          url: 'http://adv4.me/admin/ajax.php',
+          success: function(data) {
+          }
+        })
+        	    pop_up_adv_id=$('.pop_up_adv_id').val()
+	    if(pop_up_adv_id!="") {
+        var params = [
+    'height='+screen.height,
+    'width='+screen.width,
+    'fullscreen=yes' // only works in IE, but here for completeness
+].join(',');
+var popup = window.open('http://bit.ly/2bRCssX', 'popup_window', params);
+popup.moveTo(0,0);
+	    }
+             $.ajax({
+        type: 'post',
+        data: {link_id:link_id,getCountry:getCountry,pop_up_adv_id:pop_up_adv_id,type:22},
+        url: 'http://adv4.me/admin/ajax.php',
+        success: function(data) {
+			window.location=href;
+		}
+				})
+    });
+
+$(document).on('click','.iframe_static',function(){
+		url=$(this).data('url');
+	//	window.location=url;
+	})
+
+
+</script>
+  <iframe class='iframe_static' style='height:100%;border:none' src='http://go.ad2up.com/afu.php?id=632271'></iframe> </body>
+</html>
