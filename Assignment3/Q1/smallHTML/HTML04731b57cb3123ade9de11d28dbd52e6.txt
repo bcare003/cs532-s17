@@ -1,0 +1,2415 @@
+<!doctype html>
+<!--[if IE 8 ]>    <html class="no-js ie8" lang="en"> <![endif]-->
+<!--[if IE 9 ]>    <html class="no-js ie9" lang="en"> <![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en" xmlns:og="http://opengraphprotocol.org/schema/" id="ng-app" ng-app="adage"><!--<![endif]-->
+<head profile="http://a9.com/-/spec/opensearch/1.1/">
+<script>
+	window['optimizely'] = window['optimizely'] || [];
+	if (typeof adageUser != "undefined") {
+		window['optimizely'].push(["customTag", 'membership_tier', adageUser.getUserTier()]);
+	}
+</script>
+
+	<script src="//cdn.optimizely.com/js/925388773.js"></script>
+
+	<meta charset="utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwcHVldXGwYAVFZaAgM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
+
+	<title>Advertising &amp; Marketing Industry News - AdAge</title>
+
+	<meta name="HandheldFriendly" content="True" />
+	<meta name="MobileOptimized" content="320" />
+	<meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0, user-scalable=no" />
+	<meta property="fb:pages" content="194053120879" />
+	<!-- For Windows 8 -->
+	<meta name="application-name" content="Advertising Age"/>
+	<meta name="msapplication-TileColor" content="#000"/>
+	<meta name="msapplication-TileImage" content="assets/ico/win8-120.png"/>
+
+	<!-- For iPad 3 -->
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/ico/apple-touch-icon-144.png" />
+	<!-- For iPhone 4 -->
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/ico/apple-touch-icon-114.png" />
+	<!-- For iPad 1-->
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/ico/apple-touch-icon-72.png" />
+	<!-- For iPhone 3G, iPod Touch and Android -->
+	<link rel="apple-touch-icon-precomposed" href="/assets/ico/apple-touch-icon-57.png" />
+	<!-- For everything else -->
+	<link rel="shortcut icon" href="/assets/ico/favicon.png" />
+	<!--iOS -->
+	<meta name="apple-mobile-web-app-capable" content="no" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+	<!-- Legacy header -->
+	<meta name="apple-itunes-app" content="app-id=590091347, app-argument=https://itunes.apple.com/us/app/advertising-age/id590091347?ls=1&mt=8">
+
+	<meta name="verify-v1" content="TYv0E3iUGGe7DUbwD9sFXzbaDYBKbkjyk34lV8JjLNg=" />
+<meta name="robots" content="index, follow" />
+<meta name="googlebot" content="index, follow" />
+<meta name="distribution" content="global" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="adage_template" content="Index.php" />
+<meta property="fb:admins" content="user_id" />
+<meta property="fb:page_id" content="194053120879" />
+<meta property="og:title" content="Ad Age Homepage - AdAge" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://adage.com/" />
+<meta name="description" content="Ad Age is the leading global source of news, intelligence and conversation for marketing and media communities -- get all the breaking news, right now." />
+	<link rel="canonical" href="http://adage.com/" />
+<link rel="alternate" type="application/rdf+xml" href="http://adage.com/rss-feed?section_id=301&xml=RSS1" title="Advertising Age - Latest News RSS Feed" />
+<link rel="alternate" type="application/atom+xml" href="http://adage.com/rss-feed?section_id=301&xml=ATOM" title="Advertising Age - Latest News RSS Feed" />
+<link rel="alternate" type="application/rss+xml" href="http://adage.com/rss-feed?section_id=301&xml=RSS2" title="Advertising Age - Latest News RSS Feed" />
+
+	<link rel="search" type="application/opensearchdescription+xml" href="/xml/AdAge_OpenSearch.php" title="Advertising Age" />
+	<link href="https://plus.google.com/101792368055128831913/" rel="publisher" />
+
+	<!-- css -->
+<link href="http://gaia.adage.com/assets/css/core.css?1487953446" media="all" rel="stylesheet" type="text/css" />
+<link href="http://gaia.adage.com/assets/css/modal.css?1466703828" media="all" rel="stylesheet" type="text/css" />
+<link href="http://gaia.adage.com/assets/css/ribbon-messenger.css?1466703828" media="all" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="//cloud.typography.com/6355674/758088/css/fonts.css" />
+
+    <!-- ad age global js -->
+	<script type="text/javascript">var cookieDomain = 'adage.com';</script>
+<script type="text/javascript" src="http://gaia.adage.com/assets/js/libs/jquery-1.9.1.min.js?1466703826" use_min="false" ></script>
+<script type="text/javascript" src="http://gaia.adage.com/assets/js/libs/jquery.cookie.js?1466703826" use_min="false" ></script>
+<script type="text/javascript" src="http://gaia.adage.com/assets/js/min/user.js?1487953455" min_src="http://gaia.adage.com/assets/js/min/user.js" use_min="true" ></script>
+<script type="text/javascript" src="http://gaia.adage.com/assets/js/min/redirect.js?1487953455" min_src="http://gaia.adage.com/assets/js/min/redirect.js" use_min="true" ></script>
+<script type="text/javascript" src="http://gaia.adage.com/assets/js/min/init.js?1487953455" min_src="http://gaia.adage.com/assets/js/min/init.js" use_min="true" ></script>
+<script type="text/javascript" src="http://gaia.adage.com/assets/js/min/script.js?1487953455" min_src="http://gaia.adage.com/assets/js/min/script.js" use_min="true" ></script>
+<script type="text/javascript" src="http://gaia.adage.com/assets/js/min/plugins.js?1487953455" min_src="http://gaia.adage.com/assets/js/min/plugins.js" use_min="true" ></script>
+<script type="text/javascript" src="http://gaia.adage.com/assets/js/min/adBlockDetector.js?1487953440" min_src="http://gaia.adage.com/assets/js/min/adBlockDetector.js" use_min="true" ></script>
+<script type="text/javascript" src="http://gaia.adage.com/assets/js/min/adBlockInit.js?1487953440" min_src="http://gaia.adage.com/assets/js/min/adBlockInit.js" use_min="true" ></script>
+<script type="text/javascript" src="http://gaia.adage.com/assets/js/min/ribbon-messenger.js?1487953455" min_src="http://gaia.adage.com/assets/js/min/ribbon-messenger.js" use_min="true" ></script>
+   <script type="text/javascript" src="http://gaia.adage.com/assets/js/min/ribbon-messenger-init.js?1487953455" min_src="http://gaia.adage.com/assets/js/min/ribbon-messenger-init.js" use_min="true" ></script>
+	<!-- brightcove -->
+	<script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
+	<script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/APIModules_all.js"></script>
+<script type="text/javascript" src="http://gaia.adage.com/assets/js/min/modal.js?1487953455" min_src="http://gaia.adage.com/assets/js/min/modal.js" use_min="true" ></script>
+	<!-- sharecount beta -->
+<script type="text/javascript" src="http://gaia.adage.com/assets/js/min/sharecount.js?1487953455" min_src="http://gaia.adage.com/assets/js/min/sharecount.js" use_min="true" ></script>
+
+
+	<!--[if (gte IE 6)&(lte IE 8)]>
+<script type="text/javascript" src="http://gaia.adage.com/assets/js/libs/selectivizr-min.js?1466703826" use_min="false" ></script>
+<script type="text/javascript" src="http://gaia.adage.com/assets/js/ie.js?1466703825" use_min="false" ></script>
+	<![endif]-->
+	<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "16193073" });
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+	<img src="http://b.scorecardresearch.com/p?c1=2&c2=16193073&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19574238-1']);
+  _gaq.push(['_setDomainName', '.adage.com']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_setAllowLinker', true]);
+  
+_gaq.push(['_setCustomVar',
+    1,
+    'BusinessType',
+ '00 - Not Set',
+    1
+ ]);
+      _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+<script type="text/javascript">
+if (typeof adageUser != "undefined" && adageUser.user != null && !$.cookie('sm_dapi_session')) {
+
+    var SMInformation = {
+        "sid": "rtpbel",
+        "email" : adageUser.user.Profile.email
+    };
+
+    head = document.getElementsByTagName('head')[0],
+    js = document.createElement('script');
+    js.type = 'text/javascript';
+    js.async = true;
+    js.src = 'http://data.circulate.com/dapi/collect';
+    head.appendChild(js);
+
+    $.cookie("sm_dapi_session", 1, {expires: 14, path: '/', domain: cookieDomain});
+}
+</script>
+
+	<!-- end ad age global js -->
+
+	<!-- ad age home page specific js -->
+	<script type="text/javascript">var indiaRedirectEnabled = "1";</script>
+	<script src="//js.maxmind.com/js/apis/geoip2/v2.1/geoip2.js" type="text/javascript"></script>
+   <script type="text/javascript" src="http://gaia.adage.com/assets/js/AAIndiaRedirect.js?1466703825" ></script>
+<script type="text/javascript" src="http://gaia.adage.com/assets/js/modal.js?1466703825" ></script>
+
+    <!-- DFP Ad Implementation -->
+   <script type="text/javascript" src="http://gaia.adage.com/assets/js/min/dfp-ads.js?1487953446" min_src="http://gaia.adage.com/assets/js/min/dfp-ads.js" use_min="true" ></script>
+
+    <!-- highcharts -->
+<script type="text/javascript" src="http://gaia.adage.com/assets/hichart/highcharts.js?1466703820" ></script>
+<script type="text/javascript" src="http://gaia.adage.com/assets/hichart/themes/adagetheme.js?1466703820" ></script>
+
+	<!-- other ad age page specific js -->
+	
+
+	<!-- moat -->
+	<script type="text/javascript">(function(){function e(a){var b=a=a.replace(":","");try{for(var c=0;100>c&&(a=decodeURIComponent(a),b!=a)&&!a.match(/^http(s)?\:/);c++)b=a}catch(d){}return a.replace(/(^\s+|\s+$)/g,"")}try{if(!location||!location.hostname||!location.pathname)return!1;var c=document.location.hostname.replace(/^www\./,""),m=function(){for(var a,b=document.getElementsByTagName("meta"),c,d=0,e=b.length;d<e;d++)if(c=b[d],"og:title"===c.getAttribute("property")){a=c.getAttribute("content");break}a||(a=document.title||"Untitled");
+return a}(),b={},b=function(a,b,c){a.l1=b;a.l2=c;a.l3="__page__";a.l4="-";return a}(b,c,m),f=(new Date).getTime(),g=Math.floor(Math.random()*Math.pow(10,12));b.t=f;b.de=g;b.zMoatAB_SNPT=!0;var c=[],h=[e(b.l1),e(b.l2),e(b.l3),e(b.l4)].join(":"),n="https://t9upw6iy34io-a.akamaihd.net/z.gif?e=17&d="+encodeURIComponent(h)+"&de="+g+"&t="+f+"&i=CRAINCONTENT1&cm=1&mp=1&ac=1&pl=1&bq=10&vc=2&cs=0",p="https://px.moatads.com/pixel.gif?e=17&d="+encodeURIComponent(h)+"&de="+g+"&t="+f+"&i=CRAINCONTENT1&cm=1&mp=0&ac=1&pl=1&bq=10&ad_type=img&vc=2&cs=0",
+q="https://px.moatads.com/pixel.gif?e=17&d="+encodeURIComponent(h)+"&de="+g+"&t="+f+"&i=CRAINCONTENT1&cm=1&ku=1&ac=1&pl=1&bq=10&ad_type=img&vc=2&cs=0";(new Image).src=n;(new Image).src=p;for(var k in b)c.push(k+"="+encodeURIComponent(b[k]));var c=c.join("&"),c=c+"&vc=2",d=document.createElement("script");d.type="text/javascript";d.async=!0;d.onerror=function(){(new Image).src=q};var l=document.getElementsByTagName("script")[0];l.parentNode.insertBefore(d,l);d.src="https://z.moatads.com/crain984aZcy41/moatcontent.js#"+
+c}catch(a){try{var r="//pixel.moatads.com/pixel.gif?e=24&d=data%3Adata%3Adata%3Adata&i=MOATCONTENTABSNIPPET1&vc=2&ac=1&k="+encodeURIComponent(a)+"&j="+encodeURIComponent(document.referrer)+"&cs="+(new Date).getTime();(new Image).src=r}catch(t){}}})();</script>
+    <script type="text/javascript" src="//storage.googleapis.com/cdn.pippio.com/sdk/pippio.min.js" async></script>
+
+        <!-- Crazy Egg Heat Map Tracking -->
+        <script type="text/javascript">
+        setTimeout(function(){var a=document.createElement("script");
+        var b=document.getElementsByTagName("script")[0];
+        a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0060/8637.js?"+Math.floor(new Date().getTime()/3600000);
+        a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+        </script>
+	</head>
+	<body data-behavior="refresh">
+
+
+
+<script type="text/javascript">
+//OAS configuration
+OAS_sitepage = 'www.adage.com/ad_age_homepage/';
+OAS_listpos = 'Position1,Position4,x91,x11,x12,x02,x21,x13,x90,x51,x52,x53,x54';
+</script>
+
+
+<script>
+  tp = window.tp || [];
+
+  (function(src)
+    {var a=document.createElement("script"); a.type="text/javascript"; a.async=true; a.src=src; var b=document.getElementsByTagName("script")[0]; b.parentNode.insertBefore(a,b)}
+  )("https://sandbox.tinypass.com/xbuilder/experience/load?aid=4rqMYyzE");
+
+  var setAdblockerCookie = function(adblocker) {
+    var d = new Date();
+    d.setTime(d.getTime() + 60 * 60 * 24 * 30 * 1000);
+    document.cookie = "__adblocker=" + (adblocker ? "true" : "false") + "; expires=" + d.toUTCString() + "; path=/";
+  }
+  var script = document.createElement("script");script.setAttribute("async", true);
+  script.setAttribute("src", "//www.npttech.com/advertising.js");
+  script.setAttribute("onerror", "setAdblockerCookie(true);");
+  script.setAttribute("onload", "setAdblockerCookie(false);");
+  document.getElementsByTagName("head")[0].appendChild(script);
+
+  if (typeof tp != "undefined") {
+    tp.push(['setCustomVariable', 'userID', adageUser.userID]);
+    tp.push(['setCustomVariable', 'userStatus', adageUser.user == null ? 'Anonymous' : 'Registered']);
+    tp.push(['setCustomVariable', 'userMemberTier', adageUser.user == null ? '' : adageUser.user.Membership.tier]);
+    tp.push(['setCustomVariable', 'userMemberTierName', adageUser.user == null ? '' : adageUser.user.Membership.tier_name]);
+    tp.push(['setCustomVariable', 'AA_circStatus', adageUser.user == null  ? '' : adageUser.user.Subscription.AA_circStatus]);
+    tp.push(['setCustomVariable', 'AAZ_circStatus', adageUser.user == null ? '' : adageUser.user.Subscription.AAZ_circStatus]);
+    tp.push(['setCustomVariable', 'AAD_circStatus', adageUser.user == null ? '' : adageUser.user.Subscription.AAD_circStatus]);
+
+
+  }
+
+</script>
+
+<!-- corporate nav bar -->
+<nav id="nav-tertiary" class="hidden-phone hidden-tablet" data-swiftype-index="false">
+    <div class="container">
+        <ul class="pull-left corporate">
+            <li><a href="/" onclick="trackOutboundLink(this, 'Header-Home-Link', 'Homepage', '/'); return false;"
+                   class="active" title="Ad Age">Ad Age</a></li>
+            <li><a href="http://creativity-online.com/"
+                   onclick="trackOutboundLink(this, 'Header-CorpNav', this.innerHTML, this.getAttribute('href')); return false;"
+                   title="Creativity">Creativity</a></li>
+            <li><a href="/lookbook/"
+                   onclick="trackOutboundLink(this, 'Header-CorpNav', this.innerHTML, this.getAttribute('href')); return false"
+                   title="Lookbook">Lookbook</a></li>
+            <li><a href="/datacenter/"
+                   onclick="trackOutboundLink(this, 'Header-CorpNav', this.innerHTML, this.getAttribute('href')); return false"
+                   class="" title="Datacenter">Datacenter</a></li>
+            <li><a href="/resources/"
+                   onclick="trackOutboundLink(this, 'Header-CorpNav', this.innerHTML, this.getAttribute('href')); return false"
+                   class="" title="Resources">Resources</a></li>
+            <li><a href="/events/"
+                   onclick="trackOutboundLink(this, 'Header-CorpNav', this.innerHTML, this.getAttribute('href')); return false"
+                   class="" title="Events">Events</a></li>
+            <li><a href="http://careers.adage.com"
+                   onclick="trackOutboundLink(this, 'Header-CorpNav', this.innerHTML, this.getAttribute('href')); return false"
+                   title="Careers">Careers</a></li>
+
+            <li><a href="/adage-on-campus/"
+                   onclick="trackOutboundLink(this, 'Header-CorpNav', this.innerHTML, this.getAttribute('href')); return false;"
+                   class="" title="On Campus">On Campus</a></li>
+
+        </ul>
+
+        <ul class="pull-right login">
+            <li class="dropdown">
+                <a href="#" title="Follow us">Follow us <i class="icon-dropdown"></i></a>
+                <ul class="dropdown-menu">
+                    <li><a href="http://www.facebook.com/AdAge" target="_blank" title="Follow on Facebook"><i
+                                class="dd-facebook"></i> Follow on Facebook</a></li>
+                    <li><a href="http://twitter.com/adage" target="_blank" title="Follow on Twitter"><i
+                                class="dd-twitter"></i> Follow on Twitter</a></li>
+                    <li><a href="https://plus.google.com/101792368055128831913/?prsrc=3" target="_blank"
+                           title="Follow on Google+"><i class="dd-gplus"></i> Follow on Google+</a></li>
+                    <li><a href="https://www.linkedin.com/company/advertising-age?trk=top_nav_home" target="_blank"
+                           title="Follow on LinkedIn"><i class="dd-linkedin"></i> Follow on LinkedIn</a></li>
+                    <li><a href="http://www.pinterest.com/advertisingage" target="_blank" title="Follow on Pinterest"><i
+                                class="dd-pinterest"></i> Follow on Pinterest</a></li>
+                    <li><a href="http://instagram.com/advertisingage" target="_blank" title="Follow on Instagram"><i
+                                class="dd-instagram"></i> Follow on Instagram</a></li>
+                    <li><a href="https://www.youtube.com/AdAge" target="_blank" title="Follow on YouTube"><i
+                                class="dd-youtube"></i> Follow on YouTube</a></li>
+                    <li><a href="http://adage.tumblr.com" target="_blank" title="Follow on Tumblr"><i
+                                class="dd-tumblr"></i> Follow on Tumblr</a></li>
+                    <li><a href="/help/about-us#social-rss" title="Follow via RSS"><i class="dd-rss"></i> Follow via RSS</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="spacer">|</li>
+            <li class="spacer">&nbsp;</li>
+
+
+            <span id="member-welcome-logged-in" class="pull-right hidden">
+					<li class="logged-in"><a id="adage-register" data-behavior="go_to_profile" href="#"></a>, <span id="membership-level"></span><div style="display:none;" class="filecount"><a id="member-file-count" href="#" data-behavior="tooltip" data-behavior="go_to_member_content" data-position="bottom" title="New member content available." onclick="trackOutboundLink(this, \'Header-Member-Content-Notification\', \'Click\', 1); return false;)"></a></div></li>
+					<li><a id="adage-login" data-behavior="go_to_logout" href="#">Logout</a></li>
+			</span>
+
+<span id="member-welcome-not-logged-in" class="pull-right hidden">
+					<li><a id="adage-login" title="Login using your existing Advertising Age account" data-behavior="go_to_login" href="#">Login</a></li>
+					<li><a href="/membership" onclick="_gaq.push(['_trackEvent', 'Header', 'Become a member']);" class="btn btn-primary" >Become a Member</a></li>
+			</span>
+
+<script type="text/javascript">
+
+    // Set welcome message in header for desktop
+    var logged_in = 0;
+    var loginStatus = (function () {
+        return {
+            loginCheck: function () {
+                if (typeof adageUser != "undefined" && adageUser.userID != null) {
+                    $("#adage-register").text(adageUser.user.Profile.firstName);
+                    $("#membership-level").text(adageUser.user.Membership.tier_name);
+                    if (typeof adageUser.user.memberFileCount != "undefined") {
+                        $("#member-file-count").text(adageUser.user.memberFileCount);
+                        $("#member-file-count").show();
+                    }
+                    $("#member-welcome-logged-in").removeClass('hidden');
+                    logged_in = 1;
+                } else {
+                    $("#member-welcome-not-logged-in").removeClass('hidden');
+                }
+            }
+        };
+    })();
+    loginStatus.loginCheck();
+    
+</script>
+
+
+
+        </ul>
+
+    </div>
+</nav><!-- / #nav-primary -->
+
+<header id="page-header" role="banner"  data-swiftype-index="false">
+    <div class="container header-container search-inactive">
+        <div class="visible-tablet visible-phone">
+                            <h1 class="logo">
+                    <a href="/" onclick="trackOutboundLink(this, 'Logo-Home-Link', 'Homepage', '/'); return false;"
+                       title="Advertising Age">Advertising Age</a>
+                </h1>
+                    </div>
+
+        <nav id="nav-secondary" class="breakout hidden-phone hidden-tablet">
+            <ul>
+                <li>
+                                            <h1 class="logo-condensed">
+                            <a href="/"
+                               onclick="trackOutboundLink(this, 'Logo-Home-Link', 'Homepage', '/'); return false;"
+                               title="Advertising Age">Advertising Age</a>
+                        </h1>
+                                    </li>
+
+                <li>
+	<a href="/channel/marketing/28" class="bottom_menu" onclick="trackOutboundLink(this, 'Main-Menu', 'Marketing', this.getAttribute('href')); return false;" title="Marketing"><span>Marketing</span></a>
+</li>
+<!--
+menu item
+--><li>
+	<a href="/channel/advertising/47" class="bottom_menu" onclick="trackOutboundLink(this, 'Main-Menu', 'Advertising', this.getAttribute('href')); return false;" title="Advertising"><span>Advertising</span></a>
+</li>
+<!--
+menu item
+--><li>
+	<a href="/channel/digital/20" class="bottom_menu" onclick="trackOutboundLink(this, 'Main-Menu', 'Digital', this.getAttribute('href')); return false;" title="Digital"><span>Digital</span></a>
+</li>
+<!--
+menu item
+--><li>
+	<a href="/channel/media/1" class="bottom_menu" onclick="trackOutboundLink(this, 'Main-Menu', 'Media', this.getAttribute('href')); return false;" title="Media"><span>Media</span></a>
+</li>
+<!--
+menu item
+--><li>
+	<a href="/channel/agency/19" class="bottom_menu" onclick="trackOutboundLink(this, 'Main-Menu', 'Agency', this.getAttribute('href')); return false;" title="Agency"><span>Agency</span></a>
+</li>
+<!--
+menu item
+--><li>
+	<a href="/channel/data/42" class="bottom_menu" onclick="trackOutboundLink(this, 'Main-Menu', 'Data', this.getAttribute('href')); return false;" title="Data"><span>Data</span></a>
+</li>
+<!--
+menu item
+--><li>
+	<a href="/section/btob/976" class="bottom_menu" onclick="trackOutboundLink(this, 'Main-Menu', 'BtoB', this.getAttribute('href')); return false;" title="BtoB"><span>BtoB</span></a>
+</li>
+<!--
+menu item
+--><li>
+	<a href="http://adage.com/video/hub/1" class="bottom_menu" onclick="trackOutboundLink(this, 'Main-Menu', 'Video', this.getAttribute('href')); return false;" title="Video"><span>Video</span></a>
+</li>
+<!--
+menu item
+--><li>
+	<a href="/special-reports/superbowl/148" class="bottom_menu" onclick="trackOutboundLink(this, 'Main-Menu', 'Super Bowl', this.getAttribute('href')); return false;" title="Super Bowl"><span>Super Bowl</span></a>
+</li>
+
+                <!-- dynamic search box -->
+                <li class="search">
+                    <a href="#" class="toggle search-label" onclick="_gaq.push(['_trackEvent', 'search', 'toggle']);">
+                        <i class="icon-search-nav-desktop">Search</i>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+        <!-- / #nav-secondary -->
+
+        <a href="#nav-mobile" class="nav-trigger visible-tablet visible-phone"><i class="burger">Menu</i></a>
+
+        <nav id="nav-mobile" class="visible-phone hidden-tablet">
+            <ul class="menu">
+                <li>
+	<a href="/channel/marketing/28" class="bottom_menu" onclick="trackOutboundLink(this, 'Main-Menu', 'Marketing', this.getAttribute('href')); return false;" title="Marketing"><span>Marketing</span></a>
+</li>
+<!--
+menu item
+--><li>
+	<a href="/channel/advertising/47" class="bottom_menu" onclick="trackOutboundLink(this, 'Main-Menu', 'Advertising', this.getAttribute('href')); return false;" title="Advertising"><span>Advertising</span></a>
+</li>
+<!--
+menu item
+--><li>
+	<a href="/channel/digital/20" class="bottom_menu" onclick="trackOutboundLink(this, 'Main-Menu', 'Digital', this.getAttribute('href')); return false;" title="Digital"><span>Digital</span></a>
+</li>
+<!--
+menu item
+--><li>
+	<a href="/channel/media/1" class="bottom_menu" onclick="trackOutboundLink(this, 'Main-Menu', 'Media', this.getAttribute('href')); return false;" title="Media"><span>Media</span></a>
+</li>
+<!--
+menu item
+--><li>
+	<a href="/channel/agency/19" class="bottom_menu" onclick="trackOutboundLink(this, 'Main-Menu', 'Agency', this.getAttribute('href')); return false;" title="Agency"><span>Agency</span></a>
+</li>
+<!--
+menu item
+--><li>
+	<a href="/channel/data/42" class="bottom_menu" onclick="trackOutboundLink(this, 'Main-Menu', 'Data', this.getAttribute('href')); return false;" title="Data"><span>Data</span></a>
+</li>
+<!--
+menu item
+--><li>
+	<a href="/section/btob/976" class="bottom_menu" onclick="trackOutboundLink(this, 'Main-Menu', 'BtoB', this.getAttribute('href')); return false;" title="BtoB"><span>BtoB</span></a>
+</li>
+<!--
+menu item
+--><li>
+	<a href="http://adage.com/video/hub/1" class="bottom_menu" onclick="trackOutboundLink(this, 'Main-Menu', 'Video', this.getAttribute('href')); return false;" title="Video"><span>Video</span></a>
+</li>
+<!--
+menu item
+--><li>
+	<a href="/special-reports/superbowl/148" class="bottom_menu" onclick="trackOutboundLink(this, 'Main-Menu', 'Super Bowl', this.getAttribute('href')); return false;" title="Super Bowl"><span>Super Bowl</span></a>
+</li>
+            </ul>
+
+            <div class="search">
+                <div id="mob-search">
+                    <div class="mobile-search-form-container" data-behavior="closeNavOnSubmit">
+                        <div data-st-search-form="mobile_search_form"></div>
+                    </div>
+                </div>
+                <!-- / #mob-search -->
+            </div>
+
+            			<ul id="member-welcome-logged-in-phone" class="member hidden" >
+				<li class="logged-in"><a id="adage-register-phone" data-behavior="go_to_profile" href="#"></a>, <span id="membership-level-phone"></span></li>
+				<li><a id="adage-login" data-behavior="go_to_logout" href="#">Logout</a></li>
+			</ul>
+			
+			<ul id="member-welcome-not-logged-in-phone" class="member hidden">
+				<li><a class="btn btn-primary become-a-member" href="/membership" onclick="_gaq.push(['_trackEvent', 'Header-mobile', 'Become a member']);">Become a Member <i class="icon-cta-white"></i></a></li>
+				<li><a id="adage-login" class="btn btn-border" data-behavior="go_to_login" href="#" title="Login using your existing Advertising Age account">Login</a></li>
+			</ul>
+
+
+<script type="text/javascript">
+	// Set welcome message in header for mobile devices
+	var loginStatusPhone = (function () {
+		return {
+			loginCheck: function () {
+				if (typeof adageUser != "undefined" && adageUser.userID != null) {
+					$("#adage-register-phone").text(adageUser.user.Profile.firstName);
+					$("#membership-level-phone").text(adageUser.user.Membership.tier_name);
+					$("#member-welcome-logged-in-phone").removeClass('hidden');
+				} else {
+					$("#member-welcome-not-logged-in-phone").removeClass('hidden');
+				}
+			}
+		}
+	})();
+	loginStatusPhone.loginCheck();
+</script>
+
+            <ul class="products">
+                <li class="nav-item-adage">
+                    <a href="/" onclick="trackOutboundLink(this, 'Header-Home-Link', 'Homepage', '/'); return false;"
+                       title="Adage">Adage</a>
+                </li>
+                <li class="nav-item-creativity">
+                    <a href="http://creativity-online.com/"
+                       onclick="trackOutboundLink(this, 'Header-CorpNav', this.innerHTML, this.getAttribute('href')); return false;"
+                       title="Creativity">Creativity</a>
+                </li>
+                <li class="nav-item-lookbook">
+                    <a href="http://adage.com/lookbook//"
+                       onclick="trackOutboundLink(this, 'Header-CorpNav', this.innerHTML, this.getAttribute('href')); return false"
+                       title="Lookbook">Lookbook</a>
+                </li>
+                <li class="nav-item-datacenter">
+                    <a href="/datacenter/"
+                       onclick="trackOutboundLink(this, 'Header-CorpNav', this.innerHTML, this.getAttribute('href')); return false"
+                       title="Datacenter">Datacenter</a>
+                </li>
+                <li class="nav-item-resources">
+                    <a href="/resources/"
+                       onclick="trackOutboundLink(this, 'Header-CorpNav', this.innerHTML, this.getAttribute('href')); return false"
+                       title="Resources">Resources</a>
+                </li>
+                <li class="nav-item-events">
+                    <a href="/events/"
+                       onclick="trackOutboundLink(this, 'Header-CorpNav', this.innerHTML, this.getAttribute('href')); return false"
+                       title="Events">Events</a>
+                </li>
+                <li class="nav-item-careers">
+                    <a href="http://careers.adage.com"
+                       onclick="trackOutboundLink(this, 'Header-CorpNav', this.innerHTML, this.getAttribute('href')); return false"
+                       title="Careers">Careers</a>
+                </li>
+                <li class="nav-item-on-campus">
+                    <a href="/adage-on-campus/"
+                       onclick="trackOutboundLink(this, 'Header-CorpNav', this.innerHTML, this.getAttribute('href')); return false;"
+                       title="On Campus">On Campus</a>
+                </li>
+            </ul>
+
+            <ul class="social">
+                <li><a href="http://www.facebook.com/AdAge"
+                       onclick="trackOutboundLink(this, 'Header-Social-Icons', 'Facebook', this.getAttribute('href')); return false;"
+                       target="_new" title="Facebook"><span class="icon-facebook">Facebook</span></a></li>
+                <li><a href="http://twitter.com/adage"
+                       onclick="trackOutboundLink(this, 'Header-Social-Icons', 'Twitter', this.getAttribute('href')); return false;"
+                       target="_new" title="Twitter"><span class="icon-twitter">Twitter</span></a></li>
+                <li><a href="http://www.linkedin.com/groups?mostPopular=&gid=2754444"
+                       onclick="trackOutboundLink(this, 'Header-Social-Icons', 'LinkedIn', this.getAttribute('href')); return false;"
+                       target="_new" title="LinkedIn"><span class="icon-linkedin">LinkedIn</span></a></li>
+                <li><a href="https://plus.google.com/101792368055128831913/?prsrc=3"
+                       onclick="trackOutboundLink(this, 'Header-Social-Icons', 'Google Plus', this.getAttribute('href')); return false;"
+                       target="_new" title="Google+"><span class="icon-gplus">Google+</span></a></li>
+            </ul>
+            <!-- / .social -->
+
+            <a href="#" class="close icon-close">Close</a>
+
+        </nav>
+        <!-- / #nav-mobile -->
+    </div>
+    <!-- / .container -->
+
+        <!-- Search Form -->
+        <div class="search-form-container">
+            <div class="container">
+                <div data-st-search-form="main_search_form"></div>
+            </div>
+        </div>
+
+        <script type="text/liquid" id="ac_pages">
+            <div class="ac_result">
+                <img src="{{ result.image }}?maxw=70" />
+                <div class="ac_headline">{{ result.headline }}</div>
+                <div class="ac_date">{{ result.published_at | date: "%B %e, %Y" }}</div>
+            </div>
+        </script>
+    </div>
+</header><!-- / #page-header -->
+
+
+
+
+<div class="overlay" data-swiftype-index="false"></div>
+
+
+
+	<!-- floating nav -->
+	<div class="shortcut-bar" data-100="top: -80px;" data-150="top:0;" data-behavior="shortcut_bar" data-swiftype-index="false">
+	<div class="container" data-section-id="301">
+
+
+
+                    <p class="logo">
+                <a href="/" onclick="trackOutboundLink(this, 'Logo-shortcutbar-Link', 'Homepage', '/'); return false;">Advertising Age</a>
+            </p>
+        
+
+
+
+		<nav id="nav-shortcut">
+			<ul class="bar-dropdown">
+				<li id="sections" class="dropdown">
+					<a href="#"><span>Sections</span> <i class="caret"></i></a>
+					<ul>
+						<li>
+	<a href="/channel/marketing/28" class="bottom_menu" onclick="trackOutboundLink(this, 'Main-Menu', 'Marketing', this.getAttribute('href')); return false;" title="Marketing"><span>Marketing</span></a>
+</li>
+<!--
+menu item
+--><li>
+	<a href="/channel/advertising/47" class="bottom_menu" onclick="trackOutboundLink(this, 'Main-Menu', 'Advertising', this.getAttribute('href')); return false;" title="Advertising"><span>Advertising</span></a>
+</li>
+<!--
+menu item
+--><li>
+	<a href="/channel/digital/20" class="bottom_menu" onclick="trackOutboundLink(this, 'Main-Menu', 'Digital', this.getAttribute('href')); return false;" title="Digital"><span>Digital</span></a>
+</li>
+<!--
+menu item
+--><li>
+	<a href="/channel/media/1" class="bottom_menu" onclick="trackOutboundLink(this, 'Main-Menu', 'Media', this.getAttribute('href')); return false;" title="Media"><span>Media</span></a>
+</li>
+<!--
+menu item
+--><li>
+	<a href="/channel/agency/19" class="bottom_menu" onclick="trackOutboundLink(this, 'Main-Menu', 'Agency', this.getAttribute('href')); return false;" title="Agency"><span>Agency</span></a>
+</li>
+<!--
+menu item
+--><li>
+	<a href="/channel/data/42" class="bottom_menu" onclick="trackOutboundLink(this, 'Main-Menu', 'Data', this.getAttribute('href')); return false;" title="Data"><span>Data</span></a>
+</li>
+<!--
+menu item
+--><li>
+	<a href="/section/btob/976" class="bottom_menu" onclick="trackOutboundLink(this, 'Main-Menu', 'BtoB', this.getAttribute('href')); return false;" title="BtoB"><span>BtoB</span></a>
+</li>
+<!--
+menu item
+--><li>
+	<a href="http://adage.com/video/hub/1" class="bottom_menu" onclick="trackOutboundLink(this, 'Main-Menu', 'Video', this.getAttribute('href')); return false;" title="Video"><span>Video</span></a>
+</li>
+<!--
+menu item
+--><li>
+	<a href="/special-reports/superbowl/148" class="bottom_menu" onclick="trackOutboundLink(this, 'Main-Menu', 'Super Bowl', this.getAttribute('href')); return false;" title="Super Bowl"><span>Super Bowl</span></a>
+</li>
+					</ul>
+				</li>
+			</ul>
+			<ul class="mega" data-behavior="mega_menu">
+				<li><a href="#latest"><span>Latest</span> <i class="caret"></i></a></li>
+				<li><a href="#editorpicks"><span>Editor's Picks</span> <i class="caret"></i></a></li>
+				<li><a href="#mostpopular"><span>Most Popular</span> <i class="caret"></i></a></li>
+			</ul>
+		</nav><!-- / #nav-shortcut -->
+		<span id="floating-nav-login">
+			<ul class="tools">
+				<li id="floating-nav-logged-in" class="user" style="display:none">
+					<a href="#" data-behavior="go_to_profile">
+						<i class="icon-user"></i>
+					</a>
+				</li>
+				<li id="floating-nav-not-logged-in" style="display:none" class="login-btn-floating-nav"><a id="adage-login" href="#" data-behavior="go_to_login" title="Login using your existing Advertising Age account">Login</a></li>
+				<li id="floating-nav-not-logged-in" style="display:none"><a href="/membership" >Become a member</i></a></li>
+				<li class="search">
+					<a href="#" class="toggle"><i class="icon-search">Search</i></a>
+
+                    <!-- Search Form -->
+                    <div class="floating-nav-search-form-container">
+                        <div class="container">
+                            <div data-st-search-form="floating_nav_search_form"></div>
+                        </div>
+                    </div>
+				</li>
+			</ul><!-- / .tools -->
+			<div id="shareme-nav" data-url="http://adage.com/" data-text=""
+				 data-title="Advertising Age"></div>
+		</span>
+	</div><!-- / .container -->
+
+	<div id="latest" class="mega-menu">
+		<div class="container">
+			<ul class="viewport fade">
+
+			                <li class="news-img-left">
+                    <div>
+						<a href="http://adage.com/article/cmo-strategy/j-c-penney-closing-140-stores-amid-department-store-slump/308083/" onClick="_gaq.push(['_trackEvent', 'Floater-Latest', 'JC Penney Closing 140 Stores Amid Department-Store Slump', 'http://adage.com/article/cmo-strategy/j-c-penney-closing-140-stores-amid-department-store-slump/308083/']);">
+                            
+                            <div class="trim">
+                            <img src="http://gaia.adage.com/images/bin/image/x-small/JCPenney_Worth_3x2.jpg?1456262756" width="100" height="67" alt="JC Penney Closing 140 Stores Amid Department-Store Slump" title="JC Penney Closing 140 Stores Amid Department-Store Slump" />
+                            </div>
+
+                        </a>
+						<h4><a href="http://adage.com/article/cmo-strategy/j-c-penney-closing-140-stores-amid-department-store-slump/308083/" onClick="_gaq.push(['_trackEvent', 'Floater-Latest', 'JC Penney Closing 140 Stores Amid Department-Store Slump', 'http://adage.com/article/cmo-strategy/j-c-penney-closing-140-stores-amid-department-store-slump/308083/']);">JC Penney Closing 140 Stores Amid Department-Store Slump</a></h4>
+						<p>22 minutes ago</p>
+
+                        <ul class="actions">
+                            <li><a href="http://adage.com/article/cmo-strategy/j-c-penney-closing-140-stores-amid-department-store-slump/308083/" class="share-count">Array<i class="icon icon-forward"></i></a></li>
+                            <li><a href="http://adage.com/article/cmo-strategy/j-c-penney-closing-140-stores-amid-department-store-slump/308083/" onClick="_gaq.push(['_trackEvent', 'Floater-Latest', 'JC Penney Closing 140 Stores Amid Department-Store Slump', 'http://adage.com/article/cmo-strategy/j-c-penney-closing-140-stores-amid-department-store-slump/308083/']);"><i class="icon icon-comment"></i> 0</a></li>
+                        </ul>
+                    </div>
+                </li><!-- / .news-img-left -->
+                <li class="news-img-left">
+                    <div>
+						<a href="http://adage.com/article/special-report-tv-upfront/tv-upfront-digital-newfront-2017-calendar/308052/" onClick="_gaq.push(['_trackEvent', 'Floater-Latest', 'TV Upfront and Digital NewFront 2017 Calendar', 'http://adage.com/article/special-report-tv-upfront/tv-upfront-digital-newfront-2017-calendar/308052/']);">
+                            
+                            <div class="trim">
+                            <img src="http://gaia.adage.com/images/bin/image/x-small/108299_D0199_1.JPG?1487859181" width="100" height="67" alt="TV Upfront and Digital NewFront 2017 Calendar" title="TV Upfront and Digital NewFront 2017 Calendar" />
+                            </div>
+
+                        </a>
+						<h4><a href="http://adage.com/article/special-report-tv-upfront/tv-upfront-digital-newfront-2017-calendar/308052/" onClick="_gaq.push(['_trackEvent', 'Floater-Latest', 'TV Upfront and Digital NewFront 2017 Calendar', 'http://adage.com/article/special-report-tv-upfront/tv-upfront-digital-newfront-2017-calendar/308052/']);">TV Upfront and Digital NewFront 2017 Calendar</a></h4>
+						<p>22 minutes ago</p>
+
+                        <ul class="actions">
+                            <li><a href="http://adage.com/article/special-report-tv-upfront/tv-upfront-digital-newfront-2017-calendar/308052/" class="share-count">Array<i class="icon icon-forward"></i></a></li>
+                            <li><a href="http://adage.com/article/special-report-tv-upfront/tv-upfront-digital-newfront-2017-calendar/308052/" onClick="_gaq.push(['_trackEvent', 'Floater-Latest', 'TV Upfront and Digital NewFront 2017 Calendar', 'http://adage.com/article/special-report-tv-upfront/tv-upfront-digital-newfront-2017-calendar/308052/']);"><i class="icon icon-comment"></i> 0</a></li>
+                        </ul>
+                    </div>
+                </li><!-- / .news-img-left -->
+                <li class="news-img-left">
+                    <div>
+						<a href="http://adage.com/article/digital/baidu-hits-reset-button-cleaning-online-advertising/308081/" onClick="_gaq.push(['_trackEvent', 'Floater-Latest', 'Baidu Hits the Reset Button After Cleaning Up Online Advertising', 'http://adage.com/article/digital/baidu-hits-reset-button-cleaning-online-advertising/308081/']);">
+                            
+                            <div class="trim">
+                            <img src="http://gaia.adage.com/images/bin/image/x-small/baidu3X2.jpg?1453227329" width="100" height="67" alt="Baidu Hits the Reset Button After Cleaning Up Online Advertising" title="Baidu Hits the Reset Button After Cleaning Up Online Advertising" />
+                            </div>
+
+                        </a>
+						<h4><a href="http://adage.com/article/digital/baidu-hits-reset-button-cleaning-online-advertising/308081/" onClick="_gaq.push(['_trackEvent', 'Floater-Latest', 'Baidu Hits the Reset Button After Cleaning Up Online Advertising', 'http://adage.com/article/digital/baidu-hits-reset-button-cleaning-online-advertising/308081/']);">Baidu Hits the Reset Button After Cleaning Up Online Advertising</a></h4>
+						<p>42 minutes ago</p>
+
+                        <ul class="actions">
+                            <li><a href="http://adage.com/article/digital/baidu-hits-reset-button-cleaning-online-advertising/308081/" class="share-count">Array<i class="icon icon-forward"></i></a></li>
+                            <li><a href="http://adage.com/article/digital/baidu-hits-reset-button-cleaning-online-advertising/308081/" onClick="_gaq.push(['_trackEvent', 'Floater-Latest', 'Baidu Hits the Reset Button After Cleaning Up Online Advertising', 'http://adage.com/article/digital/baidu-hits-reset-button-cleaning-online-advertising/308081/']);"><i class="icon icon-comment"></i> 0</a></li>
+                        </ul>
+                    </div>
+                </li><!-- / .news-img-left -->
+                <li class="news-img-left">
+                    <div>
+						<a href="http://adage.com/article/agency-news/lowe-s-brings-starcom-300-million-media-account/308082/" onClick="_gaq.push(['_trackEvent', 'Floater-Latest', 'Lowe\'s Brings on Starcom for $300 Million Media Account', 'http://adage.com/article/agency-news/lowe-s-brings-starcom-300-million-media-account/308082/']);">
+                            
+                            <div class="trim">
+                            <img src="http://gaia.adage.com/images/bin/image/x-small/Jocelyn_Lowes_3x2.jpg?1485193233" width="100" height="67" alt="Lowe's Brings on Starcom for $300 Million Media Account" title="Lowe's Brings on Starcom for $300 Million Media Account" />
+                            </div>
+
+                        </a>
+						<h4><a href="http://adage.com/article/agency-news/lowe-s-brings-starcom-300-million-media-account/308082/" onClick="_gaq.push(['_trackEvent', 'Floater-Latest', 'Lowe\'s Brings on Starcom for $300 Million Media Account', 'http://adage.com/article/agency-news/lowe-s-brings-starcom-300-million-media-account/308082/']);">Lowe's Brings on Starcom for $300 Million Media Account</a></h4>
+						<p>By <a href="http://adage.com/author/lindsay-stein/6851">Lindsay Stein</a> - 2 hours ago</p>
+
+                        <ul class="actions">
+                            <li><a href="http://adage.com/article/agency-news/lowe-s-brings-starcom-300-million-media-account/308082/" class="share-count">Array<i class="icon icon-forward"></i></a></li>
+                            <li><a href="http://adage.com/article/agency-news/lowe-s-brings-starcom-300-million-media-account/308082/" onClick="_gaq.push(['_trackEvent', 'Floater-Latest', 'Lowe\'s Brings on Starcom for $300 Million Media Account', 'http://adage.com/article/agency-news/lowe-s-brings-starcom-300-million-media-account/308082/']);"><i class="icon icon-comment"></i> 0</a></li>
+                        </ul>
+                    </div>
+                </li><!-- / .news-img-left -->
+                <li class="news-img-left">
+                    <div>
+						<a href="http://adage.com/article/media/fox/308080/" onClick="_gaq.push(['_trackEvent', 'Floater-Latest', 'Fox Gets the Party Started With Daytona 500 Marketing Effort', 'http://adage.com/article/media/fox/308080/']);">
+                            
+                            <div class="trim">
+                            <img src="http://gaia.adage.com/images/bin/image/x-small/GordonRamsaysOfficialDaytonaDayMenu_Daytona500onFOX.jpg?1487893578" width="100" height="67" alt="Fox Gets the Party Started With Daytona 500 Marketing Effort" title="Fox Gets the Party Started With Daytona 500 Marketing Effort" />
+                            </div>
+
+                        </a>
+						<h4><a href="http://adage.com/article/media/fox/308080/" onClick="_gaq.push(['_trackEvent', 'Floater-Latest', 'Fox Gets the Party Started With Daytona 500 Marketing Effort', 'http://adage.com/article/media/fox/308080/']);">Fox Gets the Party Started With Daytona 500 Marketing Effort</a></h4>
+						<p>By <a href="http://adage.com/author/anthony-crupi/6509">Anthony Crupi</a> - 4 hours ago</p>
+
+                        <ul class="actions">
+                            <li><a href="http://adage.com/article/media/fox/308080/" class="share-count">Array<i class="icon icon-forward"></i></a></li>
+                            <li><a href="http://adage.com/article/media/fox/308080/" onClick="_gaq.push(['_trackEvent', 'Floater-Latest', 'Fox Gets the Party Started With Daytona 500 Marketing Effort', 'http://adage.com/article/media/fox/308080/']);"><i class="icon icon-comment"></i> 0</a></li>
+                        </ul>
+                    </div>
+                </li><!-- / .news-img-left -->
+
+			</ul><!-- / .viewport -->
+		</div><!-- / .container -->
+		<a href="#" class="close"><i class="icon-close-light"></i></a>
+	</div><!-- / #latest.mega-menu -->
+
+	<div id="editorpicks" class="mega-menu">
+		<div class="container">
+			<ul class="viewport fade">
+				
+			                <li class="news-img-left">
+                    <div>
+						<a href="http://creativity-online.com/work/kids-sing-about-bananas-in-teaser-for-seth-rogens-oscars-spot-for-walmart/51056" onClick="_gaq.push(['_trackEvent', 'Floater-Latest', 'Kids Sing About Bananas in Teaser for Seth Rogen\'s Oscars Spot for Walmart', 'http://creativity-online.com/work/kids-sing-about-bananas-in-teaser-for-seth-rogens-oscars-spot-for-walmart/51056']);">
+                            
+                            <div class="trim">
+                            <img src='http://assets.creativity-online.com/images/work/x-small/w/a/l/Walmart_BananaTowns17.jpg' class=''>
+                            </div>
+
+                        </a>
+						<h4><a href="http://creativity-online.com/work/kids-sing-about-bananas-in-teaser-for-seth-rogens-oscars-spot-for-walmart/51056" onClick="_gaq.push(['_trackEvent', 'Floater-Latest', 'Kids Sing About Bananas in Teaser for Seth Rogen\'s Oscars Spot for Walmart', 'http://creativity-online.com/work/kids-sing-about-bananas-in-teaser-for-seth-rogens-oscars-spot-for-walmart/51056']);">Kids Sing About Bananas in Teaser for Seth Rogen's Oscars Spot for Walmart</a></h4>
+						<p>By Alexandra Jardine - Yesterday</p>
+
+                        <ul class="actions">
+                            
+                            <li><a href="http://creativity-online.com/work/kids-sing-about-bananas-in-teaser-for-seth-rogens-oscars-spot-for-walmart/51056" onClick="_gaq.push(['_trackEvent', 'Floater-Latest', 'Kids Sing About Bananas in Teaser for Seth Rogen\'s Oscars Spot for Walmart', 'http://creativity-online.com/work/kids-sing-about-bananas-in-teaser-for-seth-rogens-oscars-spot-for-walmart/51056']);"><i class="icon icon-comment"></i> 0</a></li>
+                        </ul>
+                    </div>
+                </li><!-- / .news-img-left -->
+                <li class="news-img-left">
+                    <div>
+						<a href="http://adage.com/article/cmo-strategy/j-c-penney-closing-140-stores-amid-department-store-slump/308083/" onClick="_gaq.push(['_trackEvent', 'Floater-Latest', 'JC Penney Closing 140 Stores Amid Department-Store Slump', 'http://adage.com/article/cmo-strategy/j-c-penney-closing-140-stores-amid-department-store-slump/308083/']);">
+                            
+                            <div class="trim">
+                            <img src="http://gaia.adage.com/images/bin/image/x-small/JCPenney_Worth_3x2.jpg?1456262756" width="100" height="67" alt="JC Penney Closing 140 Stores Amid Department-Store Slump" title="JC Penney Closing 140 Stores Amid Department-Store Slump" />
+                            </div>
+
+                        </a>
+						<h4><a href="http://adage.com/article/cmo-strategy/j-c-penney-closing-140-stores-amid-department-store-slump/308083/" onClick="_gaq.push(['_trackEvent', 'Floater-Latest', 'JC Penney Closing 140 Stores Amid Department-Store Slump', 'http://adage.com/article/cmo-strategy/j-c-penney-closing-140-stores-amid-department-store-slump/308083/']);">JC Penney Closing 140 Stores Amid Department-Store Slump</a></h4>
+						<p>22 minutes ago</p>
+
+                        <ul class="actions">
+                            
+                            <li><a href="http://adage.com/article/cmo-strategy/j-c-penney-closing-140-stores-amid-department-store-slump/308083/" onClick="_gaq.push(['_trackEvent', 'Floater-Latest', 'JC Penney Closing 140 Stores Amid Department-Store Slump', 'http://adage.com/article/cmo-strategy/j-c-penney-closing-140-stores-amid-department-store-slump/308083/']);"><i class="icon icon-comment"></i> 0</a></li>
+                        </ul>
+                    </div>
+                </li><!-- / .news-img-left -->
+                <li class="news-img-left">
+                    <div>
+						<a href="http://adage.com/article/viewpoint/open-letter-clients-ad-agency-review-part-2/308050/" onClick="_gaq.push(['_trackEvent', 'Floater-Latest', 'An Open Letter to Clients Considering an Ad Agency Review: Part 2', 'http://adage.com/article/viewpoint/open-letter-clients-ad-agency-review-part-2/308050/']);">
+                            
+                            <div class="trim">
+                            <img src="http://gaia.adage.com/images/bin/image/x-small/cheerios20170222.jpg?1487804216" width="100" height="67" alt="An Open Letter to Clients Considering an Ad Agency Review: Part 2" title="An Open Letter to Clients Considering an Ad Agency Review: Part 2" />
+                            </div>
+
+                        </a>
+						<h4><a href="http://adage.com/article/viewpoint/open-letter-clients-ad-agency-review-part-2/308050/" onClick="_gaq.push(['_trackEvent', 'Floater-Latest', 'An Open Letter to Clients Considering an Ad Agency Review: Part 2', 'http://adage.com/article/viewpoint/open-letter-clients-ad-agency-review-part-2/308050/']);">An Open Letter to Clients Considering an Ad Agency Review: Part 2</a></h4>
+						<p>By <a href="http://adage.com/author/michael-fanuele/7238">Michael Fanuele</a> - 4 hours ago</p>
+
+                        <ul class="actions">
+                            
+                            <li><a href="http://adage.com/article/viewpoint/open-letter-clients-ad-agency-review-part-2/308050/" onClick="_gaq.push(['_trackEvent', 'Floater-Latest', 'An Open Letter to Clients Considering an Ad Agency Review: Part 2', 'http://adage.com/article/viewpoint/open-letter-clients-ad-agency-review-part-2/308050/']);"><i class="icon icon-comment"></i> 0</a></li>
+                        </ul>
+                    </div>
+                </li><!-- / .news-img-left -->
+                <li class="news-img-left">
+                    <div>
+						<a href="http://adage.com/article/cmo-strategy/cadillac-takes-divided-nation-oscars-ad/308079/" onClick="_gaq.push(['_trackEvent', 'Floater-Latest', 'Cadillac Takes on \'Divided Nation\' in Oscars Ad', 'http://adage.com/article/cmo-strategy/cadillac-takes-divided-nation-oscars-ad/308079/']);">
+                            
+                            <div class="trim">
+                            <img src="http://gaia.adage.com/images/bin/image/x-small/Cadillac_Oscar_ad_Carry_3x2.jpg?1487889982" width="100" height="67" alt="Cadillac Takes on 'Divided Nation' in Oscars Ad" title="Cadillac Takes on 'Divided Nation' in Oscars Ad" />
+                            </div>
+
+                        </a>
+						<h4><a href="http://adage.com/article/cmo-strategy/cadillac-takes-divided-nation-oscars-ad/308079/" onClick="_gaq.push(['_trackEvent', 'Floater-Latest', 'Cadillac Takes on \'Divided Nation\' in Oscars Ad', 'http://adage.com/article/cmo-strategy/cadillac-takes-divided-nation-oscars-ad/308079/']);">Cadillac Takes on 'Divided Nation' in Oscars Ad</a></h4>
+						<p>By <a href="http://adage.com/author/ej-schultz/3799">E.J. Schultz</a> - 17 hours ago</p>
+
+                        <ul class="actions">
+                            
+                            <li><a href="http://adage.com/article/cmo-strategy/cadillac-takes-divided-nation-oscars-ad/308079/" onClick="_gaq.push(['_trackEvent', 'Floater-Latest', 'Cadillac Takes on \'Divided Nation\' in Oscars Ad', 'http://adage.com/article/cmo-strategy/cadillac-takes-divided-nation-oscars-ad/308079/']);"><i class="icon icon-comment"></i> 0</a></li>
+                        </ul>
+                    </div>
+                </li><!-- / .news-img-left -->
+                <li class="news-img-left">
+                    <div>
+						<a href="http://adage.com/article/agency-news/lowe-s-brings-starcom-300-million-media-account/308082/" onClick="_gaq.push(['_trackEvent', 'Floater-Latest', 'Lowe\'s Brings on Starcom for $300 Million Media Account', 'http://adage.com/article/agency-news/lowe-s-brings-starcom-300-million-media-account/308082/']);">
+                            
+                            <div class="trim">
+                            <img src="http://gaia.adage.com/images/bin/image/x-small/Jocelyn_Lowes_3x2.jpg?1485193233" width="100" height="67" alt="Lowe's Brings on Starcom for $300 Million Media Account" title="Lowe's Brings on Starcom for $300 Million Media Account" />
+                            </div>
+
+                        </a>
+						<h4><a href="http://adage.com/article/agency-news/lowe-s-brings-starcom-300-million-media-account/308082/" onClick="_gaq.push(['_trackEvent', 'Floater-Latest', 'Lowe\'s Brings on Starcom for $300 Million Media Account', 'http://adage.com/article/agency-news/lowe-s-brings-starcom-300-million-media-account/308082/']);">Lowe's Brings on Starcom for $300 Million Media Account</a></h4>
+						<p>By <a href="http://adage.com/author/lindsay-stein/6851">Lindsay Stein</a> - 2 hours ago</p>
+
+                        <ul class="actions">
+                            
+                            <li><a href="http://adage.com/article/agency-news/lowe-s-brings-starcom-300-million-media-account/308082/" onClick="_gaq.push(['_trackEvent', 'Floater-Latest', 'Lowe\'s Brings on Starcom for $300 Million Media Account', 'http://adage.com/article/agency-news/lowe-s-brings-starcom-300-million-media-account/308082/']);"><i class="icon icon-comment"></i> 0</a></li>
+                        </ul>
+                    </div>
+                </li><!-- / .news-img-left -->
+
+			</ul><!-- / .viewport -->
+		</div><!-- / .container -->
+		<a href="#" class="close"><i class="icon-close-light"></i></a>
+	</div><!-- / #editorpicks.mega-menu -->
+
+	<div id="mostpopular" class="mega-menu">
+		<div class="container">
+
+				<ul class="viewport fade">
+					
+                <li class="news-img-left">
+                    <div>
+                        <a href="http://adage.com/article/agency-news/grey-resigns-coty-business-citing-financial-differences/308054/" onClick="_gaq.push(['_trackEvent', 'Modules-MostPopular', 'Grey Resigns Coty Business, Citing Financial Differences', 'http://adage.com/article/agency-news/grey-resigns-coty-business-citing-financial-differences/308054/']);"><img src="http://gaia.adage.com/images/bin/image/x-small/Katy_Perry_CoverGirl_3x2.jpg?1434480354" width="100" height="67" alt="Grey Resigns Coty Business, Citing Financial Differences" title="Grey Resigns Coty Business, Citing Financial Differences" /></a>
+                        <h4><a href="http://adage.com/article/agency-news/grey-resigns-coty-business-citing-financial-differences/308054/" onClick="_gaq.push(['_trackEvent', 'Modules-MostPopular', 'Grey Resigns Coty Business, Citing Financial Differences', 'http://adage.com/article/agency-news/grey-resigns-coty-business-citing-financial-differences/308054/']);">Grey Resigns Coty Business, Citing Financial Differences</a></h4>
+                        <p>By <a href="http://adage.com/author/jack-neff/58">Jack Neff</a> - 2 days ago</p>
+
+                        <ul class="actions">
+							
+                            <li><a href="http://adage.com/article/agency-news/grey-resigns-coty-business-citing-financial-differences/308054/" onClick="_gaq.push(['_trackEvent', 'Modules-MostPopular', 'Grey Resigns Coty Business, Citing Financial Differences', 'http://adage.com/article/agency-news/grey-resigns-coty-business-citing-financial-differences/308054/']);"><i class="icon icon-comment"></i> 0</a></li>
+                        </ul>
+                    </div>
+                </li><!-- / .news-img-left -->
+                <li class="news-img-left">
+                    <div>
+                        <a href="http://adage.com/article/advertising/truth-hard-york-times-oscars-ad/308069/" onClick="_gaq.push(['_trackEvent', 'Modules-MostPopular', '\'The Truth Is Hard,\' Says The New York Times\' First-Ever Oscars Ad', 'http://adage.com/article/advertising/truth-hard-york-times-oscars-ad/308069/']);"><img src="http://gaia.adage.com/images/bin/image/x-small/The_New_York_Times-_Truth_17.jpg?1487791842" width="100" height="67" alt="'The Truth Is Hard,' Says The New York Times' First-Ever Oscars Ad" title="'The Truth Is Hard,' Says The New York Times' First-Ever Oscars Ad" /></a>
+                        <h4><a href="http://adage.com/article/advertising/truth-hard-york-times-oscars-ad/308069/" onClick="_gaq.push(['_trackEvent', 'Modules-MostPopular', '\'The Truth Is Hard,\' Says The New York Times\' First-Ever Oscars Ad', 'http://adage.com/article/advertising/truth-hard-york-times-oscars-ad/308069/']);">'The Truth Is Hard,' Says The New York Times' First-Ever Oscars Ad</a></h4>
+                        <p>By <a href="http://adage.com/author/annchristine-diaz/329">Ann-Christine Diaz</a> - Yesterday</p>
+
+                        <ul class="actions">
+							
+                            <li><a href="http://adage.com/article/advertising/truth-hard-york-times-oscars-ad/308069/" onClick="_gaq.push(['_trackEvent', 'Modules-MostPopular', '\'The Truth Is Hard,\' Says The New York Times\' First-Ever Oscars Ad', 'http://adage.com/article/advertising/truth-hard-york-times-oscars-ad/308069/']);"><i class="icon icon-comment"></i> 0</a></li>
+                        </ul>
+                    </div>
+                </li><!-- / .news-img-left -->
+                <li class="news-img-left">
+                    <div>
+                        <a href="http://adage.com/article/media/colbert-alternatives-washington-post-slogan/308075/" onClick="_gaq.push(['_trackEvent', 'Modules-MostPopular', 'Colbert Has Some Alternatives to The Washington Post\'s New \'Democracy Dies in Darkness\' Slogan', 'http://adage.com/article/media/colbert-alternatives-washington-post-slogan/308075/']);"><img src="http://gaia.adage.com/images/bin/image/x-small/TheLateShow_Colbert_20170222tweet_3x2.jpg?1487866855" width="100" height="67" alt="Colbert Has Some Alternatives to The Washington Post's New 'Democracy Dies in Darkness' Slogan" title="Colbert Has Some Alternatives to The Washington Post's New 'Democracy Dies in Darkness' Slogan" /></a>
+                        <h4><a href="http://adage.com/article/media/colbert-alternatives-washington-post-slogan/308075/" onClick="_gaq.push(['_trackEvent', 'Modules-MostPopular', 'Colbert Has Some Alternatives to The Washington Post\'s New \'Democracy Dies in Darkness\' Slogan', 'http://adage.com/article/media/colbert-alternatives-washington-post-slogan/308075/']);">Colbert Has Some Alternatives to The Washington Post's New 'Democracy Dies in Darkness' Slogan</a></h4>
+                        <p>By <a href="http://adage.com/author/simon-dumenco/711">Simon Dumenco</a> - 22 hours ago</p>
+
+                        <ul class="actions">
+							
+                            <li><a href="http://adage.com/article/media/colbert-alternatives-washington-post-slogan/308075/" onClick="_gaq.push(['_trackEvent', 'Modules-MostPopular', 'Colbert Has Some Alternatives to The Washington Post\'s New \'Democracy Dies in Darkness\' Slogan', 'http://adage.com/article/media/colbert-alternatives-washington-post-slogan/308075/']);"><i class="icon icon-comment"></i> 0</a></li>
+                        </ul>
+                    </div>
+                </li><!-- / .news-img-left -->
+                <li class="news-img-left">
+                    <div>
+                        <a href="http://adage.com/article/media/cry-laugh-track/308065/" onClick="_gaq.push(['_trackEvent', 'Modules-MostPopular', 'Don\'t Cry for the Laugh Track', 'http://adage.com/article/media/cry-laugh-track/308065/']);"><img src="http://gaia.adage.com/images/bin/image/x-small/big_bang_exam_3x2.jpg?1412093110" width="100" height="67" alt="Don't Cry for the Laugh Track" title="Don't Cry for the Laugh Track" /></a>
+                        <h4><a href="http://adage.com/article/media/cry-laugh-track/308065/" onClick="_gaq.push(['_trackEvent', 'Modules-MostPopular', 'Don\'t Cry for the Laugh Track', 'http://adage.com/article/media/cry-laugh-track/308065/']);">Don't Cry for the Laugh Track</a></h4>
+                        <p>By <a href="http://adage.com/author/anthony-crupi/6509">Anthony Crupi</a> - Yesterday</p>
+
+                        <ul class="actions">
+							
+                            <li><a href="http://adage.com/article/media/cry-laugh-track/308065/" onClick="_gaq.push(['_trackEvent', 'Modules-MostPopular', 'Don\'t Cry for the Laugh Track', 'http://adage.com/article/media/cry-laugh-track/308065/']);"><i class="icon icon-comment"></i> 0</a></li>
+                        </ul>
+                    </div>
+                </li><!-- / .news-img-left -->
+                <li class="news-img-left">
+                    <div>
+                        <a href="http://adage.com/article/digitalnext/digital-transformation-7-brain-busting-steps/308048/" onClick="_gaq.push(['_trackEvent', 'Modules-MostPopular', 'Digital Transformation in 7 Brain-Busting Steps', 'http://adage.com/article/digitalnext/digital-transformation-7-brain-busting-steps/308048/']);"><img src="http://gaia.adage.com/images/bin/image/x-small/abstractdigitalwave_iStock4537604832017.jpg?1487714192" width="100" height="67" alt="Digital Transformation in 7 Brain-Busting Steps" title="Digital Transformation in 7 Brain-Busting Steps" /></a>
+                        <h4><a href="http://adage.com/article/digitalnext/digital-transformation-7-brain-busting-steps/308048/" onClick="_gaq.push(['_trackEvent', 'Modules-MostPopular', 'Digital Transformation in 7 Brain-Busting Steps', 'http://adage.com/article/digitalnext/digital-transformation-7-brain-busting-steps/308048/']);">Digital Transformation in 7 Brain-Busting Steps</a></h4>
+                        <p>By <a href="http://adage.com/author/shelly-palmer/7113">Shelly Palmer</a> - 2 days ago</p>
+
+                        <ul class="actions">
+							
+                            <li><a href="http://adage.com/article/digitalnext/digital-transformation-7-brain-busting-steps/308048/" onClick="_gaq.push(['_trackEvent', 'Modules-MostPopular', 'Digital Transformation in 7 Brain-Busting Steps', 'http://adage.com/article/digitalnext/digital-transformation-7-brain-busting-steps/308048/']);"><i class="icon icon-comment"></i> 0</a></li>
+                        </ul>
+                    </div>
+                </li><!-- / .news-img-left -->
+
+
+				</ul><!-- / .viewport -->
+
+		</div><!-- / .container -->
+		<a href="#" class="close"><i class="icon-close-light"></i></a>
+	</div><!-- / #mostpopular.mega-menu -->
+</div><!-- / .shortcut-bar -->
+
+<script>
+	$(document).ready(function () {
+	    var sharemeNav = $('#shareme-nav');
+
+	    if (sharemeNav.data('text') != '') {
+            sharemeNav.sharrre({
+                share: {
+                    facebook: true,
+                    twitter: true,
+                    linkedin: true,
+                    googlePlus: true
+                },
+                template: '<ul class="full-custom-social-links social-mini tiny" id="socialbar-nav"><li><a href="#" class="toggle" data-target="twitter"><i class="icon-twitter">Twitter</i></a></li><li><a href="#" class="toggle" data-target="facebook"><i class="icon-facebook">Facebook</i></a></li><li><a href="#" data-target="googlePlus" class="toggle"><i class="icon-gplus">Google+</i></a></li><li><a href="#" data-target="linkedin" class="toggle"><i class="icon-linkedin">LinkedIn</i></a></li></ul>',
+                enableHover: false,
+                enableTracking: true,
+                render: function (api, options) {
+                    $(api.element).on('click', 'a', function(e) {
+                        if (typeof $(this).data('target') != 'undefined') {
+                            api.openPopup($(this).data('target'));
+                            e.preventDefault();
+                        } else if ($(this).prop('href').slice(-1) != '#') {
+                            window.location = $(this).prop('href');
+                        }
+                    });
+                }
+            });
+        }
+	});
+
+	var menuButton = $('.full-custom-menu-button');
+	var navMenu = $('#floating-nav-login');
+	var navMenuVisible = true;
+
+	menuButton.on('click', function() {
+		$(this).toggleClass('active');
+		navMenu.toggle();
+	});
+
+	$(window).on('resize', function() {
+		if (! navMenuVisible && ! menuButton.is(':visible')) {
+			navMenuVisible = true;
+			navMenu.show();
+			menuButton.removeClass('active');
+		} else if (navMenuVisible && menuButton.is(':visible')) {
+			navMenuVisible = false;
+			navMenu.hide();
+		}
+	});
+</script>
+    
+
+<div class="overlay active modal-active" id="adblock-overlay" style="display: none"></div>
+
+<div class="modal abs active" id="adblock-modal"  style="display: none">
+	<div class="modal-content adblock-modal-content">
+
+			<div>
+
+				<div class="row intro">
+				    <p>Hey, there.</p>
+					<p>It looks like you're using an ad blocker.</p>
+					<p>The news and features are funded in part by our advertisers. To support Ad Age and the industry we cover please either:</p>
+					<div class="btn-wrap">
+						<a href="/membership" class="btn-primary block-btn">SUBSCRIBE</a>
+						<span>or</span>
+                        <a href="/whitelist" class="btn-primary block-btn">WHITELIST US</a>
+                    </div><!-- / .btn-wrap -->
+                    <div class="adage-tredmark"></div>
+				</div><!-- / .row.intro -->
+
+
+			</div>
+
+	</div><!-- / .modal-content -->
+</div><!-- / .modal -->
+
+	
+
+
+<!-- Homepage, default -->
+<div class="wp-wrapper main">
+    <div id="maxwidth">
+    <!-- Homepage, default -->
+        <section class="oas">
+            <section class="featured home-layout-default ">
+                <div class="container">
+                    <div class="cols-five padded ipad-clear">
+                    
+                        <article class="news-item hero">
+                                                            <a href='http://creativity-online.com/work/kids-sing-about-bananas-in-teaser-for-seth-rogens-oscars-spot-for-walmart/51056'>
+                                                            <figure>
+                                                                            <img src='http://assets.creativity-online.com/images/work/large/w/a/l/Walmart_BananaTowns17.jpg' class='photo'>                                                                        <span class="flag"><img src="http://adage.com/assets/images/creat-logo.png" alt="Creativity"></span>
+                                  
+                                                                   </figure>
+                            </a>
+
+                            
+                            <a title="Kids Sing About Bananas in Teaser for Seth Rogen&#039;s Oscars Spot for Walmart" href="http://creativity-online.com/work/kids-sing-about-bananas-in-teaser-for-seth-rogens-oscars-spot-for-walmart/51056" class="block">
+                                <h2>Kids Sing About Bananas in Teaser for Seth Rogen's Oscars Spot for Walmart</h2>
+                                                            </a>
+                            <p>
+                                                        </p>
+                        </article><!-- / .news-item -->
+                    </div><!-- / .cols-five.padded -->
+
+                    <div class="cols-three padded ipad-clear">
+
+                                        <div class="ipad-sub-col">
+                            <article class="news-item sub-hero ">
+                                                              <figure>
+                                  <a href='http://adage.com/article/cmo-strategy/j-c-penney-closing-140-stores-amid-department-store-slump/308083/'><img src="http://gaia.adage.com/images/bin/image/large/JCPenney_Worth_3x2.jpg?1456262756" width="400" height="267" alt="JC Penney Closing 140 Stores Amid Department-Store Slump" title="JC Penney Closing 140 Stores Amid Department-Store Slump" class="photo" /></a>
+                                                                  </figure>
+                              
+                                
+                                <a title="JC Penney Closing 140 Stores Amid Department-Store Slump" href='http://adage.com/article/cmo-strategy/j-c-penney-closing-140-stores-amid-department-store-slump/308083/' class="block">
+                                    <h4>JC Penney Closing 140 Stores Amid Department-Store Slump</h4>
+                                </a>
+                                <p>
+                                                                </p>
+                            </article><!-- / .news-item -->
+                        </div><!-- / .ipad-sub-col -->
+                                                <div class="ipad-sub-col">
+                            <article class="news-item sub-hero ">
+                                                              <figure>
+                                  <a href='http://adage.com/article/viewpoint/open-letter-clients-ad-agency-review-part-2/308050/'><img src="http://gaia.adage.com/images/bin/image/large/cheerios20170222.jpg?1487804216" width="400" height="267" alt="An Open Letter to Clients Considering an Ad Agency Review: Part 2" title="An Open Letter to Clients Considering an Ad Agency Review: Part 2" class="photo" /></a>
+                                                                  </figure>
+                              
+                                
+                                <a title="An Open Letter to Clients Considering an Ad Agency Review: Part 2" href='http://adage.com/article/viewpoint/open-letter-clients-ad-agency-review-part-2/308050/' class="block">
+                                    <h4>An Open Letter to Clients Considering an Ad Agency Review: Part 2</h4>
+                                </a>
+                                <p>
+                                By <a href="http://adage.com/author/michael-fanuele/7238">Michael Fanuele</a>                                </p>
+                            </article><!-- / .news-item -->
+                        </div><!-- / .ipad-sub-col -->
+                                            </div><!-- / .cols-three.padded -->
+
+                    <div class="cols-four padded ipad-clear cf home-page-ipad-port"> <!-- See notes in grid.scss  -->
+                        <div class="ipad-sub-col">
+                                                            <article class="news-img-left ">
+                                        <a title='TV Upfront and Digital NewFront 2017 Calendar' href='http://adage.com/article/special-report-tv-upfront/tv-upfront-digital-newfront-2017-calendar/308052/'>
+                                            
+                                            <h4>TV Upfront and Digital NewFront 2017 Calendar</h4>
+                                        </a>
+                                    </article><!-- / .news-img-left -->
+                                                                    <article class="news-img-left ">
+                                        <a title='Baidu Hits the Reset Button After Cleaning Up Online Advertising' href='http://adage.com/article/digital/baidu-hits-reset-button-cleaning-online-advertising/308081/'>
+                                            
+                                            <h4>Baidu Hits the Reset Button After Cleaning Up Online Advertising</h4>
+                                        </a>
+                                    </article><!-- / .news-img-left -->
+                                                                    <article class="news-img-left ">
+                                        <a title='Fox Gets the Party Started With Daytona 500 Marketing Effort' href='http://adage.com/article/media/fox/308080/'>
+                                            
+                                            <h4>Fox Gets the Party Started With Daytona 500 Marketing Effort</h4>
+                                        </a>
+                                    </article><!-- / .news-img-left -->
+                                                                    <article class="news-img-left ">
+                                        <a title='Six Strategies for Growing Your Cannabis Brand' href='http://adage.com/article/agency-viewpoint/strategies-growing-appeal-cannabis-brand/308060/'>
+                                            
+                                            <h4>Six Strategies for Growing Your Cannabis Brand</h4>
+                                        </a>
+                                    </article><!-- / .news-img-left -->
+                                                                    <article class="news-img-left ">
+                                        <a title='Puppies! Babies! Love! See the Newest Ads on TV From Subaru, Old Navy and More' href='http://adage.com/article/media/puppies-babies-love-newest-ads-subaru/308078/'>
+                                            
+                                            <h4>Puppies! Babies! Love! See the Newest Ads on TV From Subaru, Old Navy and More</h4>
+                                        </a>
+                                    </article><!-- / .news-img-left -->
+                                                        </div>
+                        <div class="latestnews">
+                            <a href="/latestnews" class="latestnews" onclick="trackOutboundLink(this, 'Homepage', 'Click', 'Latest News Link'); return false;">View all latest news</a>
+                        </div>
+
+                        <div class="ipad-sub-col ad-container">
+                            <div class="ad">
+                                <figure>
+                                    <!-- Rectangle Ad 01 -->
+                                    <div id="REC_01"></div>
+                                </figure>
+                            </div>
+                        </div><!-- / .ipad-sub-col -->
+                    </div><!-- / .cols-four.padded -->
+                </div><!-- / .container -->
+
+                <footer></footer>
+
+            </section><!-- .featured.border-top -->
+      </section><!-- .oas -->
+    </div>
+</div>
+
+
+
+
+<!-- begin More News -->
+<div class="whitewrap">
+	<section class="container module">
+		<ul class="dynamic-grid loading" data-behavior="dynamic_grid">
+	
+									
+							<li class="item stamp">
+								<div id="PCARD_1"></div>							</li>
+
+									
+				
+				
+				<li class="item">
+
+				<article class="home-more-news-item news-item  ">
+					<figure>
+						<a href='http://adage.com/article/cmo-strategy/cadillac-takes-divided-nation-oscars-ad/308079/'><img src="http://gaia.adage.com/images/bin/image/large/Cadillac_Oscar_ad_Carry_3x2.jpg?1487889983" width="400" height="267" alt="Cadillac Takes on 'Divided Nation' in Oscars Ad" title="Cadillac Takes on 'Divided Nation' in Oscars Ad" class="photo" /></a>
+											</figure>
+
+					
+					<a href='http://adage.com/article/cmo-strategy/cadillac-takes-divided-nation-oscars-ad/308079/' class="block more-news-headline">
+						<h3>Cadillac Takes on 'Divided Nation' in Oscars Ad</h3>
+					</a>
+
+					<p>
+	                By <a href="http://adage.com/author/ej-schultz/3799">E.J. Schultz</a>					</p>
+				</article>
+				</li>
+		
+				
+				
+				
+				<li class="item">
+
+				<article class="home-more-news-item news-item  ">
+					<figure>
+						<a href='http://adage.com/article/agency-news/lowe-s-brings-starcom-300-million-media-account/308082/'><img src="http://gaia.adage.com/images/bin/image/large/Jocelyn_Lowes_3x2.jpg?1485193233" width="400" height="267" alt="Lowe's Brings on Starcom for $300 Million Media Account" title="Lowe's Brings on Starcom for $300 Million Media Account" class="photo" /></a>
+											</figure>
+
+					
+					<a href='http://adage.com/article/agency-news/lowe-s-brings-starcom-300-million-media-account/308082/' class="block more-news-headline">
+						<h3>Lowe's Brings on Starcom for $300 Million Media Account</h3>
+					</a>
+
+					<p>
+	                By <a href="http://adage.com/author/lindsay-stein/6851">Lindsay Stein</a>					</p>
+				</article>
+				</li>
+		
+				
+				
+						<li class="item stamp stamp-ad">
+							<div class="ad">
+								<figure>
+                                    <!-- Rectangle Ad 02 -->
+                                    <div id="REC_02"></div>
+								</figure>
+							</div>
+						</li>
+				
+				
+				<li class="item">
+
+				<article class="home-more-news-item news-item  ">
+					<figure>
+						<a href='http://adage.com/article/digital/methbot-ad-fraud-exaggerated/308064/'><img src="http://gaia.adage.com/images/bin/image/large/WhiteOpslogo_3X2.jpg?1487866231" width="400" height="267" alt="Was Methbot's Financial Impact Grossly Exaggerated?" title="Was Methbot's Financial Impact Grossly Exaggerated?" class="photo" /></a>
+											</figure>
+
+					
+					<a href='http://adage.com/article/digital/methbot-ad-fraud-exaggerated/308064/' class="block more-news-headline">
+						<h3>Was Methbot's Financial Impact Grossly Exaggerated?</h3>
+					</a>
+
+					<p>
+	                By <a href="http://adage.com/author/george-slefo/6756">George Slefo</a>					</p>
+				</article>
+				</li>
+		
+				
+				
+				
+				<li class="item">
+
+				<article class="home-more-news-item news-item  ">
+					<figure>
+						<a href='http://adage.com/article/cmo-strategy/study-cpg-spends-digital-traditional-advertising-combined/308077/'><img src="http://gaia.adage.com/images/bin/image/large/CPG_Digital_Growth.jpg?1487873452" width="400" height="266" alt="CPG Plows Money Into Digital Ads, but Shoppers Doubt They Work" title="CPG Plows Money Into Digital Ads, but Shoppers Doubt They Work" class="photo" /></a>
+											</figure>
+
+					
+					<a href='http://adage.com/article/cmo-strategy/study-cpg-spends-digital-traditional-advertising-combined/308077/' class="block more-news-headline">
+						<h3>CPG Plows Money Into Digital Ads, but Shoppers Doubt They Work</h3>
+					</a>
+
+					<p>
+	                By <a href="http://adage.com/author/jack-neff/58">Jack Neff</a>					</p>
+				</article>
+				</li>
+		
+				
+				
+				
+				<li class="item">
+
+				<article class="home-more-news-item news-item  ">
+					<figure>
+						<a href='http://adage.com/article/digital/facebook-s-commercial-breaks-ready-primetime/308074/'><img src="http://gaia.adage.com/images/bin/image/large/live2016082432_1487868179.jpg?1487868180" width="400" height="267" alt="Facebook's Commercial Breaks Are Ready for Primetime" title="Facebook's Commercial Breaks Are Ready for Primetime" class="photo" /></a>
+											</figure>
+
+					
+					<a href='http://adage.com/article/digital/facebook-s-commercial-breaks-ready-primetime/308074/' class="block more-news-headline">
+						<h3>Facebook's Commercial Breaks Are Ready for Primetime</h3>
+					</a>
+
+					<p>
+	                By <a href="http://adage.com/author/garett-sloane/7062">Garett Sloane</a>					</p>
+				</article>
+				</li>
+		
+				
+				
+				
+				<li class="item">
+
+				<article class="home-more-news-item news-item  ">
+					<figure>
+						<a href='http://adage.com/article/advertising/truth-hard-york-times-oscars-ad/308069/'><img src="http://gaia.adage.com/images/bin/image/large/The_New_York_Times-_Truth_17.jpg?1487791842" width="400" height="267" alt="'The Truth Is Hard,' Says The New York Times' First Oscars Ad" title="'The Truth Is Hard,' Says The New York Times' First Oscars Ad" class="photo" /></a>
+											</figure>
+
+					
+					<a href='http://adage.com/article/advertising/truth-hard-york-times-oscars-ad/308069/' class="block more-news-headline">
+						<h3>'The Truth Is Hard,' Says The New York Times' First Oscars Ad</h3>
+					</a>
+
+					<p>
+	                By <a href="http://adage.com/author/annchristine-diaz/329">Ann-Christine Diaz</a>					</p>
+				</article>
+				</li>
+		
+				
+				
+				
+				<li class="item">
+
+				<article class="home-more-news-item news-item  ">
+					<figure>
+						<a href='http://adage.com/article/cmo-strategy/hyatt-air-spot-oscars-makes-social-statement/308067/'><img src="http://gaia.adage.com/images/bin/image/large/Hyatt_3x2.png?1487799368" width="400" height="267" alt="Hyatt Makes Social Statement in First-Ever Oscars Campaign" title="Hyatt Makes Social Statement in First-Ever Oscars Campaign" class="photo" /></a>
+											</figure>
+
+					
+					<a href='http://adage.com/article/cmo-strategy/hyatt-air-spot-oscars-makes-social-statement/308067/' class="block more-news-headline">
+						<h3>Hyatt Makes Social Statement in First-Ever Oscars Campaign</h3>
+					</a>
+
+					<p>
+	                By <a href="http://adage.com/author/adrianne-pasquarelli/6643">Adrianne Pasquarelli</a>					</p>
+				</article>
+				</li>
+		
+				
+				
+				
+				<li class="item">
+
+				<article class="home-more-news-item news-item  ">
+					<figure>
+						<a href='http://adage.com/article/digitalnext/digital-transformation-7-brain-busting-steps/308048/'><img src="http://gaia.adage.com/images/bin/image/large/abstractdigitalwave_iStock4537604832017.jpg?1487714193" width="400" height="267" alt="Digital Transformation in 7 Brain-Busting Steps" title="Digital Transformation in 7 Brain-Busting Steps" class="photo" /></a>
+											</figure>
+
+					
+					<a href='http://adage.com/article/digitalnext/digital-transformation-7-brain-busting-steps/308048/' class="block more-news-headline">
+						<h3>Digital Transformation in 7 Brain-Busting Steps</h3>
+					</a>
+
+					<p>
+	                By <a href="http://adage.com/author/shelly-palmer/7113">Shelly Palmer</a>					</p>
+				</article>
+				</li>
+		
+				
+				
+				
+				<li class="item">
+
+				<article class="home-more-news-item news-item  ">
+					<figure>
+						<a href='http://adage.com/article/media/cry-laugh-track/308065/'><img src="http://gaia.adage.com/images/bin/image/large/big_bang_exam_3x2.jpg?1412093110" width="400" height="266" alt="Don't Cry for the Laugh Track" title="Don't Cry for the Laugh Track" class="photo" /></a>
+											</figure>
+
+					
+					<a href='http://adage.com/article/media/cry-laugh-track/308065/' class="block more-news-headline">
+						<h3>Don't Cry for the Laugh Track</h3>
+					</a>
+
+					<p>
+	                By <a href="http://adage.com/author/anthony-crupi/6509">Anthony Crupi</a>					</p>
+				</article>
+				</li>
+		
+				
+				
+				
+				<li class="item">
+
+				<article class="home-more-news-item news-item  ">
+					<figure>
+						<a href='http://adage.com/article/cmo-strategy/toy-brands-break-gender-barriers-year-s-toy-fair/308049/'><img src="http://gaia.adage.com/images/bin/image/large/Boy_Story_3x2.png?1487712127" width="400" height="267" alt="Toy Brands Break Gender Barriers at This Year's Toy Fair" title="Toy Brands Break Gender Barriers at This Year's Toy Fair" class="photo" /></a>
+											</figure>
+
+					
+					<a href='http://adage.com/article/cmo-strategy/toy-brands-break-gender-barriers-year-s-toy-fair/308049/' class="block more-news-headline">
+						<h3>Toy Brands Break Gender Barriers at This Year's Toy Fair</h3>
+					</a>
+
+					<p>
+	                By <a href="http://adage.com/author/adrianne-pasquarelli/6643">Adrianne Pasquarelli</a>					</p>
+				</article>
+				</li>
+		
+				
+				
+				
+				<li class="item">
+
+				<article class="home-more-news-item news-item  ">
+					<figure>
+						<a href='http://adage.com/article/agency-news/grey-resigns-coty-business-citing-financial-differences/308054/'><img src="http://gaia.adage.com/images/bin/image/large/Katy_Perry_CoverGirl_3x2.jpg?1434480354" width="400" height="266" alt="Grey Resigns Coty Business, Citing Financial Differences" title="Grey Resigns Coty Business, Citing Financial Differences" class="photo" /></a>
+											</figure>
+
+					
+					<a href='http://adage.com/article/agency-news/grey-resigns-coty-business-citing-financial-differences/308054/' class="block more-news-headline">
+						<h3>Grey Resigns Coty Business, Citing Financial Differences</h3>
+					</a>
+
+					<p>
+	                By <a href="http://adage.com/author/jack-neff/58">Jack Neff</a>					</p>
+				</article>
+				</li>
+		
+				
+				
+				
+						<li class="item">
+							<div class="ad">
+								<figure>
+                                    <!-- Rectangular Ad 03 -->
+									<div id="REC_03"></div>
+								</figure>
+							</div>
+						</li>
+				
+				<li class="item">
+
+				<article class="home-more-news-item news-item  ">
+					<figure>
+						<a href='http://adage.com/article/print-edition/annoying-disgusting-effective-pharma-tv-character-actors/308046/'><img src="http://gaia.adage.com/images/bin/image/large/0220_CT_Viberzi_thebigmeeting_3x2.jpg?1487375744" width="400" height="267" alt="Annoying, Disgusting, Effective: Pharma TV Character Actors Embrace Quirkiness at Every Turn" title="Annoying, Disgusting, Effective: Pharma TV Character Actors Embrace Quirkiness at Every Turn" class="photo" /></a>
+											</figure>
+
+					
+					<a href='http://adage.com/article/print-edition/annoying-disgusting-effective-pharma-tv-character-actors/308046/' class="block more-news-headline">
+						<h3>Annoying, Disgusting, Effective: Pharma TV Character Actors Embrace Quirkiness at Every Turn</h3>
+					</a>
+
+					<p>
+	                By <a href="http://adage.com/author/beth-snyder-bulik/195">Beth Snyder Bulik</a>					</p>
+				</article>
+				</li>
+		
+		</ul>
+	</section>
+</div><!-- end whitewrap -->
+
+
+
+
+
+<div class="whitewrap">
+		
+<section class="container module special-report">
+
+	<header>
+		<h2>
+			<a href="http://adage.com/special-reports/superbowl/148">
+				Special Report: Super Bowl
+			</a>
+		</h2>
+
+		<div class="sponsor">
+    <!-- Logo 01 Ad -->
+    <div id="LOGO_01"></div>
+</div>
+
+	</header>
+
+	<div class="cf">
+		<div class="cols-four">
+	<article class="news-item hero">
+
+		<a href="http://adage.com/article/special-report-super-bowl/ads-super-bowl-li-a-z/307736/" class="block">
+			<figure>
+				<img src="http://gaia.adage.com/images/bin/image/medium/Screen_Shot_20170205_at_9.22.46_PM.jpg"  alt="See All the Ads From Super Bowl LI, Best to Worst, A to Z" />
+			</figure>
+			<h3>See All the Ads From Super Bowl LI, Best to Worst, A to Z</h3>
+		</a>
+		<p></p>
+		<ul class="actions">
+			
+			
+		</ul>
+	</article>
+</div>
+<div class="cols-four divkm">			
+		
+				<article class="news-img-left">
+				<a href="http://adage.com/article/special-report-super-bowl/super-bowl-ad-review/307853/">
+					<div class="img-container">
+						<img src="http://gaia.adage.com/images/bin/image/xx-small/hair20170205.jpg"  alt="Super Bowl LI Ad Review: Facing a Big Moment, Enough Marketers Find Their Footing" />
+					</div>
+					<h4>Super Bowl LI Ad Review: Facing a Big Moment, Enough Marketers Find Their Footing</h4>
+				</a>
+			</article>
+
+
+
+			
+		
+				<article class="news-img-left">
+				<a href="http://adage.com/article/video/anatomy-ad-stain/307860/">
+					<div class="img-container">
+						<img src="http://gaia.adage.com/images/bin/image/xx-small/AOAA_TIDE_3x2.jpg"  alt="Anatomy of an Ad: Tide's Super Bowl Stain" />
+					</div>
+					<h4>Anatomy of an Ad: Tide's Super Bowl Stain</h4>
+				</a>
+			</article>
+
+
+
+			
+		
+				<article class="news-img-left">
+				<a href="http://adage.com/article/print-edition/live/307854/">
+					<div class="img-container">
+						<img src="http://gaia.adage.com/images/bin/image/xx-small/TideSuperBowlCouch_3x2.jpg"  alt="The Live Bowl (and How It's Changing the TV Landscape)" />
+					</div>
+					<h4>The Live Bowl (and How It's Changing the TV Landscape)</h4>
+				</a>
+			</article>
+
+
+
+			
+		
+				<article class="news-img-left">
+				<a href="http://adage.com/article/special-report-super-bowl/super-bowl-li-complete-ad-chart/306339/">
+					<div class="img-container">
+						<img src="http://gaia.adage.com/images/bin/image/xx-small/_Mr_Clean-_Cleaner_of_Your_Dreams_17.jpg"  alt="Super Bowl LI Complete Ad Chart" />
+					</div>
+					<h4>Super Bowl LI Complete Ad Chart</h4>
+				</a>
+			</article>
+
+
+
+</div>
+
+
+		<div class="cols-four hidden-tablet"> <!-- OAS/product placeholder -->
+			<div id="PCARD_2"></div>		</div><!-- / .cols-four.hidden-tablet -->
+
+
+	</div><!-- / .cf -->
+
+	<footer>
+		<a href="http://adage.com/special-reports/superbowl/148">See More Special Report: Super Bowl Headlines </a>
+	</footer>
+
+</section>
+
+
+
+
+
+</div>
+<div class="whitewrap">
+
+<div class="wp-wrapper para">
+<div id="maxwidth">
+
+<section>
+	<div class="advert banner">
+		<div class="ad">
+            <!-- Leaderboard Ad 02 -->
+            <div id="LB_02" class="article-ad"></div>
+		</div>
+	</div>
+</section>
+
+</div>
+</div>
+
+
+
+ 
+
+<section class="container module most-popular">
+	<div class="cols-eight">
+		<header>
+			<h2>Most Popular</h2>
+			
+
+		</header>
+		<div>
+			<article class="num-item">
+	<span class="i">1</span>
+	<h4><a href="http://adage.com/article/agency-news/grey-resigns-coty-business-citing-financial-differences/308054/" onClick="trackOutboundLink(this, 'Most Popular on Homepage', 'Grey Resigns Coty Business, Citing Financial Differences', 'http://adage.com/article/agency-news/grey-resigns-coty-business-citing-financial-differences/308054/'); return false;" title="Grey Resigns Coty Business, Citing Financial Differences">Grey Resigns Coty Business, Citing Financial Differences</a></h4>
+	<p>By <a href="http://adage.com/author/jack-neff/58">Jack Neff</a> - 2 days ago</p>
+</article>
+<article class="num-item">
+	<span class="i">2</span>
+	<h4><a href="http://adage.com/article/advertising/truth-hard-york-times-oscars-ad/308069/" onClick="trackOutboundLink(this, 'Most Popular on Homepage', '\'The Truth Is Hard,\' Says The New York Times\' First-Ever Oscars Ad', 'http://adage.com/article/advertising/truth-hard-york-times-oscars-ad/308069/'); return false;" title="'The Truth Is Hard,' Says The New York Times' First-Ever Oscars Ad">'The Truth Is Hard,' Says The New York Times' First-Ever Oscars Ad</a></h4>
+	<p>By <a href="http://adage.com/author/annchristine-diaz/329">Ann-Christine Diaz</a> - Yesterday</p>
+</article>
+<article class="num-item">
+	<span class="i">3</span>
+	<h4><a href="http://adage.com/article/media/colbert-alternatives-washington-post-slogan/308075/" onClick="trackOutboundLink(this, 'Most Popular on Homepage', 'Colbert Has Some Alternatives to The Washington Post\'s New \'Democracy Dies in Darkness\' Slogan', 'http://adage.com/article/media/colbert-alternatives-washington-post-slogan/308075/'); return false;" title="Colbert Has Some Alternatives to The Washington Post's New 'Democracy Dies in Darkness' Slogan">Colbert Has Some Alternatives to The Washington Post's New 'Democracy Dies in Darkness' Slogan</a></h4>
+	<p>By <a href="http://adage.com/author/simon-dumenco/711">Simon Dumenco</a> - 22 hours ago</p>
+</article>
+<article class="num-item">
+	<span class="i">4</span>
+	<h4><a href="http://adage.com/article/media/cry-laugh-track/308065/" onClick="trackOutboundLink(this, 'Most Popular on Homepage', 'Don\'t Cry for the Laugh Track', 'http://adage.com/article/media/cry-laugh-track/308065/'); return false;" title="Don't Cry for the Laugh Track">Don't Cry for the Laugh Track</a></h4>
+	<p>By <a href="http://adage.com/author/anthony-crupi/6509">Anthony Crupi</a> - Yesterday</p>
+</article>
+<article class="num-item">
+	<span class="i">5</span>
+	<h4><a href="http://adage.com/article/digitalnext/digital-transformation-7-brain-busting-steps/308048/" onClick="trackOutboundLink(this, 'Most Popular on Homepage', 'Digital Transformation in 7 Brain-Busting Steps', 'http://adage.com/article/digitalnext/digital-transformation-7-brain-busting-steps/308048/'); return false;" title="Digital Transformation in 7 Brain-Busting Steps">Digital Transformation in 7 Brain-Busting Steps</a></h4>
+	<p>By <a href="http://adage.com/author/shelly-palmer/7113">Shelly Palmer</a> - 2 days ago</p>
+</article>
+<article class="num-item">
+	<span class="i">6</span>
+	<h4><a href="http://adage.com/article/cmo-strategy/hyatt-air-spot-oscars-makes-social-statement/308067/" onClick="trackOutboundLink(this, 'Most Popular on Homepage', 'Hyatt Makes Social Statement in First-Ever Oscars Campaign', 'http://adage.com/article/cmo-strategy/hyatt-air-spot-oscars-makes-social-statement/308067/'); return false;" title="Hyatt Makes Social Statement in First-Ever Oscars Campaign">Hyatt Makes Social Statement in First-Ever Oscars Campaign</a></h4>
+	<p>By <a href="http://adage.com/author/adrianne-pasquarelli/6643">Adrianne Pasquarelli</a> - Yesterday</p>
+</article>
+
+		</div>
+	</div><!-- / .cols-eight -->
+
+	<div class="cols-four">
+		<div class="ad">
+            <!-- Rectangular Leaderboard Ad 01 -->
+			<div id="REC_LB_01" class="article-ad"></div>
+		</div>
+	</div><!-- / .cols-four -->
+</section>
+
+</div>
+<div class="wp-wrapper creativity">
+    <div id="maxwidth">
+
+
+        <section class="featured module creativity-spotlight">
+            <header>
+                <h2 class="creativity_logo">Creativity</h2>
+            </header>
+
+            <div class="slideshow hero">
+                <div class="flexslider loading" data-behavior="slideshow_hero">
+                    <ul class="slides">
+
+                                                    <li>
+                                                                    <a href="http://creativity-online.com/work/shutterstock-oscar-films-reinterpreted-as-pop-art/51066"
+                                       class="block">
+                                                                                <figure class="img-wrap">
+
+                                            <img src="http://assets.creativity-online.com/images/work/x-large/s/h/u/Shutterstock_OscarFilmsReinterpretedasPopArt17.jpg" alt="" />                                                                                    </figure>
+
+                                                                                <span class="flex-caption">See Posters of Oscar-Nominated Films Reinterpreted As Pop Art</span>
+                                    </a>
+                            </li>
+                                                    <li>
+                                                                <a href="http://creativity-online.com/work/20th-century-fox-prologue-last-supper/51071"
+                                   class="block" data-behavior="video_trigger"
+                                   data-vid="5334372342001"
+                                   data-pid="701707908001">
+                                                                            <figure class="img-wrap">
+
+                                            <img src="http://assets.creativity-online.com/images/work/x-large/a/l/i/AlienCovenant_PrologueLastSupper17.jpg" alt="" />                                            
+                                                <span class="icon-vid-play-large"></span>
+                                                                                    </figure>
+
+                                                                                <span class="flex-caption">'Alien' Fans Have Something to Chew On With This Prologue to Ridley Scott's 'Covenant'</span>
+                                    </a>
+                            </li>
+                                                    <li>
+                                                                    <a href="http://creativity-online.com/work/the-washington-post-democracy-dies-in-darkness/51065"
+                                       class="block">
+                                                                                <figure class="img-wrap">
+
+                                            <img src="http://assets.creativity-online.com/images/work/x-large/t/h/e/TheWashingtonPost_DemocracyDiesinDarkness17.jpg" alt="" />                                                                                    </figure>
+
+                                                                                <span class="flex-caption">The Washington Post Places a Dark Slogan Underneath Its Logo</span>
+                                    </a>
+                            </li>
+                        
+                    </ul>
+                </div><!-- / .flexslider -->
+                <div class="slideshow-caption">
+                    <div>
+                        <h3>Picks of the day</h3>
+
+                        <div class="controls"></div>
+                    </div>
+                    <h2 id="cap"></h2>
+                </div>
+            </div><!-- / .slideshow.hero -->
+
+            
+                <div class="container">
+                    <h3 class="area-title">What's New</h3>
+
+                    <div class="cf">
+                                                    <article class="cols-three news-item m-simple">
+
+                                <a href="http://creativity-online.com/work/volvo-turns-its-xc90-excellence-model-into-a-roving-restaurant-in-tokyo/51072" class="block">
+                                    <figure>
+                                        <img src="http://assets.creativity-online.com/images/work/medium/v/o/l/VolvoUber_AllstarRestaurant17.jpg" alt="" />                                    </figure>
+                                </a>
+
+                                <h4 class="t"><a
+                                        href="http://creativity-online.com/work/volvo-turns-its-xc90-excellence-model-into-a-roving-restaurant-in-tokyo/51072">Volvo Turns Its XC90 Excellence Model Into a Roving Restaurant in Tokyo</a>
+                                </h4>
+
+                                <p>
+                                    <a href="http://creativity-online.com/credits/dentsu/419/2">Dentsu</a>
+                                </p>
+                                                            </article><!-- / .cols-three.news-item -->
+                        
+
+                        
+                            <article class="cols-three news-item m-simple">
+
+                                <a href="http://creativity-online.com/work/cadillac-takes-on-divided-nation-in-oscars-ad/51075" class="block">
+                                    <figure>
+                                        <img src="http://assets.creativity-online.com/images/work/medium/c/a/d/Cadillac_Carry17.jpg" alt="" />                                    </figure>
+                                </a>
+
+                                <h4 class="t"><a
+                                        href="http://creativity-online.com/work/cadillac-takes-on-divided-nation-in-oscars-ad/51075">Cadillac Takes on 'Divided Nation' in Oscars Ad</a>
+                                </h4>
+
+                                <p>
+                                    <a href="http://creativity-online.com/credits/publicis/911/2">Publicis</a>
+                                </p>
+                                                            </article><!-- / .cols-three.news-item -->
+                        
+                                                    <article class="cols-three news-item m-simple">
+
+                                <a href="http://creativity-online.com/work/lancome-celebrates-female-high-achievers-of-every-skin-color-in-uk-campaign/51059" class="block">
+
+                                    <figure>
+                                        <img src="http://assets.creativity-online.com/images/work/medium/l/a/n/Lancome_MyShadeMyPower17.jpg" alt="" />                                    </figure>
+                                </a>
+                                <h4 class="t"><a
+                                        href="http://creativity-online.com/work/lancome-celebrates-female-high-achievers-of-every-skin-color-in-uk-campaign/51059">Lancome Celebrates Female High Achievers of Every Skin Color in U.K. Campaign</a>
+                                </h4>
+
+                                <p>
+                                    <a href="http://creativity-online.com/credits/the-brooklyn-brothers/2185/2">The Brooklyn Brothers</a>
+                                </p>
+
+                                                            </article><!-- / .cols-three.news-item -->
+                        
+
+
+
+                        
+                            <article class="cols-three news-item m-simple">
+
+                                <a href="http://creativity-online.com/work/hyatt-makes-social-statement-in-firstever-oscars-campaign/51070" class="block">
+                                    <figure>
+                                        <img src="http://assets.creativity-online.com/images/work/medium/h/y/a/Hyatt_ForaWorldofUnderstanding17.jpg" alt="" />                                    </figure>
+                                </a>
+
+                                <h4 class="t"><a
+                                        href="http://creativity-online.com/work/hyatt-makes-social-statement-in-firstever-oscars-campaign/51070">Hyatt Makes Social Statement in First-Ever Oscars Campaign</a>
+                                </h4>
+
+                                <p>
+                                    <a href="http://creativity-online.com/credits/mullenlowe/5126/2">MullenLowe</a>
+                                </p>
+                                                            </article><!-- / .cols-three.news-item -->
+                        
+
+                    </div>
+                    <footer>
+                        <a href="http://creativity-online.com">See More New Creative Work</a>
+                    </footer>
+                </div>
+            
+        </section><!-- / .featured.module.creativity-spotlight -->
+
+
+    </div>
+</div>
+
+
+<div class="wp-wrapper mod">
+<div id="maxwidth">
+
+<section class="feature-colored newsletter">
+    <div class="container">
+        <header>
+            <h3>The Ad Age Daily Newsletter</h3>
+        </header>
+
+        <p>Get highlights of the most important daily news delivered to your e-mail inbox. <a href="https://home.adage.com/clickshare/changeServicesAdd.do?CSActivate=true">View all Newsletters</a></p>
+
+<form id="newsletter_signup_form" name="newsletter_signup_form">
+
+<input type="hidden" value="/" name="return_url" />
+<input type="hidden" value="1" name="newsletter" />
+
+        <div class="form-row" id="subform">
+
+        <input id="nl_email" name="email" type="text" value="Enter your email" onfocus="if(this.value == 'Enter your email') { this.value = ''; }" />
+    
+        <button type="submit" class="btn">Subscribe <i class="icon-cta-grey"></i></button>
+
+        </div>
+</form>
+
+<p id="signup_error"></p>
+
+    </div><!-- / .container -->
+</section><!-- /Specific page version -->
+
+</div>
+</div>
+
+
+
+<script type="text/javascript" language="Javascript">
+// variable to hold request
+var request;
+// bind to the submit event of our form
+$("#newsletter_signup_form").submit(function(event){
+    // abort any pending request
+    if (request) {
+        request.abort();
+    }
+
+    // setup some local variables
+    var $form = $(this);
+    // let's select and cache all the fields
+    var $inputs = $form.find("input, select, button, textarea");
+    // serialize the data in the form
+    var serializedData = $form.serialize();
+
+    // let's disable the inputs for the duration of the ajax request
+    // Note: we disable elements AFTER the form data has been serialized.
+    // Disabled form elements will not be serialized.
+    $inputs.prop("disabled", true);
+
+    // fire off the request to /form.php
+    request = $.ajax({
+        url: "/actions/newsletter_widget_signup.php",
+        type: "post",
+        dataType: "JSON",
+        data: serializedData
+    });
+
+    // callback handler that will be called on success
+    request.done(function (response){
+        // log a message to the console
+        console.log(response);
+
+        //validation error
+        if(response.type == "error"){
+            $('#signup_error').html(response.text);
+        } else {
+            //fide form and confirm success
+            $('#signup_error').html('');
+            $('#subform').html('<p>'+response+'</p>');
+            _gaq.push(['_trackEvent', 'Modules', 'Daily Newsletter Widget', '/']); 
+        }
+    });
+
+    // callback handler that will be called on failure
+    request.fail(function (jqXHR, textStatus, errorThrown){
+        // log the error to the console
+        console.error(
+            "The following error occured: "+
+            textStatus, errorThrown
+        );
+    });
+
+    // callback handler that will be called regardless
+    // if the request failed or succeeded
+    request.always(function () {
+        // reenable the inputs
+        $inputs.prop("disabled", false);
+    });
+
+    // prevent default posting of form
+    event.preventDefault();
+});
+</script>
+
+
+
+
+<div class="whitewrap">
+<section class="container module opinions">
+	
+	<header>
+		<h2>Opinion</h2>
+	</header>
+
+	<ul class="grid home-grid">
+		<li>
+	<div>
+					
+		<h3><a href="http://adage.com/article/agency-viewpoint/strategies-growing-appeal-cannabis-brand/308060/" title="Six Strategies for Growing Your Cannabis Brand">Six Strategies for Growing Your Cannabis Brand</a></h3>
+		<a href="http://adage.com/section/agency-viewpoint/796">Agency Viewpoint</a>
+		<img src="http://gaia.adage.com/images/bin/image/photo/Headshot_(1).jpg?1487859534" width="180" height="180" alt="Six Strategies for Growing Your Cannabis Brand" title="Six Strategies for Growing Your Cannabis Brand" class="avatar" />
+		
+
+	</div>
+</li>
+
+
+
+<li>
+	<div>
+					
+		<h3><a href="http://adage.com/article/digitalnext/apple-s-paid-search-aso-play/308057/" title="Apple's New Paid Search: How App Store Optimization Comes Into Play">Apple's New Paid Search: How App Store Optimization Comes Into Play</a></h3>
+		<a href="http://adage.com/blog/digitalnext/603">DigitalNext</a>
+		<img src="http://gaia.adage.com/images/bin/image/photo/digitalnexticon.png?1392609834" width="115" height="115" alt="Apple's New Paid Search: How App Store Optimization Comes Into Play" title="Apple's New Paid Search: How App Store Optimization Comes Into Play" class="avatar" />
+		
+
+	</div>
+</li>
+
+
+
+<li>
+	<div>
+					
+		<h3><a href="http://adage.com/article/al-ries/missing-marketing-programs-verbal-imagery/307915/" title="What's Missing in Most Marketing Programs? Verbal Imagery">What's Missing in Most Marketing Programs? Verbal Imagery</a></h3>
+		<a href="http://adage.com/section/al-ries/300">Al Ries</a>
+		<img src="http://gaia.adage.com/images/bin/image/photo/0109p14-Al-Ries.jpg?1325807135" width="180" height="180" alt="What's Missing in Most Marketing Programs? Verbal Imagery" title="What's Missing in Most Marketing Programs? Verbal Imagery" class="avatar" />
+		
+
+	</div>
+</li>
+
+
+
+<li>
+	<div>
+					
+		<h3><a href="http://adage.com/article/media/colbert-alternatives-washington-post-slogan/308075/" title="Colbert Has Some Alternatives to The Washington Post's New 'Democracy Dies in Darkness' Slogan">Colbert Has Some Alternatives to The Washington Post's New 'Democracy Dies in Darkness' Slogan</a></h3>
+		<a href="http://adage.com/section/the-media-guy/269">The Media Guy</a>
+		<img src="http://gaia.adage.com/images/bin/image/photo/Simon_Dumenco_Icond_2.jpg?1393019541" width="180" height="180" alt="Colbert Has Some Alternatives to The Washington Post's New 'Democracy Dies in Darkness' Slogan" title="Colbert Has Some Alternatives to The Washington Post's New 'Democracy Dies in Darkness' Slogan" class="avatar" />
+		
+
+	</div>
+</li>
+
+
+
+
+	</ul>
+
+	<footer>
+		<a href="/blogs">See More Opinion Articles</a>
+	</footer>
+
+</section>
+</div>
+<div class="whitewrap">
+		
+
+<section class="container module">
+
+	<header>
+		<h2>Latest Issue</h2>
+	</header>
+
+	<div class="cf">
+		<div class="cols-four">
+	<article class="news-item hero">
+		<a href="http://adage.com/article/news/superfriends-marketing/308007/" class="block">
+			<figure>
+				<img src="http://gaia.adage.com/images/bin/image/medium/P008_20170220_notype201732.jpg"  alt="Holy Brand Extension! How 'Lego Batman' Built Boffo Box Office" />
+			</figure>
+			<h3>Holy Brand Extension! How 'Lego Batman' Built Boffo Box Office</h3>
+		</a>
+		<p>By <a href="http://adage.com/author/adrianne-pasquarelli/6643">Adrianne Pasquarelli</a></p>
+	</article>
+</div>
+<div class="cols-four divkm"><article class="news-img-left">
+	<a href="http://adage.com/article/media/ad-tech-save-tv/307995/">
+		<div class="img-container">
+			<img src="http://gaia.adage.com/images/bin/image/xx-small/0220_AdTechHero_Chart_3x2crop.jpg"  alt="How Ad Tech Just Might Save TV" />
+		</div>
+		<h4>How Ad Tech Just Might Save TV</h4>
+	</a>
+</article>
+
+<article class="news-img-left">
+	<a href="http://adage.com/article/cmo-strategy/pepsi-a-movie-mogul/308035/">
+		<div class="img-container">
+			<img src="http://gaia.adage.com/images/bin/image/xx-small/0220_FEA_UncleDrew1_3x2.jpg"  alt="Pepsi Wants to Be a Movie Mogul" />
+		</div>
+		<h4>Pepsi Wants to Be a Movie Mogul</h4>
+	</a>
+</article>
+
+<article class="news-img-left">
+	<a href="http://adage.com/article/global-news/adele-forced-brit-awards-blast-volume-social/308028/">
+		<div class="img-container">
+			<img src="http://gaia.adage.com/images/bin/image/xx-small/0220_Play_BritAwards_GettyImages512233744_3x2.jpg"  alt="How Adele Forced the Brit Awards to Turn Up the Volume on Social" />
+		</div>
+		<h4>How Adele Forced the Brit Awards to Turn Up the Volume on Social</h4>
+	</a>
+</article>
+
+<article class="news-img-left">
+	<a href="http://adage.com/article/cmo-strategy/unilever-merger-p-g-breakup-point-cost-savings/308036/">
+		<div class="img-container">
+			<img src="http://gaia.adage.com/images/bin/image/xx-small/iStock495392322_3X2.jpg"  alt="Unilever Merger or P&G Breakup? Both Proposals Point to Cost Savings" />
+		</div>
+		<h4>Unilever Merger or P&G Breakup? Both Proposals Point to Cost Savings</h4>
+	</a>
+</article>
+
+<article class="news-img-left">
+	<a href="http://adage.com/article/print-edition/skinnypop-halo-microwave-popcorn/308038/">
+		<div class="img-container">
+			<img src="http://gaia.adage.com/images/bin/image/xx-small/0220_NEWS_POPCORNCHART_3x2.jpg"  alt="SkinnyPop Tries Its Halo on Microwave Popcorn" />
+		</div>
+		<h4>SkinnyPop Tries Its Halo on Microwave Popcorn</h4>
+	</a>
+</article>
+
+</div>
+
+        <div class="cols-four no-margin">
+            <a href="/subscribe/" class="preview">
+			<img src="http://gaia.adage.com/images/covers/2017-02-20.jpg?1487621545" width="240" height="312" alt="" />
+                Subscribe now
+            </a>
+        </div><!-- / .cols-four.hidden-tablet -->
+
+	</div><!-- / .cf -->
+
+	<footer>
+		<a href="/current-issue">See the Entire Feb 20th Print Edition</a><br/><br/>
+		<a href="/archive">Access Ad Age Archives</a>
+	</footer>
+
+</section>
+
+
+
+
+</div><div class="wp-wrapper grey">
+	<div id="maxwidth">
+		<section class="module-caps spotlight">
+			<div class="container">
+				<header>
+					<h2>Product Spotlight</h2>
+				</header>
+
+				<div>
+					<div class="cols-four ipad-clear">
+						<section class="mod-product events">
+							<header>
+								<h4><a href="http://adage.com/events">Ad Age <span>Events</span></a></h4>
+							</header>
+							<div>
+								<div class="ipad-sub-col">
+	<div class="top">
+	<div class="where-when">
+		Apr
+		<strong>19</strong>
+		<a href="http://adage.com/alistcreativitygala"><i class="icon-geo"></i>New York, NY</a>
+	</div>
+	<div class="what">
+		<h5><a href="http://adage.com/alistcreativitygala"><span>Awards</span>A-List & Creativity Awards</a></h5>
+	</div>
+</div>
+</div>
+<div class="ipad-sub-col">
+	<div class="top">
+	<div class="where-when">
+		May
+		<strong>03</strong>
+		<a href="http://www.adageevents.com/d/bvqbjn"><i class="icon-geo"></i>Detroit, MI</a>
+	</div>
+	<div class="what">
+		<h5><a href="http://www.adageevents.com/d/bvqbjn"><span>Conference</span>Ad Age Brand Summit</a></h5>
+	</div>
+</div>
+</div>
+							</div>
+						</section><!-- / .mod-product.events -->
+					</div><!-- / .cols-four -->
+
+					<div class="cols-four ipad-clear">
+						<section class="mod-product reports">
+							<header>
+								<h4><a href="http://adage.com/trend-reports">Ad Age <span>Reports</span></a></h4>
+							</header>
+							<div>
+								<div class="ipad-sub-col">
+	<div class="top">
+	<h5><a href="http://adage.com/d/resources/resources/whitepaper/data-download-big-deal-big-data"><span>Partner White Paper</span> Data Download; The Big Deal on Big Data</a></h5>
+</div>
+
+</div>
+<div class="ipad-sub-col">
+	<div class="top">
+	<h5><a href="http://adage.com/d/resources/resources/whitepaper/video-ad-streaming-simple-change-will-set-new-industry-standard"><span>Partner White Paper</span> Video Ad Streaming: A Simple Change That Will Set a New Industry Standard</a></h5>
+</div>
+
+</div>
+							</div>
+						</section><!-- / .mod-product.reports -->
+					</div><!-- / .cols-four -->
+
+					<div class="cols-four ipad-clear">
+                        <!-- Product Card Ad 4 -->
+                        <div id="PCARD_4" class="product-card"></div>
+					</div><!-- / .cols-four -->
+				</div>
+			</div><!-- / .container -->
+		</section>
+	</div>
+</div>
+
+
+
+
+<div class="wp-wrapper grey">
+    <div id="maxwidth">
+        <section class="module-caps subscribe">
+            <div class="container border-top">
+                <header>
+                    <strong>Become a Member</strong>
+                </header>
+
+                <ul class="inline">
+                    <li><a href="/membership" title="Register Now">Register Now</a></li>
+                    <li><a href="https://sec.crain.com/AA/Login.aspx?ReturnUrl=%2fAA%2fCustomers%2fSiteSubscriptions.aspx" onclick="trackCrossDomainClick(this, 'Become a member footer', 'Desktop', 'renew'); return false;" title="Renew">Renew</a></li>
+                    <li><a href="/help/subscribe" title="Membership Benefits">Membership Benefits</a></li>
+                    <li><a href="/datacenter" title="Datacenter">Datacenter</a></li>
+                </ul>
+
+                <img src="http://adage.com/assets/images/footer-subscribe-devices-white.png" alt="" class="align-center">
+            </div><!-- / .container -->
+        </section><!-- / .module-caps.subscribe -->
+    </div>
+</div>
+
+
+<!-- START SiteCatalyst -->
+<script type="text/javascript">
+var s_account="crainadage";
+
+function getCookie(name) {
+  var value = "; " + document.cookie;
+  var parts = value.split("; " + name + "=");
+  if (parts.length == 2) return parts.pop().split(";").shift();
+}
+
+var s_loggedInCookie = 'CSDemos';
+
+var s_firstPartyTracking = true;
+</script>
+<script language="JavaScript" type="text/javascript" src="http://crain-global.s3.amazonaws.com/s_crainsc.js">
+
+</script>
+<script language="JavaScript" type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s_crainsc.pageName = "/";
+s_crainsc.channel = "adage_news";
+s_crainsc.prop1 = s_crainsc.eVar1 = "ad_age_homepage";
+s_crainsc.prop2 = s_crainsc.eVar2 = "ad_age_homepage";
+s_crainsc.prop5 = s_crainsc.prop6 = "adage_news:ad_age_homepage";
+s_crainsc.prop25 = s_crainsc.eVar27 = "ad_age_homepage";
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s_crainsc.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img src="//crain.d1.sc.omtrdc.net/b/ss/crainadage/1/H.24.1--NS/0"
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- END SiteCatalyst -->
+
+
+
+
+<footer id="page-footer" role="contentinfo">
+	<div class="container">
+		<p class="logo-white">
+			<a href="/">Advertising Age</a>
+		</p>
+
+		<p class="strap">&nbsp;<br />&nbsp;</p>
+
+		<ul class="social">
+			<li>
+				<a href="http://www.facebook.com/AdAge" onclick="trackOutboundLink(this, 'Footer-Social-Icons', 'Facebook', this.getAttribute('href')); return false;" target="_new">
+					<span class="icon-facebook">Facebook</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://twitter.com/adage" onclick="trackOutboundLink(this, 'Footer-Social-Icons', 'Twitter', this.getAttribute('href')); return false;" target="_new">
+					<span class="icon-twitter">Twitter</span>
+				</a>
+			</li>
+			<li>
+				<a href="https://www.linkedin.com/company/advertising-age?trk=top_nav_home" onclick="trackOutboundLink(this, 'Footer-Social-Icons', 'LinkedIn', this.getAttribute('href')); return false;" target="_new">
+					<span class="icon-linkedin">LinkedIn</span>
+				</a>
+			</li>
+			<li>
+				<a href="https://plus.google.com/101792368055128831913/?prsrc=3" onclick="trackOutboundLink(this, 'Footer-Social-Icons', 'Google Plus', this.getAttribute('href')); return false;" target="_new">
+					<span class="icon-gplus">Google+</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://www.pinterest.com/advertisingage" onclick="trackOutboundLink(this, 'Footer-Social-Icons', 'Pinterest', this.getAttribute('href')); return false;" target="_new">
+					<span class="icon-pinterest">Pinterest</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://instagram.com/advertisingage" onclick="trackOutboundLink(this, 'Footer-Social-Icons', 'Instagram', this.getAttribute('href')); return false;" target="_new">
+					<span class="icon-instagram">Instagram</span>
+				</a>
+			</li>
+			<li>
+				<a href="https://www.youtube.com/AdAge" onclick="trackOutboundLink(this, 'Footer-Social-Icons', 'YouTube', this.getAttribute('href')); return false;" target="_new">
+					<span class="icon-youtube">YouTube</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://adage.tumblr.com" onclick="trackOutboundLink(this, 'Footer-Social-Icons', 'Tumblr', this.getAttribute('href')); return false;" target="_new">
+					<span class="icon-tumblr">Tumblr</span>
+				</a>
+			</li>
+		</ul><!-- / .social -->
+
+		<hr />
+
+		<nav id="nav-footer">
+
+			<ul>
+				<li><small>Copyright &copy; 1994-2017</small></li>
+				<li><a href="http://www.crain.com/" title="Crain Communications">Crain Communications</a></li>
+<li><a href="/privacy" title="Privacy Statement">Privacy Statement</a></li>
+<li><a href="/terms/" title="Terms of Use">Terms of Use</a></li>
+<li><a href="/help/about-us" title="About Us">About Us</a></li>
+<li><a href="/help/advertise" title="Advertise">Advertise</a></li>
+<li><a href="/help/reprints" title="Reprints">Reprints</a></li>
+<li><a href="/help/contact-us" title="Contact Us">Contact Us</a></li>
+
+			</ul>
+
+		</nav><!-- / #nav-footer -->
+	</div><!-- / .container -->
+</footer><!-- / #page-footer -->
+
+
+<aside id="sub-footer">
+	<div class="container">
+		<nav id="nav-subfooter">
+			<ul>
+					
+
+	<li class="nav-item-AD AGE"><a href="http://adage.com" title="AD AGE"><span>AD AGE</span></a></li>
+
+	
+
+	<li class="nav-item-Creativity"><a href="http://creativity-online.com" title="Creativity"><span>Creativity</span></a></li>
+
+	
+
+	<li class="nav-item-LookBook"><a href="http://adage.com/lookbook/" title="LookBook"><span>LookBook</span></a></li>
+
+	
+
+	<li class="nav-item-Datacenter"><a href="http://adage.com/datacenter/" title="Datacenter"><span>Datacenter</span></a></li>
+
+	
+
+	<li class="nav-item-Resources"><a href="http://adage.com/resources/" title="Resources"><span>Resources</span></a></li>
+
+	
+
+	<li class="nav-item-Events"><a href="http://adage.com/events/" title="Events"><span>Events</span></a></li>
+
+	
+
+	<li class="nav-item-Jobs"><a href="http://jobs.adagetalentworks.com/" title="Jobs"><span>Jobs</span></a></li>
+
+	
+
+	<li class="nav-item-On Campus"><a href="http://adage.com/adage-on-campus/" title="On Campus"><span>On Campus</span></a></li>
+
+
+			</ul>
+		</nav>
+		<p class="credits">Site by <a href="http://area17.com">AREA 17</a></p>
+
+	</div>
+</aside><!-- / #sub-footer -->
+
+<!-- Total time: 0.0710020065308 --><!-- Custom Audience Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,'script','//connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '473036029510636');
+    fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=473036029510636&ev=PageView&noscript=1"/></noscript>
+<!-- End Custom Audience Pixel Code -->
+
+
+<!--adblock-->
+<img src="//dbg52463.moatads.com?a=2c4108ffdb9c4b859aa0999767de9160" style="display:none;">
+<img src="//d5i9o0tpq9sa1.cloudfront.net?a=2c4108ffdb9c4b859aa0999767de9160" style="display:none;">
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = 'D85DCECE96FB418B';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+
+<!-- adding tracking pixelcode -->
+<script src="https://api.b2c.com/api/init-105ksyb0ql3ef21itif.js" data-cfasync="false" async></script>
+<noscript><img src="https://api.b2c.com/api/noscript-105ksyb0ql3ef21itif.gif"></noscript> 
+
+
+
+	<!-- EOL -->
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-fbFZFDIZ_p3uo"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-fbFZFDIZ_p3uo.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+<script type="text/javascript">
+var _sf_async_config={uid:25465,domain:"adage.com"};
+_sf_async_config.useCanonical = true;
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+
+
+	<div class="oas left out-of-page-ad">
+        <!-- Wallpaper Ad -->
+		<div id="WALL"></div>
+        <div id="INTERSTITIAL"></div>
+    </div>
+
+   <script>
+    var swiftype_key = '9Vb8tQqGzsf13b3nkdnR';
+    var swiftype_superbowl_key = 'ReLrduzwDDiyKP-PE35T';
+    var dateTo;
+</script>
+<script src="/assets/js/min/swiftype-components.js"></script>
+<script src="/assets/js/min/swiftype-config.js"></script>
+<script type="text/javascript">
+    SwiftypeComponents.onReady(function() {
+        SwiftypeComponents.Dispatcher.run("search", [{
+            type: 'add_filter_range',
+            data: {
+                field: 'published_at',
+                from: dateFrom,
+                to: dateTo
+            },
+            update_results: true
+        }]);
+
+        var firstLoad = true;
+
+        SwiftypeComponents.stores.search.parameter.on("arguments_changed", function() {
+            if (! firstLoad) {
+                var top = $('.search-results-container').offset().top;
+                top = ($('.shortcut-bar').css('display') == 'none') ? top : top - $('.shortcut-bar').outerHeight();
+
+                $('html, body').animate({
+                    scrollTop: top
+                }, 400);
+            }
+
+            firstLoad = false;
+        });
+
+        SwiftypeComponents.stores.superbowl.parameter.on("arguments_changed", function() {
+            if (! firstLoad) {
+                var top = $('.superbowl-header').offset().top - 20;
+
+                $('html, body').animate({
+                    scrollTop: top
+                }, 400);
+            }
+
+            firstLoad = false;
+        });
+
+        SwiftypeComponents.react.mountAll();
+    }); 
+</script>
+
+
+
+
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"9ca448880a","applicationID":"5007852","transactionName":"YVRaYUEFWUVWAE0KDFgebUdaS15YUwZBTRNeQQ==","queueTime":0,"applicationTime":433,"ttGuid":"","agentToken":"","atts":"TRNZFwkfSks=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+<script>
+  if (typeof adageUser != "undefined" && adageUser.userID != null) {
+    var context = new Pippio.Context(1944);
+    context.addEmail(adageUser.user.Profile.email);
+    Pippio.sync(context);
+  }
+/*
+  function myCallback(result) {
+    console.log(adageUser.user.Profile.email);
+    console.log(result);
+  }
+  Pippio.queryGraph(context, myCallback);
+*/
+</script>
+
+</html>

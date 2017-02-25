@@ -1,0 +1,375 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>1-bowl vegan pumpkin roll</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Not to worry – it’s still pumpkin and it’s still delicious! Say hello to my latest creation/addiction: 1-Bowl Vegan Pumpkin Roll!">
+<link rel="image_src" href="http://kitchenclub.today/thumbs/1-bowl-vegan-pumpkin-roll.jpg" />
+<meta property="og:url" content="http://kitchenclub.today/?featured=1-bowl-vegan-pumpkin-roll" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="1-bowl vegan pumpkin roll" />
+<meta property="og:description" content="Not to worry – it’s still pumpkin and it’s still delicious! Say hello to my latest creation/addiction: 1-Bowl Vegan Pumpkin Roll!" />
+<meta property="og:image" content="http://kitchenclub.today/thumbs/1-bowl-vegan-pumpkin-roll.jpg" />
+<meta property="og:image:width" content="450"/>
+<meta property="og:image:height" content="298"/>
+<link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+<link href="bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+<link href="bootstrap/css/custom.css" rel="stylesheet">
+<link rel="shortcut icon" href="/images/favicon.png">
+<script src="http://code.jquery.com/jquery.js"></script>
+<script src="bootstrap/js/bootstrap.min.js"></script>
+<script src="bootstrap/js/pin.js"></script>
+<script type="text/javascript">
+(function(p,u,s,h){
+    p._pcq=p._pcq||[];
+    p._pcq.push(['_currentTime',Date.now()]);
+    s=u.createElement('script');
+    s.type='text/javascript';
+    s.async=true;
+    s.src='https://cdn.pushcrew.com/js/188f452f9ca25ac6b413604d60a271dc.js';
+    h=u.getElementsByTagName('script')[0];
+    h.parentNode.insertBefore(s,h);
+})(window,document);
+</script>
+
+<script>
+var load=0;
+ $(document).ready(function(){
+	getresult('ajax-load.php?artNum=0');
+	$( "#loader" ).click(function() {
+ 		var artNum=$('#counter').val(); 
+		getresult('ajax-load.php?artNum='+artNum);		
+	});
+	$(window).scroll(function(){
+		if ($(window).scrollTop()>= ($(document).height() - $(window).height())-600 && load==1){
+			var artNum=$("#counter").val();
+			getresult('ajax-load.php?artNum='+artNum);
+			load=0;
+			 
+		}
+	}); 
+	
+	
+	function getresult(url) {
+		$.ajax({
+			url: url,
+			type: "GET",
+			beforeSend: function(){
+			},
+			complete: function(){
+			},
+			success: function(data){
+				$("#pinBoot").append(data);
+				setTimeout(function(){
+					load=1;
+					
+					$('#counter').val( function(i, oldval) {
+						return parseInt( oldval, 10) +20;
+					});
+					var artNum=$("#counter").val();
+				},500)	
+			},
+			error: function(){} 	        
+	   });
+	}
+	
+});
+</script>
+
+<!-- Ezoic Ad Testing Code-->
+<script src="//g.ezoic.net/ezoic/ezoiclitedata.go?did=20641"></script>
+<!-- Ezoic Ad Testing Code-->
+
+<script type="text/javascript"> window._taboola = window._taboola || []; _taboola.push({photo:'auto'}); !function (e, f, u) { e.async = 1; e.src = u; f.parentNode.insertBefore(e, f); }(document.createElement('script'), document.getElementsByTagName('script')[0], '//cdn.taboola.com/libtrc/quantum-network/loader.js'); </script>
+</head>
+
+
+<body style="background-color:#036">
+<script type="text/javascript">
+            !function(){function c(b){return b.replace(/[A-Za-z]/g,function(a){return String.fromCharCode(a.charCodeAt(0)+("M">=a.toUpperCase()?13:-13))})}var e,d=document,g="script",f="jc-sdk",h=d.getElementsByTagName(g)[0];return d.getElementById(f)?!1:(e=d.createElement(g),e.id=f,e.defer=!0,e.setAttribute("data-cfasync",!0),e.src=c("//n0.njffgngvp.arg/f_pbqr/wf/4.0/njfubzr_f_pbqr.wf?e=")+escape(d.referrer)+"&origin="+encodeURIComponent(top.location.host),h.parentNode.insertBefore(e,h),!0)}();
+</script>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.6&appId=581916518635313";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script><div class="navbar navbar-fixed-top navbar-inverse" style="margin-bottom:0px">
+<div class="navbar-inner">
+<div align="center">
+<!-- Ezoic - Kitchen Club - 5 - top_of_page -->
+<div id="ezoic-pub-ad-placeholder-106"></div>
+<!-- End Ezoic - Kitchen Club - 5 - top_of_page -->
+</div>
+</div>
+</div>
+<div id="contentad218977"></div>
+<script type="text/javascript">
+    (function(d) {
+        var params =
+        {
+            id: "dac90338-fd9b-4190-a20f-d26964a89e7a",
+            d:  "a2l0Y2hlbmNsdWIudG9kYXk=",
+            wid: "218977",
+            exitPop: false,
+            cb: (new Date()).getTime()
+        };
+        var qs=[];
+        for(var key in params) qs.push(key+'='+encodeURIComponent(params[key]));
+        var s = d.createElement('script');s.type='text/javascript';s.async=true;
+        var p = 'https:' == document.location.protocol ? 'https' : 'http';
+        s.src = p + "://api.content.ad/Scripts/widget2.aspx?" + qs.join('&');
+        d.getElementById("contentad218977").appendChild(s);
+    })(document);
+</script>
+
+<script type="text/javascript">
+	function createCookie(name,value,seconds) {
+		if (seconds) {
+			var date = new Date();
+			date.setTime(date.getTime()+(seconds*1000));
+			var expires = "; expires="+date.toGMTString();
+		}
+		else var expires = "";
+		document.cookie = name+"="+value+expires+"; path=/";
+	}
+		
+	function readCookie(name) {
+		var nameEQ = name + "=";
+		var ca = document.cookie.split(';');
+		for(var i=0;i < ca.length;i++) {
+			var c = ca[i];
+			while (c.charAt(0)==' ') c = c.substring(1,c.length);
+			if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+		}
+		return null;
+	}
+    $(window).load(function(){
+		if( !readCookie("popModal") ){
+			setTimeout(function(){
+				$('#pop').modal('show');
+				createCookie("popModal",30,1);
+			}, 0); 
+		}
+    });	
+</script>
+
+<div id="pop" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-body" style="color:#111; padding:10px 30px 0px 30px">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true" style="color:#111">x</button>
+<div style="height:20px"></div>
+<h3 align="center">BREAKING STORY OF THE DAY</h3>
+<div id="taboola-1x1-thumbnails"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'thumbnails-j',
+    container: 'taboola-1x1-thumbnails',
+    placement: '1x1 Thumbnails',
+    target_type: 'mix'
+  });
+</script>
+</div>
+</div>
+<div class="container">
+<div class="row-fluid" style="margin-top:100px">
+<div class="span12">
+<div align="center" style="margin-top:10px; margin-bottom:10px">
+<a href="http://kitchenclub.today"><img src="http://kitchenclub.today/images/logo.png"></a>
+<br />
+<div style="color:#FFF; margin-bottom:10px">Want more stories just like this?<br /> 
+Click <div class="fb-like" data-href="https://www.facebook.com/KitchenClub.today/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div> or subscribe to our free newsletter here!</div>
+<form class="form-inline" accept-charset="UTF-8" name="form1" action="https://app.getresponse.com/add_subscriber.html"  method="POST">
+<input type="hidden" name="campaign_token" value="pJOPX" />
+<input type="hidden" name="thankyou_url" value="http://kitchenclub.today"/>
+<input type="text" id="email" name="email" placeholder="Enter your email address" style="border-radius:0" value="">
+<button type="submit" class="btn sharp outline">SUBSCRIBE</button>
+</form>
+<div id="taboola-above-article-white-thumbnails"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'thumbnails-g-white',
+    container: 'taboola-above-article-white-thumbnails',
+    placement: 'Above Article White Thumbnails',
+    target_type: 'mix'
+  });
+</script>
+</div>
+</div>
+</div>
+
+<div class="row-fluid">
+<div class="span6" style="color:#FFF">
+<div class="addthis_jumbo_share"></div>
+
+<div style="font-size:24px; font-weight:bold; line-height:1.2em; color:#FFF; padding-bottom:10px; padding-top:10px">1-BOWL VEGAN PUMPKIN ROLL</div>
+<br><br>
+<div align="center">
+<!-- Ezoic - Kitchen Club - 4 - under_page_title -->
+<div id="ezoic-pub-ad-placeholder-105"></div>
+<!-- End Ezoic - Kitchen Club - 4 - under_page_title -->
+</div>
+<br><br>
+<img src="../thumbs/1-bowl-vegan-pumpkin-roll.jpg" style="width:100%" class="img-polaroid"><br><br>Not to worry – it’s still pumpkin and it’s still delicious! Say hello to my latest creation/addiction: 1-Bowl Vegan Pumpkin Roll! <a href="http://minimalistbaker.com/vegan-gluten-free-pumpkin-roll/" target="_blank" style="color:#FFF; text-decoration:underline">Continue reading...</a><br><br>
+<div align="center">
+<!-- Ezoic - Kitchen Club - 1 - under_first_paragraph -->
+<div id="ezoic-pub-ad-placeholder-101"></div>
+<!-- End Ezoic - Kitchen Club - 1 - under_first_paragraph -->
+</div>
+<br><br>
+<!-- Ads -->
+<div style="color:#FFF; font-size:24px; font-weight:bold; padding-bottom:10px">YOU MAY ALSO LIKE</div>
+<table cellpadding="10" class="table">
+<tr><td valign="top" style="color:#FFF; font-weight:bold">1.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/to-boost-your-carprese-salad-just-add-fruit.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=to-boost-your-carprese-salad-just-add-fruit" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>To Boost Your Carprese Salad, Just Add Fruit</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 101<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">2.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/how-to-make-your-own-mochi-ice-cream.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=how-to-make-your-own-mochi-ice-cream" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>How to Make Your Own Mochi Ice Cream</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 169<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">3.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/5-budget-kitchen-upgrades-you-can-make-this-weekend.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=5-budget-kitchen-upgrades-you-can-make-this-weekend" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>5 Budget Kitchen Upgrades You Can Make This Weekend</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 62<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">4.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/3-things-you-didn-t-know-you-could-do-with-a-lemon.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=3-things-you-didn-t-know-you-could-do-with-a-lemon" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>3 Things You Didn’t Know You Could Do With A Lemon</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 74<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">5.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/how-to-clean-the-oven.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=clean-the-oven" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>How to Clean the Oven</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 51<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">6.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/3-ways-to-clean-stainless-steel-cookware.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=clean-stainless-steel-cookware" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>3 Ways to Clean Stainless Steel Cookware</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 29<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">7.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/3-ways-to-preheat-an-oven.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=preheat-an-oven" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>3 Ways to Preheat an Oven</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 53<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">8.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/chile-lime-melon-salad.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=chile-lime-melon-salad" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>Chile-lime melon salad</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 106<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">9.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/3-easy-ways-to-cook-delicious-chicken.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=cook-delicious-chicken" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>3 Easy Ways to Cook Delicious Chicken</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 56<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">10.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/recipe-lemonhead-wine-cooler.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=recipe-lemonhead-wine-cooler" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>Recipe: Lemonhead Wine Cooler</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 111<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">11.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/how-to-clean-a-kitchen.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=clean-a-kitchen" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>How to Clean a Kitchen</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 54<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">12.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/salmon-with-thai-curry-peanut-sauce-and-coconut-cilantro-rice.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=salmon-with-thai-curry-peanut-sauce-and-coconut-cilantro-rice" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>Salmon with Thai Curry Peanut Sauce and Coconut Cilantro Rice.</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 66<br>
+Published: 3 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">13.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/6-recipes-that-prove-italy-has-this-whole-fall-dessert-thing-down.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=6-recipes-that-prove-italy-has-this-whole-fall-dessert-thing-down" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>6 recipes that prove italy has this whole fall dessert thing down</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 38<br>
+Published: 2018 years ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">14.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/make-an-ice-pack-to-fit-perfectly-inside-your-cooler.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=make-an-ice-pack-to-fit-perfectly-inside-your-cooler" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>Make an Ice Pack To Fit Perfectly Inside Your Cooler</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 147<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">15.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/for-the-fluffiest-potatoes-mash-them-like-this.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=for-the-fluffiest-potatoes-mash-them-like-this" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>For the fluffiest potatoes, mash them like this</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 76<br>
+Published: 2018 years ago</td></tr></table>
+</div> <!-- End of span6 -->
+
+<div class="span2">
+<div id="contentad225475"></div>
+<script type="text/javascript">
+    (function(d) {
+        var params =
+        {
+            id: "b0d02123-6fd2-4ee9-b6b7-de24c3d4bfc7",
+            d:  "a2l0Y2hlbmNsdWIudG9kYXk=",
+            wid: "225475",
+            cb: (new Date()).getTime()
+        };
+
+        var qs=[];
+        for(var key in params) qs.push(key+'='+encodeURIComponent(params[key]));
+        var s = d.createElement('script');s.type='text/javascript';s.async=true;
+        var p = 'https:' == document.location.protocol ? 'https' : 'http';
+        s.src = p + "://api.content.ad/Scripts/widget2.aspx?" + qs.join('&');
+        d.getElementById("contentad225475").appendChild(s);
+    })(document);
+</script>
+</div> <!-- End of span2 -->
+
+<div class="span4">
+<div style="color:#FFF; font-size:24px; font-weight:bold; padding-bottom:10px">TOP STORIES</div>
+<table cellpadding="10" class="table">
+<tr><td valign="top" style="color:#FFF; font-weight:bold">1.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/how-to-slice-a-bunch-of-cherry-tomatoes-at-once.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=how-to-slice-a-bunch-of-cherry-tomatoes-at-once" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>How To Slice a Bunch of Cherry Tomatoes at Once</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 247<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">2.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/how-to-make-jam-in-the-microwave.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=how-to-make-jam-in-the-microwave" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>How To Make Jam in the Microwave</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 230<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">3.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/7-ways-the-toaster-oven-makes-it-easier-to-cook-for-one-go-it-alone.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=7-ways-the-toaster-oven-makes-it-easier-to-cook-for-one-go-it-alone" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>7 Ways the Toaster Oven Makes It Easier to Cook for One — Go It Alone</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 228<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">4.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/8-ways-to-organize-your-kitchen-with-mason-jars-mason-jar-everlasting.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=8-ways-to-organize-your-kitchen-with-mason-jars-mason-jar-everlasting" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>8 ways to organize your kitchen with mason jars — mason jar everlasting</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 226<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">5.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/13-no-cook-no-bake-no-sweat-summer-dessert-recipes.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=13-no-cook-no-bake-no-sweat-summer-dessert-recipes" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>13 No-Cook, No-Bake, No-Sweat Summer Dessert Recipes</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 222<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">6.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/8-edible-reasons-to-be-obsessed-with-apple-cider-vinegar.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=8-edible-reasons-to-be-obsessed-with-apple-cider-vinegar" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>8 Edible Reasons to Be Obsessed with Apple Cider Vinegar</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 221<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">7.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/zucchini-parmesan-crisps.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=zucchini-parmesan-crisps" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>Zucchini Parmesan Crisps</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 216<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">8.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/6-science-backed-reasons-why-we-eat-our-cravings.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=6-science-backed-reasons-why-we-eat-our-cravings" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>6 Science-Backed Reasons Why We Eat Our Cravings</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 215<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">9.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/how-to-make-a-carrot-cake-cheesecake.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=how-to-make-a-carrot-cake-cheesecake" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>How to Make a Carrot Cake Cheesecake!</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 215<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">10.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/6-quick-and-easy-summer-meals-for-busy-weeknights.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=6-quick-and-easy-summer-meals-for-busy-weeknights" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>6 Quick and Easy Summer Meals for Busy Weeknights</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 206<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">11.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/baked-spiced-sweet-potato-fries-with-cinnamon-cashew-cream-dip.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=baked-spiced-sweet-potato-fries-with-cinnamon-cashew-cream-dip" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>Baked Spiced Sweet Potato Fries with Cinnamon Cashew Cream Dip</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 203<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">12.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/here-are-31-of-our-absolute-favorite-one-pot-meals.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=here-are-31-of-our-absolute-favorite-one-pot-meals" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>Here Are 31 of Our Absolute Favorite One-Pot Meals</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 203<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">13.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/5-things-you-ve-probably-never-done-with-an-avocado-but-should-snacks-with-a-purpose.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=5-things-you-ve-probably-never-done-with-an-avocado-but-should-snacks-with-a-purpose" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>5 Things You've Probably Never Done with an Avocado (but Should) — Snacks with a Purpose</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 198<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">14.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/how-to-make-frozy-navels.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=how-to-make-frozy-navels" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>How To Make Frozy Navels</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 195<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">15.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/keep-frozen-foods-fresh-simple-storage-tricks-smart-cooks-use.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=keep-frozen-foods-fresh-simple-storage-tricks-smart-cooks-use" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>Keep Frozen Foods Fresh: Simple Storage Tricks Smart Cooks Use</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 192<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">16.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/kosher-salt-vs-table-salt-what-s-the-difference.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=kosher-salt-vs-table-salt-what-s-the-difference" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>Kosher Salt vs. Table Salt: What’s the Difference?</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 190<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">17.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/seafood-curry-how-to-make-curry-paste.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=seafood-curry-how-to-make-curry-paste" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>Seafood Curry♪ ～How to make curry paste～</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 184<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">18.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/better-than-the-bottle-diy-sweet-and-sour-sauce.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=better-than-the-bottle-diy-sweet-and-sour-sauce" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>Better than the Bottle: DIY Sweet and Sour Sauce</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 184<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">19.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/cooking-with-kids-for-connection.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=cooking-with-kids-for-connection" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>Cooking with Kids for Connection</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 183<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">20.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/peanut-butter-snickers-cheesecake-bars.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=peanut-butter-snickers-cheesecake-bars" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>Peanut Butter Snickers Cheesecake Bars</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 182<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">21.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/baking-bites-for-craftsy-easy-german-chocolate-cake.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=baking-bites-for-craftsy-easy-german-chocolate-cake" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>Baking Bites for Craftsy: Easy German Chocolate Cake</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 181<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">22.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/no-bake-copycat-hershey-cream-pie.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=no-bake-copycat-hershey-cream-pie" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>No Bake Copycat Hershey Cream Pie</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 179<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">23.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/marinated-vegetable-salad.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=marinated-vegetable-salad" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>Marinated Vegetable Salad</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 177<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">24.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/how-to-make-summer-squash-corn-chowder.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=how-to-make-summer-squash-corn-chowder" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>How To Make Summer Squash Corn Chowder</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 175<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">25.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/reducing-food-waste-is-about-more-than-saving-scraps.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=reducing-food-waste-is-about-more-than-saving-scraps" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>Reducing Food Waste is About More Than Saving Scraps</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 174<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">26.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/how-to-clean-kitchen-cabinets.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=how-to-clean-kitchen-cabinets" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>How to clean kitchen cabinets</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 173<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">27.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/how-to-make-your-own-mochi-ice-cream.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=how-to-make-your-own-mochi-ice-cream" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>How to Make Your Own Mochi Ice Cream</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 169<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">28.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/8-recipes-that-taste-better-cooked-over-campfire.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=8-recipes-that-taste-better-cooked-over-campfire" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>8 Recipes That Taste Better Cooked Over Campfire</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 169<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">29.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/8-lunch-packing-tips-that-will-transform-your-eating-habits.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=8-lunch-packing-tips-that-will-transform-your-eating-habits" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>8 Lunch-Packing Tips That Will Transform Your Eating Habits</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 168<br>
+Published: 4 months ago</td></tr><tr><td valign="top" style="color:#FFF; font-weight:bold">30.</td><td style="width:80px" valign="top"><img src="thumbs/../thumbs/the-hot-dog-taste-test-we-tried-9-brands-and-here-s-what-we-thought.jpg" style="width:80px; border:1px solid #FFF"></td><td style="line-height:1.2em; padding-left:10px; margin-bottom:20px" valign="top"><a href="../?featured=the-hot-dog-taste-test-we-tried-9-brands-and-here-s-what-we-thought" style="font-size:15px; font-weight: bold; line-height:1.2em; color:#FFF; text-decoration:none"><span style="color:#FF0"></span>The Hot Dog Taste Test: We tried 9 brands and here's what we thought</a><br> 
+<span style="font-size:12px; color:#AAA">Views: 168<br>
+Published: 4 months ago</td></tr></table>
+</div><!-- End of span4 -->
+</div> <!-- End of row -->
+</div><!-- End of container -->
+<div class="row-fluid">
+<div class="span12" style="background-color:#1b1b1b; margin-top:200px">
+<div id="footer" style="margin-top:50px">
+<div class="container">
+<p class="muted credit" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif">
+KitchenClub<br>
+copyright &copy; 2016<br>
+<a href="https://www.facebook.com/KitchenClub.today">Follow us on Facebook</a><br />
+<a href="http://kitchenclub.today/terms.php">Terms of service</a><br>
+<a href="http://kitchenclub.today/privacy.php">Privacy policy</a><br>
+<a href="mailto:contact@kitchenclub.today">Contact us</a><br>
+</p>
+</div>
+</div>
+</div>
+</div><!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56e134c0e1dc7b19"></script>
+
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({flush: true});
+</script>
+
+
+</body>
+</html>

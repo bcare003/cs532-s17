@@ -1,0 +1,1012 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<title>Mark-Night Express: Episode 66: The Technical Wrestling Episode</title>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="viewport" content="initial-scale = 1.0, user-scalable = no">
+	<meta name="description" content="Our Royal Rumble Recap went over about as well as Roman Reigns at number 30, so this week we're talking technical wrestling! Josh, Kenn, Zach and Richard go back and forth on some of their favorite technical wrestlers, talk about Kurt Angle vs Chris Benoit at the '03 Rumble, and cap the show off with a little bit of Benoit trivia.&amp;nbsp; ">
+	<meta itemprop="name" content="Mark-Night Express: Episode 66: The Technical Wrestling Episode">
+	<meta itemprop="description" content="Our Royal Rumble Recap went over about as well as Roman Reigns at number 30, so this week we're talking technical wrestling! Josh, Kenn, Zach and Richard go back and forth on some of their favorite technical wrestlers, talk about Kurt Angle vs Chris Benoit at the '03 Rumble, and cap the show off with a little bit of Benoit trivia.&amp;nbsp; ">
+	<meta itemprop="image" content="http://assets.libsyn.com/content/14199981">
+	<meta property="og:url" content="http://marknightexpress.libsyn.com/episode-66-the-technical-wrestling-episode?tdest_id=267008%0d">
+	<meta property="og:title" content="Mark-Night Express: Episode 66: The Technical Wrestling Episode">
+	<meta property="og:description" content="Our Royal Rumble Recap went over about as well as Roman Reigns at number 30, so this week we're talking technical wrestling! Josh, Kenn, Zach and Richard go back and forth on some of their favorite technical wrestlers, talk about Kurt Angle vs Chris Benoit at the '03 Rumble, and cap the show off with a little bit of Benoit trivia.&amp;nbsp; ">
+	<meta property="og:image" content="http://assets.libsyn.com/content/14199981?height=250&amp;width=250&amp;overlay=true">
+	<meta property="og:image:width" content="250">
+	<meta property="og:image:height" content="250">
+	<meta name="twitter:card" content="player">
+	<meta name="twitter:image" content="https://assets.libsyn.com/secure/item/5086034?height=480&amp;width=640&amp;overlay=true">
+	<meta name="twitter:player" content="https://html5-player.libsyn.com/embed/episode/id/5086034/theme/standard/height/480/width/640/menu/no/tdest_id/267008">
+	<meta name="twitter:player:width" content="640">
+	<meta name="twitter:player:height" content="480">
+	<meta name="twitter:player:stream" content="http://traffic.libsyn.com/preview/marknightexpress/Episode_66_-_The_Technical_Wrestling_Episode.mp3">
+	<meta name="twitter:player:stream:content_type" content="audio/mpeg">
+	<meta name="twitter:title" content="Mark-Night Express: Episode 66: The Technical Wrestling Episode">
+	<meta name="twitter:description" content="Our Royal Rumble Recap went over about as well as Roman Reigns at number 30, so this week we're talking technical wrestling! Josh, Kenn, Zach and Richard go back and forth on some of their favorite technical wrestlers, talk about Kurt Angle vs Chris Benoit at the '03 Rumble, and cap the show off with a little bit of Benoit trivia.&amp;nbsp; ">	
+	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.15.0/jquery.validate.min.js"></script>
+<!--	<script type="text/javascript" src="http://player.libsyn.com/jplayer/jquery.jplayer.js"></script>
+	<script type="text/javascript" src="http://player.libsyn.com/jplayer/libsyn.jplayer.js"></script>
+-->	<script type="text/javascript" src="http://static.libsyn.com/p/assets/platform/simplemodal/js/jquery.simplemodal.js"></script>
+	<script type="text/javascript">
+		function resizeLibsynShowHeader(){
+			var imgHeight = 289;
+			var imgWidth = 768;
+			var header = $('.libsyn-show-header');
+			var ratio = header.width()/imgWidth;
+			var newHeight = Math.floor(ratio * imgHeight);
+			$('.libsyn-show-header').height(newHeight);
+			
+						
+			var title = $('.libsyn-show-title');
+			var topPos = Math.max((newHeight/2 - title.height()/2), 50);
+			
+			title.css('top', topPos + 'px');
+			
+			while(topPos + title.height() > header.height() - 10){
+				var titleFontSize = parseInt(title.css('font-size'));
+			
+				title.css('font-size', (titleFontSize-1) + 'px');
+			}
+			
+					}
+
+		(function($){
+			$('.libsyn-comment-form form').validate();
+
+			// get all premium episodes
+			var show_id = '66322';
+			var id_prefix = "libsyn-item-";
+			var episode_ids = new Array(); // For some reason, this line was causing Firefox to become unresponsive.
+			//var episode_ids = '';
+			$('div.libsyn-item:has(div.libsyn-item-premium)').each(function(index){
+				episode_ids.push($(this).attr('id').substring(id_prefix.length));	
+			});
+			
+			var episodes =  (episode_ids.length > 0) ? episode_ids.join(',') : 0;
+			$.ajax({
+				type: 'GET',
+				url: "//my.libsyn.com/auth/check-premium-episodes",
+				data: {show_id: show_id, episodes: episodes}, 
+				dataType: 'jsonp',
+				success:function(json){
+					if(typeof json.success != "undefined"){
+						// hide premium promos
+						$('.producer_message_premium').remove();
+						$('.libsyn-item-premium').addClass('libsyn-item-free').removeClass('libsyn-item-premium');
+						
+													$('#premium-banner-wrapper').addClass("has-premium").find('a').html('You Have Premium Access');
+							$('.libsyn-premium-notice').html('<div>This is a premium episode.</div>');
+											} else {
+						noPremium();
+					}
+				},
+				error:function(xhr, textStatus, errorThrown){
+					noPremium();
+				}
+			}); 
+			
+			$.fn.libsynPlayerSize = function(options){
+				var settings = $.extend({
+					rightMargin: 30,
+					verticalMargin: 0
+				}, options);
+				
+				var maxWidth = $(window).width();
+									
+				return this.each(function(){
+					var playerWidth = $(this).width();
+					var playerHeight = $(this).height();
+					var originalWidth = $(this).data('original-width');
+					var originalHeight = $(this).data('original-height');
+					
+					if(!originalWidth){
+						originalWidth = playerWidth;
+						$(this).data('original-width', originalWidth);
+						originalHeight = playerHeight;
+						$(this).data('original-height', originalHeight);
+					}
+					var aspectRatio = originalWidth/originalHeight;
+					var containerMaxWidth = $(this).parent().css('maxWidth');
+					
+					if(containerMaxWidth && containerMaxWidth != 'none' && !isNaN(parseInt(containerMaxWidth))){
+				//		maxWidth = containerMaxWidth;
+					}
+					
+					// no players narrower than 200
+					var newWidth = Math.max(Math.min(maxWidth - settings.rightMargin, originalWidth), 200);
+					var newHeight = Math.round(newWidth/aspectRatio);
+					
+					var maxHeight = $(window).height() - settings.verticalMargin;
+					
+					if(newHeight > maxHeight && maxHeight * aspectRatio >= 200){
+						newHeight = maxHeight;
+						newWidth = Math.round(newHeight * aspectRatio);
+					}
+					if(newWidth == playerWidth) return;
+					
+					if(newHeight < 90 && originalHeight == 90) newHeight = 90;
+					
+					$(this).css('width', newWidth + 'px');
+					if(originalHeight > 75){
+						$(this).css('height', newHeight + 'px');
+					}
+				});
+			};
+		})(jQuery);
+				
+		$(document).ready(function(){
+			
+			$("#mobile_menu_drop").click(function(){
+				$('.libsyn-social').toggle('fast');
+			});
+			
+			resizeLibsynShowHeader();
+			
+			$("iframe[src*='html5-player']").libsynPlayerSize({rightMargin: 30, verticalMargin: 45});
+			
+			$('img.item-web-image')
+				.css('cursor', 'pointer')
+				.click(function(){
+					var imgLoaded = false;
+					var imgWidth = 0;
+					var imgHeight = 0;
+					var modalLoaded = false;
+					var modalContent;
+					var modalContainer;
+					var newImg = new Image();
+					newImg.src = $(this).data("src");
+					
+					var resizeModalImage = function(){
+						var horizBuffer = 60;
+						var vertBuffer = 60;
+						var maxWidth = $(window).width() - horizBuffer;
+						var maxHeight = $(window).height() - vertBuffer;
+					
+						var aspectRatio = imgWidth/imgHeight;
+						if(imgWidth > maxWidth){
+							imgWidth = maxWidth;
+							imgHeight = Math.round(imgWidth / aspectRatio);
+						}
+						
+						if(imgHeight > maxHeight){
+							imgHeight = maxHeight;
+							imgWidth = Math.round(imgHeight * aspectRatio);
+						}
+						
+						// resize image
+						$(modalContent).find('img').width(imgWidth).height(imgHeight);
+						
+						modalContainer.css('width', imgWidth + 10).css('height', 'auto');
+						$(window).trigger('resize.simplemodal');
+					}
+					
+					newImg.onload = function(){
+						imgLoaded = true;
+						imgWidth = $(newImg).width();
+						imgHeight = $(newImg).height();
+						
+						if(modalLoaded){
+							resizeModalImage();
+						}
+					};
+					
+					var modal = $('<div>').modal({
+						opacity:50, 
+						autoPosition: true, 
+						overlayClose: true, 
+						autoResize: false,
+						onShow: function(dialog){
+							modalLoaded = true;
+							modalContainer = dialog.container;
+							modalContent = dialog.wrap;
+							modalContent.append(newImg);
+							if(imgLoaded){
+								resizeModalImage();
+							}
+							dialog.container.css('height', 'auto');
+						}
+					});
+				});
+		});
+		
+		$(window).resize(function(){
+			$("iframe[src*='html5-player']").libsynPlayerSize({rightMargin: 30, verticalMargin: 45});
+			resizeLibsynShowHeader();
+		});
+		
+		function noPremium(){
+			// remove player
+			$('div.libsyn-item:has(div.libsyn-item-premium) div.libsyn-item-player').hide();
+			// remove links from download links
+			$('div.libsyn-item:has(div.libsyn-item-premium) div.libsyn-item-content ul li').each(function(){ 
+				$(this).html($(this).text()); 
+			});
+		}	
+
+		function showInfoModal(){
+			$('#info_text').modal({opacity:0, position:[60,null],dataCss:{color:"#ffffff"}, overlayClose:true});
+			$('#simplemodal-container').css('height', 'auto');
+		}
+
+		function showArchivesModal(){
+			$('#archives_text').modal({opacity:0, autoPosition: true,containerCss:{width:"200px"},dataCss:{color:"#ffffff"}, overlayClose:true, autoResize: true});
+		}
+		
+		function showCategoriesModal(){
+			$('#categories_text').modal({opacity:0, autoPosition: true,containerCss:{width:"250px"},dataCss:{color:"#ffffff"}, overlayClose:true, autoResize: true});
+		}
+	</script>
+
+	<link rel="stylesheet" href="http://static.libsyn.com/p/assets/platform/simplemodal/css/basic-3.css" />
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="http://static.libsyn.com/p/assets/platform/simplemodal/css/basic_ie.css" />
+	<![endif]-->
+	<style type="text/css">
+        body {
+                margin: 0px;
+                font-size: 12px;
+                font-family: Verdana, Geneva, sans-serif;
+				background-color: #000000;
+				color: #000000;
+									background-image: url('//asset-server.libsyn.com/show/k-4af4f6dfbff96e93/assets/background_mp1.png');
+				        }
+				
+		img.item-web-image {
+			max-width: 300px;
+			float: right;
+			margin-left: 8px;
+			margin-bottom: 8px;
+		}
+
+        a, a:active, a:link, a:visited {
+                color: #000000;
+                text-decoration: none;
+        }
+
+        a:hover {
+                text-decoration: underline;
+        }
+
+        p {
+                margin-top: 0em;
+                margin-bottom: 1em;
+        }
+		
+		button, input[type="submit"] {
+			background-color: #B50D01;
+			border: 1px solid #f0f0f0;
+			color: #ffffff;
+		}
+		
+		.libsyn-podcast-page, #premium-banner-inner, #status-message-inner {
+			max-width: 768px;
+            min-width: 320px;
+			margin-left: auto;
+            margin-right: auto;
+		}
+		
+        .libsyn-podcast-page {
+                background-color: #ffffff;
+                margin-bottom: 40px;
+                -moz-border-bottom-left-radius: 15px;
+                -webkit-border-bottom-left-radius: 15px;
+                -khtml-border-bottom-left-radius: 15px;
+                border-bottom-left-radius: 15px;
+                -moz-border-bottom-right-radius: 15px;
+                -webkit-border-bottom-right-radius: 15px;
+                -khtml-border-bottom-right-radius: 15px;
+                border-bottom-right-radius: 15px;
+				        }
+		
+		#premium-banner-wrapper {
+			background-color: #B50D01;
+			height: 40px;
+			position:fixed;
+			top: 0;
+			z-index: 100;
+			line-height: 40px;
+			width: 100%;
+			font-size: 14px;
+		}
+		
+		#status-message-wrapper {
+			background-color: #FFFFFF;
+			height: 40px;
+			top: 0;
+			position:fixed;
+			z-index: 100;
+			line-height: 40px;
+			width: 100%;
+			font-size: 14px;
+		}
+		
+		#premium-banner-wrapper.has-premium {
+			position: absolute;
+			background-color: #06BB00;
+		}
+		
+		#premium-banner-inner a{
+			color: #ffffff;
+			font-weight: bold;
+		}
+		
+		#premium-banner-inner a:hover{
+			color: #ffffff;
+			text-decoration: underline;
+		}	
+		
+		#premium-banner-wrapper .icon {
+			margin-left: 20px;
+			margin-right: 5px;
+			position: relative;
+			top: 3px;
+			height: 16px;
+			width: 16px;
+			display: inline-block;
+			text-indent: -99999px;
+			overflow: hidden;
+			background-repeat: no-repeat;
+			background-image: url('http://static.libsyn.com/p/assets/platform/pcp-sprite-ffffff.png');
+			background-position: 0 0;
+		}
+		
+		#premium-banner-wrapper.has-premium .icon{
+			background-position: -16px 0;
+		}
+			
+			
+        .libsyn-archives {
+                margin-left: auto;
+                margin-right: auto;
+        }
+		
+		#categories_text ul {
+			padding-left: 5px;
+			list-style-type:none;
+		}
+		
+		#categories_text li {
+			margin: 5px auto;
+		}
+
+        .libsyn-show-header {
+                background-color: #000000;
+                height: 289px;
+                font-weight: bold;
+                color: #333;
+                position: relative;
+        }
+
+        .libsyn-show-title,
+        .libsyn-show-title:active,
+        .libsyn-show-title:visited,
+        .libsyn-show-title:link {
+                display: block;
+                position: absolute;
+                left: 20px;
+                top: 100px;
+                font-size: 2.5em;
+				color: #ffffff;
+		}
+
+        .libsyn-show-title:hover {
+                text-decoration: none;
+        }
+
+        .libsyn-item-list {
+                padding-left: 15px;
+                padding-right: 15px;
+        }
+
+        .libsyn-social-button {
+                background-image: url('http://static.libsyn.com/p/assets/platform/icon_argyle.png');
+                overflow: hidden;
+                color: transparent;
+                display: block;
+                height:35px;
+                width:40px;
+                float:left;
+				cursor: pointer;
+        }
+		
+		
+        .libsyn-social-button span {
+                display: none;
+        }
+
+        .libsyn-social-info {
+                background-position: -475px center;
+        }
+
+        .libsyn-social-twitter {
+                background-position: -2px center;
+        }
+
+        .libsyn-social-facebook {
+                background-position: -60px center;
+        }
+
+        .libsyn-social-phone {
+                background-position:-116px center;
+        }
+
+        .libsyn-social-email {
+                background-position: -182px center;
+        }
+
+        .libsyn-social-itunes {
+                background-position:-248px center;
+        }
+
+        .libsyn-social-rss {
+                background-position:-306px center;
+        }
+
+        .libsyn-social-android {
+                background-position: -343px center;
+        }
+
+        .libsyn-social-ios {
+                background-position: -376px center; 
+				width: 96px;
+        }
+
+		.libsyn-social-premium {
+							background-position: -655px center;
+                width: 55px;
+						
+			position:relative;
+			top:-1px;
+        }
+		
+		.libsyn-social-premium.logged-in {
+			background-position: -795px center;
+			width: 68px;
+		}
+		
+		#libsyn-social-spacer {
+			width: 100%;
+			height: 18px;
+		}
+		
+        .libsyn-social {
+			width: 500px;
+			margin-left: 20px;
+			display: block;
+        }
+
+        .libsyn-search {
+                z-index: 15;
+                float: right;
+				width: 200px;
+                margin-right: 20px;
+				margin-bottom: 8px;
+				margin-top: 20px;
+                text-align: right;
+        }
+
+        .libsyn-search-field {
+                width: 150px;;
+                padding: 4px;
+                padding-left: 13px;
+                font-size: 1.1em;
+                -moz-border-radius: 15px;
+                -webkit-border-radius: 15px;
+                -khtml-border-radius: 15px;
+                border-radius: 15px;
+                border: 1px #333 solid;
+                opacity: .25;
+        }
+
+        .libsyn-search-field:focus {
+                opacity: .85;
+                outline: none;
+        }
+
+        .libsyn-item {
+                padding-top: 20px;
+                padding-bottom: 20px;
+                border-bottom: 1px #ccc solid;
+        }
+
+        .libsyn-item-title a {
+                display: block;
+                font-size: 1.6em;
+                font-weight: bold;
+                height: 1.6em;
+                width: 100%;
+                white-space: nowrap;
+                overflow: hidden;
+                text-overflow: ellipsis;
+				color: #000000;
+        }
+
+        .libsyn-item-title a,
+        .libsyn-item-title a:visited,
+        .libsyn-item-title a:link,
+        .libsyn-item-title a:active {
+                color:  #000000;
+        }
+
+        .libsyn-item-title a:hover {
+                text-decoration: none;
+        }
+
+        .libsyn-item-content li {
+                list-style-type: none;
+                line-height: 18px;
+        }
+		
+		.libsyn-item-content a:hover {
+			text-decoration: underline;
+		}
+		
+
+        .libsyn-premium {
+                display: block;
+                float: left;
+                background-image: url(http://static.libsyn.com/p/assets/platform/18px_lock.png);
+                width: 12px;
+                height: 18px;
+                margin-right: 5px;
+        }
+        
+        ul.libsyn-item-premium li{
+                text-decoration:line-through;
+        }       
+
+        .libsyn-item-content .libsyn-item-premium {
+                list-style-image: url(http://static.libsyn.com/p/assets/platform/18px_lock.png);
+        }
+
+        .libsyn-item-release-date {
+                font-size: .9em;
+                color: #555555;
+                padding-bottom: 7px;
+        }
+		
+        .libsyn-comment-count,
+        .libsyn-comment-count:active,
+        .libsyn-comment-count:visited,
+        .libsyn-comment-count:link {
+                background-image: url('//assets.libsyn.com/static/wtfpod/25px_comment_bubble_argyle.png');
+                background-position: 0px -22px;
+                display: block;
+                float: right;
+                height: 21px;
+                width: 25px;
+                padding-top: 1px;
+				text-decoration: none;
+                text-align: center;
+                color: #fff !important;
+				font-size: 0.9em !important;
+				font-weight: normal !important;
+		}
+
+        .libsyn-comment-count:hover {
+                text-decoration: none;
+        }
+
+        .libsyn-item-body {
+                line-height: 1.5em;
+				color: #000000;
+        }
+
+        .libsyn-item-social {
+                margin-bottom: 10px;
+        }
+
+        .libsyn-item-player {
+                margin-bottom: 10px;
+        }
+
+        .libsyn-episode-player .libsyn-player {
+                border: 1px #aaa solid;
+                background-color: #efefef;\
+                /**
+                -webkit-border-radius: 10px;
+                -moz-border-radius: 10px;
+                border-radius: 10px;
+                **/
+        }
+
+        .libsyn-item-content a {
+                font-weight: bold;
+        }
+        
+        .libsyn-extra-content{
+                text-transform:capitalize;      
+        }       
+
+        .libsyn-comments {
+                margin-top: 20px;
+        }
+
+        .libsyn-comment-header {
+                font-size: 1.5em;
+                margin-bottom: 10px;
+        }
+
+        .libsyn-comments ul {
+                padding: 0px;
+                margin: 0px;
+        }
+
+        .libsyn-comment {
+                list-style-type: none;
+                margin-left: 0px;
+                margin-bottom: 20px;
+                padding: 20px;
+                background-color: #eee;
+        }
+
+        .libsyn-comment-poster-name {
+                font-weight: bold;
+        }
+
+        .libsyn-comment-creation-date {
+                float: right;
+        }
+
+        .libsyn-comment-form {
+                width: 70%;
+                margin-top: 50px;
+                margin-left: auto;
+                margin-right: auto;
+        }
+
+        .libsyn-comment-form-fields {
+                padding: 0px;
+                margin: 0px;
+        }
+
+        .libsyn-comment-form-fields li {
+                list-style-type: none;
+                margin-left: 0px;
+        }
+
+        .libsyn-comment-form-fields label {
+                display: block;
+                margin-top: 10px;
+        }
+
+        #recaptcha {
+                margin-top: 10px;
+        }
+
+        .libsyn-comment-form-fields label.error {
+                margin-top: 0px;
+                color: red;
+        }
+
+        .libsyn-comment-form-fields input,
+        .libsyn-comment-form-fields textarea {
+                border: 1px #aaa solid;
+                padding: 7px;
+                font-size: 1.4em;
+                width: 100%;
+        }
+
+        .libsyn-comment-form-fields input:focus,
+        .libsyn-comment-form-fields textarea:focus {
+                border: 1px #000 solid;
+                outline: none;
+        }
+
+        #submit {
+                margin-top: 15px;
+                width: auto;
+                padding-left: 20px;
+                padding-right: 20px;
+                cursor: pointer;
+        }
+
+        .libsyn-alert {
+                font-size: 1.1em;
+                        font-weight: bold;
+                padding: 10px;
+                margin-bottom: 25px;
+                border:1px #CCDF00 solid;
+                background-color:#F8FFA7;
+        }
+
+        .libsyn-copyright {
+                font-size: .85em;
+                font-style: italic;
+        }
+
+        .pager {
+                text-align: center;
+                margin-top: 20px;
+        }
+
+        .pager .page {
+                padding-left: 7px;
+                padding-right: 7px;
+        }
+
+        .pager .currentPage {
+                font-weight: bold;
+                font-size: 1.4em;
+        }
+
+        .pager .previousPage {
+                padding-right: 15px;
+        }
+
+        .pager .nextPage {
+                padding-left: 15px;
+        }
+
+        .pager .anchorPage {
+                padding-left: 10px;
+                padding-right: 10px;
+        }
+		
+		.pager a:hover {
+			text-decoration: underline;
+		}
+
+        .padding {
+                padding: 20px;
+        }
+
+        .center {
+                text-align: center;
+                margin-left: auto;
+                margin-right: auto;
+        }
+
+        .clear {
+                clear: both;
+        }
+
+        .space {
+                min-height: 20px;
+                height: 20px;
+        }	
+		
+		a, a:link, a:hover, a:visited {
+			color: #000000;
+			text-decoration:none;
+		}
+
+        .libsyn-navbar {
+                background-color: #dcdcdc;
+                padding: 2px 5px;
+        }
+
+        .libsyn-navbutton {
+                color: #000000;
+                font-size: 12px;
+                text-decoration: none;
+                vertical-align: middle;
+                display: inline-block;
+                margin: 5px;
+        }
+
+        .libsyn-navbutton, a.libsyn-navbutton:active, a.libsyn-navbutton:link, a.libsyn-navbutton:visited {
+                text-decoration: none;
+                color: #000000;
+        }
+
+        a.libsyn-navbutton:hover, div.libsyn-navbutton:hover {
+                color: #000000;
+                cursor: pointer;
+                text-decoration: underline;
+        }
+
+        .libsyn-navbutton:active {
+                color: #1874CD;
+        }
+
+        .libsyn-filterbar {
+                background-color: #f0f0f0;
+				color: #000000;
+                padding: 7px 10px;
+                font-weight: bold;
+                border-bottom: 1px #999999 solid;
+                border-top: 1px #999999 solid;
+        }
+
+        .libsyn-producer-message {
+                background-color: #666666;
+                color: #ffffff;
+                font-size:14pt;
+                padding: 7px 10px;
+                border-bottom: 1px solid #999999;
+                border-top: 1px solid #999999;
+        }
+
+        .libsyn-message-button {
+                margin-left: auto;
+                margin-right: auto;
+				padding: 10px;
+                cursor: pointer;
+                display: block;
+				font-weight: bold;
+        }
+
+        /* fix player fullscreen */
+        .jp-playlist{display:none}
+        .libsyn-fullscreen{z-index:1000000000}
+        
+
+        /* info modal */
+        #info_text{
+                display:none;
+        }
+
+        /* archives modal */
+        #archives_text{
+                display:none;
+        }
+		
+		 /* categories modal */
+        #categories_text{
+                display:none;
+        }
+
+        #simplemodal-container {width:600px; color:#ffffff; background-color:#333333; border:4px solid #444444; padding:12px;}
+	
+        #simplemodal-container h2 {margin-top:0px}
+		
+		#simplemodal-container a {
+			color: #ffffff;
+		}
+		
+				
+		#mobile_menu_drop {
+			height: 30px;
+			width: 30px;
+			background-image: url('http://static.libsyn.com/p/assets/platform/pcp-resp-menu-white.png');
+			display:none;
+			position: absolute;
+			top: 10px;
+			left: 10px;
+		}
+		
+		@media only screen and (max-width: 700px) {
+			#mobile_menu_drop {
+				display: inline-block;
+			}
+			
+			.libsyn-social {
+				z-index: 999;
+				position: absolute;
+				top: 50px;
+				width: 100% !important;
+				display: none;
+				margin-left: 0 !important;
+				background-color:rgba(0, 0, 0, 0.8);
+				padding-top: 10px;
+			}
+
+						
+			.libsyn-social .libsyn-social-button {
+				display: block;
+				float: none;
+				background-image: none;
+				z-index: 100;
+				width: 100%;
+			}
+			
+			.libsyn-social .libsyn-social-button span.libsyn-social-title {
+				display:block;
+				color: white;
+				margin: 5px;
+				font-size: 1.7em;
+			}
+			
+			#simplemodal-container {width:80%; }
+		}
+
+        </style>
+	<style type="text/css">
+
+		</style>
+<script type="text/javascript">
+	var _gaq = _gaq || [];_gaq.push(['_setAccount','UA-1417413-3']);_gaq.push(['_trackPageview']);(function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();
+
+ </script>
+
+</head>
+<body>
+			<div class="libsyn-podcast-page">
+		<div class="libsyn-show-header">
+			
+<div class="libsyn-search"><form method="get" action="http://marknightexpress.libsyn.com"><input class="libsyn-search-field" type="text" name="search" placeholder="Search" /></form></div>			<div id="libsyn-social-spacer"></div>
+<div id="mobile_menu_drop"></div><div class="libsyn-social">
+<div onClick="showInfoModal()" class="libsyn-social-button libsyn-social-info"><span class="libsyn-social-title">Info</span></div>
+<div id="info_text"><h2>Mark-Night Express</h2>Just four guys talking pro wrestling. Nothing weird about that.</div>
+<a class="libsyn-social-button libsyn-social-email" href="mailto:marknightexpress@gmail.com" target="_blank" title="Email"><span class="libsyn-social-title">Email</span></a>
+<a class="libsyn-social-button libsyn-social-rss" href="http://marknightexpress.libsyn.com/rss" target="_blank" title="RSS Feed"><span class="libsyn-social-title">RSS Feed</span></a>
+</div> <!-- CLOSE <div class="libsyn-social"> -->			
+<div class="clear"></div>			
+<a class="libsyn-show-title" href="/">Mark-Night Express</a>		</div> <!-- CLOSE <div class="libsyn-show-header"> -->
+		<div id="archives_text" class="libsyn-archives"><div style="border-bottom: 1px solid #aaa; width:40%;"><strong><a href="/2017">2017</a></strong><br /><span style="margin-left: 10px;"><a href="/2017/02">February</a><br></span><span style="margin-left: 10px;"><a href="/2017/01">January</a><br></span><br /></div> <!-- CLOSE <div style="border-bottom: 1px solid #aaa; width:40%;"> --><br /><div style="border-bottom: 1px solid #aaa; width:40%;"><strong><a href="/2016">2016</a></strong><br /><span style="margin-left: 10px;"><a href="/2016/12">December</a><br></span><span style="margin-left: 10px;"><a href="/2016/11">November</a><br></span><span style="margin-left: 10px;"><a href="/2016/10">October</a><br></span><span style="margin-left: 10px;"><a href="/2016/08">August</a><br></span><span style="margin-left: 10px;"><a href="/2016/07">July</a><br></span><span style="margin-left: 10px;"><a href="/2016/06">June</a><br></span><span style="margin-left: 10px;"><a href="/2016/05">May</a><br></span><span style="margin-left: 10px;"><a href="/2016/04">April</a><br></span><span style="margin-left: 10px;"><a href="/2016/03">March</a><br></span><span style="margin-left: 10px;"><a href="/2016/02">February</a><br></span><span style="margin-left: 10px;"><a href="/2016/01">January</a><br></span><br /></div> <!-- CLOSE <div style="border-bottom: 1px solid #aaa; width:40%;"> --><br /><div style="border-bottom: 1px solid #aaa; width:40%;"><strong><a href="/2015">2015</a></strong><br /><span style="margin-left: 10px;"><a href="/2015/12">December</a><br></span><span style="margin-left: 10px;"><a href="/2015/11">November</a><br></span><span style="margin-left: 10px;"><a href="/2015/10">October</a><br></span><span style="margin-left: 10px;"><a href="/2015/09">September</a><br></span><span style="margin-left: 10px;"><a href="/2015/08">August</a><br></span><span style="margin-left: 10px;"><a href="/2015/07">July</a><br></span><span style="margin-left: 10px;"><a href="/2015/06">June</a><br></span><span style="margin-left: 10px;"><a href="/2015/05">May</a><br></span><span style="margin-left: 10px;"><a href="/2015/04">April</a><br></span><br /></div> <!-- CLOSE <div style="border-bottom: 1px solid #aaa; width:40%;"> --><br /></div> <!-- CLOSE <div id="archives_text" class="libsyn-archives"> -->		<div id="categories_text" class="libsyn-categories"><h2>Categories</h2> <ul><li><a href="/category/general">general</a></li><li><a href="/category/Pro-Wrestling">Pro-Wrestling</a></li></ul></div> <!-- CLOSE <div id="categories_text" class="libsyn-categories"> -->		
+<div class="libsyn-navbar">
+<a class="libsyn-navbutton" href="/">All Episodes</a>
+<div class="libsyn-navbutton" style="width:auto" onClick="showArchivesModal()">Archives</div>
+<div class="libsyn-navbutton" style="width:auto" onClick="showCategoriesModal()">Categories</div>
+</div> <!-- CLOSE <div class="libsyn-navbar"> -->		
+<div class="libsyn-filterbar">Now displaying: Page 1</div>		
+		
+<div class="libsyn-item-list"><div class="libsyn-item" id="libsyn-item-5086034">
+<div class="libsyn-item-title">
+<a href="http://marknightexpress.libsyn.com/episode-66-the-technical-wrestling-episode">Episode 66: The Technical Wrestling Episode</a>
+<a class="libsyn-comment-count" href="http://marknightexpress.libsyn.com/episode-66-the-technical-wrestling-episode#comments">0</a>
+</div> <!-- CLOSE <div class="libsyn-item-title"> -->
+<div class="libsyn-item-release-date">
+Feb 15, 2017
+</div> <!-- CLOSE <div class="libsyn-item-release-date"> -->
+<div class="libsyn-item-body">
+<p>Our Royal Rumble Recap went over about as well as Roman Reigns at number 30, so this week we're talking technical wrestling! Josh, Kenn, Zach and Richard go back and forth on some of their favorite technical wrestlers, talk about Kurt Angle vs Chris Benoit at the '03 Rumble, and cap the show off with a little bit of Benoit trivia.&nbsp;</p> 
+</div> <!-- CLOSE <div class="libsyn-item-body"> -->
+<div class="libsyn-item-social">
+<div class="pw-widget pw-counter-horizontal" pw:url="http://marknightexpress.libsyn.com/episode-66-the-technical-wrestling-episode" pw:title="Episode 66: The Technical Wrestling Episode">
+<a class="pw-button-facebook pw-look-native"></a>
+<a class="pw-button-twitter pw-look-native"></a>
+<a class="pw-button-pinterest pw-look-native"></a>
+<a class="pw-button-googleplus pw-look-native"></a>
+<a class="pw-button-post-share"></a>
+</div>
+</div> <!-- CLOSE <div class="libsyn-item-social"> -->
+<div class="libsyn-item-player">
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5086034/height/45/width/300/theme/standard/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/direction/forward/tdest_id/267008/" height="45" width="300" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+</div> <!-- CLOSE <div class="libsyn-item-player"> -->
+<div class="libsyn-item-content">
+<ul class="libsyn-item-free">
+<li><a href="http://traffic.libsyn.com/marknightexpress/Episode_66_-_The_Technical_Wrestling_Episode.mp3?dest-id=267008" >Download this Episode</a></li>
+</ul>
+</div> <!-- CLOSE <div class="libsyn-item-content"> -->
+<div class="libsyn-comments">
+<div class="libsyn-comment-header">0 Comments</div>
+<div class="libsyn-comment-form">
+<form method="post" action="//web-support.libsyn.com/comment/submit">
+<input type="hidden" name="item_id" value="5086034"/>
+<input type="hidden" name="redirect_url" value="http://marknightexpress.libsyn.com/episode-66-the-technical-wrestling-episode?tdest_id=267008%0d/comments"/>
+<input type="hidden" name="client_ip" value="204.16.242.208"/>
+<input type="hidden" name="comment_poster_user_agent" value="Wget/1.15 (linux-gnu)"/>
+<ul class="libsyn-comment-form-fields">
+<li>
+<label for="comment_poster_name">Name</label>
+<input name="comment_poster_name" id="comment_poster_name" type="text" size="255" class="required" value="" required />
+</li>
+<li>
+<label for="comment_poster_email">E-mail</label>
+<input name="comment_poster_email" id="comment_poster_email" type="email" size="255" class="required email" value="" required />
+</li>
+<li>
+<label for="comment_body">Comment</label>
+<textarea name="comment_body" id="comment_body" cols="50" rows="6" class="required" required></textarea>
+</li>
+<li id="recaptcha">
+<script type="text/javascript">
+var RecaptchaOptions = {"theme":"red","lang":"en"};
+</script>
+<script type="text/javascript" src="//www.google.com/recaptcha/api/challenge?k=6Le90QAAAAAAANK4VJBwyDUz-6bOYmb5VnbSXxkz">
+</script>
+<noscript>
+<iframe src="//www.google.com/recaptcha/api/noscript?k=6Le90QAAAAAAANK4VJBwyDUz-6bOYmb5VnbSXxkz" height="300" width="500" frameborder="0"></iframe><br>
+<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
+<input type="hidden" name="recaptcha_response_field" value="manual_challenge">
+</noscript>
+</li>
+<li><input type="submit" name="submit" id="submit" value="post comment"/></li>
+</ul>
+</form>
+</div> <!-- CLOSE <div class="libsyn-comment-form"> -->
+</div> <!-- CLOSE <div class="libsyn-comments"> -->
+</div> <!-- CLOSE <div class="libsyn-item" id="libsyn-item-5086034"> -->
+</div> <!-- CLOSE <div class="libsyn-item-list"> -->		
+<div class="space"></div>				
+<div class="space"></div>			</div> <!-- CLOSE <div class="libsyn-podcast-page"> -->
+
+	
+	<script src="//i.po.st/share/script/post-widget.js#publisherKey=j83vqrk56jrkmkqqt00c" type="text/javascript"></script>
+</body>
+</html>

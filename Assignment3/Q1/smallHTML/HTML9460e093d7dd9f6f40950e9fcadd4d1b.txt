@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+  <head>
+    <!--Optimizely-->
+    <script src="//cdn.optimizely.com/js/1593960153.js"></script>
+    <title>These Nuns Have a Unique Approach to Marijuana</title>
+    <meta charset="utf-8">
+    <meta content="width=device-width, height=device-height, maximum-scale=2.0, minimum-scale=1.0, initial-scale=1.0, user-scalable=yes" name="viewport">
+    <meta content="yes" name="apple-mobile-web-app-capable">
+    <link href="http://www.attn.com/rss.xml" rel="alternate" title="RSS" type="application/rss+xml">
+    <!-- Resource Page-->
+    <link href="http://www.attn.com/stories/4989/sisters-of-the-valley-nuns-grow-marijuana" rel="canonical">
+    <link rel="amphtml" href="http://attn-google-amp.herokuapp.com/stories/4989/sisters-of-the-valley-nuns-grow-marijuana">
+    <meta content="Kyle Jaeger" name="author">
+    <meta content="@kylejaeger" name="twitter:creator">
+    <meta content="1200" property="og:image:width">
+    <meta content="630" property="og:image:height">
+    <meta content="These Nuns Are Growing Marijuana for the Best Reason" property="og:title">
+    <meta content="These nuns are helping patients with cannabis." property="og:description">
+    <meta content="http://www.attn.com/stories/4989/sisters-of-the-valley-nuns-grow-marijuana" property="og:url">
+    <meta content="http://static.images.publisher.attn.com/sites/default/files/mj-nuns.jpg" property="og:image">
+    <meta content="ATTN:" property="og:site_name">
+    <meta content="article" property="og:type">
+    <meta content="1461886984083632" property="fb:app_id">
+    <meta content="https://www.facebook.com/attn" property="article:publisher">
+    <meta content="summary_large_image" name="twitter:card">
+    <meta content="attn" name="twitter:site">
+    <meta content="http://www.attn.com/stories/4989/sisters-of-the-valley-nuns-grow-marijuana" name="twitter:url">
+    <meta content="These Nuns Are Growing Marijuana for the Best Reason" name="twitter:title">
+    <meta content="These nuns are helping patients with cannabis." name="twitter:description">
+    <meta content="http://static.images.publisher.attn.com/sites/default/files/mj-nuns.jpg" name="twitter:image:src">
+    <meta content="The Sisters of the Valley is a California-based cannabis business founded by two self-proclaimed nuns who focus on CBD-derived medicines for patients. " name="description">
+    <!-- Sailthru-->
+    <meta content="These Nuns Are Growing Marijuana for the Best Reason" name="sailthru.title">
+    <meta content="The Sisters of the Valley is a California-based cannabis business founded by two self-proclaimed nuns who focus on CBD-derived medicines for patients." name="sailthru.description">
+    <meta content="Kyle Jaeger" name="sailthru.author">
+    <meta content="Drugs and Health" name="sailthru.tags">
+    <meta content="2016-01-04 04:48:00" name="sailthru.date">
+    <meta content="http://static.images.publisher.attn.com/sites/default/files/styles/media_thumbnail/public/mj-nuns.jpg" name="sailthru.image.thumb">
+    <meta content="http://static.images.publisher.attn.com/sites/default/files/mj-nuns.jpg" name="sailthru.image.full">
+    <meta content="on" name="twitter:widgets:csp">
+    <meta content="none" name="msapplication-config">
+    <!-- Stylesheets-->
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/vendor/chartist/dist/chartist.min.css" rel="stylesheet">
+    <link href="/main.css" rel="stylesheet">
+    <!-- twitter-->
+    <script>
+      window.twttr = (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0],
+          t = window.twttr || {};
+        if (d.getElementById(id)) return t;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "https://platform.twitter.com/widgets.js";
+        fjs.parentNode.insertBefore(js, fjs);
+        t._e = [];
+        t.ready = function(f) {
+          t._e.push(f);
+        };
+        return t;
+      }(document, "script", "twitter-wjs"));
+    </script>
+    <!-- comscore-->
+    <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "20056848" });
+      (function() {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+      })();
+    </script>
+    <noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=20056848&cv=2.0&cj=1"></noscript>
+    <!-- alexa-->
+    <script>
+      _atrk_opts = { atrk_acct:"MWswl1agWBr152", domain:"attn.com",dynamic: true};
+      (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+    </script>
+    <noscript><img alt="" height="1" src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=MWswl1agWBr152" style="display:none" width="1"></noscript>
+    <!-- chartbeat-->
+    <script>var _sf_startpt=(new Date()).getTime()</script>
+    <!-- heap analytics-->
+    <script type="text/javascript">
+      window.heap=window.heap||[],heap.load=function(e,t){window.heap.appid=e,window.heap.config=t=t||{};var r=t.forceSSL||"https:"===document.location.protocol,a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=(r?"https:":"http:")+"//cdn.heapanalytics.com/js/heap-"+e+".js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n);for(var o=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},p=["addEventProperties","addUserProperties","clearEventProperties","identify","removeEventProperty","setEventProperties","track","unsetEventProperty"],c=0;c<p.length;c++)heap[p[c]]=o(p[c])};
+      heap.load("3663792875");
+    </script>
+    <script>
+      !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+      n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+      document,'script','//connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '438354786373465');
+      fbq('track', "PageView");
+      fbq('track', 'ViewContent');
+      fbq('track', 'Search');
+    </script>
+    <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=843499249100411&ev=PageView&noscript=1"></noscript>
+    <!-- typekit-->
+    <script src="//use.typekit.net/gkd3lmb.js"></script>
+    <script>
+      try{Typekit.load();}catch(e){}
+      
+    </script>
+  </head>
+  <!-- body-->
+  <body>
+    <!-- facebook-->
+    <div id="fb-root"></div>
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId      : '1461886984083632',
+          xfbml      : true,
+          version    : 'v2.1'
+        });
+      };
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.async=true;
+         js.src = "//connect.facebook.net/en_US/all.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk'));
+    </script>
+    <div class="chrome">
+      <div class="pop-in">
+        <button class="fa fa-close overlay-close pop-in__btn-close"></button>
+        <div class="pop-in__content">
+          <div class="cta-overlay cta-overlay--fb">
+            <div class="cta-overlay__info">
+              <h2>Social issues affect you, too.</h2>
+              <h3>Like ATTN: on Facebook</h3>
+            </div>
+            <div class="cta-overlay__action">
+              <div data-action="like" data-href="https://www.facebook.com/attn" data-layout="button_count" data-share="false" data-show-faces="false" class="fb-like"></div>
+              <p class="overlay-close">No thanks, I'm already a fan.</p>
+            </div>
+          </div>
+          <div class="cta-overlay cta-overlay--email">
+            <div class="cta-overlay__info">
+              <h2>Subscribe</h2>
+              <h3>Emails arrive in your inbox every Sunday.</h3>
+            </div>
+            <div class="cta-overlay__action">
+              <div id="subscriptions-pop-in-email" class="subscribe"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- overlay-->
+      <div class="overlay">
+        <div class="overlay--background">
+          <button class="fa fa-close overlay-close overlay__btn-close"></button>
+          <div class="overlay__content"></div>
+        </div>
+      </div>
+      <div style="display:none;" class="subnav">
+        <div class="cta-overlay email-overlay-takeover email-overlay">
+          <div class="cta-overlay__info email-overlay__info">
+            <h2>Pay ATTN:</h2>
+            <h3>We share commentary, news articles, and videos that cover important societal topics as well as give you opportunities to take action.</h3>
+          </div>
+          <div class="cta-overlay__action email-overlay__subscribe">
+            <div id="subscriptions-email-overlay" class="subscribe"></div><span>Emails arrive in your inbox every Sunday.</span>
+          </div>
+        </div>
+      </div>
+      <header class="main g_site-header g_site-header--fixed">
+        <div class="wrapper">
+          <div class="g_site-header__logo"><a href="/"><img src="https://s3.amazonaws.com/attn-assets/logos/logo.svg" alt="attn" class="logo"></a></div>
+          <nav class="nav--align-right">
+            <div class="nav__menu-item hidden--sm">
+              <div class="btn-group btn-group--condensed"><a href="https://www.facebook.com/attn" target="_blank" class="btn btn--reset btn--small fa fa-facebook-square"></a><a href="https://twitter.com/attn" target="_blank" class="btn btn--reset btn--small fa fa-twitter"></a><a href="https://instagram.com/attndotcom" target="_blank" class="btn btn--reset btn--small fa fa-instagram"></a><a href="http://www.snapchat.com/add/attndotcom" target="_blank" class="btn btn--reset fa btn--small fa-snapchat-ghost"></a><a href="/subscribe" class="btn btn--reset fa btn--small fa-envelope"></a></div>
+            </div>
+            <div class="nav__menu-item nav__trigger">
+              <button class="overlay-open menu-item--subnav-trigger"><span>Menu</span>
+                <script>
+                  if (!window.ATTN_DATA) window.ATTN_DATA = {}
+                  
+                </script>
+                <div style="display: none;" class="subnav">
+                  <ul class="section__links--nav">
+                    <li data-issue="video" class="subnav--topic subnav--topic-video"><a href="/videos" class="subnav--links"><span class="icon--issue icon--issue-video"></span>
+                        <h2>Videos</h2></a></li>
+                    <li data-issue="economy" class="subnav--topic subnav--topic-economy"><a href="/issues/economy" class="subnav--links"><span class="icon--issue icon--issue-economy"></span>
+                        <h2>economy</h2></a></li>
+                    <li data-issue="politics" class="subnav--topic subnav--topic-politics"><a href="/issues/politics" class="subnav--links"><span class="icon--issue icon--issue-politics"></span>
+                        <h2>politics</h2></a></li>
+                    <li data-issue="environment" class="subnav--topic subnav--topic-environment"><a href="/issues/environment" class="subnav--links"><span class="icon--issue icon--issue-environment"></span>
+                        <h2>environment</h2></a></li>
+                    <li data-issue="justice" class="subnav--topic subnav--topic-justice"><a href="/issues/justice" class="subnav--links"><span class="icon--issue icon--issue-justice"></span>
+                        <h2>justice</h2></a></li>
+                    <li data-issue="money" class="subnav--topic subnav--topic-money"><a href="/issues/money" class="subnav--links"><span class="icon--issue icon--issue-money"></span>
+                        <h2>money</h2></a></li>
+                    <li data-issue="health" class="subnav--topic subnav--topic-health"><a href="/issues/health" class="subnav--links"><span class="icon--issue icon--issue-health"></span>
+                        <h2>health</h2></a></li>
+                  </ul>
+                </div>
+              </button>
+            </div>
+            <div class="search__btn--header nav__menu-item"><a href="#">
+                <button class="overlay-open menu-item--search"></a>
+              <div style="display: none;" class="subnav">
+                <div class="search--overlay">
+                  <div class="form-group">
+                    <form id="search">
+                      <div class="form-item">
+                        <div class="form-item__field-wrapper"><span class="field-input__icon"><span class="fa fa-search"></span></span>
+                          <input autocomplete="off" name="q" type="search" value="" class="field-input">
+                        </div>
+                      </div>
+                    </form>
+                  </div>
+                </div>
+                <div id="resourcelist-search-results" class="resource-list resource-list--large-two-up search__results"></div>
+              </div>
+            </div>
+          </nav>
+        </div>
+      </header>
+      <header class="social-header g_site-header g_site-header--small g_site-header--fixed">
+        <div class="wrapper">
+          <div class="g_site-header__logo"><a href="/"><img src="https://s3.amazonaws.com/attn-assets/logos/logo-small.svg" alt="attn" class="logo"></a></div>
+          <nav class="nav--align-right">
+            <div class="nav__menu-item">
+              <div class="share share-4 lg-social"><a href="http://www.snapchat.com/add/attndotcom" target="_blank" class="btn btn-snapchat snapchat-follow">
+                  <div class="btn__content"><img src="https://www.snapchat.com/static/style-guide/images/ghost/ghost.svg?version=2015-06-26-a"><span class="share-action">Tap to Follow</span></div></a>
+                <div class="btn-group"><a data-share="facebook" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.attn.com%2Fstories%2F4989%2Fsisters-of-the-valley-nuns-grow-marijuana%3Futm_source%3Dfacebook%26utm_medium%3Ddirect-share%26utm_campaign%3Dshares" target="_blank" class="btn btn-facebook fb-share"><span class="fa fa-facebook-square"></span><span class="share-action">Share</span></a><a data-share="twitter" href="http://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.attn.com%2Fstories%2F4989%2Fsisters-of-the-valley-nuns-grow-marijuana%3Futm_source%3Dtwitter%26utm_medium%3Ddirect-share%26utm_campaign%3Dshares&amp;text=These%20Nuns%20Are%20Growing%20Marijuana%20for%20the%20Best%20Reason&amp;via=attn" target="_blank" class="btn btn-twitter twitter-share"><span class="fa fa-twitter"></span><span class="share-action">Tweet</span></a><a data-share="mail" href="mailto:?subject=ATTN:%20These%20Nuns%20Are%20Growing%20Marijuana%20for%20the%20Best%20Reason&amp;body=These Nuns Are Growing Marijuana for the Best Reason%0A%0Ahttp%3A%2F%2Fwww.attn.com%2Fstories%2F4989%2Fsisters-of-the-valley-nuns-grow-marijuana%3Futm_source%3Demail%26utm_medium%3Ddirect-share%26utm_campaign%3Dshares" class="btn btn-mail-to mail-share"><span class="fa fa-envelope"></span><span class="share-action">Email</span></a><a data-share="sms" data-sms-body="These%20Nuns%20Are%20Growing%20Marijuana%20for%20the%20Best%20Reason%20-%20http%3A%2F%2Fwww.attn.com%2Fstories%2F4989%2Fsisters-of-the-valley-nuns-grow-marijuana%3Futm_source%3Dsms%26utm_medium%3Ddirect-share%26utm_campaign%3Dshares" href="#" target="_blank" class="btn btn-sms sms-share"><span>SMS</span></a></div>
+              </div>
+            </div>
+            <div class="nav__menu-item nav__trigger">
+              <button class="overlay-open menu-item--subnav-trigger"><span>Menu</span>
+                <script>
+                  if (!window.ATTN_DATA) window.ATTN_DATA = {}
+                  
+                </script>
+                <div style="display: none;" class="subnav">
+                  <ul class="section__links--nav">
+                    <li data-issue="video" class="subnav--topic subnav--topic-video"><a href="/videos" class="subnav--links"><span class="icon--issue icon--issue-video"></span>
+                        <h2>Videos</h2></a></li>
+                    <li data-issue="economy" class="subnav--topic subnav--topic-economy"><a href="/issues/economy" class="subnav--links"><span class="icon--issue icon--issue-economy"></span>
+                        <h2>economy</h2></a></li>
+                    <li data-issue="politics" class="subnav--topic subnav--topic-politics"><a href="/issues/politics" class="subnav--links"><span class="icon--issue icon--issue-politics"></span>
+                        <h2>politics</h2></a></li>
+                    <li data-issue="environment" class="subnav--topic subnav--topic-environment"><a href="/issues/environment" class="subnav--links"><span class="icon--issue icon--issue-environment"></span>
+                        <h2>environment</h2></a></li>
+                    <li data-issue="justice" class="subnav--topic subnav--topic-justice"><a href="/issues/justice" class="subnav--links"><span class="icon--issue icon--issue-justice"></span>
+                        <h2>justice</h2></a></li>
+                    <li data-issue="money" class="subnav--topic subnav--topic-money"><a href="/issues/money" class="subnav--links"><span class="icon--issue icon--issue-money"></span>
+                        <h2>money</h2></a></li>
+                    <li data-issue="health" class="subnav--topic subnav--topic-health"><a href="/issues/health" class="subnav--links"><span class="icon--issue icon--issue-health"></span>
+                        <h2>health</h2></a></li>
+                  </ul>
+                </div>
+              </button>
+            </div>
+            <div class="nav__menu-item">
+              <div class="search__btn--header nav__menu-item"><a href="#">
+                  <button class="overlay-open menu-item--search"></a>
+                <div style="display: none;" class="subnav">
+                  <div class="search--overlay">
+                    <div class="form-group">
+                      <form id="search">
+                        <div class="form-item">
+                          <div class="form-item__field-wrapper"><span class="field-input__icon"><span class="fa fa-search"></span></span>
+                            <input autocomplete="off" name="q" type="search" value="" class="field-input">
+                          </div>
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+                  <div id="resourcelist-search-results" class="resource-list resource-list--large-two-up search__results"></div>
+                </div>
+              </div>
+            </div>
+          </nav>
+        </div>
+      </header>
+<main data-id="4989" data-url="/stories/4989/sisters-of-the-valley-nuns-grow-marijuana" data-issue="Justice" id="story-4989" class="page--story-featured-img content page--story l__resource-view l__resource-view--with-sidebar">
+  <div class="wrapper--page">
+    <div class="wrapper--full-fixed-header">
+      <section class="featured">
+        <div style="background-image: url(http://static.images.publisher.attn.com/sites/default/files/mj-nuns.jpg)" class="featured__media">
+          <div class="image__attribution"><span>Facebook/sistersofthevalley</span></div>
+        </div>
+      </section>
+      <article role="main" class="story wrapper--max-width">
+        <main>
+          <header class="story__header">
+            <div class="tag"><span>Justice</span></div>
+            <h1 class="story__header--title">These Nuns Are Growing Marijuana for the Best Reason</h1>
+            <div class="mobile-extras">
+              <div class="attribution"><span class="date">January 4th 2016</span>
+                <article class="media media--left">
+                  <div class="media__image"><a href="/authors/207/kyle-jaeger" target="_blank"><img src="http://static.images.publisher.attn.com/sites/default/files/styles/media_thumbnail/public/headshotkyle_0.jpg"/></a></div>
+                  <div class="media__body">
+                    <h2>By: <a href="/authors/207/kyle-jaeger" target="_blank" class="link link--underline-black">Kyle Jaeger</a></h2>
+                    <div class="body__twitter-handle"><i aria-hidden="true" class="fa fa-twitter"></i><a href="http://www.twitter.com/kylejaeger" target="_blank" class="link link--reset">@kylejaeger</a></div>
+                  </div>
+                </article>
+              </div>
+              <div class="share share-4 lg-social"><a href="http://www.snapchat.com/add/attndotcom" target="_blank" class="btn btn-snapchat snapchat-follow">
+                  <div class="btn__content"><img src="https://www.snapchat.com/static/style-guide/images/ghost/ghost.svg?version=2015-06-26-a"/><span class="share-action">Tap to Follow</span></div></a>
+                <div class="btn-group"><a data-share="facebook" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.attn.com%2Fstories%2F4989%2Fsisters-of-the-valley-nuns-grow-marijuana%3Futm_source%3Dfacebook%26utm_medium%3Ddirect-share%26utm_campaign%3Dshares" target="_blank" class="btn btn-facebook fb-share"><span class="fa fa-facebook-square"></span><span class="share-action">Share</span></a><a data-share="twitter" href="http://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.attn.com%2Fstories%2F4989%2Fsisters-of-the-valley-nuns-grow-marijuana%3Futm_source%3Dtwitter%26utm_medium%3Ddirect-share%26utm_campaign%3Dshares&amp;text=These%20Nuns%20Are%20Growing%20Marijuana%20for%20the%20Best%20Reason&amp;via=attn" target="_blank" class="btn btn-twitter twitter-share"><span class="fa fa-twitter"></span><span class="share-action">Tweet</span></a><a data-share="mail" href="mailto:?subject=ATTN:%20These%20Nuns%20Are%20Growing%20Marijuana%20for%20the%20Best%20Reason&amp;body=These Nuns Are Growing Marijuana for the Best Reason%0A%0Ahttp%3A%2F%2Fwww.attn.com%2Fstories%2F4989%2Fsisters-of-the-valley-nuns-grow-marijuana%3Futm_source%3Demail%26utm_medium%3Ddirect-share%26utm_campaign%3Dshares" class="btn btn-mail-to mail-share"><span class="fa fa-envelope"></span><span class="share-action">Email</span></a><a data-share="sms" data-sms-body="These%20Nuns%20Are%20Growing%20Marijuana%20for%20the%20Best%20Reason%20-%20http%3A%2F%2Fwww.attn.com%2Fstories%2F4989%2Fsisters-of-the-valley-nuns-grow-marijuana%3Futm_source%3Dsms%26utm_medium%3Ddirect-share%26utm_campaign%3Dshares" href="#" target="_blank" class="btn btn-sms sms-share"><span>SMS</span></a></div>
+              </div>
+            </div>
+          </header>
+          <div class="story__body"><p>For the last year, Sister Kate and Sister Darcey have been growing <a target="_blank" rel="nofollow" href="http://www.attn.com/stories/2116/reason-marijuana-illegal-united-states">cannabis</a> and using the plant's non-psychoactive ingredients to <a target="_blank" rel="nofollow" href="http://www.sistersofcbd.com/">produce body salves and tonics for patients around the world</a>. While the sisters aren't really part of any religious order, spirituality does play an important role in the California-based business.</p><h3><a target="_blank" rel="nofollow" href="http://www.attn.com/stories/2948/medical-marijuana-seizures-austins-answer">RELATED: When Pharmaceuticals Almost Killed Her Son, This Mom Changed Everything</a></h3><p>But now their start-up, the Sisters of the Valley, is facing pressure from city officials in Merced, California. The city council is <a target="_blank" rel="nofollow" href="http://abc30.com/politics/merced-nuns-fight-to-keep-their-marijuana-based-business/1143619/">set to vote on a proposed ban on cannabis businesses</a> in Merced on Monday.</p><p><img typeof="Image" width="960" height="640" alt="nuns" title="nuns" class="Image img__fid__8023 img__view_mode__default attr__format__default attr__data-file-image-alt-text__nuns attr__data-file-image-title-text__nuns attr__data-media-attribution__Facebook/The Sisters of the Valley attr__data-media-url__https://www.facebook.com/sistersofthevalley/photos/pb.875321082503416.-2207520000.1451942291./949733828395474/?type=3&amp;theater" format="default" data-file-image-alt-text="nuns" data-file-image-title-text="nuns" data-media-attribution="Facebook/The Sisters of the Valley" data-media-url="https://www.facebook.com/sistersofthevalley/photos/pb.875321082503416.-2207520000.1451942291./949733828395474/?type=3&amp;theater" src="http://static.images.publisher.attn.com/sites/default/files/10492204_949733828395474_99308751785718399_n.jpg" /></p><p>As an activist, Sister Kate said she assumed the role of a nun in 2011 after Congress deemed pizza a vegetable in an effort to undermine the Obama administration's push for healthy school lunches. It was supposed to be somewhat satirical, but when people began to reach out to her, she decided to make it a permanent part of her activism, extending it to her cannabis business years later.</p><p>"I was raised in a Catholic school with Catholic nuns," Sister Kate told ATTN:. "The nuns represented something to everyone in the world. They represented order, cleanliness, a spiritual work environment."</p><p>At first, the nuns worked with medical marijuana dispensaries in the state, but found the process slow and unrewarding. Not many clinics seemed particularly interested in the product's medical value, and so they decided to refocus the business on CBD, a component of cannabis that treats a range of health issues but does not get users high.</p><p>"We didn’t want to found a religion, we didn’t want to hide under cover of a nonprofit, we just wanted a sustainable business to sustain ourselves that was also a way of life — a way of life that counters the stoner culture with cannabis," Sister Kate told ATTN:.</p><p><img typeof="Image" width="960" height="640" alt="nuns" title="nuns" class="Image img__fid__8024 img__view_mode__default attr__format__default attr__data-file-image-alt-text__nuns attr__data-file-image-title-text__nuns attr__data-media-attribution__Facebook/The Sisters of the Valley attr__data-media-url__https://www.facebook.com/sistersofthevalley/photos/pb.875321082503416.-2207520000.1451942291./949733828395474/?type=3&amp;theater" format="default" data-file-image-alt-text="nuns" data-file-image-title-text="nuns" data-media-attribution="Facebook/The Sisters of the Valley" data-media-url="https://www.facebook.com/sistersofthevalley/photos/pb.875321082503416.-2207520000.1451942291./949733828395474/?type=3&amp;theater" src="http://static.images.publisher.attn.com/sites/default/files/10603798_944606618908195_3231629459217315262_n.jpg" /></p><p>"The way to counteract the stoner culture was to give extreme reverence to the plant," she said.</p><blockquote><p>"Our medicines are made by moon cycles, according to ancient wisdom, and so we always make medicines from a new moon to a full moon, and in those two weeks a month, when we are focused on the medicine, all our prayer and all our spirituality and all our rituals go into the making of the medicine."</p></blockquote><p>You can watch videos of their process <a target="_blank" rel="nofollow" href="https://www.youtube.com/channel/UChJFRzjVZCxYvjE1_GWnbZA">on YouTube</a>, where the sisters upload clips from their harvest and show exactly what kind of work goes into their high-CBD product line.</p><div class="iframely-embed iframely-embed-youtube"><div><iframe src="https://www.youtube.com/embed/KcqQuB4xYE4?wmode=transparent&amp;rel=0&amp;autohide=1&amp;showinfo=0&amp;enablejsapi=1" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div></div><p><br />They also post their recipes online and <a target="_blank" rel="nofollow" href="https://www.etsy.com/shop/SistersofCBD">sell the salves, tinctures, and oils on Etsy</a>. The Sisters of the Valley bring in about $10,000 to $12,000 a month, Sister Kate said — up from around $1,000 a month when they first started last January.</p><p><img typeof="Image" width="749" height="729" alt="etsy" title="etsy" class="//www.etsy.com/shop/SistersofCBD" format="default" data-file-image-alt-text="etsy" data-file-image-title-text="etsy" data-media-attribution="Etsy" data-media-url="https://www.etsy.com/shop/SistersofCBD" src="http://publisher.attn.com/sites/default/files/Screen%20Shot%202016-01-04%20at%201.17.00%20PM.png" /></p><p>Part of the reason for the growth is because the company shifted to CBD medicines, which can be legally sold across state and country lines because they contain less than one percent THC, the main psychoactive ingredient of cannabis.</p><h3><a target="_blank" rel="nofollow" href="http://www.attn.com/stories/3922/offensive-stoner-stereotypes">RELATED: Five Stoner Stereotypes That Are Offensive and Stupid</a></h3><p>"We look at this kind of like a grand human experiment and we’re inviting people in to participate with us," Sister Kate said. "So I think that that sets us apart from anyone else."</p><p><div data-widget="survey" data-survey-id="383"></div></p>
+          </div>
+          <div class="image__attribution image__attribution--story-bottom"><span class="info">Featured Image:<span>Facebook/sistersofthevalley</span></span></div>
+        </main>
+        <aside class="snapchat-follow--mobile">
+          <div class="attribution"><span class="date">January 4th 2016</span>
+            <article class="media media--left">
+              <div class="media__image"><a href="/authors/207/kyle-jaeger" target="_blank"><img src="http://static.images.publisher.attn.com/sites/default/files/styles/media_thumbnail/public/headshotkyle_0.jpg"/></a></div>
+              <div class="media__body">
+                <h2>By: <a href="/authors/207/kyle-jaeger" target="_blank" class="link link--underline-black">Kyle Jaeger</a></h2>
+                <div class="body__twitter-handle"><i aria-hidden="true" class="fa fa-twitter"></i><a href="http://www.twitter.com/kylejaeger" target="_blank" class="link link--reset">@kylejaeger</a></div>
+              </div>
+            </article>
+          </div>
+          <div class="share share-4 lg-social"><a href="http://www.snapchat.com/add/attndotcom" target="_blank" class="btn btn-snapchat snapchat-follow">
+              <div class="btn__content"><img src="https://www.snapchat.com/static/style-guide/images/ghost/ghost.svg?version=2015-06-26-a"/><span class="share-action">Tap to Follow</span></div></a>
+            <div class="btn-group"><a data-share="facebook" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.attn.com%2Fstories%2F4989%2Fsisters-of-the-valley-nuns-grow-marijuana%3Futm_source%3Dfacebook%26utm_medium%3Ddirect-share%26utm_campaign%3Dshares" target="_blank" class="btn btn-facebook fb-share"><span class="fa fa-facebook-square"></span><span class="share-action">Share</span></a><a data-share="twitter" href="http://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.attn.com%2Fstories%2F4989%2Fsisters-of-the-valley-nuns-grow-marijuana%3Futm_source%3Dtwitter%26utm_medium%3Ddirect-share%26utm_campaign%3Dshares&amp;text=These%20Nuns%20Are%20Growing%20Marijuana%20for%20the%20Best%20Reason&amp;via=attn" target="_blank" class="btn btn-twitter twitter-share"><span class="fa fa-twitter"></span><span class="share-action">Tweet</span></a><a data-share="mail" href="mailto:?subject=ATTN:%20These%20Nuns%20Are%20Growing%20Marijuana%20for%20the%20Best%20Reason&amp;body=These Nuns Are Growing Marijuana for the Best Reason%0A%0Ahttp%3A%2F%2Fwww.attn.com%2Fstories%2F4989%2Fsisters-of-the-valley-nuns-grow-marijuana%3Futm_source%3Demail%26utm_medium%3Ddirect-share%26utm_campaign%3Dshares" class="btn btn-mail-to mail-share"><span class="fa fa-envelope"></span><span class="share-action">Email</span></a><a data-share="sms" data-sms-body="These%20Nuns%20Are%20Growing%20Marijuana%20for%20the%20Best%20Reason%20-%20http%3A%2F%2Fwww.attn.com%2Fstories%2F4989%2Fsisters-of-the-valley-nuns-grow-marijuana%3Futm_source%3Dsms%26utm_medium%3Ddirect-share%26utm_campaign%3Dshares" href="#" target="_blank" class="btn btn-sms sms-share"><span>SMS</span></a></div>
+          </div>
+          <div id="subscriptions-sidebar" class="subscribe"></div>
+          <header class="section-header section-header--minor">
+            <h2 class="section-header__title">Popular Stories</h2>
+          </header>
+          <div id="resourcelist-sidebar" class="resource-list popular-stories"></div>
+        </aside>
+      </article>
+      <div class="related-stories">
+        <div class="wrapper--max-width">
+          <header class="section-header section-header--minor-supporting">
+            <h2 class="section-header__title">Other Stories Worth Your Attention</h2>
+          </header>
+          <div id="resourcelist-story-page" class="resource-list resource-list--default"></div>
+          <script>
+            if (!window.ATTN_DATA) window.ATTN_DATA = {}
+            window.ATTN_DATA.story = {
+              id: 4989,
+              issue: 'Justice'
+            }
+          </script>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+      <footer class="main g_site-footer">
+        <div class="wrapper--max-width">
+          <nav class="nav--footer grid__row">
+            <div class="nav__column grid__col-md-6">
+              <ul class="ul--reset">
+                <li><a href="/about" class="link--reset">About Us</a></li>
+                <li><a href="/vote" class="link--reset">Vote with ATTN:</a></li>
+                <li><a href="/contact" class="link--reset">Contact Us</a></li>
+                <li><a href="/careers" class="link--reset">Jobs Worth Your ATTN:</a></li>
+                <li><a href="/press" class="link--reset">Press</a></li>
+              </ul>
+            </div>
+            <div class="nav__column grid__col-md-6">
+              <div class="btn-group btn-group--condensed"><a href="https://www.facebook.com/attn" target="_blank" class="btn btn--reset btn--small fa fa-facebook-square"></a><a href="https://twitter.com/attn" target="_blank" class="btn btn--reset btn--small fa fa-twitter"></a><a href="https://instagram.com/attndotcom" target="_blank" class="btn btn--reset btn--small fa fa-instagram"></a><a href="http://www.snapchat.com/add/attndotcom" target="_blank" class="btn btn--reset fa btn--small fa-snapchat-ghost"></a><a href="/subscribe" class="btn btn--reset fa btn--small fa-envelope"></a></div>
+            </div>
+          </nav>
+          <div class="baseline grid__row">
+            <nav class="baseline__nav grid__col-md-12"><span>Copyright © ATTN:, Inc. All Rights Reserved.</span><a href="/terms" class="link--reset">Terms of Use</a><a href="/privacy" class="link--reset">Privacy</a></nav>
+          </div>
+        </div>
+      </footer>
+      <!-- Scripts-->
+      <script>
+        if (typeof window._ATTN === 'undefined') {
+          window._ATTN = {
+            config: '{"ATTN_CONTENT_API_ENDPOINT":"http://beta.content.attn.com/api/","ATTN_HOSTNAME":"www.attn.com","ATTN_SERVICE_POLL_SUBMISSIONS_URL":"http://attn-poll-submissions-prod.herokuapp.com","ATTN_SHOW_EMAIL_POPUP":1,"ATTN_SHOW_FB_MESSAGE":0,"ATTN_SHOW_FB_POPUP":1,"ATTN_SHOW_FB_SHARE_ON_MOBILE":0,"ATTN_SHOW_INSTAGRAM_FOLLOW_ON_MOBILE":0,"ATTN_SHOW_POPUP":1,"ATTN_SHOW_SNAPCHAT_FOLLOW_ON_MOBILE":1,"ATTN_SHOW_STORY_CORRECTIONS":0,"ATTN_SHOW_STORY_RELATED_CONTENT":0,"NODE_ENV":"production","SENTRY_CLIENT_SIDE_DSN":"https://fda0cab0a5524f00987792923a807818@sentry.io/60105","region":"VA"}'
+          }
+        }
+        
+      </script>
+      <script src="https://apis.google.com/js/platform.js"></script>
+      <!-- Sailthru Horizon-->
+      <script>
+        (function () {
+          function loadHorizon() {
+            var s = document.createElement('script');
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
+            var x = document.getElementsByTagName('script')[0];
+            x.parentNode.insertBefore(s, x);
+          }
+          loadHorizon();
+          var oldOnLoad = window.onload;
+          window.onload = function () {
+            if (typeof oldOnLoad === 'function') {
+              oldOnLoad();
+            }
+            Sailthru.setup({
+              domain: 'horizon.attn.com',
+              useStoredTags: false
+            });
+          };
+        })();
+      </script>
+      <!-- Quantcast-->
+      <script>
+        var _qevents = _qevents || [];
+        
+        (function() {
+        var elem = document.createElement('script');
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+        elem.async = true;
+        elem.type = "text/javascript";
+        var scpt = document.getElementsByTagName('script')[0];
+        scpt.parentNode.insertBefore(elem, scpt);
+        })();
+        
+        _qevents.push({
+        qacct:"p-JPcKvqWu7UX4A"
+        });
+      </script>
+      <noscript>
+        <div style="display: none;"><img alt="Quantcast" border="0" height="1" src="//pixel.quantserve.com/pixel/p-JPcKvqWu7UX4A.gif" width="1"></div>
+      </noscript>
+      <!-- google analytics-->
+      <script id="script__google-analytics">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-53151320-1', 'auto');
+        ga('require', 'displayfeatures');
+        window.optimizely = window.optimizely || [];
+        window.optimizely.push("activateUniversalAnalytics");
+      ga('set', 'dimension3', '4989');
+       
+      ga('set', 'dimension6', 'story');
+       
+      ga('set', 'dimension8', 'Drugs and Health');
+       
+      ga('set', 'dimension1', 'Justice');
+       
+      ga('set', 'dimension2', 'Kyle Jaeger');
+       
+      ga('set', 'dimension4', '20160104');
+       
+      ga('set', 'dimension5', 'Monday');
+         ga('send', 'pageview');
+      </script>
+      <!-- Chartbeat--><script id="script__chartbeat">
+       var _sf_async_config={};
+       /** CONFIGURATION START **/
+       _sf_async_config.uid = 61472;
+       _sf_async_config.domain = 'attn.com';
+       _sf_async_config.useCanonical = true;
+       _sf_async_config.sections = 'Justice';
+        _sf_async_config.authors = 'Kyle Jaeger';
+       /** CONFIGURATION END **/
+       (function(){
+         function loadChartbeat() {
+           window._sf_endpt=(new Date()).getTime();
+           var e = document.createElement('script');
+           e.setAttribute('language', 'javascript');
+           e.setAttribute('type', 'text/javascript');
+           e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+           document.body.appendChild(e);
+         }
+         var oldonload = window.onload;
+         window.onload = (typeof window.onload != 'function') ?
+            loadChartbeat : function() { oldonload(); loadChartbeat(); };
+       })();
+      </script>
+      <!-- App JS-->
+      <script src="/vendor.js"></script>
+      <script src="/app.js"></script>
+    </div>
+  </body>
+</html>

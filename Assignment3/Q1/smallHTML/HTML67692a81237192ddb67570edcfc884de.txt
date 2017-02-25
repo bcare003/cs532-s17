@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec"  xmlns:og="http://ogp.me/ns#">
+<head >
+<meta charset="UTF-8" />
+<title>Hot Lingerie Fashion Show "Allande Collection" | C+3Gs</title><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+		<style type="text/css">
+			.slide-excerpt { width: 100%; }
+			.slide-excerpt { bottom: 0; }
+			.slide-excerpt { left: 0; }
+			.flexslider { max-width: 850px; max-height: 420px; }
+			.slide-image { max-height: 420px; }
+		</style>
+		<style type="text/css">
+			@media only screen
+			and (min-device-width : 320px)
+			and (max-device-width : 480px) {
+				.slide-excerpt { display: none !important; }
+			}
+		</style> 
+<!-- All in One SEO Pack 2.3.11.4 by Michael Torbert of Semper Fi Web Design[184,251] -->
+<meta name="description"  content="Hot Lingerie FashionShow &quot;Allande Collection&quot;" />
+
+<link rel="canonical" href="http://www.cplus3g.com/hot-lingerie-fashion-show-allande-collection/" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="C+3Gs &raquo; Feed" href="http://www.cplus3g.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="C+3Gs &raquo; Comments Feed" href="http://www.cplus3g.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.cplus3g.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='magazine-pro-theme-css'  href='http://www.cplus3g.com/wp-content/themes/Magazine-Pr0-Template/magazine-pro/style.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='social-widget-css'  href='http://www.cplus3g.com/wp-content/plugins/social-media-widget/social_widget.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpt-twitter-feed-css'  href='http://www.cplus3g.com/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='spu-public-css-css'  href='http://www.cplus3g.com/wp-content/plugins/popups/public/assets/css/public.css?ver=1.7.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://www.cplus3g.com/wp-includes/css/dashicons.min.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-css'  href='//fonts.googleapis.com/css?family=Roboto%3A300%2C400%7CRaleway%3A400%2C500%2C900&#038;ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='slider_styles-css'  href='http://www.cplus3g.com/wp-content/plugins/genesis-responsive-slider/style.css?ver=0.9.5' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.cplus3g.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.cplus3g.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://www.cplus3g.com/wp-content/themes/genesis/lib/js/html5shiv.min.js?ver=3.7.3'></script>
+<![endif]-->
+<script type='text/javascript' src='http://www.cplus3g.com/wp-content/themes/Magazine-Pr0-Template/magazine-pro/js/entry-date.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.cplus3g.com/wp-content/themes/Magazine-Pr0-Template/magazine-pro/js/responsive-menu.js?ver=1.0.0'></script>
+<link rel='https://api.w.org/' href='http://www.cplus3g.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.cplus3g.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.cplus3g.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='10 Beautiful Bikini Girls collection 1' href='http://www.cplus3g.com/10-beautiful-bikini-girls-collection-1/' />
+<link rel='next' title='10 Beautiful Bikini Girls collection 2' href='http://www.cplus3g.com/10-beautiful-bikini-girls-collection-2/' />
+<meta name="generator" content="WordPress 4.7.2" />
+<link rel='shortlink' href='http://www.cplus3g.com/?p=1274' />
+<link rel="alternate" type="application/json+oembed" href="http://www.cplus3g.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.cplus3g.com%2Fhot-lingerie-fashion-show-allande-collection%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.cplus3g.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.cplus3g.com%2Fhot-lingerie-fashion-show-allande-collection%2F&#038;format=xml" />
+<!-- <meta name="NextGEN" version="2.1.77" /> -->
+<link rel="icon" href="http://www.cplus3g.com/wp-content/themes/Magazine-Pr0-Template/magazine-pro/images/favicon.ico" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-9804194238173258",
+    enable_page_level_ads: true
+  });
+</script>
+<style type="text/css">.site-title a { background: url(http://www.cplus3g.com/wp-content/uploads/2015/08/cropped-Logo-2.png) no-repeat !important; }</style>
+
+<!-- START - Facebook Open Graph, Google+ and Twitter Card Tags 2.0.7 -->
+ <!-- Facebook Open Graph -->
+  <meta property="og:locale" content="en_US"/>
+  <meta property="og:site_name" content="C+3Gs"/>
+  <meta property="og:title" content="Hot Lingerie Fashion Show &quot;Allande Collection&quot;"/>
+  <meta property="og:url" content="http://www.cplus3g.com/hot-lingerie-fashion-show-allande-collection/"/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:description" content="Lingerie Fashion Show 	
+
+Hot Lingerie FashionShow &quot;Allande Collection&quot;"/>
+  <meta property="og:image" content="http://www.cplus3g.com/wp-content/uploads/2016/08/fashionshow.png"/>
+  <meta property="article:published_time" content="2016-08-25T10:48:03+00:00"/>
+  <meta property="article:modified_time" content="2016-08-25T10:48:03+00:00" />
+  <meta property="og:updated_time" content="2016-08-25T10:48:03+00:00" />
+  <meta property="article:section" content="Fashion Babes"/>
+  <meta property="article:section" content="Featured Videos"/>
+ <!-- Google+ / Schema.org -->
+  <meta itemprop="name" content="Hot Lingerie Fashion Show &quot;Allande Collection&quot;"/>
+  <meta itemprop="description" content="Lingerie Fashion Show 	
+
+Hot Lingerie FashionShow &quot;Allande Collection&quot;"/>
+  <meta itemprop="image" content="http://www.cplus3g.com/wp-content/uploads/2016/08/fashionshow.png"/>
+ <!-- Twitter Cards -->
+  <meta name="twitter:title" content="Hot Lingerie Fashion Show &quot;Allande Collection&quot;"/>
+  <meta name="twitter:url" content="http://www.cplus3g.com/hot-lingerie-fashion-show-allande-collection/"/>
+  <meta name="twitter:description" content="Lingerie Fashion Show 	
+
+Hot Lingerie FashionShow &quot;Allande Collection&quot;"/>
+  <meta name="twitter:image" content="http://www.cplus3g.com/wp-content/uploads/2016/08/fashionshow.png"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+ <!-- SEO -->
+  <link rel="canonical" href="http://www.cplus3g.com/hot-lingerie-fashion-show-allande-collection/"/>
+  <meta name="description" content="Lingerie Fashion Show 	
+
+Hot Lingerie FashionShow &quot;Allande Collection&quot;"/>
+ <!-- Misc. tags -->
+<!-- END - Facebook Open Graph, Google+ and Twitter Card Tags 2.0.7 -->
+
+<link rel='stylesheet' id='addthis_output-css'  href='http://www.cplus3g.com/wp-content/plugins/addthis/css/output.css?ver=4.7.2' type='text/css' media='all' />
+</head>
+<body class="post-template-default single single-post postid-1274 single-format-standard custom-header header-image content-sidebar primary-nav" itemscope itemtype="http://schema.org/WebPage"><div class="site-container"><nav class="nav-primary" itemscope itemtype="http://schema.org/SiteNavigationElement"><div class="wrap"><ul id="menu-menu-two" class="menu genesis-nav-menu menu-primary"><li id="menu-item-1108" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1108"><a href="http://www.cplus3g.com/" itemprop="url"><span itemprop="name">Home</span></a></li>
+<li id="menu-item-562" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-562"><a href="http://www.cplus3g.com/category/bikini-babes/" itemprop="url"><span itemprop="name">Bikini Babes</span></a></li>
+<li id="menu-item-59" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-59"><a href="http://www.cplus3g.com/category/funny-pranks-gags-videos/" itemprop="url"><span itemprop="name">Funny Pranks &#038; Gags</span></a></li>
+<li id="menu-item-62" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62"><a href="http://www.cplus3g.com/category/cool-gadgets/" itemprop="url"><span itemprop="name">Cool Gadgets</span></a></li>
+<li id="menu-item-63" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-63"><a href="http://www.cplus3g.com/category/cool-cars-videos/" itemprop="url"><span itemprop="name">Cool Cars</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-686" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-686"><a href="http://www.cplus3g.com/category/amazing-supercars/" itemprop="url"><span itemprop="name">Amazing Supercars</span></a></li>
+</ul>
+</li>
+<li id="menu-item-685" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-685"><a href="http://www.cplus3g.com/category/sexy-babe-selfies/" itemprop="url"><span itemprop="name">Sexy Babe Selfies</span></a></li>
+<li id="menu-item-687" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-687"><a href="http://www.cplus3g.com/category/fashion-babes/" itemprop="url"><span itemprop="name">Fashion Babes</span></a></li>
+</ul></div></nav><header class="site-header" itemscope itemtype="http://schema.org/WPHeader"><div class="wrap"><div class="title-area"><p class="site-title" itemprop="headline"><a href="http://www.cplus3g.com/">C+3Gs</a></p><p class="site-description" itemprop="description">Cars + Gadgets  + Girls  &amp;  Gags</p></div><div class="widget-area header-widget-area"><section id="social-widget-2" class="widget Social_Widget"><div class="widget-wrap"><h4 class="widget-title widgettitle">Follow Us!</h4>
+<div class="socialmedia-buttons smw_right"><a href="https://plus.google.com/b/109997116800366808398/109997116800366808398/" rel="publisher" target="_blank"><img width="32" height="32" src="http://www.cplus3g.com/wp-content/plugins/social-media-widget/images/default/32/googleplus.png" 
+				alt="Follow Us on Google+" 
+				title="Follow Us on Google+" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade" /></a><a href="https://www.facebook.com/pages/Cars-Gadgets-Girls-Gags/922673727804946" rel="nofollow" target="_blank"><img width="32" height="32" src="http://www.cplus3g.com/wp-content/plugins/social-media-widget/images/default/32/facebook.png" 
+				alt="Follow Us on Facebook" 
+				title="Follow Us on Facebook" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade" /></a><a href="https://twitter.com/cplus3g" rel="nofollow" target="_blank"><img width="32" height="32" src="http://www.cplus3g.com/wp-content/plugins/social-media-widget/images/default/32/twitter.png" 
+				alt="Follow Us on Twitter" 
+				title="Follow Us on Twitter" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade" /></a><a href="http://www.cplus3g.com/feed/" rel="nofollow" target="_blank"><img width="32" height="32" src="http://www.cplus3g.com/wp-content/plugins/social-media-widget/images/default/32/rss.png" 
+				alt="Follow Us on RSS" 
+				title="Follow Us on RSS" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade" /></a><a href="https://www.instagram.com/cplus3g/" rel="nofollow" target="_blank"><img width="32" height="32" src="http://www.cplus3g.com/wp-content/plugins/social-media-widget/images/default/32/instagram.png" 
+				alt="Follow Us on Instagram" 
+				title="Follow Us on Instagram" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade" /></a></div></div></section>
+<section id="text-2" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"></div>
+		</div></section>
+</div></div></header><nav class="nav-secondary" itemscope itemtype="http://schema.org/SiteNavigationElement"><div class="wrap"><ul id="menu-menu-two-1" class="menu genesis-nav-menu menu-secondary"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1108"><a href="http://www.cplus3g.com/" itemprop="url"><span itemprop="name">Home</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-562"><a href="http://www.cplus3g.com/category/bikini-babes/" itemprop="url"><span itemprop="name">Bikini Babes</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-59"><a href="http://www.cplus3g.com/category/funny-pranks-gags-videos/" itemprop="url"><span itemprop="name">Funny Pranks &#038; Gags</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62"><a href="http://www.cplus3g.com/category/cool-gadgets/" itemprop="url"><span itemprop="name">Cool Gadgets</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-63"><a href="http://www.cplus3g.com/category/cool-cars-videos/" itemprop="url"><span itemprop="name">Cool Cars</span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-686"><a href="http://www.cplus3g.com/category/amazing-supercars/" itemprop="url"><span itemprop="name">Amazing Supercars</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-685"><a href="http://www.cplus3g.com/category/sexy-babe-selfies/" itemprop="url"><span itemprop="name">Sexy Babe Selfies</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-687"><a href="http://www.cplus3g.com/category/fashion-babes/" itemprop="url"><span itemprop="name">Fashion Babes</span></a></li>
+</ul></div></nav><div class="site-inner"><div class="content-sidebar-wrap"><main class="content"><div class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">You are here: <span class="breadcrumb-link-wrap" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://www.cplus3g.com/" itemprop="item"><span itemprop="name">Home</span></a></span> <span aria-label="breadcrumb separator">/</span> <span class="breadcrumb-link-wrap" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://www.cplus3g.com/category/fashion-babes/" itemprop="item"><span itemprop="name">Fashion Babes</span></a></span> <span aria-label="breadcrumb separator">/</span> Hot Lingerie Fashion Show &#8220;Allande Collection&#8221;</div><article class="post-1274 post type-post status-publish format-standard has-post-thumbnail category-fashion-babes category-featured-videos tag-fashionbabes entry" itemscope itemtype="http://schema.org/CreativeWork"><header class="entry-header"><h1 class="entry-title" itemprop="headline">Hot Lingerie Fashion Show &#8220;Allande Collection&#8221;</h1> 
+<p class="entry-meta"><time class="entry-time" itemprop="datePublished" datetime="2016-08-25T10:48:03+00:00">August 25, 2016</time> by <span class="entry-author" itemprop="author" itemscope itemtype="http://schema.org/Person"><a href="http://www.cplus3g.com/author/geraldine/" class="entry-author-link" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Geraldine</span></a></span>  </p></header><div class="entry-content" itemprop="text"><!-- AddThis Sharing Buttons above --><p><iframe width="660" height="375" src="https://www.youtube.com/embed/xogcyam-P90" frameborder="0" allowfullscreen></iframe></p>
+<h2> Lingerie Fashion Show </h2>
+<p>Hot Lingerie FashionShow &#8220;Allande Collection&#8221; </p>
+<!-- AddThis Sharing Buttons below --></div><footer class="entry-footer"><p class="entry-meta"><span class="entry-categories">Filed Under: <a href="http://www.cplus3g.com/category/fashion-babes/" rel="category tag">Fashion Babes</a>, <a href="http://www.cplus3g.com/category/featured-videos/" rel="category tag">Featured Videos</a></span> <span class="entry-tags">Tagged With: <a href="http://www.cplus3g.com/tag/fashionbabes/" rel="tag">FashionBabes</a></span></p><div class="after-entry widget-area"><section id="text-6" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><table width="100%" height="250" border="0" cellpadding="0" cellspacing="0">
+<tr><td width="307" height="250"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- C+G Responsive Ad- 4 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9804194238173258"
+     data-ad-slot="4181895056"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+  <td width="307"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- C+G Responsive Ad- 5 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9804194238173258"
+     data-ad-slot="5658628256"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+</tr></table>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- C+G Responsive Ad- 6 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9804194238173258"
+     data-ad-slot="7135361455"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<p>&nbsp;</p>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- C+G Responsive Ad- 7 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9804194238173258"
+     data-ad-slot="8612094656"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div></section>
+</div></footer></article></main><aside class="sidebar sidebar-primary widget-area" role="complementary" aria-label="Primary Sidebar" itemscope itemtype="http://schema.org/WPSideBar">		<section id="recent-posts-3" class="widget widget_recent_entries"><div class="widget-wrap">		<h4 class="widget-title widgettitle">Our recent Posts</h4>
+		<ul>
+					<li>
+				<a href="http://www.cplus3g.com/bella-thorne-shares-photo-fail-in-tiny-bikini-during-caribbean-cruise/">Bella Thorne Shares photo fail in tiny Bikini during Caribbean Cruise</a>
+						</li>
+					<li>
+				<a href="http://www.cplus3g.com/new-amazing-gadgets-you-really-need-to-see/">New Amazing Gadgets you really need to See</a>
+						</li>
+					<li>
+				<a href="http://www.cplus3g.com/beautiful-girls-from-the-world-of-motorsports/">Beautiful Girls from the World of Motorsports</a>
+						</li>
+					<li>
+				<a href="http://www.cplus3g.com/kate-upton-bouncing-boob-prefers-tiny-bikinis/">Kate Upton &#8211; Bouncing Boob &#8211; Prefers Tiny Bikinis</a>
+						</li>
+					<li>
+				<a href="http://www.cplus3g.com/supermodel-irina-shayk-goes-topless-in-chile/">Supermodel Irina Shayk goes Topless in Chile</a>
+						</li>
+					<li>
+				<a href="http://www.cplus3g.com/beautiful-bikini-babe-tanya-mityushina-reveals-intimate-side-on-malta/">Beautiful Bikini Babe Tanya Mityushina Reveals Intimate Side on Malta</a>
+						</li>
+					<li>
+				<a href="http://www.cplus3g.com/the-most-beautiful-fashion-models-in-the-world-in-2016/">The Most Beautiful Fashion Models in the World in 2016</a>
+						</li>
+					<li>
+				<a href="http://www.cplus3g.com/seven-beautiful-girls-from-the-world-of-motorsports/">Seven Beautiful Girls from the World of Motorsports</a>
+						</li>
+					<li>
+				<a href="http://www.cplus3g.com/9-very-sexy-bikini-babes/">9 Very Sexy Bikini Babes</a>
+						</li>
+					<li>
+				<a href="http://www.cplus3g.com/eight-very-sexy-babes-in-selfies/">Eight very Sexy Babes in Selfies</a>
+						</li>
+					<li>
+				<a href="http://www.cplus3g.com/here-are-some-amazing-beauties-cool-motors/">Here are some amazing Beauties &#038; Cool Motors</a>
+						</li>
+					<li>
+				<a href="http://www.cplus3g.com/beauty-queen-nichole-manalo-back-in-manila-after-surprise-3rd-runner-up-miss-globe-2016-finish/">Beauty Queen Nichole Manalo back in Manila after ‘Surprise’ 3rd runner-up Miss Globe 2016 finish</a>
+						</li>
+					<li>
+				<a href="http://www.cplus3g.com/golf-beauty-chelsea-pezzola-shines-at-the-dubai-ladies-masters/">Golf beauty Chelsea Pezzola shines at the Dubai Ladies Masters</a>
+						</li>
+					<li>
+				<a href="http://www.cplus3g.com/kim-kardashian-in-her-most-beautiful-and-sexy-selfies/">Kim Kardashian in Her most Beautiful and Sexiest Selfies</a>
+						</li>
+					<li>
+				<a href="http://www.cplus3g.com/amazing-sexy-pictures-of-kendall-jenner/">Amazing Sexy Pictures of Kendall Jenner</a>
+						</li>
+					<li>
+				<a href="http://www.cplus3g.com/here-are-12-amazing-sexy-girls-in-selfies/">Here are 12 Amazing Sexy Girls in Selfies</a>
+						</li>
+					<li>
+				<a href="http://www.cplus3g.com/12-photos-of-beautiful-women-from-the-beach/">12 Photos of Beautiful Women from the Beach</a>
+						</li>
+					<li>
+				<a href="http://www.cplus3g.com/10-photos-of-beautiful-woman-from-the-world-of-fashion/">10 Photos of Beautiful Women from the World of Fashion</a>
+						</li>
+					<li>
+				<a href="http://www.cplus3g.com/sexy-motivation-babe-anllela-sagra-working-out/">Sexy Motivation Babe Anllela Sagra Working Out</a>
+						</li>
+					<li>
+				<a href="http://www.cplus3g.com/sexy-female-fitness-motivation-girls-collection-1/">Sexy Female Fitness Motivation Girls Collection #1</a>
+						</li>
+				</ul>
+		</div></section>
+		<section id="text-3" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- C+G Responsive Ad- 1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9804194238173258"
+     data-ad-slot="8751695452"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div></section>
+<section id="text-4" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- C+G Responsive Ad- 2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9804194238173258"
+     data-ad-slot="1228428655"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div></section>
+<section id="text-5" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- C+G Responsive Ad- 3 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9804194238173258"
+     data-ad-slot="2705161850"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div></section>
+</aside></div></div><footer class="site-footer" itemscope itemtype="http://schema.org/WPFooter"><div class="wrap"><div class="creds">
+    <p align="center"><br />
+        <img src="http://www.digitalpc.co/webimages/Decal.png" alt="Premier Digital Content Network" /><br />
+      Copyright &copy; 2017<br />
+      Brought to you by the <a href="http://www.digitalpc.co/our-online-publications/"title="PDCN">Premier Digital Content Network | </a>
+
+
+    <a href="http://www.cplus3g.com/wp-login.php">Log in</a>    </p>
+</div></div></footer><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-75393203-1', 'auto');
+  ga('send', 'pageview');
+
+</script></div><!-- ngg_resource_manager_marker --><script type='text/javascript'>
+/* <![CDATA[ */
+var spuvar = {"is_admin":"","disable_style":"","safe_mode":"","ajax_mode":"1","ajax_url":"http:\/\/www.cplus3g.com\/wp-admin\/admin-ajax.php","ajax_mode_url":"http:\/\/www.cplus3g.com\/?spu_action=spu_load&lang=","pid":"1274","is_front_page":"","is_category":"","site_url":"http:\/\/www.cplus3g.com","is_archive":"","is_search":"","seconds_confirmation_close":"5"};
+var spuvar_social = [""];
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.cplus3g.com/wp-content/plugins/popups/public/assets/js/min/public-min.js?ver=1.7.0.1'></script>
+<script type='text/javascript' src='http://www.cplus3g.com/wp-content/plugins/genesis-responsive-slider/js/jquery.flexslider.js?ver=0.9.5'></script>
+<script type='text/javascript' src='http://www.cplus3g.com/wp-includes/js/wp-embed.min.js?ver=4.7.2'></script>
+<script type='text/javascript'>jQuery(document).ready(function($) {$(".flexslider").flexslider({controlsContainer: "#genesis-responsive-slider",animation: "slide",directionNav: 0,controlNav: 1,animationDuration: 800,slideshowSpeed: 4000    });  });</script><script data-cfasync="false" type="text/javascript">
+var addthis_config = {"data_track_clickback":true,"ui_atversion":300,"ignore_server_config":true};
+var addthis_share = {};
+</script>
+                <!-- AddThis Settings Begin -->
+                <script data-cfasync="false" type="text/javascript">
+                    var addthis_product = "wpp-5.3.4";
+                    var wp_product_version = "wpp-5.3.4";
+                    var wp_blog_version = "4.7.2";
+                    var addthis_plugin_info = {"info_status":"enabled","cms_name":"WordPress","plugin_name":"Share Buttons by AddThis","plugin_version":"5.3.4","anonymous_profile_id":"wp-1db22a91cd803f9cc7c7265d7a593544","plugin_mode":"WordPress","select_prefs":{"addthis_per_post_enabled":true,"addthis_above_enabled":false,"addthis_below_enabled":false,"addthis_sidebar_enabled":false,"addthis_mobile_toolbar_enabled":false,"addthis_above_showon_home":true,"addthis_above_showon_posts":true,"addthis_above_showon_pages":true,"addthis_above_showon_archives":true,"addthis_above_showon_categories":true,"addthis_above_showon_excerpts":true,"addthis_below_showon_home":true,"addthis_below_showon_posts":true,"addthis_below_showon_pages":true,"addthis_below_showon_archives":true,"addthis_below_showon_categories":true,"addthis_below_showon_excerpts":true,"addthis_sidebar_showon_home":true,"addthis_sidebar_showon_posts":true,"addthis_sidebar_showon_pages":true,"addthis_sidebar_showon_archives":true,"addthis_sidebar_showon_categories":true,"addthis_mobile_toolbar_showon_home":true,"addthis_mobile_toolbar_showon_posts":true,"addthis_mobile_toolbar_showon_pages":true,"addthis_mobile_toolbar_showon_archives":true,"addthis_mobile_toolbar_showon_categories":true,"sharing_enabled_on_post_via_metabox":true},"page_info":{"template":"posts","post_type":""}};
+                    if (typeof(addthis_config) == "undefined") {
+                        var addthis_config = {"data_track_clickback":true,"ui_atversion":300,"ignore_server_config":true};
+                    }
+                    if (typeof(addthis_share) == "undefined") {
+                        var addthis_share = {};
+                    }
+                    if (typeof(addthis_layers) == "undefined") {
+                        var addthis_layers = {};
+                    }
+                </script>
+                <script
+                    data-cfasync="false"
+                    type="text/javascript"
+                    src="//s7.addthis.com/js/300/addthis_widget.js#pubid=wp-1db22a91cd803f9cc7c7265d7a593544 "
+                    async="async"
+                >
+                </script>
+                <script data-cfasync="false" type="text/javascript">
+                    (function() {
+                        var at_interval = setInterval(function () {
+                            if(window.addthis) {
+                                clearInterval(at_interval);
+                                addthis.layers(addthis_layers);
+                            }
+                        },1000)
+                    }());
+                </script>
+                <!--wp_footer--></body></html>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Minified using disk
+
+ Served from: www.cplus3g.com @ 2017-02-24 17:32:00 by W3 Total Cache -->

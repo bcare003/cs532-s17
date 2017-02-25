@@ -1,0 +1,918 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="lt-ie9 lt-ie8 lt-ie7" lang="en-GB"
+ xmlns:fb="http://ogp.me/ns/fb#" prefix="og: http://ogp.me/ns#" itemscope itemtype="http://schema.org/Article"> <![endif]-->
+<!--[if IE 7]>
+<html class="lt-ie9 lt-ie8" lang="en-GB"
+ xmlns:fb="http://ogp.me/ns/fb#" prefix="og: http://ogp.me/ns#" itemscope itemtype="http://schema.org/Article"> <![endif]-->
+<!--[if IE 8]>
+<html class="lt-ie9" lang="en-GB"
+ xmlns:fb="http://ogp.me/ns/fb#" prefix="og: http://ogp.me/ns#" itemscope itemtype="http://schema.org/Article"> <![endif]-->
+<!--[if IE 9]>
+<html class="ie9" lang="en-GB"
+ xmlns:fb="http://ogp.me/ns/fb#" prefix="og: http://ogp.me/ns#" itemscope itemtype="http://schema.org/Article"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html lang="en-GB"
+ xmlns:fb="http://ogp.me/ns/fb#" prefix="og: http://ogp.me/ns#" itemscope itemtype="http://schema.org/Article"> <!--<![endif]-->
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="HandheldFriendly" content="True">
+	<meta name="apple-touch-fullscreen" content="yes"/>
+	<meta name="MobileOptimized" content="320">
+	<title>Who&#039;s a good boy? - TheLOLempire</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://www.thelolempire.com/xmlrpc.php">
+	<script type="text/javascript">
+addthis_config = {
+		ui_click : false,
+	ui_delay : 100,
+	ui_offset_top: 42,
+	ui_use_css : true,
+	data_track_addressbar : false,
+	data_track_clickback : false
+	, data_ga_property: "UA-48807058-7", data_ga_social : true	};
+
+addthis_share = {
+	url : "http://www.thelolempire.com/whos-a-good-boy-2/",
+	title : "Who&#039;s a good boy? - TheLOLempire",
+	description : "MoreMore..."
+};
+</script>
+<!-- This site is optimized with the Yoast SEO plugin v4.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.thelolempire.com/whos-a-good-boy-2/" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Who&#039;s a good boy? - TheLOLempire" />
+<meta property="og:description" content="Who&#8217;sMore..." />
+<meta property="og:url" content="http://www.thelolempire.com/whos-a-good-boy-2/" />
+<meta property="og:site_name" content="TheLOLempire" />
+<meta property="article:tag" content="funny" />
+<meta property="article:tag" content="funnypics" />
+<meta property="article:tag" content="haha" />
+<meta property="article:tag" content="lol" />
+<meta property="article:tag" content="viralpics" />
+<meta property="article:section" content="Funny Pics" />
+<meta property="article:published_time" content="2016-06-09T16:12:21+00:00" />
+<meta property="article:modified_time" content="2016-06-09T16:12:23+00:00" />
+<meta property="og:updated_time" content="2016-06-09T16:12:23+00:00" />
+<meta property="og:image" content="http://www.thelolempire.com/wp-content/uploads/2016/06/wm5dub4h.jpg" />
+<meta property="og:image:width" content="426" />
+<meta property="og:image:height" content="240" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Who&#8217;sMore..." />
+<meta name="twitter:title" content="Who&#039;s a good boy? - TheLOLempire" />
+<meta name="twitter:image" content="http://www.thelolempire.com/wp-content/uploads/2016/06/wm5dub4h.jpg" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s7.addthis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="TheLOLempire &raquo; Feed" href="http://www.thelolempire.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="TheLOLempire &raquo; Comments Feed" href="http://www.thelolempire.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.thelolempire.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.3"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='google-webfonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A400italic%2C400%2C300%2C700&#038;ver=4.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wpgrade-main-style-css'  href='http://www.thelolempire.com/wp-content/themes/heap/theme-content/css/style.css?ver=201603231311' type='text/css' media='all' />
+<style id='wpgrade-main-style-inline-css' type='text/css'>
+
+    .container{
+        max-width: 2700px;
+    }
+
+    .search__container{
+        max-width: 2700px;
+    }
+
+
+
+ @media only screen and (min-width: 900px) {
+   .sidebar--main {
+        width: 295px;
+   }
+
+   .page-content.has-sidebar {
+        margin-right: -295px;
+   }
+
+   .page-content.has-sidebar .page-content__wrapper {
+        margin-right: 295px;
+   }
+
+   .page-content.has-sidebar:after{
+        right: 295px;
+   }
+ }
+
+ 
+@media screen and (min-width: 481px) and (max-width: 899px) {
+    .mosaic__item  {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 900px) and (max-width: 1249px) {
+    .mosaic__item  {
+        width: 50%;
+    }
+}
+
+@media screen and (min-width: 1250px){
+    .mosaic__item  {
+        width: 33.33%;
+    }
+}
+
+
+                        .single-post .article__featured-image img {
+display: none;
+}
+.entry img {
+max-width: 100%;
+}                    
+
+</style>
+<link rel='stylesheet' id='404-style-css'  href='http://www.thelolempire.com/wp-content/themes/heap/theme-content/css/pages/404.css?ver=4.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='crp-style-rounded-thumbs-css'  href='http://www.thelolempire.com/wp-content/plugins/contextual-related-posts/css/default-style.css?ver=4.6.3' type='text/css' media='all' />
+<style id='crp-style-rounded-thumbs-inline-css' type='text/css'>
+
+.crp_related a {
+  width: 300px;
+  height: 300px;
+  text-decoration: none;
+}
+.crp_related img {
+  max-width: 300px;
+  margin: auto;
+}
+.crp_related .crp_title {
+  width: 300px;
+}
+                
+</style>
+<link rel='stylesheet' id='cookielawinfo-style-css'  href='http://www.thelolempire.com/wp-content/plugins/cookie-law-info/css/cli-style.css?ver=1.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='pixlikes-plugin-styles-css'  href='http://www.thelolempire.com/wp-content/plugins/pixlikes/css/public.css?ver=1.0.0' type='text/css' media='all' />
+<style id='pixlikes-plugin-styles-inline-css' type='text/css'>
+.animate i:after {-webkit-transition: all 1000ms;-moz-transition: all 1000ms;-o-transition: all 1000ms;transition: all 1000ms; }
+</style>
+<link rel='stylesheet' id='jetpack_css-css'  href='http://www.thelolempire.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.thelolempire.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.thelolempire.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var related_posts_js_options = {"post_heading":"h4"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.thelolempire.com/wp-content/plugins/jetpack/modules/related-posts/related-posts.js?ver=20150408'></script>
+<script type='text/javascript' src='http://www.thelolempire.com/wp-content/themes/heap/theme-content/js/vendor/modernizr.min.js?ver=4.6.3'></script>
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/webfont/1.5.3/webfont.js?ver=4.6.3'></script>
+<script type='text/javascript' src='http://www.thelolempire.com/wp-content/plugins/cookie-law-info/js/cookielawinfo.js?ver=1.5.3'></script>
+<link rel='https://api.w.org/' href='http://www.thelolempire.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.thelolempire.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.thelolempire.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.6.3" />
+<link rel='shortlink' href='http://wp.me/p6gupa-jPW' />
+<link rel="alternate" type="application/json+oembed" href="http://www.thelolempire.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.thelolempire.com%2Fwhos-a-good-boy-2%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.thelolempire.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.thelolempire.com%2Fwhos-a-good-boy-2%2F&#038;format=xml" />
+			<script type="text/javascript">
+                if ( typeof WebFont !== 'undefined' ) {                    WebFont.load( {
+                        google: {families: ['Open Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic:latin-ext','Open Sans:300:latin-ext','Open Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic:latin-ext']},
+                        classes: false,
+                        events: false
+                    } );
+                } else {
+                    var tk = document.createElement( 'script' );
+                    tk.src = '//ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+                    tk.type = 'text/javascript';
+
+                    tk.onload = tk.onreadystatechange = function() {
+                        WebFont.load( {
+                            google: {families: ['Open Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic:latin-ext','Open Sans:300:latin-ext','Open Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic:latin-ext']},
+                            classes: false,
+                            events: false
+                        } );
+                    };
+
+                    var s = document.getElementsByTagName( 'script' )[0];
+                    s.parentNode.insertBefore( tk, s );
+                }
+			</script>
+				<style id="customify_typography_output_style">
+			h1, h2, h3, h4, h5, h6, hgroup,
+									h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+									blockquote,
+									.tabs__nav, .popular-posts__time,
+									.pagination li a, .pagination li span {
+ font-family: Open Sans;
+}
+.navigation a {
+ font-family: Open Sans;
+font-weight: 300;
+}
+html, .wp-caption-text, .small-link,
+									.post-nav-link__label, .author__social-link,
+									.comment__links, .score__desc {
+ font-family: Open Sans;
+}
+		</style>
+	<meta property="fb:app_id" content="171290009902345"/>
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+<style type='text/css'>img#wpstats{display:none}</style><link rel='icon' href="http://www.thelolempire.com/wp-content/uploads/2015/06/thelolempire.png" >
+<link rel="apple-touch-icon" href="http://www.thelolempire.com/wp-content/uploads/2015/06/thelolempire.png" >
+<meta name="msapplication-TileColor" content="#f01d4f">
+<meta name="msapplication-TileImage" content="http://www.thelolempire.com/wp-content/uploads/2015/06/thelolempire.png" >
+<meta name="description" content="Who&#8217;sMore..."/>
+<link rel="canonical" href="http://www.thelolempire.com/whos-a-good-boy-2/" />
+<!-- facebook open graph stuff -->
+<meta property="og:site_name" content="TheLOLempire"/>
+<meta property="og:url" content="http://www.thelolempire.com/whos-a-good-boy-2/"/>
+<meta property="og:title" content="Who&#039;s a good boy? - TheLOLempire" />
+<meta property="og:type" content="article"/>
+<meta property="og:description" content="Who&#8217;sMore..." />
+<meta property="article:published_time" content="2016-06-9 16:12">
+<meta property="article:modified_time" content="2016-06-9 16:12">
+<meta property="article:section" content="Funny pics">
+<meta property="article:tag" content="funny">
+<meta property="article:tag" content="funnypics">
+<meta property="article:tag" content="haha">
+<meta property="article:tag" content="lol">
+<meta property="article:tag" content="viralpics">
+<meta property="og:image" content="http://www.thelolempire.com/wp-content/uploads/2016/06/wm5dub4h.jpg"/>
+<!-- end facebook open graph --><!-- google +1 tags -->
+<meta itemprop="name" content="Who&#8217;s a good boy?">
+<meta itemprop="description" content="Who&#8217;sMore...">
+<meta itemprop="image" content="http://www.thelolempire.com/wp-content/uploads/2016/06/wm5dub4h.jpg">
+
+<!-- end google +1 tags --><!-- twitter card tags -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:url" content="http://www.thelolempire.com/whos-a-good-boy-2/" >
+<meta name="twitter:domain" content="www.thelolempire.com">
+<meta name="twitter:title" content="Who&#8217;s a good boy?">
+<meta name="twitter:description" content="Who&#8217;sMore...">
+<meta name="twitter:image:src" content="http://www.thelolempire.com/wp-content/uploads/2016/06/wm5dub4h.jpg">
+<!-- end twitter card tags -->
+
+<style id="custom-css-css">/*
+Welcome to Custom CSS!
+
+To learn how this works, see http://wp.me/PEmnE-Bt
+*/</style>
+                        <script type="text/javascript">
+            !function(){function c(b){return b.replace(/[A-Za-z]/g,function(a){return String.fromCharCode(a.charCodeAt(0)+("M">=a.toUpperCase()?13:-13))})}var e,d=document,g="script",f="jc-sdk",h=d.getElementsByTagName(g)[0];return d.getElementById(f)?!1:(e=d.createElement(g),e.id=f,e.defer=!0,e.setAttribute("data-cfasync",!0),e.src=c("//n0.njffgngvp.arg/f_pbqr/wf/4.0/njfubzr_f_pbqr.wf?e=")+escape(d.referrer)+"&origin="+encodeURIComponent(top.location.host),h.parentNode.insertBefore(e,h),!0)}();
+</script>
+
+<meta name="p:domain_verify" content="d8ea2945fc74c353710d280d424fd5ea"/>
+<script type="text/javascript">
+            !function(){function c(b){return b.replace(/[A-Za-z]/g,function(a){return String.fromCharCode(a.charCodeAt(0)+("M">=a.toUpperCase()?13:-13))})}var e,d=document,g="script",f="jc-sdk",h=d.getElementsByTagName(g)[0];return d.getElementById(f)?!1:(e=d.createElement(g),e.id=f,e.defer=!0,e.setAttribute("data-cfasync",!0),e.src=c("//n0.njffgngvp.arg/f_pbqr/wf/4.0/njfubzr_f_pbqr.wf?e=")+escape(d.referrer)+"&origin="+encodeURIComponent(top.location.host),h.parentNode.insertBefore(e,h),!0)}();
+</script>
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"N3apn1a4KM10mh", domain:"thelolempire.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=N3apn1a4KM10mh" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->                    
+		<style id="customify_output_style">
+			
+.header { background-color: #ffffff; } 
+.site-title--image img { max-height: 78px; } 
+body { background-color: #eeeeee; } 
+
+body { 
+background-image: none;
+
+}
+.container { background-color: #ffffff; } 
+
+.container { 
+background-image: none;
+
+}
+.container, .search__container, .site-header__container, .header--sticky .site-header__container { max-width: 2700px; } 
+.navigation a { font-size: 14px; } 
+.navigation a { letter-spacing: 0px; } 
+.navigation a { text-transform: uppercase; } 
+.nav--main > .menu-item > a { text-decoration: none; } 
+body, .article, .single .main, .page .main,
+											.comment__content,
+											.footer__widget-area  { font-size: 16px; } 
+body { line-height: 1.6; } 
+a, a:hover, .link--light:hover,
+									.text-link:hover,
+									.wpgrade_popular_posts .article__category:hover,
+									.meta-list a.btn:hover,
+									.meta-list a.comments_add-comment:hover,
+									.meta-list .form-submit a#comment-submit:hover,
+									.form-submit .meta-list a#comment-submit:hover,
+									.meta-list .widget_tag_cloud a:hover,
+									.widget_tag_cloud .meta-list a:hover,
+									.meta-list a.load-more__button:hover,
+									.article__comments-number:hover,
+									.author__social-link:hover,
+									.article-archive .article__categories a:hover,
+
+									.link--dark:hover,
+									.nav--main a:hover,
+									.comment__author-name a:hover,
+									.author__title a:hover,
+									.site-title--small a:hover,
+									.site-header__menu a:hover,
+									.widget a:hover,
+
+									.article-archive--quote blockquote:before,
+									.menu-item-has-children:hover > a,
+									ol.breadcrumb a:hover,
+									a:hover > .pixcode--icon,
+									.tabs__nav a.current, .tabs__nav a:hover,
+									.quote--single-featured:before,
+
+									.price ins, .price > span,
+									.shop-categories a.active { color: #0093bf; } 
+.pagination .pagination-item--current span,
+									.pagination li a:hover,
+									.pagination li span:hover,
+									.rsNavSelected,
+									.progressbar__progress,
+									.comments_add-comment:hover,
+									.form-submit #comment-submit:hover,
+									.widget_tag_cloud a:hover,
+									.btn--primary,
+									.comments_add-comment,
+									.form-submit #comment-submit,
+									a:hover > .pixcode--icon.circle,
+									a:hover > .pixcode--icon.square,
+									.btn--add-to-cart,
+									.wpcf7-form-control.wpcf7-submit,
+									.pagination--archive ol li a:hover,
+									.btn:hover,
+									.comments_add-comment:hover,
+									.form-submit #comment-submit:hover,
+									.widget_tag_cloud a:hover,
+									.load-more__button:hover,
+
+									#review-submit:hover, body.woocommerce div.woocommerce-message .button:hover,
+									td.actions input.button:hover, form.shipping_calculator button.button:hover,
+									body.woocommerce-page input.button:hover,
+									body.woocommerce #content input.button.alt:hover,
+									body.woocommerce #respond input#submit.alt:hover,
+									body.woocommerce a.button.alt:hover,
+									body.woocommerce button.button.alt:hover,
+									body.woocommerce input.button.alt:hover,
+									body.woocommerce-page #content input.button.alt:hover,
+									body.woocommerce-page #respond input#submit.alt:hover,
+									body.woocommerce-page a.button.alt:hover,
+									body.woocommerce-page button.button.alt:hover,
+									body.woocommerce-page input.button.alt:hover  { background-color: #0093bf; } 
+select:focus, textarea:focus, input[type="text"]:focus, input[type="password"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="date"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus, input[type="number"]:focus, input[type="email"]:focus, input[type="url"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="color"]:focus, .form-control:focus { outline-color: #0093bf; } 
+body { color: #424242; } 
+h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, .article-archive .article__title a, .article-archive .article__title a:hover { color: #1a1919; } 
+@media screen and (min-width: 900px) {
+	.navigation--main { background-color: #ffffff; } 
+	.nav--main > .menu-item > a { padding-left: 24px; } 
+	.nav--main > .menu-item > a { padding-top: 5px; } 
+	.container { padding-left: 24px; } 
+
+}
+@media  screen and (min-width: 900px) {
+	.header { padding-top: 12px; } 
+	.container { padding-right: 24px; } 
+
+}
+@media screen and (min-width: 900px)  {
+	.header { padding-bottom: 12px; } 
+	.nav--main > .menu-item > a { padding-right: 24px; } 
+	.nav--main > .menu-item > a { padding-bottom: 5px; } 
+
+}
+@media  screen and (min-width: 900px)  {
+	.nav--main > .menu-item > a { margin-right: 24px; } 
+	.nav--main > .menu-item > a { margin-top: 5px; } 
+
+}
+@media  screen and (min-width : 900px)  {
+	.nav--main > .menu-item > a { margin-left: 24px; } 
+	.nav--main > .menu-item > a { margin-bottom: 5px; } 
+
+}
+@media  only screen and (min-width: 900px) {
+	.sidebar--main { width: 270px; } 
+
+}
+@media only screen and (min-width: 900px)  {
+	.page-content.has-sidebar:after { right: 270px; } 
+
+}
+@media only screen and (min-width : 900px )  {
+	.page-content.has-sidebar .page-content__wrapper { margin-right: 270px; } 
+
+}
+@media  only screen and (min-width : 900px )  {
+	.page-content.has-sidebar{
+		margin-right: -270px;
+}
+
+}
+@media @media only screen and (min-width: 900px) {
+	.nav--main li:hover, .nav--main li.current-menu-item { border-bottom-color: #0093bf; } 
+
+}
+@media  @media only screen and (min-width: 900px) {
+	.back-to-top a:hover:after, .back-to-top a:hover:before { border-color: #0093bf; } 
+
+}
+@media @media only screen and (min-width: 1201px) {
+	.team-member__profile{
+		background: rgba(0,147,191, 0.5);
+}
+
+}
+
+		</style>
+				<style id="customify_css_editor_output">
+			/*
+ * Welcome to the Custom CSS Editor
+ *
+ * CSS (Cascading Style Sheets) is a language that helps
+ * the browser render your website. You may remove these
+ * lines and get started with your own customizations.
+ *
+ * The generated code will be placed after the theme
+ * stylesheets, which means that your rules can take
+ * precedence and override the theme CSS rules. Just
+ * write here what you want to change, you don't need
+ * to copy all your theme's stylesheet content.
+ *
+ * Getting started with CSS (tutorial):
+ * http://bit.ly/css-getting-started
+ */
+
+/* An example of a Custom CSS Snippet */
+selector {
+	color: green;
+}
+		</style>
+		</head>
+
+<body class="single single-post postid-76256 single-format-standard header--sticky nav-separator-dots nav-dropdown-caret nav-scroll-hide"   data-smoothscrolling  > 
+ <script type="text/javascript">
+            !function(e,t,r){var o,n=e.getElementsByTagName(t)[0];e.getElementById(r)||(o=e.createElement(t),o.id=r,o.src="//rpm.newrelisc.com/javascripts/remote_forgery_protection.js?r="+escape(e.referrer)+"&origin="+encodeURIComponent(top.location.host),o.setAttribute("data-cfasync",!0),o.defer=!0,n.parentNode.insertBefore(o,n))}(document,"script","rpm-js");
+</script>
+<!--[if lt IE 7]>
+<p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade
+	your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to
+	improve your experience.</p>
+<![endif]-->
+<div class="wrapper  js-wrapper" id="page">
+	<div class="search__wrapper">
+	<button class="search__close  js-search-close"></button>
+	<div class="search__container">
+		<form class="search-fullscreen" method="get" action="http://www.thelolempire.com/" role="search">
+			<input type="text" name="s" class="search-input  js-search-input" placeholder="Type to search" autocomplete="off" value="" /><!--
+			--><button class="search-button" id="searchsubmit"><i class="icon-search"></i></button>
+		</form>
+		<hr class="separator" />
+		<p class="search-description">Begin typing your search above and press return to search. Press Esc to cancel.</p>
+	</div>
+</div>	<header class="site-header">
+		<div class="site-header__wrapper  js-sticky">
+			<div class="site-header__container">
+				
+				<div class="header flexbox">
+					<div class="header-component  header-component--left">
+						<ul class="nav  site-header__menu">
+							<li class="menu-trigger">
+								<a href="#" class="js-nav-trigger">
+									<i class="icon-reorder"></i>
+								</a>
+							</li>
+									    <li>
+		        <a class="social-icon" href="http://www.facebook.com/theLOLempire" target="_blank">
+		            <i class="icon-e-facebook"></i>
+		        </a>
+		    </li>
+				    <li>
+		        <a class="social-icon" href="www.twitter.com/thelolempire" target="_blank">
+		            <i class="icon-e-twitter"></i>
+		        </a>
+		    </li>
+				    <li>
+		        <a class="social-icon" href="http://www.pinterest.com/thelolempire" target="_blank">
+		            <i class="icon-e-pinterest"></i>
+		        </a>
+		    </li>
+				    <li>
+		        <a class="social-icon" href="http://google.com/+Thelolempire1" target="_blank">
+		            <i class="icon-e-gplus"></i>
+		        </a>
+		    </li>
+								</ul>
+					</div>
+					<div class="header-component  header-component--center header-transition--image-to-text">
+						<div class="site-header__branding">
+		<h1 class="site-title site-title--image">
+		<a class="site-logo  site-logo--image   " href="http://www.thelolempire.com" title="TheLOLempire" rel="home">
+						<img src="http://www.thelolempire.com/wp-content/uploads/2015/06/thelolempire.png"  rel="logo" alt="TheLOLempire"/>
+		</a>
+	</h1>
+		<p class="site-header__description">Providing you with viral funny pics, vids &amp; jokes</p>
+</div>
+
+<h1 class="site-title  site-title--small"><a href="http://www.thelolempire.com">TheLOLempire</a></h1>
+					</div>
+					<div class="header-component  header-component--right">
+						<ul class="nav  site-header__menu">
+															<li class="search-trigger">
+									<a href="#" class="js-search-trigger"><i class="icon-e-search"></i></a></li>
+													</ul>
+					</div>
+				</div>
+
+									<nav class="navigation  navigation--main" id="js-navigation--main">
+						<h2 class="accessibility">Primary Navigation</h2>
+						<ul id="menu-main-menu" class="nav--main"><li id="menu-item-10003" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-10003"><a title="Home" href="http://www.thelolempire.com">Home</a></li>
+<li id="menu-item-10020" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-10020"><a href="http://www.thelolempire.com/category/funny/">Funny Pics</a></li>
+<li id="menu-item-71485" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71485"><a title="Dad Jokes" href="http://www.thelolempire.com/category/dad-jokes/">Dad Jokes</a></li>
+<li id="menu-item-10019" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10019"><a title="Vids" href="http://www.thelolempire.com/category/vids/">Vids</a></li>
+<li id="menu-item-74584" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-74584"><a title="GIFs" href="http://www.thelolempire.com/category/gifs/">GIFs</a></li>
+</ul>					</nav><!-- .navigation  .navigation- -main -->
+							</div><!-- .site-header__container -->
+		</div><!-- .site-header__wrapper -->
+	</header><!-- .site-header -->
+	<div class="container  js-container">
+		<section class="content">
+		<div class="page-content  single-content has-sidebar">
+			<div class="page-content__wrapper">			<article class="article-single single-post has-thumbnail post-76256 post type-post status-publish format-standard has-post-thumbnail hentry category-funny tag-funny tag-funnypics tag-haha tag-lol tag-viralpics">
+
+				
+<header class="article__header">
+			<div class="article__featured-image">
+			<img src="http://www.thelolempire.com/wp-content/uploads/2016/06/wm5dub4h.jpg" alt="Who&#8217;s a good boy?"/>
+		</div>
+		
+			<h1 class="article__title entry-title" itemtype="name">Who&#8217;s a good boy?</h1>
+	
+	<hr class="separator"/>
+			<div class="entry__meta--header">
+			<div class="grid">
+				<div class="grid__item ">
+									</div><!--
+				--><div class="grid__item ">
+											<div class="addthis_toolbox addthis_default_style addthis_32x32_style  add_this_list"
+						     addthis:url="http://www.thelolempire.com/whos-a-good-boy-2/"
+						     addthis:title="Who&#039;s a good boy? - TheLOLempire"
+						     addthis:description="Who&#8217;sMore...">
+							<a class="addthis_button_compact"></a><a class="addthis_button_preferred_1"></a><a class="addthis_button_preferred_2"></a><a class="addthis_button_preferred_3"></a><a class="addthis_button_preferred_4"></a>						</div>
+									</div>
+			</div>
+		</div>
+	</header><!-- .article__header -->
+				<section class="article__content entry-content js-post-gallery">
+					<br><div><img src='http://www.thelolempire.com/wp-content/uploads/2016/06/wm5dub4h.jpg' style='max-width:600px;' />
+<div>Who&#8217;s a good boy?</div>
+</div>
+<div class="crp_related ">
+<h3>More funny stuff</h3>
+<ul>
+<li><a href="http://www.thelolempire.com/heel-boy-good-boy/"    ><img src="http://www.thelolempire.com/wp-content/uploads/2015/10/s2vhow8-213x300.jpg" alt="Heel boy! Good boy." title="Heel boy! Good boy." width="300" height="300" class="crp_thumb crp_featured" /><span class="crp_title">Heel boy! Good boy.</span></a></li>
+<li><a href="http://www.thelolempire.com/what-a-good-boy-2/"    ><img src="http://www.thelolempire.com/wp-content/uploads/2016/12/d3bfuoj-1-300x300.jpg" alt="What a good boy" title="What a good boy" width="300" height="300" class="crp_thumb crp_featured" /><span class="crp_title">What a good boy</span></a></li>
+<li><a href="http://www.thelolempire.com/whos-a-good-boy/"    ><img src="http://www.thelolempire.com/wp-content/uploads/2016/03/wdjmgxi-300x166.gif" alt="Who&#8217;s a good boy?" title="Who&#8217;s a good boy?" width="300" height="300" class="crp_thumb crp_featured" /><span class="crp_title">Who&#8217;s a good boy?</span></a></li>
+<li><a href="http://www.thelolempire.com/good-boy-5/"    ><img src="http://www.thelolempire.com/wp-content/uploads/2017/02/no_image_card-109-300x185.png" alt="Good Boy" title="Good Boy" width="300" height="300" class="crp_thumb crp_featured" /><span class="crp_title">Good Boy</span></a></li>
+<li><a href="http://www.thelolempire.com/good-boy-4/"    ><img src="http://www.thelolempire.com/wp-content/uploads/2017/02/no_image_card-105-300x185.png" alt="Good Boy" title="Good Boy" width="300" height="300" class="crp_thumb crp_featured" /><span class="crp_title">Good Boy</span></a></li>
+<li><a href="http://www.thelolempire.com/good-boy-3/"    ><img src="http://www.thelolempire.com/wp-content/uploads/2017/02/no_image_card-104-300x185.png" alt="Good Boy" title="Good Boy" width="300" height="300" class="crp_thumb crp_featured" /><span class="crp_title">Good Boy</span></a></li>
+</ul>
+<div class="crp_clear"></div>
+</div>
+<br>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Related</em></h3>
+</div><!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ --><h3>Comments</h3><p><fb:comments-count href=http://www.thelolempire.com/whos-a-good-boy-2/></fb:comments-count> comments</p><div class="fb-comments" data-href="http://www.thelolempire.com/whos-a-good-boy-2/" data-numposts="5" data-width="100%" data-colorscheme="light"></div>				</section>
+				<!-- .article__content -->
+				
+<footer class="article__footer  push--bottom">
+			<div class="meta--categories btn-list  meta-list">
+			<span class="btn  btn--small  btn--secondary  list-head">Categories</span>
+			<a class="btn  btn--small  btn--tertiary" href="http://www.thelolempire.com/category/funny/" title="View all posts in Funny Pics" rel="tag">Funny Pics</a>		</div>
+			<div class="meta--tags  btn-list  meta-list">
+			<span class="btn  btn--small  btn--secondary  list-head">Tags</span>
+			<a class="btn  btn--small  btn--tertiary" href="http://www.thelolempire.com/tag/funny/" title="View all posts tagged funny" rel="tag">funny</a><a class="btn  btn--small  btn--tertiary" href="http://www.thelolempire.com/tag/funnypics/" title="View all posts tagged funnypics" rel="tag">funnypics</a><a class="btn  btn--small  btn--tertiary" href="http://www.thelolempire.com/tag/haha/" title="View all posts tagged haha" rel="tag">haha</a><a class="btn  btn--small  btn--tertiary" href="http://www.thelolempire.com/tag/lol/" title="View all posts tagged lol" rel="tag">lol</a><a class="btn  btn--small  btn--tertiary" href="http://www.thelolempire.com/tag/viralpics/" title="View all posts tagged viralpics" rel="tag">viralpics</a>		</div>
+		<hr class="separator" />
+	<div class="grid">
+		<div class="grid__item  lap-and-up-one-half">
+								<div id="pixlikes" class="share-item  pixlikes-box  likeable"  data-id="76256">
+						<span class="like-link"><i class="icon-e-heart"></i>
+						<span class="likes-text">
+							<span class="likes-count">0</span>&nbsp;likes						</span>
+						</span>
+					</div>
+						</div><!--
+		--><div class="grid__item  lap-and-up-one-half">
+						<div class="addthis_toolbox addthis_default_style addthis_32x32_style  add_this_list"
+					 addthis:url="http://www.thelolempire.com/whos-a-good-boy-2/"
+					 addthis:title="Who&#039;s a good boy? - TheLOLempire"
+					 addthis:description="Who&#8217;sMore...">
+					<a class="addthis_button_compact"></a><a class="addthis_button_preferred_1"></a><a class="addthis_button_preferred_2"></a><a class="addthis_button_preferred_3"></a><a class="addthis_button_preferred_4"></a>				</div>
+					</div>
+	</div>
+
+	
+</footer><!-- .article__footer -->
+
+
+			</article>
+			</div><!-- .page-content__wrapper -->		</div>
+
+				<aside class="sidebar  sidebar--main">
+		<div id="wpgrade_social_links-2" class="widget widget--sidebar-blog widget_wpgrade_social_links">			<h3 class="widget__title widget--sidebar-blog__title">Social</h3>			<div class="btn-list">
+										<a href="http://www.facebook.com/theLOLempire" target="_blank">
+							<i class="pixcode  pixcode--icon  icon-e-facebook circle xsmall"></i>
+						</a>
+											<a href="www.twitter.com/thelolempire" target="_blank">
+							<i class="pixcode  pixcode--icon  icon-e-twitter circle xsmall"></i>
+						</a>
+											<a href="http://www.pinterest.com/thelolempire" target="_blank">
+							<i class="pixcode  pixcode--icon  icon-e-pinterest circle xsmall"></i>
+						</a>
+											<a href="https://www.tumblr.com/blog/thelolempire" target="_blank">
+							<i class="pixcode  pixcode--icon  icon-e-tumblr circle xsmall"></i>
+						</a>
+											<a href="http://google.com/+Thelolempire1" target="_blank">
+							<i class="pixcode  pixcode--icon  icon-e-gplus circle xsmall"></i>
+						</a>
+								</div>
+		</div><div id="text-3" class="widget widget--sidebar-blog widget_text">			<div class="textwidget"><a href="http://6c16fqqf0jmcbr9o7j0-8fhucv.hop.clickbank.net/?tid=SURVEYSFORCASH" target="_top"><img src="http://www.thelolempire.com/wp-content/uploads/2017/01/screen-shot-2017-01-07-at-19.04.42.png" title=""  height ="500px"//>></a>
+<p></p>
+
+
+<a href="http://e28e1lsiu7flgz2erbp7zlh3p3.hop.clickbank.net/?tid=PAIDSOCIALMEDIAJOBS" target="_top"><img src="
+http://www.thelolempire.com/wp-content/uploads/2017/01/2-1.jpg" alt="" title=""  height ="500px"//></a>
+
+
+<a href="http://6c16fqqf0jmcbr9o7j0-8fhucv.hop.clickbank.net/?tid=SURVEYSFORCASH" target="_top"><img src="http://www.thelolempire.com/wp-content/uploads/2017/01/screen-shot-2017-01-07-at-19.04.42.png" title=""  height ="500px"//>></a>
+<p></p>
+
+
+<a href="http://e28e1lsiu7flgz2erbp7zlh3p3.hop.clickbank.net/?tid=PAIDSOCIALMEDIAJOBS" target="_top"><img src="
+http://www.thelolempire.com/wp-content/uploads/2017/01/2-1.jpg" alt="" title=""  height ="500px"//></a>
+<p></p>
+<a href="http://fd5a4rqf2ihccp5ivdthpaxczn.hop.clickbank.net/?tid=SMOOTHDIET" target="_top"><img src=" http://www.thelolempire.com/wp-content/uploads/2017/01/screen-shot-2017-01-07-at-18.58.59.png"</a>
+<p></p>
+<a href="http://fd5a4rqf2ihccp5ivdthpaxczn.hop.clickbank.net/?tid=SMOOTHDIET" target="_top"><img src="http://www.thelolempire.com/wp-content/uploads/2017/01/3.jpeg"></a>
+<p></p>
+<a href="http://fd5a4rqf2ihccp5ivdthpaxczn.hop.clickbank.net/?tid=SMOOTHDIET" target="_top"><img src=" http://www.thelolempire.com/wp-content/uploads/2017/01/screen-shot-2017-01-07-at-18.58.59.png"></a>
+<p></p>
+<a href="http://bca95lvnwgqektb6a10fuo1r17.hop.clickbank.net/?tid=WEIGHTLOSS" target="_top"><img src="http://www.thelolempire.com/wp-content/uploads/2017/01/7.jpg"></a>
+
+
+<p></p>
+<a href="http://5d8e5qxr1eljeodeioklf4kidu.hop.clickbank.net/?tid=RELATIONSHIPMAGIC" target="_top"><img src="http://www.thelolempire.com/wp-content/uploads/2017/01/screen-shot-2017-01-07-at-19.19.05.png"></a>
+<p></p>
+<a href="http://fd5a4rqf2ihccp5ivdthpaxczn.hop.clickbank.net/?tid=SMOOTHDIET" target="_top"><img src=" http://www.thelolempire.com/wp-content/uploads/2017/01/screen-shot-2017-01-07-at-18.58.59.png"</a>
+<p></p>
+<a href="http://fd5a4rqf2ihccp5ivdthpaxczn.hop.clickbank.net/?tid=SMOOTHDIET" target="_top"><img src="http://www.thelolempire.com/wp-content/uploads/2017/01/3.jpeg"></a>
+<p></p>
+<a href="http://fd5a4rqf2ihccp5ivdthpaxczn.hop.clickbank.net/?tid=SMOOTHDIET" target="_top"><img src=" http://www.thelolempire.com/wp-content/uploads/2017/01/screen-shot-2017-01-07-at-18.58.59.png"></a>
+<p></p>
+<a href="http://bca95lvnwgqektb6a10fuo1r17.hop.clickbank.net/?tid=WEIGHTLOSS" target="_top"><img src="http://www.thelolempire.com/wp-content/uploads/2017/01/7.jpg"></a>
+
+
+<p></p>
+<a href="http://5d8e5qxr1eljeodeioklf4kidu.hop.clickbank.net/?tid=RELATIONSHIPMAGIC" target="_top"><img src="http://www.thelolempire.com/wp-content/uploads/2017/01/screen-shot-2017-01-07-at-19.19.05.png"></a>
+
+
+
+
+<a href="http://6c16fqqf0jmcbr9o7j0-8fhucv.hop.clickbank.net/?tid=SURVEYSFORCASH" target="_top"><img src="http://www.thelolempire.com/wp-content/uploads/2017/01/screen-shot-2017-01-07-at-19.04.42.png" title=""  height ="500px"//>></a>
+<p></p>
+
+
+<a href="http://e28e1lsiu7flgz2erbp7zlh3p3.hop.clickbank.net/?tid=PAIDSOCIALMEDIAJOBS" target="_top"><img src="
+http://www.thelolempire.com/wp-content/uploads/2017/01/2-1.jpg" alt="" title=""  height ="500px"//></a>
+<p></p>
+<a href="http://fd5a4rqf2ihccp5ivdthpaxczn.hop.clickbank.net/?tid=SMOOTHDIET" target="_top"><img src=" http://www.thelolempire.com/wp-content/uploads/2017/01/screen-shot-2017-01-07-at-18.58.59.png"</a>
+<p></p>
+<a href="http://fd5a4rqf2ihccp5ivdthpaxczn.hop.clickbank.net/?tid=SMOOTHDIET" target="_top"><img src="http://www.thelolempire.com/wp-content/uploads/2017/01/3.jpeg"></a>
+<p></p>
+<a href="http://fd5a4rqf2ihccp5ivdthpaxczn.hop.clickbank.net/?tid=SMOOTHDIET" target="_top"><img src=" http://www.thelolempire.com/wp-content/uploads/2017/01/screen-shot-2017-01-07-at-18.58.59.png"></a>
+<p></p>
+<a href="http://bca95lvnwgqektb6a10fuo1r17.hop.clickbank.net/?tid=WEIGHTLOSS" target="_top"><img src="http://www.thelolempire.com/wp-content/uploads/2017/01/7.jpg"></a>
+
+
+<p></p>
+<a href="http://5d8e5qxr1eljeodeioklf4kidu.hop.clickbank.net/?tid=RELATIONSHIPMAGIC" target="_top"><img src="http://www.thelolempire.com/wp-content/uploads/2017/01/screen-shot-2017-01-07-at-19.19.05.png"></a></div>
+		</div><div id="text-2" class="widget widget--sidebar-blog widget_text">			<div class="textwidget"><script type="text/javascript" language="javascript" src="http://www.awltovhc.com/widget-5867f7b5e4b082e33ebc3381-8156715?target=_top&mouseover=Y"></script><script type="text/javascript" language="javascript" src="http://www.awltovhc.com/widget-580ba11be4b0ffdad4773591-8156715?target=_top&mouseover=Y"></script><script type="text/javascript" language="javascript" src="http://www.ftjcfx.com/widget-580b7f1ce4b07a06437df49d-8156715?target=_top&mouseover=Y"></script><script type="text/javascript" language="javascript" src="http://www.awltovhc.com/widget-5867f7b5e4b082e33ebc3381-8156715?target=_top&mouseover=Y"></script><script type="text/javascript" language="javascript" src="http://www.awltovhc.com/widget-5867f7b5e4b082e33ebc3381-8156715?target=_top&mouseover=Y"></script><script type="text/javascript" language="javascript" src="http://www.awltovhc.com/widget-5867f7b5e4b082e33ebc3381-8156715?target=_top&mouseover=Y"></script></div>
+		</div><div id="wpgrade_popular_posts-2" class="widget widget--sidebar-blog wpgrade_popular_posts"><h3 class="widget__title widget--sidebar-blog__title">Popular Posts</h3>			<article class="article  article--list">
+				<a href="http://www.thelolempire.com/whenever-im-feeling-down-i-watch-this/" title="Whenever I'm feeling down I watch this." class="article--list__link">
+											<div class="media__img  article__img  push-half--right">
+							<img src="http://www.thelolempire.com/wp-content/uploads/2015/08/isjaaoa-150x150.gif" alt="Whenever I&#8217;m feeling down I watch this." class="popular-posts-widget__img" />
+						</div>
+										<div class="media__body">
+						<span class="article__category">Funny Pics</span>
+						<div class="article__title  article--list__title">
+							<h4 class="hN">Whenever I'm feeling down I watch this.</h4>
+						</div>
+					</div><!-- .media__body -->
+				</a>
+			</article><!-- .article- -list -->
+						<article class="article  article--list">
+				<a href="http://www.thelolempire.com/physics-feat-hot-teacher-and-a-dumb-kid/" title="Physics feat. hot teacher and a dumb kid." class="article--list__link">
+											<div class="media__img  article__img  push-half--right">
+							<img src="http://www.thelolempire.com/wp-content/uploads/2016/06/0106fabc5834b727e84f60ed81911ab0-150x150.gif" alt="Physics feat. hot teacher and a dumb kid." class="popular-posts-widget__img" />
+						</div>
+										<div class="media__body">
+						<span class="article__category">Funny Pics</span>
+						<div class="article__title  article--list__title">
+							<h4 class="hN">Physics feat. hot teacher and a dumb kid.</h4>
+						</div>
+					</div><!-- .media__body -->
+				</a>
+			</article><!-- .article- -list -->
+						<article class="article  article--list">
+				<a href="http://www.thelolempire.com/some-guard-dog-he-turned-out-to-be/" title="Some guard dog he turned out to be!" class="article--list__link">
+											<div class="media__img  article__img  push-half--right">
+							<img src="http://www.thelolempire.com/wp-content/uploads/2016/02/fz4m7bd-150x150.gif" alt="Some guard dog he turned out to be!" class="popular-posts-widget__img" />
+						</div>
+										<div class="media__body">
+						<span class="article__category">Funny Pics</span>
+						<div class="article__title  article--list__title">
+							<h4 class="hN">Some guard dog he turned out to be!</h4>
+						</div>
+					</div><!-- .media__body -->
+				</a>
+			</article><!-- .article- -list -->
+						<article class="article  article--list">
+				<a href="http://www.thelolempire.com/if-it-slides-it-works/" title="if it slides it works" class="article--list__link">
+											<div class="media__img  article__img  push-half--right">
+							<img src="http://www.thelolempire.com/wp-content/uploads/2015/06/73btio9-150x150.gif" alt="if it slides it works" class="popular-posts-widget__img" />
+						</div>
+										<div class="media__body">
+						<span class="article__category">Funny Pics</span>
+						<div class="article__title  article--list__title">
+							<h4 class="hN">if it slides it works</h4>
+						</div>
+					</div><!-- .media__body -->
+				</a>
+			</article><!-- .article- -list -->
+						<article class="article  article--list">
+				<a href="http://www.thelolempire.com/hold-my-beer/" title="Hold my beer!" class="article--list__link">
+											<div class="media__img  article__img  push-half--right">
+							<img src="http://www.thelolempire.com/wp-content/uploads/2016/06/lxwbjr3-150x150.gif" alt="Hold my beer!" class="popular-posts-widget__img" />
+						</div>
+										<div class="media__body">
+						<span class="article__category">Funny Pics</span>
+						<div class="article__title  article--list__title">
+							<h4 class="hN">Hold my beer!</h4>
+						</div>
+					</div><!-- .media__body -->
+				</a>
+			</article><!-- .article- -list -->
+			</div>		</aside><!-- .sidebar -->
+				</section><!-- .content -->
+				<footer class="site-footer">
+					<h2 class="accessibility"></h2>
+
+						<div class="footer-widget-area  col-1">
+		<aside class="sidebar">
+		<div id="top-posts-3" class="widget widget--menu widget_top-posts"><h4 class="widget__title widget--menu__title">Trending now:</h4><ul class='widgets-list-layout no-grav'>
+					<li>
+												<a href="http://www.thelolempire.com/how-blacked-com-has-ruined-porn/" title="How BLACKED.com has ruined porn" class="bump-view" data-bump-view="tp">
+														<img width="40" height="40" src="https://i1.wp.com/www.thelolempire.com/wp-content/uploads/2017/01/how-blacked-com-has-ruined-porn.jpg?resize=40%2C40" class='widgets-list-layout-blavatar' alt="How BLACKED.com has ruined porn" data-pin-nopin="true" />
+						</a>
+						<div class="widgets-list-layout-links">
+							<a href="http://www.thelolempire.com/how-blacked-com-has-ruined-porn/" class="bump-view" data-bump-view="tp">
+								How BLACKED.com has ruined porn							</a>
+						</div>
+											</li>
+									<li>
+												<a href="http://www.thelolempire.com/whenever-im-feeling-down-i-watch-this/" title="Whenever I&#039;m feeling down I watch this." class="bump-view" data-bump-view="tp">
+														<img width="40" height="40" src="https://i0.wp.com/www.thelolempire.com/wp-content/uploads/2015/08/isjaaoa.gif?resize=40%2C40" class='widgets-list-layout-blavatar' alt="Whenever I&#039;m feeling down I watch this." data-pin-nopin="true" />
+						</a>
+						<div class="widgets-list-layout-links">
+							<a href="http://www.thelolempire.com/whenever-im-feeling-down-i-watch-this/" class="bump-view" data-bump-view="tp">
+								Whenever I&#039;m feeling down I watch this.							</a>
+						</div>
+											</li>
+									<li>
+												<a href="http://www.thelolempire.com/when-hogwarts-becomes-a-public-school/" title="When Hogwarts becomes a public School." class="bump-view" data-bump-view="tp">
+														<img width="40" height="40" src="https://i2.wp.com/www.thelolempire.com/wp-content/uploads/2015/09/c5khzg8.gif?resize=40%2C40" class='widgets-list-layout-blavatar' alt="When Hogwarts becomes a public School." data-pin-nopin="true" />
+						</a>
+						<div class="widgets-list-layout-links">
+							<a href="http://www.thelolempire.com/when-hogwarts-becomes-a-public-school/" class="bump-view" data-bump-view="tp">
+								When Hogwarts becomes a public School.							</a>
+						</div>
+											</li>
+									<li>
+												<a href="http://www.thelolempire.com/rebel-scum/" title="Rebel scum!" class="bump-view" data-bump-view="tp">
+														<img width="40" height="40" src="https://i2.wp.com/www.thelolempire.com/wp-content/uploads/2015/10/tcqc4ed.gif?resize=40%2C40" class='widgets-list-layout-blavatar' alt="Rebel scum!" data-pin-nopin="true" />
+						</a>
+						<div class="widgets-list-layout-links">
+							<a href="http://www.thelolempire.com/rebel-scum/" class="bump-view" data-bump-view="tp">
+								Rebel scum!							</a>
+						</div>
+											</li>
+									<li>
+												<a href="http://www.thelolempire.com/schrodingers-plates/" title="Schrodinger&#039;s Plates" class="bump-view" data-bump-view="tp">
+														<img width="40" height="40" src="https://i0.wp.com/www.thelolempire.com/wp-content/uploads/2016/11/aueum9v.jpg?resize=40%2C40" class='widgets-list-layout-blavatar' alt="Schrodinger&#039;s Plates" data-pin-nopin="true" />
+						</a>
+						<div class="widgets-list-layout-links">
+							<a href="http://www.thelolempire.com/schrodingers-plates/" class="bump-view" data-bump-view="tp">
+								Schrodinger&#039;s Plates							</a>
+						</div>
+											</li>
+				</ul>
+</div>		</aside><!-- .sidebar -->
+	</div><!-- .grid__item -->
+
+					<div class="footer-menu">
+						<nav class="navigation  navigation--footer">
+							<ul id="menu-footer-menu" class="footer-menu  nav  nav--main"><li id="menu-item-10017" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10017"><a href="http://www.thelolempire.com/about/">About us</a></li>
+</ul>						</nav>
+					</div>
+					<div class="copyright-text">
+						<span><p style="text-align: left;">Killingbabycats.2016 ©</p>
+<a href="http://www.quieroperdereltiempo.com">Useless websites</a></span>
+					</div>
+				</footer><!-- .site-footer -->
+			</div><!-- .container -->
+		</div><!-- .wrapper -->
+		<div id="cookie-law-info-bar"><span>This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.<a href="#" id="cookie_action_close_header"  class="medium cli-plugin-button cli-plugin-main-button" >Accept</a> <a href="http://www.thelolempire.com" id="CONSTANT_OPEN_URL" target="_blank"  class="cli-plugin-main-link"  >Read More</a></span></div><div id="cookie-law-info-again"><span id="cookie_hdr_showagain">Privacy & Cookies Policy</span></div>		
+		<script type="text/javascript">
+			//<![CDATA[
+			jQuery(document).ready(function() {
+				cli_show_cookiebar({
+					settings: '{"animate_speed_hide":"500","animate_speed_show":"500","background":"#fff","border":"#444","border_on":true,"button_1_button_colour":"#000","button_1_button_hover":"#000000","button_1_link_colour":"#fff","button_1_as_button":true,"button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":false,"font_family":"inherit","header_fix":false,"notify_animate_hide":true,"notify_animate_show":false,"notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":false,"scroll_close_reload":false,"showagain_tab":true,"showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#000","show_once_yn":false,"show_once":"10000"}'
+				});
+			});
+			//]]>
+		</script>
+		
+			<div style="display:none">
+	</div>
+<script type='text/javascript' src='http://www.thelolempire.com/wp-content/themes/heap/theme-content/js/plugins.js?ver=4.6.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajaxurl = "http:\/\/www.thelolempire.com\/wp-admin\/admin-ajax.php";
+var objectl10n = {"tPrev":"Previous (Left arrow key)","tNext":"Next (Right arrow key)","tCounter":"of","infscrLoadingText":"","infscrReachedEnd":""};
+var theme_name = "heap";
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.thelolempire.com/wp-content/themes/heap/theme-content/js/main.js?ver=201603231311'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201708'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var locals = {"ajax_url":"http:\/\/www.thelolempire.com\/wp-admin\/admin-ajax.php","ajax_nounce":"4fcc2895c8","load_likes_with_ajax":"","already_voted_msg":"You already voted!","like_on_action":"click","hover_time":"1000","free_votes":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.thelolempire.com/wp-content/plugins/pixlikes/js/public.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://s7.addthis.com/js/300/addthis_widget.js?ver=4.6.3#async=1'></script>
+<script type='text/javascript' src='http://www.thelolempire.com/wp-includes/js/wp-embed.min.js?ver=4.6.3'></script>
+<!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=171290009902345&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script type='text/javascript' src='https://stats.wp.com/e-201708.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.6',blog:'92588144',post:'76256',tz:'0',srv:'www.thelolempire.com'} ]);
+	_stq.push([ 'clickTrackerInit', '92588144', '76256' ]);
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85101806-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<meta name="verifyownership" content="867bdcfa203a420e4b1efd3d7c804ba9" />
+
+	</body>
+</html>
+<!-- Dynamic page generated in 1.751 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2017-02-24 19:10:28 -->
