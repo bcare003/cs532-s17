@@ -1,0 +1,113 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" id="min-width" lang="fr" xml:lang="fr"   ><script type="text/javascript">$(document).ready(function() {$(".cssactif_progressif").css("display", "none");$(".cssactif_progressif").fadeIn(500);});</script><head><link href='https://fonts.googleapis.com/css?family=Handlee' rel='stylesheet' type='text/css'><title>Connexion</title><meta http-equiv="content-type" content="text/html; charset=utf-8" /><meta http-equiv="content-script-type" content="text/javascript" /><meta http-equiv="content-style-type" content="text/css" /><link rel="canonical" href="/login?connexion" /><link rel="shortcut icon" type="image/x-icon" href="http://image.noelshack.com/fichiers/2016/27/1468083313-favicno.png" /><meta name="robots" content="noindex, follow" /><meta name="title" content="Connexion" /><link rel="stylesheet" href="/8-ltr.css" type="text/css" /><link rel="search" type="application/opensearchdescription+xml" href="/improvedsearch.xml" title="Catch-Ultra" /><link rel="search" type="application/opensearchdescription+xml" href="https://www.annuairedeforums.com/search/improvedsearch.xml" title="Rechercher des forums" /><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script><script src="https://illiweb.com/rsc/61/frm/lang/fr.js" type="text/javascript"></script><script type="text/javascript">//<![CDATA[
+$(document).ready(function(){});//]]></script>
+<script type="text/javascript" src="https://static.criteo.net/js/ld/publishertag.js"></script><script type="text/javascript">
+//<![CDATA[
+
+                if(typeof(_userdata) == "undefined")
+					var _userdata = new Object();
+                _userdata["session_logged_in"] = 0;
+                _userdata["username"] = "Anonymous";
+                _userdata["user_id"] = -1;
+                _userdata["user_level"] = 0;
+                _userdata["user_lang"] = "fr";
+                _userdata["activate_toolbar"] = 0;
+                _userdata["fix_toolbar"] = 1;
+                _userdata["notifications"] = 1;
+                _userdata["avatar"] = "<img src=\"https://illiweb.com/fa/invision/pp-blank-thumb.png\"   alt=\"\" />";
+                _userdata["user_posts"] = 72;
+                _userdata["user_nb_privmsg"] = 18;
+                _userdata["point_reputation"] = 0;
+            
+
+        if(typeof(_lang) == "undefined") {
+            var _lang = new Object();
+        }
+        
+        _lang["Twitter"] ="Forumactif_fr";
+    
+
+
+        function getHeight(value){
+            var i=0, ilength=arrayAdsIframe.length;
+            for(i=0; i<ilength; i++){
+                if ("ahlaejaba_ads_id_"+arrayAdsIframe[i].id == value){
+                    return arrayAdsIframe[i].height;
+                }
+            }
+        }
+        function eventover(elem){
+            var id = $(elem).attr("id");
+            var height = getHeight(id);
+            if(height > 0){
+                  
+                  
+                var isborder = (height > 270) ? 0 : "1px solid #DDD";
+                $("#"+id).css({"height":height+"px","border-bottom":isborder});
+            }
+        }
+        function eventout(elem){
+            $(elem).css({"height":"88px","border-bottom":"1px solid #DDD"});
+        }
+        function scrollAuto(elem){
+            if($(elem).position()){
+                if($(elem).parent().position().top + $(elem).height() > $(window).scrollTop() + (window.innerHeight || document.documentElement.clientHeight)){
+                    $("html,body").animate({scrollTop:$(elem).position().top + (window.innerHeight || document.documentElement.clientHeight) + $(elem).height() + 30}, 1000);
+                }
+            }
+        }
+        
+
+        var arrayAdsIframe = new Array();
+        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+        var eventer = window[eventMethod];
+        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+        eventer(messageEvent,function(e) {
+            var key = e.message ? "message" : "data";
+            var data = e[key];
+            if(data.id > 0 && data.height > 0){
+                arrayAdsIframe.push(data);
+            }
+            
+        },false);
+        
+
+        $(document).on("mouseover",".fsc_ahlaejaba_ads_5955b716" ,function(){
+            eventover(this);
+            scrollAuto(this);
+        });
+        $(document).on("mouseout", ".fsc_ahlaejaba_ads_5955b716", function(){
+            eventout(this);
+        });
+
+
+//]]>
+</script>
+
+<style type="text/css">
+#left table.5955b716 {border:0;border-collapse:collapse;}#left table.5955b716 table {table-layout:fixed;border-collapse:collapse;}div.5955b716 iframe{display: block important!;visibility: visible important!}iframe[src*=adstune]:not([style*=display]), iframe[src*=criteo]:not([style*=display]), iframe[src*=ad6b]:not([style*=display]), iframe[src*=z5x]:not([style*=display]), iframe[src*=doubleclick]:not([style*=display]) {display: block !important;visibility: visible !important;}div.mc9120d58{ padding:10px 0 0 0 !important; }div.mc9120d58{ font-size: 14px; color:#536482; }
+</style>
+<script type="text/javascript">//<![CDATA[
+var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-40511401-1']);_gaq.push(['_trackPageview']);_gaq.push(['_trackPageLoadTime']);(function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();//]]></script></head><body background="http://www.hapshack.com/images/LHvh1.png" bgcolor="#ffffff" text="#536482" link="#105289" vlink="#105289"><a name="top"></a><table class="bodylinewidth" width="78%" cellspacing="0" cellpadding="10" border="0" align="center"><tr><td class="bodyline"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td align="center" width="100%" valign="middle"><a href="/"><img src="http://image.noelshack.com/fichiers/2017/07/1487114666-cuwm3b.png" id="i_logo" border="0" alt="Catch-Ultra" vspace="1" /></a><br /><div class="maintitle"></div><br /><span class="gen">Catch-Ultra, depuis 2009, le 1er forum de Catch sur FA !*<br />&nbsp; </span></td></tr></table><table cellspacing="0" cellpadding="0" border="0" align="center"><tr><td align="center" nowrap="nowrap"><a class="mainmenu" href="/"><img id="i_icon_mini_index" src="http://image.noelshack.com/fichiers/2016/27/1467985473-accueil2.png" border="0"  hspace="0" alt="Accueil" title="Accueil" /></a><a class="mainmenu" href="/faq"><img id="i_icon_mini_faq" src="http://image.noelshack.com/fichiers/2016/27/1467984623-faq.png" border="0"  hspace="0" alt="FAQ" title="FAQ" /></a><a class="mainmenu" href="/search" onclick="showhide(document.getElementById('search_menu')); return false;"><img id="i_icon_mini_search" src="http://image.noelshack.com/fichiers/2016/27/1467984623-rechercher.png" border="0"  hspace="0" alt="Rechercher" title="Rechercher" /></a><div id="search_menu" style="display:none;position:absolute;z-index:10000"><form action="/search" method="get"><input type="hidden" name="mode" value="searchbox"/><table class="forumline" cellpadding="3" cellspacing="0" border="0"><tr><th class="thHead">Rechercher</th></tr><tr><td class="row2" align="center"><input type="text" class="post" name="search_keywords" size="24" style="height:20px;margin-top:6px;margin-right:3px;"/><input type="submit" class="button" value="Go"/></td></tr><tr><td class="row2" align="center" nowrap="nowrap"><span class="genmed"> Résultats par : <input id="rposts" type="radio" name="show_results" value="posts"/><label for="rposts"> Messages</label><input id="rtopics" type="radio" name="show_results" value="topics" checked="checked"/><label for="rtopics"> Sujets</label> </span></td></tr><tr><td class="row2" align="center"><span class="genmed"><a href="/search" rel="nofollow" title="Recherche avancée"><img src="https://illiweb.com/fa/empty.gif" width="12" height="13" border="0" hspace="3" alt="Recherche avancée"/> Recherche avancée</a></span></td></tr></table></form></div><a class="mainmenu" href="/memberlist"><img id="i_icon_mini_members" src="http://image.noelshack.com/fichiers/2016/31/1470143954-membres.png" border="0"  hspace="0" alt="Membres" title="Membres" /></a><a class="mainmenu" href="/groups"><img id="i_icon_mini_groups" src="http://image.noelshack.com/fichiers/2016/27/1467984623-groupe.png" border="0"  hspace="0" alt="Groupes" title="Groupes" /></a><a class="mainmenu" href="/register"><img id="i_icon_mini_register" src="http://www.hapshack.com/images/oZW4I.png" border="0"  hspace="0" alt="S'enregistrer" title="S'enregistrer" /></a><a class="mainmenu" href="/login" rel="nofollow"><img id="i_icon_mini_login" src="http://www.hapshack.com/images/oJW9.png" border="0"  hspace="0" alt="Connexion" title="Connexion" /></a></td></tr></table><div style="clear: both;"></div><div id="page-body"><div id="emptyidcc" class="no-left"><table cellpadding="0" cellspacing="0" width="100%" class="three-col"><tbody><tr><td valign="top" width="0"><div id="emptyidleft"></div></td><td valign="top" width="100%"><div class="cssactif_progressif"><div class='mc9120d58'><script type="text/javascript">//<![CDATA[
+function AT_adFillSlot(){document.write('<scr' + 'ipt type="text/javascript">function FB_adFillSlotR(){document.write(\'<mediaclic zone-id="29031" width="728" height="90"></mediaclic><scr\' + \'ipt async src="https://pub2.media-clic.com/www/delivery/asyncjs.js"></scr\' + \'ipt>\');}</scr' + 'ipt><scr' + 'ipt language="JavaScript" type="text/javascript">rp_account="11662";rp_site="36432";rp_zonesize="151162-2";rp_adtype="js";rp_smartfile="[SMART FILE URL]";</scr' + 'ipt><scr' + 'ipt type="text/javascript" src="https://ads.rubiconproject.com/ad/11662.js"></scr' + 'ipt>');}//]]>
+</script><script type="text/javascript">//<![CDATA[
+document.MAX_ct0 ='';var m3_u = (location.protocol=='https:'?'https://cas.criteo.com/delivery/ajs.php?':'http://cas.criteo.com/delivery/ajs.php?');var m3_r = Math.floor(Math.random()*99999999999);var channel = "zoneid=562762&amp;prlog=";document.write("<scr"+"ipt type='text/javascript' src='"+m3_u);document.write(channel);document.write("&amp;nodis=1");document.write('&amp;cb=' + m3_r);if (document.MAX_used != ',') document.write("&amp;exclude=" + document.MAX_used);document.write(document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));document.write("&amp;loc=" + escape(window.location).substring(0,1600));if (document.referrer) document.write("&amp;referer=" + escape(document.referrer));if (document.context) document.write("&context=" + escape(document.context));if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {document.write("&amp;ct0=" + escape(document.MAX_ct0));}if (document.mmm_fo) document.write("&amp;mmm_fo=1");document.write("&amp;publisherurl=" + escape(location.hostname));document.write("'></scr"+"ipt>");//]]>
+</script>                    <div id="criteoDiv1" style="width:728px;height:90px;"></div>                    <script type="text/javascript">                        Criteo.DisplayAcceptableAdIfAdblocked({                            "zoneid": 527396,                            "containerid": "criteoDiv1",                            "overrideZoneFloor" : false,                            "callIfNotAdBlocked": function() {                                document.getElementById("criteoDiv1").style.display = "none";                            }                        });                    </script><br class="clear" /></div><div style="clear:both;"></div><style type="text/css">html body .mc9120d58,html body .mc9120d58 iframe,html body iframe[name="google_ads_frame"],html body .mc9120d58 iframe[name="google_ads_frame"],html body #wrap #page-body div.mc9120d58,html body #page-body .mc9120d58{display:block!important;visibility:visible!important;float:none!important;position:inherit!important;left:inherit!important;top:inherit!important;right:inherit!important;bottom:inherit!important;margin:0 auto!important;filter:alpha(opacity=100)!important;-moz-opacity:1!important;-khtml-opacity:1!important;opacity:1!important;z-index:9999!important;text-align:center!important}html body .mc9120d58,html body .mc9120d58 iframe[name="google_ads_frame"]{width:728px!important;height:90px!important;min-height:90px!important}html body .mc9120d58 iframe{border:0px!important}html body iframe[name="google_ads_frame"]{width:100%!important;height:inherit!important;min-height:inherit!important}</style><div style="height:3px"></div><form action="/login" method="post" name="form_login"><table width="100%" border="0" cellspacing="2" cellpadding="0" align="center"><tr><td class="nav"><a class="nav" href="/"><span>Catch-Ultra</span></a></td></tr></table><table class="forumline" width="100%" border="0" cellspacing="0" cellpadding="4" align="center"><tr><th colspan="3" class="thHead" nowrap="nowrap" height="25">Veuillez entrer votre nom d'utilisateur et votre mot de passe pour vous connecter.</th></tr><tr><td width="100%" align="center" class="row1"><table cellpadding="0" cellspacing="0" border="0"><tr><td class="row1 align_gauche"><table width="100%" border="0" cellspacing="1" cellpadding="0"><tr><td colspan="2" align="center">&nbsp;</td></tr><!--
+ <tr style="position:absolute;left:-3000px;"><td class="align_droite" width="50%"><label class="gen" for="username">Username:</label></td><td width="50%"><input type="text" name="username" id="username" class="inputbox autowidth" size="25" maxlength="40" /></td></tr>--><tr><td class="align_droite" width="50%"><span class="gen">Nom d'utilisateur:</span></td><td width="50%"><input type="text" name="username" value="" size="25" maxlength="40" /></td></tr><tr><td class="align_droite"><span class="gen">Mot de passe:</span></td><td><input type="password" name="password" size="25" maxlength="32" /></td></tr><tr align="center"><td colspan="2"><span class="gen">Connexion automatique: <input type="checkbox" name="autologin"checked="checked" /></span></td></tr><tr align="center"><td colspan="2"><input type="hidden" name="redirect" value="/t10701-topic" /><input type="hidden" name="query" value="" /><input class="mainoption" type="submit" name="login" value="Connexion" /></td></tr><tr align="center"><td colspan="2"><br /><span class="gensmall"><a class="gensmall" href="/register">::&nbsp;S'enregistrer</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="gensmall" href="/profile?mode=sendpassword">::&nbsp;Récupérer mon mot de passe</a></span></td></tr></table></td></tr></table></td></tr></table></form><script type="text/javascript">//<![CDATA[
+if(document.forms['form_login'].elements['username'].value == ''){document.forms['form_login'].elements['username'].focus();}else{document.forms['form_login'].elements['password'].focus();}//]]></script></td><td valign="top" width="0"><div id="emptyidright"></div></td></tr></tbody></table></div></div><!--
+ close div id="page-body" --><div id="page-footer"><div align="center"><div class="gen"><strong><a href="https://www.forumactif.com" target="_blank">Créer un forum</a></strong>&nbsp;|&nbsp;<span class="gensmall">&copy;</span> <a href="https://www.forumactif.com/phpbb" target="_blank">phpBB</a>&nbsp;|&nbsp;<a name="bottom" href="http://forum.forumactif.com/" target="_blank">Forum gratuit d'entraide</a>&nbsp;|&nbsp;<a name="bottom" href="/contact" rel="nofollow">Contact</a>&nbsp;|&nbsp;<a href="/abuse?page=%2Flogin%3Fredirect%3D%2Ft10701-topic&amp;report=1" rel="nofollow">Signaler un abus</a>&nbsp;|&nbsp;<strong><a href="https://www.forumactif.com/forum-gratuit" target="_blank">Forum gratuit</a></strong></div></div></div></td></tr></table><script type="text/javascript">//<![CDATA[
+fa_endpage();//]]></script><script type="text/javascript">
+    var vglnk = {
+        api_url: '//api.viglink.com/api',
+        key: '18d81f55cfc0fd275a864f494f914b76'
+    };
+
+   (function(d, t) {
+        var s = d.createElement(t); s.type = 'text/javascript'; s.async = true;
+        s.src = ('https:' == document.location.protocol ? vglnk.api_url :
+        '//cdn.viglink.com/api') + '/vglnk.js';
+        var r = d.getElementsByTagName(t)[0]; r.parentNode.insertBefore(s, r);
+    }(document, 'script'));
+</script>    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({flush: true});
+    </script></body></html>

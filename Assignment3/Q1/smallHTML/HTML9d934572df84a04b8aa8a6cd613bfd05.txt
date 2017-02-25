@@ -1,0 +1,1069 @@
+
+	
+	
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Cache-Control" content="no-cache">
+		<meta http-equiv="Pragma" content="no-cache">
+		<meta http-equiv="Expires" content="-1">
+		
+		 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		
+		<meta http-equiv="Content-Language" content="en-us">	
+		
+
+			
+		 <!-- HTTP_HEADER_HOST=www.goheels.com -->
+<!-- RAMS_SITE=NO -->
+<!-- UNC_SITE=YES -->
+<!-- SITE=UNC -->
+<!-- LIFECYCLE=PROD -->
+
+<!-- Start USER_V2 SE -->
+<!-- The server is oma-www84.xosn.com/10.3.9.56-->
+<!-- The time is 02/24/2017 02:10:19 PM EST-->
+	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Jockey+One|Roboto|Roboto+Condensed|Oswald:400,300,700">	
+	
+		<meta property="og:type" content="article" />
+		<meta property="og:image" content="http://image.cdnllnwnl.xosnetwork.com/pics/200/107.gif"/>
+		<meta property="og:site_name" content="GoHeels.com"/>
+		<meta property="og:title" content=""/>
+		<meta property="og:url" content="http://www.goheels.com/ViewArticle.dbml?ATCLID=&DB_OEM_ID=3350"/>
+		 <meta property="og:description" content=""/>
+		 <meta property="fb:app_id" content="463372473695940"/>
+	 
+				<title> - University of North Carolina Tar Heels Official Athletic Site</title>
+			
+				<meta name="DESCRIPTION" content="GoHeels.com is the official source for UNC Tar Heels news,News, scores, schedules, stats, live video, live audio, on-demand video">
+			
+		<meta name="KEYWORDS" content="UNC athletics, UNC football, UNC schedule, Tar Heels UNC, UNC team, ACC UNC, UNC sports, UNC score, UNC Tar Heels, Roy Williams, Michael Jordan UNC, UNC Tar Heel mascot, UNC basketball, University of North Carolina Basketball, Chapel Hill Basketball
+">
+	
+	<meta name="google-site-verification" content="hAfwjwRO0wxhv913DGyrGy0NbGP6PdLA-0IkXmCIZMs" >
+
+<link rel="canonical" href="http://www.goheels.com/ViewArticle.dbml?DB_OEM_ID=3350&ATCLID=" />
+<!-- start jquery -->
+
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+				
+<script type="text/javascript">jQuery.noConflict();</script>
+				
+<!-- end jquery --><!-- Start List Menu -->
+
+<!-- End List Menu -->
+<link rel="SHORTCUT ICON" href="/fls/3350/site_graphics/FAVICON.ICO"/>
+
+<!-- Google Analytics -->
+
+
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			//OEM Specific Account
+			ga('create', 'UA-9118161-5', {cookieDomain: 'goheels.com', allowLinker: true, name: 'oemTracker'});
+			// Load the plugin.
+			ga('oemTracker.require', 'linker');
+			// Define which domains to autoLink.
+			
+			ga('oemTracker.linker:autoLink', ['goheels.com', 'nmnathletics.com']);
+			
+			//Roll Up Account
+			ga('create', 'UA-11697686-1', {cookieDomain: 'goheels.com', allowLinker: true, name: 'n1'});
+			// Load the plugin.
+			ga('n1.require', 'linker');
+			ga('n1.linker:autoLink', ['goheels.com', 'nmnathletics.com']);
+			
+			
+			ga('oemTracker.send', 'pageview');
+
+			
+			//Roll Up Account
+			ga('n1.send', 'pageview');
+			
+		</script>
+
+		
+<link rel="stylesheet" href="/css/3350/Style.css?M=093013" media="all">
+				
+<link rel="stylesheet" href="/css/0/global-user-v2.css" media="screen">
+				
+<link rel="stylesheet" href="/css/3350/Custom.css?M=093013" media="all">
+				
+
+<!-- End USER_V2 SE -->
+
+			<base href="http://www.goheels.com/" />
+		 	
+
+		<!-- SPOT ON -->
+		<script>
+		  (function () {
+		    var so = document.createElement("script"); so.async = true;
+		    so.src = "http://dff2h0hbfv6w4.cloudfront.net/scripts/loader.js";
+		    var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(so, s);
+		  })();
+		</script>	
+	</head>
+
+
+
+
+
+
+
+
+	<body class="other"> 
+		
+	<div id="lightbox-panel">  
+		<!-- Embed Video here --> 
+		
+			
+					<div id="NeulionVidContainer">
+					<A ONCLICK="hideNeuLionVid();" CLASS="videoStop" ID="close-panel" HREF="ViewArticle.dbml?SITE=UNC&amp;DB_OEM_ID=3350#"><IMG alt="close video" src="http://image.cdnllnwnl.xosnetwork.com/fls/0/site_graphics/xbutton.png" border="0"></a> 
+					</div>				
+				   
+		
+	</div><!-- /lightbox-panel --> 			  
+	<div id="lightbox"> </div><!-- /lightbox --> 	
+
+
+<div id="onTopHeaderArea">
+	<div id="onTopHeader">
+		<div id="TOPAREA_accipAd" class="float">			
+			<div id="accipAd" class="float">    
+			
+<script type="text/javascript">
+	(function() {
+	var useSSL = 'https:' == document.location.protocol;
+	var src = (useSSL ? 'https:' : 'http:') +
+	'//www.googletagservices.com/tag/js/gpt.js';
+	document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+	})();
+	
+</script>
+
+
+<div id="ad-1" class="dc-728-90-c dc-c">
+	<script type="text/javascript"> /*Ad Setup */
+		
+		googletag.defineSlot('/12906217/jtvs.3350.unctarheels/undefined', [[728, 90]], 'div-gpt-ad-2929879249240-0').addService(googletag.pubads());
+		
+		googletag.defineOutOfPageSlot('/12906217/jtvs.3350.unctarheels/undefined', 'div-gpt-ad-1430236823584-0-oop').addService(googletag.pubads());
+		
+
+		googletag.pubads().setTargeting("oem","3350");
+		googletag.pubads().setTargeting("pos","top");
+		googletag.pubads().setTargeting("sec","");
+		googletag.pubads().setTargeting("gen","undefined");
+		googletag.pubads().setTargeting("c_type","");
+		googletag.pubads().setTargeting("s_sec","article");
+		
+		googletag.pubads().enableSyncRendering();
+		googletag.enableServices();
+	</script>
+
+	
+
+		<div id="div-gpt-ad-2929879249240-0" class="dc-ad dc-728-90 dc-desktop">
+			<script type="text/javascript">
+				googletag.cmd.push(function() { googletag.display('div-gpt-ad-2929879249240-0'); });
+			</script>
+		</div>
+
+	
+</div> <!-- ad-1-->
+	<!-- INTERSTITIAL-->
+	<div id='div-gpt-ad-1430236823584-0-oop'>
+	<script type='text/javascript'>
+		googletag.display('div-gpt-ad-1430236823584-0-oop');
+	</script>
+	</div>
+		
+			</div><div class="adVertical float"></div> 	
+			<div class="clear"></div>  			       
+		</div>				
+	</div>  
+</div>  
+<div id="siteContainer"> 
+	<div id="header">			
+		<div id="headerContent">
+	<div id="Ad_Donate_Ticket">
+		
+		
+		<div class="none last">
+		<IMG usemap="#headerad_Map" alt="" height="64" border="0" src="https://admin.xosn.com/pics33/0/VH/VHTKIEHRUGWMQSD.20150420161300.png" width="474">
+<map name="headerad_Map">
+<AREA COORDS="250,0,473,63" ALT="Tickets" TARGET="_new" SHAPE="rect" HREF="http://ev10.evenue.net/cgi-bin/ncommerce3/SEGetGroupList?SITE=UNC&amp;DB_OEM_ID=3350&amp;groupCode=GS&linkID=unc&shopperContext=&caller=&appCode=&utm_source=GH&utm_medium=Ticket%2BCenter%2BBanner&utm_campaign=EV"><AREA COORDS="25,0,224,63" ALT="Rams Club" TARGET="_new" SHAPE="rect" HREF="http://www.ramsclub.com/?SITE=UNC&amp;DB_OEM_ID=3350">
+</map>
+
+		</div>
+		
+		
+	</div>
+	<div id="logo">
+		<A TITLE="HOME" HREF="/HomePage.dbml?DB_OEM_ID=3350&KEY="><IMG alt="SU Logo" border="0" src="http://image.cdnllnwnl.xosnetwork.com/fls/3350/site_graphics/2013/logo.png" title="Home">
+		</a>
+	</div>
+	<div id="headerImage">	
+		<A TITLE="HOME" HREF="/HomePage.dbml?DB_OEM_ID=3350&KEY="><IMG alt="UNC" border="0" src="http://image.cdnllnwnl.xosnetwork.com/fls/3350/site_graphics/2013/officialText.png" title="UNC Home">
+		</a>
+	</div>
+	<div id="showsearch" class="float">			
+			<div class="magglass">
+				<IMG alt="search" border="0" src="http://image.cdnllnwnl.xosnetwork.com/fls/3350/site_graphics/2013/magglass.png">
+			</div>
+	</div>
+	<div id="showsearchon" class="hide">
+			<div id="searchbox" class="absolute">
+<FORM  NAME="search" METHOD="POST" ACTION="/Search.dbml"><INPUT TYPE="HIDDEN" NAME="DB_MENU_ID" VALUE=""><INPUT TYPE="HIDDEN" NAME="SPSID" VALUE=""><INPUT TYPE="HIDDEN" NAME="SPID" VALUE=""><INPUT TYPE="HIDDEN" NAME="SITE" VALUE="UNC"><INPUT TYPE="HIDDEN" NAME="DB_OEM_ID" VALUE="3350">
+<div class="float searchinput">
+	<label for="searchInput" class="hide">search</label><input id="searchInput" type="text" name="LIST_STRING" value="" onFocus="this.value= '';">
+</div>
+<div class="float searchsubmit">
+	<label for="searchSubmit" class="hide">submit</label><input id="searchSubmit" type="submit" class="searchbtn" value="Search" />
+</div>
+</form><div class="bottomSearch"><IMG alt="" src="http://image.cdnllnwnl.xosnetwork.com/fls/3350/site_graphics/2013/searchbottom.png"></div>
+</div>	
+	</div>
+	<div id="Menu">
+		<!-- list-menu start -->
+
+
+<div id="menu-container" data-menu="" data-menu-debug="" data-menu-mobile-width="0" data-rewrite="SITE=UNC&DB_OEM_ID=3350" delayhover="250"  >
+	
+	<div id="menu-inner-container"></div><!-- menu-inner-container -->
+	
+</div><!-- menu-container -->
+
+
+<!-- list-menu end -->
+
+	</div>
+
+</div>
+
+<div id="SocialHubFixed">
+
+	
+		<div class="none last">
+		<div class="SocialHub_Button float">
+	<IMG alt="Social Hub" border="0" src="http://image.cdnllnwnl.xosnetwork.com/fls/3350/site_graphics/2013/flyoutAd_1.png">
+</div>
+<div class="SocialHub_Flyout float">
+<A TARGET="_blank" HREF="http://www.goheels.com/ViewArticle.dbml?ATCLID=209213461&DB_OEM_ID=3350"><IMG alt="Social Hub" border="0" src="http://image.cdnllnwnl.xosnetwork.com/fls/3350/site_graphics/2013/flyoutAd_2.png">
+</a>
+</div>
+		</div>
+		
+
+</div>
+
+
+		
+	</div> 
+	<div id="siteContent">
+		
+				
+		<div class="clear"></div> 		
+
+		 	
+
+		<div class="float" style="width:640px"> 
+
+			
+		           	<div class="no_sport_space"></div>
+		           
+    		<div class="whiteAreaBox" >
+
+<style>
+#GlobalArticleContainer ul{
+list-style-position:inside;
+}
+</style>
+
+<div id="GlobalArticleContainer">
+
+	    <div>
+			
+			<div style="padding:2px"></div>
+	   </div>
+	
+	<style>
+		#articleFooter {
+			padding: 0px 10px;
+		}
+	</style>
+	
+	<div id="article-bottom-icons-container" align="right" style="padding-top:5px;padding-bottom:5px;">
+		
+	</div>
+
+
+</div>				
+				<div class="clear"></div>
+				
+
+			
+						
+				
+					<br />
+					<br />
+				
+	<!-- checks to see if there's a custom order to the rotator -->
+	
+	
+	<!-- rotator check -->
+	
+		<!-- homepagecustom -->
+		
+		<div id="relatedstories">
+	
+	<div class="header">
+		RECOMMENDED ARTICLES
+	</div>
+	<div class="content">
+		
+		<div class="clear"></div>
+	</div>
+</div>		
+		</div><!--  innerColor -->
+		</div><!-- left column innerColor -->
+
+			
+			<div id="RightCol" class="float right_col row1 ">
+				<div id="RightCol">
+	
+
+
+
+<div id="MoreSports" class="whiteBox one_edge_shadow">
+	<div class="header">
+		<div class="title float"> LINKS</div>
+		<div class="floatR sponsor">
+			
+		</div>			
+	</div>
+	<div class="content">
+
+		<div class="twitter_follow">
+			<center></center>
+		</div>
+
+
+		<div class="body">
+
+			
+
+		</div>
+
+					
+	</div>
+</div>
+
+
+	<div class="spaceTop">
+		<div class="RC_CubeAd one_edge_shadow">
+			
+<div class="AD_302x252">			
+	
+
+<div id="ad-2" class="dc-300-250-c dc-c">
+	<script type="text/javascript"> /*Ad Setup */
+		
+		googletag.defineSlot('/12906217/jtvs.3350.unctarheels/undefined', [[300, 250]], 'div-gpt-ad-2939921464863-0').addService(googletag.pubads());
+		
+
+		googletag.pubads().setTargeting("oem","3350");
+		googletag.pubads().setTargeting("pos","");
+		googletag.pubads().setTargeting("sec","");
+		googletag.pubads().setTargeting("gen","undefined");
+		googletag.pubads().setTargeting("c_type","");
+		googletag.pubads().setTargeting("s_sec","article");
+		
+		googletag.pubads().enableSyncRendering();
+		googletag.enableServices();
+	</script>
+
+	
+
+		<div id="div-gpt-ad-2939921464863-0" class="dc-ad dc-300-250 dc-desktop">
+			<script type="text/javascript">
+				googletag.cmd.push(function() { googletag.display('div-gpt-ad-2939921464863-0'); });
+			</script>
+		</div>
+
+	
+</div> <!-- ad-2-->			
+</div>
+<div class="Adtext">advertisement</div>	
+
+
+
+
+
+
+			
+
+		</div>
+	</div>
+	<div class="spaceTop">
+		<div class="RC_Videos">
+			<div id="GoHeelsTV">
+				
+
+<div id="middle_top_3350" class="sm-zone " style=""  >
+	<!--  Z-middle_top_3350--><!--  MT-videos_3350-->
+<!--add extra list column-->
+
+
+<!--call query on my own to loop twice-->
+
+			<div id="middle_top_3350-videos_3350" class="module-type ">
+		
+<div class="whiteBoxVideos one_edge_shadow">
+	<div class="header">
+		<div class=" float ">
+			<IMG alt="GoHeels TV" src="http://image.cdnllnwnl.xosnetwork.com/fls/3350/site_graphics/2013/title_goheelstv.jpg">
+		</div>	
+		<div class="float videoMiddleLinks">
+			<div class="linksVOD float"> 							
+				<A HREF="/liveEvents/liveEvents.dbml?DB_LANG=C&amp;SITE=UNC&amp;DB_OEM_ID=3350">Live Events Schedule</a> 							 
+			</div>
+			<div  class="float linksVOD"> &nbsp;|&nbsp;  							
+				<A HREF="/mediaPortal/player.dbml?DB_LANG=C&amp;SITE=UNC&amp;DB_OEM_ID=3350">						
+				Watch GoHeels TV
+				</a>
+			</div>
+			<div  class="float linksVOD"> &nbsp;|&nbsp;  							
+				<A HREF="https://www.nmnathletics.com//PremiumVideo.dbml?DB_LANG=C&amp;SITE=UNC&amp;DB_OEM_ID=3350">						
+				Join Now
+				</a>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="floatR sponsor">
+			
+		</div>	
+		<div class="clear"></div>
+	</div>
+	<div class="clear"></div>	
+		<div class="content">
+			
+
+
+
+
+			<div id="VideoBeltArea">
+			<div id="VideoBelt-slideshow-area"> 
+					<div id="VideoBelt-slider">
+					<div id="VideoBelt-slider-ul">
+						
+						<ul>
+
+							
+
+								<li class="FloatLeftAdCarousel">
+								  
+											
+											<div class=" videoItem float video_1">          
+										         
+										        	<div class="boxVidImg">
+										                <div class="videoImage">                
+										                    <A ALT="Habitat for Humanity Day of Service" TITLE="Habitat for Humanity Day of Service" HREF="/mediaPortal/player.dbml?DB_OEM_ID=3350&id=5506898"><IMG alt="Habitat for Humanity Day of Service" border="0" src="http://image.cdnllnwnl.xosnetwork.com/pics33/200/LT/LTDERBFLQUJHDNU.20160718041548.jpg">
+
+										                	</a>
+										                </div>
+										                <div class="playButton">
+										                	  <A ALT="Habitat for Humanity Day of Service" TITLE="Habitat for Humanity Day of Service" HREF="/mediaPortal/player.dbml?DB_OEM_ID=3350&id=5506898"><IMG alt="play video" border="0" src="http://image.cdnllnwnl.xosnetwork.com/fls/3350/site_graphics/2013/videoPlay.png">
+										                	</a>
+										                </div>
+										            </div>
+										            <div class="vodDescription">
+										            	<A ALT="Habitat for Humanity Day of Service" TITLE="Habitat for Humanity Day of Service" HREF="/mediaPortal/player.dbml?DB_OEM_ID=3350&id=5506898">Habitat for Humanity Day of Service</a>
+										            </div>					                
+										        						    
+															
+										      </div>
+										        
+											
+											<div class=" videoItem float video_2">          
+										         
+										        	<div class="boxVidImg">
+										                <div class="videoImage">                
+										                    <A ALT="Bring 'Em Out" TITLE="Bring 'Em Out" HREF="/mediaPortal/player.dbml?DB_OEM_ID=3350&id=5299806"><IMG alt="Bring 'Em Out" border="0" src="http://image.cdnllnwnl.xosnetwork.com/pics33/200/OV/OVRPKNRTXVJFWIY.20160419151842.jpg">
+
+										                	</a>
+										                </div>
+										                <div class="playButton">
+										                	  <A ALT="Bring 'Em Out" TITLE="Bring 'Em Out" HREF="/mediaPortal/player.dbml?DB_OEM_ID=3350&id=5299806"><IMG alt="play video" border="0" src="http://image.cdnllnwnl.xosnetwork.com/fls/3350/site_graphics/2013/videoPlay.png">
+										                	</a>
+										                </div>
+										            </div>
+										            <div class="vodDescription">
+										            	<A ALT="Bring 'Em Out" TITLE="Bring 'Em Out" HREF="/mediaPortal/player.dbml?DB_OEM_ID=3350&id=5299806">Bring 'Em Out</a>
+										            </div>					                
+										        						    
+															
+										      </div>
+										        
+											
+											<div class=" videoItem float video_3">          
+										         
+										        	<div class="boxVidImg">
+										                <div class="videoImage">                
+										                    <A ALT="RAMMYS: Bad Lip Reading - UNC Coaches" TITLE="RAMMYS: Bad Lip Reading - UNC Coaches" HREF="/mediaPortal/player.dbml?DB_OEM_ID=3350&id=5299805"><IMG alt="RAMMYS: Bad Lip Reading - UNC Coaches" border="0" src="http://image.cdnllnwnl.xosnetwork.com/pics33/200/FP/FPELCSKMZYGWDZP.20160419194104.jpg">
+
+										                	</a>
+										                </div>
+										                <div class="playButton">
+										                	  <A ALT="RAMMYS: Bad Lip Reading - UNC Coaches" TITLE="RAMMYS: Bad Lip Reading - UNC Coaches" HREF="/mediaPortal/player.dbml?DB_OEM_ID=3350&id=5299805"><IMG alt="play video" border="0" src="http://image.cdnllnwnl.xosnetwork.com/fls/3350/site_graphics/2013/videoPlay.png">
+										                	</a>
+										                </div>
+										            </div>
+										            <div class="vodDescription">
+										            	<A ALT="RAMMYS: Bad Lip Reading - UNC Coaches" TITLE="RAMMYS: Bad Lip Reading - UNC Coaches" HREF="/mediaPortal/player.dbml?DB_OEM_ID=3350&id=5299805">RAMMYS: Bad Lip Reading - UNC Coaches</a>
+										            </div>					                
+										        						    
+															
+										      </div>
+										        
+											
+											<div class=" videoItem float video_4">          
+										         
+										        	<div class="boxVidImg">
+										                <div class="videoImage">                
+										                    <A ALT="Houston Summers: Renaissance Man" TITLE="Houston Summers: Renaissance Man" HREF="/mediaPortal/player.dbml?DB_OEM_ID=3350&id=4955401"><IMG alt="Houston Summers: Renaissance Man" border="0" src="http://image.cdnllnwnl.xosnetwork.com/pics33/200/TH/THXYWNSEFQXINYE.20160126154239.jpg">
+
+										                	</a>
+										                </div>
+										                <div class="playButton">
+										                	  <A ALT="Houston Summers: Renaissance Man" TITLE="Houston Summers: Renaissance Man" HREF="/mediaPortal/player.dbml?DB_OEM_ID=3350&id=4955401"><IMG alt="play video" border="0" src="http://image.cdnllnwnl.xosnetwork.com/fls/3350/site_graphics/2013/videoPlay.png">
+										                	</a>
+										                </div>
+										            </div>
+										            <div class="vodDescription">
+										            	<A ALT="Houston Summers: Renaissance Man" TITLE="Houston Summers: Renaissance Man" HREF="/mediaPortal/player.dbml?DB_OEM_ID=3350&id=4955401">Houston Summers: Renaissance Man</a>
+										            </div>					                
+										        						    
+															
+										      </div>
+										      
+								</li>
+
+								
+
+
+						</ul>		
+						
+					</div>
+					</div>
+			</div>
+			</div>							
+		</div>	
+	</div>
+
+<div class="clear"></div>	
+
+
+
+			</div> <!-- middle_top_3350-videos_3350-->
+</div> <!-- sm-zone -->
+
+
+			</div>
+		</div>
+	</div>
+	<div class="spaceTop">
+		<div class="RC_Shop one_edge_shadow">
+
+			
+
+<div id="middle_middle_3350" class="sm-zone " style=""  >
+	<!--  Z-middle_middle_3350--><!--  MT-shop_3350-->
+
+
+
+
+
+<!--add extra list column-->
+
+
+
+<!--add extra Filter type-->
+
+
+
+
+<!--call query on my own to loop twice-->
+
+			<div id="middle_middle_3350-shop_3350" class="module-type ">
+		<div class="clear"></div>
+<div id="shop_gear_photo_multimedia" class="one_edge_shadow">
+	<div class="border">
+		<div class="box">
+			<div class="title">	
+				<div class="text float">
+					SHOP TAR HEEL SPORTS
+				</div>
+				<div class="floatR sch_sponsor">
+					
+		<div class="none last">
+		<A REL="nofollow" TARGET="_new" HREF="/AdMonitor.dbml?DB_LANG=C&amp;SITE=UNC&amp;DB_OEM_ID=3350&amp;MONITOR_AD_ID=1184376"><img dbnorewrite src="/ads2/1184376.png?M=201308261733" alt="Werner Ladder" border="0" width="115" height="30" /></A>
+							
+		</div>
+		
+				</div>
+				
+				<div class="clear"></div>
+			</div>
+
+			
+			<div class="blueLine"></div>
+
+			<div class="shop_tabs">
+					<ul class="tabs">
+						<li id="gear_tab-rightcol" class="active"><A HREF="javascript:void(0);">Gear</a></li>
+						<li class="divider_shop">|</li>
+						<li id="photos_tab-rightcol"><A HREF="javascript:void(0);">Photo Store</a></li>
+						<li class="divider_shop">|</li>
+						<li id="multimedia_tab-rightcol"><A HREF="javascript:void(0);">Multimedia Store</a></li>	
+						<li class="divider_shop">|</li>
+						<li id="auctions_tab-rightcol"><A HREF="javascript:void(0);">Auctions</a></li>	
+						<div class="clear"></div>					
+					</ul>					
+				</div>
+			<div class="clear"></div>
+		
+			
+			<div class="innerBackground">
+				<div class="content">	
+					<div id="shop_gear-rightcol">						
+						
+<div id="gearBeltArea">
+	<div id="gearBelt-slideshow-area"> 
+		<div id="gearBelt-slider">
+		<div id="gearBelt-slider-ul">
+			
+			<div class="gearBelt-left-button arrowLeft"></div>
+				
+			<ul>
+				 
+				<li class="float">									
+						<div class="shop_item" >
+							 
+
+							<div class="image">
+								<A TARGET="_blank" HREF="http://shop.goheels.com/North_Carolina_Tar_Heels/browse/featuredproduct/2647587?utm_source=goheels.com&utm_medium=bm_referral&utm_term=kw--ROTATOR|cpn--no_coupon|offer--no_offer"><IMG name="" alt="" border="0" src="http://image.cdnllnwnl.xosnetwork.com/pics33/400/GP/GPOMQIVNBLYYDHN.20170109200333.jpg" width="248" title=""></a>
+							</div>
+							<div class="title">
+								<A TARGET="_blank" HREF="http://shop.goheels.com/North_Carolina_Tar_Heels/browse/featuredproduct/2647587?utm_source=goheels.com&utm_medium=bm_referral&utm_term=kw--ROTATOR|cpn--no_coupon|offer--no_offer">Jordan Brand T-Shirt
+								</a>
+							</div>	
+							
+						</div>				
+				</li>			
+				 
+				<li class="float">									
+						<div class="shop_item" >
+							 
+
+							<div class="image">
+								<A TARGET="_blank" HREF="http://shop.goheels.com/North_Carolina_Tar_Heels/browse/featuredproduct/2601237?utm_source=www.goheels.com&utm_medium=bm_referral&utm_term=kw--ROTATOR|cpn--no_coupon|offer--no_offer"><IMG name="" alt="" border="0" src="http://image.cdnllnwnl.xosnetwork.com/pics33/400/ST/STXAXFXCYFVMHCV.20170109200414.jpg" width="248" title=""></a>
+							</div>
+							<div class="title">
+								<A TARGET="_blank" HREF="http://shop.goheels.com/North_Carolina_Tar_Heels/browse/featuredproduct/2601237?utm_source=www.goheels.com&utm_medium=bm_referral&utm_term=kw--ROTATOR|cpn--no_coupon|offer--no_offer">Chapel Thrill T-Shirt
+								</a>
+							</div>	
+							
+						</div>				
+				</li>			
+				 
+				<li class="float">									
+						<div class="shop_item" >
+							 
+
+							<div class="image">
+								<A TARGET="" HREF="http://shop.goheels.com/North_Carolina_Tar_Heels/browse/featuredproduct/2438391?utm_source=goheels.com&utm_medium=bm_referral&utm_term=kw--ROTATOR|cpn--no_coupon|offer--no_offer"><IMG name="" alt="" border="0" src="http://image.cdnllnwnl.xosnetwork.com/pics33/400/ZL/ZLDDTQFKQMJKWZI.20170109200514.jpg" width="248" title=""></a>
+							</div>
+							<div class="title">
+								<A TARGET="" HREF="http://shop.goheels.com/North_Carolina_Tar_Heels/browse/featuredproduct/2438391?utm_source=goheels.com&utm_medium=bm_referral&utm_term=kw--ROTATOR|cpn--no_coupon|offer--no_offer">Women's Nike Hoodie
+								</a>
+							</div>	
+							
+						</div>				
+				</li>			
+				 
+				<li class="float">									
+						<div class="shop_item" >
+							 
+
+							<div class="image">
+								<A TARGET="_blank" HREF="http://shop.goheels.com/North_Carolina_Tar_Heels/browse/featuredproduct/1954708?utm_source=www.goheels.com&utm_medium=bm_referral&utm_term=kw--ROTATOR|cpn--no_coupon|offer--no_offer"><IMG name="" alt="" border="0" src="http://image.cdnllnwnl.xosnetwork.com/pics33/400/LB/LBGTTEKVVBLMWBZ.20170109200534.jpg" width="248" title=""></a>
+							</div>
+							<div class="title">
+								<A TARGET="_blank" HREF="http://shop.goheels.com/North_Carolina_Tar_Heels/browse/featuredproduct/1954708?utm_source=www.goheels.com&utm_medium=bm_referral&utm_term=kw--ROTATOR|cpn--no_coupon|offer--no_offer">Women's Nike V-Neck T-Shirt
+								</a>
+							</div>	
+							
+						</div>				
+				</li>			
+				 
+				<li class="float">									
+						<div class="shop_item" >
+							 
+
+							<div class="image">
+								<A TARGET="_blank" HREF="http://shop.goheels.com/North_Carolina_Tar_Heels/browse/featuredproduct/2444172?utm_source=www.goheels.com&utm_medium=bm_referral&utm_term=kw--ROTATOR|cpn--no_coupon|offer--no_offer"><IMG name="" alt="" border="0" src="http://image.cdnllnwnl.xosnetwork.com/pics33/400/VP/VPURPDQOSRYELLG.20170109200452.jpg" width="248" title=""></a>
+							</div>
+							<div class="title">
+								<A TARGET="_blank" HREF="http://shop.goheels.com/North_Carolina_Tar_Heels/browse/featuredproduct/2444172?utm_source=www.goheels.com&utm_medium=bm_referral&utm_term=kw--ROTATOR|cpn--no_coupon|offer--no_offer">Nike Knit Hat
+								</a>
+							</div>	
+							
+						</div>				
+				</li>			
+				 
+				<li class="float">									
+						<div class="shop_item" >
+							 
+
+							<div class="image">
+								<A TARGET="" HREF="http://shop.goheels.com/North_Carolina_Tar_Heels/browse/featuredproduct/2601442?utm_source=www.goheels.com&utm_medium=bm_referral&utm_term=kw--ROTATOR|cpn--no_coupon|offer--no_offer"><IMG name="" alt="" border="0" src="http://image.cdnllnwnl.xosnetwork.com/pics33/400/GP/GPMEIBFTTOAQIWC.20170109200354.jpg" width="248" title=""></a>
+							</div>
+							<div class="title">
+								<A TARGET="" HREF="http://shop.goheels.com/North_Carolina_Tar_Heels/browse/featuredproduct/2601442?utm_source=www.goheels.com&utm_medium=bm_referral&utm_term=kw--ROTATOR|cpn--no_coupon|offer--no_offer">Nike Full Zip Jacket
+								</a>
+							</div>	
+							
+						</div>				
+				</li>			
+				
+			</ul>				
+			
+			<div class="gearBelt-right-button arrowRight"></div>
+											
+			<div class="clear"></div>	
+		</div>
+		</div>
+	</div>
+</div>	
+
+
+
+								
+					</div>
+					<div id="shop_photostore-rightcol">						
+						<div id="photos-data-box-rightcol"></div>													
+					</div>
+
+					<div id="shop_multimediastore-rightcol">
+						<div id="mm-data-box-rightcol"></div>								
+					</div>
+
+					<div id="shop_Auctions-rightcol">
+							<div id="auctions-data-box-rightcol"></div>							
+					</div>
+
+
+				</div>
+
+				
+			</div>
+	
+		</div>
+	</div>
+</div>
+
+			
+			</div> <!-- middle_middle_3350-shop_3350-->
+</div> <!-- sm-zone -->
+
+
+		</div>
+	</div>
+			
+</div>
+			</div>
+		    <div class="clear"></div>		
+				
+		<div class="clear"></div>
+
+		<div class="accipiter">	
+			
+			
+			<div id="Footer_accipAd" class="float ">			
+				<div id="accipAd" class="float one_edge_shadow">    
+				
+
+<div id="ad-3" class="dc-728-90-c dc-c">
+	<script type="text/javascript"> /*Ad Setup */
+		
+		googletag.defineSlot('/12906217/jtvs.3350.unctarheels/undefined', [[728, 90]], 'div-gpt-ad-5069956296482-0').addService(googletag.pubads());
+		
+
+		googletag.pubads().setTargeting("oem","3350");
+		googletag.pubads().setTargeting("pos","bottom");
+		googletag.pubads().setTargeting("sec","");
+		googletag.pubads().setTargeting("gen","undefined");
+		googletag.pubads().setTargeting("c_type","");
+		googletag.pubads().setTargeting("s_sec","article");
+		
+		googletag.pubads().enableSyncRendering();
+		googletag.enableServices();
+	</script>
+
+	
+
+		<div id="div-gpt-ad-5069956296482-0" class="dc-ad dc-728-90 dc-desktop">
+			<script type="text/javascript">
+				googletag.cmd.push(function() { googletag.display('div-gpt-ad-5069956296482-0'); });
+			</script>
+		</div>
+
+	
+</div> <!-- ad-3-->	
+				</div><div class="adVertical float"></div> 	
+				<div class="clear"></div>  			       
+			</div>		
+			<div id="FooterAd" class="floatR ">
+				
+		<div class="none last">
+		<A REL="nofollow" TARGET="_blank" HREF="/AdMonitor.dbml?DB_LANG=C&amp;SITE=UNC&amp;DB_OEM_ID=3350&amp;MONITOR_AD_ID=2227941"><img dbnorewrite src="/ads2/2227941.gif?M=201701041624" alt="NCEMC Touchstone Ad 2016" border="0" width="236" height="90" /></A>
+							
+		</div>
+		
+			</div>			
+			<div class="clear"></div>
+		</div>
+		
+
+	</div><!--siteContent -->
+</div><!--siteContainer -->
+
+
+<div id="Bottom_Area">
+	<div id="footerDrippan-data-box"></div>
+<!--Ajax Called-->
+</div>	
+
+
+<script type="text/javascript"> 
+adroll_adv_id = "GYH2U2EHQZA5HE7RD7CAJG"; 
+adroll_pix_id = "FFZLIYKJZZHY3PH3GP36XZ"; 
+(function () { 
+var oldonload = window.onload; 
+window.onload = function(){ 
+   __adroll_loaded=true; 
+   var scr = document.createElement("script"); 
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com"); 
+   scr.setAttribute('async', 'true'); 
+   scr.type = "text/javascript"; 
+   scr.src = host + "/j/roundtrip.js"; 
+   ((document.getElementsByTagName('head') || [null])[0] || 
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr); 
+   if(oldonload){oldonload()}}; 
+}()); 
+</script>
+
+</body>
+</html><!-- Start USER_V2 VB -->
+
+		<!-- Google Tag Manager -->
+		<noscript><IFRAME STYLE="display:none;visibility:hidden" HEIGHT="0" SRC="http://www.googletagmanager.com/ns.html?DB_LANG=C&amp;SITE=UNC&amp;DB_OEM_ID=3350&amp;id=GTM-5FHWT6" WIDTH="0"></iframe></noscript>
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'http://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-5FHWT6');</script>
+		<!-- End Google Tag Manager -->
+	
+	<!-- Begin comScore Tag -->
+	<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6035349", c3: "", c4: "http://www.goheels.com/ViewArticle.dbml" });
+
+	(function() {
+		var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+		s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+		el.parentNode.insertBefore(s, el);
+	})();
+	</script>
+	<noscript>
+		<IMG src="http://b.scorecardresearch.com/p?c1=2&c2=6035349&c3=&c4=http%3A%2F%2Fwww.goheels.com%2FViewArticle.dbml&c5=&c6=&c15=&cv=2.0&cj=1">
+	</noscript>
+	<!-- End comScore Tag -->
+
+<script type="text/javascript">
+		
+
+var page_COPYRIGHT = 'University of North Carolina At Chapel Hill, All rights reserved.';	
+					
+
+var page_site_graphics = '/fls/3350/site_graphics/2013';	
+					
+var page_PRINTABLE_PAGE = '';
+					
+var page_ON_DEMAND_VIEWER_HEIGHT = 640;	
+			
+var page_ON_DEMAND_VIEWER_WIDTH = 860;	
+			
+
+var page_ONDEMANDVIEWERSCROLLBARS = 'no';	
+					
+var page_MP_MEDIAPLAYER = 'V4_HTML';	
+				
+var page_MP_TAB = 'vod';	
+				
+
+var page_LIVEEVENTVIEWERSCROLLBARS = 'no';	
+					
+var page_MP_EXTRA_SPORTONLY = 'N';	
+				
+var page_MP_GAMECENTER_VERSION = '3';	
+				
+var page_MP_EXTRA_SPORTONLY_SPORTKEYLIST = '';
+					
+var page_REPLAYPHOTOS_BASE_URL = 'http://www.replayphotos.com/';	
+				
+var page_REPLAYPHOTOS_PROVIDER_ID = 'uncphotostore';	
+				
+var page_REPLAY_PHOTO_WIDTH = '1000';	
+				
+var page_DETECT_AD_BLOCKER = 'N';	
+				
+var page_SCOREBOARD_TIMEOUT_TIME = 240;	
+			
+var page_SCOREBOARD_REFRESH_TIME = 900;	
+			
+
+var page_DB_OEM_ID = '3350';	
+					
+var page_SPSID = '';
+					
+var page_KEY = '';
+					
+var page_DB_KEY = '';
+					
+
+var page_DB_ACCOUNT_TYPE = 'USER';	
+					
+
+var page_IS_HOME_PAGE = 'NO';	
+					
+var page_SPID = '';
+					
+
+var page_HTTP_REQUEST_PATH = '/ViewArticle.dbml';	
+					
+var page_SAVE_TEMPLATE = '';
+					
+var page_TMPL_PAGE_NAME = '';
+					
+var page__MODE_ = '';
+					
+var page_SHOW_ALL_OEMS = '';
+					
+var page_IN_USER_DONOR = '';
+					
+var page__in_ticketing_ = '';
+					
+var page__IN_GUEST_MGMT_ = '';
+					
+
+var page_PRIMARY_COLOR = '#0E122B';	
+					
+
+var page_SECONDARY_COLOR = '#ffffff';	
+					
+var page_frm_show_injected_video = '';
+					
+var page_DBREWRITEVARS = '&ATCLPID=&ATCLID=&SPSID=&SPID=&DB_LANG=C&SITE=UNC&DB_OEM_ID=3350';	
+				
+var page_GOOGLE_ANALYTICS = 'UA-9118161-5';	
+				
+var page_SITE_BASE_SERVER = 'http://www.goheels.com/';	
+				
+var page_SECURE_BASE_SERVER = 'https://www.nmnathletics.com/';	
+				
+var page_GOOGLE_ROLL_UP_ANALYTICS = 'https://www.nmnathletics.com/';	
+				
+var page_INJECT_VIDS_IN_ARTICLES = 'Y';	
+				
+var page_HTTP_IMAGE_CACHE_SERVER = 'http://image.cdnllnwnl.xosnetwork.com';	
+				
+var page_HTTPS_IMAGE_CACHE_SERVER = '';
+					
+</script>
+
+<script type="text/javascript" src="/oemjs/0/menu-v2.js"></script>
+				
+<script type="text/javascript" src="/oemjs/0/global-user-v2.js"></script>
+				
+<script type="text/javascript" src="/oemjs/3350/oem3350.js?T=082113"></script>
+				
+<script type="text/javascript">
+		var neulionPlayer=null;  
+jQuery(function(){
+	var baseurl = (function(){
+		var urlTokens=window.location.href.split('/');
+		return urlTokens[0]+'//'+urlTokens[2];
+	})();
+	jQuery.ajax({
+		url: baseurl+'/oemjs/0/media/v4/player.min.js',
+		async: false,
+		cache: true,
+		dataType: 'script',
+		success: function(data){
+			neulionPlayer = NLCPlayer.init({
+				oemId: "3350",
+				cdn: "http://image.cdnllnwnl.xosnetwork.com",
+				siteBaseServer: "http://www.goheels.com/",
+				adNetworkID: "N12906217",
+				googleAnalyticsId: "UA-9118161-6",
+				adSite: "jtvs.3350.unctarheels",
+				adZone: "largeplayer",
+				
+					playerContainerId: "NeulionVidContainer",
+				
+					onPlayerClose: window.hideNeuLionVid,
+				
+						enableHtml5: true
+					
+			});
+		}
+	});
+});
+</script>
+	
+
+<!-- Facebook Pixel Code added to all pages to see who visits the site and views the content --> 
+<script> 
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod? 
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n; 
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0; 
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window, 
+document,'script','//connect.facebook.net/en_US/fbevents.js'); 
+
+fbq('init', '900767203366084'); 
+fbq('track', "PageView");
+
+
+
+</script> 
+<noscript><IMG style="display:none" height="1" src="https://www.facebook.com/tr?id=900767203366084&ev=PageView&noscript=1" width="1"></noscript> 
+<!-- End Facebook Pixel Code --> 
+				<!-- Start DeepWidgets Titan -->
+				<script type="text/javascript">
+					var dwOemId = 3350;
+					var dwCountdownDataPath = 'http://image.cdnllnwnl.xosnetwork.com/xmlCache/3350/countdown.json';
+				</script>
+				<script src="/DeepWidgets/javascripts/dwmswi.js" type="text/javascript"></script>
+
+				
+
+<!-- End USER_V2 VB -->

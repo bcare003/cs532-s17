@@ -1,0 +1,46 @@
+<!-- CREATE CACHE --><!DOCTYPE HTML>
+<html>
+<head>
+<title>De Canio: "Il Napoli non si &egrave; espresso al meglio, il 7 marzo ci giochiamo la qualificazione! Servir&agrave; un'impresa"</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="initial-scale=1, user-scalable=no, width=device-width">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="author" content="Alessandro Errichiello">
+<meta property="og:image" content="http://resource.calcionapoli24.it/thumbs/643x350/1458050079_85.jpg">
+<link rel="icon" href="../images/favicon.ico?v18" type="image/x-icon">
+<link rel="stylesheet" href="../css/page.css?v18" type="text/css">
+</head>
+<body class="articolo">
+
+<header class="header">
+  <a class="logo" href="../"><img src="../images/logo.svg?v18" alt="Partenopei" height="36"></a>
+  <ul class="nav">
+    <li class="nav-left"><a class="icon-back" onclick="if (document.referrer.indexOf(window.location.host) !== -1) { history.go(-1); return false; } else { window.location.href = '../'; }">Notizie</a></li>
+    <li class="nav-right"><a class="icon-export sub">Condividi</a></li>
+  </ul>
+  <ul class="subnav" aria-hidden="true">
+    <li class="subexport"><a class="icon-fb" rel="nofollow" href="https://www.facebook.com/dialog/share?app_id=212678945807653&href=http%3A%2F%2Fpartenopei.net%2Fpage%2F%3Furl%3Dhttp%3A%2F%2Fwww.calcionapoli24.it%2Fle_interviste%2Fde-canio-il-napoli-non-si-e-espresso-al-meglio-il-7-n296258.html%0D&redirect_uri=http%3A%2F%2Fpartenopei.net%2Fpage%2F%3Furl%3Dhttp%3A%2F%2Fwww.calcionapoli24.it%2Fle_interviste%2Fde-canio-il-napoli-non-si-e-espresso-al-meglio-il-7-n296258.html%0D">Facebook</a></li>
+    <li class="subexport"><a class="icon-tw" rel="nofollow" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fpartenopei.net%2Fpage%2F%3Furl%3Dhttp%3A%2F%2Fwww.calcionapoli24.it%2Fle_interviste%2Fde-canio-il-napoli-non-si-e-espresso-al-meglio-il-7-n296258.html%0D&amp;text=De+Canio%3A+%22Il+Napoli+non+si+%C3%A8+espresso+al+meglio%2C+il+7+marzo+ci+giochiamo+la+qualificazione%21+Servir%C3%A0+un%27impresa%22">Twitter</a></li>
+    <li class="subexport"><a class="icon-wa" rel="nofollow" href="whatsapp://send?text=http%3A%2F%2Fpartenopei.net%2Fpage%2F%3Furl%3Dhttp%3A%2F%2Fwww.calcionapoli24.it%2Fle_interviste%2Fde-canio-il-napoli-non-si-e-espresso-al-meglio-il-7-n296258.html%0D">WhatsApp</a></li>
+  </ul>
+</header>
+
+<main class="main">
+
+<article class="article" itemscope itemtype="http://schema.org/NewsArticle">
+
+  <h1 class="title" itemprop="name">De Canio: "Il Napoli non si &egrave; espresso al meglio, il 7 marzo ci giochiamo la qualificazione! Servir&agrave; un'impresa"</h1>
+
+  <figure class="illustration" itemprop="image"><img src="http://resource.calcionapoli24.it/thumbs/643x350/1458050079_85.jpg"></figure>
+  <div class="text" itemprop="text">
+  <p><strong>Gigi De Canio</strong>, allenatore ex Napoli, ha rilasciato alcune dichiarazioni a Radio Goal. Ecco quanto evidenziato da CalcioNapoli24: <em>&quot;Il Napoli non &egrave; stato il solito, in ogni gara va messo in conto il valore dell&#39;avversario anche in termini di storia, non pu&ograve; essere trascurato. Il Napoli, condizionato nei suoi effettivi, non si &egrave; espresso al solito modo. &nbsp;L&#39;errore probabilmente sta nell&#39;aver equivocato i pensieri all&#39;inizio: dire che il Napoli pu&ograve; giocarsela non vuol dire che &egrave; sullo stesso livello del Real. Significa che ci sono le potenzialit&agrave; per battersi con un club con un tale blasone. Poi, come per tutte le grandi imprese, vuol dire che la squadra si esprima al meglio e che dall&#39;altra parte gli avversari risultino essere un po&#39; sotto tono. Poi al Bernabeu si &egrave; sbagliato troppo, vuol dire che il Napoli non &egrave; riuscito ad esprimersi al meglio. Ci si deve preparare alla prossima partita per mettere in campo quello che &egrave; mancato a Madrid. Bisogna accettare il verdetto del campo, smaltiamo subito la delusione ed il 7 marzo ci giochiamo la qualificazione&quot;.</em><style>.midbanner { text-align:center; margin:0 auto; }</style>  					   <div class="midbanner"><script type="text/javascript"><!--  							google_ad_client = "ca-pub-4223971215159640";  							google_ad_slot = "8563442575";  							google_ad_width = 300;  							google_ad_height = 250;  							//-->  							</script>  							<script type="text/javascript"  							src="//pagead2.googlesyndication.com/pagead/show_ads.js">  						</script></div><div id="parallax" style="margin:30px 0 10px 0"></div></p>  </div>
+
+  
+</article>
+
+</main>
+<footer class="footer">© 2016 <a href="mailto:alessandro@partenopei.net">Alessandro Errichiello</a></footer>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script src="../js/link-sdk-menu.js"></script>
+</body>
+</html>

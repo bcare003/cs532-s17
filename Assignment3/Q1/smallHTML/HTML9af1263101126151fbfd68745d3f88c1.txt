@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html xml:lang="en" lang="en" dir="ltr" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# dc: http://purl.org/dc/elements/1.1/# v: http://rdf.data-vocabulary.org/# op: http://media.facebook.com/op#">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<title>200 OK</title>
+	<link rel="dns-prefetch" href="//media.breitbart.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="dns-prefetch" href="//breitbartproduction.disqus.com">
+	<link rel="preload" href="/t/style-014879570.css" as="style">
+	<link rel="preload" href="//fonts.gstatic.com/s/fjallaone/v4/rxxXUYj4oZ6Q5oDJFtEd6vk_vArhqVIZ0nv9q090hN8.woff2" as="font" crossorigin type="font/woff2">
+	<link rel="preload" href="/t/assets/fonts/bbn.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="preload" href="/t/assets/i/spriteg.png" as="image">
+	<link rel="stylesheet" href="/t/style-014879570.css" type="text/css" media="all">
+	<meta name="robots" content="noindex,follow,noodp">
+	<link rel="publisher" href="https://plus.google.com/110812411499982071387">
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="object">
+	<meta property="og:title" content="Page Not Found - Breitbart">
+	<meta property="og:site_name" content="Breitbart">
+	<meta property="fb:app_id" content="1243316582352556">
+	<meta property="og:image" content="http://www.breitbart.com/t/assets/i/BB-logo-highres.jpg">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:title" content="Page Not Found - Breitbart">
+	<meta name="twitter:site" content="@BreitbartNews">
+	<meta name="twitter:image" content="http://www.breitbart.com/t/assets/i/BB-logo-highres.jpg">
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-715222-1']);
+	_gaq.push(['_trackPageview', "/404/?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer]);
+	(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;
+	ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';
+	var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();
+	/* ]]> */
+	</script>
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date;a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+	a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");
+	ga("create",'UA-715222-1',"auto");
+	ga("send","pageview", "/404/?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer);
+	/* ]]> */
+	</script>
+	<meta name="robots" content="noindex,follow">
+	<style type="text/css">
+	#g404ajax{width:99%;overflow:hidden;margin-left:2px}#g404ajax .gsc-control-cse,#g404ajax .gsc-webResult.gsc-result,#g404ajax .gsc-results .gsc-imageResult,#g404ajax .cse .gsc-webResult.gsc-result,#g404ajax .gsc-imageResult-column,#g404ajax .gsc-imageResult-classic{border:0};			</style>
+	<script type="text/javascript">
+	var aa_js_debug = true;
+	var aa_XX = askapache_get_aa_XX();
+	function askapache_get_aa_XX() {
+	console.debug( '!!! EXEC askapache_get_aa_XX()');
+	function get_html_translation_table(e,f){var a={},g={},c,b={},d={};b[0]="HTML_SPECIALCHARS";b[1]="HTML_ENTITIES";d[0]="ENT_NOQUOTES";d[2]="ENT_COMPAT";d[3]="ENT_QUOTES";b=isNaN(e)?e?e.toUpperCase():"HTML_SPECIALCHARS":b[e];d=isNaN(f)?f?f.toUpperCase():"ENT_COMPAT":d[f];if("HTML_SPECIALCHARS"!==b&&"HTML_ENTITIES"!==b)throw Error("Table: "+b+" not supported");a["38"]="&amp;";"HTML_ENTITIES"===b&&(a["160"]="&nbsp;",a["161"]="&iexcl;",a["162"]="&cent;",a["163"]="&pound;",a["164"]="&curren;",a["165"]=
+	"&yen;",a["166"]="&brvbar;",a["167"]="&sect;",a["168"]="&uml;",a["169"]="&copy;",a["170"]="&ordf;",a["171"]="&laquo;",a["172"]="&not;",a["173"]="&shy;",a["174"]="&reg;",a["175"]="&macr;",a["176"]="&deg;",a["177"]="&plusmn;",a["178"]="&sup2;",a["179"]="&sup3;",a["180"]="&acute;",a["181"]="&micro;",a["182"]="&para;",a["183"]="&middot;",a["184"]="&cedil;",a["185"]="&sup1;",a["186"]="&ordm;",a["187"]="&raquo;",a["188"]="&frac14;",a["189"]="&frac12;",a["190"]="&frac34;",a["191"]="&iquest;",a["192"]="&Agrave;",
+	a["193"]="&Aacute;",a["194"]="&Acirc;",a["195"]="&Atilde;",a["196"]="&Auml;",a["197"]="&Aring;",a["198"]="&AElig;",a["199"]="&Ccedil;",a["200"]="&Egrave;",a["201"]="&Eacute;",a["202"]="&Ecirc;",a["203"]="&Euml;",a["204"]="&Igrave;",a["205"]="&Iacute;",a["206"]="&Icirc;",a["207"]="&Iuml;",a["208"]="&ETH;",a["209"]="&Ntilde;",a["210"]="&Ograve;",a["211"]="&Oacute;",a["212"]="&Ocirc;",a["213"]="&Otilde;",a["214"]="&Ouml;",a["215"]="&times;",a["216"]="&Oslash;",a["217"]="&Ugrave;",a["218"]="&Uacute;",
+	a["219"]="&Ucirc;",a["220"]="&Uuml;",a["221"]="&Yacute;",a["222"]="&THORN;",a["223"]="&szlig;",a["224"]="&agrave;",a["225"]="&aacute;",a["226"]="&acirc;",a["227"]="&atilde;",a["228"]="&auml;",a["229"]="&aring;",a["230"]="&aelig;",a["231"]="&ccedil;",a["232"]="&egrave;",a["233"]="&eacute;",a["234"]="&ecirc;",a["235"]="&euml;",a["236"]="&igrave;",a["237"]="&iacute;",a["238"]="&icirc;",a["239"]="&iuml;",a["240"]="&eth;",a["241"]="&ntilde;",a["242"]="&ograve;",a["243"]="&oacute;",a["244"]="&ocirc;",a["245"]=
+	"&otilde;",a["246"]="&ouml;",a["247"]="&divide;",a["248"]="&oslash;",a["249"]="&ugrave;",a["250"]="&uacute;",a["251"]="&ucirc;",a["252"]="&uuml;",a["253"]="&yacute;",a["254"]="&thorn;",a["255"]="&yuml;");"ENT_NOQUOTES"!==d&&(a["34"]="&quot;");"ENT_QUOTES"===d&&(a["39"]="&#39;");a["60"]="&lt;";a["62"]="&gt;";for(c in a)a.hasOwnProperty(c)&&(g[String.fromCharCode(c)]=a[c]);return g}
+	function html_entity_decode(e,f){var a,g="",c,b;c=e.toString();if(!1===(a=get_html_translation_table("HTML_ENTITIES",f)))return!1;delete a["&"];a["&"]="&amp;";for(g in a)b=a[g],c=c.split(b).join(g);return c=c.split("&#039;").join("'")};
+	// make an array contain unique values */
+	function aa_array_unique(arr) {
+	var a = [];
+	for (var i = 0, l = arr.length; i < l; i++) {
+	if (a.indexOf(arr[i]) === -1 && arr[i] !== "") {
+	a.push(arr[i]);
+	}
+	}
+	return a;
+	};
+	// strip_tags from phpjs
+	function aa_strip_tags(input, allowed) {
+	allowed = (((allowed || '') + '')
+	.toLowerCase()
+	.match(/<[a-z][a-z0-9]*>/g) || [])
+	.join(''); // making sure the allowed arg is a string containing only tags in lowercase (<a><b><c>)
+	var tags = /<\/?([a-z][a-z0-9]*)\b[^>]*>/gi,
+	commentsAndPhpTags = /|<\?(?:php)?[\s\S]*?\?>/gi;
+	return input.replace(commentsAndPhpTags, '')
+	.replace(tags, function($0, $1) {
+	return allowed.indexOf('<' + $1.toLowerCase() + '>') > -1 ? $0 : '';
+	});
+	}
+	/* array of words to not include in search query, if found remove them */
+	var stopwords = ['able', 'aint', 'also', 'amid', 'away', 'back', 'been', 'best', 'bill', 'both', 'call', 'came', 'cant', 'care', 'cmon', 'come', 'dare',
+	'does', 'done', 'dont', 'down', 'each', 'else', 'even', 'ever', 'fify', 'fill', 'find', 'fire', 'five', 'four', 'from', 'full', 'gets',
+	'give', 'goes', 'gone', 'half', 'have', 'hell', 'help', 'here', 'hers', 'into', 'isnt', 'itll', 'july', 'june', 'just', 'keep', 'kept',
+	'know', 'last', 'less', 'lest', 'lets', 'like', 'list', 'look', 'made', 'make', 'many', 'mean', 'mill', 'mine', 'miss', 'more', 'most',
+	'move', 'much', 'must', 'name', 'near', 'need', 'next', 'nine', 'none', 'okay', 'once', 'ones', 'only', 'onto', 'ours', 'over', 'part',
+	'past', 'plus', 'said', 'same', 'says', 'seem', 'seen', 'self', 'sent', 'shed', 'shes', 'show', 'side', 'some', 'soon', 'such', 'sure',
+	'take', 'tell', 'than', 'that', 'the', 'them', 'then', 'they', 'thin', 'this', 'thru', 'thus', 'till', 'took', 'tool', 'unto', 'upon',
+	'used', 'uses', 'very', 'want', 'well', 'went', 'were', 'weve', 'what', 'when', 'whod', 'whom', 'whos', 'will', 'wish', 'with', 'wont',
+	'youd', 'your', 'zero', 'about', 'above', 'abuse', 'acute', 'after', 'again', 'ahead', 'allow', 'alone', 'along', 'among', 'andor',
+	'apart', 'apply', 'april', 'arent', 'aside', 'await', 'begin', 'being', 'below', 'brief', 'cause', 'coder', 'comes', 'could', 'crohn',
+	'didnt', 'doing', 'eight', 'empty', 'every', 'fewer', 'fifth', 'first', 'forth', 'forty', 'found', 'front', 'given', 'gives', 'going',
+	'guide', 'hadnt', 'hasnt', 'hello', 'hence', 'heres', 'iiiii', 'iilci', 'inner', 'issue', 'keeps', 'known', 'knows', 'later', 'least',
+	'liked', 'lilll', 'looks', 'lower', 'makes', 'march', 'match', 'maybe', 'maynt', 'media', 'might', 'minus', 'needs', 'never', 'noone',
+	'novel', 'obstr', 'often', 'other', 'ought', 'quite', 'ready', 'right', 'round', 'seems', 'seven', 'shall', 'shant', 'shell', 'since',
+	'sixty', 'sorry', 'still', 'suite', 'taken', 'tends', 'thank', 'thanx', 'thats', 'their', 'there', 'these', 'theyd', 'thing', 'think',
+	'third', 'those', 'three', 'tried', 'tries', 'truly', 'twice', 'under', 'until', 'using', 'value', 'wants', 'wasnt', 'whats', 'where',
+	'which', 'while', 'whole', 'wholl', 'whose', 'would', 'wound', 'youll', 'youre', 'yours', 'youve', 'abroad', 'across', 'allows',
+	'almost', 'always', 'amidst', 'amount', 'and/or', 'answer', 'anyhow', 'anyone', 'anyway', 'appear', 'around', 'asking', 'august',
+	'became', 'become', 'before', 'behind', 'beside', 'better', 'beyond', 'bottom', 'cannot', 'causes', 'center', 'circle', 'closed',
+	'coding', 'coming', 'course', 'darent', 'detail', 'doesnt', 'during', 'eighty', 'either', 'eleven', 'ending', 'enough', 'except',
+	'fairly', 'former', 'gotten', 'hardly', 'havent', 'having', 'hereby', 'herein', 'hither', 'iiiiii', 'indeed', 'insfcy', 'inside',
+	'inward', 'itself', 'lately', 'latter', 'likely', 'little', 'mainly', 'merely', 'mostly', 'mustnt', 'myself', 'namely', 'nearly',
+	'neednt', 'neverf', 'ninety', 'no-one', 'nobody', 'others', 'placed', 'please', 'rather', 'really', 'recent', 'saying', 'second',
+	'seeing', 'seemed', 'selves', 'should', 'source', 'stated', 'system', 'taking', 'thanks', 'thatll', 'thatve', 'theirs', 'thence',
+	'thered', 'theres', 'theyll', 'theyre', 'theyve', 'thickv', 'things', 'thirty', 'though', 'toward', 'trying', 'twelve', 'twenty',
+	'unless', 'unlike', 'unspec', 'useful', 'versus', 'werent', 'whatll', 'whatve', 'whence', 'wheres', 'whilst', 'within', 'wonder',
+	'address', 'advisor', 'against', 'already', 'amongst', 'another', 'answers', 'anybody', 'anyways', 'awfully', 'because', 'becomes',
+	'believe', 'besides', 'between', 'caption', 'certain', 'changes', 'chronic', 'clearly', 'contact', 'contain', 'contexo', 'couldnt',
+	'despite', 'exactly', 'example', 'failure', 'farther', 'fifteen', 'follows', 'forever', 'fortune', 'forward', 'further', 'general',
+	'getting', 'happens', 'herself', 'himself', 'howbeit', 'however', 'hundred', 'ignored', 'iiiiiii', 'insofar', 'instead', 'january',
+	'looking', 'mightnt', 'neither', 'nothing', 'nowhere', 'october', 'oughtnt', 'outside', 'overall', 'perhaps', 'regards', 'seeming',
+	'serious', 'several', 'sincere', 'someday', 'somehow', 'someone', 'specify', 'thereby', 'therein', 'therell', 'therere', 'thereve',
+	'through', 'towards', 'undoing', 'upwards', 'usually', 'various', 'version', 'welcome', 'whereas', 'whereby', 'wherein', 'whether',
+	'whither', 'whoever', 'willing', 'without', 'wouldnt', 'actually', 'addition', 'although', 'amoungst', 'anything', 'anywhere',
+	'appendix', 'backward', 'becoming', 'consider', 'contains', 'creation', 'december', 'describe', 'directly', 'director', 'entirely',
+	'evermore', 'everyone', 'february', 'fletcher', 'followed', 'formerly', 'hereupon', 'iiiiiiii', 'inasmuch', 'indicate', 'interest',
+	'latterly', 'learning', 'likewise', 'meantime', 'moreover', 'normally', 'november', 'opposite', 'possible', 'probably', 'provided',
+	'provides', 'recently', 'secondly', 'sensible', 'shouldnt', 'somebody', 'sometime', 'somewhat', 'thorough', 'together', 'training',
+	'unlikely', 'whatever', 'whenever', 'wherever', 'whomever', 'yourself', 'according', 'alongside', 'ascending', 'available',
+	'backwards', 'certainly', 'copyright', 'currently', 'described', 'diagnosis', 'different', 'downwards', 'elsewhere', 'essential',
+	'everybody', 'following', 'greetings', 'hereafter', 'hopefully', 'immediate', 'indicated', 'indicates', 'intrinsic', 'meanwhile',
+	'necessary', 'neverless', 'obviously', 'otherwise', 'ourselves', 'recording', 'reference', 'regarding', 'seriously', 'something',
+	'sometimes', 'somewhere', 'specified', 'therefore', 'thereupon', 'whereupon', 'whichever','gsc','tab'];
+	var host = document.location.host;
+	var v = document.location.href;
+	v = v.replace(document.location.protocol + '//' + document.location.host, '');
+	v = v.replace( /%7C/gi, ' ' );
+	aa_js_debug && console.debug('v', v);
+	var v1 = aa_strip_tags(v);
+	aa_js_debug && console.debug('v1', v1);
+	var v2 = html_entity_decode(v1);
+	aa_js_debug && console.debug('v2', v2);
+	var v3 = v2.toLowerCase();
+	aa_js_debug && console.debug('v3', v3);
+	// [\u0400-\u04FF]+
+	/* match alphanum of len 3-25 and special utf chars as well that arent covered by \w and use /g flag with .match to output found results into v4 array or matches */
+	var v4 = v3.match(/[\w]{3,25}|[^\u0000-\u007E]{3,25}/g);
+	aa_js_debug && console.debug('v4', v4);
+	var v5 = aa_array_unique(v4);
+	aa_js_debug && console.debug('v5', v5);
+	/* gw will contain array of only words found from location.href that aren't found in stopwords array */
+	var gw = [];
+	for (var i = 0; i < v5.length; i++) {
+	if (stopwords.indexOf(v5[i]) == -1) {
+	gw.push(v5[i]);
+	}
+	}
+	aa_js_debug && console.debug('gw', gw);
+	/* if foundwords (fl) > 6, then only use the first 6 words from gw */
+	var f1 = gw;
+	if (gw.length > 6) {
+	f1 = gw.splice(0, 6);
+	}
+	aa_js_debug && console.debug('f1', f1);
+	/* aa_XX used by plugin as the search query, this joins the max6 words from f1 (found list) with the google special '"' */
+	var aa_XX = f1.join('|');
+	aa_js_debug && console.debug('aa_XX', aa_XX);
+	return aa_XX;
+	}
+	window.__gcse = {
+	callback: askapache_load_search
+	};
+	function askapache_load_search() {
+	google.setOnLoadCallback(function() {
+	var element = google.search.cse.element.getElement('two-column');
+	element.execute(aa_XX);
+	});
+	}
+	(function() {
+	var cx = 'partner-pub-4356884677303281:hcqlgw-sn16';
+	var gcse = document.createElement('script');
+	gcse.type = 'text/javascript';
+	gcse.async = true;
+	gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(gcse, s);
+	})();
+	</script>
+	<script src="//www.google.com/jsapi" type="text/javascript"></script>
+	<link rel="icon" href="http://www.breitbart.com/t/assets/i/w-logo-orange.png" sizes="32x32">
+	<link rel="icon" href="http://www.breitbart.com/t/assets/i/w-logo-orange.png" sizes="192x192">
+	<link rel="apple-touch-icon-precomposed" href="http://www.breitbart.com/t/assets/i/w-logo-orange.png">
+	<meta name="msapplication-TileImage" content="http://www.breitbart.com/t/assets/i/w-logo-orange.png">	<link rel="home" href="http://www.breitbart.com/" title="Home">
+	<link rel="copyright" href="#copyrighttext">
+	<link rel="alternate" type="application/rss+xml" href="http://feeds.feedburner.com/breitbart" title="Breitbart News Feed">
+	<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+	<link rel="apple-touch-icon-precomposed" href="/t/assets/i/w-logo-orange.png">
+	<link rel="icon" href="/t/assets/i/w-logo-orange.png" sizes="32x32">
+	<link rel="icon" href="/t/assets/i/w-logo-orange.png" sizes="192x192">
+	<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+	<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+	<meta property="op:markup_version" content="v1.0">
+	<meta property="fb:use_automatic_ad_placement" content="true">
+	<meta property="fb:pages" content="95475020353">
+	<!--[if lt IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script><script src="//cdnjs.cloudflare.com/ajax/libs/selectivizr/1.0.2/selectivizr-min.js"></script><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/4.0.1/placeholders.min.js"></script><![endif]-->
+	<script type="text/javascript">var isc_js_debug=!1,isc_is_dev=!1,isc_js_bc='error404 js';var isc_metric2=3;if(document.cookie&&document.cookie.indexOf("Ba2=")>-1)isc_metric2=document.cookie.indexOf("Ba2=1")>-1?1:2;var isc_metric1=Date.now()%2==0?4:5;if(document.cookie&&document.cookie.indexOf("Bb1=")>-1)isc_metric1=document.cookie.indexOf("Bb1=4")>-1?4:5;if(window.location.search&&window.location.search.indexOf("toutinform")>-1)isc_metric1=window.location.search.indexOf("toutinform=5")>-1?5:4;var _informq=_informq||[],_ndnq=_ndnq||[],_nw2e=_nw2e||[];
+_informq.push(["hook","inform-player-1/videoLoad",function(event){_informq.push(["command","inform-player-2/destruct"]);if(isc_metric1===5)typeof ISCJS.init_a_tout=="function"&&ISCJS.init_a_tout()}]);if(isc_metric1===5)_informq.push(["hook","inform-player-2/widgetEmbedStart",function(event){_informq.push(["command","inform-player-2/destruct"]);typeof ISCJS.init_a_tout=="function"&&ISCJS.init_a_tout()}]);
+var isc_is_mobile=/IEMobile|BB10|Android|Silk|Kindle|Opera Mini|Opera Mobi|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)?!0:!1,isc_is_mobile_plus=isc_is_mobile||/mobile/i.test(navigator.userAgent)?!0:!1,isc_js_bc=isc_is_mobile?"ismobile "+isc_js_bc:isc_js_bc,isc_is_prod=window.location.href.indexOf(".breitbart.com")==10,isc_is_preview=window.location.href.indexOf("preview=true")>-1&&window.location.href.indexOf("preview_id=")>-1,isc_is_single=isc_js_bc.indexOf("single")>-1,isc_is_home=
+/home blog /.test(isc_js_bc),isc_is_video=window.location.pathname.indexOf("/video/")==0,isc_is_wire=window.location.pathname.indexOf("/news/")==0||isc_js_bc.indexOf("-wire")>-1,isc_is_cookie=document.cookie&&document.cookie.length>0,isc_is_ssl="https:"==document.location.protocol?true:false,isc_is_canvas=isc_js_bc.indexOf("cat-view-customize")>-1,isc_is_qazy=!isc_is_canvas&&!isc_is_ssl&&!isc_is_preview&&!isc_is_home&&!isc_is_mobile_plus&&!(isc_is_video&&!isc_is_single);
+if(isc_is_qazy){var qazy={runs:0,io:null,x:0,dimg:"data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAUAAAAALAAAAAABAAEAAAICRAEAOw==",RunIO:function(){if(qazy.runs++>5)qazy.StopIO();qazy.MakeList();return},StopIO:function(){"number"===typeof qazy.io&&(clearInterval(qazy.io),qazy.io=null);return},MakeList:function(){if(qazy.x===0){qazy.x=1;var b=document.querySelectorAll("img[data-qazy='true']"),d=b.length;if(0<d)for(var c=0;c<d;c++){var a=b[c];if(a.src&&a.src.length>10){a.setAttribute("data-qazy",
+"false");a.setAttribute("data-qazy-src",a.src);a.src=qazy.dimg}}qazy.x=0}return}};qazy.io=setInterval(qazy.RunIO,450);if(window.addEventListener)window.addEventListener("load",qazy.StopIO,!1)};
+</script>
+</head>
+<body class="error404 no-js">
+<div id="GlobalW" class="hfeed site">
+<script type="text/javascript">document.body.className=isc_js_bc;(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date;a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create","UA-715222-1",{siteSpeedSampleRate:5,cookieDomain:"breitbart.com"});ga('set',{'metric1':window.isc_metric1||3,'metric2':window.isc_metric2||3});ga('send','pageview');var iscsl=[],google_ad_client="ca-pub-9229289037503472",googletag=window.googletag||{};googletag.cmd=window.googletag.cmd||[];googletag.cmd.push(function(){if (!isc_is_mobile){iscsl.push(googletag.defineSlot("/1003622/Breitbart.ROS.Top.Leader",[728,90],"desktop-ROS-Top-Leader").addService(googletag.pubads()));iscsl.push(googletag.defineSlot("/1003622/Breitbart.ROS.Rail1",[[300,250],[300,600]],"desktop-ROS-Rail1").addService(googletag.pubads()));iscsl.push(googletag.defineSlot("/1003622/Breitbart.ROS.Rail2",[300,250],"desktop-ROS-Rail2").addService(googletag.pubads()));iscsl.push(googletag.defineSlot("/1003622/Breitbart.ROS.Rail3",[300,250],"desktop-ROS-Rail3").addService(googletag.pubads()));iscsl.push(googletag.defineSlot("/1003622/Breitbart.ROS.Rail4",[300,250],"desktop-ROS-Rail4").addService(googletag.pubads()));iscsl.push(googletag.defineSlot("/1003622/Breitbart.ROS.1X1",[1,1],"ROS-1x1-Pixel").addService(googletag.pubads()));}else{iscsl.push(googletag.defineSlot("/1003622/Breitbart.Mob.ROS.Header",[320,50],"mobile-ROS-header").addService(googletag.pubads()));iscsl.push(googletag.defineSlot("/1003622/Breitbart.Mob.ROS.Body1",[[300,250],[320,480],[320,250]],"mobile-ROS-body1").addService(googletag.pubads()));iscsl.push(googletag.defineSlot("/1003622/Breitbart.Mob.ROS.Body2",[[300,250],[320,480],[320,250]],"mobile-ROS-body2").addService(googletag.pubads()));iscsl.push(googletag.defineSlot("/1003622/Breitbart.Mob.ROS.Body3",[[300,250],[320,480],[320,250]],"mobile-ROS-body3").addService(googletag.pubads()));iscsl.push(googletag.defineSlot("/1003622/Breitbart.Mob.ROS.Body4",[[300,250],[320,480],[320,250]],"mobile-ROS-body4").addService(googletag.pubads()));iscsl.push(googletag.defineSlot("/1003622/Breitbart.ROS.1X1",[1,1],"ROS-1x1-Pixel").addService(googletag.pubads()));}googletag.pubads().enableSingleRequest();googletag.enableServices();			for (var x = 0; x < iscsl.length; x++)googletag.display(iscsl[x].getSlotElementId());iscsl=null;});</script>
+<a class="H" accesskey="2" rel="nofollow" href="#ContentW">Skip to content</a>
+	<div class="ad Hmobi"><div id='desktop-ROS-Top-Leader'></div><!--Breitbart.ROS.Top.Leader--></div>
+		<header id="headerHeadW">
+	<div id="HeadW">
+		<div id="HWIC">
+			<div id="HWI">
+				<a rel="index" class="logo" accesskey="1" href="http://www.breitbart.com/" title="Breitbart News Network"></a>
+				<div class="mobile menu-toggle"><span></span><span></span><span></span></div>
+				<ul id="HTlinks"><li><a title="Breitbart News Network" href="http://www.breitbart.com/">Home</a></li><li><a rel="nofollow" href="/newsletter-signup/">Subscribe</a></li></ul>
+				<ul id="BBLoggedIn" class="H"></ul>
+
+				<div class="mobile mobile-search"><form class="search-form" method="get" action="/search/"><label for="searchiscq1"></label><input type="text" placeholder="SEARCH" name="s" id="searchiscq1" value="" /><input type="submit" value="search" /></form></div>
+
+				<nav>
+				
+<ul id="NavP" class="menu"><li class="category-big-government"><a href="/big-government/">Big Government</a></li><li class="category-big-journalism"><a href="/big-journalism/">Big Journalism</a></li><li class="category-big-hollywood"><a href="/big-hollywood/">Big Hollywood</a></li><li class="category-national-security"><a href="/national-security/">National Security</a></li><li class="category-tech"><a href="/tech/">Tech</a></li><li class="category-video"><a href="/video/">Video</a></li><li class="category-sports"><a href="/sports/">Sports</a></li><li class="post-type-archive-wire"><a href="/news/">The Wires</a></li></ul><!--NavP--><!--NavP-->
+
+				
+<ul id="NavS" class="menu"><li class="category-london"><a href="/london/">Breitbart London</a></li><li class="menu-breitbart-jerusalem"><a href="/jerusalem/">Breitbart Jerusalem</a></li><li class="category-texas"><a href="/texas/">Breitbart Texas</a></li><li class="category-california"><a href="/california/">Breitbart California</a></li><li class="bbstorelink"><a title="The Breitbart Store" target="_blank" href="https://store.breitbart.com/">STORE</a></li></ul><!--NavS--><!--NavS-->
+
+
+				<ul id="HTsocial"><li><a class="fb" href="https://www.facebook.com/Breitbart">Facebook</a></li><li><a class="tw" href="https://twitter.com/#!/BreitbartNews">Twitter</a></li><li><a class="rs" href="http://feeds.feedburner.com/breitbart">RSS</a></li></ul>
+				</nav>
+				<form class="search-form" method="get" action="/search/"><label for="searchiscq"></label><input type="text" placeholder="SEARCH" name="s" id="searchiscq" value="" /><input type="submit" value="search" /></form>
+			</div><!--HWI-->
+		</div><!--HWIC-->
+				<div class="ad if-mobile"><div id='mobile-ROS-header'></div></div>
+		<div id="HeadWB"></div>
+	</div><!--HeadW-->
+	</header>
+	<div id="ContentW" class="site-content">
+		
+<div id="BBStoreLead" class="bbs_minimal">
+	<div id="BBStoreFullDesk" class="bbs_store_hide">
+		<a id="ldr_logo" href="https://store.breitbart.com" rel="nofollow" target="_blank"></a>
+		<a id="ldr_hoodie" href="https://store.breitbart.com/collections/mens/products/b-strong-zip-hoodie" rel="nofollow" title="B STRONG ZIP HOODIE" target="_blank"></a>
+		<a id="ldr_shirt" href="https://store.breitbart.com/collections/mens/products/iconic-t-shirt" rel="nofollow" title="ICONIC T-SHIRT" target="_blank"></a>
+		<a id="ldr_hat" href="https://store.breitbart.com/collections/hats/products/breitbart-moving-company-hat" rel="nofollow" title="BREITBART MOVING COMPANY HAT" target="_blank"></a>
+		<div class="bbs_clr"></div>
+	</div>
+	<div id="BBStoreMinDesk">
+		<a id="bbs_mini_logo" href="https://store.breitbart.com" rel="nofollow" target="_blank"></a>
+		<a id="bbs_now_open" href="https://store.breitbart.com/collections" rel="nofollow" target="_blank"></a>
+		<div class="bbs_clr"></div>
+	</div>
+	<div class="bbs_mobile_store_ldr">
+		<a href="https://store.breitbart.com/collections/all-products" rel="nofollow" target="_blank"><img src="/t/assets/i/store/dd/bbs_fullstore-takeover-mobile.gif" srcset="/t/assets/i/store/dd/bbs_fullstore-takeover-mobile@2x.gif 2x" alt=""></a>
+	</div>
+	<a id="bbs_shop_now" class="bbs_mini" href="https://store.breitbart.com/collections/all-products" rel="nofollow" target="_blank">SHOP NOW &gt;</a>
+	<span id="bbs_store_toggle" class="bbs_store_toggle bbs_show_store_ldr"></span>
+</div>
+
+		<div id="ContainerW">
+			<div id="fb-root"></div>
+
+	<div id="MainW">
+		<article>
+			
+<div id="g404ajax">
+<gcse:searchbox enableHistory="true" image_as_sitesearch="www.breitbart.com" as_sitesearch="www.breitbart.com" autoCompleteMaxCompletions="50" autoCompleteMatchType="any"
+			autoSearchOnLoad="false"></gcse:searchbox><gcse:searchresults autoSearchOnLoad="false" imageSearchResultSetSize="large" webSearchResultSetSize="filtered_cse"></gcse:searchresults>
+
+<p style="clear:both;"></p>
+
+</div><!--g404ajax-->		</article>
+	</div><!--MainW-->
+<aside id="asideSideW">
+<div id="SideW" class="widget-area col6 endcol">
+		<div class="ad Hmobi SWW">
+		<div class="ad-wrapper">			<div id='desktop-ROS-Rail1'></div>
+		</div>
+	</div><!--SWW-->
+
+
+	
+<div id="BBOnAirSide" data-tb-region="BBOnAirSide">
+	<a id="acurtschilling" href="/whatever-it-takes-curt-schilling/" target="_blank" rel="nofollow">
+		<img class="onairbodylink" src="/t/assets/i/on-air/curtschilling-sidebar.jpg" srcset="/t/assets/i/on-air/curtschilling-sidebar@2x.jpg 2x" alt="">
+	</a>
+</div>
+
+
+
+	
+
+		<div id="iscbbsocialconnect" class="SWW">
+		<p class="head">BREITBART <span>CONNECT</span></p>
+		<div class="content">
+			<div id="iscbbsocialconnecticons" class="social-icons">
+				<a id="SCFacebook" class="facebook" href="http://www.facebook.com/breitbart" title="Breitbart Facebook" rel="nofollow" target="_blank"></a>
+				<a id="SCTwitter" class="twitter" href="http://www.twitter.com/breitbartnews" title="Breitbart Twitter" rel="nofollow" target="_blank"></a>
+				<a id="SCYouTube" class="youtube" href="https://www.youtube.com/channel/UCmgnsaQIK1IR808Ebde-ssA" title="Breitbart YouTube" rel="nofollow" target="_blank"></a>
+				<a id="SCInstagram" class="instagram" href="https://www.instagram.com/wearebreitbart/" title="Breitbart Instagram" rel="nofollow" target="_blank"></a>
+				<a id="SCPodcasts" class="podcasts" href="http://www.breitbart.com/podcasts/" title="Breitbart Podcasts"></a>
+			</div>
+			<div class="signup">
+				<p class="sh3"><span>Sign Up</span> For Our Newsletter</p>
+				<div class='gform_wrapper' id='gform_wrapper_1'>
+					<a id='gf_1' class='gform_anchor'></a>
+					<form method='post' id='gform_1' action='/newsletter-signup/'>
+						<div class='gform_body'>
+							<ul id='gform_fields_1' class='gform_fields top_label description_below'>
+								<li id='field_1_1' class='gfield'>
+									<input name='input_1' id='input_1_1' type='text' value='' placeholder='email address'/>
+								</li>
+							</ul>
+							<input type='submit' id='gform_submit_button_1' value='Submit' onclick='if(window["gf_submitting_1"]){return false;} window["gf_submitting_1"]=true;'/>
+						</div>
+						<div class='H'>
+							<input type='hidden' name='is_submit_1' value='1' />
+							<input type='hidden' name='gform_submit' value='1' />
+							<input type='hidden' name='gform_target_page_number_1' id='gform_target_page_number_1' value='0' />
+							<input type='hidden' name='gform_source_page_number_1' id='gform_source_page_number_1' value='1' />
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div><!--iscbbsocialconnect-->
+
+
+	<div id="iscndnvideowidget" class="H"></div><!--iscndnvideowidget-->
+
+
+	<div id="isctaboolawidget1" class="H"><div id="taboola-right-rail"></div></div><!--isctaboolawidget1-->
+
+
+		
+		<div class="ad Hmobi SWW">
+			<div class="ad-wrapper">
+				<div id='desktop-ROS-Rail2'></div>
+			</div>
+		</div><!--SWW-->
+
+	
+
+		
+		<div class="ad Hmobi SWW">
+			<div class="ad-wrapper">
+				<div id='desktop-ROS-Rail3'></div>
+			</div>
+		</div><!--SWW-->
+
+	
+
+	<div id="iscnewsmaxwidgetid" class="H"></div><!--iscnewsmaxwidgetid-->
+
+
+		<div id="breitbartpodcasts" class="SWW">
+		<a id="bbpodcastspace" href="/podcasts/" title="Breitbart Podcasts"></a>
+			<div class="bbpodcast">
+		<a href="/podcasts/sonnie-johnson/" rel="nofollow" class="bbpodcastimg" title="Sonnie Johnson Podcast" target="bbpodcastwindow"></a>
+		<div class="bbpodcastright">
+			<a rel="nofollow" href="/podcasts/sonnie-johnson/" class="bbpodcasttxt" title="Listen Now" target="bbpodcastwindow">CharMeLoDi Returns</a>
+			<a rel="nofollow" href="/podcasts/sonnie-johnson/" class="bbpodcastlistennow" title="Listen Now" target="bbpodcastwindow"></a>
+			<a rel="nofollow" href="https://itunes.apple.com/us/podcast/id1095401893" class="bbpodcastitunes" title="Listen on iTunes"></a>
+		</div><!--bbpodcastright-->
+		<br class="C" />
+	</div><!--bbpodcast-->
+				<div class="bbpodcast">
+		<a href="/podcasts/milo/" rel="nofollow" class="bbpodcastimg" title="Milo Yiannopoulos Podcast" target="bbpodcastwindow"></a>
+		<div class="bbpodcastright">
+			<a rel="nofollow" href="/podcasts/milo/" class="bbpodcasttxt" title="Listen Now" target="bbpodcastwindow">MILO at UW Seattle Cyberbullying Talk</a>
+			<a rel="nofollow" href="/podcasts/milo/" class="bbpodcastlistennow" title="Listen Now" target="bbpodcastwindow"></a>
+			<a rel="nofollow" href="https://itunes.apple.com/us/podcast/id1095405552" class="bbpodcastitunes" title="Listen on iTunes"></a>
+		</div><!--bbpodcastright-->
+		<br class="C" />
+	</div><!--bbpodcast-->
+				<div class="bbpodcast">
+		<a href="/podcasts/james-delingpole/" rel="nofollow" class="bbpodcastimg" title="James Delingpole Podcast" target="bbpodcastwindow"></a>
+		<div class="bbpodcastright">
+			<a rel="nofollow" href="/podcasts/james-delingpole/" class="bbpodcasttxt" title="Listen Now" target="bbpodcastwindow">Dr. Ted Malloch</a>
+			<a rel="nofollow" href="/podcasts/james-delingpole/" class="bbpodcastlistennow" title="Listen Now" target="bbpodcastwindow"></a>
+			<a rel="nofollow" href="https://itunes.apple.com/us/podcast/delingpole-james-delingpole/id1163810679" class="bbpodcastitunes" title="Listen on iTunes"></a>
+		</div><!--bbpodcastright-->
+		<br class="C" />
+	</div><!--bbpodcast-->
+				<div class="bbpodcast">
+		<a href="/podcasts/awr-hawkins/" rel="nofollow" class="bbpodcastimg" title="AWR Hawkins Podcast" target="bbpodcastwindow"></a>
+		<div class="bbpodcastright">
+			<a rel="nofollow" href="/podcasts/awr-hawkins/" class="bbpodcasttxt" title="Listen Now" target="bbpodcastwindow">A Pro-Second Amendment Supreme Court</a>
+			<a rel="nofollow" href="/podcasts/awr-hawkins/" class="bbpodcastlistennow" title="Listen Now" target="bbpodcastwindow"></a>
+			<a rel="nofollow" href="https://itunes.apple.com/us/podcast/bullets-with-awr-hawkins/id1163805390" class="bbpodcastitunes" title="Listen on iTunes"></a>
+		</div><!--bbpodcastright-->
+		<br class="C" />
+	</div><!--bbpodcast-->
+		</div>
+
+
+		<div class="SWW">
+		<h2>MOST POPULAR</h2>
+		<ul id="disqus-popularUL"><li><a href="/big-journalism/2017/02/23/nbc-news-behind-video-leak-to-hurt-trump/" title="Report: NBC News Behind ‘Access Hollywood’ Video Leak to Hurt Trump" data-n="1">Report: NBC News Behind ‘Access Hollywood’ Video Leak to Hurt Trump</a><span><a class="bycount" href="/big-journalism/2017/02/23/nbc-news-behind-video-leak-to-hurt-trump/#disqus_thread" data-dsqi="6205014" title="Report: NBC News Behind ‘Access Hollywood’ Video Leak to Hurt Trump" rel="nofollow" data-n="1">0</a> comments - 13 hours ago</span></li><li><a href="/big-government/2017/02/23/report-religious-leaders-creating-underground-railroad-to-hide-illegal-aliens/" title="Report: Religious Leaders Creating ‘Underground Railroad’ to Hide Illegal Aliens" data-n="2">Report: Religious Leaders Creating ‘Underground Railroad’ to Hide Illegal Aliens</a><span><a class="bycount" href="/big-government/2017/02/23/report-religious-leaders-creating-underground-railroad-to-hide-illegal-aliens/#disqus_thread" data-dsqi="6204666" title="Report: Religious Leaders Creating ‘Underground Railroad’ to Hide Illegal Aliens" rel="nofollow" data-n="2">0</a> comments - 14 hours ago</span></li><li><a href="/big-journalism/2017/02/21/milo-resigns-breitbart-news/" title="MILO Resigns from Breitbart News" data-n="3">MILO Resigns from Breitbart News</a><span><a class="bycount" href="/big-journalism/2017/02/21/milo-resigns-breitbart-news/#disqus_thread" data-dsqi="6189290" title="MILO Resigns from Breitbart News" rel="nofollow" data-n="3">0</a> comments - 3 days ago</span></li><li><a href="/big-government/2017/02/23/cpac-bannon-priebus-address-cpac/" title="In Show of Unity, Bannon, Priebus Address CPAC" data-n="4">In Show of Unity, Bannon, Priebus Address CPAC</a><span><a class="bycount" href="/big-government/2017/02/23/cpac-bannon-priebus-address-cpac/#disqus_thread" data-dsqi="6202214" title="In Show of Unity, Bannon, Priebus Address CPAC" rel="nofollow" data-n="4">0</a> comments - 22 hours ago</span></li><li><a href="/big-government/2017/02/23/cnnleaks-cnn-editor-says-theres-no-debate-climate-change-calls-fox-news-unbearable/" title="CNNLeaks: CNN Editors Claim ‘No Debate’ On Climate Change, Call Fox News ‘Unbearable’" data-n="5">CNNLeaks: CNN Editors Claim ‘No Debate’ On Climate Change, Call Fox News ‘Unbearable’</a><span><a class="bycount" href="/big-government/2017/02/23/cnnleaks-cnn-editor-says-theres-no-debate-climate-change-calls-fox-news-unbearable/#disqus_thread" data-dsqi="6199934" title="CNNLeaks: CNN Editors Claim ‘No Debate’ On Climate Change, Call Fox News ‘Unbearable’" rel="nofollow" data-n="5">0</a> comments - 1 day ago</span></li><li><a href="/big-government/2017/02/23/steve-bannon-details-trump-agenda-deconstruction-administrative-state/" title="Steve Bannon Details Trump Agenda: Deconstruction of the Administrative State" data-n="6">Steve Bannon Details Trump Agenda: Deconstruction of the Administrative State</a><span><a class="bycount" href="/big-government/2017/02/23/steve-bannon-details-trump-agenda-deconstruction-administrative-state/#disqus_thread" data-dsqi="6202670" title="Steve Bannon Details Trump Agenda: Deconstruction of the Administrative State" rel="nofollow" data-n="6">0</a> comments - 20 hours ago</span></li><li><a href="/big-government/2017/02/23/boehner-republicans-wont-pass-obamacares-repeal-and-replace/" title="Boehner: Republicans Won’t Pass Obamacare’s Repeal and Replace" data-n="7">Boehner: Republicans Won’t Pass Obamacare’s Repeal and Replace</a><span><a class="bycount" href="/big-government/2017/02/23/boehner-republicans-wont-pass-obamacares-repeal-and-replace/#disqus_thread" data-dsqi="6203466" title="Boehner: Republicans Won’t Pass Obamacare’s Repeal and Replace" rel="nofollow" data-n="7">0</a> comments - 16 hours ago</span></li><li><a href="/london/2017/02/24/man-set-fire-quran-charged-blasphemy/" title="Danish Man who Set Fire to Quran Charged with Blasphemy" data-n="8">Danish Man who Set Fire to Quran Charged with Blasphemy</a><span><a class="bycount" href="/london/2017/02/24/man-set-fire-quran-charged-blasphemy/#disqus_thread" data-dsqi="6206198" title="Danish Man who Set Fire to Quran Charged with Blasphemy" rel="nofollow" data-n="8">0</a> comments - 6 hours ago</span></li><li><a href="/big-government/2017/02/23/lisa-murkowski-vote-no-obamacare-repeal-defunding-planned-parenthood/" title="GOP Sen. Lisa Murkowski to Vote ‘No’ on Obamacare Repeal, Defunding Planned Parenthood" data-n="9">GOP Sen. Lisa Murkowski to Vote ‘No’ on Obamacare Repeal, Defunding Planned Parenthood</a><span><a class="bycount" href="/big-government/2017/02/23/lisa-murkowski-vote-no-obamacare-repeal-defunding-planned-parenthood/#disqus_thread" data-dsqi="6205142" title="GOP Sen. Lisa Murkowski to Vote ‘No’ on Obamacare Repeal, Defunding Planned Parenthood" rel="nofollow" data-n="9">0</a> comments - 12 hours ago</span></li><li><a href="/london/2017/02/24/swedish-prosecutor-refuses-charge-migrant-child-molestation-crime-happened-outside-sweden/" title="Swedish Prosecutor Refuses to Charge Migrant for Child Rape As Girl Got Pregnant Abroad" data-n="10">Swedish Prosecutor Refuses to Charge Migrant for Child Rape As Girl Got Pregnant Abroad</a><span><a class="bycount" href="/london/2017/02/24/swedish-prosecutor-refuses-charge-migrant-child-molestation-crime-happened-outside-sweden/#disqus_thread" data-dsqi="6199486" title="Swedish Prosecutor Refuses to Charge Migrant for Child Rape As Girl Got Pregnant Abroad" rel="nofollow" data-n="10">0</a> comments - 6 hours ago</span></li></ul>	</div><!--SWW-->
+
+
+	<div id="iscsynapsyswidget1" class="H"></div><!--iscsynapsyswidget1-->
+
+
+	
+
+		<div class="send-tip SWW"><img src="http://media.breitbart.com/media/2015/09/send-tip.jpg" alt="Send a Tip" width="310" height="170" data-qazy="true" class="qazy" /><p><a rel="nofollow" href="/send-a-tip/">Send A Tip</a></p></div><!--send-tip-->
+
+	<div class="mobile send-tip mobile-send-tip SWW"><p><a rel="nofollow" href="/send-a-tip/">Send A Tip</a></p></div><!--mobile-send-tip-->
+
+
+		<div class="ad Hmobi SWW">
+		<div class="ad-wrapper">			<div id='desktop-ROS-Rail4'></div>
+		</div>
+	</div><!--SWW-->
+
+	<div><br class="C" /></div>
+</div><!--SideW-->
+</aside>
+			<div class="clear"></div>
+		</div><!--ContainerW-->
+	</div><!--ContentW-->
+		<footer id="footerFootW">
+	<div id="FootW">
+		<div id="FWI">
+			<div class="colW col7">
+				<a class="logo" href="/" title="Breitbart"></a>
+				<div class="copyright">
+					<p id="copyrighttext"><small>Copyright &copy; 2017 Breitbart</small></p>
+					<form class="search-form" method="get" action="/search/"><label for="searchiscq2"></label><input type="text" placeholder="SEARCH" name="s" id="searchiscq2" value="" /><input type="submit" value="search" /></form>
+					<a rel="nofollow" href="/advertise-with-us/">Advertise With Us</a>
+				</div>
+			</div><!--col7-->
+
+			<div class="colW col8">
+				<nav id="navNavF">
+				<h4>EXPLORE BREITBART</h4>
+				
+<ul id="NavF" class="menu"><li><a href="/big-government/" class="ddt" >Big Government</a><ul class="S" id="fm0"> <li><a href="/big-journalism/">Big Journalism</a></li> <li><a href="/big-hollywood/">Big Hollywood</a></li> <li><a href="/national-security/">National Security</a></li> <li><a href="/tech/">Tech</a></li> <li><a href="/video/">Video</a></li> <li><a href="/sports/">Sports</a></li> <li><a href="/news/">The Wires</a></li></ul></li><li><a href="/london/" class="ddt" >London</a><ul class="S" id="fm1"> <li><a href="/jerusalem/">Jerusalem</a></li> <li><a href="/texas/">Texas</a></li> <li><a href="/california/">California</a></li></ul></li><li><a href="/blog/" class="ddt" >The Conversation</a><ul class="S" id="fm2"> <li><a rel="nofollow" href="/about-us/privacy-policy/">Privacy Policy</a></li> <li><a rel="nofollow" href="/about-us/terms-of-use/">Terms of Use</a></li> <li><a rel="nofollow" href="/about-us/jobs/">Breitbart Jobs</a></li></ul></li></ul><!--NavF--><!--NavF-->
+
+				</nav>
+			</div><!--col8-->
+
+			<div class="colW col3 endcol">
+				<nav id="navFSocialUL">
+				<h4>Connect</h4>
+				<ul id="FSocialUL"><li><a href="https://www.facebook.com/Breitbart"><span class="fb"></span>Facebook</a></li><li><a href="https://twitter.com/#!/BreitbartNews"><span class="tw"></span>Twitter</a></li><li><a href="http://feeds.feedburner.com/breitbart"><span class="rs"></span>RSS</a></li><li><a rel="nofollow" href="/send-a-tip/"><span class="tp"></span>Send us a tip</a></li></ul>
+				<p id="foottools"><a class="logo mobile" href="/" title="Breitbart"></a><a rel="nofollow" class="subscribe" href="/newsletter-signup/">SUBSCRIBE TO THE BREITBART NEWSLETTER</a><a id="fullsiteswitch" class="full-site mobile" href="/">Switch to Full Site</a></p>
+				</nav>
+			</div><!--col3-->
+			<p class="copyright mobile"><small>Copyright &copy; 2017 Breitbart</small></p>
+		</div><!--FWI-->
+	</div><!--FootW-->
+	</footer>
+</div><!--GlobalW-->
+
+
+
+<noscript>
+<img style="display:none" height="1" width="1" alt="" src="//pixel.quantserve.com/pixel/p-dcxh5b8qxvs6g.gif" />
+<img style="display:none" height="1" width="1" alt="" src="https://www.facebook.com/tr?id=296280873867140&amp;ev=NoScript" />
+<img style="display:none" height="1" width="1" alt="" src="http://b.scorecardresearch.com/p?c1=2&amp;c2=17674108&amp;cv=2.0&amp;cj=1" />
+<img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=l2Y7o1IW1810vg" style="display:none" height="1" width="1" alt="" />
+</noscript>
+
+<script>if(isc_metric1===5){var inf1=document.getElementById("inform-player-1");if(inf1)inf1.setAttribute("data-config-pb","6")}var disqus_shortname="breitbartproduction",disqus_domain="disqus.com",DISQUSWIDGETS;
+typeof DISQUSWIDGETS==="undefined"&&(DISQUSWIDGETS=function(){var f=document,ContainerW=f.getElementById("ContainerW"),e={},s=f.head||f.body,j={},q={identifier:1,url:2};e.domain=disqus_domain;e.forum=disqus_shortname;e.proto="";e.getCount=function(){var c;c=encodeURIComponent;var a=e.proto+"//"+disqus_shortname+"."+e.domain+"/count-data.js?",d=[],k=0,l=40,r="",b={};b.reset&&(j={},r="&_="+ +new Date);for(var x=[ContainerW.getElementsByTagName("A")],m,i,g,h,n=0;n<x.length;n++){m=x[n];for(var o=0;o<
+m.length;o++){i=m[o];h=i.hash==="#disqus_thread"&&i.href.replace("#disqus_thread","")||i.getAttribute("data-dsqu");g=i.getAttribute("data-dsqi");if(g)h=q.identifier;else if(h)g=h,h=q.url;else continue;var p;j.hasOwnProperty(g)?p=j[g]:(p=j[g]={elements:[],type:h},d.push(c(h)+"="+c(g)));p.elements.push(i)}}d.sort();for(c=d.slice(k,l);c.length;)b=f.createElement("script"),b.src=a+c.join("&")+r,s.appendChild(b),k+=40,l+=40,c=d.slice(k,l)};e.displayCount=function(b){var bb=b.text.comments;for(var c,a,
+d,e=b.counts;c=e.shift();)if(a=j[c.id]){switch(c.comments){case 0:d=bb.zero;break;case 1:d=bb.one;break;default:d=bb.multiple}c=d.replace("{num}",c.comments);a=a.elements;for(d=a.length-1;d>=0;d--)a[d].innerHTML=c}};return e}());DISQUSWIDGETS.getCount();_atrk_opts={atrk_acct:"l2Y7o1IW1810vg",domain:"breitbart.com",dynamic:true};
+(function(){var as=document.createElement("script");as.type="text/javascript";as.async=true;as.src="https://d31qbv1cthcecs.cloudfront.net/atrk.js";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(as,s)})();
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+<script>window.jQuery || document.write(unescape('%3Cscript src="//code.jquery.com/jquery-1.12.4.min.js"%3E%3C/script%3E%3Cscript src="//code.jquery.com/ui/1.11.4/jquery-ui.min.js"%3E%3C/script%3E'))</script>
+<script src="/t/style-014879570.js" type="text/javascript"></script>
+<script>var amzn_ps_tracking_id="breitbart035-20";</script><script async="true" type="text/javascript" src="//ps-us.amazon-adsystem.com/scripts/US/studio.js"></script>
+
+<div id="ROS-1x1-Pixel" class='div-gpt-ad-1465332055334-0' style='height:1px; width:1px;'></div><!--/1003622/Breitbart.ROS.1X1-->
+<!-- 4 queries. 0.269 seconds. -->
+</body>
+</html>

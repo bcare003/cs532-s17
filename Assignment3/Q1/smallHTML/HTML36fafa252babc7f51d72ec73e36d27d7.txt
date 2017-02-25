@@ -1,0 +1,1199 @@
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<style>#H1 img{max-width:728px!important;min-height:90px!important;}#H2 img,#A1 img{max-width:970px!important;min-height:250px!important;}#H3 img,#H4 img,#H5 img,#H6 img,#A2 img,#A3 img,#A4 img,#A5 img{max-width:300px!important;}</style>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="keywords" content="allkpop"/>
+<meta name="description" content="Breaking K-pop news, videos, photos and celebrity gossip | allkpop"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwMDWFBWGwIGU1hWBwM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(14)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(14)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(14)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",c)}function i(t){y.push(t),h&&(w=-w,b.data=w)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(14)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,g),g.prototype=p.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var w=1,b=document.createTextNode(w);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[g[n]];return f&&f.push([w,n,r,i]),i}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",g[n]=e,e in u||(u[e]=[])})}var y={},g={},w={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return w}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=w.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(y,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(12),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(9);var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},g=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),w=e.exports={offset:a(),origin:v,features:{},xhrWrappable:g};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,7]);</script>
+<meta name="google-site-verification" content="j9-UrR1vZDnFuqEki8rQrHppAHzBCh00NF290OFt4sM"/>
+ 
+<meta property="og:type" content="website"/>
+<meta property="fb:app_id" content="173336579512859"/>
+<meta property="fb:pages" content="142273450007"/>
+<meta property="og:url" id="fb_url" content="http://www.allkpop.com/"/>
+<meta property="og:title" id="fb_title" content="allkpop | Breaking K-pop news, videos, photos and celebrity gossip"/>
+<meta property="og:image" id="fb_image" content="http://www.allkpop.com/img/logo-akp-icon.png"/>
+<meta property="og:description" id="fb_description" content="Breaking K-pop news, videos, photos and celebrity gossip | allkpop"/>
+<meta property="og:site_name" content="allkpop"/>
+ 
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@allkpop">
+<meta name="twitter:creator" content="@allkpop">
+<meta name="twitter:domain" content="allkpop.com">
+<meta id="tw_url" name="twitter:url" content="http://www.allkpop.com/">
+<meta id="tw_title" name="twitter:title" content="allkpop | Breaking K-pop news, videos, photos and celebrity gossip">
+<meta id="tw_description" name="twitter:description" content="Breaking K-pop news, videos, photos and celebrity gossip | allkpop">
+<meta id="tw_image" name="twitter:image:src" content="http://www.allkpop.com/img/logo-akp-icon.png">
+<meta name="twitter:widgets:csp" content="on">
+<meta name="p:domain_verify" content="be6fa067e531bcccdccf695e258a5d8e"/>
+<script type="application/ld+json">
+        { 
+            "@context": "http://schema.org",
+            "@type": "WebSite",
+            "url": "http://www.allkpop.com/",
+            "name": "allkpop",
+            "description": "Breaking K-pop news, videos, photos and celebrity gossip | allkpop",
+            "publisher": {
+                "@type": "Organization",
+                "name": "allkpop",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "http://www.allkpop.com/imgs/placeholder/logo_r_small3.png",
+                    "width": "120",
+                    "height": "30"
+                }
+            },
+            "potentialAction": {
+                "@type": "SearchAction",
+                "target": "http://www.allkpop.com/search/article/{search_term}",
+                "query-input": "required name=search_term"
+            } 
+        }
+        </script>
+<title>allkpop | Breaking K-pop news, videos, photos and celebrity gossip</title>
+<link rel="shortcut icon" href="//www.allkpop.com/favicon.ico"/>
+<link rel="canonical" href="http://www.allkpop.com/"/>
+<link href="http://www.allkpop.com/css/external/normalize.css?v=5" rel="stylesheet" type="text/css"/>
+<link href="http://www.allkpop.com/css/styles.css?v=19" rel="stylesheet" type="text/css"/>
+<link href="http://www.allkpop.com/css/responsive.css?v=1" rel="stylesheet" type="text/css"/>
+ 
+<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="http://www.allkpop.com/css/external/theme_smoothness_jquery-ui.css">
+<link rel="stylesheet" type="text/css" href="http://www.allkpop.com/css/gse.css?v=1"/>
+ 
+<style>.jssora05l,.jssora05r{display:block;position:absolute;width:40px;height:40px;cursor:pointer;background:url('http://www.allkpop.com/plugin/slider/img/a22.png') no-repeat;background-color:rgba(255,255,255,0.1);overflow:hidden;}.jssora05l{background-position:-10px -40px;}.jssora05r{background-position:-70px -40px;}.jssora05l:hover{background-position:-130px -40px;}.jssora05r:hover{background-position:-190px -40px;}.jssora05l.jssora05ldn{background-position:-250px -40px;}.jssora05r.jssora05rdn{background-position:-310px -40px;}.jssort01 .p{position:absolute;top:0;left:0;width:150px;height:75px;}.jssort01 .t{position:absolute;top:0;left:0;width:100%;height:100%;border:none;}.jssort01 .w{position:absolute;top:0px;left:0px;width:100%;height:100%;}.jssort01 .c{position:absolute;top:0px;left:0px;width:146px;height:71px;cursor:pointer;box-sizing:content-box;border:#b0b9ba 2px solid;}.jssort01 .pav .c{top:0px;_top:0px;left:0px;_left:0px;width:146px;height:71px;background-position:50% 50%;border:#d80001 2px solid;}.jssort01 .p:hover .c{top:0px;left:0px;width:150px;height:75px;border:#fff 1px solid;background-position:50% 50%;}.jssort01 .p.pdn .c{background-position:50% 50%;width:146px;height:71px;border:#fff 2px solid;}* html .jssort01 .c,* html .jssort01 .pdn .c,* html .jssort01 .pav .c{width:152px;height:72px;}.caption{text-align:center;}#jssor_1 a,#jssor_2 a{text-decoration:none;color:#FFF;font-size:1.8em;font-family:'Oswald',sans-serif;}</style>
+<script async src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+<script src="http://www.allkpop.com/js/external/socket.io-1.4.8.js?v=2"></script>
+<script>var ws_polling_switch="ws";</script>
+ 
+ 
+<script type='text/javascript'>(function() {var useSSL = 'https:' == document.location.protocol;var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');})();</script>
+<script>
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/1046641/akp2_home_728_top', [[728, 90], [970, 250], [970, 90]], 'div-gpt-ad-1456251248648-0').addService(googletag.pubads());
+            /*
+            googletag.defineSlot('/1046641/akp2_home_billboard_1', [[728, 90], [970, 250], [970, 90], [300, 250], [336, 280]], 'div-gpt-ad-1456251248648-1').addService(googletag.pubads());
+            googletag.defineSlot('/1046641/akp2_home_billboard_2', [[728, 90], [970, 250], [970, 90], [300, 250], [336, 280]], 'div-gpt-ad-1456251248648-2').addService(googletag.pubads());
+            googletag.defineSlot('/1046641/akp2_home_billboard_3', [[728, 90], [970, 250], [970, 90], [300, 250], [336, 280]], 'div-gpt-ad-1456251248648-3').addService(googletag.pubads());
+            googletag.defineSlot('/1046641/akp2_home_billboard_4', [[970, 90], [970, 250], [728, 90], [300, 250], [336, 280]], 'div-gpt-ad-1456256348948-0').addService(googletag.pubads());
+            */
+            googletag.defineSlot('/1046641/akp2_home_billboard_1', [[728, 90], [970, 250], [970, 90],[300, 250], [336, 280]], 'div-gpt-ad-1456251248648-1').addService(googletag.pubads());
+            googletag.defineSlot('/1046641/akp2_home_billboard_2', [[300, 250], [336, 280]], 'div-gpt-ad-1456251248648-2').addService(googletag.pubads());
+            googletag.defineSlot('/1046641/akp2_home_billboard_3', [[300, 250], [336, 280]], 'div-gpt-ad-1456251248648-3').addService(googletag.pubads());
+            googletag.defineSlot('/1046641/akp2_home_billboard_4', [[300, 250], [336, 280]], 'div-gpt-ad-1456256348948-0').addService(googletag.pubads());
+            googletag.defineSlot('/1046641/akp2_home_sidebar_1', [[300, 250],[300,600]], 'div-gpt-ad-1456251248648-4').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.pubads().enableAsyncRendering();
+            googletag.enableServices();
+        });
+        </script>
+ 
+<script async type='text/javascript'>
+	window.apd_options = { 'websiteId': 5957, 'runFromFrame': false };
+	(function() {
+		var w = window.apd_options.runFromFrame ? window.top : window;
+		if(window.apd_options.runFromFrame && w!=window.parent) w=window.parent;
+		if (w.location.hash.indexOf('apdAdmin') != -1){if(typeof(Storage) !== 'undefined') {w.localStorage.apdAdmin = 1;}}
+		var adminMode = ((typeof(Storage) == 'undefined') || (w.localStorage.apdAdmin == 1));
+		w.apd_options=window.apd_options;
+		var apd = w.document.createElement('script'); apd.type = 'text/javascript'; apd.async = true;
+		apd.src = '//' + (adminMode ? 'cdn' : 'ecdn') + '.firstimpression.io/' + (adminMode ? 'fi.js?id=' + window.apd_options.websiteId : 'fi_client.js') ;
+		var s = w.document.getElementsByTagName('head')[0]; s.appendChild(apd);
+	})();</script>
+ 
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async='async'></script>
+<script>
+    var onesignal_user_id='';
+    var onesignal_gender='';
+    
+    var OneSignal = window.OneSignal || [];
+    OneSignal.push(["init", {
+      appId: "63a1a52e-6a1b-4274-b634-3241f329d73f",
+      autoRegister: true, /* Set to true to automatically prompt visitors */
+      subdomainName: 'allkpop.onesignal.com',   
+      notifyButton: {
+          enable: true, /* Set to false to hide */
+          position: 'bottom-left',
+          prenotify: true, /* Show an icon with 1 unread message for first-time site visitors */
+          showCredit: false, /* Hide the OneSignal logo */
+          text: {
+            'tip.state.unsubscribed': 'Subscribe to notifications',
+            'tip.state.subscribed': "You're subscribed to notifications",
+            'tip.state.blocked': "You've blocked notifications",
+            'message.prenotify': 'Click to subscribe to notifications',
+            'message.action.subscribed': "Thanks for subscribing!",
+            'message.action.resubscribed': "You're subscribed to notifications",
+            'message.action.unsubscribed': "You won't receive notifications again",
+            'dialog.main.title': 'Manage allkpop Notifications',
+            'dialog.main.button.subscribe': 'SUBSCRIBE',
+            'dialog.main.button.unsubscribe': 'UNSUBSCRIBE',
+            'dialog.blocked.title': 'Unblock Notifications',
+            'dialog.blocked.message': "Follow these instructions to allow notifications:"
+          },
+          displayPredicate: function() {
+            return OneSignal.isPushNotificationsEnabled()
+                .then(function(isPushEnabled) {
+                    /* The user is subscribed, so we want to return "false" to hide the notify button */
+                    return !isPushEnabled;
+                });
+          },
+      },
+      promptOptions: {
+            /* Change bold title, limited to 30 characters */
+            siteName: 'allkpop.com',
+            /* Subtitle, limited to 90 characters */
+            actionMessage: "We'd like to show you notifications for the latest news and updates.",
+            /* Example notification title */
+            exampleNotificationTitle: 'Breaking News',
+            /* Example notification message */
+            exampleNotificationMessage: 'G-Dragon...',
+            /* Text below example notification, limited to 50 characters */
+            exampleNotificationCaption: 'You can unsubscribe anytime',
+            /* Accept button text, limited to 15 characters */
+            acceptButtonText: "ALLOW",
+            /* Cancel button text, limited to 15 characters */
+            cancelButtonText: "NO THANKS"
+      },
+      safari_web_id: 'web.onesignal.auto.5a2165c8-9d94-4308-bfd9-99a8484077b6',
+      //persistNotification: false
+    }]);
+    if(onesignal_user_id!=""){
+        OneSignal.push(["getTags", function(tags) {
+    		if(Object.keys(tags).length==0){
+    	       OneSignal.push(["sendTags", {"akp_id":onesignal_user_id,"gender": onesignal_gender}]);
+    	   	}
+    	}]);
+    }
+  </script>
+</head>
+<body class="homepage">
+<script async>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create', 'UA-2103550-3', 'auto');ga('create', 'UA-2103550-9', 'auto',{'name':'6theory_net'});ga('send', 'pageview');ga('6theory_net.send', 'pageview');</script>
+<div id="fb-root"></div>
+<script async>window.fbAsyncInit = function() {FB.init({appId:'173336579512859',cookie:true,xfbml:true,version:'v2.8'});};(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="https://connect.facebook.net/en_US/sdk.js";fjs.parentNode.insertBefore(js,fjs);}(document,'script','facebook-jssdk'));</script>
+<link href="http://www.allkpop.com/plugin/chat/src/chat_style.css?v=2" rel="stylesheet"/>
+<div style="bottom:0;position: fixed;width: 100%;z-index: 999;">
+<div id="r_c">
+<div style="position: absolute;margin-top:6px;right:0"><a id="find_friend" href="http://www.allkpop.com/find_friend" style="margin-top: 5px;z-index: 100;"><i class="fa fa-search"></i> Find Friend(s)</a></div>
+<div id="chat_panel" class="chat_panel" data-oc="false">Chat</div>
+<div id="effect" style="float:left;width:90%;padding: 0 0 0 10px;height:15vh;display: block;">
+<b class="_rt">Group Chat</b><div id="lo_gchat_rooms" style="max-height:8vh;height: auto;overflow-y: auto;"> <div class="lo_gchat_row">
+<div class="lo_gchat_list">
+<div class="lo_gchat_img"><img src="http://www.allkpop.com/imgs/placeholder/commenter-img.jpg" style="width:20px;"></div>
+<div class="lo_gchat_name">General Chat</div>
+<div class="lo_gchat_status"><i class="fa fa-circle data-of active" data-of="" style="color: rgb(0, 128, 0);"></i></div>
+</div>
+</div>
+<div class="lo_gchat_row">
+<div class="lo_gchat_list">
+<div class="lo_gchat_img"><img src="http://www.allkpop.com/imgs/placeholder/commenter-img.jpg" style="width:20px;"></div>
+<div class="lo_gchat_name">BTS Chat</div>
+<div class="lo_gchat_status"><i class="fa fa-circle data-of active" data-of="" style="color: rgb(0, 128, 0);"></i></div>
+</div>
+</div>
+<div class="lo_gchat_row">
+<div class="lo_gchat_list">
+<div class="lo_gchat_img"><img src="http://www.allkpop.com/imgs/placeholder/commenter-img.jpg" style="width:20px;"></div>
+<div class="lo_gchat_name">TWICE Chat</div>
+<div class="lo_gchat_status"><i class="fa fa-circle data-of active" data-of="" style="color: rgb(0, 128, 0);"></i></div>
+</div>
+</div>
+<div class="lo_gchat_row">
+<div class="lo_gchat_list">
+<div class="lo_gchat_img"><img src="http://www.allkpop.com/imgs/placeholder/commenter-img.jpg" style="width:20px;"></div>
+<div class="lo_gchat_name">EXO Chat</div>
+<div class="lo_gchat_status"><i class="fa fa-circle data-of active" data-of="" style="color: rgb(0, 128, 0);"></i></div>
+</div>
+</div>
+</div> <div id="lo_gchat_login" style="position: absolute;bottom: 0;border-top: 1px solid #e2e2e2;width: 93%;height: 27px;padding: 7px 0;">
+</div>
+</div>
+</div>
+</div>
+<script>$(document).ready(function(){$('#effect').on('click',function(e){e.preventDefault();$('#lo_gchat_login').html('<a href="http://www.allkpop.com/sso_login" style="text-decoration:none;color:#d80001">Please Login First</a>');});})</script>
+ 
+<nav id="main" class="subpage" style="position: fixed;height:30px;">
+<div class="wrapper">
+<div class="logo" style="height: 30px;"> 
+<a href="/"><img src="/imgs/placeholder/logo_r_small3.png" style="width:126px;height:30px;"></a>
+</div>
+<div class="mobile-menu-btn"><i class="fa fa-bars fa-lg"></i></div>
+<ol class="main-nav" style="padding-top: 0px;">
+<li id="menu_meme"><a href="/meme">Memes</a></li>
+ 
+<li id="menu_shop"><a href="https://shop.allkpop.com" target="_blank">Shop</a></li>
+<li id="menu_forums"><a href="/forum">Forums</a></li>
+ 
+<li id="menu_tip"><a href="/tips">Submit Tip</a></li>
+ 
+</ol>
+<ol class="log-nav" style="padding-left: 0;padding-top: 0px;margin: 0;">
+<li><input id="account" class="account" type="button" value="Login"></li>
+</ol>
+<div class="login-nav">
+<p>Login With</p>
+<div id="login-btn-facebook" class="login-btn grid-2 spaced">Facebook</div>
+<div id="login-btn-twitter" class="login-btn grid-2 spaced">Twitter</div>
+<p>Or Login / Register With Us <span><a href="/forgot_pwd">Forgot Password?</a></span></p>
+<div class="login_register_form">
+<input id="email_input" class="grid-2 spaced" type="text" name="email" placeholder="E-mail Address">
+<input id="password_input" class="grid-2 spaced" type="password" name="u_pass" placeholder="password">
+<div class="login_alert_error"></div>
+<div class="grid-2 spaced">
+<input id="remember_me_check" type="checkbox" name="rememberme" value="rememberme" value="1"> Remember Me
+</div>
+<div class="grid-2 spaced">
+<input id="login-btn" type="button" value="Login">
+</div>
+<input id="register-btn" type="button" value="Register">
+</div>
+</div>
+<div class="search-nav" alt="Search" title="Search">
+ 
+<input type="text" name="q" id="s" placeholder="Search">
+<i class="search-icon fa fa-search fa-lg"></i>
+ 
+</div>
+<div id="scroll-video" style="position: fixed;top: 51px;width:300px;"></div>
+</div>
+</nav>
+<section class='default ad-space bottom-spacing' style='margin-top: 75px!important;'>
+<div id='div-gpt-ad-1456251248648-0' style='width:1000px;text-align: center;'>
+<script type='text/javascript'>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1456251248648-0'); });
+            </script>
+</div></section><div id="jssor_1" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 1000px; height: 620px; overflow: hidden; visibility: hidden;margin-bottom:25px;">
+ 
+<div data-u="loading" style="position: absolute; top: 0px; left: 0px;">
+<div style="filter: alpha(opacity=70); opacity: 0.7; position: absolute; display: block; top: 0px; left: 0px; width: 100%; height: 100%;"></div>
+<div style="position:absolute;display:block;background:url('http://www.allkpop.com/plugin/slider/img/loading.gif') no-repeat center center;top:0px;left:0px;width:100%;height:100%;"></div>
+</div>
+<div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 1000px; height: 500px; ">
+<div data-p="144.50" style="display: none;">
+<div style="position: absolute;top:350px;padding-left:30px;z-index: 1000;">
+<h1><a href="/article/2017/02/gaon-chart-issues-official-apology-regarding-bts-and-tops-stage-controversy" target="_self" style="display:inline!important;float:none!important;background-color: #e6413f;opacity:0.9;">Gaon Chart issues official apology regarding BTS and T.O.P's stage controversy</a></h1>
+</div>
+<a href='/article/2017/02/gaon-chart-issues-official-apology-regarding-bts-and-tops-stage-controversy' target='_self' class=''><img id='main_feature_1' src='http://www.allkpop.com/upload/2017/02/mf1/Big-Bang-TOP-bts_1487911720_mf1.jpg' data-u="image" alt='Big-Bang,TOP,bts' title='Big-Bang,TOP,bts'></a> <div data-u="thumb">
+<img id='main_feature_thumb_1' src='http://www.allkpop.com/upload/2017/02/mf1/Big-Bang-TOP-bts_1487911720_mf1.jpg' style="width:100%;height:100%;" alt='Big-Bang,TOP,bts' title='Big-Bang,TOP,bts'> <div class="caption" style="">
+GAON CHART ISSUES APOLOGY </div>
+</div>
+</div>
+<div data-p="144.50" style="display: none;">
+<div style="position: absolute;top:350px;padding-left:30px;z-index: 1000;">
+<h1><a href="/article/2017/02/taeyeon-reflects-when-i-was-young-in-highlight-teaser-8" target="_self" style="display:inline!important;float:none!important;background-color: #e6413f;opacity:0.9;">Taeyeon reflects 'When I Was Young' in highlight teaser #8</a></h1>
+</div>
+<a href='/article/2017/02/taeyeon-reflects-when-i-was-young-in-highlight-teaser-8' target='_self' class=''><img id='main_feature_2' src='http://www.allkpop.com/upload/2017/02/mf2/Taeyeon_1487948779_mf2.jpg' data-u="image" alt='Taeyeon' title='Taeyeon'></a> <div data-u="thumb">
+<img id='main_feature_thumb_2' src='http://www.allkpop.com/upload/2017/02/mf2/Taeyeon_1487948779_mf2.jpg' style="width:100%;height:100%;" alt='Taeyeon' title='Taeyeon'> <div class="caption" style="">
+TAEYEON 'MY VOICE' HIGHLIGHT TEASER 8 </div>
+</div>
+</div>
+<div data-p="144.50" style="display: none;">
+<div style="position: absolute;top:350px;padding-left:30px;z-index: 1000;">
+<h1><a href="/article/2017/02/fans-of-seventeen-and-twice-demand-apology-from-choreographer-choi-for-choreography-similarities" target="_self" style="display:inline!important;float:none!important;background-color: #e6413f;opacity:0.9;">Fans of Seventeen and TWICE demand apology from choreographer Choi for choreography similarities</a></h1>
+</div>
+<a href='/article/2017/02/fans-of-seventeen-and-twice-demand-apology-from-choreographer-choi-for-choreography-similarities' target='_self' class=''><img id='main_feature_3' src='http://www.allkpop.com/upload/2017/02/mf3/Seventeen-hoshi-twice_1487955791_mf3.jpg' data-u="image" alt='Seventeen,hoshi,twice' title='Seventeen,hoshi,twice'></a> <div data-u="thumb">
+<img id='main_feature_thumb_3' src='http://www.allkpop.com/upload/2017/02/mf3/Seventeen-hoshi-twice_1487955791_mf3.jpg' style="width:100%;height:100%;" alt='Seventeen,hoshi,twice' title='Seventeen,hoshi,twice'> <div class="caption" style="">
+SEVENTEEN / TWICE FANS WANT APOLOGY </div>
+</div>
+</div>
+<div data-p="144.50" style="display: none;">
+<div style="position: absolute;top:350px;padding-left:30px;z-index: 1000;">
+<h1><a href="/article/2017/02/around-us-ent-announces-new-group-name-for-former-b2st" target="_self" style="display:inline!important;float:none!important;background-color: #e6413f;opacity:0.9;">Around Us Ent announces new group name for former B2ST!</a></h1>
+</div>
+<a href='/article/2017/02/around-us-ent-announces-new-group-name-for-former-b2st' target='_self' class=''><img id='main_feature_4' src='http://www.allkpop.com/upload/2017/02/mf4/B2ST-highlight_1487929480_mf4.jpg' data-u="image" alt='B2ST,highlight' title='B2ST,highlight'></a> <div data-u="thumb">
+<img id='main_feature_thumb_4' src='http://www.allkpop.com/upload/2017/02/mf4/B2ST-highlight_1487929480_mf4.jpg' style="width:100%;height:100%;" alt='B2ST,highlight' title='B2ST,highlight'> <div class="caption" style="">
+NEW B2ST NAME </div>
+</div>
+</div>
+<div data-p="144.50" style="display: none;">
+<div style="position: absolute;top:350px;padding-left:30px;z-index: 1000;">
+<h1><a href="/article/2017/02/10-groups-you-didnt-know-that-are-masters-of-acapella" target="_self" style="display:inline!important;float:none!important;background-color: #e6413f;opacity:0.9;">10 Groups you didn't know that are masters of acapella</a></h1>
+</div>
+<a href='/article/2017/02/10-groups-you-didnt-know-that-are-masters-of-acapella' target='_self' class=''><img id='main_feature_5' src='http://www.allkpop.com/upload/2017/02/mf5/misc_1487893672_mf5.jpg' data-u="image" alt='misc' title='misc'></a> <div data-u="thumb">
+<img id='main_feature_thumb_5' src='http://www.allkpop.com/upload/2017/02/mf5/misc_1487893672_mf5.jpg' style="width:100%;height:100%;" alt='misc' title='misc'> <div class="caption" style="">
+MASTERS OF ACAPELLA </div>
+</div>
+</div>
+<div data-p="144.50" style="display: none;">
+<div style="position: absolute;top:350px;padding-left:30px;z-index: 1000;">
+<h1><a href="/article/2017/02/performances-from-february-24th-music-bank" target="_self" style="display:inline!important;float:none!important;background-color: #e6413f;opacity:0.9;">BTS win #1 + Performances from February 24th 'Music Bank'!</a></h1>
+</div>
+<a href='/article/2017/02/performances-from-february-24th-music-bank' target='_self' class=''><img id='main_feature_6' src='http://www.allkpop.com/upload/2017/02/mf6/100-Gavy-NJ-hong-jin-young-bts-melody-day-bigflo-red-velvet-sonamoo-clc-april-twice-nct-dream-sf9_1487936558_mf6.jpg' data-u="image" alt='100,Gavy-NJ,hong-jin-young,bts,melody-day,bigflo,red-velvet,sonamoo,clc,april,twice,nct-dream,sf9' title='100,Gavy-NJ,hong-jin-young,bts,melody-day,bigflo,red-velvet,sonamoo,clc,april,twice,nct-dream,sf9'></a> <div data-u="thumb">
+<img id='main_feature_thumb_6' src='http://www.allkpop.com/upload/2017/02/mf6/100-Gavy-NJ-hong-jin-young-bts-melody-day-bigflo-red-velvet-sonamoo-clc-april-twice-nct-dream-sf9_1487936558_mf6.jpg' style="width:100%;height:100%;" alt='100,Gavy-NJ,hong-jin-young,bts,melody-day,bigflo,red-velvet,sonamoo,clc,april,twice,nct-dream,sf9' title='100,Gavy-NJ,hong-jin-young,bts,melody-day,bigflo,red-velvet,sonamoo,clc,april,twice,nct-dream,sf9'> <div class="caption" style="">
+BTS WIN 'MUSIC BANK' </div>
+</div>
+</div>
+</div>
+<div data-u="thumbnavigator" class="jssort01" style="position:absolute;top:500px;left:0px;bottom:0px;width:1000px;height:100px;" data-autocenter="1"><div data-u="slides" style="cursor: default;"><div data-u="prototype" class="p"><div class="w"><div data-u="thumbnailtemplate" class="t"></div></div><div class="c"></div></div></div></div>
+<span data-u="arrowleft" class="jssora05l" style="top:210px;left:8px;width:40px;height:40px;"></span>
+<span data-u="arrowright" class="jssora05r" style="top:210px;right:8px;width:40px;height:40px;"></span>
+</div> <div class="grey-bg">
+<section id="mobile-social" class="full-width">
+<ol class="social">
+<li class="facebook"><a href="https://www.facebook.com/allkpop" target="_blank"></a></li>
+<li class="twitter"><a href="https://twitter.com/allkpop" target="_blank"></a></li>
+<li class="instagram"><a href="http://instagram.com/allkpop" target="_blank"></a></li>
+<li class="youtube"><a href="https://www.youtube.com/user/allkpop" target="_blank"></a></li>
+<li class="googleplus"><a href="https://plus.google.com/+allkpop/posts" target="_blank"></a></li>
+</ol></section>
+<section id="additional-content" class="iacp full-width subpage-headline" style="">
+<article class='default ad-space list' style='margin: 0 0 40px 0;padding-top: 0px;'>
+<div id='div-gpt-ad-1456251248648-1' style='width:1000px;text-align: center;'>
+<script type='text/javascript'>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1456251248648-1'); });
+            </script>
+</div></article> <nav class="dual-spacing">
+<ol class="options">
+<li class="latest" alt="Latest articles" title="Latest articles">The Latest</li>
+<li class="trending" alt="Rising stories" title="Rising stories">Trending</li>
+<li class="myfeed" alt="My Feed" title="My Feed">My Feed</li>
+</ol>
+<ol class="social">
+<li class="facebook"><a href="https://www.facebook.com/allkpop" target="_blank"></a></li>
+<li class="twitter"><a href="https://twitter.com/allkpop" target="_blank"></a></li>
+<li class="instagram"><a href="http://instagram.com/allkpop" target="_blank"></a></li>
+<li class="youtube"><a href="https://www.youtube.com/user/allkpop" target="_blank"></a></li>
+<li class="googleplus"><a href="https://plus.google.com/+allkpop/posts" target="_blank"></a></li>
+</ol> </nav>
+<div class="meme_src" style="width: 100%;">
+<div id="article-headline-left">
+<article class="list">
+<div class="image">
+<a href='/article/2017/02/nct-dreams-mark-and-mc-gree-have-a-feisty-battle-on-school-rapper' target='_self' class=''><img id='' src='http://www.allkpop.com/upload/2017/02/af/mark-mark-mark-mc-gree_1487950917_af.jpg' style="max-width:1000px;width:200px;height:140px" alt='mark,mark,mark,mc-gree' title='mark,mark,mark,mc-gree'></a> </div>
+<div class="text">
+<h2>
+<a href='/category/Variety' target='_self' class=''>Variety</a> </h2>
+<h1><a href='/article/2017/02/nct-dreams-mark-and-mc-gree-have-a-feisty-battle-on-school-rapper' target='_self' class=''>NCT Dream's Mark and MC GREE have a feisty battle on 'School Rapper'</a></h1>
+<p>The competition got feisty between NCT Dream's Mark and MC GREE on 'School Rapper'.On the February 24 episode, Mark and MC GREE, who've gained the mos…</p>
+<div class="info">
+yckim124&nbsp;&nbsp;
+<i class="fa fa-clock-o"></i> <span class="realtime" data-ts="1487956447">18 minutes ago</span>&nbsp;&nbsp;
+<i class="fa fa-eye"></i> 4,406&nbsp;&nbsp;
+<i class="fa fa-share-square-o"></i> 561&nbsp;&nbsp;
+<i class="fa fa-comment-o"></i> 0
+</div>
+</div>
+</article>
+<article class="list">
+<div class="image">
+<a href='/article/2017/02/gugudan-releases-performance-spoilers-for-a-girl-like-me' target='_self' class=''><img id='' src='http://www.allkpop.com/upload/2017/02/af/gugudan_1487955051_af.jpg' style="max-width:1000px;width:200px;height:140px" alt='gugudan' title='gugudan'></a> </div>
+<div class="text">
+<h2>
+<a href='/category/MV-Releases' target='_self' class=''>MV Releases</a> </h2>
+<h1><a href='/article/2017/02/gugudan-releases-performance-spoilers-for-a-girl-like-me' target='_self' class=''>Gugudan releases performance spoilers for 'A Girl Like Me'</a></h1>
+<p>Girl group Gugudan released a set of performance spoilers for title&nbsp;track "A Girl Like Me" from their upcoming mini-album 'Act 2 Narcissus'.Consi…</p>
+<div class="info">
+KpopJoA&nbsp;&nbsp;
+<i class="fa fa-clock-o"></i> <span class="realtime" data-ts="1487955121">41 minutes ago</span>&nbsp;&nbsp;
+<i class="fa fa-eye"></i> 4,378&nbsp;&nbsp;
+<i class="fa fa-share-square-o"></i> 430&nbsp;&nbsp;
+<i class="fa fa-comment-o"></i> 1
+</div>
+</div>
+</article>
+<article class="list">
+<div class="image">
+<a href='/article/2017/02/jeon-so-mi-says-her-ex-boyfriend-that-dumped-her-in-a-week-is-currently-dating-her-friend' target='_self' class='embed_on'><img id='' src='http://www.allkpop.com/upload/2017/02/af/jeon-so-mi_1487952900_af.jpg' style="max-width:1000px;width:200px;height:140px" alt='jeon-so-mi' title='jeon-so-mi'></a> </div>
+<div class="text">
+<h2>
+<a href='/category/Variety' target='_self' class=''>Variety</a> </h2>
+<h1><a href='/article/2017/02/jeon-so-mi-says-her-ex-boyfriend-that-dumped-her-in-a-week-is-currently-dating-her-friend' target='_self' class=''>Jeon So Mi says her ex-boyfriend that dumped her in a week is currently dating her friend</a></h1>
+<p>Jeon So Mi shared a story about her ex-boyfriend on 'Unnies' Slam Dunk 2'!On the show, Jeon So Mi coolly admitted that she has had a boyfriend in the …</p>
+<div class="info">
+yckim124&nbsp;&nbsp;
+<i class="fa fa-clock-o"></i> <span class="realtime" data-ts="1487954089">58 minutes ago</span>&nbsp;&nbsp;
+<i class="fa fa-eye"></i> 21,843&nbsp;&nbsp;
+<i class="fa fa-share-square-o"></i> 1,355&nbsp;&nbsp;
+<i class="fa fa-comment-o"></i> 13
+</div>
+</div>
+</article>
+<article class="list">
+<div class="image">
+<a href='/article/2017/02/nuest-confirmed-to-halt-all-promotions-and-participate-in-the-male-version-of-produce-101' target='_self' class=''><img id='' src='http://www.allkpop.com/upload/2017/02/af/NUEST_1487951826_af.jpg' style="max-width:1000px;width:200px;height:140px" alt='NUEST' title='NUEST'></a> </div>
+<div class="text">
+<h2>
+<a href='/category/Variety' target='_self' class=''>Variety</a> </h2>
+<h1><a href='/article/2017/02/nuest-confirmed-to-halt-all-promotions-and-participate-in-the-male-version-of-produce-101' target='_self' class=''>NU'EST confirmed to halt all promotions and participate in the male version of 'Produce 101' </a></h1>
+<p>Pledis Entertainment officially announced that NU'EST will be participating in the male version of 'Produce 101'.On February 24, Pledis made the annou…</p>
+<div class="info">
+yckim124&nbsp;&nbsp;
+<i class="fa fa-clock-o"></i> <span class="realtime" data-ts="1487952636">1 hour ago</span>&nbsp;&nbsp;
+<i class="fa fa-eye"></i> 28,549&nbsp;&nbsp;
+<i class="fa fa-share-square-o"></i> 2,302&nbsp;&nbsp;
+<i class="fa fa-comment-o"></i> 50
+</div>
+</div>
+</article>
+<article class='default ad-space list' style='padding: 25px 0;border-bottom: 1px solid #CCC;'>
+<div id='div-gpt-ad-1456251248648-2' style='width:640px;text-align: center;'>
+<script type='text/javascript'>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1456251248648-2'); });
+            </script>
+</div></article> <article class="list">
+<div class="image">
+<a href='/article/2017/02/victons-sejun-seungsik-and-seungwoo-take-on-a-soft-look-in-teaser-images-for-ready' target='_self' class=''><img id='' src='http://www.allkpop.com/upload/2017/02/af/victon_1487949639_af.jpg' style="max-width:1000px;width:200px;height:140px" alt='victon' title='victon'></a> </div>
+<div class="text">
+<h2>
+<a href='/category/Music-Releases' target='_self' class=''>Music Releases</a> </h2>
+<h1><a href='/article/2017/02/victons-sejun-seungsik-and-seungwoo-take-on-a-soft-look-in-teaser-images-for-ready' target='_self' class=''>VICTON's Sejun, Seungsik, and Seungwoo take on a soft look in teaser images for 'Ready' </a></h1>
+<p>Rookie boy group VICTION's Sejun, Seungsik, and Seungwoo are next up to tease for their 2nd mini album 'Ready'.The 3 members take on a softer look in …</p>
+<div class="info">
+yckim124&nbsp;&nbsp;
+<i class="fa fa-clock-o"></i> <span class="realtime" data-ts="1487951410">2 hours ago</span>&nbsp;&nbsp;
+<i class="fa fa-eye"></i> 3,385&nbsp;&nbsp;
+<i class="fa fa-share-square-o"></i> 530&nbsp;&nbsp;
+<i class="fa fa-comment-o"></i> 2
+</div>
+</div>
+</article>
+<article class="list">
+<div class="image">
+<a href='/article/2017/02/lovelyz-lets-fans-preview-new-album-r-u-ready' target='_self' class='embed_on'><img id='' src='http://www.allkpop.com/upload/2017/02/af/lovelyz_1487949770_af.jpg' style="max-width:1000px;width:200px;height:140px" alt='lovelyz' title='lovelyz'></a> </div>
+<div class="text">
+<h2>
+<a href='/category/MV-Releases' target='_self' class=''>MV Releases</a> </h2>
+<h1><a href='/article/2017/02/lovelyz-lets-fans-preview-new-album-r-u-ready' target='_self' class=''>Lovelyz lets fans preview new album 'R U Ready?'</a></h1>
+<p>With their new album release date just days away, girl group Lovelyz are letting fans preview 'R U Ready?'Featuring title song "WoW!" in addition to 1…</p>
+<div class="info">
+KpopJoA&nbsp;&nbsp;
+<i class="fa fa-clock-o"></i> <span class="realtime" data-ts="1487950034">2 hours ago</span>&nbsp;&nbsp;
+<i class="fa fa-eye"></i> 5,880&nbsp;&nbsp;
+<i class="fa fa-share-square-o"></i> 912&nbsp;&nbsp;
+<i class="fa fa-comment-o"></i> 2
+</div>
+</div>
+</article>
+<article class="list">
+<div class="image">
+<a href='/article/2017/02/taeyeon-reflects-when-i-was-young-in-highlight-teaser-8' target='_self' class='embed_on'><img id='' src='http://www.allkpop.com/upload/2017/02/af/Taeyeon_1487948513_af.jpg' style="max-width:1000px;width:200px;height:140px" alt='Taeyeon' title='Taeyeon'></a> </div>
+<div class="text">
+<h2>
+<a href='/category/Music-Releases' target='_self' class=''>Music Releases</a> </h2>
+<h1><a href='/article/2017/02/taeyeon-reflects-when-i-was-young-in-highlight-teaser-8' target='_self' class=''>Taeyeon reflects 'When I Was Young' in highlight teaser #8</a></h1>
+<p>Girls' Generation's Taeyeon&nbsp;has dropped her 8th highlight clip for 'My Voice'! This latest teaser video is for the track "When I Was Young", whic…</p>
+<div class="info">
+elliefilet&nbsp;&nbsp;
+<i class="fa fa-clock-o"></i> <span class="realtime" data-ts="1487948520">3 hours ago</span>&nbsp;&nbsp;
+<i class="fa fa-eye"></i> 11,890&nbsp;&nbsp;
+<i class="fa fa-share-square-o"></i> 2,995&nbsp;&nbsp;
+<i class="fa fa-comment-o"></i> 6
+</div>
+</div>
+</article>
+<article class="list">
+<div class="image">
+<a href='/article/2017/02/ahn-jae-hyun-looks-back-on-he-and-goo-hye-suns-time-on-newlywed-diary' target='_self' class=''><img id='' src='http://www.allkpop.com/upload/2017/02/af/goo-hye-sun-ahn-jae-hyun_1487946597_af.jpg' style="max-width:1000px;width:200px;height:140px" alt='goo-hye-sun,ahn-jae-hyun' title='goo-hye-sun,ahn-jae-hyun'></a> </div>
+<div class="text">
+<h2>
+<a href='/category/Variety' target='_self' class=''>Variety</a> </h2>
+<h1><a href='/article/2017/02/ahn-jae-hyun-looks-back-on-he-and-goo-hye-suns-time-on-newlywed-diary' target='_self' class=''>Ahn Jae Hyun looks back on his and Goo Hye Sun's time on 'Newlywed Diary'</a></h1>
+<p>Ahn Jae Hyun looked back on his and Goo Hye Sun's time on tvN's 'Newlywed Diary'.&nbsp;On the February 24th episode, Ahn Jae Hyun said of his time on …</p>
+<div class="info">
+elliefilet&nbsp;&nbsp;
+<i class="fa fa-clock-o"></i> <span class="realtime" data-ts="1487948040">3 hours ago</span>&nbsp;&nbsp;
+<i class="fa fa-eye"></i> 13,423&nbsp;&nbsp;
+<i class="fa fa-share-square-o"></i> 2,564&nbsp;&nbsp;
+<i class="fa fa-comment-o"></i> 3
+</div>
+</div>
+</article>
+<article class='default ad-space list' style='padding: 25px 0;border-bottom: 1px solid #CCC;'>
+<div id='div-gpt-ad-1456251248648-3' style='width:640px;text-align: center;'>
+<script type='text/javascript'>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1456251248648-3'); });
+            </script>
+</div></article> <article class="list">
+<div class="image">
+<a href='/article/2017/02/yenny-opens-up-about-wonder-girls-at-cross-country-press-conference' target='_self' class=''><img id='' src='http://www.allkpop.com/upload/2017/02/af/Wonder-Girls-Yenny_1487944485_af.jpg' style="max-width:1000px;width:200px;height:140px" alt='Wonder-Girls,Yenny' title='Wonder-Girls,Yenny'></a> </div>
+<div class="text">
+<h2>
+<a href='/category/General' target='_self' class=''>General</a> </h2>
+<h1><a href='/article/2017/02/yenny-opens-up-about-wonder-girls-at-cross-country-press-conference' target='_self' class=''>Yenny opens up about Wonder Girls at 'Cross Country' press conference</a></h1>
+<p>Yenny opened up about the Wonder Girls&nbsp;at the press conference for the upcoming MBCEvery1&nbsp;variety show 'Cross Country'.On featuring on the v…</p>
+<div class="info">
+elliefilet&nbsp;&nbsp;
+<i class="fa fa-clock-o"></i> <span class="realtime" data-ts="1487945921">3 hours ago</span>&nbsp;&nbsp;
+<i class="fa fa-eye"></i> 9,661&nbsp;&nbsp;
+<i class="fa fa-share-square-o"></i> 848&nbsp;&nbsp;
+<i class="fa fa-comment-o"></i> 5
+</div>
+</div>
+</article>
+<article class="list">
+<div class="image">
+<a href='/article/2017/02/irene-and-key-twin-up-for-charms-collaboration' target='_self' class='embed_on'><img id='' src='http://www.allkpop.com/upload/2017/02/af/Key-irene_1487943304_af.jpg' style="max-width:1000px;width:200px;height:140px" alt='Key' title='Key'></a> </div>
+<div class="text">
+<h2>
+<a href='/category/General' target='_self' class=''>General</a> </h2>
+<h1><a href='/article/2017/02/irene-and-key-twin-up-for-charms-collaboration' target='_self' class=''>Irene and Key twin up for 'Charm's' collaboration</a></h1>
+<p>Irene and SHINee's Key twinned up for 'Charm's'.&nbsp;The&nbsp;SM Entertainment&nbsp;idol is seen working together with model Irene for 'Charm's' coll…</p>
+<div class="info">
+elliefilet&nbsp;&nbsp;
+<i class="fa fa-clock-o"></i> <span class="realtime" data-ts="1487943840">4 hours ago</span>&nbsp;&nbsp;
+<i class="fa fa-eye"></i> 15,765&nbsp;&nbsp;
+<i class="fa fa-share-square-o"></i> 2,534&nbsp;&nbsp;
+<i class="fa fa-comment-o"></i> 14
+</div>
+</div>
+</article>
+</div>
+<div id="article-headline-right">
+<div style="float: left;width: 100%;text-align: center;">
+<section class='ad-space' style='padding: 25px 0;border-bottom: 1px solid #CCC;'>
+<div id='div-gpt-ad-1456251248648-4' style='text-align: center;'>
+<script type='text/javascript'>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1456251248648-4'); });
+            </script>
+</div></section> </div>
+<div style="width:100%;float:left">
+<article class="list" style="border: none;padding-bottom:0px;padding-top: 0.83em;">
+<nav class="" style="margin-bottom: 0;">
+<ol class="options" style="width: 100%;">
+<li class="identifier" style="font-size: 1.5em;width:96%;color:#7c7c7c!important;text-align: left;">Most Discussed <a href="http://www.allkpop.com/most_discussed" class="shop_identifier float-right" style="margin-top: 3px;">View More</a></li>
+<li class="md_today" style="font-size: 1em;margin-right: 5px;">Today<span></span></li>
+<li class="md_week" style="font-size: 1em;margin-right: 5px;">This Week<span></span></li>
+<li class="md_month" style="font-size: 1em;">This Month<span></span></li>
+</ol>
+</nav>
+</article>
+<article id="article-category-spotlight" class="md_container md_today_container" style="text-align:left;padding-top: 0px;">
+<article class="list" style="padding: 10px 0 5px 0;">
+<div class="image" style="min-height: 60px;">
+<a href='/article/2017/02/gaon-chart-issues-official-apology-regarding-bts-and-tops-stage-controversy' target='_self' class=''><img id='mdw' src='http://www.allkpop.com/upload/2017/02/af/Big-Bang-TOP-bts_1487910762_af.jpg' style="max-width:1000px;width:90px;height:60px;min-height:60px" alt='Big-Bang,TOP,bts' title='Big-Bang,TOP,bts'></a> </div>
+<div class="text">
+<h1 style="font-size: 1.1em;line-height:1.2em"><a href='/article/2017/02/gaon-chart-issues-official-apology-regarding-bts-and-tops-stage-controversy' target='_self' class=''>Gaon Chart issues official apology regarding BTS and T.O.P's stage controversy</a></h1>
+<div class="info" style="font-size: 10px;">
+<i class="fa fa-clock-o"></i> <span class="realtime" data-ts="1487911560">13 hours ago</span>&nbsp;&nbsp;
+<i class="fa fa-eye"></i> 126,416&nbsp;&nbsp;
+<i class="fa fa-share-square-o"></i> 16,845&nbsp;&nbsp;
+<i class="fa fa-comment-o"></i> 584 </div>
+</div>
+</article>
+<article class="list" style="padding: 10px 0 5px 0;">
+<div class="image" style="min-height: 60px;">
+<a href='/article/2017/02/yoo-seung-joon-loses-second-trial-forbidden-to-enter-korea' target='_self' class=''><img id='mdw' src='http://www.allkpop.com/upload/2017/02/af/yoo-seung-joon_1487883204_af.jpg' style="max-width:1000px;width:90px;height:60px;min-height:60px" alt='yoo-seung-joon' title='yoo-seung-joon'></a> </div>
+<div class="text">
+<h1 style="font-size: 1.1em;line-height:1.2em"><a href='/article/2017/02/yoo-seung-joon-loses-second-trial-forbidden-to-enter-korea' target='_self' class=''>Yoo Seung Joon loses second trial, forbidden to enter Korea</a></h1>
+<div class="info" style="font-size: 10px;">
+<i class="fa fa-clock-o"></i> <span class="realtime" data-ts="1487903409">15 hours ago</span>&nbsp;&nbsp;
+<i class="fa fa-eye"></i> 124,187&nbsp;&nbsp;
+<i class="fa fa-share-square-o"></i> 3,216&nbsp;&nbsp;
+<i class="fa fa-comment-o"></i> 152 </div>
+</div>
+</article>
+<article class="list" style="padding: 10px 0 5px 0;">
+<div class="image" style="min-height: 60px;">
+<a href='/article/2017/02/10-groups-you-didnt-know-that-are-masters-of-acapella' target='_self' class=''><img id='mdw' src='http://www.allkpop.com/upload/2017/02/af/misc_1487893643_af.jpg' style="max-width:1000px;width:90px;height:60px;min-height:60px" alt='misc' title='misc'></a> </div>
+<div class="text">
+<h1 style="font-size: 1.1em;line-height:1.2em"><a href='/article/2017/02/10-groups-you-didnt-know-that-are-masters-of-acapella' target='_self' class=''>10 Groups you didn't know that are masters of acapella</a></h1>
+<div class="info" style="font-size: 10px;">
+<i class="fa fa-clock-o"></i> <span class="realtime" data-ts="1487894218">18 hours ago</span>&nbsp;&nbsp;
+<i class="fa fa-eye"></i> 205,763&nbsp;&nbsp;
+<i class="fa fa-share-square-o"></i> 5,859&nbsp;&nbsp;
+<i class="fa fa-comment-o"></i> 138 </div>
+</div>
+</article>
+<article class="list" style="padding: 10px 0 5px 0;">
+<div class="image" style="min-height: 60px;">
+<a href='/article/2017/02/fans-of-seventeen-and-twice-demand-apology-from-choreographer-choi-for-choreography-similarities' target='_self' class=''><img id='mdw' src='http://www.allkpop.com/upload/2017/02/af/Seventeen-twice_1487904583_af.jpg' style="max-width:1000px;width:90px;height:60px;min-height:60px" alt='Seventeen,hoshi,twice' title='Seventeen,hoshi,twice'></a> </div>
+<div class="text">
+<h1 style="font-size: 1.1em;line-height:1.2em"><a href='/article/2017/02/fans-of-seventeen-and-twice-demand-apology-from-choreographer-choi-for-choreography-similarities' target='_self' class=''>Fans of Seventeen and TWICE demand apology from choreographer Choi for choreography similarities</a></h1>
+<div class="info" style="font-size: 10px;">
+<i class="fa fa-clock-o"></i> <span class="realtime" data-ts="1487918700">11 hours ago</span>&nbsp;&nbsp;
+<i class="fa fa-eye"></i> 103,840&nbsp;&nbsp;
+<i class="fa fa-share-square-o"></i> 7,037&nbsp;&nbsp;
+<i class="fa fa-comment-o"></i> 138 </div>
+</div>
+</article>
+<article class="list" style="padding: 10px 0 5px 0;">
+<div class="image" style="min-height: 60px;">
+<a href='/article/2017/02/bts-members-think-jungkook-is-too-cheap' target='_self' class=''><img id='mdw' src='http://www.allkpop.com/upload/2017/02/af/jungkook_1487864951_af.jpg' style="max-width:1000px;width:90px;height:60px;min-height:60px" alt='jungkook' title='jungkook'></a> </div>
+<div class="text">
+<h1 style="font-size: 1.1em;line-height:1.2em"><a href='/article/2017/02/bts-members-think-jungkook-is-too-cheap' target='_self' class=''>BTS members think Jungkook is too cheap? </a></h1>
+<div class="info" style="font-size: 10px;">
+<i class="fa fa-clock-o"></i> <span class="realtime" data-ts="1487879640">22 hours ago</span>&nbsp;&nbsp;
+<i class="fa fa-eye"></i> 174,873&nbsp;&nbsp;
+<i class="fa fa-share-square-o"></i> 27,573&nbsp;&nbsp;
+<i class="fa fa-comment-o"></i> 126 </div>
+</div>
+</article>
+</article>
+<article id="article-category-spotlight" class="md_container md_week_container" style="text-align:left;padding-top: 0px;">
+<article class="list" style="padding: 10px 0 5px 0;">
+<div class="image" style="min-height: 60px;">
+<a href='/article/2017/02/big-bang-fans-demand-apology-from-bts-for-copying-tops-performance' target='_self' class='embed_on'><img id='mdw' src='http://www.allkpop.com/upload/2017/02/af/Big-Bang-bts_1487781400_af.jpg' style="max-width:1000px;width:90px;height:60px;min-height:60px" alt='Big-Bang,bts' title='Big-Bang,bts'></a> </div>
+<div class="text">
+<h1 style="font-size: 1.1em;line-height:1.2em"><a href='/article/2017/02/big-bang-fans-demand-apology-from-bts-for-copying-tops-performance' target='_self' class=''>Big Bang fans demand apology from BTS for 'copying' T.O.P's performance </a></h1>
+<div class="info" style="font-size: 10px;">
+<i class="fa fa-clock-o"></i> <span class="realtime" data-ts="1487783520">2 days ago</span>&nbsp;&nbsp;
+<i class="fa fa-eye"></i> 411,082&nbsp;&nbsp;
+<i class="fa fa-share-square-o"></i> 38,415&nbsp;&nbsp;
+<i class="fa fa-comment-o"></i> 1,581 </div>
+</div>
+</article>
+<article class="list" style="padding: 10px 0 5px 0;">
+<div class="image" style="min-height: 60px;">
+<a href='/article/2017/02/-big-hit-entertainment-website-gets-hacked-bts-mv-replaced-by-twices-knock-knock' target='_self' class=''><img id='mdw' src='http://www.allkpop.com/upload/2017/02/af/bts-twice_1487705687_af.jpg' style="max-width:1000px;width:90px;height:60px;min-height:60px" alt='bts,twice' title='bts,twice'></a> </div>
+<div class="text">
+<h1 style="font-size: 1.1em;line-height:1.2em"><a href='/article/2017/02/-big-hit-entertainment-website-gets-hacked-bts-mv-replaced-by-twices-knock-knock' target='_self' class=''> Big Hit Entertainment website gets hacked, BTS MV replaced by TWICE's 'Knock Knock'</a></h1>
+<div class="info" style="font-size: 10px;">
+<i class="fa fa-clock-o"></i> <span class="realtime" data-ts="1487706240">3 days ago</span>&nbsp;&nbsp;
+<i class="fa fa-eye"></i> 438,202&nbsp;&nbsp;
+<i class="fa fa-share-square-o"></i> 44,566&nbsp;&nbsp;
+<i class="fa fa-comment-o"></i> 1,127 </div>
+</div>
+</article>
+<article class="list" style="padding: 10px 0 5px 0;">
+<div class="image" style="min-height: 60px;">
+<a href='/article/2017/02/alleged-yg-live-performance-producer-is-unhappy-about-the-bts-copying-controversy' target='_self' class=''><img id='mdw' src='http://www.allkpop.com/upload/2017/02/af/Big-Bang-TOP-bts_1487825256_af.jpg' style="max-width:1000px;width:90px;height:60px;min-height:60px" alt='Big-Bang,TOP,bts' title='Big-Bang,TOP,bts'></a> </div>
+<div class="text">
+<h1 style="font-size: 1.1em;line-height:1.2em"><a href='/article/2017/02/alleged-yg-live-performance-producer-is-unhappy-about-the-bts-copying-controversy' target='_self' class=''>Alleged YG live performance producer is unhappy about the BTS 'copying' controversy</a></h1>
+<div class="info" style="font-size: 10px;">
+<i class="fa fa-clock-o"></i> <span class="realtime" data-ts="1487827800">2 days ago</span>&nbsp;&nbsp;
+<i class="fa fa-eye"></i> 189,584&nbsp;&nbsp;
+<i class="fa fa-share-square-o"></i> 15,406&nbsp;&nbsp;
+<i class="fa fa-comment-o"></i> 973 </div>
+</div>
+</article>
+<article class="list" style="padding: 10px 0 5px 0;">
+<div class="image" style="min-height: 60px;">
+<a href='/article/2017/02/twices-knock-knock-holds-24-hour-view-record-for-only-a-few-minutes-as-bts-sets-new-youtube-record' target='_self' class=''><img id='mdw' src='http://www.allkpop.com/upload/2017/02/af/bts-twice_1487605434_af.jpg' style="max-width:1000px;width:90px;height:60px;min-height:60px" alt='bts,twice' title='bts,twice'></a> </div>
+<div class="text">
+<h1 style="font-size: 1.1em;line-height:1.2em"><a href='/article/2017/02/twices-knock-knock-holds-24-hour-view-record-for-only-a-few-minutes-as-bts-sets-new-youtube-record' target='_self' class=''>TWICE's 'Knock Knock' holds 24-hour view record for only a few minutes as BTS sets new YouTube record</a></h1>
+<div class="info" style="font-size: 10px;">
+<i class="fa fa-clock-o"></i> <span class="realtime" data-ts="1487605440">4 days ago</span>&nbsp;&nbsp;
+<i class="fa fa-eye"></i> 301,799&nbsp;&nbsp;
+<i class="fa fa-share-square-o"></i> 36,373&nbsp;&nbsp;
+<i class="fa fa-comment-o"></i> 698 </div>
+</div>
+</article>
+<article class="list" style="padding: 10px 0 5px 0;">
+<div class="image" style="min-height: 60px;">
+<a href='/article/2017/02/big-hit-ent-makes-official-statement-on-bts-big-bangs-top-copying-controversy' target='_self' class=''><img id='mdw' src='http://www.allkpop.com/upload/2017/02/af/Big-Bang-bts_1487849627_af.jpg' style="max-width:1000px;width:90px;height:60px;min-height:60px" alt='Big-Bang,TOP,bts' title='Big-Bang,TOP,bts'></a> </div>
+<div class="text">
+<h1 style="font-size: 1.1em;line-height:1.2em"><a href='/article/2017/02/big-hit-ent-makes-official-statement-on-bts-big-bangs-top-copying-controversy' target='_self' class=''>Big Hit Ent. makes official statement on BTS & Big Bang's T.O.P 'copying' controversy</a></h1>
+<div class="info" style="font-size: 10px;">
+<i class="fa fa-clock-o"></i> <span class="realtime" data-ts="1487851740">1 day ago</span>&nbsp;&nbsp;
+<i class="fa fa-eye"></i> 256,914&nbsp;&nbsp;
+<i class="fa fa-share-square-o"></i> 15,946&nbsp;&nbsp;
+<i class="fa fa-comment-o"></i> 671 </div>
+</div>
+</article>
+</article>
+<article id="article-category-spotlight" class="md_container md_month_container" style="text-align:left;padding-top: 0px;">
+<article class="list" style="padding: 10px 0 5px 0;">
+<div class="image" style="min-height: 60px;">
+<a href='/article/2017/02/big-bang-fans-demand-apology-from-bts-for-copying-tops-performance' target='_self' class='embed_on'><img id='mdw' src='http://www.allkpop.com/upload/2017/02/af/Big-Bang-bts_1487781400_af.jpg' style="max-width:1000px;width:90px;height:60px;min-height:60px" alt='Big-Bang,bts' title='Big-Bang,bts'></a> </div>
+<div class="text">
+<h1 style="font-size: 1.1em;line-height:1.2em"><a href='/article/2017/02/big-bang-fans-demand-apology-from-bts-for-copying-tops-performance' target='_self' class=''>Big Bang fans demand apology from BTS for 'copying' T.O.P's performance </a></h1>
+<div class="info" style="font-size: 10px;">
+<i class="fa fa-clock-o"></i> <span class="realtime" data-ts="1487783520">2 days ago</span>&nbsp;&nbsp;
+<i class="fa fa-eye"></i> 411,082&nbsp;&nbsp;
+<i class="fa fa-share-square-o"></i> 38,415&nbsp;&nbsp;
+<i class="fa fa-comment-o"></i> 1,581 </div>
+</div>
+</article>
+<article class="list" style="padding: 10px 0 5px 0;">
+<div class="image" style="min-height: 60px;">
+<a href='/article/2017/02/-big-hit-entertainment-website-gets-hacked-bts-mv-replaced-by-twices-knock-knock' target='_self' class=''><img id='mdw' src='http://www.allkpop.com/upload/2017/02/af/bts-twice_1487705687_af.jpg' style="max-width:1000px;width:90px;height:60px;min-height:60px" alt='bts,twice' title='bts,twice'></a> </div>
+<div class="text">
+<h1 style="font-size: 1.1em;line-height:1.2em"><a href='/article/2017/02/-big-hit-entertainment-website-gets-hacked-bts-mv-replaced-by-twices-knock-knock' target='_self' class=''> Big Hit Entertainment website gets hacked, BTS MV replaced by TWICE's 'Knock Knock'</a></h1>
+<div class="info" style="font-size: 10px;">
+<i class="fa fa-clock-o"></i> <span class="realtime" data-ts="1487706240">3 days ago</span>&nbsp;&nbsp;
+<i class="fa fa-eye"></i> 438,202&nbsp;&nbsp;
+<i class="fa fa-share-square-o"></i> 44,566&nbsp;&nbsp;
+<i class="fa fa-comment-o"></i> 1,127 </div>
+</div>
+</article>
+<article class="list" style="padding: 10px 0 5px 0;">
+<div class="image" style="min-height: 60px;">
+<a href='/article/2017/01/giveaway-win-an-autographed-edition-of-tablos-book-blonote' target='_self' class=''><img id='mdw' src='http://www.allkpop.com/upload/2017/01/af/tablo_1485191302_af.jpg' style="max-width:1000px;width:90px;height:60px;min-height:60px" alt='tablo' title='tablo'></a> </div>
+<div class="text">
+<h1 style="font-size: 1.1em;line-height:1.2em"><a href='/article/2017/01/giveaway-win-an-autographed-edition-of-tablos-book-blonote' target='_self' class=''>[GIVEAWAY] Win an autographed edition of Tablo's book 'Blonote'</a></h1>
+<div class="info" style="font-size: 10px;">
+<i class="fa fa-clock-o"></i> <span class="realtime" data-ts="1485925140">24 days ago</span>&nbsp;&nbsp;
+<i class="fa fa-eye"></i> 54,643&nbsp;&nbsp;
+<i class="fa fa-share-square-o"></i> 6,724&nbsp;&nbsp;
+<i class="fa fa-comment-o"></i> 1,090 </div>
+</div>
+</article>
+<article class="list" style="padding: 10px 0 5px 0;">
+<div class="image" style="min-height: 60px;">
+<a href='/article/2017/01/kbs-news-anchor-apologizes-for-saying-bts-is-beating-exo-in-popularity' target='_self' class=''><img id='mdw' src='http://www.allkpop.com/upload/2017/01/af/EXO-bts_1485565603_af.jpg' style="max-width:1000px;width:90px;height:60px;min-height:60px" alt='EXO,bts' title='EXO,bts'></a> </div>
+<div class="text">
+<h1 style="font-size: 1.1em;line-height:1.2em"><a href='/article/2017/01/kbs-news-anchor-apologizes-for-saying-bts-is-beating-exo-in-popularity' target='_self' class=''>KBS news anchor apologizes for saying BTS is beating EXO in popularity</a></h1>
+<div class="info" style="font-size: 10px;">
+<i class="fa fa-clock-o"></i> <span class="realtime" data-ts="1485570000">28 days ago</span>&nbsp;&nbsp;
+<i class="fa fa-eye"></i> 216,756&nbsp;&nbsp;
+<i class="fa fa-share-square-o"></i> 31,169&nbsp;&nbsp;
+<i class="fa fa-comment-o"></i> 993 </div>
+</div>
+</article>
+<article class="list" style="padding: 10px 0 5px 0;">
+<div class="image" style="min-height: 60px;">
+<a href='/article/2017/02/alleged-yg-live-performance-producer-is-unhappy-about-the-bts-copying-controversy' target='_self' class=''><img id='mdw' src='http://www.allkpop.com/upload/2017/02/af/Big-Bang-TOP-bts_1487825256_af.jpg' style="max-width:1000px;width:90px;height:60px;min-height:60px" alt='Big-Bang,TOP,bts' title='Big-Bang,TOP,bts'></a> </div>
+<div class="text">
+<h1 style="font-size: 1.1em;line-height:1.2em"><a href='/article/2017/02/alleged-yg-live-performance-producer-is-unhappy-about-the-bts-copying-controversy' target='_self' class=''>Alleged YG live performance producer is unhappy about the BTS 'copying' controversy</a></h1>
+<div class="info" style="font-size: 10px;">
+<i class="fa fa-clock-o"></i> <span class="realtime" data-ts="1487827800">2 days ago</span>&nbsp;&nbsp;
+<i class="fa fa-eye"></i> 189,584&nbsp;&nbsp;
+<i class="fa fa-share-square-o"></i> 15,406&nbsp;&nbsp;
+<i class="fa fa-comment-o"></i> 973 </div>
+</div>
+</article>
+</article>
+</div>
+<script data-cfasync="false">
+function get_most_discussed(mode,ismobile){
+    /*var md_list='';
+    $.post("/plugin/view/view_ok.php",{mode:mode,ad_flag:"home",user_country:"US",img_switch:"1"},function(data){
+        for(var i=0;i<data.length;i++){
+            md_list+='<article class="list" style="padding: 10px 0 5px 0;">';
+                md_list+='<div class="image" style="min-height: 60px;">';
+                md_list+=data[i]['img'];
+                md_list+='</div>';
+                md_list+='<div class="text">';
+                if(ismobile=="0"){
+                    md_list+='<h1 style="font-size: 1.1em;line-height:1.2em">'+data[i]['title']+'</h1>';
+                }else{
+                    md_list+='<h1 style="font-size: 16px;line-height:19px">'+data[i]['title']+'</h1>';
+                }
+                    md_list+='<div class="info" style="font-size: 10px;">';
+                        md_list+='<i class="fa fa-clock-o"></i> <span class="realtime" data-ts="'+data[i]['search_ts']+'">'+data[i]['human_time']+'</span>&nbsp;&nbsp;';
+                        md_list+='<i class="fa fa-eye"></i> '+data[i]['hit']+'&nbsp;&nbsp;';
+                        md_list+='<i class="fa fa-share-square-o"></i> '+data[i]['social_share']+'&nbsp;&nbsp;';
+                        md_list+='<i class="fa fa-comment-o"></i> '+data[i]['comment_count'];
+                    md_list+='</div>';
+                md_list+='</div>';
+            md_list+='</article>';
+        }
+        $('.'+mode).html(md_list);
+        md_list='';
+    },"json");*/
+}
+$(document).ready(function(){var ismobile='0',md_flag='';if(md_flag=="today"||md_flag==""){$('.md_today').addClass("focus");get_most_discussed('md_today_container',ismobile);$('.md_today_container').show();}$('.md_today').on('click',function(){$('.md_container').hide();$('.md_week').removeClass("focus");$('.md_month').removeClass("focus");$('.md_today').addClass("focus");if(!$.trim($('.md_today_container').html())){get_most_discussed('md_today_container',ismobile);}$('.md_today_container').show();});$('.md_week').on('click',function(){$('.md_container').hide();$('.md_today').removeClass("focus");$('.md_month').removeClass("focus");$('.md_week').addClass("focus");if(!$.trim($('.md_week_container').html())){get_most_discussed('md_week_container',ismobile);}$('.md_week_container').show();});$('.md_month').on('click',function(){$('.md_container').hide();$('.md_today').removeClass("focus");$('.md_week').removeClass("focus");$('.md_month').addClass("focus");if(!$.trim($('.md_month_container').html())){get_most_discussed('md_month_container',ismobile);}$('.md_month_container').show();});});
+</script> <div style="float: left;width: 100%;text-align: center;">
+<h2 style="margin-bottom:0;">CONNECT WITH ALLKPOP</h2><ol id="article-headline-social-list" style="width: 100%;margin-top: 0px;border-bottom: 1px solid #ccc;padding:25px 0;"><li class="facebook" style="width: 100%;padding:0px;"><a href="https://www.facebook.com/allkpop" target="_blank">Like us on Facebook</a></li><li class="twitter" style="width: 100%;padding:0px;"><a href="https://twitter.com/allkpop" target="_blank">Follow us on Twitter</a></li><li class="instagram" style="width: 100%;padding:0px;"><a href="https://www.instagram.com/allkpop/" target="_blank">Follow us on Instagram</a></li><li class="youtube" style="width: 100%;padding:0px;"><a href="https://www.youtube.com/user/allkpop" target="_blank">Subscribe on Youtube</a></li><li class="googleplus" style="width: 100%;padding:0px;"><a href="https://plus.google.com/+allkpop/posts" target="_blank">Follow us on Google+</a></li></ol>
+</div>
+<style>.rgrid-6{display:inline-block;vertical-align:top;}#article-category-spotlight{text-align:center;}#article-category-spotlight .rgrid-6.spaced{width:47.7%!important;}#article-category-spotlight .rgrid-6.spaced img{display:block;width:100%;height:auto;}@media (max-width: 460px) {#article-category-spotlight .rgrid-6.spaced{width:47%!important;}}</style>
+<div style="float: left;margin-top:1px;">
+<article class="list" style="border: none;padding-top: 0.83em;margin-bottom: -35px;">
+<nav class="dual-spacing" style="margin-top: 0;">
+<ol class="options">
+<li class="identifier" style="font-size: 20px;width:96%;color:#7c7c7c!important;text-align: left;">Popular Memes <a href="/meme" class="shop_identifier float-right" style="margin-top: 3px;">View More</a></li>
+<li class="today" style="font-size: 14px;margin-right: 5px;">Today<span></span></li>
+<li class="week" style="font-size: 14px;margin-right: 5px;">This Week<span></span></li>
+<li class="month" style="font-size: 14px;">This Month<span></span></li>
+</ol>
+</nav>
+</article>
+<article id="article-category-spotlight" class="container today_container meme_containers" style="padding-top: 0px;">
+<ul class="today_meme_scr" style="list-style: none;margin:0;padding:0;">
+<div class="rgrid-6 spaced">
+<a href="/meme_view/olt18p" style="display:inline-block;" data-width="800" data-height="800" data-max-width="140" data-ratio="140">
+<li class="meme_li" style="margin:0;width:140px;height:140px;padding:0px;border:solid 1px #b0b9ba;background:url('//www.allkpop.com/meme/generate/2017/02/olt18p.jpg') no-repeat center center;background-size:140px"></li>
+</a>
+</div>
+<div class="rgrid-6 spaced">
+<a href="/meme_view/olt69c" style="display:inline-block;" data-width="800" data-height="376" data-max-width="140" data-ratio="297">
+<li class="meme_li" style="margin:0;width:140px;height:140px;padding:0px;border:solid 1px #b0b9ba;background:url('//www.allkpop.com/meme/generate/2017/02/olt69c.png') no-repeat center center;background-size:297px"></li>
+</a>
+</div>
+<div class="rgrid-6 spaced">
+<a href="/meme_view/olsvuh" style="display:inline-block;" data-width="800" data-height="629" data-max-width="140" data-ratio="178">
+<li class="meme_li" style="margin:0;width:140px;height:140px;padding:0px;border:solid 1px #b0b9ba;background:url('//www.allkpop.com/meme/generate/2017/02/olsvuh.png') no-repeat center center;background-size:178px"></li>
+</a>
+</div>
+<div class="rgrid-6 spaced">
+<a href="/meme_view/olsty0" style="display:inline-block;" data-width="539" data-height="359" data-max-width="140" data-ratio="210">
+<li class="meme_li" style="margin:0;width:140px;height:140px;padding:0px;border:solid 1px #b0b9ba;background:url('//www.allkpop.com/meme/generate/2017/02/olsty0.jpg') no-repeat center center;background-size:210px"></li>
+</a>
+</div>
+<div class="rgrid-6 spaced">
+<a href="/meme_view/olseb7" style="display:inline-block;" data-width="800" data-height="800" data-max-width="140" data-ratio="140">
+<li class="meme_li" style="margin:0;width:140px;height:140px;padding:0px;border:solid 1px #b0b9ba;background:url('//www.allkpop.com/meme/generate/2017/02/olseb7.jpg') no-repeat center center;background-size:140px"></li>
+</a>
+</div>
+<div class="rgrid-6 spaced">
+<a href="/meme_view/olu73o" style="display:inline-block;" data-width="800" data-height="405" data-max-width="140" data-ratio="276">
+<li class="meme_li" style="margin:0;width:140px;height:140px;padding:0px;border:solid 1px #b0b9ba;background:url('//www.allkpop.com/meme/generate/2017/02/olu73o.jpg') no-repeat center center;background-size:276px"></li>
+</a>
+</div>
+</ul>
+</article>
+<article id="article-category-spotlight" class="container week_container meme_containers" style="padding-top: 0px;">
+<ul class="week_meme_scr" style="list-style: none;margin:0;padding:0;">
+<div class="rgrid-6 spaced">
+<a href="/meme_view/olmxuk" style="display:inline-block;" data-width="800" data-height="340" data-max-width="140" data-ratio="329">
+<li class="meme_li" style="margin:0;width:140px;height:140px;padding:0px;border:solid 1px #b0b9ba;background:url('//www.allkpop.com/meme/generate/2017/02/olmxuk.jpg') no-repeat center center;background-size:329px"></li>
+</a>
+</div>
+<div class="rgrid-6 spaced">
+<a href="/meme_view/oljyfz" style="display:inline-block;" data-width="800" data-height="800" data-max-width="140" data-ratio="140">
+<li class="meme_li" style="margin:0;width:140px;height:140px;padding:0px;border:solid 1px #b0b9ba;background:url('//www.allkpop.com/meme/generate/2017/02/oljyfz.jpg') no-repeat center center;background-size:140px"></li>
+</a>
+</div>
+<div class="rgrid-6 spaced">
+<a href="/meme_view/olknsj" style="display:inline-block;" data-width="800" data-height="444" data-max-width="140" data-ratio="252">
+<li class="meme_li" style="margin:0;width:140px;height:140px;padding:0px;border:solid 1px #b0b9ba;background:url('//www.allkpop.com/meme/generate/2017/02/olknsj.jpg') no-repeat center center;background-size:252px"></li>
+</a>
+</div>
+<div class="rgrid-6 spaced">
+<a href="/meme_view/olqmzv" style="display:inline-block;" data-width="800" data-height="392" data-max-width="140" data-ratio="285">
+<li class="meme_li" style="margin:0;width:140px;height:140px;padding:0px;border:solid 1px #b0b9ba;background:url('//www.allkpop.com/meme/generate/2017/02/olqmzv.jpg') no-repeat center center;background-size:285px"></li>
+</a>
+</div>
+<div class="rgrid-6 spaced">
+<a href="/meme_view/olra6t" style="display:inline-block;" data-width="800" data-height="800" data-max-width="140" data-ratio="140">
+<li class="meme_li" style="margin:0;width:140px;height:140px;padding:0px;border:solid 1px #b0b9ba;background:url('//www.allkpop.com/meme/generate/2017/02/olra6t.jpg') no-repeat center center;background-size:140px"></li>
+</a>
+</div>
+<div class="rgrid-6 spaced">
+<a href="/meme_view/olpky9" style="display:inline-block;" data-width="800" data-height="800" data-max-width="140" data-ratio="140">
+<li class="meme_li" style="margin:0;width:140px;height:140px;padding:0px;border:solid 1px #b0b9ba;background:url('//www.allkpop.com/meme/generate/2017/02/olpky9.jpg') no-repeat center center;background-size:140px"></li>
+</a>
+</div>
+</ul>
+</article>
+<article id="article-category-spotlight" class="container month_container meme_containers" style="padding-top: 0px;">
+<ul class="month_meme_scr" style="list-style: none;margin:0;padding:0;">
+<div class="rgrid-6 spaced">
+<a href="/meme_view/oknojy" style="display:inline-block;" data-width="800" data-height="809" data-max-width="140" data-ratio="140">
+<li class="meme_li" style="margin:0;width:140px;height:140px;padding:0px;border:solid 1px #b0b9ba;background:url('//www.allkpop.com/meme/generate/2017/01/oknojy.jpg') no-repeat center center;background-size:140px"></li>
+</a>
+</div>
+<div class="rgrid-6 spaced">
+<a href="/meme_view/okd2g0" style="display:inline-block;" data-width="734" data-height="373" data-max-width="140" data-ratio="275">
+<li class="meme_li" style="margin:0;width:140px;height:140px;padding:0px;border:solid 1px #b0b9ba;background:url('//www.allkpop.com/meme/generate/2017/01/okd2g0.png') no-repeat center center;background-size:275px"></li>
+</a>
+</div>
+<div class="rgrid-6 spaced">
+<a href="/meme_view/olhsxx" style="display:inline-block;" data-width="800" data-height="800" data-max-width="140" data-ratio="140">
+<li class="meme_li" style="margin:0;width:140px;height:140px;padding:0px;border:solid 1px #b0b9ba;background:url('//www.allkpop.com/meme/generate/2017/02/olhsxx.jpg') no-repeat center center;background-size:140px"></li>
+</a>
+</div>
+<div class="rgrid-6 spaced">
+<a href="/meme_view/okohae" style="display:inline-block;" data-width="640" data-height="640" data-max-width="140" data-ratio="140">
+<li class="meme_li" style="margin:0;width:140px;height:140px;padding:0px;border:solid 1px #b0b9ba;background:url('//www.allkpop.com/meme/generate/2017/01/okohae.jpg') no-repeat center center;background-size:140px"></li>
+</a>
+</div>
+<div class="rgrid-6 spaced">
+<a href="/meme_view/olfrhy" style="display:inline-block;" data-width="800" data-height="450" data-max-width="140" data-ratio="248">
+<li class="meme_li" style="margin:0;width:140px;height:140px;padding:0px;border:solid 1px #b0b9ba;background:url('//www.allkpop.com/meme/generate/2017/02/olfrhy.jpg') no-repeat center center;background-size:248px"></li>
+</a>
+</div>
+<div class="rgrid-6 spaced">
+<a href="/meme_view/okojna" style="display:inline-block;" data-width="800" data-height="800" data-max-width="140" data-ratio="140">
+<li class="meme_li" style="margin:0;width:140px;height:140px;padding:0px;border:solid 1px #b0b9ba;background:url('//www.allkpop.com/meme/generate/2017/02/okojna.jpg') no-repeat center center;background-size:140px"></li>
+</a>
+</div>
+</ul>
+</article>
+</div>
+ 
+<script>
+function get_popular_meme(mode){
+    /*var rpm_list='';
+    $.post("/meme/response.php",{mode:mode},function(data){
+        for(var i=0;i<data['meme_permalink'].length;i++){
+            rpm_list+='<div class="rgrid-6 spaced">';
+    			rpm_list+='<a href="'+data['meme_permalink'][i]+'" style="display:inline-block;" data-width="'+data['meme_w'][i]+'" data-height="'+data['meme_h'][i]+'" data-max-width="'+data['meme_max_width'][i]+'" data-ratio="'+data['meme_ratio'][i]+'">';
+    				rpm_list+='<li class="meme_li" style="margin:0;width:'+data['meme_max_width'][i]+'px;height:'+data['meme_max_width'][i]+'px;padding:0px;border:solid 1px #b0b9ba;background:url(\'//www.allkpop.com/'+data['meme_img'][i]+'\') no-repeat center center;background-size:'+data['meme_ratio'][i]+'px"></li>';
+                rpm_list+='</a>';
+    		rpm_list+='</div>';
+        }
+        $('.'+mode).html(rpm_list);
+        rpm_list='';
+    },"json");*/
+}
+$(document).ready(function(){var popular_meme_flag='';if(popular_meme_flag=="today"||popular_meme_flag==""){$('.today').addClass("focus");get_popular_meme('today_meme_scr');$('.today_container').show();}$('.today').on('click',function(){$('.meme_containers').hide();$('.week').removeClass("focus");$('.month').removeClass("focus");$('.today').addClass("focus");if(!$.trim($('.today_meme_scr').html())){get_popular_meme('today_meme_scr');}$('.today_container').show();});$('.week').on('click',function(){$('.meme_containers').hide();$('.today').removeClass("focus");$('.month').removeClass("focus");$('.week').addClass("focus");if(!$.trim($('.week_meme_scr').html())){get_popular_meme('week_meme_scr');}$('.week_container').show();});$('.month').on('click',function(){$('.meme_containers').hide();$('.today').removeClass("focus");$('.week').removeClass("focus");$('.month').addClass("focus");if(!$.trim($('.month_meme_scr').html())){get_popular_meme('month_meme_scr');}$('.month_container').show();});});
+</script>
+<style>.forum_widget_src{float:left;width:100%;text-align:center;padding:25px 0;border-bottom:1px solid #ccc;}.forum_widget_src h2{margin:0px;padding:10px 0 8px 5px;border-bottom:1px solid #fff;text-align:left;background-color:#000;}.forum_widget_src h2 a{color:#fff;font-size:15px;text-decoration:none;}.forum_widget_src h2 a:hover{color:#ccc;}.forum_widget{width:100%;margin:0 0 9px 0!important;padding-top:3px!important;border-bottom:1px solid #fff;background-color:#000;}.forum_widget li{width:90%;text-align:left!important;line-height:40px!important;margin:0!important;border-bottom:1px dotted #e6413f;}.forum_widget li:last-child{border-bottom:none;}.forum_widget li a{font-family:Montserrat,sans-serif;font-size:1em;}.forum_widget li a:hover{color:#ccc!important;}#article-headline-social-list li a{text-decoration:none;color:#FFF;cursor:pointer;}#article-headline-social-list li{display:block;float:left;margin:0 5px 5px 0;text-align:center;line-height:30px;color:#FFF;padding:0 15px;}#article-headline-social-list{margin:30px 0 0 0;padding:0;float:right;}</style>
+<div class="forum_widget_src">
+<h2><a href="http://www.allkpop.com/forum" target="_blank">Discussions from allkpop Forums...</a></h2>
+<ol id="article-headline-social-list" class="forum_widget" style="">
+<li style="padding:0 15px!important;width:90%!important;"><a href="http://www.allkpop.com/forum/threads/bts-twice-twice-knock-knock-surpassed-bts-not-today-views.57783/" title="[BTS & TWICE] TWICE KNOCK KNOCK SURPASSED BTS NOT TODAY VIEWS" target="_blank" style="font-size:12px">[BTS & TWICE] TWICE KNOCK KNOC…</a></li>
+<li style="padding:0 15px!important;width:90%!important;"><a href="http://www.allkpop.com/forum/threads/around-us-ent-announces-new-group-name-for-former-b2st.57735/" title="Around Us Ent announces new group name for former B2ST!" target="_blank" style="font-size:12px">Around Us Ent announces new gr…</a></li>
+<li style="padding:0 15px!important;width:90%!important;"><a href="http://www.allkpop.com/forum/threads/nb-b2st-officially-changes-name-to-highlight.57782/" title="[NB] B2ST officially changes name to 'Highlight'" target="_blank" style="font-size:12px">[NB] B2ST officially changes n…</a></li>
+<li style="padding:0 15px!important;width:90%!important;"><a href="http://www.allkpop.com/forum/threads/b-a-p-rose-6th-single-album-comeback-24-2-17-b-cut-individual-group-photos-revealed.55881/" title="B.A.P - ROSE (6th Single Album) Comeback - [24.2.17] B-CUT INDIVIDUAL & GROUP Photos Revealed" target="_blank" style="font-size:12px">B.A.P - ROSE (6th Single Album…</a></li>
+</ol>
+<div style="padding:5px 0;background-color: #000;"><a href="http://www.allkpop.com/forum" target="_blank"><img src="http://www.allkpop.com/plugin/forum_widget/img/logo-akp-forums.png" style="width: 150px;"></a></div>
+</div>
+ 
+<div style="float: left;width: 100%;text-align: center;">
+<h2 style="margin-bottom:0;">BRAND PARTNERS</h2>
+<ol id="article-headline-social-list" style="width: 100%;margin-top: 0px;border-bottom: 1px solid #ccc;padding:25px 0;">
+<li style="width: 100%;padding:0;line-height:10px;"><a href="http://www.allkpop.com/officialpage/vlive"><img src="http://www.allkpop.com/imgs/external/brand_partners/Vfriends.gif"></a></li>
+ 
+ 
+<li style="width: 100%;padding:0;line-height:10px;"><a href="http://bit.ly/2aJZuoj" target="_blank"><img src="http://www.allkpop.com/imgs/external/brand_partners/asiana.gif"></a></li>
+ 
+<li style="width: 100%;padding:0;line-height:10px;"><a href="http://www.allkpop.com/officialpage/onstagek" target="_blank"><img src="http://www.allkpop.com/imgs/external/brand_partners/onstageK.gif"></a></li>
+</ol>
+</div>
+<div style="float: left;width: 100%;text-align: center;border-bottom: 1px solid #ccc;padding:25px 0;">
+<script type="text/javascript" src="//ap.lijit.com/www/delivery/fpi.js?z=369316&u=6Theory&width=300&height=250"></script>
+</div><div id="shop_widget_right" style="float:left;text-align:center;">
+<article class="list" style="border: none;padding-bottom:0px;">
+<nav class="" style="margin-bottom: 0;">
+<ol class="options" style="width: 100%;">
+<li class="identifier" style="width:60%;float:left;text-align: left;margin-right:0px;color:#7c7c7c!important;font-size:20px">From the Shop</li>
+<li class="shop_identifier" style=""><a href="https://shop.allkpop.com" target="_blank" class="float-right">Shop More</a></li>
+</ol>
+</nav>
+</article>
+<article class="container" style="border:none;display:table;border-collapse: separate;border-spacing: 10px;padding-top:0;padding-bottom:0;">
+<div id="home-shopnow-spotlight" class="grid-4 shop_widget1" style="width: 48%;display:table-cell">
+<div class="shop-img">
+<a href='https://shop.allkpop.com/collections/newest-products/products/walk-alone-tee' target='_blank' class=''><img id='shop_widget_org' src='http://www.allkpop.com/plugin/shop_widget/upload/theshop_widget_1487948190_walk_alone_black.jpg' style="max-width:1000px;width:100%;" alt='walk' title='walk'></a> <a href='https://shop.allkpop.com/collections/newest-products/products/walk-alone-tee' target='_blank' class=''><img id='shop_widget_overlay' src='http://www.allkpop.com/plugin/shop_widget/upload/theshop_widget_1487948192_walk_alone_black_Mtee.jpg' style="display:none;" alt='walk' title='walk'></a> </div>
+<div class="shop-top-banner">walk</div>
+<div class="shop-bottom-banner">$18</div>
+</div>
+<div id="home-shopnow-spotlight" class="grid-4 shop_widget2" style="width: 48%;display:table-cell">
+<div class="shop-img">
+<a href='https://shop.allkpop.com/products/knock-tee' target='_blank' class=''><img id='shop_widget_org' src='http://www.allkpop.com/plugin/shop_widget/upload/theshop_widget_1487948222_knock_knock_white_Mtee.jpg' style="max-width:1000px;width:100%;" alt='knockknock' title='knockknock'></a> <a href='https://shop.allkpop.com/products/knock-tee' target='_blank' class=''><img id='shop_widget_overlay' src='http://www.allkpop.com/plugin/shop_widget/upload/theshop_widget_1487948224_knock_knock_black_Mtee.jpg' style="display:none;" alt='knockknock' title='knockknock'></a> </div>
+<div class="shop-top-banner">knockknock</div>
+<div class="shop-bottom-banner">$18</div>
+</div>
+</article>
+<article class="container" style="display:table;border-collapse: separate;border-spacing: 10px;padding-top:0;">
+<div id="home-shopnow-spotlight" class="grid-4 shop_widget3" style="width: 48%;display:table-cell">
+<div class="shop-img">
+<a href='https://shop.allkpop.com/products/finger-heart-case' target='_blank' class=''><img id='shop_widget_org' src='http://www.allkpop.com/plugin/shop_widget/upload/theshop_widget_1487948245_finger_heart_phone_case_cherrypink.jpg' style="max-width:1000px;width:100%;" alt='finger ' title='finger '></a> <a href='https://shop.allkpop.com/products/finger-heart-case' target='_blank' class=''><img id='shop_widget_overlay' src='http://www.allkpop.com/plugin/shop_widget/upload/theshop_widget_1487948249_finger_heart_phone_case_vintage_purple.jpg' style="display:none;" alt='finger ' title='finger '></a> </div>
+<div class="shop-top-banner">finger </div>
+<div class="shop-bottom-banner">$15</div>
+</div>
+<div id="home-shopnow-spotlight" class="grid-4 shop_widget4" style="width: 48%;display:table-cell">
+<div class="shop-img">
+<a href='https://shop.allkpop.com/products/seoul-flag-tee' target='_blank' class=''><img id='shop_widget_org' src='http://www.allkpop.com/plugin/shop_widget/upload/theshop_widget_1487948311_seoul4.jpg' style="max-width:1000px;width:100%;" alt='seoul' title='seoul'></a> <a href='https://shop.allkpop.com/products/seoul-flag-tee' target='_blank' class=''><img id='shop_widget_overlay' src='http://www.allkpop.com/plugin/shop_widget/upload/theshop_widget_1487948313_seoul3.jpg' style="display:none;" alt='seoul' title='seoul'></a> </div>
+<div class="shop-top-banner">seoul</div>
+<div class="shop-bottom-banner">$18</div>
+</div>
+</article>
+</div>
+<script>
+    $(document).ready(function(){
+        /*$.post("/plugin/shop_widget/shop_widget_ok.php",{mode:"shop_widget_right"},function(data){
+            var cnt=1;
+            for(var i=0;i<data.length;i++){
+                $('.shop_widget'+cnt+' .shop-img').html(data[i]['img'+cnt]+data[i]['img'+cnt+'_overlay']);
+                $('.shop_widget'+cnt+' .shop-top-banner').html(data[i]['title'+cnt]);
+                $('.shop_widget'+cnt+' .shop-bottom-banner').html('$'+data[i]['price'+cnt]);cnt++;
+            }
+        },"json");*/
+        $('.container').on('mouseover','#shop_widget_org',function(){$(this).css({'display':'none'});$(this).parent().parent().find('#shop_widget_overlay').css({'display':'block'});});$('.container').on('mouseleave','#shop_widget_overlay',function(){$(this).css({'display':'none'});$(this).parent().parent().find('#shop_widget_org').css({'display':'block'});});});</script>
+<style>@media(max-width: 1200px) {#shop_widget_right{position:static!important;top:auto!important}}</style>
+<script>
+function fixDiv() {
+    if ($(window).scrollTop() > $("#shop_widget_right").data("top")) {
+        if($("#article-video").hasClass('scroll_video')){
+            $("#shop_widget_right").css({'position': 'fixed', 'top': '219px', 'max-width': '300px','z-index':'99','-webkit-transform':'translate3d(0,0,0);'});    
+        }else{
+            $("#shop_widget_right").css({'position': 'fixed', 'top': '50px', 'max-width': '300px','z-index':'99','-webkit-transform':'translate3d(0,0,0);'});
+        }
+    }else{
+        $("#shop_widget_right").css({'position': 'static', 'top': 'auto'});
+    }
+}
+$("#shop_widget_right").data("top", $("#shop_widget_right").offset().top+$(window).height()+150);// set original position on load
+$(window).scroll(fixDiv);
+</script>
+        </div>
+    </section>
+<section id="additional-content" class="" style="padding-top: 1px;">
+<section id="mailing-list" class="full-width" style="margin-top:25px;"><article><h2>GET AKP IN YOUR INBOX!</h2><div class="alert subscribe_error_alert alert-error" style="width:50%;padding:5px;display: none; font-size:10px;margin-left:25%;margin-bottom:15px;color:#e6413f"></div><div class="alert subscribe_success_alert alert-success" style="width:50%;padding:5px;display: none; font-size:10px;margin-left:25%;margin-bottom:15px;color:green"></div><input id="subscribe_email" type="email" placeholder="YOUR EMAIL ADDRESS"><input id="mailing-list-btn" id="subscribe_btn" type="button" value="SUBSCRIBE"></article><article class="padding-bottom"><nav><ol class="social center text-center"><span class="uppercase">..or follow allkpop to stay updated:</span><li class="facebook"><a href="https://www.facebook.com/allkpop" target="_blank"></a></li><li class="twitter"><a href="https://twitter.com/allkpop" target="_blank"></a></li><li class="instagram"><a href="https://instagram.com/allkpop" target="_blank"></a></li><li class="youtube"><a href="https://www.youtube.com/user/allkpop" target="_blank"></a></li><li class="googleplus"><a href="https://plus.google.com/+allkpop/posts" target="_blank"></a></li></ol></nav></article></section>
+<script>var ad_flag='home';</script>
+<script async src="http://www.allkpop.com/plugin/mailing/src/mailing.js?v=6"></script><!--<noscript id="deferred-styles-pag">-->
+<link rel="stylesheet" type="text/css" href="http://www.allkpop.com/plugin/pagination/css/pagination.css">
+<!--</noscript>-->
+<!--<script>
+  var loadDeferredStyles_pag = function() {var addStylesNode = document.getElementById("deferred-styles-pag");var replacement = document.createElement("div");replacement.innerHTML = addStylesNode.textContent;document.body.appendChild(replacement);addStylesNode.parentElement.removeChild(addStylesNode);};
+  var raf = window.requestAnimationFrame || window.mozRequestAnimationFrame || window.webkitRequestAnimationFrame || window.msRequestAnimationFrame;
+  if (raf) raf(function() { window.setTimeout(loadDeferredStyles_pag, 0); });
+  else window.addEventListener('load', loadDeferredStyles_pag);
+</script>-->
+<div id="pagination_id" class="full-width" style="text-align: center;"></div>
+<script async type="text/javascript" src="http://www.allkpop.com/js/jquery.bootpag.min.js"></script>
+<script>var ad_flag='home';var tab_flag='latest';var pagination_level='1';var total_cnt=11459;var current_page_num=1;var keyword='';</script>
+<script async type="text/javascript" src="http://www.allkpop.com/plugin/pagination/js/pagination.js"></script>
+</section>
+<script data-cfasync='false'>
+$(document).ready(function(){
+    var current_flag='latest';
+    var ad_flag='home';
+    if(current_flag=="latest"){$('.latest').addClass("focus");}
+    else if(current_flag=="most_discussed"){$('.most_discussed').addClass("focus");for(i=0;i<3;i++) {$('.fa-fire').toggle('slow');}}
+    else if(current_flag=="trending"){$('.trending').addClass("focus");$('.fa-fire').hide();}
+    else if(current_flag=="myfeed"){$('.myfeed').addClass("focus");}
+    //else if(current_flag=="trending"){$('.trending').addClass("focus");for(i=0;i<3;i++) {$('.fa-fire').toggle('slow');}}
+            $('.latest').on('click',function(){location.href="/latest";return;});$('.most_discussed').on('click',function(){location.href="/most_discussed";return;});$('.trending').on('click',function(){location.href="/trending";return;});$('.myfeed').on('click',function(){location.href="/myfeed";return;});
+        $('.cookie_tab').on('click',function(e){
+        e.preventDefault();
+        if($(this).attr('data-value')!=""){
+            $.post("/article/response.php",{mode:'lpt',flag:$(this).attr('data-value')},function(data){
+                if(data=="1"){
+                    $('.cookie_tab_src').fadeOut(400);
+                }else{}
+            });
+        }
+    });
+});
+</script>
+<div class="copyright">
+© 2007 - 2017 6Theory Media, LLC. allkpop® is a registered trademark of 6Theory Media, LLC.<br /><br />
+<a href="/about">ABOUT</a> | <a href="/advertise">ADVERTISE</a> | <a href="/privacy">PRIVACY</a> | <a href="/tos">TERMS</a>
+</div>    </div>
+<script>var user_id='',ismobile='0',part1='',iacp='';var date = new Date();date.setTime(date.getTime()-(10*1000));var expires = "; expires="+date.toGMTString();document.cookie = "iacp="+expires+";domain=.allkpop.com;path=/";</script>
+<script async type="text/javascript" src="http://www.allkpop.com/js/scripts.js?v=19"></script>
+<script async type="text/javascript" src="http://www.allkpop.com/plugin/social_login/src/social_login.js"></script>
+<script async src="http://www.allkpop.com/js/fluidvids.js"></script><!--youtube resize-->
+    <script async type="text/javascript" src="http://www.allkpop.com/plugin/menu/desktop/src/menu_desktop.js?v=3"></script>
+<script>setTimeout(function(){$("span[id*='GGADad_ii_']").css({'z-index':'0'});$("span[id*='ad_ii_']").css({'z-index':'0'});},'3000');</script>
+            <script type="text/javascript" src="http://www.allkpop.com/plugin/slider/js/jssor.slider.min.js"></script>
+            <script type="text/javascript" src="http://www.allkpop.com/plugin/slider/js/jssor.js"></script>
+<script>ggv2id='3b084c4e';</script>
+<script async src="//g2.gumgum.com/javascripts/ggv2.js"></script>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+<script>
+/*** modal ***/
+var modal = (function(){
+	var method = {},$overlay,$modal,$content,$close;
+	// Center the modal in the viewport
+	method.center = function () {
+		var top, left;
+		top = Math.max($(window).height() - $modal.outerHeight(), 0) / 2;
+		left = Math.max($(window).width() - $modal.outerWidth(), 0) / 2;
+		$modal.css({top:top + $(window).scrollTop(),left:left + $(window).scrollLeft()});
+	};
+
+	// Open the modal
+	method.open = function (settings) {
+		$content.empty().append(settings.content);
+		$modal.css({width: settings.width || 'auto',height: settings.height || 'auto'});
+		method.center();
+		$(window).bind('resize.modal', method.center);
+		$modal.show();
+		$overlay.show();
+	};
+
+	// Close the modal
+	method.close = function () {
+		$modal.hide();
+		$overlay.hide();
+		$content.empty();
+		$close.removeClass('theshop_close');
+        $(window).unbind('resize.modal');
+	};
+
+	// Generate the HTML and add it to the document
+	$overlay = $('<div id="overlay"></div>');
+	$modal = $('<div id="modal"></div>');
+	$content = $('<div id="content"></div>');
+	$close = $('<a id="close" href="#">close</a>');
+
+	$modal.hide();
+	$overlay.hide();
+	$modal.append($content, $close);
+
+	$(document).ready(function(){
+		$('body').append($overlay, $modal);
+        $('#overlay').on('click',function(){method.close();});
+	});
+
+	$close.click(function(e){
+		e.preventDefault();
+		method.close();
+	});
+    
+	return method;
+}());
+</script> 
+<script type="text/javascript">
+//eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('(6(){3 a=\'//1k.15/1j/Q/Q.1i\';3 b=\'1g.1h.15\';3 c=0;3 d=6(a,b){3 c,d,e;d=p;c=m.t(\'Y\');c.14=\'17/16\';c.u=a;c.19=c.1l=6(){7(!d&&(!q.F||q.F==\'1m\'||q.F==\'1r\')){d=H;7(b){m.s.B(c);b()}}};c.Z=6(){m.s.B(c);b()};m.s.I(c)};3 e=6(a,b){3 c=6(a){7(a===1q||a=="")a=1p.C;3 b=m.1n("1f");3 c=[];r(3 d=0;d<b.8;d++){3 e=m.t(\'a\');e.G(\'W\',b[d].u);3 f=e.P;f=f.o(\'/\');3 g=f.N();7(e.C==a&&g.8>5&&g.8<y)c.E(b[d].u);e=T}9 c};3 d=6(a,b){3 c=b.o(\'.\')[0];7(c.8<5)9 p;3 d=1o((c.8+1)/2)-1;3 e=h(0,c.8-2);7(e>=d)e+=1;3 c=c.x(0,e)+f.w(a)+c.x(e+1,c.8);c=c.x(0,d)+f.w(e)+c.x(d+1,c.8);7(b.o(\'.\').8>1)c=c+"."+b.o(\'.\')[1];A c=c+".M";9 c};3 e=6(a,b){3 c=[];r(3 e=0;e<b.8;e++){3 f=m.t(\'a\');f.G(\'W\',b[e]);3 g=f.P;g=g.o(\'/\');3 h=g.N();3 i=d(a,h);7(i!=p){g.E(i);g=g.13(\'/\');c.E(f.C+g)}f=T}9 c};3 i=e(a,c(b));7(i.8==0)9 b+"/"+g(1)+f.w(2)+f.w(a)+".M";3 j=h(0,i.8-1);9 i[j]};3 f={v:"18".o(""),K:6(a,b){3 c=a;r(3 d=0;d<b-a.8;d++)c=f.v[0]+c;9 c},w:6(a,b){7(a===0)9 f.K(f.v[0],b);3 c=\'\';1s(a>0){c=f.v[a%y]+c;a=n.z(a/y)}9 f.K(c,b)},1c:6(a){3 b=0,c=a.o("").1e();c.1d(6(a,c){b+=f.v.1a(a)*n.1b(y,c)});9 b}};3 g=6(a){3 b=\'\';3 c=\'18\';r(3 d=0;d<a;d++)b+=c.S(n.z(n.J()*c.8));9 b};3 h=6(a,b){9 n.z(n.J()*(b-a+1))+a};3 i=6(a){3 b=\'\';3 c=\'1v\';r(3 d=0;d<a;d++)b+=c.S(n.z(n.J()*c.8));9 b};3 j=6(a,c){3 d=10;3 f=p;3 g=m.t(\'1I\');7(g.12){3 h=g.12(\'1H\');7(h.O)f=H}7(f){3 i=1G 1K();i.G(\'D\',\'1F:1J !11;1N:-1M !11;\');i.1L=\'1t\';m.X.I(i);i.19=6(){3 a=q.1D;3 b=q.1x;g.V=a;g.U=b;g.D.V=a+\'R\';g.D.U=b+\'R\';h.1w(q,0,0);3 d=h.O(0,0,a,b).1E;3 e=[];3 f=d.8;3 j=-1;r(3 k=0;k<f;k+=4)e[++j]=1u.1y(d[k]);3 l=e.13(\'\');7(c)c(l);m.X.B(i)};i.Z=6(){7(d>0){i.u=\'//\'+e(a,b);d--}};i.u=\'//\'+e(a,b);9 H}A 9 p};3 k=6(){j(c,6(a){3 b=m.t(\'Y\');b.14=\'17/16\';b.1z=a;m.s.I(b);m.s.B(b)})};d(a,6(){7(L.1C==p)d(L.1B,6(){7(L.1A==p)9;A k()});A k()})})();',62,112,'|||var|||function|if|length|return|||||||||||||document|Math|split|false|this|for|head|createElement|src|characterSet|encode|slice|62|floor|else|removeChild|hostname|style|push|readyState|setAttribute|true|appendChild|random|pad|window|png|pop|getImageData|pathname|ads|px|charAt|null|height|width|href|body|script|onerror||important|getContext|join|type|com|javascript|text|abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789|onload|indexOf|pow|decode|forEach|reverse|img|www|allkpop|js|path|pleaseletmeadvertise|onreadystatechange|loaded|getElementsByTagName|parseInt|location|undefined|complete|while|Anonymous|String|abcdefghijklmnopqrstuvwxyz|drawImage|naturalHeight|fromCharCode|innerHTML|_impspcabe_beta|_impspcabe_path|_impspcabe_alpha|naturalWidth|data|position|new|2d|canvas|absolute|Image|crossOrigin|10000px|left'.split('|'),0,{}));
+</script>
+        <script>
+            function set_pml_sookie(cookie_name, cookie_value,lifespan_in_days, valid_domain){
+                var now = new Date();var time = now.getTime();var expireTime = time + 1000*3600*24*7;now.setTime(expireTime);
+                var domain_string = valid_domain ?("; domain=" + valid_domain) : '' ;document.cookie = cookie_name+"="+encodeURIComponent(cookie_value)+"; expires="+now.toGMTString()+"; path=/" + domain_string;
+            }
+            set_pml_sookie('npml','1', 1, "allkpop.com");
+        </script>
+            <script>
+            $(document).ready(function(){
+                var m_content='<div style="overflow:hidden" id="mailing_screen modal" class="mailing_screen">';
+                    m_content+='<div class="modal-header"></div>';
+                    m_content+='<div class="modal-body">';
+                        m_content+='<div class="mailing" >';
+                            m_content+='<section id="mailing-list"><article><h2>GET AKP IN YOUR INBOX!</h2><div class="alert popup_subscribe_error_alert alert-error" style="width:50%;padding:5px;display: none; font-size:10px;margin-left:25%;margin-bottom:15px;color:#e6413f"></div><div class="alert popup_subscribe_success_alert alert-success" style="width:50%;padding:5px;display: none; font-size:10px;margin-left:25%;margin-bottom:15px;color:green"></div><input id="popup_subscribe_email" type="email" placeholder="YOUR EMAIL ADDRESS"><input id="mailing-list-btn" class="popup_subscribe_btn" type="button" value="SUBSCRIBE"></article><article class="padding-bottom"><nav><ol class="social center text-center"><span class="uppercase">..or follow allkpop to stay updated:</span><li class="facebook"><a href="https://www.facebook.com/allkpop" target="_blank"></a></li><li class="twitter"><a href="https://twitter.com/allkpop" target="_blank"></a></li><li class="instagram"><a href="https://instagram.com/allkpop" target="_blank"></a></li><li class="youtube"><a href="https://www.youtube.com/user/allkpop" target="_blank"></a></li><li class="googleplus"><a href="https://plus.google.com/+allkpop/posts" target="_blank"></a></li></ol></nav></article></section>';
+                        m_content+='</div>';
+                    m_content+='</div>';
+                    m_content+='<div class="modal-footer"></div>';
+                m_content+='</div>';
+                setTimeout(function(){
+                    modal.open({content: m_content});
+                    modal.center();
+                },500);
+                    
+                $('#modal').on('keypress','#popup_subscribe_email',function(e){if(e.which==13){$('.popup_subscribe_btn').click();}});
+                $('#modal').on('click','.popup_subscribe_btn',function(){
+                    $('.popup_subscribe_error_alert').html("").hide();$('.popup_subscribe_success_alert').html("").hide();
+                    if($('.popup_subscribe_btn').hasClass('active')){
+                        $('.popup_subscribe_error_alert').html('<strong>Error!</strong> You\'ve already submitted.').show();
+                        $('#popup_subscribe_email').focus();
+                        setTimeout(function(){$('.popup_subscribe_error_alert').html("").hide();},3000);
+                    }else{
+                        if(!$(this).data('isClicked')){var link=$(this);link.data('isClicked',true);setTimeout(function(){link.removeData('isClicked')},1000);
+                        
+                            var mailformat=/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+                            var popup_subscribe_email=$('#popup_subscribe_email').val().trim();
+                            if(popup_subscribe_email.toLowerCase().indexOf("<script")>=0||popup_subscribe_email.toLowerCase().indexOf("alert(")>=0||popup_subscribe_email.toLowerCase().indexOf("confirm(")>=0||popup_subscribe_email.toLowerCase().indexOf("onload")>=0||popup_subscribe_email.toLowerCase().indexOf("onerror")>=0||popup_subscribe_email.toLowerCase().indexOf("$.ajax")>=0||popup_subscribe_email.toLowerCase().indexOf("$.get")>=0||popup_subscribe_email.toLowerCase().indexOf("$.post")>=0){$('#popup_subscribe_email').val('');alert("Invalid Entry");return;}
+                            var subscribe_div = document.createElement("div");subscribe_div.innerHTML = popup_subscribe_email;
+                            var popup_subscribe_email = subscribe_div.textContent || subscribe_div.innerText || "";
+                            
+                            if(popup_subscribe_email==""){
+                                $('.popup_subscribe_error_alert').html('<strong>Error!</strong> Please enter email address.').show();
+                                $('#popup_subscribe_email').focus();
+                            }else{
+                                if(!popup_subscribe_email.match(mailformat)){
+                                    $('.popup_subscribe_error_alert').html('<strong>Error!</strong> Invalid email address.').show();
+                                    $('#popup_subscribe_email').focus();
+                                }else{
+                                    $.post("/common/response.php",{mode:"subscribe",email:popup_subscribe_email,from:"popup"},function(data){
+                                        if(data[0]==1){
+                                            $('.popup_subscribe_btn').addClass("active");
+                                            $('.popup_subscribe_success_alert').html("Thanks for subscribing.").show();
+                                            set_pml_sookie('npml','2', 1, "allkpop.com");
+                                        }else if(data[0]==2){
+                                            $('.popup_subscribe_btn').addClass("active");
+                                            $('.popup_subscribe_success_alert').html("Thanks for subscribing. Please check your email to verify").show();
+                                            set_pml_sookie('npml','2', 1, "allkpop.com");
+                                        }else if(data[0]==3){
+                                            $('.popup_subscribe_btn').addClass("active");
+                                            $('.popup_subscribe_success_alert').html('Thanks for subscribing. You\'ve already submitted.').show();
+                                            set_pml_sookie('npml','2', 1, "allkpop.com");
+                                        }else if(data[0]==4){
+                                            $('.popup_subscribe_btn').addClass("active");
+                                            $('.popup_subscribe_error_alert').html('<strong>Error!</strong> You\'ve already submitted. However, please check your email to verify').show();
+                                            set_pml_sookie('npml','2', 1, "allkpop.com");
+                                        }else{
+                                        }
+                                    },"json");
+                                }
+                            }
+                            setTimeout(function(){$('#popup_subscribe_email').attr('value','');$('.popup_subscribe_success_alert').html("").hide();$('.popup_subscribe_error_alert').html("").hide();$('#overlay').click();},3000);
+                            return;
+                        }
+                    }
+                });
+            })
+            </script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e6cb271da4","applicationID":"1679402","transactionName":"NlZSYhNSDEMAUBALWQ8cZUQIHAteBVYcTEYJQw==","queueTime":0,"applicationTime":6,"atts":"GhFRFFtIH00=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

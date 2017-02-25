@@ -1,0 +1,3705 @@
+<!DOCTYPE html>
+<html id="XenForo" lang="en-US" dir="LTR" class="Public NoJs GalleryLazyLoader LoggedOut NoSidebar  Responsive pageIsLtr   hasTabLinks  hasSearch   is-sidebarOpen hasRightSidebar is-setWidth navStyle_3 pageStyle_1 hasFlexbox" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<base href="https://teslamotorsclub.com/tmc/"/>
+<script>
+			var _b = document.getElementsByTagName('base')[0], _bH = "https://teslamotorsclub.com/tmc/";
+			if (_b && _b.href != _bH) _b.href = _bH;
+		</script>
+<title>What is up with My Tesla? | Tesla Motors Club</title>
+<noscript><style>.JsOnly,.jsOnly{display:none!important;}</style></noscript>
+<link rel="stylesheet" href="css.php?css=xenforo,form,public&amp;style=14&amp;dir=LTR&amp;d=1487839293"/>
+<link rel="stylesheet" href="css.php?css=admon_funboxMessage,bb_code,facebook,fc_navigation,fc_navigation_icons,funbox,google,login_bar,message,message_user_info,moderator_bar,share_page,ssd_groupbadges,thread_view,twitter,xengallery_tab_links&amp;style=14&amp;dir=LTR&amp;d=1487839293"/>
+<link rel="stylesheet" href="css.php?css=uix,xenith,xenith_icons&amp;style=14&amp;dir=LTR&amp;d=1487839293"/>
+<style></style>
+<link rel="stylesheet" href="css.php?css=EXTRA&amp;style=14&amp;dir=LTR&amp;d=1487839293"/>
+<style></style>
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<script>
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+	ga('create', 'UA-9447998-1', 'auto');
+	ga('send', 'pageview');
+
+</script>
+<link rel="stylesheet" href="css.php?css=tmc_condensed&amp;style=14&amp;dir=LTR&amp;d=1487839293"/>
+<link rel="stylesheet" href="css.php?css=tmc_extra&amp;style=14&amp;dir=LTR&amp;d=1487839293"/>
+<link href="styles/xenith/uix/css/font-awesome.min.css" rel="stylesheet">
+<link href='//fonts.googleapis.com/css?family=Roboto:400,700|Roboto+Slab:300,400,700' rel='stylesheet' type='text/css'>
+<script src="js/jquery/jquery-1.11.0.min.js"></script>
+<script src="js/xenforo/xenforo.js?_v=f664bb9f"></script>
+<script src="js/ForumCube/NavigationManager/mobilemenu.js?_v=f664bb9f"></script>
+<script src="js/ForumCube/NavigationManager/jquery.sticky.js?_v=f664bb9f"></script>
+<script src="js/ForumCube/NavigationManager/base.js?_v=f664bb9f"></script>
+<script type='text/javascript'>
+		  var googletag = googletag || {};
+		  googletag.cmd = googletag.cmd || [];
+		  (function() {
+			var gads = document.createElement('script');
+			gads.async = true;
+			gads.type = 'text/javascript';
+			var useSSL = 'https:' == document.location.protocol;
+			gads.src = (useSSL ? 'https:' : 'http:') +
+			  '//www.googletagservices.com/tag/js/gpt.js';
+			var node = document.getElementsByTagName('script')[0];
+			node.parentNode.insertBefore(gads, node);
+		  })();
+		</script>
+<script type='text/javascript'>
+		googletag.cmd.push(function() {
+			
+var admonDfp_1 = googletag.defineSlot('/43342200/Leaderboard_ROS_728x90', [[728,90],[468,60],[320,50]], 'funpub_6dc3dc26fa85985bd4be1f2dee17ecb2').addService(googletag.pubads());
+var admonDfp_1_sizeMapping = googletag.sizeMapping().
+      addSize([800, 690], [728,90]).
+      addSize([480,320], [468,60]).
+      addSize([0, 0], [320, 50]).
+      build();
+admonDfp_1.defineSizeMapping(admonDfp_1_sizeMapping);
+var admonDfp_2 = googletag.defineSlot('/43342200/Footer_ROS_728x90', [[728,90],[468,60],[300,250]], 'funpub_3d155725d78199b24ef65b56a87f4e4d').addService(googletag.pubads());
+var admonDfp_2_sizeMapping = googletag.sizeMapping().
+      addSize([800, 690], [728,90]).
+      addSize([480,320], [468,60]).
+      addSize([0, 0], [300, 250]).
+      build();
+admonDfp_2.defineSizeMapping(admonDfp_2_sizeMapping);
+			
+googletag.pubads().setTargeting('forum', '73');
+googletag.pubads().setTargeting('forum', '73');
+			googletag.pubads().collapseEmptyDivs();
+			googletag.enableServices();
+		});</script>
+<script src="js/audentio/funbox/funboxServe.min.js?_v=f664bb9f"></script>
+<script>
+            audentio.funbox.weightBasedRotation = 0;
+            </script>
+<script src="js/audentio/funbox/advertisement.js?_v=f664bb9f"></script>
+<script>
+            $(document).ready(function() {
+            if (audentio.advertisement === undefined) {
+            $('#funboxMessage').css('display', 'block');
+            }
+            });
+            </script>
+<!--[if lt IE 9]>
+	
+		 
+        	<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+	        
+	        <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js"></script>
+	        
+	        <script src="//cdnjs.cloudflare.com/ajax/libs/selectivizr/1.0.2/selectivizr-min.js"></script>
+	
+
+<![endif]-->
+<script>
+	uix = {
+		elm: {},
+		fn:{},
+		init: function(){
+			if (uix.betaMode) {
+				console.group('uix.%cinit()', 'color:#3498DB');
+			}
+			for(var x=0;x<uix.events.init.length;x++){
+				uix.events.init[x]()
+		  	}
+		  	console.groupEnd('uix.%cinit()','color:#3498DB')
+		},
+	  	events: {init:[]},
+	  	on: function(event, fn){
+	  		if(event=='init'){
+	  			uix.events.init.push(fn)
+	  		}
+	  	},
+	  
+		betaMode				: parseInt('0'),
+		jsPathUsed				: 'xenith',
+		jsGlobal				: parseInt('0'),
+		
+	  
+	  	version					: '1.5.7.0',
+	  	jsHeadVersion				: '1.5.7.0',
+	  	addonVersion				: '1001070',
+	  	contentTemplate				: 'thread_view',
+	  
+		globalPadding 				: parseInt('25px'),
+		sidebarWidth				: parseInt('250px'),
+		mainContainerMargin  	        	: '275px',
+		maxResponsiveWideWidth   		: parseInt('800px'),
+		maxResponsiveMediumWidth 		: parseInt('610px'),
+		maxResponsiveNarrowWidth 		: parseInt('480px'),
+		sidebarMaxResponsiveWidth		: parseInt('800px'),
+		
+			responsiveMessageBreakpoint		: parseInt('610px'),
+		
+		sidebarMaxResponsiveWidthStr		: '800px',
+		
+		
+			offCanvasRightTriggerWidth	: parseInt('610px'),
+		
+		
+		
+			offCanvasLeftTriggerWidth	: parseInt('610px'),
+		
+		
+		
+			
+				offCanvasNavTriggerWidth	: parseInt('610px'),
+			
+		
+		
+			
+				offCanvasVisitorTriggerWidth	: parseInt('610px'),
+			
+		
+		
+		offcanvasTriggerAnimationDuration	: parseInt('300ms'),
+		
+		
+		
+		
+		dropdownMenuAnimationSpeed		: parseInt('0ms'),
+		inlineAlertBalloons			: (parseInt('1') && !parseInt('0')) || parseInt('0'),
+	  
+		jumpToFixedDelayHide			: parseInt('1'),
+	  
+		stickyNavigationMinWidth 		: parseInt('0'),
+		stickyNavigationMinHeight		: parseInt('0'),
+		stickyNavigationMaxWidth 		: parseInt('0'),
+		stickyNavigationMaxHeight		: parseInt('0'),
+		stickyNavigationPortraitMinWidth 	: parseInt('0'),
+		stickyNavigationPortraitMinHeight	: parseInt('0'),
+		stickyNavigationPortraitMaxWidth 	: parseInt('0'),
+		stickyNavigationPortraitMaxHeight	: parseInt('0'),
+		stickySidebar 				: 0,
+		
+			sidebarInnerFloat		: "right",
+		
+		RTL					: 0,
+		stickyItems 				: {},
+		stickyGlobalMinimumPosition		: parseInt('200px'),
+		stickyGlobalScrollUp			: parseInt('0'),
+		stickyDisableIOSThirdParty		: parseInt('1'),
+		preventAlwaysSticky			: parseInt('0'),
+		
+		searchMinimalSize			: parseInt('610px'),
+		
+		searchPosition				: parseInt('2'),
+		
+		nodeStyle				: parseInt('0'),
+		pageStyle				: parseInt('1'),
+		
+		enableBorderCheck			: parseInt('1'),
+		enableULManager				: parseInt('1'),
+		
+		threadSlidingAvatar			: parseInt('0'),
+		threadSlidingExtra			: parseInt('0'),
+		threadSlidingHover			: parseInt('0'),
+		threadSlidingStaffShow			: parseInt('0'),
+		threadSlidingGlobalEnable		: parseInt('1'),
+		
+		signatureHidingEnabled			: parseInt('0'),
+		signatureHidingEnabledAddon		: parseInt('1'),
+		signatureMaxHeight			: parseInt('100px'),
+		signatureHoverEnabled			: parseInt('0'),
+		
+		enableStickyFooter 			: parseInt('1'),
+		stickyFooterBottomOffset 		: parseInt('25px') * 2,
+		
+		
+			sidebarStickyBottomOffset	: parseInt(0),
+		
+	  
+	  	
+			offCanvasSidebar			: 1,
+
+			
+				offCanvasSidebarVisitorTabs		: 1,
+			
+		
+		
+		
+		offcanvasLeftStatic			: 1 && parseInt('0') && parseInt('1'),
+		offcanvasRightStatic			: 0 && parseInt('0') && parseInt('1'),
+		offcanvasLeftStaticBreakpoint		: parseInt('1300px'),
+		offcanvasRightStaticBreakpoint		: parseInt('1300px'),
+	  
+		reinsertWelcomeBlock			: parseInt('0'),
+	  
+		sidebarCookieExpire			: '',
+		canCollapseSidebar			: '',
+		
+		cookiePrefix				: 'tmc_',
+		sidebarLocation 			: parseInt('0'),
+		
+		collapsibleSidebar			: parseInt('0'),
+		collapsedNodesDefault			: '',
+		widthToggleUpper			: '100%',
+		widthToggleLower			: '1100px',
+		
+			toggleWidthEnabled		: parseInt('1'),
+		
+		toggleWidthBreakpoint			: parseInt('1150'),
+		collapsibleNodes			: parseInt('1'),
+		collapsibleSticky			: parseInt('1'),
+		ajaxWidthToggleLink			: 'uix/toggle-width',
+		ajaxStickyThreadToggleLink		: 'uix/toggle-sticky-threads',
+		ajaxStickyThreadExpandLink		: 'uix/expand-sticky-threads',
+		ajaxStickyThreadCollapseLink		: 'uix/collapse-sticky-threads',
+		ajaxSidebarToggleLink			: 'uix/toggle-sidebar',
+		
+		stickySidebarDelayInit			: parseInt('1'),
+		
+		user					: {
+								'themeName'		: 'TMC 2016',
+								'-themeParents'		: '14,13,6,0',
+								'-themeModified'	: '1487839293',
+								'-themeSelectable'	: '1',
+								languageName		: 'English (US)',
+								stickyEnableUserbar	: (parseInt('') == parseInt('')) ? parseInt('') : true,
+								stickyEnableNav		: (parseInt('') == parseInt('')) ? parseInt('') : true,
+								stickyEnableSidebar	: (parseInt('') == parseInt('')) ? parseInt('') : true,
+								widthToggleState	: (parseInt('0') == parseInt('0')) ? parseInt('0') : parseInt('0'),
+								stickyThreadsState	: (parseInt('') == parseInt('')) ? (parseInt('') > 0) : 0,
+								
+									sidebarState	: 0,
+								
+								
+									collapseUserInfo : 1,
+								
+								
+									signatureHiding : 1,
+								
+								isAdmin			: parseInt('0"')
+							}
+	};
+	
+	if(uix.stickyNavigationMaxWidth == 0){uix.stickyNavigationMaxWidth = 999999}
+	if(uix.stickyNavigationMaxHeight == 0){uix.stickyNavigationMaxHeight = 999999}
+	if(uix.stickyNavigationPortraitMaxWidth == 0){uix.stickyNavigationPortraitMaxWidth = 999999}
+	if(uix.stickyNavigationPortraitMaxHeight == 0){uix.stickyNavigationPortraitMaxHeight = 999999}
+	
+	
+		uix.stickyItems['#navigation'] = {normalHeight:parseInt('46'), stickyHeight:parseInt('66')}
+		
+		var subElement = null;
+		
+			//if tablinks are visible
+			uix.stickyItems['#navigation'].options = {subElement: '#navigation .tabLinks', subNormalHeight: parseInt('46'), subStickyHeight: parseInt('56'), subStickyHide: 1 == 1 , scrollSticky: uix.stickyGlobalScrollUp }
+		
+		
+	
+	
+	
+	
+	$(document).ready(function(){
+	
+	//put jquery code here
+	
+
+});
+	
+	uix.debug = function() {
+		result = "\n\n############============   Begin Copying Here   ============############\n\n";
+		result += "Error: the functions file was not found.";
+		result += "\n\n############============   End Copying Here   ============############\n\n";
+
+		console.log(result);
+	}
+
+</script>
+<script src="js/audentio/xenith/functions.min.js?_v=f664bb9f_1.5.7.0"></script>
+<script>
+	uix.adminJsError = function(errMsg) {
+		console.error(errMsg);
+		
+		
+	}
+	
+	uix.fixJsVisibility = function() {
+		var userBar = $('.hasJs #userBar');
+		var nodeList = $('.hasJs #forums, .hasJs .category_view .nodeList, .hasJs .watch_forums .nodeList');
+		var panels = $('.js-uix_panels')
+		if (userBar.length) userBar.css('display', 'block');
+		if (nodeList.length) nodeList.css('visibility', 'visible');
+		if (panels.length) $('.js-uix_panels').removeClass('needsInit');
+	}
+	
+	uix.catchJsError = function(err) {
+		console.log("\n\n############============   Begin Copying Here   ============############\n\n")
+		var errMsg = "Uh Oh!  It looks like there's an error in your page's javascript.  There will likely be significant issues with the use of the forum until this is corrected.  If you are unable to resolve this and believe it is due to a bug in your Audentio Design theme, contact Audentio support and include a copy of the text between the designated areas from your javascript console.  This is the error: \n\n" + err ;
+		uix.fixJsVisibility();	
+		uix.adminJsError(errMsg);
+		console.log("\n\n");
+		console.log(err);
+		console.log("\n\n");
+		try {
+			uix.debug(true);
+		} catch (err) {
+			console.log("Unable to include uix.debug();");
+		}
+		
+		console.log("\n\n############============   End Copying Here   ============############\n\n");
+	}
+
+	$(document).ready(function(){
+		if (typeof(audentio) === 'undefined') {
+			var errMsg = 'Uh Oh!  It looks like the javascript for your theme was not found in /js/audentio/xenith/.\n\n';
+			if (uix.jsGlobal) {
+				errMsg += 'Your forum is set to use the same javascript directory for all your themes.  Consider disabling this or modifying the directory.  Options are located under Options > [UI.X] General.\n\n'
+			} else {
+				errMsg += 'Your theme has set the location of its javascript directory.  You may need to modify the javascript directory location style property located under [UI.X] Global Settings > Javascript Path.\n\n'
+			}
+			errMsg += 'If your files are in the directory specified, ensure that your file permissions allow them to be read.  There will likely be significant issues with the use of the forum until this is corrected.  If you are unable to resolve this, contact Audentio support.  This error has also been logged to the javascript console.';
+			
+			uix.fixJsVisibility();
+			
+			uix.adminJsError(errMsg);
+		} else if (uix.jsHeadVersion != uix.jsVersion) {
+			var errMsg = 'Uh Oh! It looks like the version of your javascript functions file does not match the version of your page_container_js_head template.  \n\nYour javascript functions file is version "' + uix.jsVersion + '". \nYour page_container_js_head is version "' + uix.jsHeadVersion + '".  \n\nIf your functions file version number is higher, ensure that you have merged all templates (especially page_container_js_head).  If your page_container_js_head version number is higher, ensure that you have correctly uploaded the latest version of the javascript functions file and that you have cleared anything that could cache an old version of the javascript (CDN / Cloudflare / etc.). \n\nThis issue could cause parts of your forum to not display or function correctly.  If this does not resolve the issue contact Audentio support.  This error has also been logged to the javascript console.';
+			uix.adminJsError(errMsg);
+		}
+	});
+</script>
+<script>
+	try {
+		uix.dateHelper.phrase = {
+			now: 'now',
+			second: 's',
+			minute: 'm',
+			hour: 'h',
+			day: 'd',
+			week: 'w',
+			year: 'y',
+			century: 'c',
+			ago: '{time} ago',
+			future: 'in {time}'
+		}
+		
+		
+		uix.sticky.stickyMinDist = parseInt('50');
+		
+		$(document).ready(function(){
+			try {
+				
+																				
+					audentio.pagination.enabled = true;
+					
+						audentio.grid.parentEle = 'navigation';
+					
+					audentio.pagination.outOfPhrase = '<span id="audentio_postPaginationCurrent" class="uix_postPagination_x"></span> / <span id="audentio_postPaginationTotal" class="uix_postPagination_y"></span>';
+					audentio.pagination.enterIndexPhrase = 'Enter Index';
+					audentio.pagination.offset = parseInt('0px');
+				
+				
+				uix.initFunc();
+			} catch (err) {
+				uix.catchJsError(err);
+			}
+		});
+	} catch (err) {
+		uix.catchJsError(err);
+	}
+</script>
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon-194x194.png" sizes="194x194">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link href="https://teslamotorsclub.com/favicon.ico" rel="icon" type="image/x-icon"/>
+<link rel="apple-touch-icon" href="https://teslamotorsclub.com/tmc/styles/default/xenforo/logo.og.png"/>
+<link rel="alternate" type="application/rss+xml" title="RSS feed for Tesla Motors Club" href="forums/-/index.rss"/>
+<link rel="canonical" href="https://teslamotorsclub.com/tmc/threads/what-is-up-with-my-tesla.62114/"/>
+<meta name="description" content="Tonight I logged into My Tesla, and instead of my order status I see an opportunity to order a Model S or reserve a Model X. Nothing anywhere about my..."/> <meta property="og:site_name" content="Tesla Motors Club"/>
+<meta property="og:image" content="https://teslamotorsclub.com/tmc/data/avatars/m/26/26260.jpg?1457863259"/>
+<meta property="og:image" content="https://teslamotorsclub.com/tmc/styles/default/xenforo/logo.og.png"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="https://teslamotorsclub.com/tmc/threads/what-is-up-with-my-tesla.62114/"/>
+<meta property="og:title" content="What is up with My Tesla?"/>
+<meta property="og:description" content="Tonight I logged into My Tesla, and instead of my order status I see an opportunity to order a Model S or reserve a Model X. Nothing anywhere about my..."/>
+<meta property="fb:app_id" content="152211328134762"/>
+<meta name="theme-color" content="rgb(204, 0, 0)">
+</head>
+<body class="node73 node47 SelectQuotable">
+<div id="loginBar">
+<div class="pageContent">
+<span class="helper"></span>
+</div>
+<div class="pageWidth">
+</div>
+</div>
+<div class="js-uix_panels uix_panels ">
+<aside class="js-sidePanelWrapper sidePanelWrapper  sidePanelWrapper--left">
+<a href="#" class="js-panelMask uix_panelMask"></a>
+<div class="sidePanel sidePanel--nav">
+<nav>
+<ul class="sidePanel__navTabs">
+ 
+ 
+ 
+<li class="navTab forums selected">
+<a href="https://teslamotorsclub.com/tmc/" class="navLink">Forums</a>
+<a href="https://teslamotorsclub.com/tmc/" class="SplitCtrl"><i class="uix_icon js-offcanvasIcon uix_icon-expandDropdown"></i></a>
+<div class="tabLinks">
+<ul class="blockLinksList">
+<li><a href="search/?type=post">Search Forums</a></li>
+<li><a href="find-new/posts" rel="nofollow">Recent Posts</a></li>
+<li><a href='watched/whats-new'>What's New</a></li><li><a href='post-ratings/'>Post Ratings</a></li>
+</ul>
+</div>
+</li>
+ 
+<li class="navTab groups ">
+<a href="https://teslamotorsclub.com/tmc/groups/" class="navLink">Groups</a>
+<a href="https://teslamotorsclub.com/tmc/groups/" class="SplitCtrl"><i class="uix_icon js-offcanvasIcon uix_icon-expandDropdown"></i></a>
+<div class="tabLinks">
+<ul class="secondaryContent blockLinksList">
+</ul>
+</div>
+</li>
+ 
+ 
+<li class="navTab xengallery ">
+<a href="https://teslamotorsclub.com/tmc/media/" class="navLink">Media</a>
+<a href="https://teslamotorsclub.com/tmc/media/" class="SplitCtrl"><i class="uix_icon js-offcanvasIcon uix_icon-expandDropdown"></i></a>
+<div class="tabLinks">
+<ul class="secondaryContent blockLinksList xengallery">
+<li><a href="search/?type=xengallery_media">Search Media</a></li>
+<li><a href="find-new/media">New Media</a></li>
+</ul>
+</div>
+</li>
+</ul>
+</nav>
+</div>
+</aside>
+<aside class="js-sidePanelWrapper sidePanelWrapper  sidePanelWrapper--right">
+<a href="#" class="js-panelMask uix_panelMask"></a>
+<div class="sidePanel sidePanel--login">
+<form action="login/login" method="post" class="xenForm--uixLoginForm xenForm">
+<dl class="ctrlUnit fullWidth">
+<dt><label for="ctrl_pageLogin_login">Your name or email address:</label></dt>
+<dd><input type="text" name="login" value="" id="ctrl_pageLogin_login" class="textCtrl uix_fixIOSClickInput" tabindex="1"/></dd>
+</dl>
+<dl class="ctrlUnit fullWidth">
+<dt><label for="ctrl_pageLogin_password">Password:</label></dt>
+<dd>
+<input type="password" name="password" class="textCtrl uix_fixIOSClickInput" id="ctrl_pageLogin_password" tabindex="2"/>
+<div><a href="lost-password/" class="OverlayTrigger OverlayCloser" tabindex="6">Forgot your password?</a></div>
+</dd>
+</dl>
+<dl class="ctrlUnit submitUnit">
+<dd>
+<input type="submit" class="button primary" value="Log in" data-loginPhrase="Log in" data-signupPhrase="Sign up" tabindex="4"/>
+<label class="rememberPassword"><input type="checkbox" name="remember" value="1" id="ctrl_pageLogin_remember" tabindex="3"/> Stay logged in</label>
+</dd>
+</dl>
+<dl class="ctrlUnit fullWidth">
+<dt></dt>
+<dd><a href="register/facebook?reg=1" class="fbLogin" tabindex="10"><span>Log in with Facebook</span></a></dd>
+<dt></dt>
+<dd><a href="register/twitter?reg=1" class="twitterLogin" tabindex="10"><span>Log in with Twitter</span></a></dd>
+<dt></dt>
+<dd><span class="googleLogin GoogleLogin JsOnly" tabindex="10" data-client-id="894958665337-e1crkj89q7ead4antgp73ua0h5dt64nt.apps.googleusercontent.com" data-redirect-url="register/google?code=__CODE__&amp;csrf=bgQRPO-pJAr336ow"><span>Log in with Google</span></span></dd>
+</dl>
+<input type="hidden" name="cookie_check" value="1"/>
+<input type="hidden" name="_xfToken" value=""/>
+<input type="hidden" name="redirect" value="/tmc/threads/what-is-up-with-my-tesla.62114/"/>
+</form>
+</div>
+</aside>
+<div class="mainPanelWrapper">
+<a href="#" class="js-panelMask uix_panelMask"></a>
+<div id="funboxMessage">
+TMC is an independent, primarily volunteer organization that relies on ad revenue to cover its operating costs. Please consider whitelisting TMC on your ad blocker and becoming a Supporting Member. For more info: <a href="https://teslamotorsclub.com/tmc/threads/support-tmc.83159/">Support TMC</a>
+</div>
+<div class="uix_wrapperFix" style="height: 1px; margin-bottom: -1px;"></div>
+<div id="uix_wrapper">
+<div class="uix_wrapperFix" style="height: 1px; margin-bottom: -1px;"></div>
+<div id="headerMover">
+<div id="headerProxy"></div>
+<div class="xenith_bg_wrap">
+<div class="xenith_bg"></div>
+<div class="xenith_bg_mask"></div>
+<header>
+<div id="header">
+<div id="logoBlock" class="header__blockItem ">
+<div class="pageContent">
+<div class="pageWidth">
+<div id="logo"><a href="https://teslamotorsclub.com/tmc/">
+<span></span>
+<img class="left-narrow-img" src="styles/tmc2017/Horizontal_Stacked_TMC_1399x281-new.png" alt="Tesla Motors Club"/>
+<img class="left-wide-img" src="styles/tmc2017/Horizontal_TMC_2557x256-new.png" alt="Tesla Motors Club"/>
+<img class="right-img" src="styles/tmc2016/tesla_flag.png"/>
+</a></div>
+<span class="helper"></span>
+</div>
+</div>
+</div>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,800" rel="stylesheet">
+<div id="overlay"></div>
+<div class="fc-navigation" data-disable-switch=>
+
+    <div class="fc-primary-menu">
+
+        <div class="pageWidth">
+
+
+            <!-- Mobile Menu Icons -->
+
+            <a href=""><img id="mobile-logo" class="mobile-logo" src="styles/tmc2017/Isolated_TMC_1771x605-new.png">
+            </a>
+
+            <div class="mm-toggle-wrap">
+
+                <div class="mm-toggle">
+                    <i class="fa fa-bars"></i><span class="mm-label"></span>
+                </div>
+
+                <i class="fa fa-list burgerMenu-tag tag-menu-button"></i>
+
+            </div>
+
+
+
+            <!-- Desktop Menu Icons -->
+
+            <ul class="navRight visitorTabs fc-icons">
+
+                
+
+                
+
+	<li class="navTab login PopupClosed">
+		
+			<a href="login/" class="navLink uix_dropdownDesktopMenu OverlayTrigger" data-cacheOverlay="false">
+				<i class="uix_icon uix_icon-signIn"></i> 
+				<strong class="loginText">Log in</strong>
+			</a>
+		
+		
+		
+		
+	</li>
+	
+	
+	<li class="navTab register PopupClosed">
+		<a href="register/" class="navLink" title="Sign up">
+			<i class="uix_icon uix_icon-register"></i> 
+			<strong>Sign up</strong>
+		</a>
+	</li>
+	
+	
+
+
+                
+
+                
+                    <li class="navTab uix_searchTab uix_rightMost">
+                        
+
+
+<div class="uix_minimalSearchWrapper">
+
+	<div id="uix_searchMinimal">
+		<form action="search/search" method="post">
+			<i id="uix_searchMinimalClose" class="uix_icon uix_icon-close"  title="Close"></i>
+			<i id="uix_searchMinimalOptions" class="uix_icon uix_icon-cog" title="Options"></i>
+			<div id="uix_searchMinimalInput" >
+				<input type="search" name="keywords" value="" placeholder="Search..." results="0" />
+			</div>
+			<input type="hidden" name="_xfToken" value="" />
+		</form>
+	</div>
+
+</div>
+
+
+
+
+                        
+
+<div id="searchBar" class="hasSearchButton">
+	
+	<i id="QuickSearchPlaceholder" class="uix_icon uix_icon-search" title="Search"></i>
+	
+	
+	
+	
+	<fieldset id="QuickSearch">
+		
+<form action="threadloom/search" class="formPopup">
+			
+			<div class="primaryControls">
+				<!-- block: primaryControls -->
+				<i class="uix_icon uix_icon-search" onclick='$("#QuickSearch form").submit()'></i>
+				<input type="search" name="keywords" value="" class="textCtrl" placeholder="Search..." results="0" title="Enter your search and hit enter" id="QuickSearchQuery" />				
+				<!-- end block: primaryControls -->
+			</div>
+			
+			<div class="secondaryControls">
+				<div class="controlsWrapper">
+				
+					<!-- block: secondaryControls -->
+					<dl class="ctrlUnit">
+						<dt></dt>
+						<dd><ul>
+							<li><label><input type="checkbox" name="title_only" value="1"
+								id="search_bar_title_only" class="AutoChecker"
+								data-uncheck="#search_bar_thread" /> Search titles only</label></li>
+						</ul></dd>
+					</dl>
+				
+					<dl class="ctrlUnit">
+						<dt><label for="searchBar_users">Posted by Member:</label></dt>
+						<dd>
+							<input type="text" name="users" value="" class="textCtrl AutoComplete" id="searchBar_users" />
+							<p class="explain">Separate names with a comma.</p>
+						</dd>
+					</dl>
+				
+					<dl class="ctrlUnit">
+						<dt><label for="searchBar_date">Newer Than:</label></dt>
+						<dd><input type="date" name="date" value="" class="textCtrl" id="searchBar_date" /></dd>
+					</dl>
+					
+					
+					<dl class="ctrlUnit">
+						<dt></dt>
+						<dd><ul>
+								
+									<li><label title="Search only What is up with My Tesla?"><input type="checkbox" name="type[post][thread_id]" value="62114"
+	id="search_bar_thread" class="AutoChecker"
+	data-uncheck="#search_bar_title_only, #search_bar_nodes" /> Search this thread only</label></li>
+								
+									<li><label title="Search only Model S"><input type="checkbox" name="nodes[]" value="73"
+	id="search_bar_nodes" class="Disabler AutoChecker" checked="checked"
+	data-uncheck="#search_bar_thread" /> Search this forum only</label>
+	<ul id="search_bar_nodes_Disabler"hidden>
+		<li><label><input type="checkbox" name="type[post][group_discussion]" value="1"
+			id="search_bar_group_discussion" class="AutoChecker"
+			data-uncheck="#search_bar_thread" /> Display results as threads</label></li>
+	</ul></li>
+								
+						</ul></dd>
+					</dl>
+					
+				</div>
+				<!-- end block: secondaryControls -->
+				
+				<dl class="ctrlUnit submitUnit">
+					<dt></dt>
+					<dd>
+						<input type="submit" value="Search" class="button primary Tooltip" title="Find Now" />
+						<a href="search/" class="button moreOptions Tooltip" title="Advanced Search">More...</a>
+						<div class="Popup" id="commonSearches">
+							<a rel="Menu" class="button NoPopupGadget Tooltip" title="Useful Searches" data-tipclass="flipped"><span class="arrowWidget"></span></a>
+							<div class="Menu">
+								<div class="primaryContent menuHeader">
+									<h3>Useful Searches</h3>
+								</div>
+								<ul class="secondaryContent blockLinksList">
+									<!-- block: useful_searches -->
+									<li><a href="find-new/posts?recent=1" rel="nofollow">Recent Posts</a></li>
+									
+									<!-- end block: useful_searches -->
+								</ul>
+							</div>
+						</div>
+					</dd>
+				</dl>
+				
+			</div>
+			
+			<input type="hidden" name="_xfToken" value="" />
+		</form>		
+	</fieldset>
+	
+
+</div>
+                    </li>
+
+                
+            </ul>
+
+		<a href=""><img class="mobile-logo-sc" src="styles/tmc2017/Isolated_TMC_1771x605-new.png">
+            </a>
+            <nav class='hiddenMobile'><ul><li class='selected'><a class='active' href='/tmc/'>DISCUSSION</a></li><li ><a class='' href='/tmc/groups/'>GROUPS</a><ul><li ><a class='' href='/tmc/groups/'>All Groups</a></li><li ><a class='' href='/tmc/groups/my'>My Groups</a></li><li ><a class='' href='/tmc/groups/invitations'>My Invitations</a></li><li ><a class='' href='/tmc/groups/create'>Create Group</a></li></ul></li><li ><a class='' href='/directory'>VENDORS</a></li><li ><a class='' href='/connect/'>CONFERENCE</a></li><li ><a class='' href='/tmc/threads/please-support-tmc.83159/'>SUPPORT TMC</a></li></ul> </nav></div></div><div id='mobile-menu'>
+            <ul><li>
+                    <div class='home'>
+                        <a href='#'>Home</a>
+                    </div> </li><li><a class='active' href='/tmc/'>DISCUSSION</a><ul><li><a class='active' href='/tmc/'>Forums</a><ul><li><a class='' href='/tmc/forums/roadster.62/'>Roadster</a></li><li><a class='' href='/tmc/forums/model-s.73/'>Model S</a></li><li><a class='' href='/tmc/forums/model-x.84/'>Model X</a></li><li><a class='' href='/tmc/forums/model-3.137/'>Model 3</a></li><li><a class='' href='/tmc/forums/-/wikipost'>Wikiposts</a></li><li><a class='' href='/tmc/watched/forums'>Watched Forums</a></li><li><a class='' href='/tmc/watched/threads'>Watched Threads</a></li></ul></li><li><a class='' href='/tmc/whats-new/'>What's New</a><ul><li><a class='' href='/tmc/recent-posts/'>Recent Posts</a></li><li><a class='' href='/tmc/recent-threads/'>Recent Threads</a></li><li><a class='' href='/tmc/watched/threads'>Unread Watched Threads</a></li></ul></li><li><a class='' href='/tmc/find-new/posts'>New Posts</a></li><li><a class='' href='/tmc/post-ratings/'>Best Posts</a><ul><li><a class='' href='/tmc/post-ratings/helpful.8/posts'>Most Helpful</a></li><li><a class='' href='/tmc/post-ratings/informative.6/posts'>Most Informative</a></li><li><a class='' href='/tmc/post-ratings/like.1/posts'>Most Liked</a></li><li><a class='' href='/tmc/post-ratings/disagree.14/posts'>Most Disagreed</a></li><li><a class='' href='/tmc/post-ratings/funny.4/posts'>Most Funny</a></li><li><a class='' href='/tmc/post-ratings/love.7/posts'>Most Loved</a></li></ul></li><li><a class='' href='/tmc/members/'>Members</a><ul><li><a class='' href='/tmc/online/'>Current Visitors</a></li></ul></li><li><a class='' href='/tmc/media/'>Media</a><ul><li><a class='' href='/tmc/media/add'>Add Media</a></li><li><a class='' href='/tmc/find-new/1774832/media'>New Media</a></li></ul></li></ul></li><li><a class='' href='/tmc/groups/'>GROUPS</a><ul><li><a class='' href='/tmc/groups/'>All Groups</a></li><li><a class='' href='/tmc/groups/my'>My Groups</a></li><li><a class='' href='/tmc/groups/invitations'>My Invitations</a></li><li><a class='' href='/tmc/groups/create'>Create Group</a></li></ul></li><li><a class='' href='/directory'>VENDORS</a></li><li><a class='' href='/connect/'>CONFERENCE</a></li><li><a class='' href='/tmc/threads/please-support-tmc.83159/'>SUPPORT TMC</a></li> </ul>  </div>  <div class='fc-secondary-menu-parent'> <div class='fc-secondary-menu'>
+                <div class='pageWidth'><i class='fa fa-list burgerMenu-tag tag-menu-button'></i>
+                    <nav>
+                        <ul><li class='selected'><a class='active' href='/tmc/'>Forums</a><ul><li ><a class='' href='/tmc/forums/roadster.62/'>Roadster</a></li><li ><a class='' href='/tmc/forums/model-s.73/'>Model S</a></li><li ><a class='' href='/tmc/forums/model-x.84/'>Model X</a></li><li ><a class='' href='/tmc/forums/model-3.137/'>Model 3</a></li><li ><a class='' href='/tmc/forums/-/wikipost'>Wikiposts</a></li><li ><a class='' href='/tmc/watched/forums'>Watched Forums</a></li><li ><a class='' href='/tmc/watched/threads'>Watched Threads</a></li></ul></li><li ><a class='' href='/tmc/whats-new/'>What's New</a><ul><li ><a class='' href='/tmc/recent-posts/'>Recent Posts</a></li><li ><a class='' href='/tmc/recent-threads/'>Recent Threads</a></li><li ><a class='' href='/tmc/watched/threads'>Unread Watched Threads</a></li></ul></li><li ><a class='' href='/tmc/find-new/posts'>New Posts</a></li><li ><a class='' href='/tmc/post-ratings/'>Best Posts</a><ul><li ><a class='' href='/tmc/post-ratings/helpful.8/posts'>Most Helpful</a></li><li ><a class='' href='/tmc/post-ratings/informative.6/posts'>Most Informative</a></li><li ><a class='' href='/tmc/post-ratings/like.1/posts'>Most Liked</a></li><li ><a class='' href='/tmc/post-ratings/disagree.14/posts'>Most Disagreed</a></li><li ><a class='' href='/tmc/post-ratings/funny.4/posts'>Most Funny</a></li><li ><a class='' href='/tmc/post-ratings/love.7/posts'>Most Loved</a></li></ul></li><li ><a class='' href='/tmc/members/'>Members</a><ul><li ><a class='' href='/tmc/online/'>Current Visitors</a></li></ul></li><li ><a class='' href='/tmc/media/'>Media</a><ul><li ><a class='' href='/tmc/media/add'>Add Media</a></li><li ><a class='' href='/tmc/find-new/1774832/media'>New Media</a></li></ul></li></ul></nav> </div></div>  </div> 
+
+
+
+        </div>
+        <!-- End fc-navigation-->
+
+
+        
+        
+        
+	
+	
+</div>
+
+		
+		
+	</header>
+	
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+	
+</div>
+
+<div id="content" class="thread_view">
+	
+	<div class="pageWidth">
+		<div class="pageContent">
+	
+			<!-- main content area -->
+			
+			
+			
+			
+
+			
+			
+			<div class="breadBoxTop  ">
+				
+				
+
+<nav>
+
+	
+	
+	
+		
+			
+				
+			
+		
+			
+				
+			
+		
+	
+
+	<fieldset class="breadcrumb">
+		<a href="misc/quick-navigation-menu?selected=node-73" class="OverlayTrigger jumpMenuTrigger" data-cacheOverlay="true" title="Open quick navigation"><i class="uix_icon uix_icon-sitemap"></i><!--Jump to...--></a>
+			
+		<div class="boardTitle"><strong>Tesla Motors Club</strong></div>
+		
+		<span class="crumbs">
+			
+			
+			
+				<span class="crust selectedTabCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+					<a href="https://teslamotorsclub.com/tmc/" class="crumb" rel="up" itemprop="url"><span itemprop="title"><i class="uix_icon uix_icon-home" title="Forums"></i></span></a>
+					<span class="arrow"><i class="uix_icon uix_icon-breadcrumbSeparator"></i></span>
+				</span>
+			
+			
+			
+				
+					<span class="crust" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+						<a href="https://teslamotorsclub.com/tmc/categories/tesla-motors-forum.47/" class="crumb" rel="up" itemprop="url"><span itemprop="title">Tesla Motors Forum</span></a>
+						<span class="arrow"><i class="uix_icon uix_icon-breadcrumbSeparator"></i></span>
+					</span>
+				
+					<span class="crust" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+						<a href="https://teslamotorsclub.com/tmc/forums/model-s.73/" class="crumb" rel="up" itemprop="url"><span itemprop="title">Model S</span></a>
+						<span class="arrow"><i class="uix_icon uix_icon-breadcrumbSeparator"></i></span>
+					</span>
+				
+			
+		</span>
+	</fieldset>
+</nav>
+				
+			</div>
+			
+			
+						
+			
+	
+	<div class="section funbox tmcTopAd">
+	<div class="funbox tmcTopAdWrapper">
+	
+	
+		
+			
+				<div id="funbox_zone_e86bbe88bbaa808443067880552f9071" class="funzone funzone_below_top_breadcrumb " style="display:block;overflow:hidden;"><div class="" id="funpub_6dc3dc26fa85985bd4be1f2dee17ecb2"><script type="text/javascript">googletag.cmd.push(function() { googletag.display('funpub_6dc3dc26fa85985bd4be1f2dee17ecb2'); });</script></div></div>
+                
+				
+				
+				
+				
+				
+				
+				
+			
+		
+	
+	
+	</div>
+	</div>
+	
+
+			
+			
+			
+			
+			
+			
+			
+			
+			
+
+						
+			
+			
+			
+				<div class="mainContainer_noSidebar">
+			
+					
+						<!--[if lt IE 8]>
+							<p class="importantMessage">You are using an out of date browser. It  may not display this or other websites correctly.<br />You should upgrade or use an <a href="https://www.google.com/chrome/browser/" target="_blank">alternative browser</a>.</p>
+						<![endif]-->
+						
+						
+
+						
+						
+											
+								<!-- h1 title, description -->
+								<div class="titleBar">
+									
+									<h1>What is up with My Tesla?</h1>
+									
+									<p id="pageDescription" class="muted ">
+	Discussion in '<a href="forums/model-s.73/">Model S</a>' started by <a href="members/brunton.26260/" class="username" dir="auto">Brunton</a>, <a href="threads/what-is-up-with-my-tesla.62114/"><span class="DateTime" title="Feb 5, 2016 at 6:08 PM">Feb 5, 2016</span></a>.
+</p>
+								</div>
+							
+						
+						
+						
+						
+						
+						<!-- main template -->
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+<div class="pageNavLinkGroup">
+	<div class="linkGroup SelectionCountContainer">
+		
+		
+	</div>
+
+	
+</div>
+
+
+
+
+
+<form action="inline-mod/post/switch" method="post"
+	class="InlineModForm section"
+	data-cookieName="posts"
+	data-controls="#InlineModControls"
+	data-imodOptions="#ModerationSelect option">
+
+	<ol class="messageList" id="messageList">
+		
+			
+				
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+
+<li id="post-1358117" class="sectionMain message      uix_threadAuthor uix_discussionAuthor" data-author="Brunton">
+
+	<div class="uix_message ">
+		
+		
+	
+	
+	
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+
+<div class="messageUserBlock  is-expanded online">	
+	
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/brunton.26260/" class="avatar Av26260l" data-avatarhtml="true"><img src="data/avatars/l/26/26260.jpg?1457863259" width="192" height="192" alt="Brunton" /></a>
+			
+			<span class="Tooltip onlineMarker" title="Online Now" data-offsetX="-22" data-offsetY="-8"></span>
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+		
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+				
+				
+				
+				<a href="members/brunton.26260/" class="username" dir="auto" itemprop="name">Brunton</a>
+				<em class="userTitle" itemprop="title">Pontificating the obvious</em>
+			</div>
+			
+<div class="ssd_groupBadges">
+
+
+</div>
+
+
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+		
+		
+		        
+					
+                		
+                         
+		         <div class="fc_group_badges extraUserInfo">
+		        
+                         
+
+			<a href="groups/38/view" class="ToolTip">
+			<img title="Carolina&#039;s Tesla Owners and Enthusiasts" src="data/forumcube/group/avatars/s/0/38.jpg?1457909203" width="24"/>
+			</a>
+                       
+		        	
+                         
+		         </div>
+                         
+
+
+
+		<div class="extraUserInfo is-expanded">
+			
+			
+				
+					<dl class="pairsJustified">
+						<dt>Joined:</dt>
+						<dd>Jun 27, 2014</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Messages:</dt>
+						<dd><a href="search/member?user_id=26260" class="concealed" rel="nofollow">300</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+				
+				
+			
+				
+				
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Location:</dt>
+						<dd><a href="misc/location-info?location=Goose+Creek+SC" target="_blank" rel="nofollow" itemprop="address" class="concealed">Goose Creek SC</a></dd>
+					</dl>
+				
+			
+				
+							
+						
+			
+			
+			
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+				
+			
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+	
+		<div class="messageInfo primaryContent">
+			<div class="messageDetails">
+			
+				
+		
+		
+		
+		<a href="posts/1358117/" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/1358117/permalink">#1</a>
+		
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/brunton.26260/" class="username author" dir="auto">Brunton</a>,</span>
+			<a href="posts/1358117/" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Feb 5, 2016 at 6:08 PM">Feb 5, 2016</span>
+			
+			</a>
+		</span>
+	
+	
+			
+				
+				
+			</div>
+			
+			
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						Tonight I logged into My Tesla, and instead of my order status I see an opportunity to order a Model S or reserve a Model X. Nothing anywhere about my S that should be nearing production. Plus the info they show for me has the old phone and address from nearly two years ago. No sign of the updated info I input earlier this year, let alone my insurance card and DL scans.<br />
+<br />
+That last website update seems to have unleashed a whole host of issues.
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+				
+				
+			</div>
+			
+			
+			
+			
+			
+		
+		 
+	
+	
+			
+			
+		</div>
+	
+	</div> 
+
+	
+	
+	
+	
+</li>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+			
+		
+			
+				
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+
+<li id="post-1358121" class="sectionMain message      " data-author="taldric">
+
+	<div class="uix_message ">
+		
+		
+	
+	
+	
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+
+<div class="messageUserBlock  is-expanded ">	
+	
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/taldric.42809/" class="avatar Av42809l" data-avatarhtml="true"><img src="styles/xenith/xenforo/avatars/avatar_l.png" width="192" height="192" alt="taldric" /></a>
+			
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+		
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+				
+				
+				
+				<a href="members/taldric.42809/" class="username" dir="auto" itemprop="name">taldric</a>
+				<em class="userTitle" itemprop="title">Member</em>
+			</div>
+			
+<div class="ssd_groupBadges">
+
+
+</div>
+
+
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+		
+	
+
+		<div class="extraUserInfo is-expanded">
+			
+			
+				
+					<dl class="pairsJustified">
+						<dt>Joined:</dt>
+						<dd>Jan 29, 2016</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Messages:</dt>
+						<dd><a href="search/member?user_id=42809" class="concealed" rel="nofollow">75</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+				
+				
+			
+				
+				
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Location:</dt>
+						<dd><a href="misc/location-info?location=Federal+Way%2C+WA" target="_blank" rel="nofollow" itemprop="address" class="concealed">Federal Way, WA</a></dd>
+					</dl>
+				
+			
+				
+							
+						
+			
+			
+			
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+				
+			
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+	
+		<div class="messageInfo primaryContent">
+			<div class="messageDetails">
+			
+				
+		
+		
+		
+		<a href="posts/1358121/" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/1358121/permalink">#2</a>
+		
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/taldric.42809/" class="username author" dir="auto">taldric</a>,</span>
+			<a href="posts/1358121/" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Feb 5, 2016 at 6:12 PM">Feb 5, 2016</span>
+			
+			</a>
+		</span>
+	
+	
+			
+				
+				
+			</div>
+			
+			
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						<div class="bbCodeBlock bbCodeQuote" data-author="Brunton">
+	<aside>
+		
+			<div class="attribution type">Brunton said:
+				
+					<a href="goto/post?id=1358117#post-1358117" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Tonight I logged into My Tesla, and instead of my order status I see an opportunity to order a Model S or reserve a Model X. Nothing anywhere about my S that should be nearing production. Plus the info they show for me has the old phone and address from nearly two years ago. No sign of the updated info I input earlier this year, let alone my insurance card and DL scans.<br />
+<br />
+That last website update seems to have unleashed a whole host of issues.</div><div class="quoteExpand">Click to expand...</div></blockquote>
+	</aside>
+</div><br />
+Mine me looks fine. Are you sure you aren&#039;t just seeing an old stale cache on you browser?
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+				
+				
+			</div>
+			
+			
+			
+			
+			
+		
+		 
+	
+	
+			
+			
+		</div>
+	
+	</div> 
+
+	
+	
+	
+	
+</li>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+			
+		
+			
+				
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+
+<li id="post-1358133" class="sectionMain message      uix_threadAuthor uix_discussionAuthor" data-author="Brunton">
+
+	<div class="uix_message ">
+		
+		
+	
+	
+	
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+
+<div class="messageUserBlock  is-expanded online">	
+	
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/brunton.26260/" class="avatar Av26260l" data-avatarhtml="true"><img src="data/avatars/l/26/26260.jpg?1457863259" width="192" height="192" alt="Brunton" /></a>
+			
+			<span class="Tooltip onlineMarker" title="Online Now" data-offsetX="-22" data-offsetY="-8"></span>
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+		
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+				
+				
+				
+				<a href="members/brunton.26260/" class="username" dir="auto" itemprop="name">Brunton</a>
+				<em class="userTitle" itemprop="title">Pontificating the obvious</em>
+			</div>
+			
+<div class="ssd_groupBadges">
+
+
+</div>
+
+
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+		
+		
+		        
+					
+                		
+                         
+		         <div class="fc_group_badges extraUserInfo">
+		        
+                         
+
+			<a href="groups/38/view" class="ToolTip">
+			<img title="Carolina&#039;s Tesla Owners and Enthusiasts" src="data/forumcube/group/avatars/s/0/38.jpg?1457909203" width="24"/>
+			</a>
+                       
+		        	
+                         
+		         </div>
+                         
+
+
+
+		<div class="extraUserInfo is-expanded">
+			
+			
+				
+					<dl class="pairsJustified">
+						<dt>Joined:</dt>
+						<dd>Jun 27, 2014</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Messages:</dt>
+						<dd><a href="search/member?user_id=26260" class="concealed" rel="nofollow">300</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+				
+				
+			
+				
+				
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Location:</dt>
+						<dd><a href="misc/location-info?location=Goose+Creek+SC" target="_blank" rel="nofollow" itemprop="address" class="concealed">Goose Creek SC</a></dd>
+					</dl>
+				
+			
+				
+							
+						
+			
+			
+			
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+				
+			
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+	
+		<div class="messageInfo primaryContent">
+			<div class="messageDetails">
+			
+				
+		
+		
+		
+		<a href="posts/1358133/" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/1358133/permalink">#3</a>
+		
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/brunton.26260/" class="username author" dir="auto">Brunton</a>,</span>
+			<a href="posts/1358133/" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Feb 5, 2016 at 6:36 PM">Feb 5, 2016</span>
+			
+			</a>
+		</span>
+	
+	
+			
+				
+				
+			</div>
+			
+			
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						Yes. I did a page refresh and it didn&#039;t change. I also logged off and then back on. Plus I wasn&#039;t even using this browser when I had the old address. <br />
+<br />
+Maybe it will fix itself by tomorrow.<br />
+<br />
+<span style="color: silver"><span style="font-size: 9px">- - - Updated - - -</span></span><br />
+<br />
+Now it&#039;s seems fixed. I don&#039;t know what happened.
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+				
+				
+			</div>
+			
+			
+			
+			
+			
+		
+		 
+	
+	
+			
+			
+		</div>
+	
+	</div> 
+
+	
+	
+	
+	
+</li>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+			
+		
+			
+				
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+
+<li id="post-1358536" class="sectionMain message      " data-author="BertL">
+
+	<div class="uix_message ">
+		
+		
+	
+	
+	
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+
+<div class="messageUserBlock  is-expanded ">	
+	
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/bertl.38547/" class="avatar Av38547l" data-avatarhtml="true"><img src="data/avatars/l/38/38547.jpg?1458045145" width="192" height="192" alt="BertL" /></a>
+			
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+		
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+				
+				
+				
+				<a href="members/bertl.38547/" class="username" dir="auto" itemprop="name">BertL</a>
+				<em class="userTitle" itemprop="title">Supporting Member</em>
+			</div>
+			
+<div class="ssd_groupBadges">
+
+<a class="ssd_groupBadge tja_groupBadge_staff Tooltip" title="Supporting Member - Blue" style="" data-tipclass="iconTip"><img src="/tmc/styles/tmc2016/Supporting-Member-badge2.png"></a>
+</div>
+
+
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+		
+		
+		        
+					
+                		
+                         
+		         <div class="fc_group_badges extraUserInfo">
+		        
+                         
+
+			<a href="groups/21/view" class="ToolTip">
+			<img title="San Diego Tesla Club" src="data/forumcube/group/avatars/s/0/21.jpg?1457907975" width="24"/>
+			</a>
+                       
+		        		
+                		
+                         
+
+			<a href="groups/96/view" class="ToolTip">
+			<img title="IOS" src="data/forumcube/group/avatars/s/0/96.jpg?1460066029" width="24"/>
+			</a>
+                       
+		        	
+                         
+		         </div>
+                         
+
+
+
+		<div class="extraUserInfo is-expanded">
+			
+			
+				
+					<dl class="pairsJustified">
+						<dt>Joined:</dt>
+						<dd>Aug 19, 2015</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Messages:</dt>
+						<dd><a href="search/member?user_id=38547" class="concealed" rel="nofollow">1,724</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+				
+				
+			
+				
+				
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Location:</dt>
+						<dd><a href="misc/location-info?location=Carlsbad%2C+CA" target="_blank" rel="nofollow" itemprop="address" class="concealed">Carlsbad, CA</a></dd>
+					</dl>
+				
+			
+				
+							
+						
+			
+			
+			
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+				
+			
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+	
+		<div class="messageInfo primaryContent">
+			<div class="messageDetails">
+			
+				
+		
+		
+		
+		<a href="posts/1358536/" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/1358536/permalink">#4</a>
+		
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/bertl.38547/" class="username author" dir="auto">BertL</a>,</span>
+			<a href="posts/1358536/" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Feb 6, 2016 at 5:20 AM">Feb 6, 2016</span>
+			
+			</a>
+		</span>
+	
+	
+			
+				
+				
+			</div>
+			
+			
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						<div class="bbCodeBlock bbCodeQuote" data-author="Brunton">
+	<aside>
+		
+			<div class="attribution type">Brunton said:
+				
+					<a href="goto/post?id=1358133#post-1358133" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Yes. I did a page refresh and it didn&#039;t change. I also logged off and then back on. Plus I wasn&#039;t even using this browser when I had the old address. <br />
+<br />
+Maybe it will fix itself by tomorrow.<br />
+<br />
+<span style="color: silver"><span style="font-size: 9px">- - - Updated - - -</span></span><br />
+<br />
+Now it&#039;s seems fixed. I don&#039;t know what happened.</div><div class="quoteExpand">Click to expand...</div></blockquote>
+	</aside>
+</div>Tesla seemed to be making some rather significant changes to My Tesla the last week or two, so I wouldn&#039;t worry about your actual order too much.  You can always contact your Delivery Specialist if you have questions before your MS arrives -- assuming you have had one assigned already.  Good luck on the waiting -- it&#039;s the hardest part the whole process!
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+				
+				
+			</div>
+			
+			
+			
+			
+			
+		
+		 
+	
+	
+			
+			
+		</div>
+	
+	</div> 
+
+	
+	
+	
+	
+</li>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+			
+		
+			
+				
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+
+<li id="post-1358696" class="sectionMain message      " data-author="ScottE">
+
+	<div class="uix_message ">
+		
+		
+	
+	
+	
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+
+<div class="messageUserBlock  is-expanded ">	
+	
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/scotte.33509/" class="avatar Av33509l" data-avatarhtml="true"><img src="styles/xenith/xenforo/avatars/avatar_male_l.png" width="192" height="192" alt="ScottE" /></a>
+			
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+		
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+				
+				
+				
+				<a href="members/scotte.33509/" class="username" dir="auto" itemprop="name">ScottE</a>
+				<em class="userTitle" itemprop="title">New Member</em>
+			</div>
+			
+<div class="ssd_groupBadges">
+
+
+</div>
+
+
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+		
+		
+		        
+					
+                		
+                         
+		         <div class="fc_group_badges extraUserInfo">
+		        
+                         
+
+			<a href="groups/21/view" class="ToolTip">
+			<img title="San Diego Tesla Club" src="data/forumcube/group/avatars/s/0/21.jpg?1457907975" width="24"/>
+			</a>
+                       
+		        		
+                		
+                         
+
+			<a href="groups/66/view" class="ToolTip">
+			<img title="Tesla Android App Users" src="data/forumcube/group/avatars/s/0/66.jpg?1457909161" width="24"/>
+			</a>
+                       
+		        	
+                         
+		         </div>
+                         
+
+
+
+		<div class="extraUserInfo is-expanded">
+			
+			
+				
+					<dl class="pairsJustified">
+						<dt>Joined:</dt>
+						<dd>Mar 13, 2015</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Messages:</dt>
+						<dd><a href="search/member?user_id=33509" class="concealed" rel="nofollow">4</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+				
+				
+			
+				
+				
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Location:</dt>
+						<dd><a href="misc/location-info?location=San+Diego%2C+CA" target="_blank" rel="nofollow" itemprop="address" class="concealed">San Diego, CA</a></dd>
+					</dl>
+				
+			
+				
+							
+						
+			
+			
+			
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+				
+			
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+	
+		<div class="messageInfo primaryContent">
+			<div class="messageDetails">
+			
+				
+		
+		
+		
+		<a href="posts/1358696/" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/1358696/permalink">#5</a>
+		
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/scotte.33509/" class="username author" dir="auto">ScottE</a>,</span>
+			<a href="posts/1358696/" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Feb 6, 2016 at 8:28 AM">Feb 6, 2016</span>
+			
+			</a>
+		</span>
+	
+	
+			
+				
+				
+			</div>
+			
+			
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						I see weirdness as well - the forum links are gone, service purchase links just go to the root of MyTesla, etc.  Looks like there&#039;s a re-design in progress that&#039;s kind of half-assed.  I wouldn&#039;t worry about it.
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+				
+				
+			</div>
+			
+			
+			
+			
+			
+		
+		 
+	
+	
+			
+			
+		</div>
+	
+	</div> 
+
+	
+	
+	
+	
+</li>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+			
+		
+			
+				
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+
+<li id="post-1358704" class="sectionMain message      " data-author="taldric">
+
+	<div class="uix_message ">
+		
+		
+	
+	
+	
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+
+<div class="messageUserBlock  is-expanded ">	
+	
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/taldric.42809/" class="avatar Av42809l" data-avatarhtml="true"><img src="styles/xenith/xenforo/avatars/avatar_l.png" width="192" height="192" alt="taldric" /></a>
+			
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+		
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+				
+				
+				
+				<a href="members/taldric.42809/" class="username" dir="auto" itemprop="name">taldric</a>
+				<em class="userTitle" itemprop="title">Member</em>
+			</div>
+			
+<div class="ssd_groupBadges">
+
+
+</div>
+
+
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+		
+	
+
+		<div class="extraUserInfo is-expanded">
+			
+			
+				
+					<dl class="pairsJustified">
+						<dt>Joined:</dt>
+						<dd>Jan 29, 2016</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Messages:</dt>
+						<dd><a href="search/member?user_id=42809" class="concealed" rel="nofollow">75</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+				
+				
+			
+				
+				
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Location:</dt>
+						<dd><a href="misc/location-info?location=Federal+Way%2C+WA" target="_blank" rel="nofollow" itemprop="address" class="concealed">Federal Way, WA</a></dd>
+					</dl>
+				
+			
+				
+							
+						
+			
+			
+			
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+				
+			
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+	
+		<div class="messageInfo primaryContent">
+			<div class="messageDetails">
+			
+				
+		
+		
+		
+		<a href="posts/1358704/" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/1358704/permalink">#6</a>
+		
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/taldric.42809/" class="username author" dir="auto">taldric</a>,</span>
+			<a href="posts/1358704/" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Feb 6, 2016 at 8:33 AM">Feb 6, 2016</span>
+			
+			</a>
+		</span>
+	
+	
+			
+				
+				
+			</div>
+			
+			
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						I&#039;m surprised at how long the Tesla Motors web site has been in flux. They warned that the forums were going off-line, but this is going on nearly a week now. I wonder what the problem is?
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+				
+				
+			</div>
+			
+			
+			
+			
+			
+		
+		 
+	
+	
+			
+			
+		</div>
+	
+	</div> 
+
+	
+	
+	
+	
+</li>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+			
+		
+			
+				
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+
+<li id="post-1358846" class="sectionMain message      " data-author="Tony27nine">
+
+	<div class="uix_message ">
+		
+		
+	
+	
+	
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+
+<div class="messageUserBlock  is-expanded ">	
+	
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/tony27nine.43044/" class="avatar Av43044l" data-avatarhtml="true"><img src="styles/xenith/xenforo/avatars/avatar_l.png" width="192" height="192" alt="Tony27nine" /></a>
+			
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+		
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+				
+				
+				
+				<a href="members/tony27nine.43044/" class="username" dir="auto" itemprop="name">Tony27nine</a>
+				<em class="userTitle" itemprop="title">Member</em>
+			</div>
+			
+<div class="ssd_groupBadges">
+
+
+</div>
+
+
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+		
+	
+
+		<div class="extraUserInfo is-expanded">
+			
+			
+				
+					<dl class="pairsJustified">
+						<dt>Joined:</dt>
+						<dd>Feb 6, 2016</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Messages:</dt>
+						<dd><a href="search/member?user_id=43044" class="concealed" rel="nofollow">5</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+				
+				
+			
+				
+				
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Location:</dt>
+						<dd><a href="misc/location-info?location=England" target="_blank" rel="nofollow" itemprop="address" class="concealed">England</a></dd>
+					</dl>
+				
+			
+				
+							
+						
+			
+			
+			
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+				
+			
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+	
+		<div class="messageInfo primaryContent">
+			<div class="messageDetails">
+			
+				
+		
+		
+		
+		<a href="posts/1358846/" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/1358846/permalink">#7</a>
+		
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/tony27nine.43044/" class="username author" dir="auto">Tony27nine</a>,</span>
+			<a href="posts/1358846/" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Feb 6, 2016 at 10:48 AM">Feb 6, 2016</span>
+			
+			</a>
+		</span>
+	
+	
+			
+				
+				
+			</div>
+			
+			
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						Somewhat ironic don&#039;t you think that a tech-based, silicone-valley company like Tesla, run by a computer coder, that made his fortune from designing web sites can&#039;t keep a web-site up and running. In today&#039;s world you make amends to the site THEN go live with it not take the existing one down to mess around. Does make you realise why the new releases for the Model S take so long.....
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+				
+				
+			</div>
+			
+			
+			
+			
+			
+		
+		 
+	
+	
+			
+			
+		</div>
+	
+	</div> 
+
+	
+	
+	
+	
+</li>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+			
+		
+			
+				
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+
+<li id="post-1359931" class="sectionMain message      " data-author="bob_p">
+
+	<div class="uix_message ">
+		
+		
+	
+	
+	
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+
+<div class="messageUserBlock  is-expanded ">	
+	
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/bob_p.9450/" class="avatar Av9450l" data-avatarhtml="true"><img src="styles/xenith/xenforo/avatars/avatar_l.png" width="192" height="192" alt="bob_p" /></a>
+			
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+		
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+				
+				
+				
+				<a href="members/bob_p.9450/" class="username" dir="auto" itemprop="name">bob_p</a>
+				<em class="userTitle" itemprop="title">Active Member</em>
+			</div>
+			
+<div class="ssd_groupBadges">
+
+
+</div>
+
+
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+		
+	
+
+		<div class="extraUserInfo is-expanded">
+			
+			
+				
+					<dl class="pairsJustified">
+						<dt>Joined:</dt>
+						<dd>Apr 5, 2012</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Messages:</dt>
+						<dd><a href="search/member?user_id=9450" class="concealed" rel="nofollow">1,109</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+				
+				
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+			
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+				
+			
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+	
+		<div class="messageInfo primaryContent">
+			<div class="messageDetails">
+			
+				
+		
+		
+		
+		<a href="posts/1359931/" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/1359931/permalink">#8</a>
+		
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/bob_p.9450/" class="username author" dir="auto">bob_p</a>,</span>
+			<a href="posts/1359931/" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Feb 7, 2016 at 9:05 AM">Feb 7, 2016</span>
+			
+			</a>
+		</span>
+	
+	
+			
+				
+				
+			</div>
+			
+			
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						Have you tried running the new website using the car&#039;s browser?  Still a few items that don&#039;t work...<br />
+<br />
+And it looks like the forums may be gone.  Which is OK, with the TMC forum, there really isn&#039;t a need any more for Tesla to have their own forums - and waste resources managing the content.  Though there is still a broken link on the software updates page pointing to the forums (it takes you back to the home page).
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+				
+				
+			</div>
+			
+			
+			
+			
+			
+		
+		 
+	
+	
+			
+			
+		</div>
+	
+	</div> 
+
+	
+	
+	
+	
+</li>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+			
+		
+		
+	</ol>
+
+	
+
+	<input type="hidden" name="_xfToken" value="" />
+
+</form>
+
+	<div class="pageNavLinkGroup">
+			
+				<div class="linkGroup">
+					
+						
+							<a href="login/" class="concealed element OverlayTrigger">(You must log in or sign up to post here.)</a>
+						
+					
+				</div>
+			
+			<div class="linkGroup" style="display: none"><a href="javascript:" class="muted JsOnly DisplayIgnoredContent Tooltip" title="Show hidden content by ">Show Ignored Content</a></div>
+
+			
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+	<div class="sharePage">
+		<h3 class="textHeading larger">Share This Page</h3>
+		
+			
+			
+				<div class="tweet shareControl">
+					<a href="https://twitter.com/share" class="twitter-share-button"
+						data-count="horizontal"
+						data-lang="en-US"
+						data-url="https://teslamotorsclub.com/tmc/threads/what-is-up-with-my-tesla.62114/"
+						data-text="What is up with My Tesla?"
+						data-via="teslamotorsclub"
+						>Tweet</a>
+				</div>
+			
+			
+				<div class="plusone shareControl">
+					<div class="g-plusone" data-size="medium" data-count="true" data-href="https://teslamotorsclub.com/tmc/threads/what-is-up-with-my-tesla.62114/"></div>
+				</div>
+			
+			
+				<div class="facebookLike shareControl">
+					
+					<div class="fb-like" data-href="https://teslamotorsclub.com/tmc/threads/what-is-up-with-my-tesla.62114/" data-width="400" data-layout="standard" data-action="recommend" data-show-faces="true" data-colorscheme="light"></div>
+				</div>
+			
+			
+		
+	</div>
+
+						
+						
+						
+						
+							<!-- login form, to be moved to the upper drop-down -->
+							
+
+
+
+
+
+
+
+<form action="login/login" method="post" class="xenForm eAuth" id="login" style="display:none">
+
+	
+		<ul id="eAuthUnit">
+			
+				
+				
+					
+					<li><a href="register/facebook?reg=1" class="fbLogin" tabindex="110"><span>Log in with Facebook</span></a></li>
+				
+				
+				
+					
+					<li><a href="register/twitter?reg=1" class="twitterLogin" tabindex="110"><span>Log in with Twitter</span></a></li>
+				
+				
+				
+					
+					<li><span class="googleLogin GoogleLogin JsOnly" tabindex="110" data-client-id="894958665337-e1crkj89q7ead4antgp73ua0h5dt64nt.apps.googleusercontent.com" data-redirect-url="register/google?code=__CODE__&amp;csrf=bgQRPO-pJAr336ow"><span>Log in with Google</span></span></li>
+				
+				
+			
+		</ul>
+	
+
+	<div class="ctrlWrapper">
+		<dl class="ctrlUnit">
+			<dt><label for="LoginControl">Your name or email address:</label></dt>
+			<dd><input type="text" name="login" id="LoginControl" class="textCtrl" tabindex="101" /></dd>
+		</dl>
+	
+	
+		<dl class="ctrlUnit">
+			<dt>
+				<label for="ctrl_password">Do you already have an account?</label>
+			</dt>
+			<dd>
+				<ul>
+					<li><label for="ctrl_not_registered"><input type="radio" name="register" value="1" id="ctrl_not_registered" tabindex="105" />
+						No, create an account now.</label></li>
+					<li><label for="ctrl_registered"><input type="radio" name="register" value="0" id="ctrl_registered" tabindex="105" checked="checked" class="Disabler" />
+						Yes, my password is:</label></li>
+					<li id="ctrl_registered_Disabler">
+						<input type="password" name="password" class="textCtrl" id="ctrl_password" tabindex="102" />
+						<div class="lostPassword"><a href="lost-password/" class="OverlayTrigger OverlayCloser" tabindex="106">Forgot your password?</a></div>
+					</li>
+				</ul>
+			</dd>
+		</dl>
+	
+		
+		<dl class="ctrlUnit submitUnit">
+			<dt></dt>
+			<dd>
+				<input type="submit" class="button primary" value="Log in" tabindex="104" data-loginPhrase="Log in" data-signupPhrase="Sign up" />
+				<label for="ctrl_remember" class="rememberPassword"><input type="checkbox" name="remember" value="1" id="ctrl_remember" tabindex="103" /> Stay logged in</label>
+			</dd>
+		</dl>
+	</div>
+
+	<input type="hidden" name="cookie_check" value="1" />
+	<input type="hidden" name="redirect" value="/tmc/threads/what-is-up-with-my-tesla.62114/" />
+	<input type="hidden" name="_xfToken" value="" />
+
+</form>
+						
+						
+			
+				</div>
+			
+			
+			
+			
+			
+						
+			
+	
+	<div class="section funbox">
+	<div class="funboxWrapper">
+	
+	
+		
+			
+				<div id="funbox_zone_2c68253efd00a182666766a85e6c2553" class="funzone funzone_below_bottom_breadcrumb " style="display:block;overflow:hidden;"><div class="" id="funpub_3d155725d78199b24ef65b56a87f4e4d"><script type="text/javascript">googletag.cmd.push(function() { googletag.display('funpub_3d155725d78199b24ef65b56a87f4e4d'); });</script></div></div>
+                	
+				
+				
+				
+				
+
+				
+			
+		
+	
+	
+	</div>
+	</div>
+
+						
+			</div>
+	
+		</div>
+	</div>
+	
+
+</div>
+
+<footer>
+	
+
+
+	<div id="uix_jumpToFixed">
+		
+			<a href="#XenForo" title="Top" data-position="top"><i class="uix_icon uix_icon-jumpToTop"></i></a>
+		
+		
+			<a href="#XenForo" title="Bottom" data-position="bottom"><i class="uix_icon uix_icon-jumpToBottom"></i></a>
+		
+	</div>
+
+
+
+
+
+
+
+
+	
+		
+			<script type="text/javascript" src="//s.skimresources.com/js/37170X963217.skimlinks.js"></script>
+		
+	
+
+
+
+
+<div id="uix_stickyFooterSpacer"></div>
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+<div class="footerLegal">
+	
+		<div class="pageContent">
+			<div class="pageWidth">
+			<div id="copyright">
+				 
+
+
+Copyright © 2006-2017 Tesla Motors Club LLC. All rights reserved.</br>
+Tesla Motors Club LLC (TMC) is an independent enthusiast organization and is not affiliated with Tesla Motors, Inc. or its subsidiaries. TESLA, TESLA MOTORS, TESLA ROADSTER, MODEL S, MODEL X, and the “TESLA,” “T” and “TESLA and T in Crest” designs are trademarks or registered trademarks of Tesla Motors, Inc. in the United States and other countries.
+				
+			</div>
+			
+			
+				<ul class="uix_socialMediaLinks">
+	<li class="uix_socialLink uix_socialLink--facebook"><a href="https://www.facebook.com/TeslaMotorsClub/" target="_blank"><i class="uix_icon uix_icon-facebook"></i></a></li>
+        
+        <li class="uix_socialLink uix_socialLink--twitter"><a href="https://twitter.com/TeslaMotorsClub" target="_blank"><i class="uix_icon uix_icon-twitter"></i></a></li>
+        
+        <li class="uix_socialLink uix_socialLink--youtube"><a href="https://www.youtube.com/channel/UCrpEVeEwn6-ZDdhctb8xj8g" target="_blank"><i class="uix_icon uix_icon-youtube"></i></a></li>
+        
+        
+        
+        
+        
+        
+        
+        <li class="uix_socialLink uix_socialLink--googleplus"><a href="https://plus.google.com/+Teslamotorsclub" target="_blank"><i class="uix_icon uix_icon-googlePlus"></i></a></li>
+        
+        
+        
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+	
+	
+	    <li class="uix_socialLink uix_socialLink--contact"><a href="misc/contact" class="OverlayTrigger" data-overlayOptions="{&quot;fixed&quot;:false}"><i class="uix_icon uix_icon-email"></i></a></li>
+	
+	
+	
+        
+
+
+
+<!--ADD LIST ITEMS HERE -->
+
+
+        
+        
+</ul>
+				
+			
+
+			<span class="helper"></span>
+		</div>
+	</div>	
+</div>
+
+
+
+<div class="footer">
+	
+		<div class="pageContent">
+			<div class="pageWidth">
+			
+				
+				
+					<dl class="choosers chooser_widthToggle">
+						<dt>Toggle Width</dt>
+						<dd><a href="javascript: uix.toggleWidth.toggle()" class='Tooltip' title="Toggle Width" rel="nofollow"><span class="uix_icon js-widthIcon uix_icon-expandWidth"></span></a></dd>
+					</dl>
+				
+				
+					<dl class="choosers">
+						
+							<dt>Style</dt>
+							<dd><a href="misc/style?redirect=%2Ftmc%2Fthreads%2Fwhat-is-up-with-my-tesla.62114%2F" class="OverlayTrigger Tooltip" title="Style Chooser" rel="nofollow">TMC 2016</a></dd>
+						
+						
+					</dl>
+				
+				
+				
+				<ul class="footerLinks">
+					
+						<li><a href="https://teslamotorsclub.com/tmc/" class="homeLink">Home</a></li>
+						
+                
+                
+							<li><a href="misc/contact" class="OverlayTrigger" data-overlayOptions="{&quot;fixed&quot;:false}">Contact Us</a></li>
+						
+						<li><a href="help/">Help</a></li>
+					
+					
+						<li><a href="https://teslamotorsclub.com/tmc/threads/terms-of-service.21568/#post-442665">Terms and Rules</a></li>
+						<li><a href="https://teslamotorsclub.com/tmc/threads/privacy-policy.18250/#post-370273">Privacy Policy</a></li>
+					
+					<li class="topLink"><a href="/tmc/threads/what-is-up-with-my-tesla.62114/#XenForo"><i class="uix_icon uix_icon-jumpToTop"></i> <span class="uix_hide">Top</span></a></li>
+				</ul>
+				
+				
+			
+			</div>
+			<span class="helper"></span>
+		</div>
+	
+</div>
+
+
+	
+
+</footer>
+
+<script>
+
+
+jQuery.extend(true, XenForo,
+{
+	visitor: { user_id: 0 },
+	serverTimeInfo:
+	{
+		now: 1487957246,
+		today: 1487923200,
+		todayDow: 5
+	},
+	_lightBoxUniversal: "1",
+	_enableOverlays: "1",
+	_animationSpeedMultiplier: "0.5",
+	_overlayConfig:
+	{
+		top: "10%",
+		speed: 100,
+		closeSpeed: 50,
+		mask:
+		{
+			color: "rgb(0, 0, 0)",
+			opacity: "0.4",
+			loadSpeed: 100,
+			closeSpeed: 50
+		}
+	},
+	_ignoredUsers: [],
+	_loadedScripts: {"thread_view":true,"message":true,"bb_code":true,"message_user_info":true,"ssd_groupbadges":true,"share_page":true,"admon_funboxMessage":true,"funbox":true,"login_bar":true,"xengallery_tab_links":true,"facebook":true,"twitter":true,"google":true,"moderator_bar":true,"fc_navigation":true,"fc_navigation_icons":true,"js\/ForumCube\/NavigationManager\/mobilemenu.js?_v=f664bb9f":true,"js\/ForumCube\/NavigationManager\/jquery.sticky.js?_v=f664bb9f":true,"js\/ForumCube\/NavigationManager\/base.js?_v=f664bb9f":true},
+	_cookieConfig: { path: "/", domain: ".teslamotorsclub.com", prefix: "tmc_"},
+	_csrfToken: "",
+	_csrfRefreshUrl: "login/csrf-token-refresh",
+	_jsVersion: "f664bb9f",
+	_noRtnProtect: false,
+	_noSocialLogin: false
+});
+jQuery.extend(XenForo.phrases,
+{
+	xengallery_lightbox_loading:	"Loading...",
+	xengallery_lightbox_close:	"Close (Esc)",
+	xengallery_lightbox_previous:	"Previous (Left arrow key)",
+	xengallery_lightbox_next:	"Next (Right arrow key)",
+	xengallery_lightbox_counter:	"%curr% of %total%",
+	xengallery_lightbox_error:	"The <a href=\"%url%\">media<\/a> could not be loaded.",
+	xengallery_touch_error:		"This operation will not work from a touch enabled device.",
+	cancel: "Cancel",
+
+	a_moment_ago:    "A moment ago",
+	one_minute_ago:  "1 minute ago",
+	x_minutes_ago:   "%minutes% minutes ago",
+	today_at_x:      "Today at %time%",
+	yesterday_at_x:  "Yesterday at %time%",
+	day_x_at_time_y: "%day% at %time%",
+
+	day0: "Sunday",
+	day1: "Monday",
+	day2: "Tuesday",
+	day3: "Wednesday",
+	day4: "Thursday",
+	day5: "Friday",
+	day6: "Saturday",
+
+	_months: "January,February,March,April,May,June,July,August,September,October,November,December",
+	_daysShort: "Sun,Mon,Tue,Wed,Thu,Fri,Sat",
+
+	following_error_occurred: "The following error occurred",
+	server_did_not_respond_in_time_try_again: "The server did not respond in time. Please try again.",
+	logging_in: "Logging in",
+	click_image_show_full_size_version: "Click this image to show the full-size version.",
+	show_hidden_content_by_x: "Show hidden content by {names}"
+});
+
+// Facebook Javascript SDK
+XenForo.Facebook.appId = "152211328134762";
+XenForo.Facebook.forceInit = true;
+
+
+</script>
+
+
+
+
+
+
+
+</div> 
+
+<div class="uix_wrapperFix" style="height: 1px; margin-top: -1px;"></div>
+
+
+		</div> 
+	</div> 
+	
+	
+
+
+<script>
+
+$(document).ready(function(){
+    $("select").after("<i class='material-icons selectBoxIcon'>arrow_drop_down</i>");
+});
+
+</script>
+
+<!-- UI.X Version: 1.5.7.0 //-->
+
+</body>
+                <script>audentio.funbox.init('{"advertisements":[],"devices":{"desktop":{"min_width":"1051","max_width":"0"},"tablet_landscape":{"min_width":"801","max_width":"1050"},"tablet_portrait":{"min_width":"521","max_width":"800"},"mobile":{"min_width":"0","max_width":"520"}}}');</script>
+</html>

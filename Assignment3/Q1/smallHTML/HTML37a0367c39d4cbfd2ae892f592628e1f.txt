@@ -1,0 +1,2529 @@
+<!DOCTYPE html>
+ <!--[if IE 8 ]><html class="ie8" lang="en"><![endif]-->
+ <!--[if (gte IE 9)|!(IE)]><!--><html lang="en"><!--<![endif]-->
+ <head>
+   <title>
+     Did Chick-fil-A&#8217;s President Say &#8216;We Don&#8217;t Like Blacks Either&#8217;? | News One   </title>
+   <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1">
+   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	 <meta charset="UTF-8"/>
+
+	 	<script>
+		var stylesheet_directory_uri = "https:\/\/s0.wp.com\/wp-content\/themes\/vip\/ione3",
+			home_url = "https:\/\/newsone.com\/",
+			ajax_url = "https:\/\/newsone.com\/wp-admin\/admin-ajax.php",
+			ad_s = 'p',
+			ad_i = 2780635,
+			screenSizes = [1000,768,480,320],
+			resizeHooks = { all: [], 320: [], 480: [], 768: [], 1000: [] };
+			</script>
+
+<meta name="description" content="Dan Cathy, Chick-fil-A CEO, supposedly wanted to start an anti-Black and minority campaign because it was profitable." /><meta name="news_keywords" content="black urban legends chick fil a, chick fil a racism, chick fil a racist, chick fil a homophobic" /><meta property="fb:pages" content="122177661170978" />
+
+<script async="async" type="text/javascript" src="//interactiveone-d.openx.net/w/1.0/jstag?nc=4052-natcontentsites "></script>	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer', 'GTM-TPR8JL');</script>
+	<!-- End Google Tag Manager -->
+			<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=newsone.com&amp;id=32316340&amp;t=1487957020&amp;back=https%3A%2F%2Fnewsone.com%2F2780635%2Fblack-urban-legends-chick-fil-a-racist-against-blacks%2F' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//ionenewsone.wordpress.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//pdk.theplatform.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="News One &raquo; Black Conspiracy Theory 101:  Did Chick-fil-A&#8217;s President Say &#8216;We Don&#8217;t Like Blacks&nbsp;Either&#8217;? Comments Feed" href="https://newsone.com/2780635/black-urban-legends-chick-fil-a-racist-against-blacks/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s1.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1473172720h&ver=4.6.1-RC1-38499"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='all-css-0-1' href='https://s2.wp.com/_static/??-eJylj80KwkAMhF/INRT/D+KjlO022miTXZqtfX1TF0+KIF5CmMw3YWBKLkTJKBl4dKkfLyQKIQ5oOiefwRyMLXnskc22DKoL+Ixx2r6oee18uOk3/5TM7ZomDajqbDKN7HJnj965IsOdErx4knMc2N2pxejY59CBUSCt1MVSp7HpKXzLoii4Aq+KWeFqGkobB1DDbmUumeS/hFLpp5y5R7nVz0o4qZ1n/MTHar3fVYfqsKmuD+gWp7M=' type='text/css' media='all' />
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='ione3-oldie-css'  href='https://s0.wp.com/wp-content/themes/vip/ione3/assets/css/themes_css/newsone_oldie.css?m=1487191951h&#038;ver=0.1.16' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='all-css-2-1' href='https://s2.wp.com/_static/??-eJx9kOEOgjAMhF/I2aiY4A/js4wxR01ZydrJ64sQBaPyr3eX+9IW+s44juqjgja+9QJ37KCjHDAKiEXSJmVwItBjHbxuJVfiElZ+O5gbQIisODDkPUzBgtxm8yIGz4bYWUWOH8JcyWJaqyZfEYdhDOM6s/wq/bjEMeU2Gmk4qeN6SK2IVxlRs/sP1RQQiCtLawtOD5LFs0xIWBsba0Mo+uxe2vOuOJ6Koiz3h9sDeAKPvA==' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ionegpt = {"tags":[],"attrs":{"pg":"black-urban-legends-chick-fil-a-racist-against-blacks","content":["post"],"category":["nation","newsone-original"],"tag":["black-conspiracy-theories","chick-fil-a","homophobia"],"author":"ionerlogan","postname":"black-urban-legends-chick-fil-a-racist-against-blacks","slot":"black-urban-legends-chick-fil-a-racist-against-blacks","ar":"id:2780635"},"gptSlots":[{"name":"header-post","path":"\/4052\/no.home\/nation","sizes":[[728,90],[970,66],[970,90],[970,250],[1000,200]],"div":"div-gpt-header-post","targets":{"pos":1,"sz":"728x90,970x66,970x90,970x250,1000x200"}},{"name":"sidebar1-post","path":"\/4052\/no.home\/nation","sizes":[[300,250],[300,600],[300,1050]],"div":"div-gpt-sidebar1-post","targets":{"pos":1,"sz":"300x250,300x600,300x1050"}},{"name":"sidebar2-post","path":"\/4052\/no.home\/nation","sizes":[[300,250],[300,600]],"div":"div-gpt-sidebar2-post","targets":{"pos":2,"sz":"300x250,300x600"}},{"name":"sidebar3-post","path":"\/4052\/no.home\/nation","sizes":[[300,250]],"div":"div-gpt-sidebar3-post","targets":{"pos":3,"sz":"300x250"}},{"name":"footer-post","path":"\/4052\/no.home\/nation","sizes":[[728,90],[970,66],[970,90],[970,250]],"div":"div-gpt-footer-post","targets":{"pos":2,"sz":"728x90,970x66,970x90,970x250"}},{"name":"out-of-page","path":"\/4052\/no.home\/nation","sizes":[],"div":"div-gpt-out-of-page","targets":{"pos":1,"sz":"oop"}}],"debug":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJyVkeFOxCAMgF9Ihnee8f4YH+XCoLd1QkFatnhP7zg9M+PiYkJSUj6+lqKnpJCsLw5YD/N6K5Dfv0Iz8J3+C1ABu2wEmoB0g20kAZLKhtiiB1UYsunm3Cw6xxUuRZYAzDO0cvqzJaQRYdrEBpBk7KvKwHj5ZZUe5np6xKSTLx0S69paDmpEB1EFI7avUnJ0+iROqbQe7dpICjnIbGNencOiFkaCB/19NURX/BxrWhl3dXVJ9psGwwxyxUcgF3M1QSa8LHaNLSwx/N+V0ErJcEbvl/uNp93GyAa99LlU4YSuA2m4tGwztvUXXsLz7nB82h93j4f74QOVFe/Q'></script>
+<link rel='stylesheet' id='all-css-0-2' href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621h' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ionenewsone.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="https://newsone.com/2780635/black-urban-legends-chick-fil-a-racist-against-blacks/" />
+<link rel='shortlink' href='http://wp.me/p2bAXi-bFmX' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=https%3A%2F%2Fnewsone.com%2F2780635%2Fblack-urban-legends-chick-fil-a-racist-against-blacks%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=https%3A%2F%2Fnewsone.com%2F2780635%2Fblack-urban-legends-chick-fil-a-racist-against-blacks%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Black Conspiracy Theory 101:  Did Chick-fil-A&#8217;s President Say &#8216;We Don&#8217;t Like Blacks Either&#8217;?" />
+<meta property="og:url" content="https://newsone.com/2780635/black-urban-legends-chick-fil-a-racist-against-blacks/" />
+<meta property="og:description" content="In June 2012, fast-food chain Chick-fil-A was placed in an extremely unfavorable light following a series of public comments made by its chief operating officer and son of the company&#8217;s found…" />
+<meta property="article:published_time" content="2013-11-18T19:58:29+00:00" />
+<meta property="article:modified_time" content="2016-07-28T14:56:49+00:00" />
+<meta property="og:site_name" content="News One" />
+<meta property="og:image" content="https://ionenewsone.files.wordpress.com/2016/07/14387935752781.jpg?quality=80&#038;strip=all&#038;w=560&#038;h=320&#038;crop=1" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="720" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@newsone" />
+<meta name="twitter:image:src" content="https://ionenewsone.files.wordpress.com/2016/07/14387935752781.jpg?quality=80&amp;strip=all&amp;w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@newsone" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<meta name="twitter:title" content="Black Conspiracy Theory 101:  Did Chick-fil-A&#039;s President Say &#039;We Don&#039;" />
+<meta name="twitter:description" content="In June 2012, fast-food chain Chick-fil-A was placed in an extremely unfavorable light following a series of public comments made by its chief operating officer and son of the company&#039;s founder, Dan C" />
+<meta property="pubexchange:headline" content="Black Conspiracy Theory 101:  Did Chick-fil-A&#039;s President Say &#039;We Don&#039;t Like Blacks Either&#039;?" />
+<meta property="pubexchange:description" content="In June 2012, fast-food chain Chick-fil-A was placed in an extremely unfavorable light following a series of public comments made by its chief operating officer and son of the company&#039;s founder, Dan Cathy, who vehemently opposed same-sex marriage. Gay civ" />
+<meta name="twitter:image" content="https://ionenewsone.files.wordpress.com/2016/07/14387935752781.jpg?quality=80&#038;strip=all&#038;w=560&#038;h=320&#038;crop=1" />
+<meta property="pubexchange:image" content="https://ionenewsone.files.wordpress.com/2016/07/14387935752781.jpg?quality=80&#038;strip=all&#038;w=560&#038;h=320&#038;crop=1" />
+<link rel="shortcut icon" type="image/x-icon" href="https://secure.gravatar.com/blavatar/6668551ed37ae84c805c71882fd04db1?s=32" sizes="16x16" />
+<link rel="icon" type="image/x-icon" href="https://secure.gravatar.com/blavatar/6668551ed37ae84c805c71882fd04db1?s=32" sizes="16x16" />
+<link rel="apple-touch-icon-precomposed" href="https://secure.gravatar.com/blavatar/6668551ed37ae84c805c71882fd04db1?s=114" />
+<link rel='openid.server' href='https://ionenewsone.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='https://ionenewsone.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="https://newsone.com/osd.xml" title="News One" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<script>var _sf_startpt=(new Date()).getTime()</script><meta name="msvalidate.01" content="30473C9E51B1FA7645F80C5736971CF1" />				<script>
+			var DartOrd = Math.floor(Math.random() * 1e16);
+		</script>
+	<meta name="tp:EnableExternalController" content="true" /><link type="text/plain" rel="author" href="https://s0.wp.com/wp-content/themes/vip/ione3/humans.txt" /><script type="text/javascript">var ajaxurl = "https://newsone.com/wp-admin/admin-ajax.php"</script><meta name="application-name" content="News One" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Breaking News for Black America" /><meta name="msapplication-task" content="name=Subscribe;action-uri=https://newsone.com/feed/;icon-uri=https://secure.gravatar.com/blavatar/6668551ed37ae84c805c71882fd04db1?s=16" /><link rel="amphtml" href="https://newsone.com/2780635/black-urban-legends-chick-fil-a-racist-against-blacks/amp/" /><style type="text/css" id="syntaxhighlighteranchor"></style>
+		<link rel="stylesheet" id="custom-css-css" type="text/css" href="https://s1.wp.com/?custom-css=1&#038;csblog=2bAXi&#038;cscache=6&#038;csrev=299" />
+			<script>
+		var ione_tag_manager = {"ga":{"title":"Black Conspiracy Theory 101:  Did Chick-fil-A&#8217;s President Say &#8216;We Don&#8217;t Like Blacks&nbsp;Either&#8217;?","id":"UA-28828852-3","categories":"Nation,NewsOne Original","tags":"Black Conspiracy Theories,Chick-fil-A,Homophobia","author":"ionerlogan","post_type":"post","site_type":"national"},"gumgum":"c27d34c4"};
+		var ione_mezzobit    = ione_tag_manager; // Support legacy tags using 'ione_mezzobit'.
+
+	</script>
+	
+					<!-- Taboola starts -->
+			<script type="text/javascript">
+				window._taboola = window._taboola || [];
+										_taboola.push({article: "auto"});
+						
+				!function (e, f, u) {
+					e.async = 1;
+					e.src = u;
+					f.parentNode.insertBefore(e, f);
+				}(document.createElement('script'), document.getElementsByTagName('script')[0], 'https://cdn.taboola.com/libtrc/interactiveone-network/loader.js');
+			</script>
+
+					<script type="text/javascript">
+				window._tfa = window._tfa || [];
+				_tfa.push({ notify: "action", name: "post_view" });
+			</script>
+			<script async="async" src="https://cdn.taboola.com/libtrc/interactiveone-network-sc/tfa.js"></script>
+					<!-- Taboola ends -->
+		 			 <meta property="fb:app_id" content="377055572350241" />
+		 			 <meta name="google-site-verification" content="u2f4U0NZG2umysL_ensHkKqBOB4ANi7DFZUOYU4vIUY" /> 			 <meta name="msvalidate.01" content="045A9DFCA943D7F788EB8555F46A71AC" /> 		 		 			 <meta name="apple-itunes-app" content="app-id=993495091, app-argument=https://newsone.com/2780635/black-urban-legends-chick-fil-a-racist-against-blacks/">
+		 
+	 <script type="text/javascript">
+
+		 // Run through and set the timeout to refresh page if any of these are true
+		 jQuery(document).ready(function ($) {
+			 			 			 		 });
+	 </script>
+
+</head>
+<!-- Add class has-gravity-ad to body if there's a gravity ad -->
+<body class="single single-post postid-2780635 single-format-standard has-push-menu mp6 customizer-styles-applied has-cover-image nation newsone-original highlander-enabled highlander-light" style="">
+
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TPR8JL"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	
+<div id="global-search" class="global-search">
+	<i class="icon-close global-search-close" id="global-search-close"></i>
+
+	<!-- Search box placeholder-->
+	<span class="ionesearch-box-placeholder"></span>
+
+	<!-- Placeholder div -->
+	<span id="ione-searchresults-placeholder"></span>
+
+</div>
+
+<!-- TEMPLATES -->
+<!-- Search collection template -->
+<script id="tmpl-ionesearch-collection" type="text/html">
+	<div class="search-results">
+
+		<div class="results__stories">
+			<div class="search-results-title">Stories</div>
+				<!-- Placeholder div -->
+				<div id="ione-searchresults-stories-placeholder"></div>
+
+		</div>
+		<!-- .results__stories -->
+
+		<div class="results__people">
+			<div class="search-results-title">People</div>
+				<!-- Placeholder div -->
+				<div id="ione-searchresults-people-placeholder"></div>
+		</div>
+		<!-- .results__people -->
+
+	</div>
+	<!-- .search-results -->
+
+	<!-- Search pagination placeholder-->
+	<div id="ione-searchpagination-placeholder"></div>
+</script>
+
+<!-- Search pagination template -->
+<script id="tmpl-ionesearch-pagination" type="text/html">
+	<div class="search-pagination">
+
+		<# if ( data.maxPages > 1 ) { #>
+		<a
+			class="search-nav-button search-previous <# if ( data.currentPage > 1 ) { #> active <# } #>"
+			value="{{{ data.previousPage }}}">&larr; Previous</a>
+		<div class="pagination-status">
+			<span class="current-page">{{{ data.currentPage }}}</span> of <span class="max-pages">{{{ data.maxPages }}}</span>
+		</div>
+		<a
+			class="search-nav-button search-next <# if ( data.currentPage < data.maxPages ) { #> active <# } #>"
+			value="{{{ data.nextPage }}}">Next &rarr;</a>
+		<# } #>
+
+	</div>
+	<!-- .search-pagination -->
+</script>
+
+<!-- Search box template -->
+<script id="tmpl-ionesearch-box" type="text/html">
+	<label for="global-search-field" class="search-input-header">
+		<i class="icon-search"></i>
+		<input type="text" placeholder="Type to search" id="global-search-field" class="global-search-field">
+	</label>
+	<i class="icon-close global-search-close" id="global-search-close"></i>
+</script>
+
+<!-- Search results template -->
+<script id="tmpl-ionesearch-result" type="text/html">
+
+	<div class="post has-post-thumbnail search-result {{ data.hasFocus }}">
+		<a class="post-link" href="{{ data.link }}">
+		<# if ( '' !== data.imageUrl ){ #>
+			<img srcset="{{ data.imageUrl }} 1x, {{ data.imageRetinaUrl }} 2x" alt="{{ data.imageAlt }}">
+		<# } #>
+			<div class="post-meta">
+				<p class="post-meta__title">{{{ data.title }}}</p>
+				<p class="post-meta__lead">{{{ data.lead }}}</p>
+			</div>
+		</a>
+	</div>
+
+</script>
+
+<!-- People Search results template -->
+<script id="tmpl-ionesearch-result-people" type="text/html">
+			<div class="post has-post-thumbnail search-result search-result--people {{ data.hasFocus }}">
+				<a class="post-link" href="{{ data.link }}">
+					<img alt="{{ data.imageAlt }}" src="{{ data.imageUrl }}">
+					<div class="post-meta">
+						<p class="post-meta__title">{{{ data.title }}}</p>
+						<p class="author__position">{{ data.position }}</p>
+					</div>
+				</a>
+			</div>
+</script>
+<nav class="push-menu" id="push-menu" role="navigation">
+	<button id="push-menu__close" class="icon-close push-menu__close"><span class="screen-reader-text">Close menu</span></button>
+	<ul id="menu-hamburger" class="push-primary-menu"><li id="menu-item-3366802" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3366802"><a href="https://newsone.com/category/phoenix/">Education</a></li>
+<li id="menu-item-3299295" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3299295"><a href="https://newsone.com/category/video-hub/">Video</a></li>
+<li id="menu-item-3586723" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3586723"><a href="https://newsone.com/category/one-obama/">#OneObama</a></li>
+<li id="menu-item-3290120" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-3290120"><a href="https://newsone.com/category/nation/">Nation</a></li>
+<li id="menu-item-3290122" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3290122"><a href="https://newsone.com/category/politicker-home/">Politicker</a></li>
+<li id="menu-item-3290121" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3290121"><a href="https://newsone.com/category/newsone-now/">NewsOne Now</a></li>
+<li id="menu-item-3290123" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3290123"><a href="https://newsone.com/category/good-news/">Good News</a></li>
+<li id="menu-item-3290124" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3290124"><a href="https://newsone.com/category/bizmedia/">Biz/Media</a></li>
+<li id="menu-item-3292905" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3292905"><a href="https://newsone.com/category/health/">Live Well</a></li>
+<li id="menu-item-3292904" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3292904"><a href="https://newsone.com/category/entertainment/">Entertainment</a></li>
+<li id="menu-item-3467732" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3467732"><a href="https://newsone.com/category/working-together/">Working Together</a></li>
+</ul><ul id="menu-3-footer-links" class="push-secondary-menu secondary-menu"><li id="menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28"><a href="/about/">About Us</a></li>
+<li id="menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29"><a href="http://interactiveone.com/privacy/">Privacy</a></li>
+<li id="menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31"><a href="http://interactiveone.com/terms-of-service">Terms of Service</a></li>
+<li id="menu-item-32" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32"><a href="http://interactiveone.com/solutions/">Advertising</a></li>
+<li id="menu-item-2067132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2067132"><a href="http://interactiveone.com/careers/">Careers</a></li>
+<li id="menu-item-2736610" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2736610"><a href="http://interactiveone.com">Interactive One Affluent</a></li>
+</ul><ul id="menu-social" class="social-menu"><li id="menu-item-3277485" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3277485"><a href="https://www.facebook.com/NewsOneOfficial"><span>Facebook</span></a></li>
+<li id="menu-item-3277486" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3277486"><a href="https://twitter.com/newsone"><span>Twitter</span></a></li>
+<li id="menu-item-3277487" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3277487"><a href="https://www.instagram.com/newsone_official/"><span>Instagram</span></a></li>
+</ul>	<div class="push-menu__content">
+		
+		<p>Copyright &copy; 2017 <a href="http://interactiveone.com/">Interactive One, LLC.</a>.</p>
+		<p>All Rights Reserved</p>
+		<p>Powered by <a href="https://vip.wordpress.com/?utm_source=vip_powered_wpcom&#038;utm_medium=web&#038;utm_campaign=VIP%20Footer%20Credit" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a></p>
+	</div>
+</nav>
+<div id="ione-container" class="push-content">
+	
+	<header id="header" class="main-header  has-player has-custom-logo" role="banner">
+		<div id="header-inner" class="main-header-inner">
+
+			<div class="main-logo-wrapper ">
+				<button id="menu-toggle" class="menu-toggle"><i class="icon-menu"></i></button>
+				<div class="main-title ">
+					<a href="https://newsone.com/">
+						<img srcset="https://i0.wp.com/ionenewsone.files.wordpress.com/2015/08/14389692707671.png?resize=9999%2C50&amp;quality=80&amp;strip=all&amp;ssl=1 1x, https://i0.wp.com/ionenewsone.files.wordpress.com/2015/08/14389692707671.png?resize=9999%2C100&amp;quality=80&amp;strip=all&amp;ssl=1 2x" class="navbar-logo" />					</a>
+				</div>
+			</div>
+
+			<!-- CUSTOM MENU -->
+<div class="menu-1-main-container"><ul id="menu-1-main" class="main-nav main-nav__type-standard"><li class="main-nav__item"><a href="https://newsone.com/category/one-obama/" class="main-nav__item-link">#OneObama</a></li>
+<li class="main-nav__item"><a href="https://newsone.com/category/nation/" class="main-nav__item-link">Nation</a></li>
+<li class="main-nav__item"><a title="Politicker" href="https://newsone.com/category/politicker-home/" class="main-nav__item-link">Politicker</a></li>
+<li class="main-nav__item"><a href="https://newsone.com/category/newsone-now/" class="main-nav__item-link">NewsOne Now</a></li>
+<li class="main-nav__item"><a href="https://newsone.com/category/good-news/" class="main-nav__item-link">Good News</a></li>
+<li class="main-nav__item"><a href="https://newsone.com/category/video-hub/" class="main-nav__item-link">Video</a></li>
+<li class="main-nav__item"><a href="http://savingtomorrowtoday.com" class="main-nav__item-link">Education</a></li>
+</ul></div>
+			<div id="main-search" class="main-search">
+							<a href="mailto:tips@interactiveone.com" class="menu-button">
+				CONTACT US			</a>
+			<div class="sc_container">
+	<a target="_blank" href="http://player.listenlive.co/50011">
+		<section id="now-playing-container"></section>
+	</a>
+</div>
+				<!-- Go to www.addthis.com/dashboard to customize your tools -->
+				<div class="addthis_custom_follow"></div>
+				<i class="icon-search global-search-toggle" id="global-search-toggle"></i>
+			</div>
+		</div>
+			</header>
+
+	
+
+<div id="infinite-scroll-container">
+	<div class="wallpaper-ad" id="ione3-wallpaper"></div>
+	<div class="post-super-wrapper" role="main" data-id="2780635"  data-primary-cat="" data-permalink="https://newsone.com/2780635/black-urban-legends-chick-fil-a-racist-against-blacks/" data-title="Black Conspiracy Theory 101:  Did Chick-fil-A&#8217;s President Say &#8216;We Don&#8217;t Like Blacks&nbsp;Either&#8217;?">
+
+		<div class="in-content-widget-top">
+			<div class="ione-widget-container ione-widget-sdc_flex_posts">	<div class="newsone-top-slider-container">
+				<p class="newsone-top-title"><span>Top</span> <span>Ten</span> <span>Videos to watch</span></p>
+				<div class="newsone-top-slider">
+												<div class="newsone-top-slider__item post-2780635 post type-post status-publish format-standard has-post-thumbnail hentry category-nation category-newsone-original tag-black-conspiracy-theories tag-chick-fil-a tag-homophobia">
+						<a href="https://newsone.com/3651668/americans-will-ultimately-foot-the-bill-for-trumps-wall/" class="post-link">
+							<div class="video-poster">
+																	<i class="icon-play-small"></i>
+																<img src="https://i0.wp.com/ionenewsone.files.wordpress.com/2017/01/14855484151156.jpg?resize=140%2C80&#038;quality=80&#038;strip=all&#038;ssl=1" data-srcset="https://i0.wp.com/ionenewsone.files.wordpress.com/2017/01/14855484151156.jpg?resize=140%2C80&#038;quality=80&#038;strip=all&#038;ssl=1 400w, https://i0.wp.com/ionenewsone.files.wordpress.com/2017/01/14855484151156.jpg?resize=280%2C160&#038;quality=80&#038;strip=all&#038;ssl=1 700w, https://i0.wp.com/ionenewsone.files.wordpress.com/2017/01/14855484151156.jpg?resize=560%2C320&#038;quality=80&#038;strip=all&#038;ssl=1 900w" data-sizes="auto" alt="Anti-Trump protest in Los Angeles" class="lazyload " width="140" height="80">															</div>
+							<div class="post-meta__title custom-title">Will Americans Pay For Trump&#039;s Border Wall?</div>						</a>
+					</div><!-- .top-slider__item -->
+													<div class="newsone-top-slider__item post-2780635 post type-post status-publish format-standard has-post-thumbnail hentry category-nation category-newsone-original tag-black-conspiracy-theories tag-chick-fil-a tag-homophobia">
+						<a href="https://newsone.com/3651629/trumps-lies-matter-voter-fraud-claims-are-a-precursor-to-massive-voter-suppression/" class="post-link">
+							<div class="video-poster">
+																	<i class="icon-play-small"></i>
+																<img src="https://i1.wp.com/ionenewsone.files.wordpress.com/2017/01/14855466271613.jpg?resize=140%2C80&#038;quality=80&#038;strip=all&#038;ssl=1" data-srcset="https://i1.wp.com/ionenewsone.files.wordpress.com/2017/01/14855466271613.jpg?resize=140%2C80&#038;quality=80&#038;strip=all&#038;ssl=1 400w, https://i1.wp.com/ionenewsone.files.wordpress.com/2017/01/14855466271613.jpg?resize=280%2C160&#038;quality=80&#038;strip=all&#038;ssl=1 700w, https://i1.wp.com/ionenewsone.files.wordpress.com/2017/01/14855466271613.jpg?resize=560%2C320&#038;quality=80&#038;strip=all&#038;ssl=1 900w" data-sizes="auto" alt="Activists Rally Outside GOP Retreat In Philadelphia During Trump Visit" class="lazyload " width="140" height="80">															</div>
+							<div class="post-meta__title custom-title">Voter Fraud Lies Precede GOP Voter Suppression</div>						</a>
+					</div><!-- .top-slider__item -->
+													<div class="newsone-top-slider__item post-2780635 post type-post status-publish format-standard has-post-thumbnail hentry category-nation category-newsone-original tag-black-conspiracy-theories tag-chick-fil-a tag-homophobia">
+						<a href="https://newsone.com/3651419/charges-dropped-against-texas-mother-and-daughter-whose-arrests-went-viral/" class="post-link">
+							<div class="video-poster">
+																<img src="https://i2.wp.com/ionenewsone.files.wordpress.com/2017/01/1485525846853.jpg?resize=140%2C80&#038;quality=80&#038;strip=all&#038;ssl=1" data-srcset="https://i2.wp.com/ionenewsone.files.wordpress.com/2017/01/1485525846853.jpg?resize=140%2C80&#038;quality=80&#038;strip=all&#038;ssl=1 400w, https://i2.wp.com/ionenewsone.files.wordpress.com/2017/01/1485525846853.jpg?resize=280%2C160&#038;quality=80&#038;strip=all&#038;ssl=1 700w, https://i2.wp.com/ionenewsone.files.wordpress.com/2017/01/1485525846853.jpg?resize=560%2C320&#038;quality=80&#038;strip=all&#038;ssl=1 900w" data-sizes="auto" alt="Sources: Texas cop in viral video gave up promotion for right to appeal suspension" class="lazyload " width="140" height="80">															</div>
+							<div class="post-meta__title custom-title">FWPD Drops Charges Against Jacqueline Craig</div>						</a>
+					</div><!-- .top-slider__item -->
+													<div class="newsone-top-slider__item post-2780635 post type-post status-publish format-standard has-post-thumbnail hentry category-nation category-newsone-original tag-black-conspiracy-theories tag-chick-fil-a tag-homophobia">
+						<a href="https://newsone.com/3650656/gop-moves-to-criminalize-peaceful-protests/" class="post-link">
+							<div class="video-poster">
+																	<i class="icon-play-small"></i>
+																<img src="https://i0.wp.com/ionenewsone.files.wordpress.com/2017/01/148545987555.jpg?resize=140%2C80&#038;quality=80&#038;strip=all&#038;ssl=1" data-srcset="https://i0.wp.com/ionenewsone.files.wordpress.com/2017/01/148545987555.jpg?resize=140%2C80&#038;quality=80&#038;strip=all&#038;ssl=1 400w, https://i0.wp.com/ionenewsone.files.wordpress.com/2017/01/148545987555.jpg?resize=280%2C160&#038;quality=80&#038;strip=all&#038;ssl=1 700w, https://i0.wp.com/ionenewsone.files.wordpress.com/2017/01/148545987555.jpg?resize=560%2C320&#038;quality=80&#038;strip=all&#038;ssl=1 900w" data-sizes="auto" alt="Black Lives Matter Organizes March To Trump Tower Ahead Of Martin Luther King Day" class="lazyload " width="140" height="80">															</div>
+							<div class="post-meta__title custom-title">GOP Wants To Criminalize Peaceful Protests</div>						</a>
+					</div><!-- .top-slider__item -->
+													<div class="newsone-top-slider__item post-2780635 post type-post status-publish format-standard has-post-thumbnail hentry category-nation category-newsone-original tag-black-conspiracy-theories tag-chick-fil-a tag-homophobia">
+						<a href="https://newsone.com/3650569/sen-jeff-sessions-confirmation-postponed/" class="post-link">
+							<div class="video-poster">
+																	<i class="icon-play-small"></i>
+																<img src="https://i0.wp.com/ionenewsone.files.wordpress.com/2017/01/632549540.jpg?resize=140%2C80&#038;quality=80&#038;strip=all&#038;ssl=1" data-srcset="https://i0.wp.com/ionenewsone.files.wordpress.com/2017/01/632549540.jpg?resize=140%2C80&#038;quality=80&#038;strip=all&#038;ssl=1 400w, https://i0.wp.com/ionenewsone.files.wordpress.com/2017/01/632549540.jpg?resize=280%2C160&#038;quality=80&#038;strip=all&#038;ssl=1 700w, https://i0.wp.com/ionenewsone.files.wordpress.com/2017/01/632549540.jpg?resize=560%2C320&#038;quality=80&#038;strip=all&#038;ssl=1 900w" data-sizes="auto" alt="Senator Jeff Sessions confirmation hearing - Washington, DC" class="lazyload " width="140" height="80">															</div>
+							<div class="post-meta__title custom-title">Sessions&#039; Confirmation Postponed</div>						</a>
+					</div><!-- .top-slider__item -->
+													<div class="newsone-top-slider__item post-2780635 post type-post status-publish format-standard has-post-thumbnail hentry category-nation category-newsone-original tag-black-conspiracy-theories tag-chick-fil-a tag-homophobia">
+						<a href="https://newsone.com/3650527/president-trump-turns-lie-about-illegal-ballots-into-voter-fraud-probe/" class="post-link">
+							<div class="video-poster">
+																	<i class="icon-play-small"></i>
+																<img src="https://i1.wp.com/ionenewsone.files.wordpress.com/2017/01/14854518595012.jpg?resize=140%2C80&#038;quality=80&#038;strip=all&#038;ssl=1" data-srcset="https://i1.wp.com/ionenewsone.files.wordpress.com/2017/01/14854518595012.jpg?resize=140%2C80&#038;quality=80&#038;strip=all&#038;ssl=1 400w, https://i1.wp.com/ionenewsone.files.wordpress.com/2017/01/14854518595012.jpg?resize=280%2C160&#038;quality=80&#038;strip=all&#038;ssl=1 700w, https://i1.wp.com/ionenewsone.files.wordpress.com/2017/01/14854518595012.jpg?resize=560%2C320&#038;quality=80&#038;strip=all&#038;ssl=1 900w" data-sizes="auto" alt="Women&#039;s March In Paris" class="lazyload " width="140" height="80">															</div>
+							<div class="post-meta__title custom-title">Trump To Launch Probe Into Voter Fraud</div>						</a>
+					</div><!-- .top-slider__item -->
+													<div class="newsone-top-slider__item post-2780635 post type-post status-publish format-standard has-post-thumbnail hentry category-nation category-newsone-original tag-black-conspiracy-theories tag-chick-fil-a tag-homophobia">
+						<a href="https://newsone.com/3649558/wealthyu-turning-african-american-buying-power-into-economic-power/" class="post-link">
+							<div class="video-poster">
+																	<i class="icon-play-small"></i>
+																<img src="https://i2.wp.com/ionenewsone.files.wordpress.com/2017/01/14853750497254.jpg?resize=140%2C80&#038;quality=80&#038;strip=all&#038;ssl=1" data-srcset="https://i2.wp.com/ionenewsone.files.wordpress.com/2017/01/14853750497254.jpg?resize=140%2C80&#038;quality=80&#038;strip=all&#038;ssl=1 400w, https://i2.wp.com/ionenewsone.files.wordpress.com/2017/01/14853750497254.jpg?resize=280%2C160&#038;quality=80&#038;strip=all&#038;ssl=1 700w, https://i2.wp.com/ionenewsone.files.wordpress.com/2017/01/14853750497254.jpg?resize=560%2C320&#038;quality=80&#038;strip=all&#038;ssl=1 900w" data-sizes="auto" alt="More creative minds are better than none" class="lazyload " width="140" height="80">															</div>
+							<div class="post-meta__title custom-title">Turn Black Buying Power To Economic Power</div>						</a>
+					</div><!-- .top-slider__item -->
+													<div class="newsone-top-slider__item post-2780635 post type-post status-publish format-standard has-post-thumbnail hentry category-nation category-newsone-original tag-black-conspiracy-theories tag-chick-fil-a tag-homophobia">
+						<a href="https://newsone.com/3649515/where-is-the-democratic-opposition-to-trump-and-the-gop/" class="post-link">
+							<div class="video-poster">
+																	<i class="icon-play-small"></i>
+																<img src="https://i1.wp.com/ionenewsone.files.wordpress.com/2017/01/14853706693447.jpg?crop=0px%2C0px%2C3000px%2C1714px&#038;resize=140%2C80&#038;quality=80&#038;strip=all&#038;ssl=1" data-srcset="https://i1.wp.com/ionenewsone.files.wordpress.com/2017/01/14853706693447.jpg?crop=0px%2C0px%2C3000px%2C1714px&#038;resize=140%2C80&#038;quality=80&#038;strip=all&#038;ssl=1 400w, https://i1.wp.com/ionenewsone.files.wordpress.com/2017/01/14853706693447.jpg?crop=0px%2C0px%2C3000px%2C1714px&#038;resize=280%2C160&#038;quality=80&#038;strip=all&#038;ssl=1 700w, https://i1.wp.com/ionenewsone.files.wordpress.com/2017/01/14853706693447.jpg?crop=0px%2C0px%2C3000px%2C1714px&#038;resize=560%2C320&#038;quality=80&#038;strip=all&#038;ssl=1 900w" data-sizes="auto" alt="Democratic Leaders Discuss The Affordable Care Act Following Meeting With President Obama" class="lazyload " width="140" height="80">															</div>
+							<div class="post-meta__title custom-title">Are Dems Willing To Oppose Trump?</div>						</a>
+					</div><!-- .top-slider__item -->
+													<div class="newsone-top-slider__item post-2780635 post type-post status-publish format-standard has-post-thumbnail hentry category-nation category-newsone-original tag-black-conspiracy-theories tag-chick-fil-a tag-homophobia">
+						<a href="https://newsone.com/3649470/president-donald-trumps-voter-fraud-claims-could-lead-to-more-voter-suppression/" class="post-link">
+							<div class="video-poster">
+																	<i class="icon-play-small"></i>
+																<img src="https://i1.wp.com/ionenewsone.files.wordpress.com/2017/01/14853668345563.jpg?resize=140%2C80&#038;quality=80&#038;strip=all&#038;ssl=1" data-srcset="https://i1.wp.com/ionenewsone.files.wordpress.com/2017/01/14853668345563.jpg?resize=140%2C80&#038;quality=80&#038;strip=all&#038;ssl=1 400w, https://i1.wp.com/ionenewsone.files.wordpress.com/2017/01/14853668345563.jpg?resize=280%2C160&#038;quality=80&#038;strip=all&#038;ssl=1 700w, https://i1.wp.com/ionenewsone.files.wordpress.com/2017/01/14853668345563.jpg?resize=560%2C320&#038;quality=80&#038;strip=all&#038;ssl=1 900w" data-sizes="auto" alt="2016 Presidential elections" class="lazyload " width="140" height="80">															</div>
+							<div class="post-meta__title custom-title">Trump Believes Millions Voted Illegally</div>						</a>
+					</div><!-- .top-slider__item -->
+													<div class="newsone-top-slider__item post-2780635 post type-post status-publish format-standard has-post-thumbnail hentry category-nation category-newsone-original tag-black-conspiracy-theories tag-chick-fil-a tag-homophobia">
+						<a href="https://newsone.com/3648707/trump-abandons-low-income-homeowners-by-decreasing-annual-fha-mortgage-insurance-premiums/" class="post-link">
+							<div class="video-poster">
+																	<i class="icon-play-small"></i>
+																<img src="https://i2.wp.com/ionenewsone.files.wordpress.com/2017/01/14852890073493.jpg?resize=140%2C80&#038;quality=80&#038;strip=all&#038;ssl=1" data-srcset="https://i2.wp.com/ionenewsone.files.wordpress.com/2017/01/14852890073493.jpg?resize=140%2C80&#038;quality=80&#038;strip=all&#038;ssl=1 400w, https://i2.wp.com/ionenewsone.files.wordpress.com/2017/01/14852890073493.jpg?resize=280%2C160&#038;quality=80&#038;strip=all&#038;ssl=1 700w, https://i2.wp.com/ionenewsone.files.wordpress.com/2017/01/14852890073493.jpg?resize=560%2C320&#038;quality=80&#038;strip=all&#038;ssl=1 900w" data-sizes="auto" alt="Woman Pointing to Model Home for Sale" class="lazyload " width="140" height="80">															</div>
+							<div class="post-meta__title custom-title">Trump Screws Homeowners On Day One</div>						</a>
+					</div><!-- .top-slider__item -->
+						</div>
+	</div>
+	<!-- .top-slider -->
+</div>		</div>
+
+		<div class="post-wrapper">
+
+			<div class="ad-single-top">
+				<div class="ione-widget-container ione-widget-ionead">				<div id="ad-header-post" data-ad-id="header-post" class="ad">		<div id="div-gpt-header-post" class="gpt-ad">
+		</div>
+
+		<script type="text/javascript">
+					googletag.cmd.push( function() {
+
+						googletag.display( "div-gpt-header-post" );
+
+			} );
+				</script>
+	</div>
+		
+		</div>			</div>
+			<!-- .ad-single-top -->
+
+						<div class="ione3-featured-image">
+
+				<img src="https://i1.wp.com/ionenewsone.files.wordpress.com/2016/07/14387935752781.jpg?crop=0px%2C532px%2C3058px%2C1176px&#038;resize=350%2C135&#038;quality=80&#038;strip=all&#038;ssl=1" data-srcset="https://i1.wp.com/ionenewsone.files.wordpress.com/2016/07/14387935752781.jpg?crop=0px%2C532px%2C3058px%2C1176px&#038;resize=350%2C135&#038;quality=80&#038;strip=all&#038;ssl=1 400w, https://i1.wp.com/ionenewsone.files.wordpress.com/2016/07/14387935752781.jpg?crop=0px%2C532px%2C3058px%2C1176px&#038;resize=900%2C346&#038;quality=80&#038;strip=all&#038;ssl=1 700w, https://i1.wp.com/ionenewsone.files.wordpress.com/2016/07/14387935752781.jpg?crop=0px%2C532px%2C3058px%2C1176px&#038;resize=1350%2C519&#038;quality=80&#038;strip=all&#038;ssl=1 900w" data-sizes="auto" alt="US-ECONOMY" class="lazyload post-featured-img__image" width="350" height="135">
+				<p class="post-featured-img__caption">
+					US-ECONOMY				</p>
+									<p class="post-featured-img__credits">
+						Photo by US-ECONOMY					</p>
+					
+			</div>
+
+			
+			<div class="post">
+
+				<div class="post-meta">
+										<div class="post-meta__category"><a href="https://newsone.com/category/nation/">Nation</a></div><div class="post-breadcrumbs"><a href="https://newsone.com/">Home</a> &gt; <a href="https://newsone.com/category/nation/">Nation</a></div>					<h1 class="post-meta__title">Black Conspiracy Theory 101:  Did Chick-fil-A&#8217;s President Say &#8216;We Don&#8217;t Like Blacks&nbsp;Either&#8217;?</h1>
+									</div>
+				<!-- .post-meta -->
+								<div class="post-wrapper-content">
+
+					
+					<div class="post-author simplified-article-author-block">
+			<img src="https://secure.gravatar.com/avatar/70496477a6886731c4ff1d04e0fa6855?s=195&#038;d=blank&#038;r=g" alt="" class="post-author__avatar">
+		<span class="post-meta-block">
+		<!-- author name -->
+		<span class="post-author__name">Written By <a href="https://newsone.com/author/ionerlogan/" class="post-link">Ruth Manuel-Logan</a></span>		<!-- post timestamp -->
+		<div class="post-meta__time"><p>3 years ago</p></div>	</span>
+</div>
+					<div class="post-sharing">
+									<a class="post-sharing-button-custom ione-toggle-triggerlink"
+		   data-name="ione-comments-2780635" href="#">
+			<i class="icon-comments"></i> <span>Leave a comment</span>
+		</a>
+	
+	<div class="sharing-block">
+
+		<span class="read-counter-container">
+	<span class="read-counter">9.14K</span>
+	<span class="read-counter-label">reads</span>
+</span>
+		<div class="addthis_responsive_sharing addthis-small-layout"></div>
+	</div>
+					</div>
+					
+					<div class="post-content">
+
+						<p><span class="dropcap">I</span>n June 2012, fast-food chain <strong>Chick-fil-A</strong> was placed in an extremely unfavorable light following a series of public comments made by its chief operating officer and son of the company&#8217;s founder, Dan Cathy, who vehemently <a href="http://www.huffingtonpost.com/2012/07/17/dan-cathy-chick-fil-a-president-anti-gay_n_1680984.html" target="_blank">opposed</a> same-sex marriage. Gay civil rights activists called for a protest of the chicken eatery, while staunch anti-gay-rights supporters stood behind the company, boosting Chick-fil-A&#8217;s sales. In August 2012, the company&#8217;s sales went through the roof, after its supporters staged a &#8220;Chick-fil-A Appreciation Day.  Not long after the incredible sales boon, the <a href="http://www.freewoodpost.com/2012/08/11/chick-fil-a-president-dan-cathy-we-dont-like-the-blacks-either/" target="_blank">Free Wood Press</a> published an article stating that, according to a senior level manager, Cathy had concocted a controversial marketing ploy that involved Blacks because &#8220;bigotry and hatred are extremely profitable&#8221; in this country &#8212; which just like his anti-gay stance &#8212; would also increase the company&#8217;s bottom line. But is it true?</p>
+<p><strong>SEE ALSO: <a href="https://newsone.com/2719397/urban-legends-sheila-jackson-lee-hurricane-names/"title="Black Conspiracy Theory 101: Did A U.S. Congresswoman Call For Hurricanes To Be Named Blacks?"  rel="bookmark">Black Conspiracy Theory 101: Did A U.S. Congresswoman Call For Hurricanes To Be Named Blacks?</a></strong></p>
+<p>Since Chick-fil-A has a strong Southern customer base, Cathy reportedly saw dollar signs with his anti-Blacks stance, and according to the Free Wood Press, he stated the following:</p>
+<blockquote><p><i>Let’s milk this for all its worth. Let’s wait until this gay thing dies down a little, then I will release another statement that says that we don’t like Blacks either. Now, they’re protected by those stupid discrimination laws so we’ll need to be careful, but I think it will work. I mean, hey, it’s not like it’s a lie. We’ll have another Chick-Fil-A Appreciation Day before you know it!</i></p></blockquote>
+<p>The article then went further by alleging that they had confronted Cathy and he had this to say:</p>
+<blockquote><p><i>We are a private company with a deeply personal belief system. We are lucky to live in a country where we are allowed to practice those beliefs. We abide by all of the discrimination laws and we welcome colored folk in our restaurants. I even hire them to work in my restaurants. We do not discriminate against anyone because of their color. However, if I’m being honest, we really don’t care for them. That is my opinion and I have a right to express it.</i></p>
+<p><img src="https://s0.wp.com/wp-content/themes/vip/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="https://ionenewsone.files.wordpress.com/2016/07/14697176770222.jpg?w=711&#038;quality=80&#038;strip=all&#038;h=1024" data-attachment-id="3492923" data-permalink="https://newsone.com/2780635/black-urban-legends-chick-fil-a-racist-against-blacks/attachment/14697176770222/" data-orig-file="https://ionenewsone.files.wordpress.com/2016/07/14697176770222.jpg?quality=80&amp;strip=all&amp;strip=all" data-orig-size="2083,3000" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Getty&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Al Messerschmidt&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;This content is subject to copyright.&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;NCAA Football - Chick-fil-A Peach Bowl - Miami vs LSU - December 30, 2005&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="NCAA Football &#8211; Chick-fil-A Peach Bowl &#8211; Miami vs LSU &#8211; December 30, 2005" data-image-description="&lt;p&gt;Dan Cathy, the son of Chick-fil-A founder S. Truett Cathy, plays the National Anthem at the 2005 Chick-fil-A Peach Bowl at the Georgia Dome in Atlanta, Georgia on December 30, 2005. LSU defeated Miami 40-3. (Photo by A. Messerschmidt/Getty Images) *** Local Caption *** vertical,people,one person,usa,adult,adults only,headshot,sport,males,one man only,atlanta,son,founder,georgia &#8211; us state,sports activity,national anthem,georgia dome,chick-fil-a,dan cathy,s. truett cathy&lt;/p&gt;
+" data-medium-file="https://ionenewsone.files.wordpress.com/2016/07/14697176770222.jpg?quality=80&amp;strip=all&amp;w=208&amp;strip=all" data-large-file="https://ionenewsone.files.wordpress.com/2016/07/14697176770222.jpg?quality=80&amp;strip=all&amp;w=711&amp;strip=all" class="aligncenter size-large wp-image-3492923" alt="NCAA Football - Chick-fil-A Peach Bowl - Miami vs LSU - December 30, 2005" width="711" height="1024"><noscript><img data-attachment-id="3492923" data-permalink="https://newsone.com/2780635/black-urban-legends-chick-fil-a-racist-against-blacks/attachment/14697176770222/" data-orig-file="https://ionenewsone.files.wordpress.com/2016/07/14697176770222.jpg?quality=80&amp;strip=all&strip=all" data-orig-size="2083,3000" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Getty&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Al Messerschmidt&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;This content is subject to copyright.&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;NCAA Football - Chick-fil-A Peach Bowl - Miami vs LSU - December 30, 2005&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="NCAA Football &#8211; Chick-fil-A Peach Bowl &#8211; Miami vs LSU &#8211; December 30, 2005" data-image-description="&lt;p&gt;Dan Cathy, the son of Chick-fil-A founder S. Truett Cathy, plays the National Anthem at the 2005 Chick-fil-A Peach Bowl at the Georgia Dome in Atlanta, Georgia on December 30, 2005. LSU defeated Miami 40-3. (Photo by A. Messerschmidt/Getty Images) *** Local Caption *** vertical,people,one person,usa,adult,adults only,headshot,sport,males,one man only,atlanta,son,founder,georgia &#8211; us state,sports activity,national anthem,georgia dome,chick-fil-a,dan cathy,s. truett cathy&lt;/p&gt;
+" data-medium-file="https://ionenewsone.files.wordpress.com/2016/07/14697176770222.jpg?quality=80&amp;strip=all&amp;w=208&strip=all" data-large-file="https://ionenewsone.files.wordpress.com/2016/07/14697176770222.jpg?quality=80&amp;strip=all&amp;w=711&strip=all" class="aligncenter size-large wp-image-3492923" src="https://ionenewsone.files.wordpress.com/2016/07/14697176770222.jpg?w=711&#038;quality=80&#038;strip=all&#038;h=1024" alt="NCAA Football - Chick-fil-A Peach Bowl - Miami vs LSU - December 30, 2005" width="711" height="1024" srcset="https://ionenewsone.files.wordpress.com/2016/07/14697176770222.jpg?w=711&amp;quality=80&amp;strip=all&amp;h=1024 711w, https://ionenewsone.files.wordpress.com/2016/07/14697176770222.jpg?w=1422&amp;quality=80&amp;strip=all&amp;h=2048 1422w, https://ionenewsone.files.wordpress.com/2016/07/14697176770222.jpg?w=104&amp;quality=80&amp;strip=all&amp;h=150 104w, https://ionenewsone.files.wordpress.com/2016/07/14697176770222.jpg?w=208&amp;quality=80&amp;strip=all&amp;h=300 208w, https://ionenewsone.files.wordpress.com/2016/07/14697176770222.jpg?w=768&amp;quality=80&amp;strip=all&amp;h=1106 768w" sizes="(max-width: 711px) 100vw, 711px" /></noscript></p></blockquote>
+<p>The news outlet then alleged that Cathy had even baser aspirations in the near future: down the line, Cathy planned to focus on &#8220;liberals and people of Asian, Hispanic and Arabic descent.&#8221;</p>
+<p><strong>According to the paper, since there is a lot of hate in the U.S.A., Cathy planned to “milk” every last drop.&#8221;</strong></p>
+<p>Not surprisingly, the alleged Cathy racial bias crusade against Blacks and other minorities spread like wildfire via the media: Those who came across the scandalous news about Cathy&#8217;s alleged latest marketing scheme were left seething, due to the likelihood  that southern racists would back his company&#8217;s biases all the way.</p>
+<p><strong>But Cathy never made such incendiary comments about Blacks or any other minority group, because the alleged news report was, in fact,  just a bad joke</strong>.</p>
+<p>In fact, the news outlet is a political satire web publication that does, on occasion, use actual names in partially real or mostly fictitious ways, stating that &#8220;all news articles contained within FreeWoodPost.com are fiction, and presumably fake news.&#8221;</p>
+<p><strong>Sound off!</strong></p>
+<p><strong>SOURCE: Free Wood Press | PHOTO CREDIT: Getty</strong></p>
+		<div class="addthis_toolbox addthis_default_style addthis_big_buttons" addthis:url="https://newsone.com/2780635/black-urban-legends-chick-fil-a-racist-against-blacks/" addthis:via="">
+					<a class="addthis_button_facebook"><span class="textNode fa icon"><span class="share-text"><span class="desktop-only">Share on&nbsp;</span>Facebook</span></span></a>
+					<a class="addthis_button_twitter"><span class="textNode fa icon"><span class="share-text"><span class="desktop-only">Share on&nbsp;</span>Twitter</span></span></a>
+				</div>
+		
+<p>&nbsp;</p>
+<a name="pd_a_7573028"></a>
+<div class="PDS_Poll" id="PDI_container7573028" style="display:inline-block;"></div>
+<div id="PD_superContainer"></div>
+<script type="text/javascript" charset="UTF-8" src="//static.polldaddy.com/p/7573028.js"></script>
+<noscript><a href="http://polldaddy.com/poll/7573028" target="_blank">Take Our Poll</a></noscript>
+<p><strong>SEE ALSO: <a href="https://newsone.com/2632375/black-urban-legends-little-rascals/"title="Black Conspiracy Theory 101: Did Cosby Buy The ‘The Little Rascals’ Rights To Keep Black Stereotypes Off The Air?"  rel="bookmark">Black Conspiracy Theory 101: Did Cosby Buy The ‘The Little Rascals’ Rights To Keep Black Stereotypes Off The Air?</a></strong></p>
+		<div class="post-meta__tags">
+								<a href="https://newsone.com/tag/black-conspiracy-theories/">
+						Black Conspiracy Theories					</a>
+
+					, 					<a href="https://newsone.com/tag/chick-fil-a/">
+						Chick-fil-A					</a>
+
+					, 					<a href="https://newsone.com/tag/homophobia/">
+						Homophobia					</a>
+
+							</div>
+	<p class="page-numbers"></p>
+												<div class="post-sharing bottom-sharing">
+								<!-- Go to www.addthis.com/dashboard to customize your tools -->
+	<div class="addthis_responsive_sharing addthis-small-layout"></div>
+						</div>
+						
+						
+	<div class="ione-tab author-more-tab">
+
+		<ul class="ione-tab__tabs">
+							<li class="-active">
+					<a href="#more-by-content" class="more-by-link">More By <span class="name">Ruth Manuel-Logan</span></a>
+				</li>
+								</ul>
+
+		<div class="ione-tab__content">
+							<div id="more-by-content" class="more-by-content">
+					<ul class="more-posts">
+													<li class="more-by-post"><a href="https://newsone.com/2445856/terrence-howards-divorce-racist-wife/">Empire Star Terrence Howard Names New Son&nbsp;Hero</a></li>
+													<li class="more-by-post"><a href="https://newsone.com/3093675/los-angeles-baby-born-in-amniotic-sac/">Los Angeles Baby Born Completely Encased In Amniotic Sac&nbsp;[VIDEO]</a></li>
+													<li class="more-by-post"><a href="https://newsone.com/3094027/black-employees-at-tgi-fridays-discrimination-suit/">Black Employees At NYC TGI Friday&#8217;s Claim They Were Replaced With Light-Skinned&nbsp;Workers</a></li>
+											</ul>
+				</div>
+					</div>
+	</div><!-- .post-author__tabs --><div class="gallery-intro post-content__pulled-left">Also On News One:</div><div class="ione-gallery post-content__pulled-left ">
+	<div class="ione-gallery-inner">
+
+		<div class="ione-gallery__mobile-header">
+			<a href="https://newsone.com/">
+				<img srcset="https://i0.wp.com/ionenewsone.files.wordpress.com/2015/08/14389692707671.png?resize=9999%2C50&amp;quality=80&amp;strip=all&amp;ssl=1 1x, https://i0.wp.com/ionenewsone.files.wordpress.com/2015/08/14389692707671.png?resize=9999%2C100&amp;quality=80&amp;strip=all&amp;ssl=1 2x" class="navbar-logo" />			</a>
+			<i class="icon-close ione-gallery__close-mobile"></i>
+		</div>
+
+		
+		<a href="#" class="ione-gallery__mobile-launcher">
+			<h2 class="ione-gallery__main-title">55 Photos To Make You Miss The Obamas</h2>
+			<div class="video-poster">
+				<span><i class="icon-photos"><span>54 photos</span></i> <span>Launch gallery</span></span>
+			</div>
+		</a>
+
+		<div class="ione-gallery__ad-banner">
+							<div id="ad-gallery-long-banner2780635" data-ad-id="gallery-long-banner2780635" class="ad">		<div id="div-gpt-gallery-long-banner2780635" class="gpt-ad">
+		</div>
+
+		<script type="text/javascript">
+					jQuery( document ).on( "refresh-div-gpt-gallery-long-banner2780635", function() {
+
+					googletag.cmd.push( function() {
+
+							var slot = {"name":"gallery-long-banner2780635","path":"\/4052\/no.home\/nation","sizes":[[728,90]],"div":"div-gpt-gallery-long-banner2780635","targets":{"pos":"gallery","sz":"728x90"}};
+					var gptSlot;
+
+					gptSlot = googletag.defineSlot(
+						slot.path,
+						slot.sizes,
+						slot.div
+					)
+					.addService( googletag.pubads() )
+					.addService( googletag.companionAds() );
+
+					/**
+					 * Add targeting data.
+					 */
+					_.each( slot.targets, function( target, key ) {
+						gptSlot.setTargeting( key, target )
+					} );
+
+					/**
+					 * Add the page/slot targeting data.
+					 */
+					ionegpt.attrs['position'] = slot.name;
+
+					_.each( ionegpt.attrs, function( target, key ) {
+						gptSlot.setTargeting( key, target )
+					} );
+
+					googletag.display( "div-gpt-gallery-long-banner2780635" );
+
+					renderedGptSlots[ slot.div ] = gptSlot;
+				});
+				} );
+				</script>
+	</div>
+		
+				</div>
+
+
+		<div class="ione-gallery__images">
+
+			<h2 class="ione-gallery__main-title"><a href="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/">55 Photos To Make You Miss The Obamas</a></h2>
+
+			<div class="ione-gallery__slideshow"
+			     data-title="55 Photos To Make You Miss The Obamas"
+			     data-description=""
+			     data-prev-gallery="http://hellobeautiful.com/12-toys-for-your-sports-obsessed-kid/"
+			     data-next-gallery="https://newsone.com/playlist/cuteness-overload-our-favorite-celebrity-babies-born-in-2016/"
+			     data-count="54"
+			     data-gallery-url="https://newsone.com/2780635/black-urban-legends-chick-fil-a-racist-against-blacks/"
+			     data-gallery-id="3358541"
+			     data-categories="#OneObama,Cross Post Now,Nation,Newsletter,Photos,The Family"
+			     data-tags="Barack Obama,Malia Obama,Michelle Obama,Sasha Obama"
+			     data-author="desirawr"
+				>
+									<div
+						id="gallery-1"
+						data-title="Barack gives daughter Malia a kiss"
+						data-description=""
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-1"
+						data-image-id="3440512"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								1. Barack gives daughter Malia a kiss							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2016/05/14640148644973.jpg?quality=80&#038;strip=all&#038;w=836" alt="Olympic Team USA Basketball" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							1 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-2"
+						data-title="Michelle and Barack tell the kids a story"
+						data-description=""
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-2"
+						data-image-id="3440513"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								2. Michelle and Barack tell the kids a story							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2016/05/14640150776636.jpg?quality=80&#038;strip=all&#038;w=871" alt="US-POLITICS-EASTER-WHITEHOUSE" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							2 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-3"
+						data-title="Michelle and Barack Kiss"
+						data-description=""
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-3"
+						data-image-id="3440514"
+						data-has-ad="1"
+						>
+							<h3 class="ione-listicle__title">
+								3. Michelle and Barack Kiss							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2016/05/146245338819111.jpg?quality=80&#038;strip=all&#038;w=900" alt="TOPSHOT-US-POLITICS-ENTERTAINMENT" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							3 of 54						</span>
+						<div class="listicle-description">
+							
+																																										</div>
+											</div>
+									<div
+						id="gallery-4"
+						data-title="Michelle and Barack"
+						data-description=""
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-4"
+						data-image-id="3440515"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								4. Michelle and Barack							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2016/05/14495038627604.jpg?quality=80&#038;strip=all&#038;w=793" alt="US-ARTS-AWARDS-OBAMA" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							4 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-5"
+						data-title="First Family Portrait"
+						data-description="The family shows off their pearly whites in the official family photo in the Oval Office. "
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-5"
+						data-image-id="3358582"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								5. First Family Portrait							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2015/04/14283300627427.jpg?quality=80&#038;strip=all&#038;w=630" alt="Obama Family Portrait" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							5 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-6"
+						data-title="Two Terms"
+						data-description="The Obama family wave to supporters during the president&#039;s second bid for president in 2012. "
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-6"
+						data-image-id="3358946"
+						data-has-ad="1"
+						>
+							<h3 class="ione-listicle__title">
+								6. Two Terms							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2016/02/155694189.jpg?quality=80&#038;strip=all&#038;w=852" alt="US-VOTE-2012-ELECTION-OBAMA" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							6 of 54						</span>
+						<div class="listicle-description">
+							
+																																										</div>
+											</div>
+									<div
+						id="gallery-7"
+						data-title="Family Portrait"
+						data-description="The Obamas show off their smiles in this early photo."
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-7"
+						data-image-id="3358572"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								7. Family Portrait							</h3>
+						<img data-lazy="https://scontent.cdninstagram.com/t51.2885-15/e35/12558282_224615547874501_1888411509_n.jpg?ig_cache_key=MTE3NjU3NDg4NTc5NjM0MTU5OQ%3D%3D.2" alt="Family Portrait">												<span class="media-credit">
+							Source:Instagram						</span>
+												<span class="photo-count">
+							7 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-8"
+						data-title="Michelle and Barack host a State Dinner"
+						data-description=""
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-8"
+						data-image-id="3440516"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								8. Michelle and Barack host a State Dinner							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2016/05/1464014639682.jpg?quality=80&#038;strip=all&#038;w=484" alt="President Barack Obama and First Lady Michelle Obama welcomes Mexican President Felipe Calderon and Mrs. Margarita Zavala to the evenings State Dinner at the White House." class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							8 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-9"
+						data-title="Barack Obama and Michelle Obama"
+						data-description="The arrival of Canadian Prime Minister Justin Trudeau and his wife Sophie Grgoire Trudeau for a state dinner at the North Portico March 10, 2016 in Washington, DC. "
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-9"
+						data-image-id="3382660"
+						data-has-ad="1"
+						>
+							<h3 class="ione-listicle__title">
+								9. Barack Obama and Michelle Obama							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2016/03/14577038184805.jpg?quality=80&#038;strip=all&#038;w=397" alt="President Obama Hosts Canadian PM Trudeau On His Official Visit To Washington" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							9 of 54						</span>
+						<div class="listicle-description">
+							
+																																										</div>
+											</div>
+									<div
+						id="gallery-10"
+						data-title="Fun In The Sun"
+						data-description="Dad hangs out with Sasha and Malia at the beach in the early days."
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-10"
+						data-image-id="3358575"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								10. Fun In The Sun							</h3>
+						<img data-lazy="https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/1171218_120085178379821_324506230_n.jpg?ig_cache_key=MTE4NTg5MDAwODk2ODUzMzQ1Mw%3D%3D.2" alt="Fun In The Sun">												<span class="media-credit">
+							Source:Instagram						</span>
+												<span class="photo-count">
+							10 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-11"
+						data-title="The Obamas on Air Force One"
+						data-description=""
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-11"
+						data-image-id="3382661"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								11. The Obamas on Air Force One							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2015/06/14345706669511.jpg?quality=80&#038;strip=all&#038;w=438" alt="Sasha, Malia, Michelle Obama in London" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							11 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-12"
+						data-title="Hawaiian Holidays"
+						data-description="The First Family made a tradition of spending the winter holidays in Hawaii."
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-12"
+						data-image-id="3358576"
+						data-has-ad="1"
+						>
+							<h3 class="ione-listicle__title">
+								12. Hawaiian Holidays							</h3>
+						<img data-lazy="https://scontent.cdninstagram.com/t51.2885-15/s480x480/e35/12446214_1673274486264506_1958295815_n.jpg?ig_cache_key=MTE1ODc0MjExNTA2NDc3MjU2OA%3D%3D.2" alt="Hawaiian Holidays">												<span class="media-credit">
+							Source:Instagram						</span>
+												<span class="photo-count">
+							12 of 54						</span>
+						<div class="listicle-description">
+							
+																																										</div>
+											</div>
+									<div
+						id="gallery-13"
+						data-title="The First Family in London"
+						data-description="First Lady Michelle Obama arrives with daughters Malia Obama and Sasha Obama at Stanstead airport on June 15, 2015 in London, England."
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-13"
+						data-image-id="3382662"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								13. The First Family in London							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2015/06/14345706744403.jpg?quality=80&#038;strip=all&#038;w=399" alt="Sasha, Malia, Michelle Obama in London" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							13 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-14"
+						data-title="First Lady Michelle Obama with daughters Malia Obama and Sasha Obama"
+						data-description="The First Lady travels to London with her daughters, Malia and Sasha and her mother, Mrs. Marian Robinson, to continue a global tour promoting her Let Girls Learn Initiative. "
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-14"
+						data-image-id="3382663"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								14. First Lady Michelle Obama with daughters Malia Obama and Sasha Obama							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2015/06/14345706797236.jpg?quality=80&#038;strip=all&#038;w=475" alt="Sasha, Malia, Michelle Obama in London" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							14 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-15"
+						data-title="Daddy&#039;s Girl"
+						data-description="Barack Obama and Sasha share a kiss. "
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-15"
+						data-image-id="3358579"
+						data-has-ad="1"
+						>
+							<h3 class="ione-listicle__title">
+								15. Daddy&#039;s Girl							</h3>
+						<img data-lazy="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12558734_986400708120144_626456439_n.jpg?ig_cache_key=MTE4MjA1NjE3NjcwODI5NDY1MA%3D%3D.2" alt="Daddy&#039;s Girl">												<span class="media-credit">
+							Source:Instagram						</span>
+												<span class="photo-count">
+							15 of 54						</span>
+						<div class="listicle-description">
+							
+																																										</div>
+											</div>
+									<div
+						id="gallery-16"
+						data-title="Barack &amp; Sasha"
+						data-description=""
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-16"
+						data-image-id="3358581"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								16. Barack &amp; Sasha							</h3>
+						<img data-lazy="https://scontent.cdninstagram.com/t51.2885-15/e35/12750089_948432341909692_2106552302_n.jpg?ig_cache_key=MTE4NTUxMjg5MDc5OTU2MDA2Nw%3D%3D.2" alt="Barack &amp; Sasha">												<span class="media-credit">
+							Source:Instagram						</span>
+												<span class="photo-count">
+							16 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-17"
+						data-title="Sasha and Malia Obama at the 2016 State Dinner"
+						data-description=""
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-17"
+						data-image-id="3382664"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								17. Sasha and Malia Obama at the 2016 State Dinner							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2016/03/14577143423006.jpg?quality=80&#038;strip=all&#038;w=842" alt="Sasha &amp; Malia Obama" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							17 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-18"
+						data-title="Turkey Pardoning"
+						data-description="Sasha Obama participates in the turkey pardoning ceremony at the White House. "
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-18"
+						data-image-id="3382696"
+						data-has-ad="1"
+						>
+							<h3 class="ione-listicle__title">
+								18. Turkey Pardoning							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2015/11/14484858137948.jpg?quality=80&#038;strip=all&#038;w=900" alt="President Obama Pardons National Thanksgiving Turkey" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							18 of 54						</span>
+						<div class="listicle-description">
+							
+																																										</div>
+											</div>
+									<div
+						id="gallery-19"
+						data-title="Sunday Church"
+						data-description="Barack and Michelle Obama walk with daughter Malia across Lafayette Park to Saint John&#039;s Episcopal Chuch for Sunday services on October 27, 2013 in Washington, DC. "
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-19"
+						data-image-id="3382697"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								19. Sunday Church							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2016/03/1445272053829.jpg?quality=80&#038;strip=all&#038;w=442" alt="US-POLITICS-OBAMA-CHURCH" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							19 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-20"
+						data-title="Gobble, Gobble"
+						data-description="Malia Obama participates in the turkey pardoning ceremony at the White House."
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-20"
+						data-image-id="3382698"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								20. Gobble, Gobble							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2015/11/14484857905916.jpg?quality=80&#038;strip=all&#038;w=400" alt="President Obama Pardons National Thanksgiving Turkey" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							20 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-21"
+						data-title="Obama &amp; Sasha"
+						data-description="The president has never been shy about showering his family with affection, especially his youngest daughter, Sasha."
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-21"
+						data-image-id="3358573"
+						data-has-ad="1"
+						>
+							<h3 class="ione-listicle__title">
+								21. Obama &amp; Sasha							</h3>
+						<img data-lazy="https://scontent.cdninstagram.com/t51.2885-15/e35/p320x320/12346191_848713235241245_2112289758_n.jpg?ig_cache_key=MTE0NDU0MDYzNDEyMDA0NTQwMw%3D%3D.2" alt="Obama &amp; Sasha">												<span class="media-credit">
+							Source:Instagram						</span>
+												<span class="photo-count">
+							21 of 54						</span>
+						<div class="listicle-description">
+							
+																																										</div>
+											</div>
+									<div
+						id="gallery-22"
+						data-title="Malia Obama, the First Daughter"
+						data-description=""
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-22"
+						data-image-id="3382665"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								22. Malia Obama, the First Daughter							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2015/07/14362067308562.jpg?quality=80&#038;strip=all&#038;w=392" alt="Malia Obama, First Daughters, First Family, Barack Obama" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							22 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-23"
+						data-title="Barack Obama and his daughter Malia Obama"
+						data-description="During a visit to the Honolulu Zoo in Hawaii. "
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-23"
+						data-image-id="3382666"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								23. Barack Obama and his daughter Malia Obama							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2016/02/14562431824527.jpg?quality=80&#038;strip=all&#038;w=816" alt="US-POLITICS-OBAMA" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							23 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-24"
+						data-title="Team Obama"
+						data-description="Malia represents for her father during his Illinois Senate race."
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-24"
+						data-image-id="3358574"
+						data-has-ad="1"
+						>
+							<h3 class="ione-listicle__title">
+								24. Team Obama							</h3>
+						<img data-lazy="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12558839_1031473453581968_765803112_n.jpg?ig_cache_key=MTE4MTgxMzQ1MjQzNTIzNjM4MA%3D%3D.2" alt="Team Obama">												<span class="media-credit">
+							Source:Instagram						</span>
+												<span class="photo-count">
+							24 of 54						</span>
+						<div class="listicle-description">
+							
+																																										</div>
+											</div>
+									<div
+						id="gallery-25"
+						data-title="A Family Affair"
+						data-description="Then-Vice President Dick Cheney stand with the Obama family during the reenactment of a swearing-in ceremony on Capitol Hill January 4, 2005, in Washington, DC. 
+"
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-25"
+						data-image-id="3358948"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								25. A Family Affair							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2016/02/51913478.jpg?quality=80&#038;strip=all&#038;w=422" alt="109th U.S. Congress Sworn In" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							25 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-26"
+						data-title="Flashback To The Old Days"
+						data-description="Obama embraces his daughters after before his swearing-in ceremony in 2005. "
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-26"
+						data-image-id="3358942"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								26. Flashback To The Old Days							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2016/02/14563287252751.jpg?quality=80&#038;strip=all&#038;w=838" alt="The Obama Family" class="">												<span class="media-credit">
+							Source:Pete Souza						</span>
+												<span class="photo-count">
+							26 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-27"
+						data-title="Happy Birthday!"
+						data-description="Barack Obama blows out candles at his 43rd birthday party in 2004. "
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-27"
+						data-image-id="3358949"
+						data-has-ad="1"
+						>
+							<h3 class="ione-listicle__title">
+								27. Happy Birthday!							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2016/02/51143331.jpg?quality=80&#038;strip=all&#038;w=654" alt="Barack Obama Celebrates His Birthday" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							27 of 54						</span>
+						<div class="listicle-description">
+							
+																																										</div>
+											</div>
+									<div
+						id="gallery-28"
+						data-title="Candidly Awesome"
+						data-description="Obama and girls enjoy some chill time. "
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-28"
+						data-image-id="3358941"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								28. Candidly Awesome							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2016/02/14563287209967.jpg?quality=80&#038;strip=all&#038;w=900" alt="The Obama Family" class="">												<span class="media-credit">
+							Source:Pete Souza						</span>
+												<span class="photo-count">
+							28 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-29"
+						data-title="The Obamas Family Portrait"
+						data-description="The family is always camera ready!"
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-29"
+						data-image-id="3358577"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								29. The Obamas Family Portrait							</h3>
+						<img data-lazy="https://scontent.cdninstagram.com/t51.2885-15/s480x480/e35/1516543_1077110052308027_1414125874_n.jpg?ig_cache_key=MTE1MzEzOTk1ODQ0NjcyNzg5Nw%3D%3D.2" alt="The Obamas Family Portrait">												<span class="media-credit">
+							Source:Instagram						</span>
+												<span class="photo-count">
+							29 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-30"
+						data-title="Historic First Family"
+						data-description="The Obama&#039;s celebrate the presidential win at Grant Park with 150,000 supporters in 2008. Obama made history as the first African-American to hold the position of Commander-In-Chief. "
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-30"
+						data-image-id="3358947"
+						data-has-ad="1"
+						>
+							<h3 class="ione-listicle__title">
+								30. Historic First Family							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2016/02/83565164.jpg?quality=80&#038;strip=all&#038;w=415" alt="Barack Obama Holds Election Night Gathering In Chicago&#039;s Grant Park" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							30 of 54						</span>
+						<div class="listicle-description">
+							
+																																										</div>
+											</div>
+									<div
+						id="gallery-31"
+						data-title="Ice Cream Treat"
+						data-description="Barack Obama buys ice cream for his daughters Malia and Sasha at Pleasant Pops during Small Business Saturday on November 28, 2015, in Washington, DC. "
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-31"
+						data-image-id="3382699"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								31. Ice Cream Treat							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2016/02/14562427674744.jpg?quality=80&#038;strip=all&#038;w=900" alt="US President Barack Obama goes shopping during Small Business Saturday" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							31 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-32"
+						data-title="TV Time"
+						data-description="The first family enjoys some quality time in the Treaty Room of the White House. "
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-32"
+						data-image-id="3358940"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								32. TV Time							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2016/02/1456328716864.png?w=551" alt="The Obama Family" class="">												<span class="media-credit">
+							Source:Pete Souza						</span>
+												<span class="photo-count">
+							32 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-33"
+						data-title="Playing In The Oval Office"
+						data-description="Sasha Obama plays a game of hide-and-seek while dad is hard at work. "
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-33"
+						data-image-id="3358583"
+						data-has-ad="1"
+						>
+							<h3 class="ione-listicle__title">
+								33. Playing In The Oval Office							</h3>
+						<img data-lazy="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/925202_741716662596134_154729567_n.jpg?ig_cache_key=MTE4NTc2MjY1MDI5NDcxMjEzOA%3D%3D.2" alt="Playing In The Oval Office">												<span class="media-credit">
+							Source:Instagram						</span>
+												<span class="photo-count">
+							33 of 54						</span>
+						<div class="listicle-description">
+							
+																																										</div>
+											</div>
+									<div
+						id="gallery-34"
+						data-title="Always Giving Back"
+						data-description="The first lady reenacts a story as Sasha and Malia read to children during a visit to the Children&#039;s National Medical Center in 2008. "
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-34"
+						data-image-id="3358952"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								34. Always Giving Back							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2016/02/14562428271116.jpg?quality=80&#038;strip=all&#038;w=739" alt="SOUTH AFRICA-US-MICHELLE OBAMA" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							34 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-35"
+						data-title="A Christmas Story"
+						data-description="First Lady Michelle Obama and Muppet Miss Piggy read &#039;Twas the Night Before Christmas&#039; to children at the 93rd Annual National Christmas Tree Lighting."
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-35"
+						data-image-id="3382700"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								35. A Christmas Story							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2016/03/1449342197031.jpg?quality=80&#038;strip=all&#038;w=887" alt="93rd Annual National Christmas Tree Lighting" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							35 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-36"
+						data-title="Hawaii Trip!"
+						data-description="The Obamas take off for their first vacation away from the Oval Office. "
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-36"
+						data-image-id="3358959"
+						data-has-ad="1"
+						>
+							<h3 class="ione-listicle__title">
+								36. Hawaii Trip!							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2016/02/145632833897881.jpg?quality=80&#038;strip=all&#038;w=443" alt="US President Barack Obama and his wife M" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							36 of 54						</span>
+						<div class="listicle-description">
+							
+																																										</div>
+											</div>
+									<div
+						id="gallery-37"
+						data-title="Obama Loves Team USA &amp; His Wife"
+						data-description="While checking out the Team USA and Brazil Olympic exhibition basketball game in 2012, the Obamas were hit with the kiss cam. 
+"
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-37"
+						data-image-id="3358945"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								37. Obama Loves Team USA &amp; His Wife							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2016/02/148489120.jpg?quality=80&#038;strip=all&#038;w=866" alt="Olympic Team USA Basketball" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							37 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-38"
+						data-title="Malia and Sasha Obama"
+						data-description="Barack Obama&#039;s daughters, arrive for an event marking the 50th Anniversary of the Selma to Montgomery civil rights marches."
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-38"
+						data-image-id="3382701"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								38. Malia and Sasha Obama							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2016/02/14562427879177.jpg?quality=80&#038;strip=all&#038;w=841" alt="US-HISTORY-POLITICS-RIGHTS-RACISM" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							38 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-39"
+						data-title="Michelle Plays on a Bike"
+						data-description="While visiting the Union Market to celebrate International Women&#039;s Day in Washington, DC. "
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-39"
+						data-image-id="3382702"
+						data-has-ad="1"
+						>
+							<h3 class="ione-listicle__title">
+								39. Michelle Plays on a Bike							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2016/03/14575429604982.jpg?quality=80&#038;strip=all&#038;w=748" alt="First Lady Michelle Obama Celebrates International Women&#039;s Day At DC&#039;s Union Market" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							39 of 54						</span>
+						<div class="listicle-description">
+							
+																																										</div>
+											</div>
+									<div
+						id="gallery-40"
+						data-title="Obama Loves Team USA, His Wife &amp; Malia"
+						data-description="Malia wasn&#039;t ignored either as the proud dad landed a kiss on her cheek during the game. "
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-40"
+						data-image-id="3358950"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								40. Obama Loves Team USA, His Wife &amp; Malia							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2016/02/148455559.jpg?quality=80&#038;strip=all&#038;w=836" alt="Olympic Team USA Basketball" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							40 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-41"
+						data-title="Reading Time"
+						data-description="The president takes his daughters to Kramerbooks and Afterwords in Washington, November 26, 2011, during Thanksgiving break.  "
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-41"
+						data-image-id="3358944"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								41. Reading Time							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2016/02/14563287337899.jpg?quality=80&#038;strip=all&#038;w=630" alt="The Obama Family" class="">												<span class="media-credit">
+							Source:Pete Souza						</span>
+												<span class="photo-count">
+							41 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-42"
+						data-title="Family Support"
+						data-description="The Obamas listen to Beyonce sing the National Anthem at the ceremonial swearing-in at the U.S. Capitol during the 57th Presidential inauguration. "
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-42"
+						data-image-id="3358958"
+						data-has-ad="1"
+						>
+							<h3 class="ione-listicle__title">
+								42. Family Support							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2016/02/145632743877431.jpg?quality=80&#038;strip=all&#038;w=900" alt="The Inauguration of Barack Obama" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							42 of 54						</span>
+						<div class="listicle-description">
+							
+																																										</div>
+											</div>
+									<div
+						id="gallery-43"
+						data-title="The Sister Selfie"
+						data-description="Sasha and Malia took one of the most talked about selfies of 2012 during their father&#039;s second inauguration.  "
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-43"
+						data-image-id="3358939"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								43. The Sister Selfie							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2016/02/1456328712011.png?w=608" alt="The Obama Family" class="">												<span class="media-credit">
+							Source:Pete Souza						</span>
+												<span class="photo-count">
+							43 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-44"
+						data-title="Supporting Mom"
+						data-description="Obama watches his wife on TV at the Democratic National Convention with his girls. "
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-44"
+						data-image-id="3358938"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								44. Supporting Mom							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2016/02/14563286806807.jpg?quality=80&#038;strip=all&#038;w=900" alt="The Obama Family" class="">												<span class="media-credit">
+							Source:Pete Souza						</span>
+												<span class="photo-count">
+							44 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-45"
+						data-title="Giving Back On MLK Day"
+						data-description="Malia and her father prepare food for the homeless in the D.C. Central Kitchen for Martin Luther King Jr.Day. "
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-45"
+						data-image-id="3358951"
+						data-has-ad="1"
+						>
+							<h3 class="ione-listicle__title">
+								45. Giving Back On MLK Day							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2016/02/14562428165521.jpg?quality=80&#038;strip=all&#038;w=900" alt="President Honors Martin Luther King, Jr With Day of Service" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							45 of 54						</span>
+						<div class="listicle-description">
+							
+																																										</div>
+											</div>
+									<div
+						id="gallery-46"
+						data-title="Obamas Give Back To The Community"
+						data-description="The president and first lady are teaching their children the importance of community service."
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-46"
+						data-image-id="3358586"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								46. Obamas Give Back To The Community							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2015/11/14486326368662.jpg?quality=80&#038;strip=all&#038;w=846" alt="US-POLITICS-HOLIDAY-THANKSGIVING" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							46 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-47"
+						data-title="Always Supporting Small Businesses"
+						data-description="President Obama continued his tradition of supporting small businesses during the holidays by visiting  Upshur Street Books in November 2015. "
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-47"
+						data-image-id="3358953"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								47. Always Supporting Small Businesses							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2016/02/14562427674744.jpg?quality=80&#038;strip=all&#038;w=900" alt="US President Barack Obama goes shopping during Small Business Saturday" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							47 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-48"
+						data-title="Obama Swagger"
+						data-description="Barack Obama boards Air Force One before departing from Los Angeles International Airport on February 12, 2016. "
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-48"
+						data-image-id="3382703"
+						data-has-ad="1"
+						>
+							<h3 class="ione-listicle__title">
+								48. Obama Swagger							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2016/02/145547798309041.jpg?quality=80&#038;strip=all&#038;w=900" alt="US-POLITICS-OBAMA" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							48 of 54						</span>
+						<div class="listicle-description">
+							
+																																										</div>
+											</div>
+									<div
+						id="gallery-49"
+						data-title="Laughs &amp; Turkeys"
+						data-description="Obama shares a laugh with his daughters after pardoning the turkeys &quot;Honest&quot; and &quot;Abe&quot; in November 2015. "
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-49"
+						data-image-id="3358957"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								49. Laughs &amp; Turkeys							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2016/02/14485087469442.jpg?quality=80&#038;strip=all&#038;w=852" alt="US-POLITICS-THANKSGIVING-OBAMA" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							49 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-50"
+						data-title="Growing Up In The White House"
+						data-description="Sasha and Malia have grown into fashionistas, much like the their mom the First Lady."
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-50"
+						data-image-id="3358584"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								50. Growing Up In The White House							</h3>
+						<img data-lazy="https://scontent.cdninstagram.com/t51.2885-15/e35/p480x480/12747691_244133342584896_1780474781_n.jpg?ig_cache_key=MTE4NzA3MzU0NjQ3ODMxNTY1MA%3D%3D.2" alt="Growing Up In The White House">												<span class="media-credit">
+							Source:Instagram						</span>
+												<span class="photo-count">
+							50 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-51"
+						data-title="Christmas With The Obamas"
+						data-description="The Obamas celebrate Christmas in Washington before leaving for Hawaii."
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-51"
+						data-image-id="3358585"
+						data-has-ad="1"
+						>
+							<h3 class="ione-listicle__title">
+								51. Christmas With The Obamas							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2015/12/14492401378097.jpg?quality=80&#038;strip=all&#038;w=900" alt="US-CHRISTMAS-TREE-OBAMA" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							51 of 54						</span>
+						<div class="listicle-description">
+							
+																																										</div>
+											</div>
+									<div
+						id="gallery-52"
+						data-title="Malia &amp; Obama"
+						data-description="Malia shares a joke with her dad in Oval Office."
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-52"
+						data-image-id="3358587"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								52. Malia &amp; Obama							</h3>
+						<img data-lazy="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12547702_1735673833330526_643346288_n.jpg?ig_cache_key=MTE2MTEzMjQ4NTA3NTY5OTA5NA%3D%3D.2" alt="Malia &amp; Obama">												<span class="media-credit">
+							Source:Instagram						</span>
+												<span class="photo-count">
+							52 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-53"
+						data-title="50th Anniversary Of March On Selma"
+						data-description="The family walked together with several civil rights heroes in Selma for the 50th anniversary of Bloody Sunday."
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-53"
+						data-image-id="3358588"
+						data-has-ad=""
+						>
+							<h3 class="ione-listicle__title">
+								53. 50th Anniversary Of March On Selma							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2015/12/1450200714142.jpg?quality=80&#038;strip=all&#038;w=640" alt="Barack Obama" class="">												<span class="media-credit">
+							Source:Pete Souza						</span>
+												<span class="photo-count">
+							53 of 54						</span>
+						<div class="listicle-description">
+							
+																											</div>
+											</div>
+									<div
+						id="gallery-54"
+						data-title="Christmas Tree Lighting"
+						data-description="Malia, Sasha, mother-in-law Marian Robinson, Michelle and Barack Obama the national Christmas tree lighting ceremony."
+						data-url="https://newsone.com/playlist/34-photos-that-will-make-you-miss-the-obama-family-already/#gallery-54"
+						data-image-id="3382704"
+						data-has-ad="1"
+						>
+							<h3 class="ione-listicle__title">
+								54. Christmas Tree Lighting							</h3>
+						<img data-lazy="https://ionenewsone.files.wordpress.com/2016/03/1449262559209.jpg?quality=80&#038;strip=all&#038;w=900" alt="First Family Attends National Christmas Tree" class="">												<span class="media-credit">
+							Source:Getty						</span>
+												<span class="photo-count">
+							54 of 54						</span>
+						<div class="listicle-description">
+							
+																																										</div>
+											</div>
+							</div>
+			<!-- .ione-gallery__slideshow -->
+
+			<div class="ione-gallery__slideshow-nav">
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i1.wp.com/ionenewsone.files.wordpress.com/2016/05/14640148644973.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i2.wp.com/ionenewsone.files.wordpress.com/2016/05/14640150776636.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i0.wp.com/ionenewsone.files.wordpress.com/2016/05/146245338819111.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i2.wp.com/ionenewsone.files.wordpress.com/2016/05/14495038627604.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i2.wp.com/ionenewsone.files.wordpress.com/2015/04/14283300627427.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i2.wp.com/ionenewsone.files.wordpress.com/2016/02/155694189.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://scontent.cdninstagram.com/t51.2885-15/e35/12558282_224615547874501_1888411509_n.jpg?ig_cache_key=MTE3NjU3NDg4NTc5NjM0MTU5OQ%3D%3D.2&#038;w=100&#038;quality=80&#038;strip=all"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i1.wp.com/ionenewsone.files.wordpress.com/2016/05/1464014639682.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i0.wp.com/ionenewsone.files.wordpress.com/2016/03/14577038184805.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/1171218_120085178379821_324506230_n.jpg?ig_cache_key=MTE4NTg5MDAwODk2ODUzMzQ1Mw%3D%3D.2&#038;w=100&#038;quality=80&#038;strip=all"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i1.wp.com/ionenewsone.files.wordpress.com/2015/06/14345706669511.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://scontent.cdninstagram.com/t51.2885-15/s480x480/e35/12446214_1673274486264506_1958295815_n.jpg?ig_cache_key=MTE1ODc0MjExNTA2NDc3MjU2OA%3D%3D.2&#038;w=100&#038;quality=80&#038;strip=all"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i0.wp.com/ionenewsone.files.wordpress.com/2015/06/14345706744403.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i1.wp.com/ionenewsone.files.wordpress.com/2015/06/14345706797236.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12558734_986400708120144_626456439_n.jpg?ig_cache_key=MTE4MjA1NjE3NjcwODI5NDY1MA%3D%3D.2&#038;w=100&#038;quality=80&#038;strip=all"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://scontent.cdninstagram.com/t51.2885-15/e35/12750089_948432341909692_2106552302_n.jpg?ig_cache_key=MTE4NTUxMjg5MDc5OTU2MDA2Nw%3D%3D.2&#038;w=100&#038;quality=80&#038;strip=all"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i0.wp.com/ionenewsone.files.wordpress.com/2016/03/14577143423006.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i1.wp.com/ionenewsone.files.wordpress.com/2015/11/14484858137948.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i0.wp.com/ionenewsone.files.wordpress.com/2016/03/1445272053829.jpg?crop=0px%2C59px%2C2211px%2C2211px&#038;resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i1.wp.com/ionenewsone.files.wordpress.com/2015/11/14484857905916.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://scontent.cdninstagram.com/t51.2885-15/e35/p320x320/12346191_848713235241245_2112289758_n.jpg?ig_cache_key=MTE0NDU0MDYzNDEyMDA0NTQwMw%3D%3D.2&#038;w=100&#038;quality=80&#038;strip=all"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i1.wp.com/ionenewsone.files.wordpress.com/2015/07/14362067308562.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i2.wp.com/ionenewsone.files.wordpress.com/2016/02/14562431824527.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12558839_1031473453581968_765803112_n.jpg?ig_cache_key=MTE4MTgxMzQ1MjQzNTIzNjM4MA%3D%3D.2&#038;w=100&#038;quality=80&#038;strip=all"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i0.wp.com/ionenewsone.files.wordpress.com/2016/02/51913478.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i2.wp.com/ionenewsone.files.wordpress.com/2016/02/14563287252751.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i0.wp.com/ionenewsone.files.wordpress.com/2016/02/51143331.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i0.wp.com/ionenewsone.files.wordpress.com/2016/02/14563287209967.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://scontent.cdninstagram.com/t51.2885-15/s480x480/e35/1516543_1077110052308027_1414125874_n.jpg?ig_cache_key=MTE1MzEzOTk1ODQ0NjcyNzg5Nw%3D%3D.2&#038;w=100&#038;quality=80&#038;strip=all"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i1.wp.com/ionenewsone.files.wordpress.com/2016/02/83565164.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i2.wp.com/ionenewsone.files.wordpress.com/2016/02/14562427674744.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i1.wp.com/ionenewsone.files.wordpress.com/2016/02/1456328716864.png?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/925202_741716662596134_154729567_n.jpg?ig_cache_key=MTE4NTc2MjY1MDI5NDcxMjEzOA%3D%3D.2&#038;w=100&#038;quality=80&#038;strip=all"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i0.wp.com/ionenewsone.files.wordpress.com/2016/02/14562428271116.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i2.wp.com/ionenewsone.files.wordpress.com/2016/03/1449342197031.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i0.wp.com/ionenewsone.files.wordpress.com/2016/02/145632833897881.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i0.wp.com/ionenewsone.files.wordpress.com/2016/02/148489120.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i0.wp.com/ionenewsone.files.wordpress.com/2016/02/14562427879177.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i2.wp.com/ionenewsone.files.wordpress.com/2016/03/14575429604982.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i2.wp.com/ionenewsone.files.wordpress.com/2016/02/148455559.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i2.wp.com/ionenewsone.files.wordpress.com/2016/02/14563287337899.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i0.wp.com/ionenewsone.files.wordpress.com/2016/02/145632743877431.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i0.wp.com/ionenewsone.files.wordpress.com/2016/02/1456328712011.png?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i1.wp.com/ionenewsone.files.wordpress.com/2016/02/14563286806807.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i1.wp.com/ionenewsone.files.wordpress.com/2016/02/14562428165521.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i2.wp.com/ionenewsone.files.wordpress.com/2015/11/14486326368662.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i2.wp.com/ionenewsone.files.wordpress.com/2016/02/14562427674744.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i2.wp.com/ionenewsone.files.wordpress.com/2016/02/145547798309041.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i2.wp.com/ionenewsone.files.wordpress.com/2016/02/14485087469442.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://scontent.cdninstagram.com/t51.2885-15/e35/p480x480/12747691_244133342584896_1780474781_n.jpg?ig_cache_key=MTE4NzA3MzU0NjQ3ODMxNTY1MA%3D%3D.2&#038;w=100&#038;quality=80&#038;strip=all"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i1.wp.com/ionenewsone.files.wordpress.com/2015/12/14492401378097.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12547702_1735673833330526_643346288_n.jpg?ig_cache_key=MTE2MTEzMjQ4NTA3NTY5OTA5NA%3D%3D.2&#038;w=100&#038;quality=80&#038;strip=all"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i1.wp.com/ionenewsone.files.wordpress.com/2015/12/1450200714142.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+									<div class="">
+						<div class="image-crop">
+															<img data-lazy="https://i0.wp.com/ionenewsone.files.wordpress.com/2016/03/1449262559209.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1"/>
+													</div>
+					</div>
+							</div>
+			<!-- .ione-gallery__slideshow -->
+
+			<div class="in-gallery-ad" id="in-gallery-banner-ad">
+				<button class="skip-ad"><i class="icon-close"></i></button>
+				<button class="skip-ad text">Skip ad</button>
+								<div id="ad-inner-gallery2780635" data-ad-id="inner-gallery2780635" class="ad">		<div id="div-gpt-inner-gallery2780635" class="gpt-ad">
+		</div>
+
+		<script type="text/javascript">
+					jQuery( document ).on( "refresh-div-gpt-inner-gallery2780635", function() {
+
+					googletag.cmd.push( function() {
+
+							var slot = {"name":"inner-gallery2780635","path":"\/4052\/no.home\/nation","sizes":[[300,250]],"div":"div-gpt-inner-gallery2780635","targets":{"pos":"inner-gallery","sz":"300x250"}};
+					var gptSlot;
+
+					gptSlot = googletag.defineSlot(
+						slot.path,
+						slot.sizes,
+						slot.div
+					)
+					.addService( googletag.pubads() )
+					.addService( googletag.companionAds() );
+
+					/**
+					 * Add targeting data.
+					 */
+					_.each( slot.targets, function( target, key ) {
+						gptSlot.setTargeting( key, target )
+					} );
+
+					/**
+					 * Add the page/slot targeting data.
+					 */
+					ionegpt.attrs['position'] = slot.name;
+
+					_.each( ionegpt.attrs, function( target, key ) {
+						gptSlot.setTargeting( key, target )
+					} );
+
+					googletag.display( "div-gpt-inner-gallery2780635" );
+
+					renderedGptSlots[ slot.div ] = gptSlot;
+				});
+				} );
+				</script>
+	</div>
+		
+					</div>
+
+		</div>
+		<!-- .ione-gallery__images -->
+
+		<div class="ione-gallery__sidebar">
+			<a href="https://newsone.com/"><img srcset="https://i0.wp.com/ionenewsone.files.wordpress.com/2015/08/14389692707671.png?resize=9999%2C50&amp;quality=80&amp;strip=all&amp;ssl=1 1x, https://i0.wp.com/ionenewsone.files.wordpress.com/2015/08/14389692707671.png?resize=9999%2C100&amp;quality=80&amp;strip=all&amp;ssl=1 2x" class="navbar-logo" /></a>
+			<i class="icon-close ione-gallery__close"></i>
+			<span class="ione-gallery__return">
+				Continue reading Black Conspiracy Theory 101:  Did Chick-fil-A&#8217;s President Say &#8216;We Don&#8217;t Like Blacks&nbsp;Either&#8217;?			</span>
+			<div class="ione-gallery_desc-wrapper">
+				<h3 class="ione-gallery__title">55 Photos To Make You Miss The Obamas</h3>
+				<p class="ione-gallery__description"></p>
+				<!-- addthis -->
+				<div id="ione-gallery-share" class="addthis_32x32_style addthis_default_style">
+					<a class="addthis_button_facebook" addthis:url="https://newsone.com/2780635/black-urban-legends-chick-fil-a-racist-against-blacks/" addthis:title="55 Photos To Make You Miss The Obamas"><i class="icon-facebook"></i></a>
+					<a class="addthis_button_twitter" addthis:url="https://newsone.com/2780635/black-urban-legends-chick-fil-a-racist-against-blacks/" addthis:title="55 Photos To Make You Miss The Obamas"><i class="icon-twitter"></i></a>
+					<a class="addthis_button_email" addthis:url="https://newsone.com/2780635/black-urban-legends-chick-fil-a-racist-against-blacks/" addthis:title="55 Photos To Make You Miss The Obamas"><i class="icon-email"></i></a>
+				</div>
+			</div>
+
+			<div class="ione-gallery__ad">
+								<div id="ad-gallery2780635" data-ad-id="gallery2780635" class="ad">		<div id="div-gpt-gallery2780635" class="gpt-ad">
+		</div>
+
+		<script type="text/javascript">
+					jQuery( document ).on( "refresh-div-gpt-gallery2780635", function() {
+
+					googletag.cmd.push( function() {
+
+							var slot = {"name":"gallery2780635","path":"\/4052\/no.home\/nation","sizes":[[300,250]],"div":"div-gpt-gallery2780635","targets":{"pos":"gallery","sz":"300x250"}};
+					var gptSlot;
+
+					gptSlot = googletag.defineSlot(
+						slot.path,
+						slot.sizes,
+						slot.div
+					)
+					.addService( googletag.pubads() )
+					.addService( googletag.companionAds() );
+
+					/**
+					 * Add targeting data.
+					 */
+					_.each( slot.targets, function( target, key ) {
+						gptSlot.setTargeting( key, target )
+					} );
+
+					/**
+					 * Add the page/slot targeting data.
+					 */
+					ionegpt.attrs['position'] = slot.name;
+
+					_.each( ionegpt.attrs, function( target, key ) {
+						gptSlot.setTargeting( key, target )
+					} );
+
+					googletag.display( "div-gpt-gallery2780635" );
+
+					renderedGptSlots[ slot.div ] = gptSlot;
+				});
+				} );
+				</script>
+	</div>
+		
+					</div>
+		</div>
+		<!-- .ione-gallery__sidebar -->
+		<div class="ione-gallery__mobile-header">
+			<a href="https://newsone.com/"><img srcset="https://i0.wp.com/ionenewsone.files.wordpress.com/2015/08/14389692707671.png?resize=9999%2C50&amp;quality=80&amp;strip=all&amp;ssl=1 1x, https://i0.wp.com/ionenewsone.files.wordpress.com/2015/08/14389692707671.png?resize=9999%2C100&amp;quality=80&amp;strip=all&amp;ssl=1 2x" class="navbar-logo" /></a>
+			<i class="icon-close ione-gallery__close-mobile"></i>
+		</div>
+	</div>
+</div>
+					</div>
+					<!-- .post-content -->
+
+					
+					<div class="post-comments ione-toggle" data-name="ione-comments-2780635" data-class="post-comments__displayed">
+<div class="post-comments__title ione-toggle__trigger"><span><span class="fb-comments-count" data-href="https://newsone.com/2780635/black-urban-legends-chick-fil-a-racist-against-blacks/"></span> comments</span> – Add Yours <i class="icon-arrow-down"></i></div>
+	<div class="ione-toggle__content">
+		<div id="comments" class="fb-comments" data-width="100%" data-href="https://newsone.com/2780635/black-urban-legends-chick-fil-a-racist-against-blacks/" data-numposts="3" data-colorscheme="light"></div>
+	</div>
+</div>
+					<!-- Taboola Start -->
+					<div class="widget widget_ione-taboola">		<div id="taboola-20a7aabc796ddbec49c07944ac8ba147-mix"
+		     data-mode="thumbnails-a"
+		     data-container="taboola-20a7aabc796ddbec49c07944ac8ba147-mix"
+		     data-placement="below-article-thumbnails"
+		     data-target_type="mix"
+			></div>
+				<script type="text/javascript">
+			window._taboola.push({
+				mode: "thumbnails-a",
+				container: "taboola-20a7aabc796ddbec49c07944ac8ba147-mix",
+				placement: "below-article-thumbnails",
+				target_type: 'mix'
+			});
+		</script>
+		</div>
+					<!-- End Taboola -->
+
+				</div>
+
+				
+				<div class="ad-single-side">
+					<div class="static-ads">
+							<div class="sidebar-non-ad above-first-ad">
+															</div>
+
+
+						<div class="sidebar-ad first-ad">
+							<div class="ione-widget-container ione-widget-ionead">				<div id="ad-sidebar1-post" data-ad-id="sidebar1-post" class="ad">		<div id="div-gpt-sidebar1-post" class="gpt-ad">
+		</div>
+
+		<script type="text/javascript">
+					googletag.cmd.push( function() {
+
+						googletag.display( "div-gpt-sidebar1-post" );
+
+			} );
+				</script>
+	</div>
+		
+		</div>						</div>
+							<div class="sidebar-non-ad above-second-ad">
+								<div class="ione-widget-container ione-widget-branded_flex_posts">	<div class="widget widget-posts-split">
+		<div class="module-container politicker">
+							<div class="module__title">
+					<i class="icon-politicker"></i>
+					Politicker<span>One</span>				</div>
+						<ul>
+									<li class="post-3671241 post type-post status-publish format-standard has-post-thumbnail hentry category-cross-post-now category-newsletter category-politicker-home category-politics tag-donald-trump tag-inauguration-day tag-michelle-obama tag-president-donald-trump" >
+						<a href="https://newsone.com/3671241/michelle-obama-face-at-donald-trump-inauguration/" class="post-link">
+															<div class="poster video-poster">
+									<img src="https://i0.wp.com/ionenewsone.files.wordpress.com/2017/01/14849440865939.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1" data-srcset="https://i0.wp.com/ionenewsone.files.wordpress.com/2017/01/14849440865939.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1 400w, https://i0.wp.com/ionenewsone.files.wordpress.com/2017/01/14849440865939.jpg?resize=200%2C200&#038;quality=80&#038;strip=all&#038;ssl=1 700w, https://i0.wp.com/ionenewsone.files.wordpress.com/2017/01/14849440865939.jpg?resize=300%2C300&#038;quality=80&#038;strip=all&#038;ssl=1 900w" data-sizes="auto" alt="US-POLITICS-TRUMP-INAUGURATION-SWEARING IN" class="lazyload " width="100" height="100">								</div>
+														<div class="post-title">Here Is Why Michelle Obama&#8217;s Expression Signifies&nbsp;Everything</div>			<span class="timestamp">4 days ago			</span>						</a>
+					</li>
+										<li class="post-3667938 post type-post status-publish format-standard has-post-thumbnail hentry category-newsletter category-politicker-home category-politics tag-barack-obama tag-black-excellence tag-donald-trump tag-joshua-adams tag-white-privilege" >
+						<a href="https://newsone.com/3667938/donald-trump-mediocrity-of-privilege/" class="post-link">
+															<div class="poster video-poster">
+									<img src="https://i2.wp.com/ionenewsone.files.wordpress.com/2017/02/1487185994767.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1" data-srcset="https://i2.wp.com/ionenewsone.files.wordpress.com/2017/02/1487185994767.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1 400w, https://i2.wp.com/ionenewsone.files.wordpress.com/2017/02/1487185994767.jpg?resize=200%2C200&#038;quality=80&#038;strip=all&#038;ssl=1 700w, https://i2.wp.com/ionenewsone.files.wordpress.com/2017/02/1487185994767.jpg?resize=300%2C300&#038;quality=80&#038;strip=all&#038;ssl=1 900w" data-sizes="auto" alt="The UK Reacts To Trump&#039;s Muslim Travel Ban" class="lazyload " width="100" height="100">								</div>
+														<div class="post-title">Donald Trump &amp; Mediocrity Of&nbsp;Privilege</div>			<span class="timestamp">1 week ago			</span>						</a>
+					</li>
+										<li class="post-3666705 post type-post status-publish format-standard has-post-thumbnail hentry category-cross-post-now category-nation category-newsletter category-opinion category-politicker-home tag-avelina-jacobs tag-racism tag-virginia tag-white-privilege" >
+						<a href="https://newsone.com/3666705/5-virginia-teens-sentenced-to-read-books-after-vandalizing-historic-ashburn-colored-school/" class="post-link">
+															<div class="poster video-poster">
+									<img src="https://i1.wp.com/ionenewsone.files.wordpress.com/2016/10/14754984522924.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1" data-srcset="https://i1.wp.com/ionenewsone.files.wordpress.com/2016/10/14754984522924.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1 400w, https://i1.wp.com/ionenewsone.files.wordpress.com/2016/10/14754984522924.jpg?resize=200%2C200&#038;quality=80&#038;strip=all&#038;ssl=1 700w, https://i1.wp.com/ionenewsone.files.wordpress.com/2016/10/14754984522924.jpg?resize=300%2C300&#038;quality=80&#038;strip=all&#038;ssl=1 900w" data-sizes="auto" alt="ASHBURN, VA - FEBRUARY 25: A group of Loudoun School for the" class="lazyload " width="100" height="100">								</div>
+														<div class="post-title">Teens Sentenced To Read Books After Vandalizing Historic&hellip;</div>			<span class="timestamp">2 weeks ago			</span>						</a>
+					</li>
+										<li class="post-3656742 post type-post status-publish format-standard has-post-thumbnail hentry category-cross-post-now category-nation category-newsletter category-opinion category-politicker-home tag-democrats-2016 tag-democrats-2017 tag-donald-trump tag-election-2016 tag-midterm-elections-2017 tag-president-trump" >
+						<a href="https://newsone.com/3656742/here-is-why-you-must-vote-in-your-state-local-elections/" class="post-link">
+															<div class="poster video-poster">
+									<img src="https://i2.wp.com/ionenewsone.files.wordpress.com/2017/02/14859880558761.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1" data-srcset="https://i2.wp.com/ionenewsone.files.wordpress.com/2017/02/14859880558761.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1 400w, https://i2.wp.com/ionenewsone.files.wordpress.com/2017/02/14859880558761.jpg?resize=200%2C200&#038;quality=80&#038;strip=all&#038;ssl=1 700w, https://i2.wp.com/ionenewsone.files.wordpress.com/2017/02/14859880558761.jpg?resize=300%2C300&#038;quality=80&#038;strip=all&#038;ssl=1 900w" data-sizes="auto" alt="US-POLITICS-TRUMP-INAUGURATION-PROTEST" class="lazyload " width="100" height="100">								</div>
+														<div class="post-title">Here Is Why You Must Vote In Your&hellip;</div>			<span class="timestamp">3 weeks ago			</span>						</a>
+					</li>
+								</ul>
+					<div class="module-row">
+			<div class="module-more-link">
+				<a href="/category/politicker-home/">View all</a>
+			</div>
+		</div>
+					<!-- .module-row -->
+		</div>
+	</div>
+</div><div class="ione-widget-container ione-widget-trending"><div class="widget widget-trending">
+	<span class="widget-title">Trending</span>
+	<ul>
+				<li class="has-post-thumbnail post-3067310 post type-post status-publish format-standard hentry category-cross-post-now category-nation category-newsletter tag-cynthia-ramsey tag-kimberly-ashcraft tag-race tag-racism tag-school tag-students tag-teacher">
+				<a href="https://newsone.com/3067310/n-c-teachers-bucket-list-i-would-kill-all-black-people-if-i-had-ten-days-to-live/" class="post-link">
+					<div class="in-pictures  poster">
+						<img src="https://i1.wp.com/ionenewsone.files.wordpress.com/2014/10/kimberly-ashcraft-wavy-800x430.png?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1" data-srcset="https://i1.wp.com/ionenewsone.files.wordpress.com/2014/10/kimberly-ashcraft-wavy-800x430.png?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1 400w, https://i1.wp.com/ionenewsone.files.wordpress.com/2014/10/kimberly-ashcraft-wavy-800x430.png?resize=200%2C200&#038;quality=80&#038;strip=all&#038;ssl=1 700w, https://i1.wp.com/ionenewsone.files.wordpress.com/2014/10/kimberly-ashcraft-wavy-800x430.png?resize=300%2C300&#038;quality=80&#038;strip=all&#038;ssl=1 900w" data-sizes="auto" alt="Kimberly Ashcraft" class="lazyload " width="100" height="100">					</div>
+										<div class="post-title">N.C. Teacher&#8217;s Bucket List: I Would Kill All Black People If I Had Ten Days To&nbsp;Live</div>
+				</a>
+			</li>
+						<li class="has-post-thumbnail post-3342743 post type-post status-publish format-standard hentry category-crime category-cross-post-now category-nation category-newsletter tag-blacks-and-police-brutality tag-cleveland-police-department tag-malissa-williams tag-michael-brelo tag-timothy-russell">
+				<a href="https://newsone.com/3342743/cleveland-police-officer-michael-brelo-fired-in-deaths-of-timothy-russell-malissa-williams/" class="post-link">
+					<div class="in-pictures  poster">
+						<img src="https://i1.wp.com/ionenewsone.files.wordpress.com/2015/05/14327574249182-e1433429126803.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1" data-srcset="https://i1.wp.com/ionenewsone.files.wordpress.com/2015/05/14327574249182-e1433429126803.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1 400w, https://i1.wp.com/ionenewsone.files.wordpress.com/2015/05/14327574249182-e1433429126803.jpg?resize=200%2C200&#038;quality=80&#038;strip=all&#038;ssl=1 700w, https://i1.wp.com/ionenewsone.files.wordpress.com/2015/05/14327574249182-e1433429126803.jpg?resize=300%2C300&#038;quality=80&#038;strip=all&#038;ssl=1 900w" data-sizes="auto" alt="Cleveland Cops" class="lazyload " width="100" height="100">					</div>
+										<div class="post-title">Cleveland Fires Six Cops Who Killed Couple In Hail Of 137 Bullets After&nbsp;Chase</div>
+				</a>
+			</li>
+						<li class="has-post-thumbnail post-2000029 post type-post status-publish format-standard hentry category-nation category-newsone-original tag-african-american tag-black-history tag-black-women">
+				<a href="https://newsone.com/2000029/10-black-women-of-influence/" class="post-link">
+					<div class="in-pictures  poster">
+						<img data-src="https://i1.wp.com/ionenewsone.files.wordpress.com/2011/12/hattie.jpg?resize=560%2C320&#038;quality=80&#038;strip=all" class="lazyload ">					</div>
+										<div class="post-title">10 Black Women Who Made America&nbsp;Great</div>
+				</a>
+			</li>
+						<li class="has-post-thumbnail post-742485 post type-post status-publish format-standard hentry category-cross-post-now category-nation category-newsone-original tag-tenth-anniversary-911 tag-8239 tag-conspiracy-theories tag-news tag-one-world-trade tag-osama-bin-laden-dead tag-september-11th tag-world-trade-center">
+				<a href="https://newsone.com/742485/the-11-most-compelling-911-conspiracy-theories/" class="post-link">
+					<div class="in-pictures  poster">
+						<img src="https://i2.wp.com/ionenewsone.files.wordpress.com/2015/09/124713833.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1" data-srcset="https://i2.wp.com/ionenewsone.files.wordpress.com/2015/09/124713833.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1 400w, https://i2.wp.com/ionenewsone.files.wordpress.com/2015/09/124713833.jpg?resize=200%2C200&#038;quality=80&#038;strip=all&#038;ssl=1 700w, https://i2.wp.com/ionenewsone.files.wordpress.com/2015/09/124713833.jpg?resize=300%2C300&#038;quality=80&#038;strip=all&#038;ssl=1 900w" data-sizes="auto" alt="New York City Commemorates 10th Anniversary Of 9-11 Terror Attacks" class="lazyload " width="100" height="100">					</div>
+										<div class="post-title">The 11 Most Compelling 9/11 Conspiracy&nbsp;Theories</div>
+				</a>
+			</li>
+						<li class="has-post-thumbnail post-3677923 post type-post status-publish format-standard hentry category-crime category-newsletter tag-barack-obama tag-federal-prison tag-jeff-sessions tag-mass-incarceration">
+				<a href="https://newsone.com/3677923/attorney-general-jeff-sessions-goes-against-barack-obama-era-directive-to-close-private-prisons/" class="post-link">
+					<div class="in-pictures  poster">
+						<img src="https://i2.wp.com/ionenewsone.files.wordpress.com/2016/03/1434985817277.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1" data-srcset="https://i2.wp.com/ionenewsone.files.wordpress.com/2016/03/1434985817277.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1 400w, https://i2.wp.com/ionenewsone.files.wordpress.com/2016/03/1434985817277.jpg?resize=200%2C200&#038;quality=80&#038;strip=all&#038;ssl=1 700w, https://i2.wp.com/ionenewsone.files.wordpress.com/2016/03/1434985817277.jpg?resize=300%2C300&#038;quality=80&#038;strip=all&#038;ssl=1 900w" data-sizes="auto" alt="Jail" class="lazyload " width="100" height="100">					</div>
+										<div class="post-title">Jeff Sessions Goes Against Obama-Era Directive To Close Private&nbsp;Prisons</div>
+				</a>
+			</li>
+						<li class="has-post-thumbnail post-1334425 post type-post status-publish format-standard hentry category-crime category-cross-post-now category-entertainment category-newsletter category-newsone-original tag-cuba-gooding-jr tag-nicole-brown-simpson tag-o-j-simpson tag-o-j-murder-trial">
+				<a href="https://newsone.com/1334425/five-reasons-why-we-know-o-j-did-it/" class="post-link">
+					<div class="in-pictures  poster">
+						<img src="https://i2.wp.com/ionenewsone.files.wordpress.com/2016/02/168743527.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1" data-srcset="https://i2.wp.com/ionenewsone.files.wordpress.com/2016/02/168743527.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1 400w, https://i2.wp.com/ionenewsone.files.wordpress.com/2016/02/168743527.jpg?resize=200%2C200&#038;quality=80&#038;strip=all&#038;ssl=1 700w, https://i2.wp.com/ionenewsone.files.wordpress.com/2016/02/168743527.jpg?resize=300%2C300&#038;quality=80&#038;strip=all&#038;ssl=1 900w" data-sizes="auto" alt="O.J. Simpson Seeks Retrial In Las Vegas Court - Day 2" class="lazyload " width="100" height="100">					</div>
+										<div class="post-title">Five Things That Suggest O.J. Simpson Killed His&nbsp;Wife</div>
+				</a>
+			</li>
+				</ul>
+	<div class="social-footer">
+		<p>Get Informed!</p>
+				<!-- Go to www.addthis.com/dashboard to customize your tools -->
+		<div class="addthis_custom_follow"></div>
+	</div>
+</div>
+</div>							</div>
+
+
+						<div class="sidebar-ad second-ad">
+							<div class="ione-widget-container ione-widget-ionead">				<div id="ad-sidebar2-post" data-ad-id="sidebar2-post" class="ad">		<div id="div-gpt-sidebar2-post" class="gpt-ad">
+		</div>
+
+		<script type="text/javascript">
+					googletag.cmd.push( function() {
+
+						googletag.display( "div-gpt-sidebar2-post" );
+
+			} );
+				</script>
+	</div>
+		
+		</div>						</div>
+						<div class="sidebar-non-ad above-third-ad">
+													</div>
+
+						<div class="sidebar-ad taboola taboola-1">
+									<div id="taboola-3e67e496c92601df37061d633661dea9-mix"
+		     data-mode="thumbnails-b"
+		     data-container="taboola-3e67e496c92601df37061d633661dea9-mix"
+		     data-placement="right-rail-thumbnails"
+		     data-target_type="mix"
+			></div>
+				<script type="text/javascript">
+			window._taboola.push({
+				mode: "thumbnails-b",
+				container: "taboola-3e67e496c92601df37061d633661dea9-mix",
+				placement: "right-rail-thumbnails",
+				target_type: 'mix'
+			});
+		</script>
+		
+						</div>
+
+							<div class="sidebar-non-ad above-fourth-ad">
+								<div class="ione-widget-container ione-widget-branded_flex_posts">	<div class="widget widget-posts-split">
+		<div class="module-container top-ten">
+							<div class="module__title">
+					<i class="icon-top-ten"></i>
+					Top <span>Ten</span>				</div>
+						<ul>
+									<li class="post-3276848 post type-post status-publish format-standard has-post-thumbnail hentry category-cross-post-now category-nation category-newsletter category-newsone-top-10 tag-black-lives-matter tag-black-lives-matter-minneapolis tag-minneapolis" >
+						<a href="https://newsone.com/3276848/4-charged-in-shooting-of-minneapolis-black-lives-matters-protesters/" class="post-link">
+															<div class="poster video-poster">
+									<img src="https://i1.wp.com/ionenewsone.files.wordpress.com/2015/11/14483721211756.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1" data-srcset="https://i1.wp.com/ionenewsone.files.wordpress.com/2015/11/14483721211756.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1 400w, https://i1.wp.com/ionenewsone.files.wordpress.com/2015/11/14483721211756.jpg?resize=200%2C200&#038;quality=80&#038;strip=all&#038;ssl=1 700w, https://i1.wp.com/ionenewsone.files.wordpress.com/2015/11/14483721211756.jpg?resize=300%2C300&#038;quality=80&#038;strip=all&#038;ssl=1 900w" data-sizes="auto" alt="Black Lives Matter Activists Group Continues To Protest Police Shooting Of Jamar Clark" class="lazyload " width="100" height="100">								</div>
+														<div class="post-title">4 Charged In Shooting Of Minneapolis Black Lives&hellip;</div>						</a>
+					</li>
+										<li class="post-3276856 post type-post status-publish format-standard has-post-thumbnail hentry category-good-news category-nation category-newsletter category-newsone-top-10 tag-newsone" >
+						<a href="https://newsone.com/3276856/welcome-to-the-new-improved-newsone/" class="post-link">
+															<div class="poster video-poster">
+									<img src="https://i0.wp.com/ionenewsone.files.wordpress.com/2015/12/1448988110385.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1" data-srcset="https://i0.wp.com/ionenewsone.files.wordpress.com/2015/12/1448988110385.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1 400w, https://i0.wp.com/ionenewsone.files.wordpress.com/2015/12/1448988110385.jpg?resize=200%2C200&#038;quality=80&#038;strip=all&#038;ssl=1 700w, https://i0.wp.com/ionenewsone.files.wordpress.com/2015/12/1448988110385.jpg?resize=300%2C300&#038;quality=80&#038;strip=all&#038;ssl=1 900w" data-sizes="auto" alt="NewsOne Promo" class="lazyload " width="100" height="100">								</div>
+														<div class="post-title custom-title">Welcome To The New &amp; Improved NewsOne</div>						</a>
+					</li>
+										<li class="post-3276857 post type-post status-publish format-video has-post-thumbnail hentry category-nation category-newsone-top-10 category-video-hub tag-eric-rudolph tag-exclusive-video tag-isis tag-jesus tag-north-carolina tag-planned-parenthood tag-religious-extremist tag-robert-lewis-dear tag-slate-com tag-south-carolina tag-supreme-court tag-video post_format-post-format-video" >
+						<a href="https://newsone.com/3276857/homegrown-terror-the-most-dangerous-religious-extremist-hail-from-north-south-carolina-not-syria/" class="post-link">
+															<div class="poster video-poster">
+									<i class="icon-play-small"></i><img src="https://i0.wp.com/ionenewsone.files.wordpress.com/2015/07/14365528628663.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1" data-srcset="https://i0.wp.com/ionenewsone.files.wordpress.com/2015/07/14365528628663.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1 400w, https://i0.wp.com/ionenewsone.files.wordpress.com/2015/07/14365528628663.jpg?resize=200%2C200&#038;quality=80&#038;strip=all&#038;ssl=1 700w, https://i0.wp.com/ionenewsone.files.wordpress.com/2015/07/14365528628663.jpg?resize=300%2C300&#038;quality=80&#038;strip=all&#038;ssl=1 900w" data-sizes="auto" alt="The ‘Dangerous’ Denial Of The True History Of The Confederacy, Confederate Flag And Racism" class="lazyload " width="100" height="100">								</div>
+														<div class="post-title custom-title">The Most Dangerous Religious Extremists Hail From The&hellip;</div>						</a>
+					</li>
+										<li class="post-3276754 post type-post status-publish format-standard has-post-thumbnail hentry category-crime category-cross-post-now category-exclusives category-nation category-newsletter category-newsone-top-10 tag-attorney-ben-crump tag-ben-crump tag-black-lives-matter tag-criminal-justice-reform tag-damario-solomon-simmons tag-daniel-holtzclaw tag-racism tag-racism-and-criminal-justice-system tag-racism-and-police" >
+						<a href="https://newsone.com/3276754/exclusive-black-women-rape-victims-are-under-assault-during-daniel-holtzclaw-trial/" class="post-link">
+															<div class="poster video-poster">
+									<img src="https://i0.wp.com/ionenewsone.files.wordpress.com/2015/12/14276375513665.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1" data-srcset="https://i0.wp.com/ionenewsone.files.wordpress.com/2015/12/14276375513665.jpg?resize=100%2C100&#038;quality=80&#038;strip=all&#038;ssl=1 400w, https://i0.wp.com/ionenewsone.files.wordpress.com/2015/12/14276375513665.jpg?resize=200%2C200&#038;quality=80&#038;strip=all&#038;ssl=1 700w, https://i0.wp.com/ionenewsone.files.wordpress.com/2015/12/14276375513665.jpg?resize=300%2C300&#038;quality=80&#038;strip=all&#038;ssl=1 900w" data-sizes="auto" alt="Judge banging gavel in court" class="lazyload " width="100" height="100">								</div>
+														<div class="post-title custom-title">Black Women Rape Victims Are Under Assault During&hellip;</div>						</a>
+					</li>
+								</ul>
+					<div class="module-row">
+			<div class="module-more-link">
+				<a href="/category/newsone-top-10">View All</a>
+			</div>
+		</div>
+					<!-- .module-row -->
+		</div>
+	</div>
+</div>							</div>
+
+
+							
+
+					</div>
+					<div class="sticky-sidebar-ads">
+							<div class="sidebar-ad third-ad">
+								<div class="ione-widget-container ione-widget-ionead">				<div id="ad-sidebar3-post" data-ad-id="sidebar3-post" class="ad">		<div id="div-gpt-sidebar3-post" class="gpt-ad">
+		</div>
+
+		<script type="text/javascript">
+					googletag.cmd.push( function() {
+
+						googletag.display( "div-gpt-sidebar3-post" );
+
+			} );
+				</script>
+	</div>
+		
+		</div>							</div>
+
+						</div>
+				</div>
+				
+
+			</div>
+			<!-- .post -->
+
+		</div>
+		<!-- .post-wrapper -->
+
+					<div class="ad-single-bottom">
+				<div class="ione-widget-container ione-widget-ionead">				<div id="ad-footer-post" data-ad-id="footer-post" class="ad">		<div id="div-gpt-footer-post" class="gpt-ad">
+		</div>
+
+		<script type="text/javascript">
+					googletag.cmd.push( function() {
+
+						googletag.display( "div-gpt-footer-post" );
+
+			} );
+				</script>
+	</div>
+		
+		</div>			</div><!-- /.ad-single-bottom -->
+				</div>
+	<!-- .post-super-wrapper -->
+	<div class="module-recommended">
+			</div>
+
+	</div>
+<!-- #infinite-scroll-container -->
+<div id="sailthru-subscribe-id-2" class="widget sailthru subscribe widget"> <div class="sailthru-signup-widget">
+    <span class="sailthru-signup-widget-close"><a href="#sailthru-signup-widget">Close</a></span>
+     <div class="sailthru_form">
+
+        <div class="widgettitle">Sign up for our newsletter and never miss the hot stories</div>        <div class="success" hidden="hidden">Thank you for subscribing! Please be sure to open and click your first newsletter so we can confirm your subscription.</div>
+         <form method="post" action="#" class="sailthru-add-subscriber-form">
+            <div class="sailthru-add-subscriber-errors"></div>
+
+            <div class="sailthru_form_input form-group">
+                <label class="sailthru-widget-label">Email</label>
+                <input type="text" name="email" value="" class="form-control sailthru_email" />
+            </div>
+
+                            <input type="hidden" name="sailthru_nonce" value="b0664ae712" />
+                <input type="hidden" name="sailthru_email_list" value="NewsOne-Subscribers" />
+                <input type="hidden" name="action" value="add_subscriber" />
+                <input type="hidden" name="vars[source]" value="https://newsone.com" />
+
+                <span class="input-group-btn">
+                    <button class="btn btn-reverse" type="submit">
+                        Submit
+                    </button>
+                </span>
+        </form>
+
+
+
+    </div>
+</div>
+</div>
+	<div class="push-menu-overlay"></div>
+
+	<footer id="footer" class="main-footer" role="contentinfo">
+		<ul id="menu-3-footer-links-1" class="secondary-menu footer-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28"><a href="/about/">About Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29"><a href="http://interactiveone.com/privacy/">Privacy</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31"><a href="http://interactiveone.com/terms-of-service">Terms of Service</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32"><a href="http://interactiveone.com/solutions/">Advertising</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2067132"><a href="http://interactiveone.com/careers/">Careers</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2736610"><a href="http://interactiveone.com">Interactive One Affluent</a></li>
+</ul><ul id="menu-social-1" class="social-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3277485"><a href="https://www.facebook.com/NewsOneOfficial"><span>Facebook</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3277486"><a href="https://twitter.com/newsone"><span>Twitter</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3277487"><a href="https://www.instagram.com/newsone_official/"><span>Instagram</span></a></li>
+</ul>
+		
+		<p>Copyright &copy; 2017 <a href="http://interactiveone.com/">Interactive One, LLC.</a>.<br class="mobile-only"> All Rights Reserved</p>
+		<p>Powered by <a href="https://vip.wordpress.com/?utm_source=vip_powered_wpcom&#038;utm_medium=web&#038;utm_campaign=VIP%20Footer%20Credit" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a></p>
+
+	</footer>
+</div><!-- #ione-container opened in header.php -->
+
+
+				<div id="ad-out-of-page" data-ad-id="out-of-page" class="ad">		<div id="div-gpt-out-of-page" class="gpt-ad">
+		</div>
+
+		<script type="text/javascript">
+					googletag.cmd.push( function() {
+
+						googletag.display( "div-gpt-out-of-page" );
+
+			} );
+				</script>
+	</div>
+		
+		
+	<!-- Taboola starts -->
+	<script type="text/javascript">
+		window._taboola = window._taboola || [];
+		_taboola.push({ flush: true });
+	</script>
+	<!-- Taboola ends -->
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-552e89b24000d651" async="async"></script>
+<!-- wpcom_wp_footer -->
+<script type="text/javascript" src="//launch.newsinc.com/js/embed.js" id="_nw2e-js"></script>
+		<!-- /// LOAD CHARTBEAT /// -->
+		<script type="text/javascript">
+			var _sf_async_config={};
+			_sf_async_config.uid = 19546;
+			_sf_async_config.useCanonical = true;
+						_sf_async_config.domain = 'newsone.com';
+			_sf_async_config.authors = 'ionerlogan';
+_sf_async_config.sections = ["Nation", "NewsOne Original"];
+
+			(function(){
+				function loadChartbeat() {
+					window._sf_endpt=(new Date()).getTime();
+					var e = document.createElement('script');
+					e.setAttribute('language', 'javascript');
+					e.setAttribute('type', 'text/javascript');
+					e.setAttribute('src',
+						(("https:" == document.location.protocol) ? "https://" : "http://") +
+						"static.chartbeat.com/js/chartbeat.js");
+					document.body.appendChild(e);
+				}
+				var oldonload = window.onload;
+				window.onload = (typeof window.onload != 'function') ?
+					loadChartbeat : function() { try { oldonload(); } catch (e) { loadChartbeat(); throw e} loadChartbeat(); };
+			})();
+		</script>
+				<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+	<img src="//px.c1exchange.com/pubpixel/1234842" height="1" width="1" style="display:none;"/>		<script type="text/javascript">
+			!function(d,s,id){
+				var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+				if(!d.getElementById(id)){
+					js=d.createElement(s);
+					js.id=id;js.src=p+"://platform.twitter.com/widgets.js";
+					fjs.parentNode.insertBefore(js,fjs);
+				}
+			}(document,"script","twitter-wjs");
+		</script>
+			<div style="display:none">
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/ionenewsone.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/ionenewsone.wordpress.com\/wp-login.php?action=logout&_wpnonce=a88a6586a6","homeURL":"https:\/\/newsone.com\/","postID":"2780635","gravDefault":"blank","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"","userIsLoggedIn":"","isJetpack":"0","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1479964158j'></script>
+<!-- Sailthru Horizon Sync -->
+<script type="text/javascript" src="//ak.sail-horizon.com/horizon/v1.js"></script>
+<script type="text/javascript">
+jQuery(function() { 
+  if (window.Sailthru) {
+           Sailthru.setup({
+              domain: 'horizon.newsone.com'
+         });
+  }
+});
+ </script>
+
+	<div id="carousel-reblog-box">
+		<form action="#" name="carousel-reblog">
+			<textarea id="carousel-reblog-content" name="carousel-reblog-content" placeholder="Add your thoughts here... (optional)"></textarea>
+			<label for="carousel-reblog-to-blog-id" id="carousel-reblog-lblogid">Post to</label>
+			<select name="carousel-reblog-to-blog-id" id="carousel-reblog-to-blog-id">
+						</select>
+
+			<div class="submit">
+				<span class="canceltext"><a href="#" class="cancel">Cancel</a></span>
+				<input type="submit" name="carousel-reblog-submit" class="button" id="carousel-reblog-submit" value="Reblog Post" />
+				<input type="hidden" id="carousel-reblog-blog-id" value="32316340" />
+				<input type="hidden" id="carousel-reblog-blog-url" value="https://newsone.com" />
+				<input type="hidden" id="carousel-reblog-blog-title" value="News One" />
+				<input type="hidden" id="carousel-reblog-post-url" value="" />
+				<input type="hidden" id="carousel-reblog-post-title" value="" />
+			</div>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="7e3ef29e57" /><input type="hidden" name="_wp_http_referer" value="/2780635/black-urban-legends-chick-fil-a-racist-against-blacks/" />		</form>
+
+		<div class="arrow"></div>
+	</div>
+<link rel='stylesheet' id='all-css-0-3' href='https://s0.wp.com/_static/??/wp-content/themes/vip/ione3/includes/modules/ione-lsap/player/css/lsap.css,/wp-content/mu-plugins/carousel/jetpack-carousel.css?m=1485806424j' type='text/css' media='all' />
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='jetpack-carousel-ie8fix-css'  href='https://s1.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel-ie8fix.css?m=1412618825h&#038;ver=20121024' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='https://s1.wp.com/_static/??/wp-content/js/devicepx.js,/wp-content/mu-plugins/likes/queuehandler.js?m=1470434182j'></script>
+<script type='text/javascript' src='https://pdk.theplatform.com/pdk/tpPdkController.js?ver=0.1.16'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ione3Scroll = {"post_id":"2780635","post_type":"post","is_single":"1","activated":"","nonce_single_infinite_scroll":"e3d56723d7"};
+var ione3Gallery = {"ad_frequency":"3","refresh_728":"1","refresh_300":"1","refresh_mobile_300":"3","refresh_anchor":"3","nav_delay":"","inner_ad_delay":"","ione3_gallery_nonce":"b7826bfddf","baseURL":"https:\/\/newsone.com\/2780635\/black-urban-legends-chick-fil-a-racist-against-blacks\/","gallery_type":"post"};
+var comscore = {"id":"6035391","pv":"https:\/\/newsone.com\/wp-content\/themes\/vip\/ione3\/comscore_pageview.txt"};
+var ione3Theme = {"stylesheet":"newsone","admin_bar":""};
+var ione_video_grid_settings = {"ajax_url":"https:\/\/ionenewsone.wordpress.com\/wp-admin\/admin-ajax.php","categoryid":"","max_pages":"0","current_page":"1","security":"7f36f9f680"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ioneSearch = {"ajaxUrl":"https:\/\/ionenewsone.wordpress.com\/wp-admin\/admin-ajax.php","ajaxNonce":"7bed11d9b7","baseUrl":"https:\/\/ionenewsone.wordpress.com"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcomVipAnalytics = {"is_404":"0","is_home":"0","is_single":"1","is_front_page":"0","is_archive":"0","percentToTrack":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJyVUu1OwzAMfCFSqwzE9gPxKMhLzJosHyVOysrT427qNKHRjV+x73J3thL46pVOsVAsUDoKxDDYHmyKtAIbta9GoJBM9XJOsPqwBzJqsIYSXNSN4wdYckNmKgzuZLNqgo2z5hwk5Bb1fisX/uKlrcX6Bfqaw71TvTNh1t0/pQNFkzK4z0p5VOjwoHzS6LmkjDtSGnVHN+jfcaGq3tedjQyPagp1x2yFEf1YrOaF+Wahx+9RotBM4lN8wylivrHfVf25WZgUjRjLA2QIyIWyVCoNlLM9fqMZE4e38No+rV/aTbt5bt0PkGPwBg=='></script>
+<script type='text/javascript' src='https://secure-drm.imrworldwide.com/novms/js/2/ggcmb400.js?ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var nowPlayingConfig = {"containerSelector":"#now-playing-container","playerStyle":"NOW_PLAYING_SLIM","blogName":"NEWS ONE","stationId":"0","lsap_primaryColor":"#d62a13","lsap_secondary_color":"#d62a13","lsap_text_color":"","defaultAlbumImgURL":"https:\/\/placehold.it\/100x100.png","lsap_instance_permalink":"http:\/\/player.listenlive.co\/50011"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/newsone.com\/wp-admin\/admin-ajax.php","nonce":"b1013e622e","display_exif":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"0","login_url":"https:\/\/ionenewsone.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fnewsone.com%2F2780635%2Fblack-urban-legends-chick-fil-a-racist-against-blacks%2F","blog_id":"32316340","local_comments_commenting_as":"<fieldset><label for=\"email\">Email<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>","reblog":"Reblog","reblogged":"Reblogged","reblog_add_thoughts":"Add your thoughts here... (optional)","reblogging":"Reblogging...","post_reblog":"Post Reblog","stats_query_args":"blog=32316340&v=wpcom&tz=-5&user_id=0&subd=ionenewsone","is_public":"1","reblog_enabled":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJyljk0OAiEMhS8kNPgTnYXxKIYwjYJQ6gBj5vZCIjp7V6/92vdaeLEwkTJShnzHgAlmy2Aj4Q4sGV/GikIci6/asPBJM7DXC07g6swSNLSVtZIubeDvyNZeiXvY11NHiX9H1tw9C07LR+R6q78SimBfbpYSGD3FktCDw8zaPEQH1XMJZ7U/HdWghoNyb2gAahM='></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="//stats.wp.com/w.js?56" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'32316340','blog_tz':'-5','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'32316340','v':'wpcom','tz':'-5','user_id':'0','post':'2780635','subd':'ionenewsone'}]);
+function st_vt() {var x=document.createElement("img");x.src="https://pixel.wp.com/g.gif?blog=32316340&v=wpcomvt&tz=-5&user_id=0&post=2780635&subd=ionenewsone&rand="+Math.random();}
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTdRWndQSU9QW1pBXzBuNHlUVS85UXVLb3EmZk4mR1JqZjdPdltNYWFiRmw0bCVWMXo0VTNBcH41PWFdS0lQQSxTWWZ1LiZQa0Raa1p8WzNsem5qcSVzL0d2W0F+RlFWNHM1cHNdPWpialgrS25EV1tyPTglY0QmcldfdE4mK2VQYXNiTFYmVD1SZF1+Wlc9clllMXxleDBOSF1WRz8uWnVhc08mZmQ/RFYzRzF6M3ovMEJZTUpWbGU2fmNSQmZ5bA=='}]);
+_stq.push([ 'clickTrackerInit', '32316340', '2780635' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+
+	<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script></body>
+</html>

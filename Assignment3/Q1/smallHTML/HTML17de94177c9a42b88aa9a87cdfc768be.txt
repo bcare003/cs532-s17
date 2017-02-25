@@ -1,0 +1,863 @@
+<!DOCTYPE html>
+<html lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" prefix="og: http://ogp.me/ns#">
+
+<head>
+  	<script type='text/javascript'>
+	var isMobile = /ip(hone|od|ad)|android|blackberry.*applewebkit|bb1\d.*mobile/i.test(navigator.userAgent);
+	var script = document.getElementsByTagName('script')[0];
+	
+	if (isMobile) {
+		var padsquadJs = document.createElement('script');
+		var src = "//bundle.padsquad.com/wrestlingnewsworld/production/hybrid.min.js";
+	
+		if (document.location.hash.match(/psdev/)) {
+			src = "//localhost:8080/";
+		}
+		padsquadJs.src = src;
+		padsquadJs.async = true;
+		padsquadJs.setAttribute("type", "text/javascript");
+		script.parentNode.insertBefore(padsquadJs, script);
+	}
+	</script>
+ 
+	<meta charset="UTF-8" />
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	
+	
+	
+	<link rel="shortcut icon" href="https://www.wrestlingnewsworld.com/2012/wordpress/wp-content/uploads/2016/07/3b7cb988-6af5-4454-b6a4-ef4f0d504000.png"/>	
+	<link rel="stylesheet" href="http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/themes/sensetheme/style.css">
+	
+	<link rel="pingback" href="http://www.wrestlingnewsworld.com/2012/wordpress/xmlrpc.php">
+    
+	
+	
+<!-- Social Warfare v2.2.1 http://warfareplugins.com -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Smackdown Main Event Changed To A Triple Threat Match Tonight">
+<meta name="twitter:description" content="Originally scheduled as Bray Wyatt defending his newly-won WWE Title against John Cena, that has now changed in the course of the opening segment on Smackdown! Live. After AJ Styles interrupted a Wyatt/Cena tet-a-tet, Daniel Bryan inserted him into the title match and made it a triple threat contest instead. That will take place in tonight's main event.Tonight&#39;s @WWE Championship Match has become a TRIPLE THREAT MATCH!! @WWEBrayWyatt vs. @AJStylesOrg vs. @JohnCena!! #SDLive pic.twitter.com/0V0KeqmLLc&mdash; WWE (@WWE) February 15, 2017FREE WRESTLING NEWS WORLD APP IS BACK! - App Store | Google Play">
+<meta name="twitter:image" content="https://www.wrestlingnewsworld.com/2012/wordpress/wp-content/uploads/2016/12/wwe-brand-split-social-smackdown-live-new-1.jpg">
+<meta name="twitter:site" content="@wnwnews">
+<style>@font-face {font-family: "sw-icon-font";src:url("http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/plugins/social-warfare/fonts/sw-icon-font.eot?ver=2.2.1");src:url("http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/plugins/social-warfare/fonts/sw-icon-font.eot?ver=2.2.1#iefix") format("embedded-opentype"),url("http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/plugins/social-warfare/fonts/sw-icon-font.woff?ver=2.2.1") format("woff"), url("http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/plugins/social-warfare/fonts/sw-icon-font.ttf?ver=2.2.1") format("truetype"),url("http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/plugins/social-warfare/fonts/sw-icon-font.svg?ver=2.2.1#1445203416") format("svg");font-weight: normal;font-style: normal;}</style>
+<!-- Social Warfare v2.2.1 http://warfareplugins.com -->
+
+
+<!-- This site is optimized with the Yoast SEO plugin v4.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Smackdown Main Event Changed To A Triple Threat Match Tonight</title>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://www.wrestlingnewsworld.com/smackdown-main-event-changed-triple-threat-match-tonight/" />
+<link rel="publisher" href="https://plus.google.com/105807005630593480762/"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Smackdown Main Event Changed To A Triple Threat Match Tonight" />
+<meta property="og:description" content="Originally scheduled as Bray Wyatt defending his newly-won WWE Title against John Cena, that has now changed in the course of the opening segment on Smackdown! Live. After AJ Styles interrupted a Wyatt/Cena tet-a-tet, Daniel Bryan inserted him into the title match and made it a triple threat contest instead. That will take place in tonight&#039;s main event. Tonight&#039;s @WWE Championship Match has become a TRIPLE THREAT MATCH!! @WWEBrayWyatt vs. @AJStylesOrg vs. @JohnCena!! #SDLive pic.twitter.com/0V0KeqmLLc &mdash; WWE (@WWE) February 15, 2017 FREE WRESTLING NEWS WORLD APP IS BACK! - App Store | Google Play" />
+<meta property="og:url" content="http://www.wrestlingnewsworld.com/smackdown-main-event-changed-triple-threat-match-tonight/" />
+<meta property="og:site_name" content="WrestlingNewsWorld.com" />
+<meta property="article:publisher" content="https://www.facebook.com/WrestlingNewsWorld" />
+<meta property="article:tag" content="AJ Styles" />
+<meta property="article:tag" content="Bray Wyatt" />
+<meta property="article:tag" content="John Cena" />
+<meta property="article:section" content="WWE News" />
+<meta property="article:published_time" content="2017-02-14T20:18:19-05:00" />
+<meta property="og:image" content="https://www.wrestlingnewsworld.com/2012/wordpress/wp-content/uploads/2016/12/wwe-brand-split-social-smackdown-live-new-1.jpg" />
+<meta property="og:image:width" content="650" />
+<meta property="og:image:height" content="366" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="WrestlingNewsWorld.com &raquo; Feed" href="http://www.wrestlingnewsworld.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="WrestlingNewsWorld.com &raquo; Comments Feed" href="http://www.wrestlingnewsworld.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="WrestlingNewsWorld.com &raquo; Smackdown Main Event Changed To A Triple Threat Match Tonight Comments Feed" href="http://www.wrestlingnewsworld.com/smackdown-main-event-changed-triple-threat-match-tonight/feed/" />
+<meta property="og:title" content="Smackdown Main Event Changed To A Triple Threat Match Tonight"/><meta property="og:type" content="article"/><meta property="og:url" content="http://www.wrestlingnewsworld.com/smackdown-main-event-changed-triple-threat-match-tonight/"/><meta property="og:site_name" content="WrestlingNewsWorld.com"/><meta property="og:image" content="https://www.wrestlingnewsworld.com/2012/wordpress/wp-content/uploads/2016/12/wwe-brand-split-social-smackdown-live-new-1-600x315.jpg"/>
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.wrestlingnewsworld.com\/2012\/wordpress\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='login-with-ajax-css'  href='http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/themes/sensetheme/plugins/login-with-ajax/widget.css?ver=3.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='bkswcss-css'  href='http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/plugins/short-code/css/shortcode.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='social_warfare-css'  href='http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/plugins/social-warfare/css/style.min.css?ver=2.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css-css'  href='http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/themes/sensetheme/framework/bootstrap/css/bootstrap.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fa-css'  href='http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/themes/sensetheme/css/fonts/awesome-fonts/css/font-awesome.min.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fa-snapchat-css'  href='http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/themes/sensetheme/css/fa-snapchat.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider-css'  href='http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/themes/sensetheme/css/flexslider.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='bkstyle-css'  href='http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/themes/sensetheme/css/bkstyle.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='bkresponsive-css'  href='http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/themes/sensetheme/css/responsive.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tipper-css'  href='http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/themes/sensetheme/css/jquery.fs.tipper.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='justifiedgallery-css'  href='http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/themes/sensetheme/css/justifiedGallery.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='justifiedlightbox-css'  href='http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/themes/sensetheme/css/magnific-popup.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='redux-google-fonts-bk_option-css'  href='http://fonts.googleapis.com/css?family=Oswald%3A300%2C400%2C700%7CArchivo+Narrow%3A400%2C700%2C400italic%2C700italic&#038;ver=1487642865' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.wrestlingnewsworld.com/2012/wordpress/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.wrestlingnewsworld.com/2012/wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var LWA = {"ajaxurl":"http:\/\/www.wrestlingnewsworld.com\/2012\/wordpress\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/themes/sensetheme/plugins/login-with-ajax/login-with-ajax.js?ver=3.1.5'></script>
+<link rel='https://api.w.org/' href='http://www.wrestlingnewsworld.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.wrestlingnewsworld.com/2012/wordpress/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.wrestlingnewsworld.com/2012/wordpress/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.2" />
+<link rel='shortlink' href='http://www.wrestlingnewsworld.com/?p=116506' />
+<link rel="alternate" type="application/json+oembed" href="http://www.wrestlingnewsworld.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.wrestlingnewsworld.com%2Fsmackdown-main-event-changed-triple-threat-match-tonight%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.wrestlingnewsworld.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.wrestlingnewsworld.com%2Fsmackdown-main-event-changed-triple-threat-match-tonight%2F&#038;format=xml" />
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"KHW3j1a4ZP00gX", domain:"wrestlingnewsworld.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=KHW3j1a4ZP00gX" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+        <script type="text/javascript">
+            var ajaxurl = 'https://www.wrestlingnewsworld.com/2012/wordpress/wp-admin/admin-ajax.php';
+        </script>
+    <link rel="amphtml" href="http://www.wrestlingnewsworld.com/smackdown-main-event-changed-triple-threat-match-tonight/amp/" />    
+    <style type='text/css' media="all">
+                ::selection {color: #FFF; background: #FFCC0D}
+        ::-webkit-selection {color: #FFF; background: #FFCC0D}
+         
+             p > a, p > a:hover, .single-page .article-content a:hover, .single-page .article-content a:visited, .content_out.small-post .meta .post-category, .bk-sub-menu li:hover > a,
+            #top-menu>ul>li > .sub-menu a:hover, .bk-dropdown-menu li:hover > a, .widget_tag_cloud .tagcloud a:hover, .widget-twitter .fa-twitter,
+            .widget-twitter ul.slides li .twitter-message a, .footer .searchform-wrap .search-icon i, .content_in .meta > div.post-category a,
+            .row-type .meta .post-category, #top-menu>ul>li:hover > a, .article-content li a, .article-content p a,
+            .s-post-header .meta > .post-category, .breadcrumbs .location, .footer .widget-title h3, .s-post-nav .icon i, .recommend-box .close,
+            .s-post-nav .nav-title span, .s-tags a:hover, .error-number h4, .redirect-home, .module-breaking-carousel .flex-direction-nav .flex-next, .module-breaking-carousel:hover .flex-direction-nav .flex-prev,
+            .bk-author-box .author-info .bk-author-page-contact a:hover, #comment-submit:hover, .module-feature2 .meta .post-category, 
+            .loadmore span.ajaxtext:hover, .bk-blog-content .meta .post-category, .widget-social-counter ul li .social-icon,
+            .flex-direction-nav li a, .module-feature2 .readmore a:hover, .module-blog ul li .readmore a:hover,
+            #pagination .page-numbers, .post-page-links a, input[type="submit"]:hover, .single-page .icon-play:hover, .row-type .readmore a:hover,
+            ul.forum-titles li.bbp-forum-info, #bbpress-forums li.bbp-header li.bbp-topic-title, #wp-calendar tbody td a, #wp-calendar tfoot #prev,
+            .widget-twitter .flex-direction-nav li a:hover, .widget_latest_comments .flex-direction-nav li a:hover, .woocommerce-page a.button:hover,
+            .woocommerce-page div.product form.cart .button:hover, .woocommerce-page #review_form #respond .form-submit #submit:hover, .woocommerce-page div.product div.thumbnails .flex-direction-nav li a,
+            .woocommerce-page .woocommerce-message .button:hover, .woocommerce-page input.button:hover, .woocommerce-page input.button.alt:hover,
+            .woocommerce-page .cart-collaterals .shipping_calculator h2:hover, .woocommerce-page .widget_price_filter .price_slider_amount .button:hover, .button:hover
+            ,.bbp-login-form .bbp-submit-wrapper #user-submit:hover, .widget_latest_replies .details .comment-author, .widget_recent_topics .details .comment-author a
+            ,.woocommerce-page .star-rating span, .woocommerce-page p.stars a, .woocommerce-page div.product form.cart table td .reset_variations:hover, 
+            .bk_small_cart .widget_shopping_cart .cart_list a:hover, .top-nav .bk-lwa .bk-account-info a:hover, .bk_small_cart .woocommerce.widget_shopping_cart .buttons a:hover,
+            a.bk_u_login:hover, a.bk_u_logout:hover, .bk-back-login:hover, .bk_small_cart .cart-contents:hover, .woocommerce-cart .cart-collaterals .cart_totals .woocommerce-shipping-calculator .button:hover,
+            .top-nav .bk-links-modal:hover, .bk_small_cart .cart-contents span, #main-mobile-menu .expand i, 
+            .main-nav.bk-menu-light .bk-sub-menu li > a:hover, .main-nav.bk-menu-light .bk-sub-posts .post-title a:hover, 
+            .top-bar.bk-menu-light .bk_small_cart .woocommerce.widget_shopping_cart .buttons a:hover, .woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover
+            {color: #FFCC0D}
+            
+            #top-menu>ul>li > .sub-menu, .bk-dropdown-menu, .widget_tag_cloud .tagcloud a:hover, .s-post-nav .nav-title span, .s-tags a:hover,
+            .s-post-nav .nav-title span, .bk-mega-menu, .bk-mega-column-menu, .search-loadding, #comment-submit:hover,
+            #pagination .page-numbers, .post-page-links a, .post-page-links > span, .widget-twitter .flex-direction-nav li a:hover, .widget_latest_comments .flex-direction-nav li a:hover 
+            ,#mobile-inner-header, .menu-location-title, .woocommerce-page a.button:hover, .woocommerce-page div.product form.cart .button:hover, input[type="submit"]:hover,
+            .woocommerce-page #review_form #respond .form-submit #submit:hover, .woocommerce-page .woocommerce-message .button:hover, .woocommerce-page input.button:hover,
+            .woocommerce-page .cart-collaterals .shipping_calculator h2:hover, .woocommerce-page .widget_price_filter .price_slider_amount .button:hover, .button:hover
+            ,.bbp-login-form .bbp-submit-wrapper #user-submit:hover, .bk-lwa:hover > .bk-account-info, .bk-back-login:hover, .bk_small_cart:hover #bk_small_cart_widget, 
+            .bk_small_cart .woocommerce.widget_shopping_cart .buttons a:hover, .woocommerce-cart .cart-collaterals .cart_totals .woocommerce-shipping-calculator .button:hover
+            ,.menu-location-title, #mobile-inner-header, .woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover
+            ,.main-nav.bk-menu-light .main-nav-container
+            {border-color: #FFCC0D;}
+            
+                                  
+            .widget_most_commented .comments:after 
+            {border-right-color: #FFCC0D;}  
+                        .thumb, .module-fw-slider .flex-control-nav li a.flex-active, .module-breaking-carousel .content_out.small-post .meta:after,
+            .widget_most_commented .comments, .footer .cm-flex .flex-control-paging li a.flex-active, .main-nav #main-menu .menu > li:hover, .main-nav .menu > li.current-menu-item,
+            .module-feature2 .flex-direction-nav li a:hover, #ajax-form-search, .ajax-form input,
+            .bk-review-box .bk-overlay span, .bk-score-box, .share-total, #pagination .page-numbers.current, .post-page-links > span,
+            .woocommerce span.onsale, .woocommerce-page span.onsale, .widget_display_stats dd strong, .widget_display_search .search-icon, .searchform-wrap .search-icon,
+            #bbpress-forums #bbp-search-form .search-icon, #back-top, .woocommerce-page div.product .summary .product_title span, .woocommerce-page div.product .woocommerce-tabs ul.tabs li.active, 
+            .related.products > h2 span, .woocommerce-page #reviews h3 span, .upsells.products > h2 span, .cross-sells > h2 span, .woocommerce-page .cart-collaterals .cart_totals h2 span
+            , .bbp-pagination-links a:hover, .bbp-pagination-links span.current, .module-square-grid .content_in_wrapper, .bk_tabs .ui-tabs-nav li.ui-tabs-active
+            {background-color: #FFCC0D;}
+            
+            .content_out .review-score, ::-webkit-scrollbar-thumb, ::-webkit-scrollbar-thumb:window-inactive 
+            {background-color: rgba(255,204,13,0.9);}
+            
+            .footer .cm-flex .flex-control-paging li a
+            {background-color: rgba(255,204,13,0.3);}
+            
+
+                            #page-wrap { width: auto; }
+                        
+    </style>
+        <style type="text/css" title="dynamic-css" class="options-output">#top-menu>ul>li, #top-menu>ul>li .sub-menu li, .bk_u_login, .bk_u_logout, .bk-links-modal{font-family:Oswald;font-weight:400;font-style:normal;}.main-nav #main-menu .menu > li, .main-nav #main-menu .menu > li > a, .mega-title h3, .header .logo.logo-text h1, .bk-sub-posts .post-title,
+                            .comment-box .comment-author-name, .today-date{font-family:Oswald;font-weight:400;font-style:normal;}.review-score, .bk-criteria-wrap > span{font-family:Oswald;font-weight:400;font-style:normal;}.meta, .post-category, .widget_comment .cm-header div, .module-feature2 .post-author, .comment-box .comment-time, .share-box ul li .share-item__value,.share-box .bk-share .share-item__valuem, .share-total, .loadmore span.ajaxtext, .woocommerce-page a.button, #comment-submit, 
+                            .woocommerce-page #review_form #respond .form-submit #submit, .woocommerce-page div.product form.cart .button, .woocommerce-page input.button, 
+                            .woocommerce-page .cart-collaterals .shipping_calculator .button, .woocommerce-page .cart-collaterals .shipping_calculator h2, 
+                            .woocommerce span.onsale, .woocommerce-page span.onsale, .breadcrumbs, .s-post-nav .nav-title span, .product_meta .post-tags-title,
+                            .woocommerce-page .widget_price_filter .price_slider_amount .button, .button, .woocommerce-page div.product form.cart table td select, .woocommerce-page div.product form.cart table td .reset_variations, 
+                            .bk-search-content .nothing-respond, .bk_small_cart .woocommerce.widget_shopping_cart .buttons a, .woocommerce-page div.product p.price ins, .woocommerce-cart .cart-collaterals .cart_totals .woocommerce-shipping-calculator .button {font-family:"Archivo Narrow";font-weight:400;font-style:normal;}h1, h2, h3, h4, h5, #mobile-top-menu > ul > li, #mobile-menu > ul > li, #footer-menu a, .bk-copyright, 
+                            .widget-social-counter .counter, .widget-social-counter ul li .data .subscribe, .woocommerce-page div.product .woocommerce-tabs ul.tabs li a,
+                            #bbpress-forums ul.forum-titles, .breadcrumbs .location, #bbpress-forums li.bbp-header, .woocommerce-page ul.product_list_widget li a, 
+                            .bk_small_cart .woocommerce.widget_shopping_cart .total, .bk_small_cart .widget_shopping_cart .cart_list a,
+                            .bk_tabs  .ui-tabs-nav li, .bkteamsc .team-member .member-name, .buttonsc {font-family:Oswald;font-weight:400;font-style:normal;}body, textarea, input, p, 
+                            .entry-excerpt, .comment-text, .comment-author, .article-content,
+                            .comments-area, .tag-list, .bk-mega-menu .bk-sub-posts .feature-post .menu-post-item .post-date, .comments-area small{font-family:Arial, Helvetica, sans-serif;font-weight:400;font-style:normal;}</style>    
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3156079-1', 'wrestlingnewsworld.com');
+  ga('send', 'pageview');
+
+</script></head>
+
+<body class="post-template-default single single-post postid-116506 single-format-standard">
+	
+	<div id="page-wrap" class="wide">
+        <div id="main-mobile-menu">
+            <div class="block">
+                <div id="mobile-inner-header">
+                    <a class="mobile-menu-close" href="#" title="Close"><i class="fa fa-arrow-left"></i></a>
+                </div>
+                                 
+                     <div class="top-menu">
+                        <h3 class="menu-location-title">
+                            Top Menu                        </h3>
+                    <div id="mobile-top-menu" class="menu-sub-navigation-container"><ul id="menu-sub-navigation" class="menu"><li id="menu-item-112015" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112015"><a title="WWE Smackdown" href="http://www.wrestlingnewsworld.com/raw">WWE Raw</a></li>
+<li id="menu-item-112016" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112016"><a title="WWE Smackdown" href="http://www.wrestlingnewsworld.com/wwe-smackdown">WWE Smackdown</a></li>
+<li id="menu-item-112017" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112017"><a title="Wrestling News" href="http://www.wrestlingnewsworld.com/wrestling-news/">Wrestling News</a></li>
+<li id="menu-item-167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-167"><a title="WNW Insider" href="http://www.wrestlingnewsworld.com/wnw-insider/">WNW Insider</a></li>
+<li id="menu-item-112018" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112018"><a title="MMA News" href="https://www.mmanews.co">MMA News</a></li>
+<li id="menu-item-112019" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112019"><a title="iPhone App" href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1188715434&#038;mt=8">iPhone App</a></li>
+<li id="menu-item-112020" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112020"><a title="Android App" href="https://play.google.com/store/apps/details?id=com.conduit.app_8c8da0f571c647e99b35ec31a321f296.app">Android App</a></li>
+<li id="menu-item-112023" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112023"><a href="http://www.wrestlingnewsworld.com/site-map/">Site Map</a></li>
+</ul></div>                    </div>
+                                                    <div class="main-menu">
+                        <h3 class="menu-location-title">
+                            Main Menu                        </h3>
+                        <div id="mobile-menu" class="menu-top-navigation-container"><ul id="menu-top-navigation" class="menu"><li id="menu-item-111980" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-111980"><a title="Wrestling News" href="http://www.wrestlingnewsworld.com/wrestling-news">Wrestling News</a>
+<ul class="sub-menu">
+	<li id="menu-item-111981" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111981"><a title="WWE News" href="http://www.wrestlingnewsworld.com/wnw/wwe-news/">WWE News</a></li>
+	<li id="menu-item-111982" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111982"><a title="Backstage News" href="http://www.wrestlingnewsworld.com/wnw/wnw-premium/backstage-news/">Backstage News</a></li>
+	<li id="menu-item-111983" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111983"><a title="ROH News" href="http://www.wrestlingnewsworld.com/wnw/roh/">ROH News</a></li>
+	<li id="menu-item-111984" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111984"><a title="TNA News" href="http://www.wrestlingnewsworld.com/wnw/tna-news/">TNA News</a></li>
+	<li id="menu-item-111985" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111985"><a title="GFW News" href="http://www.wrestlingnewsworld.com/wnw/global-force-wrestling/">GFW News</a></li>
+	<li id="menu-item-111986" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111986"><a title="Other News" href="http://www.wrestlingnewsworld.com/wnw/other-news/">Other News</a></li>
+</ul>
+</li>
+<li id="menu-item-111987" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-111987"><a title="WWE" href="http://www.wrestlingnewsworld.com/wwe/">WWE</a>
+<ul class="sub-menu">
+	<li id="menu-item-111988" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111988"><a title="WWE Suspensions" href="http://www.wrestlingnewsworld.com/wwe/wwe-suspensions/">WWE Suspensions</a></li>
+	<li id="menu-item-113367" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113367"><a href="http://www.wrestlingnewsworld.com/wwe-superstars-2/">WWE Superstars</a></li>
+	<li id="menu-item-113359" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113359"><a href="http://www.wrestlingnewsworld.com/how-do-you-get-in-wwe/">How Do You Get In The WWE?</a></li>
+	<li id="menu-item-111989" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111989"><a title="WWE News" href="http://www.wrestlingnewsworld.com/wnw/wwe-news/">WWE News</a></li>
+	<li id="menu-item-111994" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111994"><a href="http://www.wrestlingnewsworld.com/wnw/wwe/wwe-results/">WWE Results</a></li>
+	<li id="menu-item-111990" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111990"><a title="WWE Raw" href="http://www.wrestlingnewsworld.com/raw">WWE Raw</a></li>
+	<li id="menu-item-111991" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111991"><a href="http://www.wrestlingnewsworld.com/wwe-smackdown">WWE Smackdown</a></li>
+	<li id="menu-item-111992" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111992"><a title="WWE NXT" href="http://www.wrestlingnewsworld.com/wnw/wwe/wwe-results/wwe-nxt/">WWE NXT</a></li>
+	<li id="menu-item-111993" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111993"><a title="WWE 205 Live" href="http://www.wrestlingnewsworld.com/wnw/wwe/wwe-results/205-live/">WWE 205 Live</a></li>
+	<li id="menu-item-111995" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111995"><a href="http://www.wrestlingnewsworld.com/wnw/wwe/wwe-results/wwe-live-events/">WWE Live Events</a></li>
+	<li id="menu-item-112551" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-112551 menu-category-6"><a href="http://www.wrestlingnewsworld.com/wnw/wwe/wwe-spoilers/">WWE Spoilers</a></li>
+</ul>
+</li>
+<li id="menu-item-111996" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-111996"><a href="http://www.wrestlingnewsworld.com/wnw/wnw-premium/">WNW Premium</a>
+<ul class="sub-menu">
+	<li id="menu-item-111997" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111997"><a title="Backstage News" href="http://www.wrestlingnewsworld.com/wnw/wnw-premium/backstage-news/">Backstage News</a></li>
+	<li id="menu-item-111998" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111998"><a title="PPV Reacts" href="http://www.wrestlingnewsworld.com/wnw/wnw-premium/ppv-reacts/">PPV Reacts</a></li>
+	<li id="menu-item-111999" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111999"><a title="Signup" href="http://www.wrestlingnewsworld.com/member/signup">Signup</a></li>
+	<li id="menu-item-112000" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112000"><a title="Login" href="https://www.wrestlingnewsworld.com/member/member">Login</a></li>
+	<li id="menu-item-112001" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112001"><a href="http://www.wrestlingnewsworld.com/premium-support/">Contact Support</a></li>
+	<li id="menu-item-112002" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112002"><a href="http://www.wrestlingnewsworld.com/wnw-premium-terms-of-service/">TOS</a></li>
+	<li id="menu-item-112003" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112003"><a title="FAQ" href="http://www.wrestlingnewsworld.com/wnw-premium/frequently-asked-questions-for-wnw-premium/">FAQ</a></li>
+</ul>
+</li>
+<li id="menu-item-112010" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-112010"><a title="Blog Spot" href="http://www.wrestlingnewsworld.com/wnw/blog-spot/">Blog Spot</a>
+<ul class="sub-menu">
+	<li id="menu-item-112011" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112011"><a title="Raw is Blogged" href="http://www.wrestlingnewsworld.com/wnw/blog-spot/raw-is-blogged/">Raw is Blogged</a></li>
+	<li id="menu-item-112012" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112012"><a title="Smackdown Breakdown" href="http://www.wrestlingnewsworld.com/wnw/blog-spot/smackdown/">Smackdown Breakdown</a></li>
+	<li id="menu-item-112013" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112013"><a title="Predictions" href="http://www.wrestlingnewsworld.com/wnw/blog-spot/predictions/">Predictions</a></li>
+	<li id="menu-item-112014" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112014"><a href="http://www.wrestlingnewsworld.com/wnw/blog-spot/the-wire/">The Wire</a></li>
+</ul>
+</li>
+<li id="menu-item-112039" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-112039"><a title="Site" href="http://www.wrestlingnewsworld.com/site/">Site</a>
+<ul class="sub-menu">
+	<li id="menu-item-112040" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112040"><a title="Contact Us" href="http://www.wrestlingnewsworld.com/site/contact-us/">Contact Us</a></li>
+	<li id="menu-item-112041" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112041"><a title="Staff Listing" href="http://www.wrestlingnewsworld.com/site/staff-listing/">Staff Listing</a></li>
+	<li id="menu-item-112042" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112042"><a title="About Us" href="http://www.wrestlingnewsworld.com/site/about/">About Us</a></li>
+	<li id="menu-item-112043" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112043"><a title="Dedication" href="http://www.wrestlingnewsworld.com/site/dedication/">Dedication</a></li>
+	<li id="menu-item-112044" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112044"><a title="Site Map" href="http://www.wrestlingnewsworld.com/site-map">Site Map</a></li>
+	<li id="menu-item-112045" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112045"><a title="Privacy Policy" href="http://www.wrestlingnewsworld.com/privacy-policy">Privacy Policy</a></li>
+	<li id="menu-item-112046" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112046"><a title="Disclaimer" href="http://www.wrestlingnewsworld.com/disclaimer/">Disclaimer</a></li>
+</ul>
+</li>
+<li id="menu-item-112115" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-112115 menu-category-1837"><a href="http://www.wrestlingnewsworld.com/wnw/extras/">Extras</a></li>
+</ul></div>                    </div>
+                            </div>
+        </div>
+        <div id="page-inner-wrap">
+            <div class="page-cover mobile-menu-close"></div>
+            <div class="bk-page-header">            
+                <div class="header-wrap">
+                    <div class="top-bar ">
+                        <div class="bkwrapper container">
+                            <div class="top-nav clearfix">
+                                                                 
+                                    <div id="top-menu" class="menu-sub-navigation-container"><ul id="menu-sub-navigation-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112015"><a title="WWE Smackdown" href="http://www.wrestlingnewsworld.com/raw">WWE Raw</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112016"><a title="WWE Smackdown" href="http://www.wrestlingnewsworld.com/wwe-smackdown">WWE Smackdown</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112017"><a title="Wrestling News" href="http://www.wrestlingnewsworld.com/wrestling-news/">Wrestling News</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-167"><a title="WNW Insider" href="http://www.wrestlingnewsworld.com/wnw-insider/">WNW Insider</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112018"><a title="MMA News" href="https://www.mmanews.co">MMA News</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112019"><a title="iPhone App" href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1188715434&#038;mt=8">iPhone App</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112020"><a title="Android App" href="https://play.google.com/store/apps/details?id=com.conduit.app_8c8da0f571c647e99b35ec31a321f296.app">Android App</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112023"><a href="http://www.wrestlingnewsworld.com/site-map/">Site Map</a></li>
+</ul></div> 
+                                                                                                                				<div class="header-social">
+                					<ul class="clearfix">
+                						                							<li class="social-icon fb"><a class="bk-tipper-bottom" data-title="Facebook" href="http://www.facebook.com/WrestlingNewsWorld" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                						                						
+                						                							<li class="social-icon twitter"><a class="bk-tipper-bottom" data-title="Twitter" href="http://www.twitter.com/wnwnews" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                						                						
+                						                						
+                						                							<li class="social-icon linkedin"><a class="bk-tipper-bottom" data-title="Linkedin" href="https://www.linkedin.com/in/wnwdotcom" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                						                						
+                						                						
+                						                						
+                						                						
+                						      							
+                						                                    
+                                                                                
+                                                                                                                                                                
+                                                        							<li class="social-icon rss"><a class="bk-tipper-bottom" data-title="Rss" href="http://feeds.feedburner.com/wrestlingnewsworld/GGXT" target="_blank"><i class="fa fa-rss"></i></a></li>
+                						                    						
+                					</ul>
+                				</div>
+                
+                                  
+                            </div><!--top-nav-->
+                        </div>
+                    </div><!--top-bar-->
+                                        <div class="header container">
+                        <div class="row">
+                            <div class="col-md-12">
+                    			<div class="header-inner ">
+                        			<!-- logo open -->
+                                                                    			<div class="logo">
+                                            <a href="http://www.wrestlingnewsworld.com">
+                                                <img src="https://www.wrestlingnewsworld.com/2012/wordpress/wp-content/uploads/2016/07/wnw2016.png" alt="logo"/>
+                                            </a>
+                            			</div>
+                            			<!-- logo close -->
+                                                                                                                            <!-- header-banner open -->                             
+<center><script type="text/javascript"><!--
+ e9 = new Object();
+    e9.size = "728x90";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/WrestlingNewsWorldcom/ROS/tags.js"></script></center>
+                     
+                                			<!-- header-banner close -->
+                                                                        </div>
+                            </div>
+                        </div>
+                    </div>   
+                            		</div>
+                <!-- nav open -->
+        		<nav class="main-nav ">
+                    <div class="main-nav-inner bkwrapper container">
+                        <div class="main-nav-container clearfix ">
+                                <div class="main-nav-wrap">
+                                                                     <div class="mobile-menu-wrap">
+                                        <h3 class="menu-title">
+                                            WrestlingNewsWorld.com                                        </h3>
+                                        <a class="mobile-nav-btn" id="nav-open-btn"><i class="fa fa-bars"></i></a>  
+                                    </div>
+                                    
+                                    <div id="main-menu" class="menu-top-navigation-container"><ul id="menu-top-navigation-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-111980"><a title="Wrestling News" href="http://www.wrestlingnewsworld.com/wrestling-news">Wrestling News</a><div class="bk-dropdown-menu"><div class="bk-sub-menu-wrap"><ul class="bk-sub-menu clearfix">	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111981"><a title="WWE News" href="http://www.wrestlingnewsworld.com/wnw/wwe-news/">WWE News</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111982"><a title="Backstage News" href="http://www.wrestlingnewsworld.com/wnw/wnw-premium/backstage-news/">Backstage News</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111983"><a title="ROH News" href="http://www.wrestlingnewsworld.com/wnw/roh/">ROH News</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111984"><a title="TNA News" href="http://www.wrestlingnewsworld.com/wnw/tna-news/">TNA News</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111985"><a title="GFW News" href="http://www.wrestlingnewsworld.com/wnw/global-force-wrestling/">GFW News</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111986"><a title="Other News" href="http://www.wrestlingnewsworld.com/wnw/other-news/">Other News</a></li>
+</ul></div></div></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-111987"><a title="WWE" href="http://www.wrestlingnewsworld.com/wwe/">WWE</a><div class="bk-dropdown-menu"><div class="bk-sub-menu-wrap"><ul class="bk-sub-menu clearfix">	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111988"><a title="WWE Suspensions" href="http://www.wrestlingnewsworld.com/wwe/wwe-suspensions/">WWE Suspensions</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113367"><a href="http://www.wrestlingnewsworld.com/wwe-superstars-2/">WWE Superstars</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113359"><a href="http://www.wrestlingnewsworld.com/how-do-you-get-in-wwe/">How Do You Get In The WWE?</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111989"><a title="WWE News" href="http://www.wrestlingnewsworld.com/wnw/wwe-news/">WWE News</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111994"><a href="http://www.wrestlingnewsworld.com/wnw/wwe/wwe-results/">WWE Results</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111990"><a title="WWE Raw" href="http://www.wrestlingnewsworld.com/raw">WWE Raw</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111991"><a href="http://www.wrestlingnewsworld.com/wwe-smackdown">WWE Smackdown</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111992"><a title="WWE NXT" href="http://www.wrestlingnewsworld.com/wnw/wwe/wwe-results/wwe-nxt/">WWE NXT</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111993"><a title="WWE 205 Live" href="http://www.wrestlingnewsworld.com/wnw/wwe/wwe-results/205-live/">WWE 205 Live</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111995"><a href="http://www.wrestlingnewsworld.com/wnw/wwe/wwe-results/wwe-live-events/">WWE Live Events</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-112551 menu-category-6"><a href="http://www.wrestlingnewsworld.com/wnw/wwe/wwe-spoilers/">WWE Spoilers</a></li>
+</ul></div></div></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-111996"><a href="http://www.wrestlingnewsworld.com/wnw/wnw-premium/">WNW Premium</a><div class="bk-dropdown-menu"><div class="bk-sub-menu-wrap"><ul class="bk-sub-menu clearfix">	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111997"><a title="Backstage News" href="http://www.wrestlingnewsworld.com/wnw/wnw-premium/backstage-news/">Backstage News</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111998"><a title="PPV Reacts" href="http://www.wrestlingnewsworld.com/wnw/wnw-premium/ppv-reacts/">PPV Reacts</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111999"><a title="Signup" href="http://www.wrestlingnewsworld.com/member/signup">Signup</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112000"><a title="Login" href="https://www.wrestlingnewsworld.com/member/member">Login</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112001"><a href="http://www.wrestlingnewsworld.com/premium-support/">Contact Support</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112002"><a href="http://www.wrestlingnewsworld.com/wnw-premium-terms-of-service/">TOS</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112003"><a title="FAQ" href="http://www.wrestlingnewsworld.com/wnw-premium/frequently-asked-questions-for-wnw-premium/">FAQ</a></li>
+</ul></div></div></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-112010"><a title="Blog Spot" href="http://www.wrestlingnewsworld.com/wnw/blog-spot/">Blog Spot</a><div class="bk-dropdown-menu"><div class="bk-sub-menu-wrap"><ul class="bk-sub-menu clearfix">	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112011"><a title="Raw is Blogged" href="http://www.wrestlingnewsworld.com/wnw/blog-spot/raw-is-blogged/">Raw is Blogged</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112012"><a title="Smackdown Breakdown" href="http://www.wrestlingnewsworld.com/wnw/blog-spot/smackdown/">Smackdown Breakdown</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112013"><a title="Predictions" href="http://www.wrestlingnewsworld.com/wnw/blog-spot/predictions/">Predictions</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112014"><a href="http://www.wrestlingnewsworld.com/wnw/blog-spot/the-wire/">The Wire</a></li>
+</ul></div></div></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-112039"><a title="Site" href="http://www.wrestlingnewsworld.com/site/">Site</a><div class="bk-dropdown-menu"><div class="bk-sub-menu-wrap"><ul class="bk-sub-menu clearfix">	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112040"><a title="Contact Us" href="http://www.wrestlingnewsworld.com/site/contact-us/">Contact Us</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112041"><a title="Staff Listing" href="http://www.wrestlingnewsworld.com/site/staff-listing/">Staff Listing</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112042"><a title="About Us" href="http://www.wrestlingnewsworld.com/site/about/">About Us</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112043"><a title="Dedication" href="http://www.wrestlingnewsworld.com/site/dedication/">Dedication</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112044"><a title="Site Map" href="http://www.wrestlingnewsworld.com/site-map">Site Map</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112045"><a title="Privacy Policy" href="http://www.wrestlingnewsworld.com/privacy-policy">Privacy Policy</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112046"><a title="Disclaimer" href="http://www.wrestlingnewsworld.com/disclaimer/">Disclaimer</a></li>
+</ul></div></div></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-112115 menu-category-1837"><a href="http://www.wrestlingnewsworld.com/wnw/extras/">Extras</a></li>
+</ul></div>                                </div>
+                                <div class="ajax-search-wrap"><div id="ajax-form-search" class="ajax-search-icon"><i class="fa fa-search"></i></div><form class="ajax-form" method="get" action="http://www.wrestlingnewsworld.com"><fieldset><input id="search-form-text" type="text" class="field" name="s" autocomplete="off" value="" placeholder="Search this Site.."></fieldset></form> <div id="ajax-search-result"></div></div> 
+                        </div>    
+                    </div><!-- main-nav-inner -->       
+        		</nav>
+                <!-- nav close -->
+            </div>                
+          
+            <div class="bk-breadcrumbs-wrap bkwrapper container"><div class="breadcrumbs"><i class="fa fa-home"></i><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="http://www.wrestlingnewsworld.com/"><span itemprop="title">Home</span></a></span><span class="delim">&rsaquo;</span><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url"  href="http://www.wrestlingnewsworld.com/wnw/wwe/"><span itemprop="title">WWE</span></a></span><span class="delim">&rsaquo;</span><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url"  href="http://www.wrestlingnewsworld.com/wnw/wwe/wwe-news/"><span itemprop="title">WWE News</span></a></span><span class="delim">&rsaquo;</span><span class="current">Smackdown Main Event Changed To A Triple Threat Match Tonight</span></div></div>            
+            <!-- backtop open -->
+    		                <div id="back-top"><i class="fa fa-long-arrow-up"></i></div>
+                		<!-- backtop close -->                        <div class="single-page " itemscope itemtype="http://schema.org/Article">
+                        <div class="article-wrap bkwrapper container">
+                <div class="row bk-in-single-page bksection">
+                    <div class="main col-md-8">
+                                            <header id="bk-normal-feat" class="clearfix"><div class="s-feat-img"><img width="620" height="366" src="https://www.wrestlingnewsworld.com/2012/wordpress/wp-content/uploads/2016/12/wwe-brand-split-social-smackdown-live-new-1-620x366.jpg" class="attachment-bk620_420 size-bk620_420 wp-post-image" alt="" /></div></header><div class="s_header_wraper"><div class="s-post-header container"><h1 itemprop="headline">Smackdown Main Event Changed To A Triple Threat Match Tonight</h1><div class="meta"><div class="post-category"><a href="http://www.wrestlingnewsworld.com/wnw/wwe/wwe-news/">WWE News</a></div><div class="post-date" itemprop="datePublished">February 14, 2017</div><div class="post-author" itemprop="author">by <a href="http://www.wrestlingnewsworld.com/author/bwahl/">Brendan Wahl</a></div></div></div></div><!-- end single header -->                                            <div class="article-content clearfix" itemprop="articleBody">
+<!-- ARTICAL CONTENT -->
+                                                        <div class="nc_socialPanel swp_flatFresh swp_d_fullColor swp_i_fullColor swp_o_fullColor scale-100 scale-fullWidth" data-position="above" data-float="floatBottom" data-count="4" data-floatColor="#ffffff" data-emphasize="0"><div class="nc_tweetContainer swp_fb" data-id="3" data-network="facebook"><a rel="nofollow" target="_blank" href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.wrestlingnewsworld.com%2Fsmackdown-main-event-changed-triple-threat-match-tonight%2F" data-link="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.wrestlingnewsworld.com%2Fsmackdown-main-event-changed-triple-threat-match-tonight%2F" class="nc_tweet"><span class="iconFiller"><span class="spaceManWilly"><i class="sw sw-facebook"></i><span class="swp_share"> Share</span></span></span><span class="swp_count">7</span></a></div><div class="nc_tweetContainer twitter" data-id="2" data-network="twitter"><a rel="nofollow" target="_blank" href="https://twitter.com/share?original_referer=/&text=Smackdown+Main+Event+Changed+To+A+Triple+Threat+Match+Tonight&url=http://www.wrestlingnewsworld.com/smackdown-main-event-changed-triple-threat-match-tonight/&via=wnwnews" data-link="https://twitter.com/share?original_referer=/&text=Smackdown+Main+Event+Changed+To+A+Triple+Threat+Match+Tonight&url=http://www.wrestlingnewsworld.com/smackdown-main-event-changed-triple-threat-match-tonight/&via=wnwnews" class="nc_tweet"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw sw-twitter"></i><span class="swp_share"> Tweet</span></span></span></span></a></div><div class="nc_tweetContainer swp_reddit" data-id="4" data-network="reddit"><a rel="nofollow" target="_blank" href="https://www.reddit.com/submit?url=http://www.wrestlingnewsworld.com/smackdown-main-event-changed-triple-threat-match-tonight/&title=Smackdown+Main+Event+Changed+To+A+Triple+Threat+Match+Tonight" data-link="https://www.reddit.com/submit?url=http://www.wrestlingnewsworld.com/smackdown-main-event-changed-triple-threat-match-tonight/&title=Smackdown+Main+Event+Changed+To+A+Triple+Threat+Match+Tonight" class="nc_tweet"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw sw-reddit"></i><span class="swp_share"> Reddit</span></span></span></span></a></div><div class="nc_tweetContainer totes totesalt" data-id="5" ><span class="swp_count"><span class="swp_label">Shares</span> 7</span></div></div><p>Originally scheduled as Bray Wyatt defending his newly-won WWE Title against John Cena, that has now changed in the course of the opening segment on Smackdown! Live. After AJ Styles interrupted a Wyatt/Cena tet-a-tet, Daniel Bryan inserted him into the title match and made it a triple threat contest instead. That will take place in tonight's main event.</p>
+<blockquote class="twitter-tweet" data-lang="en">
+<p lang="en" dir="ltr">Tonight&#39;s <a href="https://twitter.com/WWE">@WWE</a> Championship Match has become a TRIPLE THREAT MATCH!! <a href="https://twitter.com/WWEBrayWyatt">@WWEBrayWyatt</a> vs. <a href="https://twitter.com/AJStylesOrg">@AJStylesOrg</a> vs. <a href="https://twitter.com/JohnCena">@JohnCena</a>!! <a href="https://twitter.com/hashtag/SDLive?src=hash">#SDLive</a> <a href="https://t.co/0V0KeqmLLc">pic.twitter.com/0V0KeqmLLc</a></p>
+<p>&mdash; WWE (@WWE) <a href="https://twitter.com/WWE/status/831673376745811968">February 15, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p><b>FREE WRESTLING NEWS WORLD APP IS BACK!</b> - <a href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1188715434&amp;mt=8"><b>App Store</b></a> | <a href="https://play.google.com/store/apps/details?id=com.conduit.app_8c8da0f571c647e99b35ec31a321f296.app"><b>Google Play</b></a></p>
+<div class="swp-content-locator"></div>                            <!-- RevContent -->   <div id="rcjsload_bd56a3"></div>
+<script type="text/javascript">
+(function() {
+var referer="";try{if(referer=document.referrer,"undefined"==typeof referer)throw"undefined"}catch(exception){referer=document.location.href,(""==referer||"undefined"==typeof referer)&&(referer=document.URL)}referer=referer.substr(0,700);
+var rcel = document.createElement("script");
+rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+rcel.type = 'text/javascript';
+rcel.src = "http://trends.revcontent.com/serve.js.php?w=61742&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth)+"&referer="+referer;
+rcel.async = true;
+var rcds = document.getElementById("rcjsload_bd56a3"); rcds.appendChild(rcel);
+})();
+</script>
+</div><!-- end article content --> 
+                    <!-- TAGS -->
+                    <div class="s-tags"><span>Tags</span><a href="http://www.wrestlingnewsworld.com/tags/aj-styles/" title="View all posts tagged AJ Styles">AJ Styles</a><a href="http://www.wrestlingnewsworld.com/tags/bray-wyatt/" title="View all posts tagged Bray Wyatt">Bray Wyatt</a><a href="http://www.wrestlingnewsworld.com/tags/john-cena/" title="View all posts tagged John Cena">John Cena</a></div><!-- NAV -->
+                     
+                                <div class="s-post-nav"><div class="nav-btn hide-nav nav-prev"><a href="http://www.wrestlingnewsworld.com/smackdown-open-thread-21417-streaming-live-results-discussion/"><span class="icon"><i class="fa fa-long-arrow-left"></i></span></a><div class="nav-c-wrap"><div class="thumb"><img width="130" height="130" src="https://www.wrestlingnewsworld.com/2012/wordpress/wp-content/uploads/2017/02/Bray-Wyatt-130x130.jpg" class="attachment-bk130_130 size-bk130_130 wp-post-image" alt="" srcset="https://www.wrestlingnewsworld.com/2012/wordpress/wp-content/uploads/2017/02/Bray-Wyatt-130x130.jpg 130w, https://www.wrestlingnewsworld.com/2012/wordpress/wp-content/uploads/2017/02/Bray-Wyatt-150x150.jpg 150w" sizes="(max-width: 130px) 100vw, 130px" /></div><div class="nav-title"><span>Previous Story</span><h3>Smackdown! Live Results (2/14/17) - The Era ...</h3></div><a class="bk-cover-link" href="http://www.wrestlingnewsworld.com/smackdown-open-thread-21417-streaming-live-results-discussion/"></a></div></div><div class="nav-btn hide-nav nav-next"><a href="http://www.wrestlingnewsworld.com/bray-wyatt-receives-custom-championship-plates/"><span class="icon"><i class="fa fa-long-arrow-right"></i></span></a><div class="nav-c-wrap"><div class="thumb"><img width="130" height="130" src="https://www.wrestlingnewsworld.com/2012/wordpress/wp-content/uploads/2017/02/Bray-Wyatt-130x130.jpg" class="attachment-bk130_130 size-bk130_130 wp-post-image" alt="" srcset="https://www.wrestlingnewsworld.com/2012/wordpress/wp-content/uploads/2017/02/Bray-Wyatt-130x130.jpg 130w, https://www.wrestlingnewsworld.com/2012/wordpress/wp-content/uploads/2017/02/Bray-Wyatt-150x150.jpg 150w" sizes="(max-width: 130px) 100vw, 130px" /></div><div class="nav-title"><span>Next Story</span><h3>Bray Wyatt Receives His Custom Championship Plates</h3></div><a class="bk-cover-link" href="http://www.wrestlingnewsworld.com/bray-wyatt-receives-custom-championship-plates/"></a></div></div></div>                                                    <!-- SHARE BOX -->
+                    <!-- AUTHOR BOX -->
+                     
+                    <meta itemprop="author" content="Brendan Wahl"><meta itemprop="headline " content="Smackdown Main Event Changed To A Triple Threat Match Tonight"><meta itemprop="datePublished" content="2017-02-14T20:18:19+00:00"><meta itemprop="image" content="https://www.wrestlingnewsworld.com/2012/wordpress/wp-content/uploads/2016/12/wwe-brand-split-social-smackdown-live-new-1.jpg"><meta itemprop="interactionCount" content="UserComments:0"/><!-- RELATED POST -->
+                    <!-- COMMENT BOX -->
+                                            <div class="comment-box clearfix">
+                            
+<div id="disqus_thread">
+    </div>
+
+<script type="text/javascript">
+var disqus_url = 'http://www.wrestlingnewsworld.com/smackdown-main-event-changed-triple-threat-match-tonight/';
+var disqus_identifier = '116506 http://www.wrestlingnewsworld.com/?p=116506';
+var disqus_container_id = 'disqus_thread';
+var disqus_shortname = 'wrestlingnewsworld';
+var disqus_title = "Smackdown Main Event Changed To A Triple Threat Match Tonight";
+var disqus_config_custom = window.disqus_config;
+var disqus_config = function () {
+    /*
+    All currently supported events:
+    onReady: fires when everything is ready,
+    onNewComment: fires when a new comment is posted,
+    onIdentify: fires when user is authenticated
+    */
+    
+    
+    this.language = '';
+        this.callbacks.onReady.push(function () {
+
+        // sync comments in the background so we don't block the page
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = '?cf_action=sync_comments&post_id=116506';
+
+        var firstScript = document.getElementsByTagName('script')[0];
+        firstScript.parentNode.insertBefore(script, firstScript);
+    });
+    
+    if (disqus_config_custom) {
+        disqus_config_custom.call(this);
+    }
+};
+
+(function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript';
+    dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+
+                        </div> <!-- End Comment Box -->
+                                        </div>
+                                        <!-- Sidebar -->
+                                        <div class="sidebar col-md-4">
+                        <aside class="sidebar-wrap stick" id="bk-single-sidebar">
+                            <aside id="execphp-30" class="widget widget_execphp">			<div class="execphpwidget"><center><p><script type="text/javascript"><!--
+ e9 = new Object();
+    e9.size = "300x250";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/WrestlingNewsWorldcom/ROS/tags.js"></script></p></center><p><center><a href="https://www.wrestlingnewsworld.com/member/signup.php">Remove Ads</a></p></center>
+</div>
+		</aside><aside id="am4login-2" class="widget widget_text"><div class="bk-header"><div class="widget-title"><h3>Login</h3></div></div>            <form name="loginform" id="loginform" action="http://www.wrestlingnewsworld.com/member/login" method="POST">
+                <p><label>Login</label><br/>
+                    <input type="text" name="amember_login" class="input" id="user_login" size="15"></p>
+                <p><label>Password</label><br/>
+                <input type="password" name="amember_pass" id="user_password" class="input" size="15"></p>
+                                <input type="hidden" name="_amember_redirect_url" value="aHR0cDovL3d3dy53cmVzdGxpbmduZXdzd29ybGQuY29tL3NtYWNrZG93bi1tYWluLWV2ZW50LWNoYW5nZWQtdHJpcGxlLXRocmVhdC1tYXRjaC10b25pZ2h0Lw==">
+                                <p class="submit">
+                    <input type="submit" name="wp-submit" id="wp-submit" value="Login">
+                </p>
+        </form>
+            <p>                <a href="https://www.wrestlingnewsworld.com/member/login/">Lost Password</a></p>
+</aside><aside id="bk_slider-2" class="widget widget_slider">            <div class="widget-title-wrap">
+                <div class="bk-header"><div class="widget-title"><h3>Extras</h3></div></div>            </div>
+        		<div class="flexslider">
+			<ul class="slides">
+								                        		
+                        <li class="content_in">
+                            <div class='thumb hide-thumb'>
+                                <a href="http://www.wrestlingnewsworld.com/alexa-bliss-winning-wwe-smackdown-womens-championship/">
+                                    <img width="350" height="320" src="https://www.wrestlingnewsworld.com/2012/wordpress/wp-content/uploads/2016/12/Screenshot-2016-12-04-22.03.10-350x320.png" class="attachment-bk350_320 size-bk350_320 wp-post-image" alt="" />                                </a>
+                            </div>
+                            <div class="post-c-wrap">
+                                <div class="inner">
+                                    <div class="inner-cell">   
+                                        <div class="innerwrap"> 
+                                            <h4 class="title">
+                                                <a href="http://www.wrestlingnewsworld.com/alexa-bliss-winning-wwe-smackdown-womens-championship/">
+                                            		Alexa Bliss Before Winning WWE Smackdown Women&#039;s Championship                                                </a>
+                                            </h4>
+                                            <div class="meta">
+                                                <div class="post-category">
+                                                    <a href="http://www.wrestlingnewsworld.com/wnw/extras/">Extras</a>                                                </div>
+                                                <div class="post-date">
+                                                    December 4, 2016                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <a class="bk-cover-link" href="http://www.wrestlingnewsworld.com/alexa-bliss-winning-wwe-smackdown-womens-championship/"></a>	
+						</li>	
+                    																				
+				                        		
+                        <li class="content_in">
+                            <div class='thumb hide-thumb'>
+                                <a href="http://www.wrestlingnewsworld.com/cody-rhodes-shows-off-dream-tattoo/">
+                                    <img width="350" height="320" src="https://www.wrestlingnewsworld.com/2012/wordpress/wp-content/uploads/2016/11/CyKO-ICXAAE-oux-350x320.jpg" class="attachment-bk350_320 size-bk350_320 wp-post-image" alt="" />                                </a>
+                            </div>
+                            <div class="post-c-wrap">
+                                <div class="inner">
+                                    <div class="inner-cell">   
+                                        <div class="innerwrap"> 
+                                            <h4 class="title">
+                                                <a href="http://www.wrestlingnewsworld.com/cody-rhodes-shows-off-dream-tattoo/">
+                                            		Cody Rhodes Shows Off &#039;Dream&#039; Tattoo                                                </a>
+                                            </h4>
+                                            <div class="meta">
+                                                <div class="post-category">
+                                                    <a href="http://www.wrestlingnewsworld.com/wnw/extras/">Extras</a>                                                </div>
+                                                <div class="post-date">
+                                                    December 3, 2016                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <a class="bk-cover-link" href="http://www.wrestlingnewsworld.com/cody-rhodes-shows-off-dream-tattoo/"></a>	
+						</li>	
+                    																				
+				                        		
+                        <li class="content_in">
+                            <div class='thumb hide-thumb'>
+                                <a href="http://www.wrestlingnewsworld.com/ufc-octagon-girls/">
+                                    <img width="350" height="320" src="https://www.wrestlingnewsworld.com/2012/wordpress/wp-content/uploads/2016/12/Screenshot-2016-12-10-21.29.53-350x320.png" class="attachment-bk350_320 size-bk350_320 wp-post-image" alt="" />                                </a>
+                            </div>
+                            <div class="post-c-wrap">
+                                <div class="inner">
+                                    <div class="inner-cell">   
+                                        <div class="innerwrap"> 
+                                            <h4 class="title">
+                                                <a href="http://www.wrestlingnewsworld.com/ufc-octagon-girls/">
+                                            		UFC Octagon Girls                                                </a>
+                                            </h4>
+                                            <div class="meta">
+                                                <div class="post-category">
+                                                    <a href="http://www.wrestlingnewsworld.com/wnw/extras/">Extras</a>                                                </div>
+                                                <div class="post-date">
+                                                    December 10, 2016                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <a class="bk-cover-link" href="http://www.wrestlingnewsworld.com/ufc-octagon-girls/"></a>	
+						</li>	
+                    																				
+				                        		
+                        <li class="content_in">
+                            <div class='thumb hide-thumb'>
+                                <a href="http://www.wrestlingnewsworld.com/randy-orton-rkos-christmas-tree/">
+                                    <img width="350" height="320" src="https://www.wrestlingnewsworld.com/2012/wordpress/wp-content/uploads/2016/12/IMG_467411-350x320.jpg" class="attachment-bk350_320 size-bk350_320 wp-post-image" alt="" />                                </a>
+                            </div>
+                            <div class="post-c-wrap">
+                                <div class="inner">
+                                    <div class="inner-cell">   
+                                        <div class="innerwrap"> 
+                                            <h4 class="title">
+                                                <a href="http://www.wrestlingnewsworld.com/randy-orton-rkos-christmas-tree/">
+                                            		Randy Orton RKOs A Christmas Tree                                                </a>
+                                            </h4>
+                                            <div class="meta">
+                                                <div class="post-category">
+                                                    <a href="http://www.wrestlingnewsworld.com/wnw/extras/">Extras</a>                                                </div>
+                                                <div class="post-date">
+                                                    December 6, 2016                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <a class="bk-cover-link" href="http://www.wrestlingnewsworld.com/randy-orton-rkos-christmas-tree/"></a>	
+						</li>	
+                    																				
+				                        		
+                        <li class="content_in">
+                            <div class='thumb hide-thumb'>
+                                <a href="http://www.wrestlingnewsworld.com/miz-celebrates-maryse-backstage/">
+                                    <img width="350" height="320" src="https://www.wrestlingnewsworld.com/2012/wordpress/wp-content/uploads/2016/12/Screenshot-2016-12-04-22.01.25-350x320.png" class="attachment-bk350_320 size-bk350_320 wp-post-image" alt="" />                                </a>
+                            </div>
+                            <div class="post-c-wrap">
+                                <div class="inner">
+                                    <div class="inner-cell">   
+                                        <div class="innerwrap"> 
+                                            <h4 class="title">
+                                                <a href="http://www.wrestlingnewsworld.com/miz-celebrates-maryse-backstage/">
+                                            		The Miz Celebrates With Maryse Backstage                                                </a>
+                                            </h4>
+                                            <div class="meta">
+                                                <div class="post-category">
+                                                    <a href="http://www.wrestlingnewsworld.com/wnw/extras/">Extras</a>                                                </div>
+                                                <div class="post-date">
+                                                    December 4, 2016                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <a class="bk-cover-link" href="http://www.wrestlingnewsworld.com/miz-celebrates-maryse-backstage/"></a>	
+						</li>	
+                    																				
+							</ul>
+		</div>			
+		</aside><aside id="execphp-20" class="widget widget_execphp">			<div class="execphpwidget"><center><script type="text/javascript"><!--
+ e9 = new Object();
+    e9.size = "160x600";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/WrestlingNewsWorldcom/ROS/tags.js"></script>
+</center>
+</div>
+		</aside><aside id="bk_facebook-2" class="widget widget-facebook">            <div class="widget-title-wrap">
+                <div class="bk-header"><div class="widget-title"><h3>Like Us On Facebook!</h3></div></div>            </div>
+        		
+		<div class="fb-container">
+			<div id="fb-root"></div>
+                <script>(function(d, s, id) {
+                  var js, fjs = d.getElementsByTagName(s)[0];
+                  if (d.getElementById(id)) return;
+                  js = d.createElement(s); js.id = id;
+                  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=1385724821660962";
+                  fjs.parentNode.insertBefore(js, fjs);
+                }(document, 'script', 'facebook-jssdk'));</script>
+                <div class="fb-page" data-href="https://www.facebook.com/WrestlingNewsWorld" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"></div>            
+		</div>
+		</aside><aside id="bk_social_counter-2" class="widget widget-social-counter"><div class="bk-header"><div class="widget-title"><h3>Follow Us</h3></div></div>		<div class="wrap clearfix">
+			<ul class="clearfix">
+											
+									<li class="twitter clear-fix">
+                        <a target="_blank" href="http://twitter.com/wnwnews">
+    						<div class="social-icon"><i class="fa fa-twitter"></i></div>
+    						<div class="data">
+    							<div class="counter">24863</div>
+    							<div class="text">Followers</div>
+    						</div>
+                        </a>
+					</li> <!-- /twitter -->
+								
+				                
+								
+				                
+                                
+                                
+                                                 					<li class="rss clear-fix">
+                        <a target="_blank" href="http://feeds.feedburner.com/wrestlingnewsworld/GGXT">
+					    	<div class="social-icon"><i class="fa fa-rss"></i></div>
+    						<div class="data">
+    							<div class="subscribe">Subscribe</div>
+    							<div class="text">RSS Feeds</div>		
+    						</div>	
+                        </a>			
+					</li>
+								
+			</ul>
+				
+		</div><!-- /wrap -->			
+		</aside>                        </aside>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+    
+	    		            
+            <div class="footer">
+                   
+                                <div class="footer-content bkwrapper clearfix container">
+                    <div class="row">
+                        <div class="footer-sidebar col-md-4">
+                                                    </div>
+                        <div class="footer-sidebar col-md-4">
+                            <aside id="text-27" class="widget widget_text"><div class="bk-header"><div class="widget-title"><h3>Free Wrestling News World App</h3></div></div>			<div class="textwidget"><center><a href=https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1188715434&mt=8><img src=http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/uploads/2016/12/ios-app.png></a> <a href=https://play.google.com/store/apps/details?id=com.conduit.app_8c8da0f571c647e99b35ec31a321f296.app><img src=http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/uploads/2016/12/google-play.png></a></center></div>
+		</aside>                        </div>
+                        <div class="footer-sidebar col-md-4">
+                                                    </div>
+                    </div>
+                </div>
+<center><script type="text/javascript"><!--
+ e9 = new Object();
+    e9.size = "728x90";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/WrestlingNewsWorldcom/ROS/tags.js"></script></center>
+                <div class="footer-lower">
+                    <div class="container">
+                        <div class="footer-inner clearfix">
+                             
+                                <div id="footer-menu" class="menu-top-navigation-container"><ul id="menu-top-navigation-2" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-111980"><a title="Wrestling News" href="http://www.wrestlingnewsworld.com/wrestling-news">Wrestling News</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-111987"><a title="WWE" href="http://www.wrestlingnewsworld.com/wwe/">WWE</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-111996"><a href="http://www.wrestlingnewsworld.com/wnw/wnw-premium/">WNW Premium</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-112010"><a title="Blog Spot" href="http://www.wrestlingnewsworld.com/wnw/blog-spot/">Blog Spot</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-112039"><a title="Site" href="http://www.wrestlingnewsworld.com/site/">Site</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-112115 menu-category-1837"><a href="http://www.wrestlingnewsworld.com/wnw/extras/">Extras</a></li>
+</ul></div>  
+                              
+                            <div class="bk-copyright">Copyright 1999-2017 Gray Internet Technologies, LLC. Make sure to check out our <a href="https://www.mmanews.co">MMA News</a> partner at MMANews.co</div>
+                        </div>
+                    </div>
+                </div>
+                			  
+			  
+                
+    		</div>
+        </div> <!-- Close Page inner Wrap -->
+
+	</div> <!-- Close Page Wrap -->
+                <script type="text/javascript">
+        // <![CDATA[
+        var disqus_shortname = 'wrestlingnewsworld';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1 && nodes[i].parentNode.tagName == 'A') {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) { url = url[0]; }
+                    else { url = url[1]; }
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+        // ]]>
+        </script>
+        <script type='text/javascript' src='http://www.wrestlingnewsworld.com/2012/wordpress/wp-includes/js/comment-reply.min.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/plugins/short-code/js/shortcode.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/plugins/social-warfare/js/script.min.js?ver=2.2.1'></script>
+<script type='text/javascript' src='http://www.wrestlingnewsworld.com/2012/wordpress/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.wrestlingnewsworld.com/2012/wordpress/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.wrestlingnewsworld.com/2012/wordpress/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.wrestlingnewsworld.com/2012/wordpress/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/themes/sensetheme/js/cookie.min.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/themes/sensetheme/js/imagesloaded.pkgd.min.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/themes/sensetheme/js/jquery.flexslider.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/themes/sensetheme/js/froogaloop2.min.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/themes/sensetheme/js/modernizr.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/themes/sensetheme/js/onviewport.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/themes/sensetheme/js/justifiedGallery.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/themes/sensetheme/js/jquery.magnific-popup.min.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/themes/sensetheme/js/masonry.pkgd.min.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/themes/sensetheme/js/module-load-post.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/themes/sensetheme/js/jquery.fitvids.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/themes/sensetheme/js/jquery.fs.tipper.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/themes/sensetheme/js/SmoothScroll.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/themes/sensetheme/js/menu.js?ver=4.7.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var justified_ids = [];
+var fixed_nav = "2";
+var customconfig = null;
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/themes/sensetheme/js/customjs.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.wrestlingnewsworld.com/2012/wordpress/wp-includes/js/wp-embed.min.js?ver=4.7.2'></script>
+<script type="text/javascript"> swpPinIt={"enabled":false};var swpClickTracking = false; var swp_nonce = "9a5bf37b59";		swp_admin_ajax = 'https://www.wrestlingnewsworld.com/2012/wordpress/wp-admin/admin-ajax.php';
+		var swp_buttons_exist = !!document.getElementsByClassName( 'nc_socialPanel' );
+		if ( swp_buttons_exist ) {
+			jQuery( document ).ready( function() {
+				var swp_cache_data = {
+					'action': 'swp_cache_trigger',
+					'post_id': 116506				};
+				jQuery.post( swp_admin_ajax, swp_cache_data, function( response ) {
+					console.log(response);
+				});
+			});
+			swp_post_id='116506';
+			swp_post_url='http://www.wrestlingnewsworld.com/smackdown-main-event-changed-triple-threat-match-tonight/';
+			swp_post_recovery_url = '';
+			socialWarfarePlugin.fetchShares();
+		}
+		</script>
+<!-- advertising imBjfuIgvEpiVffXqRZu90Wli3CNPbBjHMJrO2lPKKc=-->
+                                                             <script type="text/javascript">
+                                                             (function (document, window) {
+                var c = document.createElement("script");
+                c.type = "text/javascript";
+                c.async = !0;
+                c.src = "//megapopads.com/scripts/7dff63ac5c2873ee418d9e9c853373d2.min.js?20150824=" + Math.floor((new Date).getTime());
+                var a = !1;
+                try {
+                    a = parent.document.getElementsByTagName("script")[0] || document.getElementsByTagName("script")[0];
+                } catch (e) {
+                    a = !1;
+                }
+                a || ( a = document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]);
+                a.parentNode.insertBefore(c, a);
+            })(document, window);
+                                </script>
+                               <!-- end advertising -->
+</body>
+
+</html>
