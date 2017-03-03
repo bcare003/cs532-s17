@@ -1,0 +1,3 @@
+The mean number of friends is  354.811688312
+The median number of friends is  257.0
+The standard deviation of the number of friends is  372.706665388
