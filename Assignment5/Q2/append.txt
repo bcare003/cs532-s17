@@ -1,0 +1,15 @@
+After further thought, I realized that Dr. Nelson would probably want an analysis of problem 2, 
+in addition to the graphs generated and what exactly they mean.When the group is split into three,
+10 becomes isolated by itself as it is the most loosely linked component in the graph in terms of 
+the connections to the other nodes. Within the group centralized around 1 there is a visual divide-
+one link holding 1 and 11 toghther. This was a clear indicator to me of where the next divide would occur.
+
+Upon splitting into four, my suspicion was confirmed. The graph indeed split where I had predicted. The exact
+same phenomenon occured with nodes 3 and 9. From this I could predict the next split. The final group listings
+will be 1{2,4, 8, 12, 13, 14, 18, 20, 22}, 34{9, 15, 19, 21, 23, 24, 27, 30, 33}, {5, 6, 7, 11, 17}, 
+{3, 25, 26, 28, 29, 32}, & {10}.
+
+After conducting the final split my prediction was once again proved correct. Within each graph there were several
+clusters, and each split using edge betweenness elimanted the most loosely connected nodes. This resulted in the
+individuals who weren't as close to other members of the club to become more isolated with each split.
+
