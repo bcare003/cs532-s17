@@ -1,0 +1,17 @@
+Question2 revisions
+
+Q2: -4
+
+way too many details left out here.  where is your code to
+get the follower info?  what is your twitter account?
+there is no way to verify any of this.  upload your code
+and your account info and I'll give the points back.
+
+I don't see you on this graph either.
+
+Explanation: In my report I noted that I had acquired exactly 50 followers on my 
+twitter account, bryancarey432. Since 50 was a small enough number, and it was not 
+specified how we were to do so, I simply went through my followers manually and typed 
+up a .txt file, followers.txt. with the number of followers each of my followers had.
+I chose to do so because of the low volume of followers, and in my mind it was much 
+quicker to do so than creating a program to do so.
