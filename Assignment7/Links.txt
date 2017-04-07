@@ -1,0 +1,5 @@
+http://stackoverflow.com/questions/14899506/displaying-better-error-message-than-no-json-object-could-be-decoded
+http://stackoverflow.com/questions/3949226/calculating-pearson-correlation-and-significance-in-python
+https://grouplens.org/datasets/movielens/100k/
+http://stackoverflow.com/questions/6483611/python-typeerror-required-argument-source-pos-1-not-found
+http://jsonlint.com/
