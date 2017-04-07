@@ -48,13 +48,13 @@ def HighLowRatings():
         dict['user_id'] = user['user_id']
         for movie in user['movie_details']:
             if movie['movie_rating'] == '5' or movie['movie_rating'] == '4':
-                dict['type'] = 'Top Rated'
+                dict['type'] = 'High Rating'
                 dict['movie_id'] = movie['movie_id']
                 dict['movie_name'] = movie['movie_name']
                 dict['movie_rating'] = movie['movie_rating']
                 f1.write(json.dumps(dict) + ',\n')
             if movie['movie_rating'] == '1':
-                dict['type'] = 'Least Rated'
+                dict['type'] = 'Low Rating'
                 dict['movie_id'] = movie['movie_id']
                 dict['movie_name'] = movie['movie_name']
                 dict['movie_rating'] = movie['movie_rating']
