@@ -1,0 +1,1 @@
+The blog I chose was http://top10000s.blogspot.com/
